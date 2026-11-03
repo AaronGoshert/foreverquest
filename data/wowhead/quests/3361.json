@@ -1,0 +1,241 @@
+{
+ "id": 3361,
+ "name": "A Refugee's Quandary",
+ "level": 3,
+ "reqlevel": 3,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 250,
+ "start": {
+  "type": "npc",
+  "id": 8416,
+  "name": "Felix Whindlebolt",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    28.4,
+    67.6
+   ],
+   [
+    28.6,
+    67.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 8416,
+  "name": "Felix Whindlebolt",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    28.4,
+    67.6
+   ],
+   [
+    28.6,
+    67.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring Felix's Box , Felix's Chest and Felix's Bucket of Bolts to Felix Whindlebolt in Anvilmar. Felix's Box  ( 1 ) Felix's Chest  ( 1 ) Felix's Bucket of Bolts  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 10438,
+   "name": "Felix's Box",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 8416,
+   "name": "Felix Whindlebolt",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 16313,
+   "name": "Felix's Chest",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 16314,
+   "name": "Felix's Bucket of Bolts",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Felix's Box",
+   "count": 1,
+   "type": "item",
+   "id": 10438
+  },
+  {
+   "text": "Felix's Chest",
+   "count": 1,
+   "type": "item",
+   "id": 16313
+  },
+  {
+   "text": "Felix's Bucket of Bolts",
+   "count": 1,
+   "type": "item",
+   "id": 16314
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 8416,
+   "name": "Felix Whindlebolt",
+   "coord": [
+    28.4,
+    67.6
+   ],
+   "coords": [
+    [
+     28.4,
+     67.6
+    ],
+    [
+     28.6,
+     67.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 8416,
+   "name": "Felix Whindlebolt",
+   "coord": [
+    28.4,
+    67.6
+   ],
+   "coords": [
+    [
+     28.4,
+     67.6
+    ],
+    [
+     28.6,
+     67.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": [
+  {
+   "rating": 107,
+   "date": "2006-05-13T15:32:39-05:00",
+   "body": "Bucket of bolts : 26,79 ; outside the troll cave which is south of anvilmar.\n\nChest : 22,79 ; just west of where you found the bucket of bolts, near the campfire.\n\nBox : 20,76 ; northwest from where you found the chest.",
+   "replies": [
+    "at the campfire where you find the box (farther west of troll cave)"
+   ]
+  },
+  {
+   "rating": 62,
+   "date": "2006-11-16T06:42:55-06:00",
+   "body": "Bucket of Bolts: 26, 79 ; outside the troll cave which is south of Anvilmar. https://www.wowhead.com/forever/object=178085\n\nChest: 22, 79 ; just west of where you found the bucket of bolts, near the campfire. https://www.wowhead.com/forever/object=178084\n\nBox: 20, 76 ; northwest from where you found the chest. https://www.wowhead.com/forever/object=148499",
+   "replies": []
+  },
+  {
+   "rating": 45,
+   "date": "2006-06-19T03:32:39-05:00",
+   "body": "Collect the trhee items:\n\n[b]Felix's Box[/b] : 21,76 Next to the Drums\n[b]Felix's Chest[/b] : 23,80 at Campfire\n[b]Felix's Bucket of Bolts[/b] : 26,79 At caves's campfire",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2007-01-24T03:32:39-06:00",
+   "body": "20,76 for the Box\n22,79 for the Chest\n26,79 for the Bolts\n\nOne in each of the trolls campsites, by the campfires.\n\nGood luck,\n\n~~~Fyn~~~",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-08-31T03:32:39-05:00",
+   "body": "I was confused about this when i first started the game but they are ground spawns in the three troll camps. Just clear the camps (go conter-clockwise around the valley from anvilmar) and loot right click on them to take. The last one is outside a cave, which is the same cave you need for the quest The Troll Cave and Grelin Whitebeard's Journal (or something like those names).",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2004-11-13T20:26:15-06:00",
+   "body": "The items can be found in 3 camps. Start at the Troll Cave and work your way south. Each camp has a item that needs to be open.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-28T20:02:38-05:00",
+   "body": "how do u find out the cordinates in the game... plz email me at Game_Expert@insightbb.com",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-21T17:22:43-05:00",
+   "body": "Can some1 tell me how to get the coords? my email is ilikeyoda77@yahoo.com",
+   "replies": [
+    "This is the most 2007 comment ever.",
+    "Way to help out a new player."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-11-20T14:34:22-06:00",
+   "body": "BOLTS = 26,79\nCHEST = 22,79\nBOX   = 20,76",
+   "replies": [
+    "Loc's coords are dead-on! Thanks.",
+    "How do you use coordinates in game? send a reply to sandfordk@gmail.com please, i prolly won't remember to come here."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2004-11-12T15:03:44-06:00",
+   "body": "Found these just out side the trogg cavern entrance in a red-pink barrel like containter that you have to open.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-05-01T19:58:13-05:00",
+   "body": "The quest says trogg but its all about trolls",
+   "replies": [
+    "But if you read it it says \"It was the trolls that got them\"  :)"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2004-11-17T17:55:14-06:00",
+   "body": "I have the bolts (from the cavern entrance, and the chest, (one of the two southern camps). I left the area to see Ironforge and Stormhammer, and I forgot which camp has the box... and which camp I went to.\n\nEdited, Wed Nov 17 12:24:23 2004",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2004-11-27T02:27:11-06:00",
+   "body": "The best way is to just hit the Troll Cave first.. then turn right (if you are stand look at the cave entrance) and travel along the mountain ridge. The next piece is sit close to two trolls.. I would suggest to pull the one on the right and then next the one standing in front of the second piece, lastly the one standing to the left of the box.*second piece*.. Once that is clear you have.. Be careful of respawn.. \nThen third and final piece is kinda of easy, stay to the right of the final piece and pull and kill each troll standing around it and get the final piece.. *again watch for respawn* \nI had no problems at 4th lvl Pally.\n\nHope this helps..",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2004-11-30T18:30:37-06:00",
+   "body": "Start at the cave and head WEST not south... the cave has the Bots, the one just to the west has the chest and the 2nd to the west has the box.",
+   "replies": []
+  }
+ ]
+}

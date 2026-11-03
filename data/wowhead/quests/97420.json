@@ -1,0 +1,82 @@
+{
+ "id": 97420,
+ "name": "Reduce, Reuse, Reconcile",
+ "level": 36,
+ "reqlevel": 31,
+ "side": 1,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2800,
+ "start": null,
+ "end": null,
+ "patch": "1.60.1.70235",
+ "objectiveText": "Acquire 5 Drums of Crude Oil from the Venture Co. operations at Lake Nazferiti, then return to Knaz Blunderflame in Stranglethorn Vale . Drum of Crude Oil  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 277986,
+   "name": "Drums of Crude Oil",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Drum of Crude Oil",
+   "count": 5,
+   "type": "item",
+   "id": 277986
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1097,
+   "name": "Venture Co. Mechanic",
+   "coord": [
+    42.4,
+    18.4
+   ],
+   "coords": [
+    [
+     28.6,
+     8.2
+    ],
+    [
+     28.8,
+     7.4
+    ],
+    [
+     42.4,
+     18.4
+    ],
+    [
+     42.4,
+     18.6
+    ],
+    [
+     42.6,
+     18.4
+    ],
+    [
+     42.6,
+     18.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-09T19:53:03-05:00",
+   "body": "Reduce, reuse, ecyce",
+   "replies": []
+  }
+ ]
+}

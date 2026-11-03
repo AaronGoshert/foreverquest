@@ -1,0 +1,207 @@
+{
+ "id": 1044,
+ "name": "Answered Questions",
+ "level": 30,
+ "reqlevel": 25,
+ "side": 1,
+ "zoneId": 331,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 3050,
+ "start": {
+  "type": "npc",
+  "id": 661,
+  "name": "Jonathan Carevin",
+  "zone": "Duskwood",
+  "zoneId": 10,
+  "coords": [
+   [
+    75.2,
+    48.4
+   ],
+   [
+    75.2,
+    48.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 8026,
+  "name": "Thyn'tel Bladeweaver",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    61.8,
+    37.8
+   ],
+   [
+    61.8,
+    39.4
+   ],
+   [
+    61.8,
+    39.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Return to Thyn'tel Bladeweaver in Darnassus.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 8026,
+   "name": "Thyn'tel Bladeweaver",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  1022,
+  1037,
+  1038,
+  1039,
+  1040,
+  1041,
+  1042,
+  1043,
+  1044
+ ],
+ "points": [
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "start",
+   "type": 1,
+   "id": 661,
+   "name": "Jonathan Carevin",
+   "coord": [
+    75.2,
+    48.8
+   ],
+   "coords": [
+    [
+     75.2,
+     48.4
+    ],
+    [
+     75.2,
+     48.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 8026,
+   "name": "Thyn'tel Bladeweaver",
+   "coord": [
+    61.8,
+    39.4
+   ],
+   "coords": [
+    [
+     61.8,
+     37.8
+    ],
+    [
+     61.8,
+     39.4
+    ],
+    [
+     61.8,
+     39.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 124,
+   "date": "2006-06-21T14:57:00-05:00",
+   "body": "The creatures known as Worgen physically resemble folkloric werewolves. They were first summoned into the world of Azeroth by a Night Elf known as Valinda Starsong, after discovering an artifact called the Scythe of Elune. With it, she was able to call the Worgen into the world under her command. She used them to fight the corruption of the Burning Legion in Felwood, but, eventually, the Scythe worked on its own, calling more and more Worgen to Azeroth. Valinda lost the Scythe, and it was eventually rediscovered in Duskwood by a Defias henchman known as Jitters. This summoned the Worgen into the area, creating one of the area's major infestations of evil. Jitters also witnessed the butchering of a farming family by creatures known as Dark Riders, who are rumored to live and be controlled by a dark master in the ruined tower of Karazhan. This master is seeking the Scythe, no doubt to call forth an army of the wolfmen.\n\nA second influx of Worgen was summoned by the archmage Arugal during the beginnings of the Scourge in Lordaeron. Arugal intended to use the worgen as a tool to fight the Scourge, which proved to be successful, for a time. Ultimately, Arugal's magic was far too weak to control the Worgen fully, causing them to break free and wildly kill his countrymen. Arugal's failure and guilt over the death of his friends led to madness, as he began to think of himself as the \"father\" of the Worgen. His most recent experimentation has lead to a town near to Shadowfang Keep to be infected with a curse that causes the human residents of the town to change into deadly Worgen at night.\n\n - wikipedia\n - This is prolly as much as we'll know or ever need to know about the Worgen.&nbsp; Kill em & skin em.\n\n[url=http://upload.wikimedia.org/wikipedia/en/4/4a/Warcraft_Worgen.jpg]http://upload.wikimedia.org/wikipedia/en/4/4a/Warcraft_Worgen.jpg[/url]",
+   "replies": [
+    "We're all interested in knowing where the sythe is. \n\nThere should be a Lv70 follow up quest in Karazahn where we find the scythe... or maybe the scythe as a quest starter item off the last boss, sorta like Ony head, C'thun's carapace, or Kel'thuzad's phylactery shard."
+   ]
+  },
+  {
+   "rating": 37,
+   "date": "2007-03-10T16:59:35-06:00",
+   "body": "... So in all this the question was never answered: What happened to the Scythe of Elune?",
+   "replies": [
+    "Jitters has(or had, idunno) it.",
+    "This quest line was originally intended as the alliance introduction to SFK, but unfortunately Blizzard screwed up at some point and made it end well past SFK's level range, so it just ends awkwardly.  Where the Scythe is now is never explicitly stated, but there's a lot of things that point toward Arugal as a possibility.  WoWWiki stuff on it: http://www.wowwiki.com/Scythe_of_Elune"
+   ]
+  },
+  {
+   "rating": 16,
+   "date": "2006-05-16T02:57:00-05:00",
+   "body": "Completed 6 May 2006.\nI chose the wand as a quest reward, since Enchantrix claimed it DE'ed as Greater Magic Essense or a shard.&nbsp; &nbsp; Bad data, just got Soul Dust for it.&nbsp; Oh well.\nOnly reason I went through it, was the story line.&nbsp; I suspect we'll see more about the Scythe of Elune, and origins of the Worgen in coming days.\nQuestions that were left UN-Answered are: What world are the Worgen from?&nbsp; Who has the Scythe?&nbsp; And what diverted the pristess from going to Arugal's keep, and made her go to Duskwood?\nCan anyone post the quests that are related to the Scythe?&nbsp; There's the Darkshire and Ashenvale ones, and someone mentioned a line of quests in Lakeshire (from who?), so there's probably a few more quest chains out there.",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2005-10-09T02:57:00-05:00",
+   "body": "[b]not quest related[/b]\n\n\"[i]Elune[/i]\" is mentioned in a book you can read on a bedside table in Booty Bay at 28,77. The book is called [u]The Sentinels and the Long Vigil[/u].",
+   "replies": [
+    "That is so cool, Nervid. Many thanks. Who knew that goblins were literate?"
+   ]
+  },
+  {
+   "rating": 13,
+   "date": "2005-01-17T07:36:29-06:00",
+   "body": "3050 XP at level 35.",
+   "replies": [
+    "3050 at level 30 also.",
+    "Only 310 XP at level 60 ... ;-)",
+    "I thought u got money instead of XP at lev 60?",
+    "You didn't on Oct 15, 2005.",
+    "As of 2007, the Burning Crusade expansion pack opened up and went from 60 to 70 cap. When your at 70 cap I'm sure it's all money."
+   ]
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-09T02:57:00-05:00",
+   "body": "The Scythe of Elune is also mentioned in some redridge quests. It is the source of conflict between the orcs of stonewatch and the shadowhide gnolls, according to the Wizard of Azora.\n\nSee quests related to Morganth.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-09T02:57:00-05:00",
+   "body": "61,39",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-12-21T02:57:00-06:00",
+   "body": "The quest is much about running across the entire world and the only two reasons to actually spend time on it is if A/ you want one of the questitems or B/ you are farming reputation with Darnassus. I got 165 rep-points for handing in the last part of this series of quests.\n\nIf you've done this quest and don't need neither of the rewards, then go for the Wand - it pays slightly more from the vendors.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-09T02:57:00-05:00",
+   "body": "Is there a followup on this quest somewhere? Id like to know what happened to the scythe, and whos got it.... Interesting story I think",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-19T03:11:06-06:00",
+   "body": "2450 xp at lvl 36. 120 Darnassus Faction.",
+   "replies": [
+    "3050 exp at lvl 35 with 150 darn faction",
+    "3050 Exp at level 32 with 350 Darnassus rep.\n\nBladeweaver is at 61, 39 if you have trouble remembering her."
+   ]
+  },
+  {
+   "rating": -6,
+   "date": "2005-10-09T02:57:00-05:00",
+   "body": "Carevin sends you to Thyn'tel Bladeweaver back in Darnassus",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,429 @@
+{
+ "id": 667,
+ "name": "Death From Below",
+ "level": 44,
+ "reqlevel": 35,
+ "side": 3,
+ "zoneId": 45,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 4650,
+ "start": {
+  "type": "npc",
+  "id": 2610,
+  "name": "Shakes O'Breen",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    32.2,
+    81.4
+   ],
+   [
+    32.2,
+    81.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2610,
+  "name": "Shakes O'Breen",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    32.2,
+    81.4
+   ],
+   [
+    32.2,
+    81.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Protect Shakes O'Breen during the attack.   Defend Shakes O'Breen  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2610,
+   "name": "Shakes O'Breen",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Defend Shakes O'Breen",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "start",
+   "type": 1,
+   "id": 2610,
+   "name": "Shakes O'Breen",
+   "coord": [
+    32.2,
+    81.4
+   ],
+   "coords": [
+    [
+     32.2,
+     81.4
+    ],
+    [
+     32.2,
+     81.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 1,
+   "id": 2610,
+   "name": "Shakes O'Breen",
+   "coord": [
+    32.2,
+    81.4
+   ],
+   "coords": [
+    [
+     32.2,
+     81.4
+    ],
+    [
+     32.2,
+     81.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 179,
+   "date": "2006-11-29T20:34:53-06:00",
+   "body": "This quest is ludicrously easy.  It can be performed at the lowest possible level.  Three waves of Naga appear from behind the hill.  One wave of three, one wave of two, and a final wave of three.  They are all level 40.\n\nPay attention to the Captain, though, swabbie!  He tells you to man the cannon.  Head up the ramp to the ship and find the solitary cannon on the main deck.  Right-clicking on this cannon while standing beside it will one-shot every Naga that appears in one fell swoop.  Wait until the Naga are descending upon the defenders and fire.  Every Naga will die instantly.  After your three waves are done, collect your reward, matey!",
+   "replies": [
+    "Thank you 14 years later! WoW Classic forever!"
+   ]
+  },
+  {
+   "rating": 56,
+   "date": "2006-02-22T04:23:12-06:00",
+   "body": "This is actually pretty easy once you get a handle of what exactly you need to do.\n\nBasically, there's one cannon on top of the ship that you need to fire (I think it's the only one you are able to interact with).&nbsp; Go on the ship and watch in the direction that the cannon aims.&nbsp; About 4 waves of naga come up the path and if you fire the cannon when they appear in sight, the cannon kills them outright.&nbsp; If you do this correctly, the Captain and his crew won't have to fight anything at all.",
+   "replies": []
+  },
+  {
+   "rating": 21,
+   "date": "2006-09-29T04:23:12-05:00",
+   "body": "I just finished this quest.&nbsp; I talked to Shakes O'Breen and he gave me the quest that started off with \"this is bad.\" ...\"The Naga will be coming from the sea.&nbsp; I need you to remain up here with me to fend off the attack.&nbsp; Man the cannon and drive them back. Are you ready\"\nAs soon as I accepted the quest I ran up the gang-plank to the ship and ran to the cannon on the main deck (its the one to the right and slightly aft when you get on the ship facing to the rear) and manned the cannon that faces toward a slight saddle back on the hillside.&nbsp; Once there you will be able to click on the cannon.&nbsp; The ogre (Lolo the Lookout} that is standing on shore ran up the hill to the saddle-back where the cannon is facing and he waited there for a short time, then he ran back to his normal place.&nbsp; Also several hands (sailors) repositioned to where the ogre normally stands. very shortly thereafter a Naga appeared at the saddle-back and I fired the cannon. The naga droped dead.&nbsp; Following the first, more Naga appeared and each time I fired the cannon (from the deck of the ship)and they again dropped dead.&nbsp; I continued to fire each time a (or group of) Naga appeared and they immediately droped dead.&nbsp; I continued this until I got the message that the quest was completed.&nbsp; I did not have to fight hand to hand any Naga.&nbsp; I only used the cannon.&nbsp; Got my ring (2 Str, 2 Agi, 10 Sta) and was finished.&nbsp; Hope this helps to better explain how this quest is easily accomplished.",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2006-12-11T04:23:12-06:00",
+   "body": "I just wanted to add that as I stood at that cannon on the ship, looking out at what the previous poster called a \"saddle back\" -- which is actually a PATH, which comes over a rise, on which the Naga DO come for the \"attack\" -- as I looked, I did see the Naga from time to time, coming over that rise on the path, for their attack. And my cannon blasts did indeed kill them all!&nbsp; :-)\n\nCertainly, it all could have been orchestrated by Blizzarda a LOT better for the desired \"sea cannon battle effect\", but if you go immediately up the plank from the dock, and turn right once you're on the ship's deck, and position yourself behind the ONLY cannon in that area pointing back toward the side you just came up on (also the only cannon with the live \"gear\" cursor!), you will see that you alone, firing that single cannon repeatedly as soon as the cursor appears each time (maybe 15-18 shots total), are responsible for killing all the attacking Naga.&nbsp; :-)\n\nAnd aside from the ring award, 4650 experience is GREAT for something as simple and easy as this!&nbsp; LOL\n\nAdmittedly, without the written descriptions here on Thottbot of what this is and how it \"works\", I'm sure I never would have seen any Naga, or been the least aware of what the HECK was happening!&nbsp; heh heh ... or maybe I might have tried to fight them like normal on that path and been killed, who knows!&nbsp; LOL!",
+   "replies": [
+    "I sat at the cannon, ogre and sailors moved as noted above. Then nothing... Then suddenly- completed. Got my ring. THEN 3 nagas came out of nowhere, fought them off but got no xp. Very bugged IMO.",
+    "First attempt the Cpt despawned before any naga. The second attept the guards ran away before the naga came then about 4 waves rushed in.\n\nwaiting for him to respawn again...yay?"
+   ]
+  },
+  {
+   "rating": 9,
+   "date": "2005-12-11T04:23:12-06:00",
+   "body": "I walked around for a minute wondering if Naga were going to come or something..and nothing happened.&nbsp; So I walked up to the boat and fired the cannon once and it said complete....4650xp at 38 and a nice ring.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-09-29T04:23:12-05:00",
+   "body": "just go up and repeatedly fire the westmost cannon on deck pointing at the hills - not the sea.\n\nafter about 10 blasts (theres a use icon when you highlight the cannon) the Quest will complete itself... pretty good rings as prizes too.\n\n:D",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2019-09-22T10:36:28-05:00",
+   "body": "Seems like requires [url=https://www.wowhead.com/forever/quest=670/sunken-treasure]this one[/url]",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-03-30T16:23:12-05:00",
+   "body": "I abandoned this quest before nagas showed up and capt'n disapeared. Reloged but still no captain around. /cry i want easy xp too",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2019-09-22T14:16:26-05:00",
+   "body": "When I did this quest, the very first naga spawned closer than the rest of the wave and the cannon missed him.  It did some minor damage to Shakes and the rest of the NPCs killed it.  The 2nd wave took a very long time to spawn, leading me to think it had bugged but then both the 2nd and 3rd waves spawned simultaneously.  One cannon shot took them all out and the quest completed.\r\n\r\nMoral of the story: Be patient.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2019-10-10T20:46:59-05:00",
+   "body": "This quest can be done and completed as a group even if only one of you uses the cannon while your party members just stand around. For party members the quest will begin with a confirmation dialog the same as an escort quest. As soon as you start it run up the gangway onto the ship and just stand next to the clickable cannon near the stern. This cannon doesn't function like a vehicle the way we've become accustomed to in later versions of WoW. The cannon is already aimed toward the spawn point. When the naga appear just click the cannon and they'll die.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-03-09T22:51:13-06:00",
+   "body": "I just completed this quest, but did not read the text about manning the cannons! DOH! I was solo (lv 42, with pet) and got wasted before long. I noticed that the friendly NPC's kept killing the Naga, so I did not quickly hit the resurrect button ... I stayed there in spirit form and watched as the NPC's killed all the Naga ... and the quest completed!! So, if this happens to you ... do NOT rez out! Wait for the Naga to be killed!! You still have to come back and complete the quest with Shakes O'Breen, so hurry back! :)",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-09-29T04:23:12-05:00",
+   "body": "I just stood there, waiting for the naga to arrive, so i could blow them away (I am a lvl 60 mage) but i didn't see so much as a guppy, and while i was waiting, i was looking from where i was waiting for the cannon i was supposed to be firing, and when i FINALLY found the thing, i went up and did a test fire, and it said \"Quest Compleated\".\n\nWHAT THE HECK IS THIS! Is this quest glitched, or something?",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-03-30T16:23:12-05:00",
+   "body": "the pirates fight and can kill em anyway. easy 5,000xp",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-16T16:23:12-06:00",
+   "body": "I thought I'd have to fight off the Naga but apparently not. Even cast pet and all to be ready but after a few mins it says quest complete... :) .\nTo get to the little cove where the pirate ship is.. go around the left side of Stromgarde Keep theres a little area between the mts and the keep follow it and it brings you to a little tunnel which spits you out by the water and you just have to swim to the left into the cove. Watch out for the birds on the way to the tunnel there are about 3.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-02-22T04:23:12-06:00",
+   "body": "I didn't bother looking for the cannon. Just attacked the naga like normal, and it was easy solo.\n\n--lvl 40 resto druid",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-03-30T16:23:12-06:00",
+   "body": "a fun quest, shooting the cannon at charging naga :D\n\nthe cannon is on the deck of the nearby boat, the only one facing the docks really.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-08-23T16:23:12-05:00",
+   "body": "Well the firing the cannon repeatedly tactic still works. I sat on the boats deck firing the cannon for fun and waiting and eventually it just said completed.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-05-06T04:23:12-05:00",
+   "body": "I've done every single quest in the area, and I have the correct level, but he doesn't give me this quest...",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-03-19T07:37:23-06:00",
+   "body": "Easiest quest I ever did.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-05-01T15:21:53-05:00",
+   "body": "Worked fine here, except there came a third wave of naga after the captain said it was clear :P Just fire the cannon when you see the naga yell (in red in the chat log) and you'll kill them all every time.",
+   "replies": [
+    "I got a third wave too.. Did not use the cannon.  \n\n4650 exp and a nice ring at lvl 41.   Good stuff!\n"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2020-06-06T13:27:02-05:00",
+   "body": "This is still buggy as of today.  Naga didn't come over readily and I didn't know about the cannons until reading here.  I had to wait for the Captain to respawn and then just stand at the cannon facing at the dip in the hills.  It's the only cannon on the back side of the ship near the wheel that has an action gear icon when you hover your cursor over it.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2019-09-17T19:23:26-05:00",
+   "body": "Classic: the cannon was clickable but did not kill the naga while they were engaged with the pirates. On wave 2, I used the cannon as soon as the naga spawned and got the completion. No wave 3.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-04T16:23:12-06:00",
+   "body": "I didnt have to defend any attack, after 2-3mins quest said its completed. \n\nPrequests: I did all quests in Faldir's Cove and then I got it",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-16T16:23:12-06:00",
+   "body": "I thought it will be a great battle with the other npc. Then nothing hapen, absolutely nothing\nI think this quest need to be reworked with a new patch. \nIt give me 4600 xp and very amazing items, for no battle. Cool but no fun at all...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-30T16:23:12-06:00",
+   "body": "with the cannon it's too easy, nice rings",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-30T16:23:12-06:00",
+   "body": "The Naga came in two waves with enough time in between to eat and drink if need be.&nbsp; The crew defend against the Naga too.&nbsp; I didn't find the cannon in time, so I just blasted away at Naga, and everything worked out OK.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-30T16:23:12-05:00",
+   "body": "I got the quest, no gang plank to run up. Running around looking for a cannon, I jump in the water to see if there's an underwater entrance to the boat (yeah, I was reaching) but no luck. I jump out of the water and EQL dings saying teh quest is done.\n\nnothin' to it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-09T23:45:24-05:00",
+   "body": "my lvl 42 holy specs priest did i did have to kill all teh naga like u shoulld i didn't use cannon did'nt figure out how to until i read the forum here oh well did it fine just used 1 superior mana potion (i think it was superior) no problems or gliches.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-17T02:37:30-05:00",
+   "body": "I got this quest, started it, got up on the boat and waited beside the cannon....\n\na minute later, the captain gave the all clear. No naga showed up. I was able to fire the cannon, but there was nothing to hit.\n\nFinished the quest with the captain, success, 4650exp at level 47 plus a nice ring. =D Hard work for sure.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-01T08:23:49-06:00",
+   "body": "fired a shot but no naga in sight.  about 30 secs later got quest complete.  It's bugged for sure.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-28T06:32:49-06:00",
+   "body": "My experience as of Feburary 28, 2005 on Llane was:\n\nI waited a while with no nagas until the message said Defending Shakes O'Breen is complete, then when I was accepting Quest Completion two lvl 40 Daggerspine Mauradon spawned on top of me and O'Breen. Of course the crew and the captian and myself overpowered them. I have to accept Quest Completion to complete this for good.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-01T09:20:35-06:00",
+   "body": "This says attain is 41, but I just did it at 38.  (Did the whole chain solo.  Hunters rock.)  Easiest 4650 XP I've ever \"Earned\"",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-06T13:14:31-06:00",
+   "body": "I was poised behind the cannon, all set to deal some serious naga bloodletting. Waited, waited and waited a little bit more. And then the 'complete' popped up on screen.\n\nNot one naga appeared... bah!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-24T17:24:42-05:00",
+   "body": "I figured I was just coming back to the Captain to complete the chain when he yells for me to wait and this quest began. 2 waves of naga (each wave was a little broken up so it was actually 2 sets of 2 small waves) appeared and promptly got blown apart by the cannon, job done.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-03T21:36:25-06:00",
+   "body": "I've tried to complete this a few time but the mobs keep coming.  Has anyone been able to complete it?  Do you have to kill the mobs fast so they don't keep coming up from the water?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-18T15:33:14-05:00",
+   "body": "For this quest I didn't even go onto the ship. I stayed on the pier just waiting for the naga to appear. I thought that the naga might of tried an ambush from the rear of the ship. Nothing. So I went to the little hill at the front of the ship with Track Humanoids on. Nothing. Then Quest Complete came on the screen. Easiest 3250 exp I ever recieved.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-06T18:11:30-06:00",
+   "body": "I attempted to do this quest, and nothing happened. No naga appeared, and a minute or so later it said the quest had been failed. I bugged it, and amazingly enough got a prompt response. The quest has \"known issues\" that haven't been worked out yet. So, it's bugged at the moment.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-07T04:09:17-06:00",
+   "body": "I just did it... no naga came, and I just stood around, but quest complete.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-07T13:30:55-06:00",
+   "body": "The last wave just hid behind the mound west of the camp and I had to go kill them, got a compeleted message, then a fail one! Restarted the quest and after a minute of nothing happening a 'quest complete question mark' appeared of shakes head.\nTook the reward and the XP and ran :D",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-12T07:23:08-06:00",
+   "body": "You are not supposed to fight the naga. You are supposed to run up on to the boat and fire the cannon repeatedly until it says to come back down.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-04T07:45:10-06:00",
+   "body": "3500 from giving the letter, 4650 from defending the guy.\n\nWowowow. Wish all quests were this easy :D",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-05-10T22:52:42-05:00",
+   "body": "My strange quest. I started the quest and immediately went up to the cannon. I shot it only three times to kill 5 naga and the quest was completed. I collected my ring and was studying it when two level 41 naga came and started fighting Shakes. I tried to help. Shakes died and they turned on me. I was level 35 priest so I psychic screamed and faded. They left me and started attacking a crew member. I tried to help again by attacking the lower health one. I ran out of mana and died. I travelled from the graveyard and by the time I made it back to rez, Shakes had respawned and was fighting the same two naga. They were much lower health. I tried to activate the cannon but it no longer worked. Another crew member jumped in and he and Shakes finished them off. This was rather strange to have the naga attack him after the quest was done and they stayed around long enough for Shakes to rez again and start fighting again.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2021-05-15T00:18:40-05:00",
+   "body": "Pro tip:  If you're a hunter, you can Feign Death in the second wave and just wait it out, the NPC's will beat them and complete the quest.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-03T20:58:08-06:00",
+   "body": "This has to be the easiest quest in the game...no HP lost..No effort on my part what so ever...ok maybe to click the cannon fire...\r\n\r\nAccept this quest (can do solo...see above comment). Run up on the ship and fire the cannon a few times.  Every 4th shot naga will appear and be twarted on attack.  Complete will insue.  Great ring for free. Done and Done.. \r\n\r\nWould say Good Luck but you dont need it!!!",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-12T13:33:35-06:00",
+   "body": "As of 4 April 2005:\n\nAccept Quest. Run up plank to main deck of boat. As you get onboard, turn right and run to the cannon overlooking the dock.\n\nYou will see the Gear icon appear. Keep right clicking everytime the gear appears. Keep firing cannon. About every 4th time you fire some Nagas will appear and be killed. The last wave the Nagas will shout something as you fire and then die.\n\nComplete quest for about 4k exp.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-01T01:22:34-05:00",
+   "body": "rofl, HUGE glitch. i started the quest, went to cannon immediately, watched the ogre go up the hill and run back. i waited for about a minute and no naga came. i got off the boat and i completed the quest, rofl.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-02-18T09:29:20-06:00",
+   "body": "Well the last poster says they did it at level 38 but my level 39 Hunter could not get the quest, did all the other quests around him, this quest never showed up.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-04-04T17:27:53-05:00",
+   "body": "as of 4 April 2005.\n\nAccept Quest.\n\nRun up plank to main deck of boat.\n\nAs you get onboard, turn right and run to the cannon overlooking the dock.\n\nYou will see the Gear icon appear.\n\nKeep right clicking everytime the gear appears.\n\nKeep firing cannon\n\nAbout every 4th time you fire some Nagas will appear and be killed.\n\nThe last wave the Nagas will shout something as you fire and then die.\n\nComplete quest for about 4k exp.",
+   "replies": [
+    "You don't have to fire the cannon when the naga aren't there.  Just wait till the naga appear at the top of the hill and then fire the cannon.  If you time it right, they'll be blown up.  Just keep doing that until the naga stop coming and you get the Quest Complete signal.\n\nIf you miss the naga with your shot, they'll come up to the docks and attack the sailors.  They're pretty capable, so you probably don't need to jump down to help them so long as you're able to kill the next wave with the cannon.  (I tossed in a couple of spells from the deck of the ship just in case, but they didn't seem "
+   ]
+  },
+  {
+   "rating": -4,
+   "date": "2005-12-11T04:23:12-06:00",
+   "body": "I cant find a cannon the ones inside are not usable!",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2005-12-11T04:23:12-06:00",
+   "body": "COuld maby some one tell me the Coordinates for this qeust?",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2005-12-11T04:23:12-06:00",
+   "body": "I dont know coordinates but its on the southeast part of arathi u have to go around the mountains through thr back of stromgrad to get there\n\nthere is a path",
+   "replies": []
+  }
+ ]
+}

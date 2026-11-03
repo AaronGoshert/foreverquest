@@ -1,0 +1,233 @@
+{
+ "id": 95189,
+ "name": "Crest of Lordaeron",
+ "level": 22,
+ "reqlevel": 16,
+ "side": 1,
+ "zoneId": 16611,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2600,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 15991,
+  "name": "Lady Dena Kennedy",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    62.6,
+    5.8
+   ],
+   [
+    63.2,
+    5
+   ],
+   [
+    63.2,
+    7
+   ],
+   [
+    64.6,
+    6
+   ],
+   [
+    64.8,
+    5.2
+   ],
+   [
+    65.4,
+    7
+   ],
+   [
+    68,
+    29
+   ],
+   [
+    68.4,
+    30.2
+   ],
+   [
+    68.6,
+    30.2
+   ],
+   [
+    69,
+    28.6
+   ],
+   [
+    69.2,
+    27.6
+   ],
+   [
+    69.2,
+    30.8
+   ],
+   [
+    69.8,
+    28.4
+   ],
+   [
+    69.8,
+    28.6
+   ],
+   [
+    70.2,
+    29.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Return the Crest of Lordaeron to Lady Dena Kennedy in Stormwind City. Crest of Lordaeron (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 268579,
+   "name": "Crest of Lordaeron",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 15991,
+   "name": "Lady Dena Kennedy",
+   "coord": [
+    70.2,
+    29.8
+   ],
+   "coords": [
+    [
+     62.6,
+     5.8
+    ],
+    [
+     63.2,
+     5
+    ],
+    [
+     63.2,
+     7
+    ],
+    [
+     64.6,
+     6
+    ],
+    [
+     64.8,
+     5.2
+    ],
+    [
+     65.4,
+     7
+    ],
+    [
+     68,
+     29
+    ],
+    [
+     68.4,
+     30.2
+    ],
+    [
+     68.6,
+     30.2
+    ],
+    [
+     69,
+     28.6
+    ],
+    [
+     69.2,
+     27.6
+    ],
+    [
+     69.2,
+     30.8
+    ],
+    [
+     69.8,
+     28.4
+    ],
+    [
+     69.8,
+     28.6
+    ],
+    [
+     70.2,
+     29.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-25T08:19:37-05:00",
+   "body": "Comments are pretty unhelpful OR it has multiple spawn points. My group found it pinned to the wall at the top of the tower located right next to [npc=250631].",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2026-09-29T05:53:25-05:00",
+   "body": "4 spawn points so far, that i have found.\r\n1. Top of tower next to spider courtyard\r\n2. Top of tower next to The Abandoned\r\n3. Behind the door in the spider courtyard, protected by the banshee\r\n4. On the floor in the room with the stairs & locked door, across from Bjork's courtyard (opposite end from The Abandon's room)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-20T06:45:05-05:00",
+   "body": "This item you can find in ground or pinned to the wall in tower in dungeon Ruins or Lordaeron.\r\nWorks also for Horde.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-24T14:07:15-05:00",
+   "body": "We found it behind the door you can open, with the banshee inside.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-26T10:07:11-05:00",
+   "body": "I located on the rear side of the pavilion before Bjork",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-27T01:22:56-05:00",
+   "body": "As already mentioned the crest hast different possible spawnpoints in the instance. Loot it will start the quest, but there isn't a exclamation mark on the minimap for it, so you really need to search for it by yourself.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-27T21:56:18-05:00",
+   "body": "Also found on the back of the pavilion before the Bjok.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-01T21:04:13-05:00",
+   "body": "6200XP at level 20",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-06T09:04:44-05:00",
+   "body": "Note for players on Max Settings: The Crest of Lordaeron is practically invisible on the wall in Bjork's room if it chooses to spawn there. We spent about 20 minutes searching for the Crest after clearing the instance. I just so happened to mouse over it on the wall in a last desperate attempt to see if I could find it.\n\nI have submitted two screenshots to show this to future players(Still Pending as of this post). Same location, just highlighted vs non-highlighted.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-12T08:53:43-05:00",
+   "body": "https://www.youtube.com/watch?v=RgssoLzJM9o\r\n\r\n\r\nCheck this youtube vid for all spawn locations",
+   "replies": []
+  }
+ ]
+}

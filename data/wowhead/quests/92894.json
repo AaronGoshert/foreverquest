@@ -1,0 +1,134 @@
+{
+ "id": 92894,
+ "name": "Bone Raising",
+ "level": 40,
+ "reqlevel": 35,
+ "side": 1,
+ "zoneId": 16651,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2350,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 253136,
+  "name": "Orgrul",
+  "zone": "Shen'dralas",
+  "zoneId": 16651,
+  "coords": [
+   [
+    35.6,
+    12
+   ],
+   [
+    35.8,
+    13
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Maintain your reputation with the Magram Clan, and use the Enhanced Necromancy Staff to fully raise undead that are struggling to emerge throughout the Valley of Bones. Return to Orgrul once the Magram army has grown.   Summon or Slay Haggard Bones  ( 10 )   Magram Clan Centaur  ( Honored )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 255403,
+   "name": "Enhanced Necromancy Staff",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 253446,
+   "name": "Summon or Slay Haggard Bones",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Summon or Slay Haggard Bones",
+   "count": 10,
+   "type": "npc",
+   "id": 253446
+  }
+ ],
+ "series": [
+  1385,
+  1386,
+  1369,
+  92743,
+  92841,
+  92846,
+  92847,
+  92873,
+  92894,
+  93066,
+  93072,
+  93188,
+  93196
+ ],
+ "points": [
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "end",
+   "type": 1,
+   "id": 253136,
+   "name": "Orgrul",
+   "coord": [
+    35.6,
+    12
+   ],
+   "coords": [
+    [
+     35.6,
+     12
+    ],
+    [
+     35.8,
+     13
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "requirement",
+   "type": 1,
+   "id": 253446,
+   "name": "Haggard Bones",
+   "coord": [
+    38.6,
+    29.8
+   ],
+   "coords": [
+    [
+     38.6,
+     29.8
+    ],
+    [
+     47.2,
+     34.4
+    ],
+    [
+     47.2,
+     36
+    ],
+    [
+     48.4,
+     29.2
+    ],
+    [
+     49.2,
+     24
+    ],
+    [
+     49.8,
+     23.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

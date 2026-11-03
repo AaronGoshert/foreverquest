@@ -1,0 +1,88 @@
+{
+ "id": 94233,
+ "name": "Craftsman's Writ: Practice Lock",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 261932,
+  "name": "Gorgrash",
+  "zone": "Hillsbrad Foothills",
+  "zoneId": 267,
+  "coords": [
+   [
+    80,
+    48.2
+   ],
+   [
+    80,
+    48.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Practice Lock  ( 1 ) Practice Lock  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264033,
+   "name": "Craftsman's Writ: Practice Lock",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 6712,
+   "name": "Practice Lock",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Practice Lock",
+   "count": 1,
+   "type": "item",
+   "id": 264033
+  },
+  {
+   "text": "Practice Lock",
+   "count": 1,
+   "type": "item",
+   "id": 6712
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 267,
+   "zone": "Hillsbrad Foothills",
+   "point": "end",
+   "type": 1,
+   "id": 261932,
+   "name": "Gorgrash",
+   "coord": [
+    80,
+    48.2
+   ],
+   "coords": [
+    [
+     80,
+     48.2
+    ],
+    [
+     80,
+     48.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

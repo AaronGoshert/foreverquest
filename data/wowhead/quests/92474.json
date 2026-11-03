@@ -1,0 +1,95 @@
+{
+ "id": 92474,
+ "name": "Falling With Style",
+ "level": 2,
+ "reqlevel": 2,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 85,
+ "start": {
+  "type": "npc",
+  "id": 263113,
+  "name": "Myriaal Mistwake",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    43.6,
+    24
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251361,
+  "name": "Rorian the Dayseeker",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    42,
+    23.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Jump from the top of the watchtower in Thendal Grove and use your Walk on Air ability to slow your fall.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 263113,
+   "name": "Myriaal Mistwake",
+   "coord": [
+    43.6,
+    24
+   ],
+   "coords": [
+    [
+     43.6,
+     24
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251361,
+   "name": "Rorian the Dayseeker",
+   "coord": [
+    42,
+    23.4
+   ],
+   "coords": [
+    [
+     42,
+     23.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-21T00:16:02-05:00",
+   "body": "Skyborne have a racial called [spell=1259416] (Walk on Air). Jump off the ledge of the tower and press the button to slow fall your way down.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-20T13:06:16-05:00",
+   "body": "\"The rules are made up and the points don't matter.\" A Whose Line Is It Anyway reference. =P",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,386 @@
+{
+ "id": 49,
+ "name": "Sweet Amber",
+ "level": 44,
+ "reqlevel": 40,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 4650,
+ "start": {
+  "type": "npc",
+  "id": 239,
+  "name": "Grimbooze Thunderbrew",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    44.6,
+    80.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 239,
+  "name": "Grimbooze Thunderbrew",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    44.6,
+    80.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Grimbooze Thunderbrew wants a Sack of Barley , a Sack of Rye and a Sack of Corn . Sack of Barley  ( 1 ) Sack of Corn  ( 1 ) Sack of Rye  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 239,
+   "name": "Grimbooze Thunderbrew",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 739,
+   "name": "Sack of Corn",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 740,
+   "name": "Sack of Rye",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Sack of Barley",
+   "count": 1,
+   "type": "item",
+   "id": 738
+  },
+  {
+   "text": "Sack of Corn",
+   "count": 1,
+   "type": "item",
+   "id": 739
+  },
+  {
+   "text": "Sack of Rye",
+   "count": 1,
+   "type": "item",
+   "id": 740
+  }
+ ],
+ "series": [
+  48,
+  49,
+  50,
+  51,
+  53
+ ],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "start",
+   "type": 1,
+   "id": 239,
+   "name": "Grimbooze Thunderbrew",
+   "coord": [
+    44.6,
+    80.2
+   ],
+   "coords": [
+    [
+     44.6,
+     80.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 1,
+   "id": 239,
+   "name": "Grimbooze Thunderbrew",
+   "coord": [
+    44.6,
+    80.2
+   ],
+   "coords": [
+    [
+     44.6,
+     80.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": [
+  {
+   "rating": 127,
+   "date": "2005-10-28T10:51:38-05:00",
+   "body": "The Hinterlands\n33 69\n\nSwamp\n62 23\n\nTarnaris\n66 36",
+   "replies": [
+    "Sack of Rye is in 40,66 in Hinterlands in Classic.",
+    "I was wondering how player was supposed to find these with no clues available. I suppose it was meant to be some community driven secrets finding quest.. Or you would have noticed these sacks during previous quests (who Hinterlands is nearly this level anyway)."
+   ]
+  },
+  {
+   "rating": 90,
+   "date": "2005-10-28T10:51:38-05:00",
+   "body": "Sack of Barley is in Swamp of Sorrows in the Fallow Sanctuary (where the Draenei Lost Ones are), next to the Lost One Chef.",
+   "replies": []
+  },
+  {
+   "rating": 88,
+   "date": "2005-10-28T10:51:38-05:00",
+   "body": "Sack of Corn is in Tanaris at the Wastewander camp that is near the coast.&nbsp; It has 3 tents and a campfire in the middle of it.",
+   "replies": [
+    "Enter the troll town, Shada'Alor, take a left (i.e. head East) up the slope. You should see a half buried stone head nearby, keep going up past this and you should come across a hut with guards around it. The Rye is in front of the hut.",
+    "The [b]Real Location[/b] of the [b]Sack of Rye[/b] is [b]40,66[/b].\n\nenjoy"
+   ]
+  },
+  {
+   "rating": 46,
+   "date": "2005-10-28T10:51:38-05:00",
+   "body": "Barley\n\nThere's more than one chef spawn and that threw me off, it is not the spawn that is closest to the guy in the locked cage, but it is the one that is just slightly East-Southeast of where the path stops.\n\nRye\n\nThe troll area that contains this is south of Quel'Danil Lodge.&nbsp; When you get inside the gate of the troll outpost. turn left and you'll come to a little pass to find the sack.&nbsp; 4 trolls guard it, easily single pulled.\n\nCorn\n\nI had a rough time in particular finding this one, due to the fact i don't know tanaris all that well and the thottbot map is all screwy, but it's just north of the cove you enter to fight pirates. 1 mob was guarding it when i was there.\n\nHope this helps.&nbsp; \n~Ministro",
+   "replies": []
+  },
+  {
+   "rating": 33,
+   "date": "2006-10-20T06:31:15-05:00",
+   "body": "While getting the Rye in The Hinterlands, inside the tent (next to the bag of rye) is a chest. One of the items it contains is a bar of Truesilver. Grab this - as you'll need it for part 3 of the quest chain. (Doing so will save a trip to the AH and back.)\n\nbtw:\nBarley - Swamp of Sorrows - 62.5,23.2\nCorn - Tanaris - 65.7,36.6\nRye - The Hinterlands - 39.9,66.2",
+   "replies": [
+    "You must've been lucky because that's definitely not intended (with the chest containing truesilver). When I got there there was no chest at that location.",
+    "My apologies but these coordinates for the Sack of Corn are wrong. In fact they're right in the middle of an empty stretch of sand , which doesn't seem to be the kind of place anybody had in mind."
+   ]
+  },
+  {
+   "rating": 29,
+   "date": "2007-03-03T12:30:14-06:00",
+   "body": "Hinterlands - 40,65\nSwamp of Sorrows - 62,23\nTanaris - 64,33 \n\n\nall you need to know\n\n[i][small]Edited, Mar  3rd 2007  9:30am by fryya[/small][/i]",
+   "replies": [
+    "I found tanaris at 66,36",
+    "It was not at 66 36 today... also not at 64 33 either but at 66 37, so clearly it wanders around, kind of like Caliph Scorpidsting."
+   ]
+  },
+  {
+   "rating": 24,
+   "date": "2005-01-09T01:53:33-06:00",
+   "body": "The sack of barley can be found in the Swamp of Sorrows in the Fallow Sanctuary.\n\nThe sack of corn can be found in Tanaris south of Steamwheedle port along the coast.\n\nThe sack of rye can be found in the Hinterlands somewhat west of the Altar of Zul.",
+   "replies": [
+    "The Barley is located in the camp with the Lost One Cook and the Cauldron."
+   ]
+  },
+  {
+   "rating": 19,
+   "date": "2006-03-18T23:30:53-06:00",
+   "body": "Bring a Truesilver Bar when you go hand in this part of the quest. You'll see why when you hand it in.",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2005-01-06T02:46:32-06:00",
+   "body": "I heard that the items for this quest drop in the Hinterlands, probably at the various troll camps. This quest obviously needs more info in the description as it would be almost impossible to figure out where these items are obtained.",
+   "replies": [
+    "If you click on the items it tells you were you can get them.  They are not drops but spawn in sacks and bags.  One is in hinterlands, another in swamp of sorrows, and the last in tanaris."
+   ]
+  },
+  {
+   "rating": 18,
+   "date": "2005-07-29T14:03:13-05:00",
+   "body": "Rye - Hinterlands\n\nIt's not in the Alter of Zul but in the far North-East of Shadra'Alor.\n\nYou don't need to go through the whole temple to get there, you can climb over the ridge on the far north-east of the hills as you look at the mini-map.\n\nFrom there casters and sadists can be pulled one by one.\n\nThe Rye is beside the tent on the outside. Chest inside.\n\n****ADDED****\nSwamp of Sorrows it's worth mentioning the (at least) two chests than can be found in the camps.\n\nTanaris - it's the second stretch of beach south of the north port on the east coast. I followed a mob in so didn't have to make one kill..... \n\nEdited, Fri Jul 29 12:23:53 2005",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2006-10-28T10:51:38-05:00",
+   "body": "Sack of Barley: It's in the Swamp of Sorrows in the Fallow Sancuary. The Fallow Sanctuary can be found at the very north and to the east of the zone. Just follow the northern road and it'll take you right to it. The Barley can be found in about the middle of the Fallow Sanctuary In one of the camps just lying on the ground. \n\nSack of Corn: It's in Tanaris on the Wavestrider Beach. Go directly south of Steamweedle Port almost till you reach the entrance to Lost Rigger Cove (Steamwheedle Port is to the very top right of the zone). Look for camps to the right as you head south. In one of the camps the Corn is just lying on the ground with acouple mobs around it. I found mine about halfway between Zalashji's Den and the Cavern of Times. \n\nSack of Rye: Hinterlands. Go to Shadra'Alor. Shadra'Alor is Directly Southeast of Aerie Peak or slightly Southwest of The Altar of Zul. Just as you enter Shadra'Alor, just a tiny bit past the first spider, turn to the left (east) and go up to the wall as close as you can get to it and follow the wall as far as you can go till you reach a round stone thingy sticking out of the ground with a little hill behind it. Look to the right and you'll see a path. Get on the path and turn left and the camp is right there. There were 4 guys when I went there. Lvl's 45-46. I was able to pull them one at a time as a mage. Kill them and the Sack of Rye is to the left of the entrance of the tent, lying on the ground. Easy to spot.",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2005-04-01T08:03:46-06:00",
+   "body": "The sack of corn in Tanaris is located 65, 36",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2005-01-14T04:29:39-06:00",
+   "body": "Here are the locations of the 3 sacks, have fun =)\nYes you need Cosmos\n\n\nHinterlands - 40,65\nSwamp of Sorrows - 62,23\nTanaris - 64,33\n\nThey are on the ground laying in small camps\n\nAndreas",
+   "replies": [
+    "The Tanaris spawn for me was at 65,37",
+    "I found mine at these coordinates, too. 65, 27, lying on the ground at the easternmost edge of a small camp.\n\nEdited, Fri Feb 11 09:14:43 2005",
+    "It was at 65,36 for me."
+   ]
+  },
+  {
+   "rating": 10,
+   "date": "2005-02-12T20:39:01-06:00",
+   "body": "4650 XP but no experience adjustment. I completed this at level 45.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2006-06-04T10:51:38-05:00",
+   "body": "ok, this quest takes you to hinterlands, swamp of sorrows, and tanaris...then you go to feralas for the next arm...assuming you bring ur truesiler bar:)&nbsp; It really helps if you have all the fp's.&nbsp; Before you go to hinterlands, make sure you have quest for feathers from Elune in Ruth'ern village (or watever the name) near Darnassus.&nbsp; You pick up all the feathers while ur in Hinterlands.&nbsp; Lots of exp with that one.&nbsp; Before you go to Tanaris, make sure you have the deliver quests from booty where the first arm of sweet amber was done.&nbsp; Also, there is a quest \"...and Bugs\" from Theramore you can wipe out right in swamp of sorrows while you are there.&nbsp; My point is that you should combine all these tasks and any more you can think of while you are traveling.&nbsp; The exp you will accrue is fantastic.&nbsp; Go to the ah while you travel and get the trusilver bar as well.&nbsp; Finally, when you are in feralas getting the sicamore for next arm of this quest, do the mark of quality quests for the yeti caves before you leave...great exp there too.&nbsp; I started this quest series as a new level 44 and just finished as almost 46 in about 3 to 4 hours!&nbsp; (Twice my normal leveling speed..lol)&nbsp; Finally, write down the coords on the board..they are accurate and vital in getting this done.&nbsp; Enjoy!",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-08-16T10:51:38-05:00",
+   "body": "Stop by the Dwarven District Tavern (south end) in Stormwind before heading to Swamp of Sorrows, there is a fellow with a quest to discover the temple, then he sends you to the hinterlands.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-05-16T20:24:13-05:00",
+   "body": "Sack of Corn, there is a static spawn point.  End of WaveStrider Beach, closer to LostRigger Cove than the other end.  66,37 - in one of the camps.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2021-02-22T05:24:38-06:00",
+   "body": "For those that don't want coorddinates and just want a straight answer, to find the Sack of Rye go south from Quel'danil Lodge in Hinterlands, to the troll village Shandra'Alor. From there, as soon as you pass the entrance, turn left, you'll see a statue head half burried. Pass the statue head and straight ahead of you there's an hidden path up the hill, you may have to fight 1 or 2 spiders. Follow the path and you'll find an hidden hut with 4 trolls in there, 2 casters and 2 melees, but they're easily single pulled. Kill them all so you can then loot the sack in front of the hut!",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-03-23T10:51:38-06:00",
+   "body": "coords are 40,66 and I'm standing on the sack of rye",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-03-13T19:13:09-06:00",
+   "body": "The locations provided by Andreass were pretty good but I struggled finding the Seack of Corn in Tanaris. I finally found it at the Wastewander camp south of the camp with the Anvil and Forge. It had 3 tents and a large bonfire. The Cosmos/CT loc was 67, 37.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2019-10-08T23:14:44-05:00",
+   "body": "Go around the world and bring me those half rotten sacks of grain that lie in the elements for all eternity. It's not like you're currently in some magic place that is a literal breadbasket of the Human nation!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-07-10T22:51:38-05:00",
+   "body": "Dunno who made that quest and who found the 3 items first but they are both insane :P\n\nJust did it. Thanks to Thottbot and you guys!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2004-10-11T12:58:37-05:00",
+   "body": "Love a quest with no clues. Anyone know where I can find the sacks?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-28T10:51:38-05:00",
+   "body": "The Rye is inside Shadra' Alor, at 40,66.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-28T10:51:38-05:00",
+   "body": "Theres an even easier way than the confusing descriptions above.\n\nTheres a lake (Valorwind Lake) just north of the compound - if you head south from the lake you'll literally run into a hill with a stone statue on top.&nbsp; You *can* run up that hill, and the tent is just on the other side - so easy.\n\nIf you want to find it on the minimap, its the *very* NE cornet of the compound - a part of it kinda sticks out in a little cove, its there.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-23T17:11:15-05:00",
+   "body": "This part is tough at level 44, at least it was for me (NE Druid level 44).\n\nGetting the first item in Swamp of sorrows is easy and you'll find by a campfire at cosmos 62,23. Mobs are low level for you and an easy kill.\n\nThe sack in tanaris is at cosmos 65,37. It's in a small camp guarded by caster anyway I was able to single-pull them and at the end I got it.\n\nThe sack in The Hinterlands is what really drove me crazy. It's a in a small niche camp inside the ruins at 40,65 and reachable after killing a level 44 spider guarding the way.\nThe problem is that this sack is also guarded by three couples: and one the couple is a caller....this means that it can cast spells and when its health is at the middle it creates a demon attacking you. This caller is level 46 (and the demon will be as well) while the soldier is usually level 45. Now considering I was level 44 it was not easy. The 3 times i got killed being aggroed.\nThe fourth time the non-caster spawned a little further away and i was able to single-pull it. With some good dose or \"regrowth\" i was able to kill the caller and the demon.\nAnyway you'll need to kill 4 mobs to get it and respawn rate is very quick!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-28T05:44:53-05:00",
+   "body": "as said below, the rye can be done easily by entering through the back of the temple. Go a bit east of the cave below the area and climb the hill.\n\nI used holy shock to pull each one. For the caster creeps, I shocked and dropped over the hill so it would follow me.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-19T19:29:11-05:00",
+   "body": "What is this Cosmos? is it a map? and where can i get it?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-02T01:27:41-05:00",
+   "body": "Barley and corn are just too easy to post tactics for. You easily get single-pulls of easy-to-kill mobs until you get to them.\n\nAs for the rye, I picked up a guy who was nearby and asked him to help me attack the trolls guarding it. There are 2 sadists and 2 callers, all 44-45. That was a bit too much for me at lvl 42.\nThe guy tries to ride his mount all the way, but goes too far. So all the trolls chased him down into Shadra'Alor while I easily could pick up the rye.\n\nJust a suggestion to a tactic; having a friend distract them isn't a bad idea.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-13T07:29:41-05:00",
+   "body": "Sack of Barley: It's in the Swamp of Sorrows in the Fallow Sancuary.  The Fallow Sanctuary can be found at the very north and to the east of the zone.  Just follow the northern road and it'll take you right to it.  The Barley can be found in about the middle of the Fallow Sanctuary In one of the camps just lying on the ground.\n\nSack of Corn:  It's in Tanaris on the Wavestrider Beach. Go directly south of Steamweedle Port almost till you reach the entrance to Lost Rigger Cove (Steamwheedle Port is to the very top right of the zone).  Look for camps to the right as you head south. In one of the camps the Corn is just lying on the ground with acouple mobs around it.  I found mine about halfway between Zalashji's Den and the Cavern of Times.\n\nSack of Rye:  Hinterlands.  Go to Shadra'Alor.  Shadra'Alor is Directly Southeast of Aerie Peak or slightly Southwest of The Altar of Zul.  Just as you enter Shadra'Alor, just a tiny bit past the first spider, turn to the left (east) and go up to the wall as close as you can get to it and follow the wall as far as you can go till you reach a round stone thingy sticking out of the ground with a little hill behind it.  Look to the right and you'll see a path.  Get on the path and turn left and the camp is right there.  There were 4 guys when I went there.  Lvl's 45-46.  I was able to pull them one at a time as a mage.  Kill them and the Sack of Rye is to the left of the entrance of the tent, lying on the ground.  Easy to spot.\n\n[i][small]Edited, Oct 13th  2006 at  3:32am PDT by opyopio[/small][/i]\n\n[i][small]Edited, Oct 13th  2006 at  3:34am PDT by opyopio[/small][/i]\n\n[i][small]Edited, Oct 13th  2006 at  3:35am PDT by opyopio[/small][/i]",
+   "replies": [
+    "The round stone you mentioned in Shadra'Alor is a spider egg cone. ;)"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-07T15:26:22-05:00",
+   "body": "i would guess that you are trying to get the sack before you actually have the quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-22T04:47:50-05:00",
+   "body": "The hardest part for me was the sack in the Hinterlands. Taking out the trolls around the camp was easy, but dodging all the wolves and owlbears on the way wasn't fun; I jumped in that lake just a ways from the camp at least five times!\n\nAlso, there was a solid chest in that camp that dropped cheese, a truffle, some ham and moonberry juice. Got a full meal out of it! And 3 greater healing potions too.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-27T22:06:08-06:00",
+   "body": "Dreshiq is correct. It's is 65,37. And has been everytime. (The Corn in Tanaris)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-03T02:45:17-06:00",
+   "body": "The sack of corn is Tanaris is right next to one of the Wastewander camps there.....",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-06-11T04:22:36-05:00",
+   "body": "Soloed as 46 Druid. Cake.\nGave 4650 Exp.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-02-23T14:30:06-06:00",
+   "body": "I soloed this at lvl 40, if your a warlock/hunter, just use your pet to distract the mobs whilst you grab the bag. Voidwalkers AoE taunt worked well for me, just dont forget to use sacrafice when the VW gets low on health. I spose a priest could use fear and so could a warrior if he had a few rage potions.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-05-01T23:08:42-05:00",
+   "body": "got to the camp where the sack of Rye is but when I mouse point it, nothing happens:( nothing saying \"sack of rye\". i'm stuck at this point. anyone got the same prob?",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2005-12-14T16:09:59-06:00",
+   "body": "where are the camps no cosmos coords please\n(a map would be nice)",
+   "replies": []
+  },
+  {
+   "rating": -7,
+   "date": "2006-10-16T06:10:36-05:00",
+   "body": "Directly south from the western edge of ValorWind Lake theres a Stone pilar.\nYou can get up the slope just to the left.\nCheck the tent for a chest.",
+   "replies": []
+  }
+ ]
+}

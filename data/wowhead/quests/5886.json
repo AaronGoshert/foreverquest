@@ -1,0 +1,111 @@
+{
+ "id": 5886,
+ "name": "Salve via Disenchanting",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 1,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 4200,
+ "start": {
+  "type": "npc",
+  "id": 9528,
+  "name": "Arathandris Silversky",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    54.2,
+    86.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 9528,
+  "name": "Arathandris Silversky",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    54.2,
+    86.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Progress The power of a disenchanted magical item is felt by the essence it creates.  I've devised a way to turn raw essence used by enchanters into a suitable reagent for creating Cenarion plant salve .  You don't need a Cenarion beacon for this; any suitably disenchanted item that yields lesser nether essences will work. I just need a single lesser nether essence ; in exchange, I will give you Cenarion plant salves .  The essence is extremely potent - a little definitely goes a long way! Lesser Nether Essence  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11516,
+   "name": "Cenarion plant salve",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11174,
+   "name": "lesser nether essence",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Lesser Nether Essence",
+   "count": 1,
+   "type": "item",
+   "id": 11174
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 1,
+   "id": 9528,
+   "name": "Arathandris Silversky",
+   "coord": [
+    54.2,
+    86.8
+   ],
+   "coords": [
+    [
+     54.2,
+     86.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 1,
+   "id": 9528,
+   "name": "Arathandris Silversky",
+   "coord": [
+    54.2,
+    86.8
+   ],
+   "coords": [
+    [
+     54.2,
+     86.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2020-02-24T00:24:35-06:00",
+   "body": "I'm going to post this on all the Alliance versions of these quests as I have not found anyone commenting on more details about each.\r\n\r\nFrom my in-game experience and online research (checking both WoWPedia and WoWWiki), there is a limit to which of these quests each character will have available to them, based on the professions of said characters. Everyone will have the [Salve via Hunting] quests available while the other four will be determined from the aforementioned professions:\r\n\r\n[ul]\r\n[li]Only herbalists will have [Salve via Gathering] available[/li]\r\n[li]Only miners will have [Salve via Mining] available[/li]\r\n[li]Only skinners will have [Salve via Skinning] available[/li]\r\n[li]It appears only enchanters will have [Salve via Disenchanting] available to them (as the needed item is not BoP unlike the above three, I bought two on the AH and attempted to see if I could do the quest: it was not available to me even after a restart to further check)[/li]\r\n[/ul]\r\n\r\nNote that there are two versions of these quests for each faction: the first will give experience along with the salve and is a one time thing (like standard quests) while the second becomes available after and does not give experience, only the salve and is repeatable.",
+   "replies": []
+  }
+ ]
+}

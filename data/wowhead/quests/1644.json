@@ -1,0 +1,455 @@
+{
+ "id": 1644,
+ "name": "The Tome of Divinity",
+ "level": 13,
+ "reqlevel": 12,
+ "side": 1,
+ "zoneId": -141,
+ "reqclass": 2,
+ "status": "unchanged",
+ "xp": 910,
+ "start": {
+  "type": "npc",
+  "id": 6174,
+  "name": "Stephanie Turner",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    56.4,
+    61.4
+   ],
+   [
+    56.4,
+    61.6
+   ],
+   [
+    57,
+    61.4
+   ],
+   [
+    57,
+    61.8
+   ],
+   [
+    57.2,
+    62.6
+   ],
+   [
+    63.6,
+    72.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 6174,
+  "name": "Stephanie Turner",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    56.4,
+    61.4
+   ],
+   [
+    56.4,
+    61.6
+   ],
+   [
+    57,
+    61.4
+   ],
+   [
+    57,
+    61.8
+   ],
+   [
+    57.2,
+    62.6
+   ],
+   [
+    63.6,
+    72.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 10 Linen Cloth to Stephanie Turner in Stormwind. Linen Cloth  ( 10 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 2589,
+   "name": "Linen Cloth",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Linen Cloth",
+   "count": 10,
+   "type": "item",
+   "id": 2589
+  }
+ ],
+ "series": [
+  1642,
+  1643,
+  1644,
+  1780,
+  1781,
+  1786,
+  1787,
+  1788
+ ],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 6174,
+   "name": "Stephanie Turner",
+   "coord": [
+    57,
+    61.8
+   ],
+   "coords": [
+    [
+     56.4,
+     61.4
+    ],
+    [
+     56.4,
+     61.6
+    ],
+    [
+     57,
+     61.4
+    ],
+    [
+     57,
+     61.8
+    ],
+    [
+     57.2,
+     62.6
+    ],
+    [
+     63.6,
+     72.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 6174,
+   "name": "Stephanie Turner",
+   "coord": [
+    57,
+    61.8
+   ],
+   "coords": [
+    [
+     56.4,
+     61.4
+    ],
+    [
+     56.4,
+     61.6
+    ],
+    [
+     57,
+     61.4
+    ],
+    [
+     57,
+     61.8
+    ],
+    [
+     57.2,
+     62.6
+    ],
+    [
+     63.6,
+     72.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2044,
+   "name": "Forlorn Spirit",
+   "coord": [
+    29.6,
+    61.8
+   ],
+   "coords": [
+    [
+     29.4,
+     61.8
+    ],
+    [
+     29.4,
+     62.6
+    ],
+    [
+     29.6,
+     61.8
+    ],
+    [
+     29.6,
+     62.6
+    ],
+    [
+     30.2,
+     61.4
+    ],
+    [
+     30.6,
+     61
+    ],
+    [
+     31,
+     60.4
+    ],
+    [
+     42.4,
+     73
+    ],
+    [
+     42.5,
+     72.5
+    ],
+    [
+     42.6,
+     72.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 4969,
+   "name": "Old Town Thug",
+   "coord": [
+    70,
+    45
+   ],
+   "coords": [
+    [
+     61,
+     70.3
+    ],
+    [
+     64.4,
+     66.9
+    ],
+    [
+     64.7,
+     67.9
+    ],
+    [
+     64.9,
+     65.6
+    ],
+    [
+     64.9,
+     68.9
+    ],
+    [
+     65.3,
+     64.9
+    ],
+    [
+     69.4,
+     43.2
+    ],
+    [
+     69.4,
+     44.2
+    ],
+    [
+     69.4,
+     45
+    ],
+    [
+     69.8,
+     44.4
+    ],
+    [
+     69.8,
+     45.6
+    ],
+    [
+     70,
+     45
+    ],
+    [
+     70.6,
+     44.8
+    ],
+    [
+     73.3,
+     58.3
+    ],
+    [
+     73.4,
+     59.4
+    ],
+    [
+     73.6,
+     59.5
+    ],
+    [
+     73.8,
+     57.3
+    ],
+    [
+     73.8,
+     59.3
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 202116,
+   "name": "Cut-throat Mugger",
+   "coord": [
+    61.8,
+    29.2
+   ],
+   "coords": [
+    [
+     61.8,
+     29.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 208876,
+   "name": "Cut-throat Mugger",
+   "coord": [
+    61.8,
+    29.2
+   ],
+   "coords": [
+    [
+     59,
+     27.8
+    ],
+    [
+     61.4,
+     29.4
+    ],
+    [
+     61.4,
+     29.6
+    ],
+    [
+     61.8,
+     29.2
+    ],
+    [
+     62.4,
+     29.6
+    ],
+    [
+     62.8,
+     29.6
+    ],
+    [
+     63.2,
+     29.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "sourcerequirement",
+   "type": 2,
+   "id": 3662,
+   "name": "Food Crate",
+   "coord": [
+    56.5,
+    63.8
+   ],
+   "coords": [
+    [
+     27.5,
+     48.8
+    ],
+    [
+     48.4,
+     60.7
+    ],
+    [
+     48.5,
+     60.5
+    ],
+    [
+     52.4,
+     23
+    ],
+    [
+     54.2,
+     58.8
+    ],
+    [
+     56.3,
+     63.4
+    ],
+    [
+     56.3,
+     63.5
+    ],
+    [
+     56.5,
+     63.8
+    ],
+    [
+     59.5,
+     60.8
+    ],
+    [
+     64,
+     47.7
+    ],
+    [
+     65.9,
+     71
+    ],
+    [
+     76.7,
+     58.5
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2004-12-06T04:36:13-06:00",
+   "body": "By now you should know that linen cloth drops from Defias rogues, kobolds, and gnolls.  The quest does not care how you come by the linen.  I suppose you could be given the items, but I collected them during one of the many kill X kobolds/gnolls/Dafias rogue quests in Westfall or the Elwynn Forest, and killed two birds with one stone.",
+   "replies": []
+  }
+ ]
+}

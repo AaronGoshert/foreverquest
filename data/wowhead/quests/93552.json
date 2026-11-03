@@ -1,0 +1,110 @@
+{
+ "id": 93552,
+ "name": "Harvesting Windstones",
+ "level": 4,
+ "reqlevel": 2,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 355,
+ "start": {
+  "type": "npc",
+  "id": 251363,
+  "name": "Dalia the Collector",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    43.2,
+    24
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251363,
+  "name": "Dalia the Collector",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    43.2,
+    24
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect 15 Windstone Clusters from Raw Windstones in Thendal Grove. Windstone Cluster  ( 15 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 258772,
+   "name": "Windstone Clusters",
+   "count": 15,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Windstone Cluster",
+   "count": 15,
+   "type": "item",
+   "id": 258772
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 251363,
+   "name": "Dalia the Collector",
+   "coord": [
+    43.2,
+    24
+   ],
+   "coords": [
+    [
+     43.2,
+     24
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251363,
+   "name": "Dalia the Collector",
+   "coord": [
+    43.2,
+    24
+   ],
+   "coords": [
+    [
+     43.2,
+     24
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-21T00:38:40-05:00",
+   "body": "They spawn most commonly alongside the mountain ridges and the village ridges along the stone walls.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-21T03:41:47-05:00",
+   "body": "Quest allowing you to learn your first gathering profession.\nYou will receive the reward as an item, so totally up to you if you want to use it or not.\nIf you choose to learn skinning or mining do not forget to buy Skinning Knife / Mining Pick from [url=https://www.wowhead.com/forever/npc=251537/uualia-suncrest]Uualia Suncrest[/url].\nAlso for a small amount of copper you can buy your first 4 slot reagent bag for the corresponding chosen reward.",
+   "replies": []
+  }
+ ]
+}

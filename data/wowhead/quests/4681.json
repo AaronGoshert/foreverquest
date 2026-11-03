@@ -1,0 +1,342 @@
+{
+ "id": 4681,
+ "name": "Washed Ashore",
+ "level": 14,
+ "reqlevel": 11,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 980,
+ "start": {
+  "type": "npc",
+  "id": 10219,
+  "name": "Gwennyth Bly'Leggonde",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    36.6,
+    45.4
+   ],
+   [
+    36.6,
+    45.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 10219,
+  "name": "Gwennyth Bly'Leggonde",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    36.6,
+    45.4
+   ],
+   [
+    36.6,
+    45.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Recover the Sea Turtle Remains from the Skeletal Sea Turtle in the waters west of Auberdine, and then speak with Gwennyth Bly'Leggonde back in Auberdine. Sea Turtle Remains  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 12289,
+   "name": "Sea Turtle Remains",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Sea Turtle Remains",
+   "count": 1,
+   "type": "item",
+   "id": 12289
+  }
+ ],
+ "series": [
+  3524,
+  4681
+ ],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 10219,
+   "name": "Gwennyth Bly'Leggonde",
+   "coord": [
+    36.6,
+    45.4
+   ],
+   "coords": [
+    [
+     36.6,
+     45.4
+    ],
+    [
+     36.6,
+     45.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 10219,
+   "name": "Gwennyth Bly'Leggonde",
+   "coord": [
+    36.6,
+    45.4
+   ],
+   "coords": [
+    [
+     36.6,
+     45.4
+    ],
+    [
+     36.6,
+     45.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 62,
+   "date": "2005-09-27T12:22:07-05:00",
+   "body": "Location is 32,46.&nbsp; Near an underwater shipwreck.",
+   "replies": []
+  },
+  {
+   "rating": 37,
+   "date": "2005-09-27T12:22:07-05:00",
+   "body": "It's a common mistake to look for the remains at the beached turtle just south of Auberdine, even though the quest tells you west. That's the incorrect turtle. The actual turtle that will give you the remains is located just west of the Auberdine docks, under the water. You can see it if you swim out to the island that you fly over when you take a Hyppogryph ride. If you're on the island, look toward the docks.",
+   "replies": [
+    "Run to the end of the pier.&nbsp; When you reach the intersection, turn left (to the boat to Menethil).&nbsp; When you get to the end, you'll see the turtle under the water.&nbsp; Dive in, swim out."
+   ]
+  },
+  {
+   "rating": 31,
+   "date": "2006-11-25T17:11:21-06:00",
+   "body": "Sea Turtle is at loc 31,46. Just swim out a bit from the docks where the ship goes to Wetlands.",
+   "replies": []
+  },
+  {
+   "rating": 22,
+   "date": "2004-11-29T05:36:13-06:00",
+   "body": "This quest is not bout the skeletal turtle south of auberdine, but the one out in the water, which is visible from the Auberdine dock where you catch the boat to Menethil Harbor. \n\nSo you don't get frustrated like I did :)",
+   "replies": [
+    "GRRRRR.. i should really start coming here and reading BEFORE i start these quests.. i spent at least an hour or 2 killing murlocs trying to figure out why the heck i couldn't get the remains off the turtle to find out that wasn't even the right turtle.. that SUCKS.. \n\nOh well.. at least now i know where i SHOULD be going :-)",
+    "To be fair, the quest text DOES say \"in the waters west of Auberdine.\" :)"
+   ]
+  },
+  {
+   "rating": 20,
+   "date": "2004-12-01T09:01:04-06:00",
+   "body": "no.. the sea turtle remains are the ones in the water off the end of the dock by the sunken ship. your talking about the beached sea creature remains. If u go to the side of the dock for the boat for menethil... look out in the water you'll see the sunken ship.. it's right on the other side of that. It's head is the remains. Just click on it for the Sea turtle remains.\n\nSephiiro",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2005-09-27T12:22:07-05:00",
+   "body": "Some clarification of the location might be useful for those who are having some trouble finding it (it took me over an hour).&nbsp; Start on the Long Wash dock, standing on the left hand (south) fork.&nbsp; Looking south, you should be able to see a small island, and if you look down in the water you may be able to see a shipwreck.&nbsp; The turtle is between the dock and the island, south of the shipwreck.&nbsp; You can see the turtle on the minimap, even, as a light gray dot between the landmarks I described.&nbsp; The dot is kind of subtle, but once you see it, you'll know exactly where to head.&nbsp; If you can't find it on the minimap, just swim around looking for the turtle's big shell.\n\nOnce you reach the turtle, you will notice that you can't loot it from the surface.&nbsp; You'll have to dive to get it.&nbsp; Try adjusting your camera angle so you can actually see what you're doing, but otherwise just look for the gold cursor to loot the remains.&nbsp; If you do it blind, be aware that you CAN get yourself stuck inside the turtle shell and not see what's going on.&nbsp; I would recommend using the hearthstone to get yourself out of there (you will have plenty of time if you use it when the blue breath bar passes to the left of the word \"Breath\"; you might want to make sure your stone is set to Auberdine first).&nbsp; I, personally, was a little too slow the first time, and the only way I figured out I was stuck inside the shell was that I could see it with my wisp.&nbsp; If you simply resurrect yourself and use the hearthstone right away, you won't have a problem.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-09-27T12:22:07-05:00",
+   "body": "maybe because your Caps Lock key is pressed?",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-11-03T00:22:07-06:00",
+   "body": "Hello there fellow gamers, hope you getting some fun from your experiences.\n\nIn order to loot the remains, you must swim under water untill your cursor changes to a golden wheel, right clicking at that time will automatically loot the turtle's remains.\n\nIn order to swim under water, you must hold both the left and right mouse keys and adjust your camera angle into a downward sighting.&nbsp; This will or should cause your character to dive down to the remains.\n\nI hope this helps and please remember to have fun, don't get to frustrated and always ask for help when you can't figure things out for yourself.\n\nWoW is a game that was created to force each and every player to work and play in groups.&nbsp; There are quests you can solo, but in most higher level parts of the game you will need help.&nbsp; So you might as well learn how to play your character(s) in a group setting, as either a lead, Warriors and Paladins, or in supporting role.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-09-27T12:22:07-05:00",
+   "body": "After doing the two washed ashore quests you can go and collect the bones from the other creatures wich are lying around north and south from auberdine.Thats why Gwennyth Bly'Leggonde says : [i]\"Also, in your travels you may find other creatures. By all means, if you should discover anything then please bring it to our attention!\" [/i]",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-12-09T12:22:07-06:00",
+   "body": "actual coords is 31, 46",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2019-08-12T08:36:03-05:00",
+   "body": "To complete the quest you need to locate [b]A Corpse of Sea Turtle[/b] and loot [b][item=12289][/b].\nA bit tricky to find this one, jump down and swim west of the Auberdine, there's a small island with some trees.\nSo, swim towards that island and check for sea turtle corpse under the water, it's right before the island\n[quote][b]Sea Turtle Remains[/b] location coordinates are [b]31 46[/b][/quote]\n[b][quest=4681][/b] - www.youtube.com/watch?v=12do34nUzkk",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2020-01-25T11:40:15-06:00",
+   "body": "Went to the right turtle the first time and 5 times since.  Have abandoned the quest and taken it again and still when I get to the turtle - NO GEAR \r\n\r\nI've swam into the turtle shell all around the head I'm on the bottom of the sea and tried above the head - NO GEAR. \r\nAny suggestions?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-27T12:22:07-05:00",
+   "body": "You click on the head of the skeleton to complete the quest. That head is visible in the water from the end of the pier going to Menethil. The head is a white blob in the water just above the shipwreck (as viewed from the pier).",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-08-22T00:22:07-05:00",
+   "body": "loc: 32,46 - underwater!\n\nUnderwater between the bailed boat and the mini-island across the bridge where you take to boat to menethil harbor.. got it? :)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-02-20T12:22:07-06:00",
+   "body": "I can't get my character to dive. It only happens accidently if I go under a boat or something. I'm using a mac powerbook so Idon't have a mouse. Can anyone help?",
+   "replies": [
+    "For a mac, try holding the command key (the butterfly-like key next to the space bar, just in case you didn't know about it) while dragging the mouse. This makes a mouse-click/drag act like a right-mouse click in-game."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-10T00:22:07-05:00",
+   "body": "31 46 are good jump under bridge and swim during 1 min",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-27T12:22:07-05:00",
+   "body": "There's also another sea creature north of the dock at 42,32 that you can report after both quests",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-15T00:22:07-06:00",
+   "body": "It's perfect to jump off the dock as if you're going to Menethril Harbor (left side). Go underwater and the turtle is right there, click on head (get close).\n\nFunny thing was, after handing in this one I got to also open heads and walk up and down the beaches around Auberdine and get some exp too. Only do one head at a time, though, it won't let you do any more.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-09T12:22:07-06:00",
+   "body": "Found @ 31,46",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-07T20:53:41-05:00",
+   "body": "At map co-ords 44, 20 to the north of Auberdine, I found a beached turtle with what looks like a house strapped to it's back. There's an item in it that can be turned in for addtional exp. Other than that, just run south down the coast... the corpses are easy to find lying along the water's edge.",
+   "replies": [
+    "Toward the far south, be sure to look on the islands just off the shore. The corpses are all visible for the most part, except for one, which is at 31, 87."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-21T14:08:02-05:00",
+   "body": "the co-ordinates are as below:\n\n36,50",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-13T04:23:28-05:00",
+   "body": "its actually at 31, 46 (due west of aub like what the quest says)\n\n36,50 is the turtle remains for the quest b4 this. AND IS NOT CORRECT",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-02T14:56:25-06:00",
+   "body": "never mind ... figured it out with help ... \n\n\n\nCan someone help me out with how to get under the water?  I was told to just look down and walk, but either my mouse settings aren't right or that isn't the whole story ... appreciate any insight.. thank you :)\n\nEdited, Thu Mar  2 16:29:53 2006",
+   "replies": [
+    "You're after bones, not shell. Right=clicking on the shell won't work. Get next to the skull and right-click that."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-08T14:19:33-05:00",
+   "body": "Finally...31 46 i've found it after 30min walking...:S",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-03T17:21:38-05:00",
+   "body": "Well, i can see the turtle remains when im outside the water, but when i want to dive in the water (to get the remains) everything is blue, so when i'm under water i can't see anything, only a blue color.\nmaybe it's a bug?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-28T07:04:11-06:00",
+   "body": "there are like, three of these freakin' turtles, then. lol",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-20T03:27:40-06:00",
+   "body": "Whenever I get close to the turtle, it always says not close enough. Can someone please tell me what I'm doing wrong. Thanks.\nNever mind. After 2 hours of repeatedly jumping off the pier I finally figured it out.\n\nEdited, Thu Jan 19 20:47:53 2006",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-29T09:11:06-05:00",
+   "body": "Right above the sunked ship with \"shade of Elura\"",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-24T15:01:24-06:00",
+   "body": "31,46",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-15T11:00:05-05:00",
+   "body": "31,46",
+   "replies": [
+    "the coordinates are 36,50"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-02T03:46:29-05:00",
+   "body": "i cant get the remains it says i cant if im swiming.... what do i do?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-25T17:51:50-05:00",
+   "body": "You can actually help this research up to 6 more times if i counted right. You can start more quest my finding more remains whit tzadam bug? herbalism skill! they will be hown in minimap. ind the right place to examine the beached sea creature and you get a sample, you can find 6 difrent creature remains in addition to thease two. and thay stack. do the quest 6 times! you get some 5 silver each and 5 rep or something. Oh and 75exp /ea.",
+   "replies": [
+    "working as intended, those smileys are nodes. not herbalism skill thingies :P"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-29T21:08:59-06:00",
+   "body": "For my life, I [b]cannot[/b] find the right turtle! HELP.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-24T07:56:10-06:00",
+   "body": "31.46 underwater. near small island :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2021-08-28T13:29:39-05:00",
+   "body": "One of the only quests I've ever found in all of WoW that the rewards are not all a consistent quality item.",
+   "replies": []
+  }
+ ]
+}

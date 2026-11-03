@@ -1,0 +1,126 @@
+{
+ "id": 98313,
+ "name": "For Further Study",
+ "level": 32,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 1537,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 1077,
+  "name": "Prospector Whelgar",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    38.8,
+    52.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2916,
+  "name": "Historian Karnik",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    76.4,
+    11.4
+   ],
+   [
+    76.4,
+    12.2
+   ],
+   [
+    77.2,
+    11.4
+   ],
+   [
+    77.2,
+    11.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Bring the Whelgar Relic Package to Historian Karnik in Ironforge . Whelgar Relic Package (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 280403,
+   "name": "Whelgar Relic Package",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  299,
+  98216,
+  98310,
+  98313
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 1077,
+   "name": "Prospector Whelgar",
+   "coord": [
+    38.8,
+    52.2
+   ],
+   "coords": [
+    [
+     38.8,
+     52.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 2916,
+   "name": "Historian Karnik",
+   "coord": [
+    77.2,
+    11.8
+   ],
+   "coords": [
+    [
+     76.4,
+     11.4
+    ],
+    [
+     76.4,
+     12.2
+    ],
+    [
+     77.2,
+     11.4
+    ],
+    [
+     77.2,
+     11.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-15T15:35:58-05:00",
+   "body": "[b]0 XP/0 reputation.[/b] The NPC hints at a follow-up: [i][b]It'll take me some time to even put a plan together on this one. Come back another time and I can give you the latest.[/b][/i]",
+   "replies": []
+  }
+ ]
+}

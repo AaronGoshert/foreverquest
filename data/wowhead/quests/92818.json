@@ -1,0 +1,97 @@
+{
+ "id": 92818,
+ "name": "Big, No, MASSIVE Iron Axes",
+ "level": 35,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2050,
+ "start": {
+  "type": "npc",
+  "id": 253163,
+  "name": "Grolkar",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    69.6,
+    78
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253163,
+  "name": "Grolkar",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    69.6,
+    78
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Maintain your reputation with the Magram, and bring 2 Massive Iron Axes to Grolkar in the Magram Village in Desolace . Massive Iron Axe  ( 2 )   Magram Clan Centaur  ( Friendly )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 3855,
+   "name": "Massive Iron Axes",
+   "count": 2,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Massive Iron Axe",
+   "count": 2,
+   "type": "item",
+   "id": 3855
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 253163,
+   "name": "Grolkar",
+   "coord": [
+    69.6,
+    78
+   ],
+   "coords": [
+    [
+     69.6,
+     78
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 253163,
+   "name": "Grolkar",
+   "coord": [
+    69.6,
+    78
+   ],
+   "coords": [
+    [
+     69.6,
+     78
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

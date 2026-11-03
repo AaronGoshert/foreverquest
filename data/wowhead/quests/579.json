@@ -1,0 +1,208 @@
+{
+ "id": 579,
+ "name": "Stormwind Library",
+ "level": 1,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 2504,
+  "name": "Donyal Tovald",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    71.6,
+    7.4
+   ],
+   [
+    71.6,
+    7.6
+   ],
+   [
+    75.2,
+    30.2
+   ],
+   [
+    75.2,
+    30.6
+   ],
+   [
+    75.6,
+    29.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2504,
+  "name": "Donyal Tovald",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    71.6,
+    7.4
+   ],
+   [
+    71.6,
+    7.6
+   ],
+   [
+    75.2,
+    30.2
+   ],
+   [
+    75.2,
+    30.6
+   ],
+   [
+    75.6,
+    29.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Progress King Anduin has placed great importance on learning, and thus has provided funds for making copies of various tomes and writings available to the public. It's very simple. You bring me a library scrip , and I can give you a copy of one of the available books. Library Scrip  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 3898,
+   "name": "library scrip",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Library Scrip",
+   "count": 1,
+   "type": "item",
+   "id": 3898
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 2504,
+   "name": "Donyal Tovald",
+   "coord": [
+    71.6,
+    7.4
+   ],
+   "coords": [
+    [
+     71.6,
+     7.4
+    ],
+    [
+     71.6,
+     7.6
+    ],
+    [
+     75.2,
+     30.2
+    ],
+    [
+     75.2,
+     30.6
+    ],
+    [
+     75.6,
+     29.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 2504,
+   "name": "Donyal Tovald",
+   "coord": [
+    71.6,
+    7.4
+   ],
+   "coords": [
+    [
+     71.6,
+     7.4
+    ],
+    [
+     71.6,
+     7.6
+    ],
+    [
+     75.2,
+     30.2
+    ],
+    [
+     75.2,
+     30.6
+    ],
+    [
+     75.6,
+     29.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 55,
+   "date": "2007-04-29T17:56:27-05:00",
+   "body": "The Library Scrip you need can only be gotten from a level 37 quest in STV.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-06-16T02:49:55-05:00",
+   "body": "To turn this quest in, talk to Donyal Tovald in the western corner of the Stormwind Library (Facing a bookshelf), which is in the north of the keep (northeast of the keep's courtyard). There will be no question mark over his head. You can visit this man to hand in any scrips you find.\n\nThis quest provides you with the choice between two books for teaching you WoW lore. Click on them in the Rewards view and read their comments: people have posted up the books' contents.\n\nI did not recieve any reputation or experience. I don't think turning in scrips gives you either. Only books.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-05-13T16:54:57-05:00",
+   "body": "Library is in Stormwind Keep, when u go in first left then right.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-08-07T17:58:03-05:00",
+   "body": "Once in Stormwind Keep go to 74,20 (as mentioned in other post, left, then right.)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-08-19T18:52:30-05:00",
+   "body": "follow the hall to the left. then take a right, a left and another right.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-26T02:33:35-05:00",
+   "body": "Received no faction at level 38.  \n\nGuess I must have been too high when I eventually discovered that you talk to a liabrarian for the hand in.\n\nThere was no yellow question mark over his head.",
+   "replies": [
+    "I wasn't too high. the quest was yellow to me and there isnt a yellow question mark over his head and no yellow dot on the map either. but I still turned in the script anyways to the librarian."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-27T07:14:16-06:00",
+   "body": "What are the rewards for?",
+   "replies": [
+    "You get a Library Script after accepting The Stones of the Tides (quest) from Baron Revilgaz in Booty Bay.\nIf you read the quest log he tells you to hand the scrip in to get more information on the stones if you decide you want to know about them. \nHe claims that Legends of the Gurubashi was where he first heard of the legend."
+   ]
+  }
+ ]
+}

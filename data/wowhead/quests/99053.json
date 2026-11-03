@@ -1,0 +1,234 @@
+{
+ "id": 99053,
+ "name": "Escaping Ban'ethil",
+ "level": 9,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 275744,
+  "name": "Sentinel Lynessa Duskblossom",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    43,
+    58.9
+   ],
+   [
+    43.3,
+    59.8
+   ],
+   [
+    43.4,
+    61.8
+   ],
+   [
+    43.6,
+    54.2
+   ],
+   [
+    43.6,
+    58.5
+   ],
+   [
+    43.9,
+    58.2
+   ],
+   [
+    43.9,
+    61.5
+   ],
+   [
+    44,
+    59.6
+   ],
+   [
+    44.2,
+    60.7
+   ],
+   [
+    44.6,
+    55.8
+   ],
+   [
+    44.6,
+    56.9
+   ],
+   [
+    44.6,
+    58.9
+   ],
+   [
+    44.9,
+    60
+   ],
+   [
+    45.5,
+    59.1
+   ],
+   [
+    45.5,
+    59.7
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2081,
+  "name": "Sentinel Kyra Starsong",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    56,
+    59.4
+   ],
+   [
+    56,
+    59.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Help Sentinel Lynessa Duskblossom escape Ban'ethil Barrow Den, and report her safety to Sentinel Kyra Starsong in Dolanaar.   Escort Lynessa Duskblossom out of Ban'ethil  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 275744,
+   "name": "Sentinel Lynessa Duskblossom",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Escort Lynessa Duskblossom out of Ban'ethil",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 275744,
+   "name": "Sentinel Lynessa Duskblossom",
+   "coord": [
+    44.6,
+    58.9
+   ],
+   "coords": [
+    [
+     43,
+     58.9
+    ],
+    [
+     43.3,
+     59.8
+    ],
+    [
+     43.4,
+     61.8
+    ],
+    [
+     43.6,
+     54.2
+    ],
+    [
+     43.6,
+     58.5
+    ],
+    [
+     43.9,
+     58.2
+    ],
+    [
+     43.9,
+     61.5
+    ],
+    [
+     44,
+     59.6
+    ],
+    [
+     44.2,
+     60.7
+    ],
+    [
+     44.6,
+     55.8
+    ],
+    [
+     44.6,
+     56.9
+    ],
+    [
+     44.6,
+     58.9
+    ],
+    [
+     44.9,
+     60
+    ],
+    [
+     45.5,
+     59.1
+    ],
+    [
+     45.5,
+     59.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 2081,
+   "name": "Sentinel Kyra Starsong",
+   "coord": [
+    56,
+    59.4
+   ],
+   "coords": [
+    [
+     56,
+     59.4
+    ],
+    [
+     56,
+     59.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 4,
+   "date": "2026-10-06T18:17:55-05:00",
+   "body": "Hey, this Sentinel actually walks pretty fast! [b]And[/b] deals damage!\r\n\r\nShe spawns in the bottom layer of the cave system, in an alcove right next to where [npc=7318] patrols. You'll be walking all the way out of the cave with her, and when she reaches the road, the quest will be completed.\r\n\r\nBefore doing this, you may want to finish [quest=2541] and the next part [quest=2561] as well as [quest=483], as she's going to be moving out at a pretty quick pace. If you let her go too far away from you, the quest will fail.\r\n\r\nAlso, I didn't pay any attention as to whether I received any XP/reputation doing this, but the database currently doesn't show it as giving any. That's quite odd. If there is no reward outside of the quiver/sword, camping for this escort might not actually be worth your time.",
+   "replies": [
+    "Can confirm it gives absolutely zero experience or reputation as of 10/12/26 on the beta. I've submitted a bug report on this.",
+    "It gave experience + Reputation when I did it on 10/14/26 in the Beta.",
+    "Why lie? It still does not grant any experience or reputation as of 10/16/26 on the beta."
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2026-10-14T21:19:13-05:00",
+   "body": "For some reason, her \"Waiting on you.\" dialogue actually has an accompanying voice clip. None of her other dialogue does this.\r\n\r\nalso yeah, October 14th 2026, still not getting any exp from this quest.",
+   "replies": []
+  }
+ ]
+}

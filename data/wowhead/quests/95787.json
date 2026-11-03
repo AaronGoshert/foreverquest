@@ -1,0 +1,75 @@
+{
+ "id": 95787,
+ "name": "Take Two With Water",
+ "level": 40,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 16550,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3150,
+ "start": null,
+ "end": null,
+ "patch": "1.60.1.70338",
+ "objectiveText": "Use the hide and charcoal to create rubbings of the tablets found in the Drowned City. The First Tablet of I'lalai  ( 1 ) The Second Tablet of I'lalai  ( 1 ) The Third Tablet of I'lalai  ( 1 ) The Fourth Tablet of I'lalai  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 270308,
+   "name": "The First Tablet of I'lalai",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 270309,
+   "name": "The Second Tablet of I'lalai",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 270310,
+   "name": "The Third Tablet of I'lalai",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 270311,
+   "name": "The Fourth Tablet of I'lalai",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "The First Tablet of I'lalai",
+   "count": 1,
+   "type": "item",
+   "id": 270308
+  },
+  {
+   "text": "The Second Tablet of I'lalai",
+   "count": 1,
+   "type": "item",
+   "id": 270309
+  },
+  {
+   "text": "The Third Tablet of I'lalai",
+   "count": 1,
+   "type": "item",
+   "id": 270310
+  },
+  {
+   "text": "The Fourth Tablet of I'lalai",
+   "count": 1,
+   "type": "item",
+   "id": 270311
+  }
+ ],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

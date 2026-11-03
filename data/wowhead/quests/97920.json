@@ -1,0 +1,112 @@
+{
+ "id": 97920,
+ "name": "Camping 101: Fishing",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 263399,
+  "name": "Sam Sarsaparilla",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    44.8,
+    63.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1651,
+  "name": "Lee Brown",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    47.4,
+    62.2
+   ],
+   [
+    47.6,
+    62.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Speak with Lee Brown near Goldshire to learn to craft a camping item for your profession once you have shown proficiency in your skill.   Raise your fishing skill to 20  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1651,
+   "name": "Lee Brown",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Raise your fishing skill to 20",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 263399,
+   "name": "Sam Sarsaparilla",
+   "coord": [
+    44.8,
+    63.2
+   ],
+   "coords": [
+    [
+     44.8,
+     63.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 1651,
+   "name": "Lee Brown",
+   "coord": [
+    47.4,
+    62.2
+   ],
+   "coords": [
+    [
+     47.4,
+     62.2
+    ],
+    [
+     47.6,
+     62.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-25T14:54:54-05:00",
+   "body": "If you have this quest and are wondering where you find the fishing pole it is bought from the trade supplies vendor [npc=66] in goldshire. Also another tip is to pick up cooking from [npc=1430] in the goldshire inn and use the fish that you get from leveling up fishing to help level your cooking. You can get from level 1-50+ with the fish and the recipe is sold from the trade supplies vendor. Easy way to knock out both of these professions early.",
+   "replies": []
+  }
+ ]
+}

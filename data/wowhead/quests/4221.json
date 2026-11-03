@@ -1,0 +1,97 @@
+{
+ "id": 4221,
+ "name": "Corrupted Windblossom",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 3,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": {
+  "type": "object",
+  "id": 174604,
+  "name": "Corrupted Windblossom",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    39,
+    59.1
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 174604,
+  "name": "Corrupted Windblossom",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    39,
+    59.1
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Progress You have found a sickly, corrupted version of what appears to be a windblossom plant.  The berries that hang from the plant appear rotten and poisonous.  It desperately needs some sort of attention if it is to be turned back to normal. Cenarion Plant Salve  ( 2 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11516,
+   "name": "Cenarion Plant Salve",
+   "count": 2,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Cenarion Plant Salve",
+   "count": 2,
+   "type": "item",
+   "id": 11516
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 2,
+   "id": 174604,
+   "name": "Corrupted Windblossom",
+   "coord": [
+    39,
+    59.1
+   ],
+   "coords": [
+    [
+     39,
+     59.1
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 2,
+   "id": 174604,
+   "name": "Corrupted Windblossom",
+   "coord": [
+    39,
+    59.1
+   ],
+   "coords": [
+    [
+     39,
+     59.1
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

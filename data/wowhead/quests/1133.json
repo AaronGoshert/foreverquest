@@ -1,0 +1,286 @@
+{
+ "id": 1133,
+ "name": "Journey to Astranaar",
+ "level": 20,
+ "reqlevel": 18,
+ "side": 1,
+ "zoneId": 15,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 4456,
+  "name": "Fiora Longears",
+  "zone": "Dustwallow Marsh",
+  "zoneId": 15,
+  "coords": [
+   [
+    66.4,
+    45.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3845,
+  "name": "Shindrell Swiftfire",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    34.6,
+    48.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Speak with Shindrell Swiftfire in Astranaar.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3845,
+   "name": "Shindrell Swiftfire",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  1132,
+  1133
+ ],
+ "points": [
+  {
+   "zoneId": 15,
+   "zone": "Dustwallow Marsh",
+   "point": "start",
+   "type": 1,
+   "id": 4456,
+   "name": "Fiora Longears",
+   "coord": [
+    66.4,
+    45.2
+   ],
+   "coords": [
+    [
+     66.4,
+     45.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 3845,
+   "name": "Shindrell Swiftfire",
+   "coord": [
+    34.6,
+    48.8
+   ],
+   "coords": [
+    [
+     34.6,
+     48.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 16,
+   "date": "2006-10-14T07:37:38-05:00",
+   "body": "Can report that it gives no XP or favour\n\nI had already taken the boat to Auberdine so I flew it was good fun and since it was my first time I enjoyed it. I wouldn't do it twice though.\n\nThere are some nice quests in Astranaar for my level (23)",
+   "replies": [
+    "Yes it gives some XP just not worth it if you are XP hungry .. however if you are in the area you might as well do it ... starts in Menethil Harbor where you go to Theramore Isle to find mrs. Longears who became a nice Bloodelf (wonder why) in the Inn in the 2.0 patch .. She will give you this quest to go back to Astranaar."
+   ]
+  },
+  {
+   "rating": 12,
+   "date": "2007-03-18T20:46:19-05:00",
+   "body": "Well i walked the whole way as a lvl 34 paladin.  Thought it was plain sailing til i got got my butt handed to me by all the lvl 40 Horde guards.  Didn't realise they were going to be on the way. That'll teach me for not doing my research :p  Saw some stuff I hadn't seen before though so i did enjoy it",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-11-19T19:37:38-06:00",
+   "body": "I did this quest at level 19 (right after arriving in Menethil from Loch Modan), on foot. Yes, it did absolutely nothing.\n\nI guess the point of the quest really is to get you to see more of the world, since the path on foot does take you through the marsh, the barrens, and Ashenvale. I did have some close calls with enemies way above my level (19), particularly in the swamp, and you have to leave the road to walk around the perimiter of the Crossroads (thankfully for me the cemetery was right next to the south gate where I got slaughtered by the guards). It was a pretty fun trek, since I'm relatively new to the game and it's my first character, but if I play another character I probably won't bother with it again.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-08-02T07:37:38-05:00",
+   "body": "got at lvl 22, happened to finish the \"the corruption aboard\" quest at auberdine on the way. got 1450 exp for this quest. start running south, 145 exp for discovering maestra's post, 155 for astranaar but none for completing the quest itself.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-08-19T09:59:57-05:00",
+   "body": "what's everyone wining about xp? you'll get xp when you discover all the new places...",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-03-09T07:37:38-06:00",
+   "body": "I can't friggen find the boat which takes you to Auberdine in Theramore :( please tell me which dock it's on",
+   "replies": [
+    "12 years later I will answer the question for you. The one on the left side at Menethil Harbor to Theramore. The right side one goes to Auberdine."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-14T07:37:38-05:00",
+   "body": "Don't you think it's to get the flight path from Theramore to Darkshore. \n\nSurely that's quicker to get to darkshore than going back to Menethil Harbour.\n\nThe flight master is dead straight after you get off the boat.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-12-26T07:37:38-06:00",
+   "body": "If nothing else, it gives u some flight paths and im sure thats a good enough reason 4 many ppl. And no Charlynz, its faster 2 HS 2 IF (if ur stone takes u there) and then go Menethil/Auberdine cuz the flight from Theramore takes 10+ mins. Too dang boring 2 hang there in the air so long!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-09T07:37:38-06:00",
+   "body": "Confirmed at lvl 23, no xp, no rep... I can understand it's a quest to get the fp, though, anyone at lvl 20 not smart enough to find the fp first thing in a new city... Well, I'd say that's not too smart...\nThough this kinda sucks, I forgot for a sec that there was a boat going to auberdine, so I flew for about 9 mins... for nothing...\n\nAnyhow, advise: if ya ever been to astranaar already, don't do the quest. I you haven't been there already, you can do the quest or you can just get there for a q that does actually yield xp.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-13T08:04:09-05:00",
+   "body": "This is a good quest, it serves its purpose, no idea what people are crying about. I just did this on my mage, decided to go the Darkshore to Astranar route. Long walk but the point of the quest is to explore differant areas and also to open up your questing options. Granted this quest differs from others becasue you dont get money/exp/ZOMG GREENS etc. but exploring is way more rewarding than experience.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-02-17T01:24:50-06:00",
+   "body": "The point of this quest is just like the various ones in Westfall/Lakeshire/etc that send you back and forth between those areas and, say Darkshire. Or the Dwarven ones that send you to Dun Murgoth and then to Menethil Harbour - it's just to get people to visit zones X, Y and Z to \"see the world\". \n\nOf course if you've already seen it, there's not a great deal of point to them, but it's to get the more ..timid players to see some new zones.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-14T19:37:38-05:00",
+   "body": "u might want to pick up the kayneth quest doing this will open alot of new quest that wheren't there at the begianing there are 7 to 8 quest there now",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-14T04:43:57-05:00",
+   "body": "Personally I liked the quest.  I liked the whole exploring and looking over your shoulder aspect.  It is what the game was designed for.  Those of you that say you died x number of times?  How?  I got ganked by a ? but other then that I fended off all attackers.  It did take some time however with all the running so I suggest if you do not have the time dont do it until you do.  It can be quite boring if no action comes your way.   My suggestion is to zig zag on and off the road.  Discover the areas to the sides of the roads as well as the road.  You actually get quite a bit of xp like that.  I did not keep tally but at level 21 I prolly gained well over 2k in just discovery not counting what I killed on the way and the quest options it opened up.  All in all I would say with discover and kills I netted upwards around 5k total while on this quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-16T11:16:50-06:00",
+   "body": "I took the easy way and took the boat back to darkshore and down to Astranaar. I got *nothing*! I don't know if it expects you to hoof it or what, but I was pissed.\n\nDon't waste your time.\n--\nFigmental LVL19 Night Elf Druid",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-30T02:07:38-06:00",
+   "body": "This is to get you to go places and the ones that do the dangerous trot get exp, the others get nothing.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-23T16:19:06-06:00",
+   "body": "As a level 24 Mage I got killed 4 times in the before I reached the next town. Staying on the road helped NOT at all and everything was to high level for my spells to stop. \nSo I hearthstoned out for now may try it later.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-10T06:34:30-06:00",
+   "body": "lmao no, did you people actually think you were going to get experience just for talking to some night elf?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-23T10:57:23-06:00",
+   "body": "I took the griffon from Theramor to Darkshore.  And I didn't get any exp either.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-01T01:48:40-05:00",
+   "body": "this quest wasn't so bad it's the 2nd part that was hard for me.",
+   "replies": [
+    "Unless, of course, you had already discovered all of those places earlier, and had only taken the quest for possible xp/rep rewards.  14 silver and a bunch of time lost, when I could've simply taken the Auberdine boat instead and not missed out on anything.  Sigh.  At least nothing can gank you in the air (anymore)."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-30T21:35:34-06:00",
+   "body": "I just did this quest.  It is either broken, or you do have to WALK the whole way.  I took the flight from Theramore to Auberdine and then ran to Astranaar.  Completed successfully, but got ZERO experience.  grrrr.  \nNice 15 minute flight though.... <sarcasm>\n\nWaste of time.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-27T06:10:25-06:00",
+   "body": "Maybe this is a bug? I did what fig suggested and walked. Oh what a long and dangerous walk it was... still nothing.\nTerrier LV25 gnome mage",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-10T07:56:39-06:00",
+   "body": "I took the hard way there and walked all the way from Theramore to Astranaar and got zero experiences as a level 25 Human Paladin.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-15T16:23:24-05:00",
+   "body": "As people said, this is a quest to get people 'out there', as it were.  As I'm a level 18 Night Elf, I just took the boat to Darkshore, and flew the rest.  However, I imagine it's a good one to run (and explore), provided all those nasty ? Alligators don't kill you. >_<",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-27T06:34:28-06:00",
+   "body": "I flew from Theramore to Darkshore then legged it to Astranaar and got the quest completed. Don't recall the exp though.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-17T22:46:07-06:00",
+   "body": "I ran all the way (it was scary - many of the beasties were very high level to me - like around level 35+) and I was grateful of my Divine Auras and Blessing sof Protection. But, exploring new places is exciting. When I arrived in Astranar, I spoke to the NPC and got the exp reward.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-28T02:43:08-06:00",
+   "body": "Shindrell Swiftfire is located [ Ashenvale ] 34 , 48\n\nFinshed This Quest with LVL 23 Human Mage, Received:\n\nExperience Gained: 0\nReputation Increased By: 0\n\nPretty ^&*!ty reward if I do say so myself. lol",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-21T07:37:38-05:00",
+   "body": "Guys i am for the 1st time in WOW.i play for some time (L2-Offisial Char TheCop)(2 sub classes and hero) and now i am NOOB ^^ in WOW.but can some 1 told me how to get the Astranaar plz. TY guys and have fun.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-11-15T12:36:04-06:00",
+   "body": "Level 35 and cannot be bothered trying to find the damned place now.\nI've had the quest for months and just can't be arsed with it anymore.\n\nOff to do some better and less pointless quests now!",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2005-02-06T10:41:32-06:00",
+   "body": "This really is a crappy quest.  Maybe all it should be is to go to theramore and accept any quest.  I'm a night elf, so I just took the griffen flight path to Aubrdine/dark shore and then another flight down to astranaar.  No reward or anything.  Just a waste of my time.",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2005-02-03T12:02:34-06:00",
+   "body": "wow this quest sux so much :<",
+   "replies": []
+  },
+  {
+   "rating": -13,
+   "date": "2005-02-07T21:41:25-06:00",
+   "body": "This quest sucks.",
+   "replies": []
+  }
+ ]
+}

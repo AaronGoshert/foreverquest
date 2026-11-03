@@ -1,0 +1,197 @@
+{
+ "id": 3625,
+ "name": "Enchanted Azsharite Fel Weaponry",
+ "level": 58,
+ "reqlevel": 45,
+ "side": 3,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 620,
+ "start": {
+  "type": "npc",
+  "id": 7802,
+  "name": "Galvan the Ancient",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    50.4,
+    20.4
+   ],
+   [
+    50.4,
+    20.6
+   ],
+   [
+    50.6,
+    20.4
+   ],
+   [
+    50.6,
+    20.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7802,
+  "name": "Galvan the Ancient",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    50.4,
+    20.4
+   ],
+   [
+    50.4,
+    20.6
+   ],
+   [
+    50.6,
+    20.4
+   ],
+   [
+    50.6,
+    20.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Wait for Galvan to finish forging the weaponry.   Weaponry Creation  ( 1 )",
+ "objectives": [],
+ "objectiveRows": [
+  {
+   "text": "Weaponry Creation",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [
+  3621,
+  3625,
+  3626,
+  3627,
+  3628
+ ],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "start",
+   "type": 1,
+   "id": 7802,
+   "name": "Galvan the Ancient",
+   "coord": [
+    50.6,
+    20.4
+   ],
+   "coords": [
+    [
+     50.4,
+     20.4
+    ],
+    [
+     50.4,
+     20.6
+    ],
+    [
+     50.6,
+     20.4
+    ],
+    [
+     50.6,
+     20.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "end",
+   "type": 1,
+   "id": 7802,
+   "name": "Galvan the Ancient",
+   "coord": [
+    50.6,
+    20.4
+   ],
+   "coords": [
+    [
+     50.4,
+     20.4
+    ],
+    [
+     50.4,
+     20.6
+    ],
+    [
+     50.6,
+     20.4
+    ],
+    [
+     50.6,
+     20.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 42,
+   "date": "2006-12-17T13:56:48-06:00",
+   "body": "Don't use the weapon, i just found out the fallen hero of the horde has an option to give u a Fel Salve in case you destroy your weapons. I didn't destroy my weapon, but he gave me the fel salve anyways, and its better than the weapons! read on \n\n\"this item is better than the weapons we get for this quest. It doesn't have an equip cooldown, where u have to wait 30 seconds after equipping it before you can use it. it also doesn't have a 10 minute cooldown like the weapons do once used! so u can use this more than once in a single fight, which they don't let you do with the weapon, and since the debuff doesn't last very long, its a lot more useful than the damn weapons. now u can use your regular weapon and not take a hit to your stats, and get extra debuff. I don't know why everyone doesn't think of this! get it by talking to the fallen hero of the horde, once u have gotten the weapon. he has an option where u can tell him you destroyed your Azsharite weapon, and hell give you this potion",
+   "replies": [
+    "This potion is used instead of the weapons  https://www.wowhead.com/forever/item=11582",
+    "In other words, get the staff and vend it"
+   ]
+  },
+  {
+   "rating": 13,
+   "date": "2005-12-28T12:34:19-06:00",
+   "body": "Don't destroy your felbane weapon after you finish the whole quest chain - it sells for over 5g to vendors.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-05-23T12:34:19-05:00",
+   "body": "If you leave too soon you will get a silver ? so then abandon quest and he will give you a yellow !&nbsp; Back on the road again!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-12-12T05:58:09-06:00",
+   "body": "dont use the weapon, i just found out the fallen hero of the horde has an option to give u a Fel Salve incase you destroy your weapons.  I didn't destroy my weapon, but he gave me the fel salve anyways, and its better than the weapons! read on\n\n\"this item is better than the weapons we get for this quest. lol it doesnt have an equip cooldown, where u have to wait 30 seconds after equipping it before you can use it.  it also doesnt have a 10 minute cooldown like the weapons do once used! so u can use this more than once in a single fight, which they don't let you do with the weapon, and since the  debuff doesnt last very long, its a lot more useful than the damn weapons.  now u can use your regular weapon and not take a hit to your stats, and get extra debuff. lol i dont know why everyone doesn't think of this!  get it by talking to the fallen hero of the horde, once u have gotten the weapon.  he has an option where u can tell him you destroyed ur azsharite weapon, and hell give you this potion.\"",
+   "replies": [
+    "Ok, but can you do both and really double up on the anti demon AP? Get the potion, apply it to your off hand and use the Felbane main hand?"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-23T12:34:19-05:00",
+   "body": "this guy has a silver ?&nbsp; but he keeps telling me not to interuprt him. how long should this take ?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-17T00:34:19-05:00",
+   "body": "you go to a guy called [b]Ambassador Ardalan[/b] hes in nerthergarde keep fair tower hes a blood elf and will give you a quest called [b]Petty Squabbles[/b] this quest will start the chain for the alliance",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-10T22:18:21-05:00",
+   "body": "He forges a sword, dagger, or staff for use in killing the named mobs in the next part of the quest.\n\n[item=10696]",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-07-27T16:58:05-05:00",
+   "body": "Just completed this quest and chose the staff, but the item never showed up in my inventory.\nThe chat window says \"Recieved item: Enchanted Azsharite Felbane Staff.\"\nThis is rather annoying, considering the number of prequests I had to do just to get this far.",
+   "replies": []
+  }
+ ]
+}

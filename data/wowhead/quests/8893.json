@@ -1,0 +1,132 @@
+{
+ "id": 8893,
+ "name": "The Super Egg-O-Matic",
+ "level": 47,
+ "reqlevel": 42,
+ "side": 3,
+ "zoneId": 440,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "object",
+  "id": 142071,
+  "name": "Egg-O-Matic",
+  "zone": "Tanaris",
+  "zoneId": 440,
+  "coords": [
+   [
+    52.4,
+    27
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 142071,
+  "name": "Egg-O-Matic",
+  "zone": "Tanaris",
+  "zoneId": 440,
+  "coords": [
+   [
+    52.4,
+    27
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Progress The Super Egg-O-Matic is the latest of Curgle Cranklehop's inventions. It is quite an impressive piece of machinery. The Super Egg-O-Matic sputters wildly as you approach the control panel. Hippogryph Egg  ( 1 )",
+ "objectives": [
+  {
+   "type": "object",
+   "id": 142071,
+   "name": "Egg-O-Matic",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 8564,
+   "name": "Hippogryph Egg",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Hippogryph Egg",
+   "count": 1,
+   "type": "item",
+   "id": 8564
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "start",
+   "type": 2,
+   "id": 142071,
+   "name": "Egg-O-Matic",
+   "coord": [
+    52.4,
+    27
+   ],
+   "coords": [
+    [
+     52.4,
+     27
+    ]
+   ]
+  },
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "end",
+   "type": 2,
+   "id": 142071,
+   "name": "Egg-O-Matic",
+   "coord": [
+    52.4,
+    27
+   ],
+   "coords": [
+    [
+     52.4,
+     27
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2006-04-01T12:57:36-06:00",
+   "body": "Are the Hippogryph eggs from Azshara?  Or Feralas, south of Dire Maul along the cliffs?",
+   "replies": [
+    "They are in Feralas. All the way down behind the ogres is the mountain range. Look for nests there. Some times there is an egg in one of them. You can only carry one egg at a time though, since its unique!",
+    "I found a group of 4 nests around 58, 76... return the egg to Tanaris when you have the egg. "
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-29T03:22:49-06:00",
+   "body": "I'm found this nest..\nWhere to carry this egg?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-11-09T11:16:58-06:00",
+   "body": "This kind of repeatable follow up quests doesn't get tracked by the WoWHead tracker.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-04-01T22:28:43-06:00",
+   "body": "I think they r in Hinterlands",
+   "replies": []
+  }
+ ]
+}

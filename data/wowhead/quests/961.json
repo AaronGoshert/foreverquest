@@ -1,0 +1,119 @@
+{
+ "id": 961,
+ "name": "Onu is Meditating",
+ "level": 1,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 3616,
+  "name": "Onu",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    43.4,
+    76.2
+   ],
+   [
+    43.6,
+    76.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3616,
+  "name": "Onu",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    43.4,
+    76.2
+   ],
+   [
+    43.6,
+    76.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Completion The finding of Twilight's Hammer cultists is troubling.  I must meditate on their intentions... When you have more information, speak to me through a scrying bowl.  If you require a phial of scrying in order to create a bowl, then...here is another.",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5251,
+   "name": "phial of scrying",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 3616,
+   "name": "Onu",
+   "coord": [
+    43.6,
+    76.4
+   ],
+   "coords": [
+    [
+     43.4,
+     76.2
+    ],
+    [
+     43.6,
+     76.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 3616,
+   "name": "Onu",
+   "coord": [
+    43.6,
+    76.4
+   ],
+   "coords": [
+    [
+     43.4,
+     76.2
+    ],
+    [
+     43.6,
+     76.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2006-12-13T13:28:40-06:00",
+   "body": "This is a duplicate of [url=/quest=960][/url]",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-03-28T18:10:10-05:00",
+   "body": "just delete the phial of scrying you already have then speak to onu again and the quest is complete simple",
+   "replies": []
+  }
+ ]
+}

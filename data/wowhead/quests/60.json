@@ -1,0 +1,675 @@
+{
+ "id": 60,
+ "name": "Kobold Candles",
+ "level": 7,
+ "reqlevel": 3,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 475,
+ "start": {
+  "type": "npc",
+  "id": 253,
+  "name": "William Pestle",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    43.2,
+    65.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253,
+  "name": "William Pestle",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    43.2,
+    65.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 8 Large Candles to William Pestle in Goldshire. Large Candle  ( 8 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 772,
+   "name": "Large Candles",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Large Candle",
+   "count": 8,
+   "type": "item",
+   "id": 772
+  }
+ ],
+ "series": [
+  60,
+  61
+ ],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 253,
+   "name": "William Pestle",
+   "coord": [
+    43.2,
+    65.8
+   ],
+   "coords": [
+    [
+     43.2,
+     65.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 253,
+   "name": "William Pestle",
+   "coord": [
+    43.2,
+    65.8
+   ],
+   "coords": [
+    [
+     43.2,
+     65.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 40,
+   "name": "Kobold Miner",
+   "coord": [
+    39.6,
+    80.2
+   ],
+   "coords": [
+    [
+     39,
+     81
+    ],
+    [
+     39.4,
+     80.2
+    ],
+    [
+     39.6,
+     80.2
+    ],
+    [
+     39.8,
+     78.8
+    ],
+    [
+     39.8,
+     80.6
+    ],
+    [
+     40,
+     78.4
+    ],
+    [
+     40.4,
+     82.2
+    ],
+    [
+     40.6,
+     81.6
+    ],
+    [
+     40.8,
+     80.4
+    ],
+    [
+     40.8,
+     80.6
+    ],
+    [
+     41,
+     78.2
+    ],
+    [
+     41.4,
+     79
+    ],
+    [
+     41.6,
+     78
+    ],
+    [
+     41.6,
+     78.6
+    ],
+    [
+     41.6,
+     80
+    ],
+    [
+     41.8,
+     81
+    ],
+    [
+     60,
+     49.4
+    ],
+    [
+     60.4,
+     49.8
+    ],
+    [
+     60.8,
+     49.4
+    ],
+    [
+     61.2,
+     51.4
+    ],
+    [
+     61.4,
+     50.2
+    ],
+    [
+     61.4,
+     52
+    ],
+    [
+     61.4,
+     52.8
+    ],
+    [
+     61.5,
+     50.1
+    ],
+    [
+     61.6,
+     53.4
+    ],
+    [
+     61.6,
+     53.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 327,
+   "name": "Goldtooth",
+   "coord": [
+    41.4,
+    78
+   ],
+   "coords": [
+    [
+     40.4,
+     78.2
+    ],
+    [
+     41.4,
+     78
+    ],
+    [
+     41.4,
+     79
+    ],
+    [
+     41.6,
+     78
+    ],
+    [
+     41.6,
+     78.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 475,
+   "name": "Kobold Tunneler",
+   "coord": [
+    39,
+    81.4
+   ],
+   "coords": [
+    [
+     36,
+     82.4
+    ],
+    [
+     36.2,
+     79
+    ],
+    [
+     37.4,
+     83.4
+    ],
+    [
+     37.4,
+     83.6
+    ],
+    [
+     37.4,
+     84.8
+    ],
+    [
+     37.4,
+     86.6
+    ],
+    [
+     37.6,
+     79
+    ],
+    [
+     37.6,
+     84.8
+    ],
+    [
+     37.6,
+     86.8
+    ],
+    [
+     37.8,
+     85.8
+    ],
+    [
+     38,
+     81.6
+    ],
+    [
+     38,
+     82.6
+    ],
+    [
+     38,
+     83.8
+    ],
+    [
+     38.4,
+     81.4
+    ],
+    [
+     38.6,
+     83.8
+    ],
+    [
+     38.8,
+     78.2
+    ],
+    [
+     39,
+     81.4
+    ],
+    [
+     39,
+     81.6
+    ],
+    [
+     39,
+     82.6
+    ],
+    [
+     39,
+     85
+    ],
+    [
+     39.2,
+     80.4
+    ],
+    [
+     39.6,
+     80.2
+    ],
+    [
+     39.6,
+     84.2
+    ],
+    [
+     40,
+     78.6
+    ],
+    [
+     40,
+     82.6
+    ],
+    [
+     40.4,
+     78.2
+    ],
+    [
+     40.4,
+     81.2
+    ],
+    [
+     40.4,
+     82.2
+    ],
+    [
+     40.6,
+     81.6
+    ],
+    [
+     40.8,
+     80.6
+    ],
+    [
+     41,
+     78.2
+    ],
+    [
+     41.4,
+     79
+    ],
+    [
+     41.4,
+     79.6
+    ],
+    [
+     41.6,
+     78.4
+    ],
+    [
+     41.6,
+     78.8
+    ],
+    [
+     41.6,
+     80
+    ],
+    [
+     41.8,
+     81
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 476,
+   "name": "Kobold Geomancer",
+   "coord": [
+    60.6,
+    50.8
+   ],
+   "coords": [
+    [
+     60,
+     56.4
+    ],
+    [
+     60.4,
+     50.4
+    ],
+    [
+     60.4,
+     50.6
+    ],
+    [
+     60.6,
+     50.8
+    ],
+    [
+     60.7,
+     49.6
+    ],
+    [
+     60.8,
+     56.6
+    ],
+    [
+     61,
+     49.2
+    ],
+    [
+     61,
+     56.4
+    ],
+    [
+     61.2,
+     51.6
+    ],
+    [
+     61.2,
+     55.4
+    ],
+    [
+     61.2,
+     58.6
+    ],
+    [
+     61.4,
+     53
+    ],
+    [
+     61.6,
+     53.4
+    ],
+    [
+     61.6,
+     53.8
+    ],
+    [
+     62.2,
+     55.4
+    ],
+    [
+     62.2,
+     55.6
+    ],
+    [
+     62.4,
+     58
+    ],
+    [
+     62.6,
+     54.2
+    ],
+    [
+     63.3,
+     55.2
+    ],
+    [
+     63.4,
+     58.4
+    ],
+    [
+     63.6,
+     58.4
+    ],
+    [
+     63.6,
+     58.6
+    ],
+    [
+     64.3,
+     57.2
+    ],
+    [
+     64.4,
+     55
+    ],
+    [
+     64.4,
+     56.3
+    ],
+    [
+     64.6,
+     55.1
+    ],
+    [
+     64.6,
+     56.4
+    ],
+    [
+     64.6,
+     56.6
+    ],
+    [
+     65,
+     58.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 248464,
+   "name": "Nimsy",
+   "coord": [
+    41.6,
+    79.8
+   ],
+   "coords": [
+    [
+     38.9,
+     82.2
+    ],
+    [
+     39,
+     80.8
+    ],
+    [
+     39.2,
+     80.2
+    ],
+    [
+     39.2,
+     82.8
+    ],
+    [
+     39.5,
+     80.3
+    ],
+    [
+     39.7,
+     79.3
+    ],
+    [
+     40.8,
+     80.6
+    ],
+    [
+     41.4,
+     80
+    ],
+    [
+     41.6,
+     79.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 248474,
+   "name": "Geosculptor Yip",
+   "coord": [
+    61.3,
+    48.9
+   ],
+   "coords": [
+    [
+     60.3,
+     49.4
+    ],
+    [
+     60.3,
+     49.9
+    ],
+    [
+     60.8,
+     49.5
+    ],
+    [
+     60.9,
+     51.2
+    ],
+    [
+     61.2,
+     47
+    ],
+    [
+     61.3,
+     48.9
+    ],
+    [
+     61.4,
+     48.2
+    ],
+    [
+     61.5,
+     47.6
+    ],
+    [
+     61.6,
+     47.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 39,
+   "date": "2006-10-07T01:56:21-05:00",
+   "body": "This one is very easy - cords are at 39.82.\n\nBe sure you also have the following:\n\nLVL 7 The Fargodeep Mine\nLVL 7 Gold Dust Exchange\n\nIf you do not have the downloads, use your mouse to find the location or just south (south east) of Goldshire.&nbsp; Heavy action in getting your share - lots of new Alliance come to get these three knocked out.",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2006-04-07T13:56:21-05:00",
+   "body": "The TLOC is 61,53\nThe miner workers cary small and LARGE candles. Just keep killing and you will get what you need.\nAs a bonus, some will drop the Gold Dust.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2006-12-07T19:37:25-06:00",
+   "body": "Advice for the newbie : When you go at the Kobold's Mine , take the quest Kobold Candles, Gold Dust Exchange and do it one shot :)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-10-14T09:12:32-05:00",
+   "body": "Hi all\r\n\r\nOn This Quest you need to find 8 [item=772]. It is droping from Kobolds you can find them out side and inside mine 38 83. Drop is very low you will need to kill like 30 mobs to get all.\r\n\r\nSee My Video if need it - https://youtu.be/6G-HvOr5dlM\r\n\r\nHope that help You :).",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-17T20:27:12-05:00",
+   "body": "38,83 from Kobolds",
+   "replies": []
+  }
+ ]
+}

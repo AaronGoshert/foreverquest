@@ -1,0 +1,165 @@
+{
+ "id": 283,
+ "name": "A Dark Threat Looms",
+ "level": 20,
+ "reqlevel": 16,
+ "side": 1,
+ "zoneId": 38,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1950,
+ "start": {
+  "type": "object",
+  "id": 1585,
+  "name": "Explosive Charge",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    50.6,
+    14.4
+   ],
+   [
+    50.6,
+    14.5
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1093,
+  "name": "Chief Engineer Hinderweir VII",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    46,
+    13.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "The Disarming Mixture seemed to take effect. Return to Chief Engineer Hinderweir to report the good news.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [
+  250,
+  199,
+  161,
+  274,
+  278,
+  280,
+  283
+ ],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 2,
+   "id": 1585,
+   "name": "Explosive Charge",
+   "coord": [
+    50.6,
+    14.4
+   ],
+   "coords": [
+    [
+     50.6,
+     14.4
+    ],
+    [
+     50.6,
+     14.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 1093,
+   "name": "Chief Engineer Hinderweir VII",
+   "coord": [
+    46,
+    13.6
+   ],
+   "coords": [
+    [
+     46,
+     13.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 47,
+   "date": "2007-01-08T18:04:45-06:00",
+   "body": "It was a pain to find cause it's murky and the keg blends in real well with the ground, but this is exactly where it is: \nLooking at the dam in the mini map, locate the middle of the dam.&nbsp; \nThe keg is located here (*X*) between the middle and the east ramp at the base of the dam.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n&nbsp; V&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; V\nWest&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *X*&nbsp; &nbsp; &nbsp; &nbsp; East\nramp&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; V&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; KEG&nbsp; &nbsp; &nbsp; ramp&nbsp; \n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Middle\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; of dam",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2007-03-22T18:04:45-05:00",
+   "body": "The Explosive Barrel is At Coordinates 50,14",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-02-14T06:04:45-06:00",
+   "body": "Does the reward seem a little weak for the end of this line of quests?\n\nWhile killing the Ogres for the gem I got a better weapon drop then the ultimate reward choices.\n\nSad.",
+   "replies": [
+    "I mean, the two handed axe is good and all, but I expected something a little bigger.&nbsp; But it was 1950 xp, plus 150 reputation with IF."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-14T19:48:48-05:00",
+   "body": "Bad rewards if you do the quest on lvl 20+ , on lvl 20 you already must visested deadmines to get cruel barb :P",
+   "replies": [
+    "Bad maybe to use, but I won't turn down 17s."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-03-19T12:40:45-06:00",
+   "body": "Rewards:\n\n[url=/item=2907]Dwarven Tree Chopper[/url]\n\n[url=/item=2908]Thornblade[/url]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-27T18:04:45-05:00",
+   "body": "Significant Ironforge faction from completing this quest.&nbsp; Pushed me from Friendly to the next level.\n\n~ a Dwarf",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-09T00:44:37-06:00",
+   "body": "I was 21 when finished this and had not been to deadmines, so would love to have this sweep blade for my rogue.  However, upon return to the guy he is not lit up so guess I lost the reward.  Bah!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-27T05:36:34-05:00",
+   "body": "yeah thanks a bunch everone, you guys rock!",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2006-09-21T06:04:45-05:00",
+   "body": "Killed about 20 ogres, then killed Emogg the Crusher and he dropped it. I hear other people have had better luck getting the crystal off him",
+   "replies": [
+    "It dropped off of the first ogre I killed.&nbsp; Just lucky I guess."
+   ]
+  },
+  {
+   "rating": -10,
+   "date": "2005-02-25T16:47:11-06:00",
+   "body": "After completing this part you head back to Chief Engineer Hinderweir VII and he thanks you for the help. This point you choose between 2 weapons as your reward The weapons are a 2h axe dont remeber the name but the DPS is like 13.0 or a Dagger which is 10.0 DPS and it has 2 agi as a stat also the speed of the dagger is 1.60",
+   "replies": []
+  }
+ ]
+}

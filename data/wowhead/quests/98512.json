@@ -1,0 +1,151 @@
+{
+ "id": 98512,
+ "name": "Al'Aketh Assassins",
+ "level": 11,
+ "reqlevel": 6,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 880,
+ "start": {
+  "type": "npc",
+  "id": 273017,
+  "name": "Fendaal Windstone",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    56.8,
+    61
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 273017,
+  "name": "Fendaal Windstone",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    56.8,
+    61
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Kill 10 Al'Aketh Assassins in the Shen'dar Highlands.   Al'Aketh Assassin slain  ( 10 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 254626,
+   "name": "Al'Aketh Assassins",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Al'Aketh Assassin slain",
+   "count": 10,
+   "type": "npc",
+   "id": 254626
+  }
+ ],
+ "series": [
+  92881,
+  92643,
+  92644,
+  94568,
+  92640,
+  93065,
+  92947
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 273017,
+   "name": "Fendaal Windstone",
+   "coord": [
+    56.8,
+    61
+   ],
+   "coords": [
+    [
+     56.8,
+     61
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 273017,
+   "name": "Fendaal Windstone",
+   "coord": [
+    56.8,
+    61
+   ],
+   "coords": [
+    [
+     56.8,
+     61
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 254626,
+   "name": "Al'Aketh Assassin",
+   "coord": [
+    55.8,
+    59.3
+   ],
+   "coords": [
+    [
+     55,
+     61.6
+    ],
+    [
+     55.4,
+     59
+    ],
+    [
+     55.4,
+     59.8
+    ],
+    [
+     55.4,
+     61
+    ],
+    [
+     55.6,
+     59.8
+    ],
+    [
+     55.8,
+     59.3
+    ],
+    [
+     55.9,
+     61
+    ],
+    [
+     56.6,
+     60.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

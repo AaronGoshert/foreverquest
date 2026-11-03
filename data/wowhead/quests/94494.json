@@ -1,0 +1,145 @@
+{
+ "id": 94494,
+ "name": "Call of Water",
+ "level": 20,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 780,
+ "start": {
+  "type": "npc",
+  "id": 258098,
+  "name": "Eldrun Stormbreaker",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    46.2,
+    13
+   ],
+   [
+    47.2,
+    12.2
+   ],
+   [
+    47.4,
+    13.4
+   ],
+   [
+    47.4,
+    13.6
+   ],
+   [
+    47.6,
+    13.4
+   ],
+   [
+    47.6,
+    13.6
+   ],
+   [
+    47.8,
+    12.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 258043,
+  "name": "Norric Lochthane",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    41.8,
+    19
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Find Norric Lochthane in Loch Modan.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 258043,
+   "name": "Norric Lochthane",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  94494,
+  1530,
+  1535,
+  1536,
+  1534,
+  220
+ ],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 258098,
+   "name": "Eldrun Stormbreaker",
+   "coord": [
+    47.4,
+    13.6
+   ],
+   "coords": [
+    [
+     46.2,
+     13
+    ],
+    [
+     47.2,
+     12.2
+    ],
+    [
+     47.4,
+     13.4
+    ],
+    [
+     47.4,
+     13.6
+    ],
+    [
+     47.6,
+     13.4
+    ],
+    [
+     47.6,
+     13.6
+    ],
+    [
+     47.8,
+     12.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 258043,
+   "name": "Norric Lochthane",
+   "coord": [
+    41.8,
+    19
+   ],
+   "coords": [
+    [
+     41.8,
+     19
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

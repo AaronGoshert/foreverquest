@@ -1,0 +1,141 @@
+{
+ "id": 94488,
+ "name": "The Ties That Bind",
+ "level": 11,
+ "reqlevel": 8,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 880,
+ "start": {
+  "type": "npc",
+  "id": 257944,
+  "name": "Elegael Thornpaw",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    61.6,
+    39.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 257944,
+  "name": "Elegael Thornpaw",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    61.6,
+    39.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Kill Commander Haalien and bring his head to Elegael Thornpaw in the Shadowgale Forest. Commander Haalien's Severed Head  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 257944,
+   "name": "Elegael Thornpaw",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 265475,
+   "name": "Commander Haalien's Severed Head",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Commander Haalien's Severed Head",
+   "count": 1,
+   "type": "item",
+   "id": 265475
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 257944,
+   "name": "Elegael Thornpaw",
+   "coord": [
+    61.6,
+    39.2
+   ],
+   "coords": [
+    [
+     61.6,
+     39.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 257944,
+   "name": "Elegael Thornpaw",
+   "coord": [
+    61.6,
+    39.2
+   ],
+   "coords": [
+    [
+     61.6,
+     39.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 253622,
+   "name": "Commander Haalien",
+   "coord": [
+    65.5,
+    36.3
+   ],
+   "coords": [
+    [
+     65.2,
+     36.8
+    ],
+    [
+     65.4,
+     36.4
+    ],
+    [
+     65.5,
+     36.3
+    ],
+    [
+     65.5,
+     36.5
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-22T14:40:35-05:00",
+   "body": "The head of the commander is not in the cave. He is outside around 65 36.",
+   "replies": []
+  }
+ ]
+}

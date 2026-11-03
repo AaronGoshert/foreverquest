@@ -1,0 +1,191 @@
+{
+ "id": 92465,
+ "name": "Agitators",
+ "level": 3,
+ "reqlevel": 2,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 250,
+ "start": {
+  "type": "npc",
+  "id": 249363,
+  "name": "Yala Windwatcher",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    47.2,
+    21.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 249363,
+  "name": "Yala Windwatcher",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    47.2,
+    21.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Slay 6 Roiling Winds and 7 Al'Aketh Converts in Thendal Grove.   Al'Aketh Convert slain  ( 7 )   Roiling Winds destroyed  ( 6 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 251143,
+   "name": "Roiling Winds",
+   "count": 6,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 251160,
+   "name": "Al'Aketh Convert",
+   "count": 7,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Al'Aketh Convert slain",
+   "count": 7,
+   "type": "npc",
+   "id": 251160
+  },
+  {
+   "text": "Roiling Winds destroyed",
+   "count": 6,
+   "type": "npc",
+   "id": 251143
+  }
+ ],
+ "series": [
+  92464,
+  92465,
+  92469,
+  92470,
+  92472
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 249363,
+   "name": "Yala Windwatcher",
+   "coord": [
+    47.2,
+    21.8
+   ],
+   "coords": [
+    [
+     47.2,
+     21.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 249363,
+   "name": "Yala Windwatcher",
+   "coord": [
+    47.2,
+    21.8
+   ],
+   "coords": [
+    [
+     47.2,
+     21.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 251143,
+   "name": "Roiling Winds",
+   "coord": [
+    46.9,
+    20.9
+   ],
+   "coords": [
+    [
+     46.6,
+     20
+    ],
+    [
+     46.9,
+     20.9
+    ],
+    [
+     47.1,
+     19.1
+    ],
+    [
+     47.6,
+     20
+    ],
+    [
+     47.7,
+     19.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 251160,
+   "name": "Al'Aketh Convert",
+   "coord": [
+    46.5,
+    20.2
+   ],
+   "coords": [
+    [
+     46.5,
+     20.2
+    ],
+    [
+     46.8,
+     18.7
+    ],
+    [
+     47.3,
+     20.7
+    ],
+    [
+     47.8,
+     20.1
+    ],
+    [
+     47.9,
+     19.3
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-21T03:17:14-05:00",
+   "body": "Roiling Winds do nature auto attack damage.\r\nAl'Aketh Converts are shaman like humanoids, they will do auto attacks and shock as nature damage.",
+   "replies": []
+  }
+ ]
+}

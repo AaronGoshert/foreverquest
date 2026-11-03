@@ -1,0 +1,925 @@
+{
+ "id": 7726,
+ "name": "Refuel for the Zapping",
+ "level": 55,
+ "reqlevel": 45,
+ "side": 3,
+ "zoneId": 357,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": {
+  "type": "npc",
+  "id": 14637,
+  "name": "Zorbin Fandazzle",
+  "zone": "Feralas",
+  "zoneId": 357,
+  "coords": [
+   [
+    44.8,
+    43.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 14637,
+  "name": "Zorbin Fandazzle",
+  "zone": "Feralas",
+  "zoneId": 357,
+  "coords": [
+   [
+    44.8,
+    43.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Collect 6 Water Elemental Cores from the Sea Elementals and Sea Sprays along the Forgotten Coast of Feralas , and bring them back to Zorbin Fandazzle who is near the dock there. Water Elemental Core  ( 6 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 18958,
+   "name": "Water Elemental Cores",
+   "count": 6,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 14637,
+   "name": "Zorbin Fandazzle",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Water Elemental Core",
+   "count": 6,
+   "type": "item",
+   "id": 18958
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 357,
+   "zone": "Feralas",
+   "point": "start",
+   "type": 1,
+   "id": 14637,
+   "name": "Zorbin Fandazzle",
+   "coord": [
+    44.8,
+    43.4
+   ],
+   "coords": [
+    [
+     44.8,
+     43.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 357,
+   "zone": "Feralas",
+   "point": "end",
+   "type": 1,
+   "id": 14637,
+   "name": "Zorbin Fandazzle",
+   "coord": [
+    44.8,
+    43.4
+   ],
+   "coords": [
+    [
+     44.8,
+     43.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 357,
+   "zone": "Feralas",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 5461,
+   "name": "Sea Elemental",
+   "coord": [
+    45.6,
+    64.8
+   ],
+   "coords": [
+    [
+     34.2,
+     33.8
+    ],
+    [
+     34.4,
+     33.4
+    ],
+    [
+     35,
+     34.4
+    ],
+    [
+     35.2,
+     35
+    ],
+    [
+     35.6,
+     34.4
+    ],
+    [
+     35.6,
+     35.8
+    ],
+    [
+     35.8,
+     33.4
+    ],
+    [
+     36.2,
+     34.8
+    ],
+    [
+     37,
+     35.4
+    ],
+    [
+     37,
+     35.8
+    ],
+    [
+     37.2,
+     33.4
+    ],
+    [
+     37.2,
+     33.6
+    ],
+    [
+     38.2,
+     33.4
+    ],
+    [
+     38.2,
+     33.6
+    ],
+    [
+     40,
+     36.4
+    ],
+    [
+     40,
+     36.8
+    ],
+    [
+     40.2,
+     37.6
+    ],
+    [
+     41,
+     37.8
+    ],
+    [
+     41.4,
+     37.4
+    ],
+    [
+     41.4,
+     38.6
+    ],
+    [
+     41.6,
+     38.4
+    ],
+    [
+     41.8,
+     39.4
+    ],
+    [
+     41.8,
+     39.6
+    ],
+    [
+     43,
+     39.2
+    ],
+    [
+     43.4,
+     39.6
+    ],
+    [
+     43.6,
+     39.6
+    ],
+    [
+     44,
+     39.2
+    ],
+    [
+     44.4,
+     38.4
+    ],
+    [
+     44.4,
+     49.4
+    ],
+    [
+     44.4,
+     49.8
+    ],
+    [
+     44.4,
+     50.6
+    ],
+    [
+     44.6,
+     38.4
+    ],
+    [
+     44.6,
+     46.6
+    ],
+    [
+     44.6,
+     48
+    ],
+    [
+     44.6,
+     49.4
+    ],
+    [
+     44.6,
+     49.8
+    ],
+    [
+     44.8,
+     39
+    ],
+    [
+     44.8,
+     46.2
+    ],
+    [
+     45,
+     39.6
+    ],
+    [
+     45,
+     51.4
+    ],
+    [
+     45,
+     52
+    ],
+    [
+     45.4,
+     64.2
+    ],
+    [
+     45.4,
+     64.8
+    ],
+    [
+     45.4,
+     65.6
+    ],
+    [
+     45.4,
+     67.2
+    ],
+    [
+     45.6,
+     64.8
+    ],
+    [
+     45.6,
+     65.6
+    ],
+    [
+     45.6,
+     67.4
+    ],
+    [
+     45.6,
+     67.6
+    ],
+    [
+     45.8,
+     52
+    ],
+    [
+     45.8,
+     64.2
+    ],
+    [
+     46.2,
+     58.8
+    ],
+    [
+     46.4,
+     52.8
+    ],
+    [
+     46.4,
+     53.6
+    ],
+    [
+     46.4,
+     55.8
+    ],
+    [
+     46.4,
+     56.8
+    ],
+    [
+     46.4,
+     58.4
+    ],
+    [
+     46.4,
+     60.4
+    ],
+    [
+     46.4,
+     61.2
+    ],
+    [
+     46.4,
+     62.8
+    ],
+    [
+     46.6,
+     53.8
+    ],
+    [
+     46.6,
+     56.2
+    ],
+    [
+     46.6,
+     56.6
+    ],
+    [
+     46.6,
+     61
+    ],
+    [
+     46.6,
+     62.4
+    ],
+    [
+     46.6,
+     62.6
+    ],
+    [
+     46.6,
+     63.6
+    ],
+    [
+     46.8,
+     54.8
+    ],
+    [
+     46.8,
+     59.4
+    ],
+    [
+     47,
+     59.6
+    ],
+    [
+     47.2,
+     52.6
+    ],
+    [
+     47.4,
+     51.2
+    ],
+    [
+     47.4,
+     52.4
+    ],
+    [
+     47.6,
+     51
+    ],
+    [
+     47.8,
+     49.8
+    ],
+    [
+     47.8,
+     53.4
+    ],
+    [
+     48.4,
+     48.4
+    ],
+    [
+     48.4,
+     48.6
+    ],
+    [
+     48.4,
+     52.4
+    ],
+    [
+     48.6,
+     52.4
+    ],
+    [
+     49.4,
+     53.2
+    ],
+    [
+     49.6,
+     53.2
+    ],
+    [
+     49.8,
+     51.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 357,
+   "zone": "Feralas",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 5462,
+   "name": "Sea Spray",
+   "coord": [
+    45,
+    52
+   ],
+   "coords": [
+    [
+     34.2,
+     33.8
+    ],
+    [
+     34.4,
+     33.4
+    ],
+    [
+     34.4,
+     34.8
+    ],
+    [
+     35.4,
+     34.8
+    ],
+    [
+     35.4,
+     36.2
+    ],
+    [
+     35.6,
+     34.4
+    ],
+    [
+     35.6,
+     35.8
+    ],
+    [
+     35.8,
+     33.2
+    ],
+    [
+     36.2,
+     35
+    ],
+    [
+     37,
+     35.8
+    ],
+    [
+     37.2,
+     33.6
+    ],
+    [
+     37.2,
+     35
+    ],
+    [
+     37.4,
+     33
+    ],
+    [
+     38.2,
+     33.4
+    ],
+    [
+     38.2,
+     33.6
+    ],
+    [
+     39.8,
+     36.8
+    ],
+    [
+     40,
+     36.4
+    ],
+    [
+     40.2,
+     37.6
+    ],
+    [
+     41,
+     37.8
+    ],
+    [
+     41.4,
+     37.4
+    ],
+    [
+     41.4,
+     38.8
+    ],
+    [
+     41.6,
+     38.4
+    ],
+    [
+     41.8,
+     39.4
+    ],
+    [
+     41.8,
+     39.6
+    ],
+    [
+     43,
+     39.2
+    ],
+    [
+     43.4,
+     39.6
+    ],
+    [
+     43.6,
+     39.6
+    ],
+    [
+     44,
+     39.2
+    ],
+    [
+     44.4,
+     38.4
+    ],
+    [
+     44.4,
+     49.8
+    ],
+    [
+     44.6,
+     38.4
+    ],
+    [
+     44.6,
+     38.8
+    ],
+    [
+     44.6,
+     46.8
+    ],
+    [
+     44.6,
+     48
+    ],
+    [
+     44.6,
+     50
+    ],
+    [
+     44.8,
+     46.2
+    ],
+    [
+     45,
+     51.4
+    ],
+    [
+     45,
+     52
+    ],
+    [
+     45.4,
+     64.4
+    ],
+    [
+     45.4,
+     65.4
+    ],
+    [
+     45.4,
+     65.6
+    ],
+    [
+     45.4,
+     67.2
+    ],
+    [
+     45.6,
+     65.2
+    ],
+    [
+     45.6,
+     66.2
+    ],
+    [
+     45.6,
+     67.4
+    ],
+    [
+     45.6,
+     67.6
+    ],
+    [
+     45.8,
+     52.2
+    ],
+    [
+     45.8,
+     63.8
+    ],
+    [
+     46.2,
+     56.8
+    ],
+    [
+     46.2,
+     58.8
+    ],
+    [
+     46.4,
+     52.8
+    ],
+    [
+     46.4,
+     53.8
+    ],
+    [
+     46.4,
+     55.8
+    ],
+    [
+     46.4,
+     58.4
+    ],
+    [
+     46.4,
+     61.2
+    ],
+    [
+     46.4,
+     62.8
+    ],
+    [
+     46.6,
+     53.8
+    ],
+    [
+     46.6,
+     56.8
+    ],
+    [
+     46.6,
+     61.2
+    ],
+    [
+     46.6,
+     62.4
+    ],
+    [
+     46.6,
+     63.2
+    ],
+    [
+     46.6,
+     63.6
+    ],
+    [
+     46.8,
+     54.8
+    ],
+    [
+     46.8,
+     56.4
+    ],
+    [
+     46.8,
+     59.4
+    ],
+    [
+     47,
+     59.6
+    ],
+    [
+     47.4,
+     51.2
+    ],
+    [
+     47.4,
+     52.4
+    ],
+    [
+     47.4,
+     52.6
+    ],
+    [
+     47.6,
+     50.8
+    ],
+    [
+     47.6,
+     52.4
+    ],
+    [
+     47.6,
+     53.4
+    ],
+    [
+     48,
+     49.4
+    ],
+    [
+     48.2,
+     49.8
+    ],
+    [
+     48.4,
+     48.4
+    ],
+    [
+     48.6,
+     48.2
+    ],
+    [
+     49,
+     52.4
+    ],
+    [
+     49.4,
+     53.2
+    ],
+    [
+     49.6,
+     53.2
+    ],
+    [
+     49.8,
+     51.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 39,
+   "date": "2006-11-22T17:57:32-06:00",
+   "body": "This quest is repeatable.",
+   "replies": []
+  },
+  {
+   "rating": 37,
+   "date": "2005-09-28T17:29:49-05:00",
+   "body": "It's listed as level 55 so level 60s can get some mileage out of it.&nbsp; Many of the repeatable reputation quests in the game are low level, which makes doing them at level 60 incredibly tedious.&nbsp; This quest, however, is high enough level it will never go grey, and you will always get the full reputation reward.",
+   "replies": []
+  },
+  {
+   "rating": 29,
+   "date": "2006-12-10T17:29:49-06:00",
+   "body": "I just did this quest 3 or 4 times as a 46 hunter.&nbsp; Though the mobs are cake the drop rate is horrible.&nbsp; Also i gained no experience after the first turn in.&nbsp; All turns after the first were only 21s and 25rep. If you are a questing nerd like me you should have all of these places at honored already if you quested all of Ratchet, Booty Bay and Tanaris. \n\nMy opinion.. waste of time repeatable..",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2005-09-28T17:29:49-05:00",
+   "body": "Seems like this one and the Zapping one are just repeatable quests for 550 experience and 1.25% Rep with the Steamwheedle Cartel (1.25% rep for the following:&nbsp; Booty Bay, Everlook, Gadgetzan & Ratchet).&nbsp; Getting to Honored at each of those should get a 10% lower price bonus on all items for sale in those towns.",
+   "replies": [
+    "I dont buy anything in that amount from their vendors to make it worth its time. Do you think they give you some recipies or stuff that is not awailable with lower rep?"
+   ]
+  },
+  {
+   "rating": 6,
+   "date": "2005-09-28T17:29:49-05:00",
+   "body": "I don't understand why this is level 55, yet the previous part of the quest is level 48. You have to kill exactly the same mobs to collect exactly the same items, just a few less of them...",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-04-26T18:56:13-05:00",
+   "body": "This really isn't worth the effort for a lower level player. I did it at level 49, but 21s reward isn't going to even cover my armor repairs. Added to the fact that the drop rate absolutely sucks and that the elementals don't even drop very much by way of other stuff and then factor in zero XP and you get the picture - really not worth the effort unless you want the reputation points.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-04-08T13:10:37-05:00",
+   "body": "This drop rate of the elementals absoutley sucked.\nAnd after i got a few the next 20 i killed dropped absolutley nothing at all.\n\nThe rewards you get at the end are even worse\n\nOnly good thing about this quest is the exp you get i did with 48 hunter and got around 300 exp each",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-01-16T05:29:49-06:00",
+   "body": "If you're repeating this for the rep gain, you're probably better off just running Again With the Zapped Giants.&nbsp; It's more amusing, the miniaturized giants don't hit quite so hard, and they drop quest items a lot more often than the elementals do.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-26T12:52:28-06:00",
+   "body": "Aye, the droprate is now REALLY, REALLY BAD.\n\nI finally got 10 for the previous quest, now I need another 6? Argh!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-10T03:24:58-05:00",
+   "body": "This quest is repeatable...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-02T06:21:58-05:00",
+   "body": "this quest isn't \"Attain 55\"\ndroprate seems to have gone down by a bit",
+   "replies": [
+    "Agreed, I just did it twice at level 45 with some higher level help. Even that low I got the same 550 xp and 21 silver. 75 rep with the Steamwheedle Cartel."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-31T15:51:44-05:00",
+   "body": "If you could solo the pre-quest to this one, you can solo this one. Since if you're level 46 you see this quest as Red.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-20T13:22:15-05:00",
+   "body": "This was very easy and simple as a lvl 46 druid to solo. Just watch the aggro from the other elementals and take it slow and steady, it's a piece of cake. Did it at the same time as Zapped Giants so I had plenty to do without worrying about the drop rate. \n\nI got some very nice drops from this too, and made a ton of money. Very fun, and profitable quest!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-27T19:24:05-05:00",
+   "body": "This quest is both Horde and Alliance. I just completed it on my L50 Troll Mage. Very easy quest. \n\nI got:\n\n550xp\n21s\n\nAnd it is repeatable.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-26T13:58:14-06:00",
+   "body": "They changed the ammount of repu you get.\nFor non humans its now 25\nfor humans its 27 or 28",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-11T01:19:57-06:00",
+   "body": "First turn in is worth around 4k for this and the other one from the same NPC.. the xp value above is referring to the repeat.",
+   "replies": [
+    "Do NOT try to do the followups (6 and 10 instead of 10 and 15) for XP. Dont let the yellow ! fool you. The followup holds nothing besides a small amount of silver and 24 Steemwheedle Cartel rep."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-14T00:37:41-05:00",
+   "body": "I wasn't getting drops until i got to the cove around 46,52",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-18T08:13:36-05:00",
+   "body": "This quest you should deffinately do alone the drop rate is so low that you will never complete it in a good ammount of time Level 46 is good for this as long as you don't have cloth armor",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-07-17T17:29:49-05:00",
+   "body": "Jumped into this one because my 45 Priest can use the Enchanted Water that often drops from the Water Elementals, not to mention the XP. As long as I passed on the 49s, the others weren't too hard. But I had an unexpected problem. When I did the predecessor quest, the elemental cores (or whatever they are) dropped with some frequency (1/3 or 1/4). This second time around, I didn't get a single quest item (did get the Enchanted Water though) in 18 kills. I was doing the first section of the Giants quest, so I didn't have much choice, but that strikes me as odd. Should the drop rate have changed that radically? I finished the Giants quest and went off to do something else.\n\nHas anyone else experienced this?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-08-23T05:29:49-05:00",
+   "body": "Drop rate is awful - killed as many as i could find and all I get are water globes - good for? and elemental water - if anything drops at all.&nbsp; I'm a 46 Druid and was ablt to handle 48 and 49's using an occasional heal with the 49's.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2007-05-06T05:29:49-05:00",
+   "body": "This quest is good to do it 5 times cause its easy and fast i spamm it :S",
+   "replies": [
+    "no it's not because it only gives 560 xp. Skip this quest."
+   ]
+  },
+  {
+   "rating": -8,
+   "date": "2006-12-10T17:29:49-06:00",
+   "body": "do this quest ever end? but i guess if u want the rep it wont?",
+   "replies": []
+  }
+ ]
+}

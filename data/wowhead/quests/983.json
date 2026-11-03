@@ -1,0 +1,947 @@
+{
+ "id": 983,
+ "name": "Buzzbox 827",
+ "level": 10,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 840,
+ "start": {
+  "type": "npc",
+  "id": 3666,
+  "name": "Wizbang Cranktoggle",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    37,
+    44
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 17182,
+  "name": "Buzzbox 827",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    36.7,
+    46.3
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Collect 6 Crawler Legs and place them in Buzzbox 827 . Crawler Leg  ( 6 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5385,
+   "name": "Crawler Legs",
+   "count": 6,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Crawler Leg",
+   "count": 6,
+   "type": "item",
+   "id": 5385
+  }
+ ],
+ "series": [
+  983,
+  1001,
+  1002,
+  1003
+ ],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 3666,
+   "name": "Wizbang Cranktoggle",
+   "coord": [
+    37,
+    44
+   ],
+   "coords": [
+    [
+     37,
+     44
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 2,
+   "id": 17182,
+   "name": "Buzzbox 827",
+   "coord": [
+    36.7,
+    46.3
+   ],
+   "coords": [
+    [
+     36.7,
+     46.3
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2231,
+   "name": "Pygmy Tide Crawler",
+   "coord": [
+    35.8,
+    47.4
+   ],
+   "coords": [
+    [
+     35.2,
+     45.8
+    ],
+    [
+     35.2,
+     48
+    ],
+    [
+     35.4,
+     44.8
+    ],
+    [
+     35.8,
+     45.6
+    ],
+    [
+     35.8,
+     47.4
+    ],
+    [
+     35.8,
+     47.6
+    ],
+    [
+     36,
+     49.8
+    ],
+    [
+     36,
+     51.6
+    ],
+    [
+     36.2,
+     44.8
+    ],
+    [
+     36.2,
+     48.8
+    ],
+    [
+     36.6,
+     48.2
+    ],
+    [
+     36.6,
+     50
+    ],
+    [
+     36.8,
+     38.4
+    ],
+    [
+     36.8,
+     38.6
+    ],
+    [
+     36.8,
+     40.6
+    ],
+    [
+     37,
+     36.4
+    ],
+    [
+     37,
+     36.6
+    ],
+    [
+     37.4,
+     39.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2232,
+   "name": "Tide Crawler",
+   "coord": [
+    42.2,
+    29.6
+   ],
+   "coords": [
+    [
+     36.2,
+     62.4
+    ],
+    [
+     36.2,
+     62.6
+    ],
+    [
+     36.2,
+     65.4
+    ],
+    [
+     36.2,
+     65.6
+    ],
+    [
+     36.4,
+     63.6
+    ],
+    [
+     36.4,
+     69.4
+    ],
+    [
+     36.4,
+     69.8
+    ],
+    [
+     36.6,
+     62.4
+    ],
+    [
+     36.6,
+     62.6
+    ],
+    [
+     36.6,
+     65.4
+    ],
+    [
+     36.6,
+     68
+    ],
+    [
+     36.6,
+     69.4
+    ],
+    [
+     36.6,
+     70
+    ],
+    [
+     36.8,
+     66.2
+    ],
+    [
+     36.8,
+     67.4
+    ],
+    [
+     41.4,
+     22.8
+    ],
+    [
+     41.4,
+     24.2
+    ],
+    [
+     41.4,
+     24.6
+    ],
+    [
+     41.4,
+     26.8
+    ],
+    [
+     41.4,
+     28.8
+    ],
+    [
+     41.6,
+     24.4
+    ],
+    [
+     41.8,
+     26.4
+    ],
+    [
+     41.8,
+     26.8
+    ],
+    [
+     41.8,
+     28.4
+    ],
+    [
+     42,
+     21.8
+    ],
+    [
+     42,
+     23
+    ],
+    [
+     42,
+     24.8
+    ],
+    [
+     42.2,
+     29.4
+    ],
+    [
+     42.2,
+     29.6
+    ],
+    [
+     42.4,
+     21
+    ],
+    [
+     42.6,
+     30
+    ],
+    [
+     42.8,
+     20.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2233,
+   "name": "Encrusted Tide Crawler",
+   "coord": [
+    32.6,
+    81.8
+   ],
+   "coords": [
+    [
+     32,
+     83.2
+    ],
+    [
+     32.6,
+     81.8
+    ],
+    [
+     33,
+     81.4
+    ],
+    [
+     33.6,
+     81.4
+    ],
+    [
+     50.4,
+     21.8
+    ],
+    [
+     51,
+     21.8
+    ],
+    [
+     51.2,
+     23
+    ],
+    [
+     51.4,
+     21.4
+    ],
+    [
+     51.6,
+     22.2
+    ],
+    [
+     52,
+     21.4
+    ],
+    [
+     52.2,
+     23.2
+    ],
+    [
+     52.4,
+     18.8
+    ],
+    [
+     52.4,
+     20.4
+    ],
+    [
+     52.6,
+     20.4
+    ],
+    [
+     52.6,
+     20.6
+    ],
+    [
+     53,
+     18.2
+    ],
+    [
+     53,
+     18.6
+    ],
+    [
+     54.4,
+     19
+    ],
+    [
+     54.6,
+     19
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2234,
+   "name": "Young Reef Crawler",
+   "coord": [
+    36.2,
+    51.8
+   ],
+   "coords": [
+    [
+     35.2,
+     53.4
+    ],
+    [
+     35.2,
+     53.8
+    ],
+    [
+     35.4,
+     55.2
+    ],
+    [
+     35.4,
+     55.8
+    ],
+    [
+     35.8,
+     55.4
+    ],
+    [
+     35.8,
+     58.6
+    ],
+    [
+     36,
+     58.4
+    ],
+    [
+     36.2,
+     51.8
+    ],
+    [
+     36.4,
+     51.4
+    ],
+    [
+     36.4,
+     52.8
+    ],
+    [
+     36.4,
+     54.2
+    ],
+    [
+     36.4,
+     56
+    ],
+    [
+     36.4,
+     56.6
+    ],
+    [
+     36.4,
+     60
+    ],
+    [
+     36.6,
+     51.4
+    ],
+    [
+     36.6,
+     57.6
+    ],
+    [
+     36.6,
+     60.2
+    ],
+    [
+     36.8,
+     55.4
+    ],
+    [
+     36.8,
+     55.6
+    ],
+    [
+     36.8,
+     57.2
+    ],
+    [
+     37,
+     52
+    ],
+    [
+     37,
+     53.6
+    ],
+    [
+     37.2,
+     53.4
+    ],
+    [
+     37.8,
+     33
+    ],
+    [
+     37.8,
+     34
+    ],
+    [
+     38.4,
+     31.4
+    ],
+    [
+     38.4,
+     31.6
+    ],
+    [
+     38.6,
+     31.4
+    ],
+    [
+     38.6,
+     31.6
+    ],
+    [
+     40.8,
+     31.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2235,
+   "name": "Reef Crawler",
+   "coord": [
+    35.8,
+    77.9
+   ],
+   "coords": [
+    [
+     33.2,
+     80.3
+    ],
+    [
+     33.5,
+     80.2
+    ],
+    [
+     34,
+     80.8
+    ],
+    [
+     35,
+     79.6
+    ],
+    [
+     35.2,
+     72.4
+    ],
+    [
+     35.2,
+     79
+    ],
+    [
+     35.6,
+     78.6
+    ],
+    [
+     35.8,
+     77
+    ],
+    [
+     35.8,
+     77.9
+    ],
+    [
+     36,
+     75.2
+    ],
+    [
+     36.2,
+     75.6
+    ],
+    [
+     44.8,
+     21.6
+    ],
+    [
+     45.4,
+     20.4
+    ],
+    [
+     45.4,
+     20.6
+    ],
+    [
+     45.6,
+     20.4
+    ],
+    [
+     45.6,
+     20.6
+    ],
+    [
+     47.2,
+     20.4
+    ],
+    [
+     47.4,
+     20.8
+    ],
+    [
+     47.8,
+     20.6
+    ],
+    [
+     48,
+     20.4
+    ],
+    [
+     48.6,
+     20.8
+    ],
+    [
+     49,
+     20.4
+    ],
+    [
+     49.4,
+     22
+    ],
+    [
+     49.6,
+     20.8
+    ],
+    [
+     50.2,
+     21.8
+    ],
+    [
+     50.4,
+     23.4
+    ],
+    [
+     50.4,
+     23.6
+    ],
+    [
+     50.6,
+     22.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2236,
+   "name": "Raging Reef Crawler",
+   "coord": [
+    56.2,
+    12.5
+   ],
+   "coords": [
+    [
+     54.4,
+     18.4
+    ],
+    [
+     54.4,
+     18.6
+    ],
+    [
+     54.6,
+     18.4
+    ],
+    [
+     54.6,
+     18.6
+    ],
+    [
+     55.4,
+     17
+    ],
+    [
+     55.6,
+     16.8
+    ],
+    [
+     56,
+     17.6
+    ],
+    [
+     56.2,
+     12.5
+    ],
+    [
+     56.2,
+     14.2
+    ],
+    [
+     56.2,
+     15.4
+    ],
+    [
+     56.2,
+     15.6
+    ],
+    [
+     56.4,
+     12.4
+    ],
+    [
+     56.6,
+     11.4
+    ],
+    [
+     56.6,
+     11.6
+    ],
+    [
+     56.6,
+     16
+    ],
+    [
+     56.7,
+     13.9
+    ],
+    [
+     57,
+     13.2
+    ],
+    [
+     57.5,
+     14.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 22,
+   "date": "2005-09-29T05:43:43-05:00",
+   "body": "37,46 - Jumping distance from the platform with the hippogryph master",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2007-04-09T01:24:31-05:00",
+   "body": "I started out killing Young Reef Crawlers, it took me about twenty minutes to get only two crawler legs.&nbsp; I moved up the coast North, closer to the actual Buzzbox (sort of like the quest says) and I got four in a row.&nbsp; \nPlus, the Young Reef Crawlers run away when they're almost dead, so they're a bit of a pain - The Pygmy Tide Crawlers just stand there and take it basically.\n[b]The coordinates I was at when I got four in a row are: 36,48[/b]",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2006-12-13T08:28:48-06:00",
+   "body": "Buzzbox 827 is located near the flight master, in the grass. \r\n36 46",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2007-05-10T16:44:44-05:00",
+   "body": "The Gnome questgiver is on the second floor of the inn, just up the ramp.\n\nThese quests also supply you with some good cooking ingredients, such as Crawler Meat and Claws, and Clam Meat. Plus the Gnomergan Exiles rep is pretty nice for such a low level quest thread.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-01-16T17:43:43-06:00",
+   "body": "This buzzbot was very hard to find. If you're stumbling around, he's almost directly at the south-west pier of the gryphon platform, just in the grass about 2-3 paces from the pier. He looks(especially in the dusk) just like a hillock of grass.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-02-10T17:11:05-06:00",
+   "body": "The crawler legs drop from the Pygmy Tide Crawlers",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-03-30T17:43:43-06:00",
+   "body": "the buzzbox is at 37,46",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-08-20T19:33:37-05:00",
+   "body": "Not a bad set of quests. When you complete all four you receive a total of 25 silver, 50 copper and 4300 XP.\n\n\nB5",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-29T05:43:43-05:00",
+   "body": "Wizbang is on the second floor of the Auberdine Inn. \n\nIf you are inside where the Innkeeper, Fish Vendor, etc are...\n\nThere is a ramp that leads to two beds and the docks, right next to that is another ramp leading to the second floor and some more beds. He's right there by the beds on the second floor.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-29T05:43:43-05:00",
+   "body": "36,46",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-18T13:53:19-05:00",
+   "body": "buzbox is at 36,46",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T05:43:43-05:00",
+   "body": ">> Buzzbox 827 is just outside the south of Auberdine. It's very near to the platform where the Gryphon Master is located.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-11T17:43:43-05:00",
+   "body": "it's right on the grass where you land in auberdine&nbsp; 36,46",
+   "replies": [
+    "thanks to all the previous posters - directly east from the southern corner of the hippograph deck.&nbsp; It is surrounded by a bush but..."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-22T05:43:43-06:00",
+   "body": "36 46 you just click it",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-11-17T06:05:33-06:00",
+   "body": "ok if u have difficulties finding the buzzbox 827, it is located near the platform where u ride those bird. South East direction of the platform.\nIts not on the platform but outside the platform\n\n/cheers and enjoy",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-10T15:08:40-06:00",
+   "body": "Yes, the buzzbox is by the gryffon platform in Auberdine.  When he says it's real close, he's not kidding.  Note: It's not on the beach, it's BY the beach, just run around outside the platform and you'll smack into it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-13T06:35:18-05:00",
+   "body": "You know, why on EARTH would you use some creatures dismembered legs to fix a mechanical machine?\n\nwouldn't it....rot at some point in time?\n\nMan, that's gross.\n\nBut hey, it's a nice quest. I guess nobody really thinks about the technicalities.\n\nps- omg, and the last one uses bear scalps....lordy.  x_x",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-15T11:03:10-05:00",
+   "body": "36,47 (Vicinity) (Pygmy Tide Crawler)\n\n36,46 (Buzzbox 827)\n\nEdited, Fri Apr 15 07:11:27 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-02T07:10:31-06:00",
+   "body": "All the Buzzbox Quest are a good way to find your way around Darkshore.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-04T21:23:33-05:00",
+   "body": "I'm having a bit of trouble locating wizbang. Is he actually in auberdine? I haven't seen him yet.\n\nn/m he's at the top of the inn. No quest icon, but if you talk to him he's got the quests available.\n\nEdited, Mon Apr  4 17:27:35 2005",
+   "replies": [
+    "No quest icon if the quest is grey to you."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-07T16:14:57-06:00",
+   "body": "Buzz box 827 is located almost in Auberdine, its on the Northwest corner of the dock where the hipograph station is. Crawlers abundant on the beach close by.",
+   "replies": [
+    "Heh by Northwest he means Southeast. :)",
+    "BTW for the idiots such as myself..Crawlers are the crabs on the beach",
+    " Yes I also had to do the translation of NW to SE but it located by the SE corner of the hippo dock"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-15T05:18:13-06:00",
+   "body": "I had some serious issues finding this stuipd box...that is until I came on here and read the posts...so thanks to everyone who its whereabouts.\n\n(known as Cattibrie/29 human mage, Yesmina 14 night elf rogue, and Maruvia 11 tauren druid)",
+   "replies": [
+    "Seems like coordinates have changed a bit since burning crusade came out. I found it at 36,46."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-20T11:12:09-05:00",
+   "body": "Who do you get the quest from?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-10-10T20:56:44-05:00",
+   "body": "The cords for me as of 10-10-06 was 37,46",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-06-11T17:43:43-05:00",
+   "body": "Yeah they drop - and the drop rate still sucks",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-03-30T17:43:43-05:00",
+   "body": "The crawlers on the northeast end of the shore on the other side of the log from Gubber Blump have a great drop rate!",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-08-23T17:43:43-05:00",
+   "body": "Where can i loot the eggs from ?",
+   "replies": [
+    "No eggs - crawler legs! LOL"
+   ]
+  },
+  {
+   "rating": -2,
+   "date": "2007-03-30T17:43:43-05:00",
+   "body": "I killed three of those crab things and i cant find any more. Its been like 10&nbsp; minutes and they havent respawned either...They are right on the shoreline, right?",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "id": 998,
+ "name": "Corrupted Windblossom",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 3,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": {
+  "type": "object",
+  "id": 174599,
+  "name": "Corrupted Windblossom",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    55.8,
+    7
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 174599,
+  "name": "Corrupted Windblossom",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    55.8,
+    7
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Progress You have found a sickly, corrupted version of what appears to be a windblossom plant.  The berries that hang from the plant appear rotten and poisonous.  It desperately needs some sort of attention if it is to be turned back to normal. Cenarion Plant Salve  ( 2 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11516,
+   "name": "Cenarion Plant Salve",
+   "count": 2,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Cenarion Plant Salve",
+   "count": 2,
+   "type": "item",
+   "id": 11516
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 2,
+   "id": 174599,
+   "name": "Corrupted Windblossom",
+   "coord": [
+    55.8,
+    7
+   ],
+   "coords": [
+    [
+     55.8,
+     7
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 2,
+   "id": 174599,
+   "name": "Corrupted Windblossom",
+   "coord": [
+    55.8,
+    7
+   ],
+   "coords": [
+    [
+     55.8,
+     7
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2019-10-16T08:02:11-05:00",
+   "body": "I found a few repeating locations for the South part of Felwood:\r\n34, 48 just south of Bloodvenom Post on the other side of the river.\r\n39, 59 at the entrance to Jaedenar.\r\n36, 62 in Jaedenar (just to the south the second A in Jaedenar on the map).\r\n50, 80 just to the west of Emerald Sanctuary.",
+   "replies": []
+  }
+ ]
+}

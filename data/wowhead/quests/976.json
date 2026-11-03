@@ -1,0 +1,395 @@
+{
+ "id": 976,
+ "name": "Supplies to Auberdine",
+ "level": 24,
+ "reqlevel": 19,
+ "side": 1,
+ "zoneId": 331,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2900,
+ "start": {
+  "type": "npc",
+  "id": 4484,
+  "name": "Feero Ironhand",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    42.2,
+    91.6
+   ],
+   [
+    42.6,
+    92.4
+   ],
+   [
+    42.6,
+    92.6
+   ],
+   [
+    43.4,
+    94.2
+   ],
+   [
+    43.6,
+    94.4
+   ],
+   [
+    43.6,
+    94.6
+   ],
+   [
+    44.2,
+    95.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3663,
+  "name": "Delgren the Purifier",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    26.2,
+    38.4
+   ],
+   [
+    26.2,
+    38.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Speak with Delgren the Purifier at Maestra's Post after seeing Feero safely through Ashenvale Forest.   Protect Feero Ironhand  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3663,
+   "name": "Delgren the Purifier",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Protect Feero Ironhand",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 4484,
+   "name": "Feero Ironhand",
+   "coord": [
+    43.6,
+    94.4
+   ],
+   "coords": [
+    [
+     42.2,
+     91.6
+    ],
+    [
+     42.6,
+     92.4
+    ],
+    [
+     42.6,
+     92.6
+    ],
+    [
+     43.4,
+     94.2
+    ],
+    [
+     43.6,
+     94.4
+    ],
+    [
+     43.6,
+     94.6
+    ],
+    [
+     44.2,
+     95.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "start",
+   "type": 1,
+   "id": 4484,
+   "name": "Feero Ironhand",
+   "coord": [
+    26.2,
+    38.8
+   ],
+   "coords": [
+    [
+     25.6,
+     36.6
+    ],
+    [
+     25.8,
+     30.2
+    ],
+    [
+     25.8,
+     30.6
+    ],
+    [
+     25.8,
+     35.4
+    ],
+    [
+     25.8,
+     35.6
+    ],
+    [
+     26.2,
+     38.8
+    ],
+    [
+     26.6,
+     23.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 3663,
+   "name": "Delgren the Purifier",
+   "coord": [
+    26.2,
+    38.6
+   ],
+   "coords": [
+    [
+     26.2,
+     38.4
+    ],
+    [
+     26.2,
+     38.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 47,
+   "date": "2007-03-16T08:37:14-05:00",
+   "body": "[url=https://www.wowhead.com/forever/quest=973]The Tower of Althalaxx part 5[/url] has to be completed in order to get this quest.\n\nThis quest is pretty hard and you'll probably not be able to solo it until at least level 26. You get ambushed three times. When I'm leveling a char and try doing this quest as soon as I finish [url=https://www.wowhead.com/forever/quest=973]The Tower of Althalaxx part 5[/url] I get as far as the last ambush which consists of two spellcaster and one melee satyr. They hit pretty hard, so they'll kill you or the NPC easily[small](unless you're a hunter and thus can use your pet to seperate the 3 mobs on each one of you, then you might stand a chance)[/small].\n\nI suggest trying to do this quest after turning in [url=https://www.wowhead.com/forever/quest=1140]The Tower of Althalaxx part 6[/url], which you should've done along with quests from Forrest Song and gained a level or two.",
+   "replies": []
+  },
+  {
+   "rating": 30,
+   "date": "2007-03-09T23:32:25-06:00",
+   "body": "This thing really should show a group needed in the quest log.  He *says* \"if you and others act as my guards\" and he means it.  First time I tried I got to the second mob spawn, which is 3 undead scouts.  I didn't realize one of them was on the NPC instead of me and he died right as I killed the second mob.  Second time I tried, I had them all on me (level 24 druid) and killed them.  I'm on a PvP server and there had been a ?? shaman running around that had killed me earlier so we set off towards the border, I'm scanning over my shoulder hoping we'll hit friendly territory.  We do, and I start to breathe easier.  Sadly, about 5 seconds later 3 named satyr pop out, one summons an imp, they all start casting spells (2 at the NPC, the third on me as I charged him in bear) and before I had the guy at half life, the NPC was dead.  I died shortly thereafter, and about the only good news there is that I was 10 feet from the closest graveyard.  Don't do this quest without at least 2 people, maybe even 3 for the fight at the end.",
+   "replies": []
+  },
+  {
+   "rating": 24,
+   "date": "2005-12-23T18:16:26-06:00",
+   "body": "I don't think you are eligible for this quest unless you have been doing the Tower of Althalaxx quests.&nbsp; I had just finished the quest to kill Ilkrud Magthrull and bring his head back to Delgren at Maestra's post, and I noticed the yellow ! show up on Feero.&nbsp; I could not share the quest, either.",
+   "replies": []
+  },
+  {
+   "rating": 24,
+   "date": "2007-04-12T06:16:26-05:00",
+   "body": "The thing with this escort quest that is sad is that the guy you escort is SO weak.&nbsp; He can't even take on 1 assassin(!) himself out of 4, without dying... \n\nOne strat that works really well as a mage though, is this - if you stay back as suggested, you can pull all 4 assassins to u, nova them, then kite them away from the escort guy.&nbsp; IF you pull them far enough away from him, he never engages, and after like 20 secs, he runs along to the next event!&nbsp; You can just kite them off him a bit, then blink run to catch up, and u never have to kill the assassins...\n\nAnyway, gl",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2005-12-23T18:16:26-06:00",
+   "body": "I completed this quest as a 24 Hunter, with the assistance of a 24 Mage.&nbsp; We almost didn't complete even then -- when fighting the last group of mobs, a pally coming along the road gave some much needed assistance.&nbsp; It's not so much that we couldn't handle the mobs, it's that your lvl 20 quest giver can't handle them and dies.\n\nI should note that you DO NOT go all the way to Auburdine.&nbsp; You fight 3 different mobs along the road and just after entering Darkshore, you fight the last group and if successful, your quest giver says he can make it the rest of the way on his own.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2004-12-16T20:55:33-06:00",
+   "body": "Very easy quest with 4 20+ ppl. For the ease and short duration of the quest, the reward is very good.\n\nYou'll have to fight 3 groups of mobs in total. The first two attack Feero too, the third group, 3 level 24 demons, inore him completely and attack you. Infact, Feero just stands in front of them and they do nothing. Make sure not to let Feero get too far ahead of you.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-10-11T18:16:26-05:00",
+   "body": "i wonder why there's no info on this. the guy that starts the quest is at Maestra's Post in Ashenvale beside the other two guys that give you quests, outside the house. sometimes he has to respawn, not that long.\n\nyou have to run with him to auberdine killing bunches of monsters. so far the mobs were lvl 21, 23 and 24. i cant pass it yet, but i'll update this as soon as i do",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2004-12-10T19:16:38-06:00",
+   "body": "Well, I gave this a try as a NE Hunter at level 20, solo.  Big mistake.  Although the path was clear on the way in, once Feero starts walking, assassins pop in from at least 3 directions.  I did not manage to kill even one before they backstabbed me to the graveyard.  Also, I only saw 1 wave of mobs, may be more.  I would imagine you'd need at least 3 players guarding Fero to do this comfortably.  But hey, the reward is awesome.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2004-12-12T03:33:07-06:00",
+   "body": "Did this with a full group of 5 -- 23 druid (me), 22 hunter, 2 x 21 warrior, 21 hunter, and it was easy.\n\nOnce started Feero _runs_ down the road to Darkshire, so be ready and take off after him. He stops twice, and when he stops be ready. Rogue-type mobs appear and start attacking him. React quickly to get their aggro, and it's not hard to burn them down -- they were levels 20, 21 if I recall.\n\nAgain, once all mobs are dead (or even before they are dead) Feero can take off down the road, so be ready and get on his heels. The last wave comes just after you get into Darkshore, and consisted of 3 named level 24 mobs. \n\nGet them dead and you are done. Just follow him a little further into Darshore until he poofs, then hustle back to Maestra's Post to claim your reward -- 50 sp, a nice item and a whopping 2,900 exp for about 10, maybe 15 minutes of work.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-11-17T06:16:26-06:00",
+   "body": "Don't understand why that is, considering you have to fight 5 lvl 24's at the end and the guy is only lvl 20. My druid can't even heal him before they kill, they do it to fast. Really need to be orange at my lvl, this one is a real pain by yourself.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-12-23T18:16:26-06:00",
+   "body": "Leveled my gnome in elven-land to get darnassus-rep; but never did this quest at 22ish, since it was given by a Stormwind-\"flagged\" npc. (Hence i thought the quest gave mostly SW-rep...) Came back at 34 after completing Tower of Althalaxx (or w/e) and figured id give it a shot..\n\n[b]Anyways; it gave me 500 Darnassus-rep[/b] :)\nOnly 21k short for exalted now; hopefully i'll gain that before i hit 40...",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-03-01T15:14:57-06:00",
+   "body": "This is impossible to do even with level 25 (Shaman). They leave the NPC and go after you. No place for healing or ... tried 3 times. Abandoning. Not worth the time/exp.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-11-16T05:56:32-06:00",
+   "body": "https://i.imgur.com/tA5XKCh.jpg\r\n\r\nJust stand so far ahead when the Satyrs spawn they agro you. He won't agro them and its no problem.",
+   "replies": [
+    "Tried that with my Ret Paladin but they ignored me and went right for him. I ran towards the fight but he was dead when I got there. He lasted about 4-5 seconds... Bring a mage and it's easy. Otherwise the Time-Constrained Player can't afford to dally with this time-waster."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2019-10-20T06:31:20-05:00",
+   "body": "[Classic] Succeeded on my third attempt as a lone 24 hunter. The real challenge is keeping the NPC alive, particularly on the third ambush (satyrs) as they will hit him hard. My working strategy involved dropping a [spell=1499] when he stopped for all the ambushes; the placement for the first two ambushes is unimportant (just press the skill when the NPC stops walking), but it matters a little more for the final ambush. Personally, I wanted to trap the caster so I placed my trap slightly north of the first lamp to the left of the road when you enter Darkshore, sent my pet to the spawn on the right and picked up the one in the middle. The NPC still nearly came close to dying, so it's a little sketchy.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-21T16:27:32-06:00",
+   "body": "Did this last night with my 29 hunter and my bf's 22 warlock. Used freeze traps to slow them down, hit each with serpent sting for nature damage while my wolf and his Voidstalker kept them occupied, then hammered with multishot. Had to do a little healing after each fight, but when it was over, we were both surprised. Quick and dirty for good money.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-20T05:37:08-06:00",
+   "body": "I just talked to him, and he said to talk to Delgrin.  So i go to Delgrin and he doesn't say anything.  I read the quest again and it said to talk to Delgrin afterwards, but however, Feero was standing there the whole time.  Didn't budge.  So i abandon, start it again and he sits, I run ahead, then around, and come back, and he's still hangin out, playin nintendo.  What gives?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-07T21:15:13-05:00",
+   "body": "I tried following the stay in front/stay behind advice given here, and as a solo Hunter neither worked. Each time Feero was attacked and slaughtered in seconds. I managed to wipe out half of the mob and take the other half down considerably before I was killed.\n\nGuess I'll either look for a group or just come back when I'm a higher level.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-22T23:34:38-05:00",
+   "body": "definitely agree this is a no go...they must have fixed this quest in the sense that running ahead/behind would prevent the mobs from attacking Feero and/or your character.  They sliced him up no matter if I was a little bit or a lot ahead of him (to the point where I could barely see him on screen).  Need to be at least high 20's to do this in terms of fighting with Feero if doing solo.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-19T03:19:51-06:00",
+   "body": "Ok so this quest [u]IS[/u] sort of part of a chain.\nIt is part of the Tower of Althalaxx, you get it right after you turn in Part 5 of the chain. AKA the part where you Bring Ilkrud Magthrull's Tome to Delgren the Purifier at Maestra's Post.\nUpon turning it in the Supplies to Auberdine opens up. \n\nI did this quest solo as a lvl 28 Priest, though i do not recommend doing that, i was very long and tough, i was near death & out of mana quite alot.\nHowever i do recommend going w/ a healer of somekind, he dies easily.  The mods lvls of the mobs range between 20-24 or so. \n\nI would advise you to go w/ at least 1 other person if you are a lvl 26+, and to make sure one of you is a constant healer of course i recommend a priest because of Power Word: Shield. For anyone that is 24-25, take a group of 2-3 ppl and make sure you have a healer.  Also if you are 22 and under, make sure you take a full group, w/ a healer to heal the guy.\n\nAlso turn in is located at the same place you got the quest. \n\nGreat Darnassus Rep. 500\n& Even 2900 xp at lvl 28 (green)",
+   "replies": [
+    "Technically, you actually get it after you accept [url=/quest=1140]the next Tower of Althalaxx[/url]\n\nAoE can work to pull mobs off of him fairly well.\n\nNote: he runs.  You have no time to eat or drink after he starts moving before the next group comes."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-24T03:37:46-06:00",
+   "body": "i am sure that He ran to Auberdine...\nand i got the msg of COPLETE\nbut when i go back to Delgren...\nthere`s no \"?\" mark\nso i cant get that reward...\nanybody got the same situation?",
+   "replies": [
+    "I'm in the same situtation :(\nI've abandon it. Will pick it up again!"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-21T02:52:40-06:00",
+   "body": "was unable to solo this as a level 35 paladin.  The mobs just ripped him up and healing him barely helped once we got to the demons. Going to give it a try steering clear of the road but I don't think its worth it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-21T10:58:47-05:00",
+   "body": "23 Mage and 24 Druid,\n\nStayed close to him down the path, then used Arcane Explosion with Druid healing to take all the mobs down at once, then run ahead and drink some conjured water to make sure your mana is back up for the next attack.\n\nProvided you have a healer of some kind with you to heal the mage doing AoE it works fine and is pretty easy.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-11-29T20:59:07-06:00",
+   "body": "Did this one a few nights ago,\nwas unable to post then...\n\nHow I did this:\nKept off the road, stayed east of the road,\nfairly close to it,\nnothing aggroed except for a moonstalker, easily killed.\n\nEnjoy",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-01-01T09:20:28-06:00",
+   "body": "If you just turn into Cat form (Druids) and run along with him. Then, when he stops be ready to Invis and sneak up ahead of him. When he starts running again just repeat this. It might take some practice but you can redo the quest several times until you get it right.\n\n\nLietmotiv\nVerata Nectu / Bloodhoof",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2004-12-30T20:59:24-06:00",
+   "body": "If you keep well out ahead of him, the assassins will spawn, but won't agro him.  The spawned mobs will only agro you if you get close to them.  If you stay well out in front of Feero, they just sit and stare at each other for a bit and then Feero starts walking again.\n\nJust be careful to be well out in front when you cross into Darkshore.  Three satyr spawn in front of Feero, right on the path.  Again they'll just stare at each other for a bit, and eventually the satyr despawn and the quest is completed.  You don't even need to fight anything.",
+   "replies": [
+    "It also works to be somewhat to the rear when you cross to Darkshore.  Everyone stares at each other for a while and then you are done.",
+    "I've followed the instructions above and kept ahead of him but the assasins still killed him. What am I doing wrong? Do I have to be really ahead of him so I can't see him?"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-02T23:41:58-06:00",
+   "body": "Lvl27 hunter, Draenei but I didn't use my racial heal... Didn't bandage, didn't use pots, didn't go under half health. Pet's not even high-aggro or high-dps.\n\nThe trick is to take aggro off Feero as quickly as possible. All the mobs will try to go for him first but despite his low HP he hits like a truck; soak up all the damage you can and he'll deliver the finishing blows.\n\n[i][small]Edited, Mar  2nd 2007  8:44pm by RealUnimportant[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-08-28T17:09:47-05:00",
+   "body": "I can't get this quest - I just can't talk to Feero.  Anyone else have this problem?  Is there a prereq?",
+   "replies": [
+    "https://www.wowhead.com/forever/quest=973/the-tower-of-althalaxx\n\nThats the pre-quest.. not sure if all of it or just part 1?\n "
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-03-11T23:33:03-06:00",
+   "body": "Any reason why I might not be able to get this at 36? Has it been discontinued?",
+   "replies": [
+    "This pesky little drat gived us quest only after completion of [24] Tower of Althalaxx."
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2007-02-02T19:42:39-06:00",
+   "body": "i cant talk to him can sum1 tell me y? is there a prequest",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2007-03-07T00:33:30-06:00",
+   "body": "This quest is not available to a Draenei Priest at level 24, dunno if it's bugged or what, I've done it before on other chars...",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2020-11-29T10:00:10-06:00",
+   "body": "Mages can buff up and just use Arcane Explosion. One of the bad guys dropped a pretty good green item so a little more incentive to try it. = )",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "id": 80001,
+ "name": "Rekindle",
+ "level": 40,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 406,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "object",
+  "id": 424082,
+  "name": "Firepit",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    40.6,
+    52.4
+   ],
+   [
+    40.7,
+    52.5
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 424082,
+  "name": "Firepit",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    40.6,
+    52.4
+   ],
+   [
+    40.7,
+    52.5
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Progress An extinguished fire pit. The wood is even dry enough to catch a flame. Simple Wood  ( 1 ) Flint and Tinder  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 4470,
+   "name": "Simple Wood",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4471,
+   "name": "Flint and Tinder",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Simple Wood",
+   "count": 1,
+   "type": "item",
+   "id": 4470
+  },
+  {
+   "text": "Flint and Tinder",
+   "count": 1,
+   "type": "item",
+   "id": 4471
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "start",
+   "type": 2,
+   "id": 424082,
+   "name": "Firepit",
+   "coord": [
+    40.6,
+    52.4
+   ],
+   "coords": [
+    [
+     40.6,
+     52.4
+    ],
+    [
+     40.7,
+     52.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "end",
+   "type": 2,
+   "id": 424082,
+   "name": "Firepit",
+   "coord": [
+    40.6,
+    52.4
+   ],
+   "coords": [
+    [
+     40.6,
+     52.4
+    ],
+    [
+     40.7,
+     52.5
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 2,
+   "date": "2026-10-09T20:09:39-05:00",
+   "body": "Anyone not able to click on the fire? I see a blue '?' but I can't click it.",
+   "replies": [
+    "Did lit a fire, click it, danced ^^ no reaction",
+    "yeah i can't click on it either, i was worried i maybe should've tried to pick this quest up first before turning in the other one, but no way to tell now. ugh. i'm reporting the issue in game too."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-13T19:36:59-05:00",
+   "body": "So... You need to wait until the fire goes out, and THEN you can ignite the fire by clicking on the blue question mark.",
+   "replies": []
+  }
+ ]
+}

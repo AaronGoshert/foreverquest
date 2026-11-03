@@ -1,0 +1,324 @@
+{
+ "id": 6032,
+ "name": "Sacred Cloth",
+ "level": 55,
+ "reqlevel": 50,
+ "side": 3,
+ "zoneId": 1216,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 5650,
+ "start": {
+  "type": "npc",
+  "id": 11557,
+  "name": "Meilosh",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    65.4,
+    2.8
+   ],
+   [
+    65.6,
+    2.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11557,
+  "name": "Meilosh",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    65.4,
+    2.8
+   ],
+   [
+    65.6,
+    2.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.31727",
+ "objectiveText": "Bring 2 Mooncloth to Meilosh in Timbermaw Hold. Mooncloth  ( 2 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 14342,
+   "name": "Mooncloth",
+   "count": 2,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Mooncloth",
+   "count": 2,
+   "type": "item",
+   "id": 14342
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 1,
+   "id": 11557,
+   "name": "Meilosh",
+   "coord": [
+    65.6,
+    2.8
+   ],
+   "coords": [
+    [
+     65.4,
+     2.8
+    ],
+    [
+     65.6,
+     2.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 1,
+   "id": 11557,
+   "name": "Meilosh",
+   "coord": [
+    65.6,
+    2.8
+   ],
+   "coords": [
+    [
+     65.4,
+     2.8
+    ],
+    [
+     65.6,
+     2.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 32,
+   "date": "2005-09-28T17:28:24-05:00",
+   "body": "you can grind your way to friendly to get the mooncloth boots pattern by killing winterfall den watchers and shamen in winterfall village just east of everlook. this has the following advantages:\n1. they spawn quite fast so you can just run round in circles and kill, kill, kill.\n2. they drop money (1-8s per kill) but few items\n3. there is an 8 hour named spawn that drops items worth putting in the ah\n4. there are 4 chest spawns in the village that give items for ah and vendor\n5. there is an elite in the cave at the top that gives extra faction points\n6. everlook is really close for repairs, vendor, letterbox and bank\n7. they are all high enough level to still give you faction points at lvl 60\n8. you can do the second quest for wintersaber trainers at the same time.\n\nnotes:\na) each normal kill gives 5 faction points. to get you from the beginning of unfriendly through neutral into friendly will take 1200 kills. a bit less if you kill the named and elite a few times.\ndoing anything to harm timbermaw will give you a disproportionate faction reduction\nb) like someone said, there are quests in winterspring which give timbermaw faction as well. can't remember which ones, though. =)\nc) don't do the repeatable quests. it is quicker to just kill than ride back and forth for a few points\nd) if you group, everyone gets full faction points for a kill, but ONLY if you landed at least one hit on the mob\ne) at honored (i think) you can get an enchanting recipe for +15 agi\n\nhope that clears things up\nturicus, <the care bears>, madmortem eu\n\nedit: if you want the boots made /w me =)",
+   "replies": []
+  },
+  {
+   "rating": 23,
+   "date": "2005-11-04T05:28:24-06:00",
+   "body": "[b]\nAccording to wowwiki.com, there are two requirements:\n\n1) Must be friendly status\n2) Must be a tailor[/b]\n\nSomeone above me may have said it, but I couldn't find it.&nbsp; That's the reason I put it in bold :)",
+   "replies": [
+    "your tailoring must be @ 280"
+   ]
+  },
+  {
+   "rating": 11,
+   "date": "2007-04-12T01:23:19-05:00",
+   "body": "For some reason this doesn't show up when you do a search for tailoring patterns from quests rewards.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2005-09-28T17:28:24-05:00",
+   "body": "I confirmed that you need \"friendly\" with Timbermaw to get this pattern, not honored.\n\nGetting honored will allow you to speak with Gorn One-Eye, who as far as I can tell, is just a weapon vendor (I am inclined to believe that he might give a high level trade pattern, non-tailor, much like Meilosh gives a tailor pattern, but I don't know that for sure, just a hunch).&nbsp; He has a few interesting items you can buy, with some interesting stats, but nothing I'd recommend a level 60 character to equip.&nbsp; The items are also bind-on-pickup.\n\nAlso, the \"pattern\" you receive from Meilosh isn't a pattern at all, he just teaches it to you (i.e. you don't receive an item).&nbsp; I was 300 at the time.&nbsp; I think it's a safe bet to say you need to be a 300 tailor as the item is orange in the tailor list.\n\nKernda cannot be spoken to with honored faction.&nbsp; Maybe revered/exalted, but I've had enough of killing thousands of Deadwood Furbolgs.\n\nAlso something interesting.&nbsp; There are a TON of Timbermaw in Azshara whose camps have chests.&nbsp; Getting neutral or higher faction will allow you to loot these chests.&nbsp; They growl, but don't attack, and there is no faction hit.&nbsp; Just fyi if you feel like making some easy money.",
+   "replies": [
+    "Gorn One Eye will give you a quest to get a trinket once you are exalted with timbermaw. After reveared, the only thing that gains you rep is quest turn ins (this means feathers and spirit beads). The trinket is what I'm going for and yes it takes forever if you grind by yourself, but when you have a group, it goes by quickly."
+   ]
+  },
+  {
+   "rating": 9,
+   "date": "2005-09-28T17:28:24-05:00",
+   "body": "Ok here it is, you have to have a friendly reputation with the Timbermaw Furlbogs and have your tailoring at 290 to get the quest from Meilosh.&nbsp; To complete the quest you need to give her 2 pieces of mooncloth.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-12-10T17:28:24-06:00",
+   "body": "Just a quick note, you gain 100 reputation for completing this quest.\n\nMeushi\nLightbringer",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-05-06T09:49:00-05:00",
+   "body": "2 Mooncloths are a hefty price to pay for 5.5k XP but its not the XP its the patern thats wort it.\n\nHe dude will teach you how to make Mooncloth boots, and its the only place that you can actually learn this patern. it does NOT drop from anyone else either.\n\nBear in mind that you need to have 280 tailoring+ to get the quest.\n\nPrety cool boots for 51 lvl requirement, plus you can make money by making these since not many ppl spend their lifetime farming go get faction:)\n\nEdit-\n\nThis guy also gives you another Quest at the same time to hand in to himd 30 runecloth.\n\nIt gives 5.5k XP instantly since most probably you will have the runecloth from farming the deadwood.\n\n\nEdited, Tue May 10 05:09:41 2005",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-28T17:28:24-05:00",
+   "body": "Completing this quest will get you the Mooncloth Boots Pattern for tailoring.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-09-28T17:28:24-05:00",
+   "body": "I got almost honored without know it, i just did all quests and kill mobs rondomly for drops.\n\n[url=https://www.wowhead.com/forever/search?q=Mooncloth%20Boots]Mooncloth Boots[/url]\n55 Armor \n+11 Stamina \n+14 Intellect \n+13 Spirit \nDurability 40 / 40 \nRequires Level 51 \n\nThese are great for a lvl 51, and will sell for allot, but usually less than the mats are worth ><",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-05-20T15:36:18-05:00",
+   "body": "but u need to get friendly with timbermaw hold first right to get the quests?\ni got only unfriendly so i could pass through the place with out agro. i didnt get any quests in there.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-16T05:28:24-06:00",
+   "body": "I play a 60 rogue and a 60 Priest on Gilneas. Alliance. I found out the hardway DO NOT TURN IN YOUR FEATHERS till you are revered, The only way you can gain rep is by turnning ig feathers (or spirit beads) and or killing the chief's. I started collecting my feathers at lvl 57 by the time I hit 60 I had 750 feathers just enough to get me halfway to exhaulted",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-02T03:44:06-05:00",
+   "body": "any1 how have done this quest can tell me how much reputaion u get for it?",
+   "replies": [
+    "100 Reputation (at Level 56 - still friendly with Timbermaw)"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2006-01-16T05:28:24-06:00",
+   "body": "There's an easy way to get reps very easily. I got hostile to revered in less than 5h. But the prob after you get revered is that you won't get any reps from killings fulbog anymore... You'll have to collect those feathers or beads that drops from them. GL !",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-08-23T05:28:24-05:00",
+   "body": "You're hopefully not starting from being HATED in Cenarion Circle.&nbsp; lol\n\nI finally got back to neutral with the timbermaws - too bad I didn't know to NOT kill them for the quests in Ashenvale. :P",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-07-05T19:14:24-05:00",
+   "body": "is this really alliance only?",
+   "replies": [
+    "It isn't."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-28T17:28:24-05:00",
+   "body": "It's directly teached to the player, you don't get a scroll with the recipe.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-28T17:28:24-05:00",
+   "body": "Do you have to give him the Mooncloth to get the pattern taught to you for the Mooncloth Boots? It takes 8 days just to make it after all.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-28T17:28:24-05:00",
+   "body": "Well I just completed the quest.....\n\nAs people have said you nead FRIENDLY faction with them\n\nYou NO NOT need to do the mission to hand in 30 runecloth before you can get this one\n\nYes you loose the mooncloth\n\nTook me a while... but happy with the results",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-28T17:28:24-05:00",
+   "body": "If you can handle level 53-55 mobs solo or have a group of friends to help, try killing the higher level bolgs that are just to the west of the Felwood tunnel to Winterspring. I recieved good faction gains when clearing that place out with 2 other people in my group for a different quest, perhaps because they were higher level.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-28T17:28:24-05:00",
+   "body": "Also you have to be min level of 50. I'm 48 and it won't let me get the mooncloth quest waaaaaa =( \n\nbut yes on the other side of the tunnel in winterspring is a better place to do a timermaw faction quest!\nMore rep per-turn in as well",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-28T17:28:24-05:00",
+   "body": "What exacty do I have to kill and how much to get the faction I need to get this quest?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-11-04T05:28:24-06:00",
+   "body": "You stop getting kill rep for non-cheifs at 6000 through honored.\n\nSo you have to do it via killing the chiefs (25 rep each) over and over, or doing the winterspring quest you get once your rep is up somewhat (friendly?) that gives 75 rep for 18 kills (6 of 3 different types).\n\nTakes a while.",
+   "replies": [
+    "This is incorrect.. here is the correct information.\n\nThe Winterfall activity quest yields 75 reputation upon completion, but requires the killing of 18 furbolgs, 6 of three times, as was stated. However, you do still receive reputation for killing these eighteen..\n18*5=90\n+75 rep for quest\n=165 reputatioon every time you complete the quest. If you want to get from friendly to honored,\n6000/165=36.3636....etc.\n\nBut since you can't do the quest 36.36 times.. if you do the quest 36 times and kill 12 extra furbolgs from the moment you acquire friendly, you'll get to honored.\n\nDarn you all for mak"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-16T05:28:24-06:00",
+   "body": "&nbsp; 6000 rep per 4 hours is what im getting, 60 shadowpriest. Ive made it from unfriendly to 3100 of 6000 honored in 2 days.&nbsp; Man I have a long way to exhaulted!",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-09-28T17:28:24-05:00",
+   "body": "what's the stats on the boots? req lvl? armour? are they actually rare? =)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-07-05T14:10:31-05:00",
+   "body": "need 280 tailorskill to get the Q\n\n\nFelixia - lvl 59 hunter / Doomhammer",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-09-28T17:28:24-05:00",
+   "body": "I did the pre-quest for this; when the Furbolg asks you to bring him 30 runecloth. However, this quest remains unavailable to me. I think it might be because my faction is not \"revered\" yet. Anyone can confirm or disprove this? Thanks a lot.",
+   "replies": [
+    "Tailoring BoP only quest and&nbsp; you need friendly, lvl 50+ and 280 skill gives you reciepe"
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2005-09-28T17:28:24-05:00",
+   "body": "what is the quest reward? is it worth it?",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-09-28T17:28:24-05:00",
+   "body": "There are several quests in Winterspring (I cant remember off the top of my head) but while I was killing the white furbolgs the quest required, i was improving my standing with the Timbermaw.&nbsp; I dont know if this was more or less than killing the furbolgs in felwood, and I have not completed the quest to see if that improves standing, but it may be a direction to finding an easier solution to this proble.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-09-28T17:28:24-05:00",
+   "body": "I think it was mentioned that the Mooncloth Boots reward is taught rather than a pattern.\n\nSo, can I do this quest if I'm not a tailor?\n\nI'm closer to Friendly with the Timbermaws that a guildmate of mine, so would like to get this for him. Can I send him the 'net-thing' reward item to him so he can learn to make them?\n\nAlternately, if it's a tailor-only item, do you have to be of a certain level in Tailoring to do it?",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-12-10T17:28:24-06:00",
+   "body": "I just got from hated to unfriendly (3000 rep points) in like 2 hours grinding my ass off.. So, it�s far from impossible! You just have to get your mind to think of something else then the time it takes! Try putting on some music or something like that!\n\nbtw, im a 54 undead mage and i did it with a 49 undead priest and a 56 undead mage!",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-01-16T05:28:24-06:00",
+   "body": "I am a lvl 56 300 tailor and neutral with the Timbermaw hold, I am being told to prove myself and he might train me. This is coming from the guy that gives the quest.\n\nI will post agian when i reach friendly (which will not be today) :)",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-07-17T17:28:24-05:00",
+   "body": "if you guy think this rep is hard... go grind rep for cenarion circle",
+   "replies": []
+  },
+  {
+   "rating": -7,
+   "date": "2005-07-22T05:34:28-05:00",
+   "body": "When you get to neutral, Meilosh will talk to you, saying something to the effect of if you proof yourself to be an ally, he might consider training you.  No quest at neutral yet.",
+   "replies": []
+  }
+ ]
+}

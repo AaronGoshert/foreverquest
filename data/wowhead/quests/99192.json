@@ -1,0 +1,36 @@
+{
+ "id": 99192,
+ "name": "A Donation of Silk",
+ "level": 60,
+ "reqlevel": 26,
+ "side": 1,
+ "zoneId": 36,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1650,
+ "start": null,
+ "end": null,
+ "patch": "1.60.1.70205",
+ "objectiveText": "Silk Cloth  ( 60 ) Gains Upon completion of this quest you will gain: 150 reputation with High Order See if you've already completed this by typing: /run print(C_QuestLog.IsQuestFlaggedCompleted(99192)) Related Contribute Please keep the following in mind when posting a comment: Your comment must be in English or it will be removed. Unsure how to post? Check out our handy guide ! You might want to proof-read your comments before posting them. Please post questions on our forums for quicker reply. Post a Comment You are not logged in. Please log in or register an account to add your comment. Si",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 4306,
+   "name": "Silk Cloth",
+   "count": 60,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Silk Cloth",
+   "count": 60,
+   "type": "item",
+   "id": 4306
+  }
+ ],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

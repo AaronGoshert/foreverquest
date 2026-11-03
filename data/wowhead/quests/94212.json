@@ -1,0 +1,80 @@
+{
+ "id": 94212,
+ "name": "Craftsman's Writ: Elixir of Wisdom",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 257296,
+  "name": "Muggol Breezebeard",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    48.8,
+    55.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Elixir of Wisdom  ( 1 ) Elixir of Wisdom  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264012,
+   "name": "Craftsman's Writ: Elixir of Wisdom",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3383,
+   "name": "Elixir of Wisdom",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Elixir of Wisdom",
+   "count": 1,
+   "type": "item",
+   "id": 264012
+  },
+  {
+   "text": "Elixir of Wisdom",
+   "count": 1,
+   "type": "item",
+   "id": 3383
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 1,
+   "id": 257296,
+   "name": "Muggol Breezebeard",
+   "coord": [
+    48.8,
+    55.8
+   ],
+   "coords": [
+    [
+     48.8,
+     55.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

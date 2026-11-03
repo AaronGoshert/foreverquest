@@ -1,0 +1,115 @@
+{
+ "id": 98189,
+ "name": "Return the Statuette",
+ "level": 25,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 200,
+ "start": {
+  "type": "npc",
+  "id": 1242,
+  "name": "Karl Boran",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    8.4,
+    58.4
+   ],
+   [
+    8.4,
+    58.6
+   ],
+   [
+    8.6,
+    58.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2104,
+  "name": "Captain Stoutfist",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    9.8,
+    57.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Bring the Menethil Statuette to Captain Stoutfist in Menethil Keep. Menethil Statuette (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 279589,
+   "name": "Menethil Statuette",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  279,
+  281,
+  284,
+  285,
+  286,
+  98189,
+  98190,
+  98191
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 1242,
+   "name": "Karl Boran",
+   "coord": [
+    8.4,
+    58.6
+   ],
+   "coords": [
+    [
+     8.4,
+     58.4
+    ],
+    [
+     8.4,
+     58.6
+    ],
+    [
+     8.6,
+     58.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 2104,
+   "name": "Captain Stoutfist",
+   "coord": [
+    9.8,
+    57.4
+   ],
+   "coords": [
+    [
+     9.8,
+     57.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

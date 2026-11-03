@@ -1,0 +1,377 @@
+{
+ "id": 1069,
+ "name": "Deepmoss Spider Eggs",
+ "level": 20,
+ "reqlevel": 15,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1950,
+ "start": {
+  "type": "npc",
+  "id": 3446,
+  "name": "Mebok Mizzyrix",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62.4,
+    37.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3446,
+  "name": "Mebok Mizzyrix",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62.4,
+    37.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 15 Deepmoss Eggs to Mebok Mizzyrix in Ratchet. Deepmoss Egg  ( 15 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5570,
+   "name": "Deepmoss Eggs",
+   "count": 15,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Deepmoss Egg",
+   "count": 15,
+   "type": "item",
+   "id": 5570
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 3446,
+   "name": "Mebok Mizzyrix",
+   "coord": [
+    62.4,
+    37.6
+   ],
+   "coords": [
+    [
+     62.4,
+     37.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 3446,
+   "name": "Mebok Mizzyrix",
+   "coord": [
+    62.4,
+    37.6
+   ],
+   "coords": [
+    [
+     62.4,
+     37.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 14,
+   "date": "2006-11-25T13:27:59-06:00",
+   "body": "This quest starts in the Barrens but has you going to Stonetalon Mountain, not a bad deal as there are a number of quests in Stonetalon Mountains around this level.\r\n\r\nThe spider eggs can be found in a number of locations. Sishir Canyon has the highest concentration of spiders and offers the quick route to collecting the eggs. Besseleth is also located in Sishir Canyon, a level 21 elite spider with a quest to kill her.\r\n\r\nBut the spider eggs can also be found in the forests of Windshear Crag and Mirkfallon Lake.",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2006-12-13T06:14:51-06:00",
+   "body": "Stonetalon Mountains: 63,57\r\n\r\nRun arround that area you will find the egg under the trees",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2005-10-08T00:26:34-05:00",
+   "body": "Loc. 63.59 in Stonetalone Mountins.\n\nGL.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2006-09-01T12:26:34-05:00",
+   "body": "run on the western road of crossroads and you ll get to cords 63.59.you ll see the eges under trees,kill the big green spiders around so you make sure nothing will buder cuz when you open the egge 2 littlle green spiders will come out of it and you ll be bussy with them:)\nopening the egges you get 3 or 4 eggs from one.the qs is pretty easy;)",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-12-13T01:50:31-06:00",
+   "body": "You should do this quest at the same time you do \"Blood Feeders\". https://www.wowhead.com/forever/quest=6461 The spiders you have to kill are populated in the area that you can find the eggs. A two in one deal!",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-02-10T18:36:03-06:00",
+   "body": "The Eggs will be wiggling around, and sometimes a small spider will hatch out. They are low level though, around 14 I believe.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-03-03T00:26:34-06:00",
+   "body": "i found them at 63,57",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-01-25T12:26:34-06:00",
+   "body": "continent: Stonetalon Mountains\nLocation: 62,63\n\nTHIS IS THE LOCATION!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-08T00:26:34-05:00",
+   "body": "I found the first egg here:&nbsp; 62,65",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-05-15T00:26:34-05:00",
+   "body": "61,64 is a good spot",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-23T07:14:36-06:00",
+   "body": "You'll find this quest a hell of a lot easier if you have a pet/minion/group with you.  About 80% of the time the egg sacs will spawn one or two level 14 Deepmoss Hatchlings, which can do heavy damage if you're not expecting them.  Once you get into the swing of things, you can finish this quest in about 2 minutes, as you'll find up to four eggs per sac.\n\nAlso, those egg sacs are just about the nastiest things I've seen in this game.  They look like giant zits.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-10-06T04:45:05-05:00",
+   "body": "Due to the random drop about (anywhere from 1-4) you will probably have extra eggs on you after you hand in this quest. These serve no other purpose, can't be vendored or sold on the AH, so you can safely delete them",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-08T00:26:34-05:00",
+   "body": "the co-ords are 53-75 when youre acctually in stonetalon mountains, but when you go to do the quest be careful as there is a level 22elite spider in there for another quest",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-08T00:26:34-05:00",
+   "body": "Spider Eggs:\n\nOk, I went to Windshear Crag and killed the large spitting spiders to get to the nest of eggs.&nbsp; The nest are everywhere in clusters of tree.&nbsp; Once I made it to the nest, I open the quivering egg sact and two very fast spiders jumped out and killed me.&nbsp; Would have been nice to know that there are other spiders in the sacks before I spent a most of my mana and health killing the larger spiders patrolling the woods.\n\nAnyway, am I suppose to kill the fast spiders and then return back to the egg sack to find what I am looking for in this quest?&nbsp; Didn�t have the time or health left to try it again last night.\n\nPS � the patrolling spiders spit venom at you, so it would be best to fight them as you would any range MOB.&nbsp; I�m a Shaman, so it�s an opening lighting bolt, frost then run up and hit it a few time until I can shockwave it (frost and shock on the same cool down timer). Also you�re going to use a totem that aggros and/or kills (fire totem), be mindful that it may pull more spiders to you then you want to handle at any time.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-03T00:26:34-06:00",
+   "body": "i got the quest some time ago from the guyin ratchet, but because i abadoned the quest, i lost the claw thing and now that i want to do the quest, i can't do it anymore\n\ndoes anyone know how i can get the claws back?",
+   "replies": [
+    "Isnt that claw thing for another quest (that happens to also involve eggs). I'm pretty sure the digging claw thing is for a quest you get from the troll guy in Crossroads."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-15T00:26:34-05:00",
+   "body": "Just take the road west out of crossroads and you will run into the spiders. Eggs are under the trees.about 63,59.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-15T00:26:34-05:00",
+   "body": "For those with cords 60,70 starts Windshear. The eggs are just around the trees. I got all mine in the first 3. \n\nWithout cords just follow the road until you reach a fork in the road and go to the right.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-27T00:26:34-05:00",
+   "body": "lvl 19 rogue, its easy, now \n2 lvl 14 spiders each time u destroy a hatching sack.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-20T00:26:34-06:00",
+   "body": "I couldnt find anything where everyone was saying. It is best if you just read the quest and do what it says.... go to the windshear crag area. As soon as I walked in there I had no poblems what so ever finding any eggs. Map location... when in stonetalon mountains map view it is going to be 61.64 area to 62.63. That is as far as I had to go. But like everyone else said kill what spiders are around the eggs first because you do have the eggs hatch on you with level 14 spiders in them. I only had to open 4 eggs and then I was through. Good luck hoped that helps others.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-08T12:26:34-05:00",
+   "body": "I went to 62,63 in the windshear crag area and no matriarchs spawned there at all when I killed the hatchlings.\n\nI finished all 15 eggs with no problem",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-15T00:26:34-05:00",
+   "body": "Level 22 spawned every time I killed the baby spiders.&nbsp; However I was able to run away as soon as it spawned and it just let me go.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-09T13:09:10-06:00",
+   "body": "Actually the first coordinates are right. The eggs can be found in the Sishir canyon, in a place that you can't miss. It's full of deepmoss spiders and spider web.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-01T04:44:24-06:00",
+   "body": "You can do this quest with another at the same time.  I did it while doing the Arachanphobia quest, level 21 Elite. Simple enough quests to solo at level 20 for me and my trusty little bear pet. \n\nMy result:\nYou gain 1950 experience.\nYour reputation with Ratchet has greatly increased.\nReceived 25 Silver",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-13T17:04:41-06:00",
+   "body": "I found all 15 around Mirfallon lake. Pretty easy. More times than not I didn't get the spider come out from the eggs. Even when it did it wasn't much of a challenge.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-17T23:04:47-06:00",
+   "body": "You know you're supposed to open them ([i]like a chest or other things where the little \"gear\" icon appears[/i]) and not whack them with your melee weapon, right?\n\nJust a thought... [b]not[/b] tryin' to disrespect you, honest.",
+   "replies": [
+    "i dont think you can even attack them. I didnt ahve the this quest but was there for others and opened some for more loot/cash. About 20% of the time I had a hatchling spawn, one even spawned 2 of them, and one time it linked with a venomspitter(death -_-) \n\n*edit* oh wait, just had a flashback, I know exactly where this NPC is lol, well now I know what eggs he was refering to.\n\nEdited, Tue Jan 25 12:27:22 2005"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-17T13:47:05-06:00",
+   "body": "Also combines well with a spider killing quest you can pick-up in Sunrock Retreat (or maybe it was Honor's Stand?)  I completed them both, fairly easily, solo, as a level 18 mage.\n\nI did not encounter any \"egg breakage\" problems.  Usually \"opening\" an egg yielded a hatchling (around level 14) and the broken egg he came from, other junk, plus 1-4 unboken eggs.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-19T22:37:09-06:00",
+   "body": "Not too hard a quest at all.  If you haven't already done it, another good quest to pick up on your way out to Windshear Crag or Sishir Canyon is Blood Feeders, from a guy in the troll camp at 71,94.\n\nJust be careful with the hatchlings if you're low level.  When their HP gets low they will link with any spiders that are around, and if there are no other mobs around there's a chance they will summon a Lv22 Deepmoss Matriarch.  It can be a mean surprise.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-07T14:18:46-06:00",
+   "body": "I tried doing going to these coords as a lvl 20 hunter and got distroyed by the beasts in the area.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-26T05:18:30-05:00",
+   "body": "Be careful. The co-ords refer to the Ashenvale map. If you use the them on a map of The Barrens they will lead you to Dustwallow Marsh where death awaits you as all the mobs are very high level! Head west out of crossroads to Ashenvale.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-11T17:09:07-05:00",
+   "body": "What do the coordinates refer to, and how can I see where they 'point'?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-09T13:09:43-06:00",
+   "body": "I mean 54,75. That's where they are.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-09T06:13:47-05:00",
+   "body": "My advice to you is to leave the Ratchet and walk to the Crossroads. Once you get to Crossroads, take the west path out of Crossroads and just keep following that path. If you stick to that one road it will lead you straight upto the Stonetalon Mountains and into Windshear Crag where the eggs are.\n\nIt can be a little tricky, I actually managed to die on it once cause when I opened the eggs 2 little Deepmoss Hatchets popped out and the little suckers got me by surprise. Overall not too hard though, just be patient and it's no problem really. I was an 18 Warlock but the quest completion bumped me upto 19.\n\n\nBapupa",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-08T18:50:34-05:00",
+   "body": "54,75 i think would be the approx coords. you can find them all over stonetalon. but a lot can be found in sishir canyon off of the webwinder path",
+   "replies": [
+    "Any chance this starting npc has moved? I've been looking to turn in for a few days now and he's not been in Rachet",
+    "I don't think those are right... why would a Barrens quest be in Dustwallow Marsh?"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-16T17:19:57-06:00",
+   "body": "Everytime I try to \"harvest\" and egg or whatever you would call it...the eggs break. I have tried on about 25 eggs and I have NEVER been successful?\n\nAnyone else having this issue?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-03T08:13:01-06:00",
+   "body": "I did this quest as a lvl 27 priest and received 1150 exp.  It was grey to me.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-06-21T14:12:40-05:00",
+   "body": "This quest is available to both Alliance and Horde characters.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2021-08-21T12:28:21-05:00",
+   "body": "You will find that many egg 'nodes' have 0 eggs, but others have 3-4. To that end you may end up with more than 15 eggs in your inventory; since only 15 are required, you can delete the excess without consequence. The quest is something of a slog.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-28T01:21:00-06:00",
+   "body": "If I can add a comment, this quest is not for Horde only. I'm Alliance and I'm doing the quest atm... The NPC, like basically all NPC's in Ratchet is yellow, and does give the quest to Alliance too. He also gives 3 more quests beside that one.\r\n\r\nI was lvl 25 when I went there (for talking to someone there for another quest) and most of the quest he gives are grey though at that lvl.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-10-08T00:26:34-05:00",
+   "body": "I found them at 45, 43. They respawn pretty quickly and each one gives you 3 or 4 eggs. I just waited here. I found an incendrite here from a fire guy. He respawn quick too.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-08T00:26:34-05:00",
+   "body": "i was told to go to the one over at stonetalon, the marsh is way to hard for lvl 22",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-25T12:26:34-06:00",
+   "body": "There is a pride of wyvern here lvl 23+",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-06-20T12:26:34-05:00",
+   "body": "what level did u guys do this quest at?",
+   "replies": [
+    "That didnt happen for me, every egg 2 babies hatched but as of 7/15/06, only once did a matriach spawn, and it was when i was opening my last egg, i think its just a \"chance\" that a matriach will spawn and seems like you just had a good chance of one spawning. I was 24 when i did the quest so it was pretty easy."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-08-07T23:12:56-05:00",
+   "body": "I too would appreciate coordinates for this one.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-07-22T15:17:02-05:00",
+   "body": "May I know the coor please..",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-05-14T11:56:32-05:00",
+   "body": "Zone: Stonetalon Mountains\nCo-ords: 54,75",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,358 @@
+{
+ "id": 6141,
+ "name": "Brother Anton",
+ "level": 39,
+ "reqlevel": 34,
+ "side": 1,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 300,
+ "start": {
+  "type": "npc",
+  "id": 12336,
+  "name": "Brother Crowley",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    42,
+    24.8
+   ],
+   [
+    42.4,
+    24.4
+   ],
+   [
+    43.2,
+    24.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1182,
+  "name": "Brother Anton",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    66.4,
+    7.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Speak with Brother Anton in Desolace .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1182,
+   "name": "Brother Anton",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  6141,
+  261,
+  1052
+ ],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 12336,
+   "name": "Brother Crowley",
+   "coord": [
+    42.4,
+    24.4
+   ],
+   "coords": [
+    [
+     42,
+     24.8
+    ],
+    [
+     42.4,
+     24.4
+    ],
+    [
+     43.2,
+     24.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 1182,
+   "name": "Brother Anton",
+   "coord": [
+    66.4,
+    7.8
+   ],
+   "coords": [
+    [
+     66.4,
+     7.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 27,
+   "date": "2007-01-13T15:14:40-06:00",
+   "body": "You need to complete this quest chain to be able to get 'In the Name of the Light' https://www.wowhead.com/forever/quest=1053.",
+   "replies": [
+    "For people who playing WoW Classic in 2019: if you can't obtain this quest, then you already pick up the next quest Down the Scarlet Path in Desolance. Check you're questlog. I'm losing almost 30min just running\\flying.",
+    "god bless you my friend :)"
+   ]
+  },
+  {
+   "rating": 15,
+   "date": "2007-01-11T21:35:52-06:00",
+   "body": "When you enter the cathedral, run to the farthest corner on your right.&nbsp; There's an open door, go through it down a stone ramp, and voila- Brother Crowley's down there.",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2006-03-25T21:35:52-06:00",
+   "body": "Desolace can be reached via a path in the SW corner of Stonetalon Mountains. Once you enter the northern bit of Desolace, follow the feet of the mountains to the east, there's a very obvious (lighted, with guards) path up the hill to Nigel's Point.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-06-14T14:07:59-05:00",
+   "body": "This quest was not available until I turned 34.",
+   "replies": [
+    "Hmm, I'm positive I ran through the Cathedral to train when I hit 34, and I didn't see a questgiver when I did.  Maybe I just wasn't looking over in the corner.  I'm still 34, so I'll check on my next trip in.",
+    "You wouldn't see this guy by just running through the main hall of the cathedral -- he's kind of downstairs, down a spiral ramp in the back right.  Really out-of-the-way."
+   ]
+  },
+  {
+   "rating": 6,
+   "date": "2005-07-07T21:40:48-05:00",
+   "body": "The quest giver is in one of the underground chambers  of the cathedral.\nOn the right side when facing the altar.\n\nEdited, Thu Jul  7 17:40:35 2005",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-01-13T08:34:27-06:00",
+   "body": "300xp, no rep at 40 (yellow quest)",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-02-17T09:35:52-06:00",
+   "body": "lvl35 pally got quest in SW Temple basement",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-30T21:35:52-06:00",
+   "body": "I never spoke with brother Crowley, I went straight to Desolace and got the quest from brother anoton in Nijel's point (forgive me if I spelled any of those incorrectly)\n\nHopefully this helps those who can't get it from crowley",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-08-18T21:35:52-05:00",
+   "body": "Got quest from the guy in SW Cath. basement.\nI'm lvl 35 warr, Honored with SW, nothing special.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-17T09:35:52-06:00",
+   "body": "I'm a lvl 41 NE Hunter. I couldn't get the quest. He wouldn't talk to me. 20/2/07",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-03-25T21:35:52-05:00",
+   "body": "Brother Crowley is located in the Stormwind Cathedral Square. His exact cords are (42,24).",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-10T07:11:52-05:00",
+   "body": "Talked and received quest from Brother Crowley at 42,24 basement of SW Cathedral.&nbsp; 34 NE Warrior Kargath",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-12-04T23:36:59-06:00",
+   "body": "I found bro crowley, I'm on my lvl 39 hunter.  I click on him but no dialog is available whatsoever.  I also tried just going to nijels point to talk to brother anton but same thing...no dialog at all.  I was able to get the other Desolace quests... anyone know what the deal is?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-06T05:13:28-05:00",
+   "body": "dont bother talking to this guy...at lvl 34 just go straight to nijels point and talk to brother anton to start the UD guys....waste of time goin to stormwind!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-09-12T14:52:26-05:00",
+   "body": "Entrance to Nijel's Point in Desolace: 67,16",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-09-27T18:09:38-05:00",
+   "body": "You can't pick this quest if you already pick/did the quest [quest=261] in Desolance (it's the follow up)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-30T21:35:52-06:00",
+   "body": "whats the fastest way to get to Desolace?&nbsp; I can't seem to find a pathway.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-25T21:35:52-06:00",
+   "body": "wat is the fastest route to desolace?",
+   "replies": [
+    "The first time I went, I did a /who c-\"Warlock\" z-\"Desolace\" and had them summon me for a small price... (was on lock bloodrobe quest), but i forgot to get the flight path in nij'el so the next time i had to walk down from astraanar. So just fly to astranaar, walk down through stonetalon (go up to the NE coner to get the flight path there if you want for later) and then just walk south west from there. There's a road that goes south, usually a few 30's horde killing stuff, so be on the lookout if you are on PVP server."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-25T21:35:52-06:00",
+   "body": "How can i get to Nijels point? its mountains in the way.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-08-18T21:35:52-05:00",
+   "body": "The only trouble i had was finding the bastard",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2019-09-04T16:05:49-05:00",
+   "body": "the path from ashenval to stonetalon mountain is 42,70",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-30T21:35:52-06:00",
+   "body": "I am Lv40,i cant talk to Brother Crowley or Brother Anton ..seems there's a pre-quest for this quest ...Anyone knows what's the pre-quest?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-30T21:35:52-06:00",
+   "body": "Lvl 38 here...can't talk to him. Anybody at lvl 38 able to talk to him?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-30T21:35:52-06:00",
+   "body": "I went to desolance first before knowing about brother crowley and i picked up the quest at lvl 40&nbsp; when i went to stormwind brother crowley would not speak to me. so if he doesnt talk to you skip it",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-30T21:35:52-06:00",
+   "body": "I can't get the quest from Anton or the dude in SW, maybe you need faction with someone before they'll give you the quest?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-30T21:35:52-06:00",
+   "body": "I can't speak to either, lvl 44.&nbsp; Really bloody annoyed now!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-30T21:35:52-06:00",
+   "body": "Got the quest with my Alli Human warlock Lv40 :p\nSW-Honored.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-17T09:35:52-06:00",
+   "body": "At what locaion can i find Brother Anton?\nThx..",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-07T15:50:16-05:00",
+   "body": "If you go straight to brother Anton...you dont get as much xp. You should do this one then head to Anton.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-11T16:41:56-06:00",
+   "body": "He tells you kill 30 Undead ravagers they can be found in the south of the map lvl 38 monsters about. After this quest is complete you will be then sent to south shore to do the Quest In  the name of the Light Which is for the Scarlet Monastery.\n\nEdited, Fri Feb 11 11:08:09 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-03T19:19:21-06:00",
+   "body": "66, 8 in the inn",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-19T22:53:07-05:00",
+   "body": "Is this Priest only? I'm a 36 Druid and can't get the quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-12T14:25:51-06:00",
+   "body": "How should i get to Desolace. Im lvl 34 Pally but i think i can take lvl 38s. I have a fps to Ashenvale, would that be the best way to go and then walk? Or is there a boat.",
+   "replies": [
+    "better to go to Stonetalon and then down to the Charred Vale. From Ashenvale, head west through the Deeptalon Path (near Mystral Lake) and you enter Stonetalon from the side.\nBe carefull though, there is also a Horde town, but not much highlvls go there...\n\n..then again, I play Horde-characters only so I dont mind ;)\n\nGood luck"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-19T02:03:11-05:00",
+   "body": "what level can i actually get this quest?\nim a level 34 hunter",
+   "replies": [
+    "You need Lvl 39 and it starts in Storm Wind",
+    "I just picked this quest up on my 35 pally."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-27T21:36:26-06:00",
+   "body": "I just picked up this quest in SW with my lvl34 Hunter. However the next part of the chain requires me to kill 30 lvl38 mobs! Possible, but very, very dodgy. I got two, and decided to come back another day.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-08T20:31:23-06:00",
+   "body": "Starts 42 24",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-01T03:35:54-06:00",
+   "body": "[b]CT_MOD 42, 24[/b]",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-11T21:35:52-06:00",
+   "body": "im on dath'remar 40 hunter called nooblet on alliance and wtf i cant get the quest nor can my 34 mate anyone know why? ps we had a server restart 2 hours ago",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-02-17T09:35:52-06:00",
+   "body": "yeah i cant seem to be able to talk to any of them either.",
+   "replies": []
+  }
+ ]
+}

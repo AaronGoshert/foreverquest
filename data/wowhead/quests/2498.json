@@ -1,0 +1,160 @@
+{
+ "id": 2498,
+ "name": "Return to Denalan",
+ "level": 9,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 80,
+ "start": {
+  "type": "npc",
+  "id": 3517,
+  "name": "Rellian Greenspyre",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    38.4,
+    20.4
+   ],
+   [
+    38.4,
+    21.4
+   ],
+   [
+    38.4,
+    21.6
+   ],
+   [
+    38.6,
+    21.4
+   ],
+   [
+    38.6,
+    21.8
+   ],
+   [
+    38.8,
+    22.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2080,
+  "name": "Denalan",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    60.8,
+    68.4
+   ],
+   [
+    60.8,
+    68.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Rellian Greenspyre wants you to speak with Denalan at Lake Al'Ameth.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3517,
+   "name": "Rellian Greenspyre",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  2498,
+  2499
+ ],
+ "points": [
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "start",
+   "type": 1,
+   "id": 3517,
+   "name": "Rellian Greenspyre",
+   "coord": [
+    38.4,
+    21.6
+   ],
+   "coords": [
+    [
+     38.4,
+     20.4
+    ],
+    [
+     38.4,
+     21.4
+    ],
+    [
+     38.4,
+     21.6
+    ],
+    [
+     38.6,
+     21.4
+    ],
+    [
+     38.6,
+     21.8
+    ],
+    [
+     38.8,
+     22.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 2080,
+   "name": "Denalan",
+   "coord": [
+    60.8,
+    68.4
+   ],
+   "coords": [
+    [
+     60.8,
+     68.4
+    ],
+    [
+     60.8,
+     68.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 10,
+   "date": "2006-04-23T22:04:35-05:00",
+   "body": "Character: Denalan\nContinent: Kalimdor\nZone: Teldrassil\nLocation: Lake Al'Ameth\nCoordinates: (60,68)",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-02-09T22:04:35-06:00",
+   "body": "denalan is at 60,68",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-11-10T04:38:33-06:00",
+   "body": "60,68",
+   "replies": []
+  }
+ ]
+}

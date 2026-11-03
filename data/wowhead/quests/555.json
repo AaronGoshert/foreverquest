@@ -1,0 +1,845 @@
+{
+ "id": 555,
+ "name": "Soothing Turtle Bisque",
+ "level": 31,
+ "reqlevel": 28,
+ "side": 1,
+ "zoneId": 267,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2500,
+ "start": {
+  "type": "npc",
+  "id": 2430,
+  "name": "Chef Jessen",
+  "zone": "Hillsbrad Foothills",
+  "zoneId": 267,
+  "coords": [
+   [
+    51.8,
+    58.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2430,
+  "name": "Chef Jessen",
+  "zone": "Hillsbrad Foothills",
+  "zoneId": 267,
+  "coords": [
+   [
+    51.8,
+    58.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 10 pieces of Turtle Meat and some Soothing Spices to Chef Jessen in Southshore. Turtle Meat  ( 10 ) Soothing Spices  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 3712,
+   "name": "Turtle Meat",
+   "count": 10,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3713,
+   "name": "Soothing Spices",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Turtle Meat",
+   "count": 10,
+   "type": "item",
+   "id": 3712
+  },
+  {
+   "text": "Soothing Spices",
+   "count": 1,
+   "type": "item",
+   "id": 3713
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 267,
+   "zone": "Hillsbrad Foothills",
+   "point": "start",
+   "type": 1,
+   "id": 2430,
+   "name": "Chef Jessen",
+   "coord": [
+    51.8,
+    58.6
+   ],
+   "coords": [
+    [
+     51.8,
+     58.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 267,
+   "zone": "Hillsbrad Foothills",
+   "point": "end",
+   "type": 1,
+   "id": 2430,
+   "name": "Chef Jessen",
+   "coord": [
+    51.8,
+    58.6
+   ],
+   "coords": [
+    [
+     51.8,
+     58.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 267,
+   "zone": "Hillsbrad Foothills",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2408,
+   "name": "Snapjaw",
+   "coord": [
+    65.8,
+    38
+   ],
+   "coords": [
+    [
+     55.2,
+     54
+    ],
+    [
+     55.2,
+     54.6
+    ],
+    [
+     55.2,
+     57
+    ],
+    [
+     55.4,
+     53.4
+    ],
+    [
+     55.6,
+     53.8
+    ],
+    [
+     55.6,
+     57
+    ],
+    [
+     56.2,
+     50
+    ],
+    [
+     56.4,
+     50.6
+    ],
+    [
+     56.6,
+     50.6
+    ],
+    [
+     56.8,
+     47.2
+    ],
+    [
+     56.8,
+     50.2
+    ],
+    [
+     57.4,
+     48
+    ],
+    [
+     57.6,
+     47.6
+    ],
+    [
+     58.4,
+     45
+    ],
+    [
+     58.8,
+     45
+    ],
+    [
+     59.2,
+     46
+    ],
+    [
+     59.6,
+     45.2
+    ],
+    [
+     61.6,
+     44
+    ],
+    [
+     61.8,
+     42.2
+    ],
+    [
+     61.8,
+     43.2
+    ],
+    [
+     63.4,
+     40.2
+    ],
+    [
+     63.8,
+     40.6
+    ],
+    [
+     64,
+     40.2
+    ],
+    [
+     64.4,
+     39.2
+    ],
+    [
+     65.2,
+     38.6
+    ],
+    [
+     65.4,
+     38.4
+    ],
+    [
+     65.8,
+     38
+    ],
+    [
+     65.8,
+     39.2
+    ],
+    [
+     66,
+     37.4
+    ],
+    [
+     66.6,
+     36.2
+    ],
+    [
+     67,
+     35.4
+    ],
+    [
+     67.2,
+     33.2
+    ],
+    [
+     67.2,
+     33.8
+    ],
+    [
+     67.4,
+     29.6
+    ],
+    [
+     67.4,
+     32.4
+    ],
+    [
+     67.6,
+     32.6
+    ],
+    [
+     67.8,
+     17.6
+    ],
+    [
+     67.8,
+     19.4
+    ],
+    [
+     67.8,
+     19.6
+    ],
+    [
+     67.8,
+     21.2
+    ],
+    [
+     67.8,
+     22.4
+    ],
+    [
+     67.8,
+     23.2
+    ],
+    [
+     67.8,
+     24.2
+    ],
+    [
+     67.8,
+     27.4
+    ],
+    [
+     68,
+     25.8
+    ],
+    [
+     68,
+     31.4
+    ],
+    [
+     68,
+     32.2
+    ],
+    [
+     68,
+     33.6
+    ],
+    [
+     68.2,
+     28.4
+    ],
+    [
+     68.2,
+     28.8
+    ],
+    [
+     68.2,
+     30
+    ],
+    [
+     68.4,
+     14.8
+    ],
+    [
+     68.4,
+     17
+    ],
+    [
+     68.4,
+     25.4
+    ],
+    [
+     68.6,
+     17
+    ],
+    [
+     68.6,
+     18.2
+    ],
+    [
+     68.6,
+     28.2
+    ],
+    [
+     68.8,
+     25.4
+    ],
+    [
+     69.2,
+     12.8
+    ],
+    [
+     69.2,
+     14.2
+    ],
+    [
+     69.2,
+     14.6
+    ],
+    [
+     69.4,
+     12.4
+    ],
+    [
+     70,
+     11.8
+    ],
+    [
+     70,
+     13.4
+    ],
+    [
+     70,
+     13.6
+    ],
+    [
+     70.6,
+     12.4
+    ],
+    [
+     71.6,
+     8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 80,
+   "date": "2005-10-04T20:52:08-05:00",
+   "body": "LVL 34, 2500 XP\nTurtles spawn on the river E of Southshore. They spawn from next to the town to all the way up past Tarren Mill.\n\nI got meat off of lvl 30 and 31 turtles. I would estimate that I killed about 25 to get 10 meat.\n\nThe soothing spices can be purchased from the trade supplier in the big building N of the inn and across the street (last bldg before griffons)",
+   "replies": [
+    "Go to thousand needles for turtles, lots more there to farm and around the same drop rate. Wetlands boat to Theramore then south one zone to thousand needles.",
+    "Had to kill about 50 in Hillsbrad Foothills to get my 10 turtle meat, so put the coffee ketle on!"
+   ]
+  },
+  {
+   "rating": 39,
+   "date": "2007-01-24T19:35:13-06:00",
+   "body": "You can get Soothing Spices in Southshore. 48, 55 from Micha Yance",
+   "replies": [
+    "The soothing spices can be purchased from the trade supplier in the big building N of the inn and across the street (last bldg before griffons)"
+   ]
+  },
+  {
+   "rating": 28,
+   "date": "2005-11-10T08:52:08-06:00",
+   "body": "My advice.... if you plan to do this quest, what you do:\n\nAt lvl 30 there is a quest over in Thousand Needles at the Goblin/Gnome race track to kill Turtles for their shells. They drop the SAME Turtle Meat as the ones near SS, and they drop the Hardened Turtle Shells or whatever you have to get for the quest, VERY RARELY. You need 8 or 9 of them.\n\nSo go do the shells quest, by the time you're done you can fly over to SS and turn in the turtle meat to get double bonus for fighting those STUPID ass turtles for SO LONG!\n\n--BobTheSmall",
+   "replies": []
+  },
+  {
+   "rating": 25,
+   "date": "2005-01-23T07:34:51-06:00",
+   "body": "1500 XP at level 38, when the quest is green.",
+   "replies": []
+  },
+  {
+   "rating": 23,
+   "date": "2006-09-18T16:18:51-05:00",
+   "body": "This quest is for the Alliance faction only.\n\nHorde players will have to follow this quest:\nhttps://www.wowhead.com/forever/quest=7321",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2005-02-04T10:47:16-06:00",
+   "body": "2500 exp at level 29, when the quest is yellow.\n\nThe lake location described below is definitely the ideal place for this, if a bit far to walk to. Drop rate is about the same as murloc quest drops, which is to say not very high. These are easy kills though, auto-attack and AFK (which is what I did).",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2006-07-23T20:52:08-05:00",
+   "body": "You can get Soothing Spices in Southshore. [b]48, 55[/b] from [b]Micha Yance[/b]",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2019-09-16T01:39:17-05:00",
+   "body": "As a lvl 32 Mage with 3 points in Elemental Precision the level 31 turtles were resisting a LOT of my spells.  Not sure if they have resistance to frost spells...  Is there a way to find that out?  Seems like my fire and arcane spells are not resisted nearly as much.",
+   "replies": [
+    "I used Beast Lore on them, all have at least 75 Frost Resistance.",
+    "If you're a Frostie, you'd better skip this or you'll be in a rotten mood for some time. Presumable you haven't leveled up your fire spells but even with a fire wand, they resist far more than anything else at that level and the drop rate is pretty silly."
+   ]
+  },
+  {
+   "rating": 9,
+   "date": "2007-01-24T18:33:13-06:00",
+   "body": "Soothing Turtle Bisque (Quest) tloc 69,13 (The whole river up and down you can find the turtles)",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2007-03-18T10:41:41-05:00",
+   "body": "The turtles have a somewhat highish Frost Resist, by the way.",
+   "replies": [
+    "Before heading to the Snapjaw's, check with the Trade Goods seller, Micha Yance at 48,55 in the 2 floor building North of the Inn & across the street. He sells the \"Soothing Spices\" (when instock). (Exit the Inn and make a right. It is the last building on the left just before the Gryphon's)"
+   ]
+  },
+  {
+   "rating": 9,
+   "date": "2006-01-22T08:52:08-06:00",
+   "body": "if you swim up river all the way to western plaguelands the drop rate improves as you go. i was getting 2 or 3 pieces at a time when they dropped. plus you can skirt around the edge and get the flight path in western plaguelands without having to face the high level monsters",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-01-15T03:22:23-06:00",
+   "body": "Lordamere Lake on the north edge of Dalaran (Big Pink Dome thing on the West Edge of Alterac Mtns.) is a much better place to find turtles. There are TONS of them all along the south and west shores of this lake.\n\nEdited, Fri Jan 14 21:23:03 2005",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-05-11T11:12:09-05:00",
+   "body": "very easy quest, \"head up past Dalaran to Lake Lordamere\" coords 23,45.  I found a low drop rate from the turtles on the shore (and along the river for that matter), HOWEVER a 100% drop rate from the turtles [u]under the water[/u], infact they were dropping 2-3 pieces of meat each and this was from both lvl 30 & 31 turtles.  So take a swim, I even found a bunch of Lake Frenzy to cook as well.  Then to complete the quest you will need Soothing Spices, which you can purchase from trade vender Micha Yance in Southshore, he's inside the house closest to the gryphons @ 49,55.\n\n[i][small]Edited, May 11th 2007 10:16am by gratefulbeauty[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-05-21T04:04:08-05:00",
+   "body": "Me too, the drop rate sucks a lot. I went from the ocean and killed every turtle all the way up the river to the Western Plaguelands and only got five one way. Had to all the way back down to get the other five. I killed around 40 - 50 turtles.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-04-05T08:52:08-05:00",
+   "body": "Can be bought from a vendor in Southshore.\n\nAround 48,56. One of the shops close to the griffon rider.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-04-05T13:40:08-05:00",
+   "body": "I killed every turtle up the river and got [b]1[/b] friggin turtle meat (from 25-30 turtles).\n\nI then went to the lake, as it says in the quest, and killed maybe 10 more turtles from the shore and got 1 more meat.&nbsp; I was still in the Dalaran subzone as I did this.\n\nI then went INTO the lake, so that I was in the actual Lordameare Lake subzone, and after that almost every turtle dropped meat, and some 2.&nbsp; I only had to kill about 8 more turtles.\n\nSo I think maybe the drop rate is boosted if you're in the actual lake subzone.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-02-27T20:52:08-06:00",
+   "body": "Where: Get the quests at [b]68,20[/b] and south.&nbsp; All along the river.\n\nWhat?: Killing the Snapjaw, any level, will give you The [b]Turtle Meat[/b]\n\nSpices: Buy from a [b]cooking vendor (in UC) [/b]",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-02-27T20:52:08-06:00",
+   "body": "Theres a man in the in a house @ (48,55) in southshore that has the soothing spice for sale",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-05-02T22:18:32-05:00",
+   "body": "The best place I found to grind these are at 21,47.&nbsp; There are plenty along the shore to kill for the meat.&nbsp; And yes the post above about the spice is correct.&nbsp; You can buy the spice from the trade goods guy in the last building on the north west side of town.. he is located on the lower level of the building.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-04T20:52:08-05:00",
+   "body": "Drop rate is not good, but if you just READ the quest, it EXACTLY says where to find them. And th�re at least the drop rate is a lot better than once every 20 kills. It took me 10 min in total maybe. At that time I was a 32 mage.\nSo....READ the quest and you�re done.\nIf you have no idea where Dalaran is, well, go North North West from Southshore. It�s left of where the map says where the Arherac Mountains are. When you walk in there you�ll see a BIG (read VERY BIG) pink bowl/shield/I don�t know what, but just behind it are the turtles. \n\nHave fun...\n\nOh... there is this little house standing there...if you�re not at leasta lvl 35, don�t be curious and go inside.... you�ll die :)\n\nSo...have fun, that�s an order",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-04T20:52:08-05:00",
+   "body": "Well. Horde can get this quest too. And to get the soothie spice, just talk to the Tradesman in the inn in TM. He sell it for 1.44s\nTo get the turtle meat, go to the river and kill Snapjaws. \n\nHappy fraggin' - Doopie (Bloodfeather)\n\nEDIT: After killing Snapjaws for 10 mins. I got all my turtle meat, lvl 31 often drop 2 meat, and lvl 30 often drop 1 meat.\n\nEDIT: Got 2500xp at lvl 32",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-22T08:52:08-06:00",
+   "body": "Well, I found the drop rate quite good. Actually, from the start it was really slow, than at 5 meats, they started to drop them 2 and 2.\n\nThe only problem remaining is though that I can't find the quest giver. He doesen't appear in my mini-map.\nIs it just a bug or have Blizzard removed the npc?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-09-13T14:41:16-05:00",
+   "body": "Beware if you are using Questie for this quest, it shows you can buy Soothing Spices in Tarren Mill, which is impossible for an Alliance player such as myself. Coming in viewing distance of the city was already enough to get 2 guards running to me, couldn't manage to run away before they killed me.\nYou 're safer flying back to Arathi Highlands and buying it from [npc=2810]. Btw, I got the Turtle Meat from the turtles in Thousand Needles, there's quite a competition for them, now that we're still in the first month and most people are lower level.",
+   "replies": [
+    "there is a vendor in Southshore, as well"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-11T20:52:08-05:00",
+   "body": "alteric mountains west. north west of where quest recieved :D\n\nalso get the spice from rp.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-12-16T20:52:08-06:00",
+   "body": "For the one that were complaining the drop is lousy you just had bad luck it took me less then 8 min to get the all 10x[b]Turtle Meat[/b]. All you have to do is run up the river stream(heading north) by the time you get to the top you show have all the meat you can eat....also some SnapJam(turtle) drop 2 meat instead of 1 so it easier and faster............................AlSO WATCH OUT FOR HORDES!\n\nALMOST FOR GOT: THE RIVER IS EAST OF SOUTHSHORE\nCORD: START AT 55,58",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-22T08:52:08-06:00",
+   "body": "There no cords here i only need to tell you where you can find it: Its all along the river to the right when pressing \"m\". just go there and folow the river up (or down). they are all along the river!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-22T08:52:08-06:00",
+   "body": "buy spices from a coocking vendor!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-11-22T21:01:46-06:00",
+   "body": "My 32 NE Hunter is doing this quest, mainly for the recipe and whatever faction I might get.\n After two days of killing every turtle I see I have 7 of 10 of the meat. Plenty of other things for loot, mostly vender fodder, but also Tangy clam meat.\n I've tried haunting the river from the rocks to the falls near South Shore, and I've tried elsewhere. \n Basically the drop rate sucks.\n I was 31 when I started this! An entire level from doing nothing but killing turtles.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-22T08:47:49-05:00",
+   "body": "the drop rate of the meat is outrageously low",
+   "replies": [
+    "I guess I was extremely lucky. it took me less than half hour to get all the meat i needed"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-18T13:13:32-06:00",
+   "body": "In the Theramore Inn there is a guy that gives a quest to collect forked mudrock tongues. As a 36 rogue I took this quest and had 9 turtle meat by the time I finished it.  The drop rate on the tongues is nothing to write home about, but doing two low droprate quests at once can often lessen the pain.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-15T18:56:46-06:00",
+   "body": "Soothing spices can be purchased from vendor Micha Yance in Southshore",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-09T20:49:26-05:00",
+   "body": "Discovered chillwind point to be the best drop area for this quest then work your way back down the river.\nWork your way up the river after the waterfall nothing before it.\nNon aggressive beasts so you attack they attack.\nGreat herbs along the way as well so have your minimap zoomed out for herbalism.\nHad to get the spice in IF not avail in SS unless you know something I dont.\nMany horde too non pvp.\nHappy hunting.",
+   "replies": [
+    "\n\nEdited, Fri Aug 26 13:43:53 2005",
+    "Sorry for the repeats. There was an error.\n\nEdited, Fri Aug 26 13:43:08 2005",
+    "Watch out for the lvl 44+ Elite DRAGON that flies around Chillwind Point, though. ;) Yipe!",
+    "There is indeed a dragon at chillwind\n\nhttp://img.photobucket.com/albums/v661/deanguitarplaya/b10a5a23.jpg\n\nEdited, Sat Apr  8 00:01:47 2006",
+    "links dont wanna work, but you can click the second link in my signature to see a screen shot i quickly took while flying by...\n\nEdited, Sat Apr  8 01:16:22 2006"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-01T22:18:40-05:00",
+   "body": "I read that the meat drop rate was real low. It didn't take me long to get the meat. Which I am glad for. I had some drop 2-3 pieces at a time, which helped out bigtime.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-26T23:03:32-06:00",
+   "body": "did this quest at lvl 31, after read most of ur posts i try mainly jus goin for the lvl 31´s, as they did seem to dropped the meat alot better then the lvl 30´s.  got the first 9 meats within 15 mins then for the last one i musta killed atleast 20 more turles to get x2 meat. abit annoyin but its not too bad if ur doin the lion quest at the same time, start at bottom of river an work up by the top u should have 5 meats then while up there kill the lions then head back down the river for the other 5, hopefully ull have better luck then most of us did =)     (tend to b a few horde players up near lions)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-31T07:07:19-06:00",
+   "body": "There are turtles all over the North and Northeast area of Shimmering Flats near Gadgetzan (lvl 34-35)\nGot five \"turtle meat\" in two hours BUT I only attacked maybe two dozen in that I was after their shells.  They aren't KOS and you couldn't kill them fast enough as there are so many.  Good place for Horde as it's neutral...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-07T00:33:00-06:00",
+   "body": "Just finished this quest myself & it took me about 20 minutes.From Southshore go east into the river,there are about 3 turtles there,just kill those and work your way up North killing as you go.When you get up soo far just work your way back.As long as noone else is killing them,you should get all 10 in about 15-20 mins.1 of the closest buildings coming into town is vendor Micha Yance,she has the spices you need.Very easy quest",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-08T16:30:03-05:00",
+   "body": "horrible horrible quest took me about 50 mins to collect all the meat thankfully I managed to get a fair few pearls in the thick clams and ended up making a 4 gold profit from them\n\n81.57 and along that stretch of river is the best place, at 81.57 there is 7 turtles (lv 30-31) to be seen",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-26T22:17:17-06:00",
+   "body": "wtf..... is there a reason none of turtles in the alteracs are dropping any meat?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-11T03:06:46-05:00",
+   "body": "At level 40, Christoph Jeffcoat isn't giving this quest anymore. Possibly nerfed during the last patch? Real bummer, I have several stacks of turtle meat to cook!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-10T21:22:15-05:00",
+   "body": "man what drudgery...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-21T14:51:53-06:00",
+   "body": "It is. You just got lucky. I am doing this quest for the eighth time on yet another character and the drop rate is still as low as ever. So far on this playthrough, 28 kills and only 6 pieces of turtle meat (and I got turtle meat x2 from 2 mobs). Seems to match the reported 20% drop rate.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-06T16:44:52-06:00",
+   "body": "The drop late was insanely low on these, but the amount of xp I got from killing all of the turtles more than made up for it.  I averaged 340-400 XP per turtle, at resting rate.  Not too bad, for a grinding quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-11T22:07:34-05:00",
+   "body": "I actually have not had a hard time with this. The main thing that I apparently did different is I got the turtle meat from the turtles in the Shimmering Flats in Thousand Needles.... Trust me, it's a LOT higher drop rate there, plus a nice grinding quest to go along with it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-13T19:51:56-06:00",
+   "body": "Got the meat, and i am still looking for Micha Yance, could someone give me specific coordinates or something cause i have been looking around town for about 10 minutes, am i missing something?",
+   "replies": [
+    "Never mind, just found him hes at 48,55 if anyone wants it."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-24T00:48:36-05:00",
+   "body": "OK here u go..\nThe Soothing Spices  can be found at Micha Yance (48 , 55) he's a vendor ..Trade Goods..\nAnd the 10 Turtle Meat  can be found at  Snapjaw (55 , 57) and then go up along the river and u will found a lot of  Snapjaw ..\n\nInformation about the quest : You will get 2500 xp .. (that's what i get at level 30)\n\n[b]I'm warning you the drop rate is SO SO [yellow]LOW[/yellow] ! [/b] \n\n\n\n[i][small]Edited, Jul 23rd  2006 at  8:52pm EDT by BesTboY[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-18T04:26:29-06:00",
+   "body": "Many have recommended you just go up the river to chillwind, but I found you're walking forever, and I only got 4 going up and down.  I went to Lake Lordamere and there are a zillion turtles there - the drop rate is still awful, but you don't have to be walking up and down forever fighting whoever else is trying to do the same quest.\nAround 23,45",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-09T15:54:21-06:00",
+   "body": "Level 31 Snapjaws have the best drop rate. Especialy in Chilwind Point.\nMetamap coords 71,71 from the Alterac Mountains map. About the same place to do the \"Costly Menace\" quest (lvl 32 33 Mountain Lions).",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-10T13:31:02-05:00",
+   "body": "The horde version of this quest can be accepted from the cooking-vendor inside the inn in Tarren Mills. Hes just by the stairs leading up. \n\nTurtles are fairly easy kills. Work your way up/down the river if you like, or go up to Lordamere lake and grind them there. Meat drops infrequently, but isnt rare. If you're a skinner you get a good load of medium/heavy leathers from these as well. Maybe even turtle scales which is also in demand. \n\nCant remember the xp/silver reward for this, but you get a stack of the food and the recipie. Its actually worth getting the cooking skill up for this.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-20T22:17:11-05:00",
+   "body": "Ok it might be a bit of a trip but, I can tell you that its easier to get your turtle meat from the shimmering flats before you head to hillsbrad to get the spices... the drop rate is very reasonable in shimmering falts. just FYI~!",
+   "replies": [
+    "confirmed.\nalso, there is plenty of things to do in shimmering flats and there are not much hordies."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-01T09:44:35-06:00",
+   "body": "drop rate is low so be prepared to spend at leas half an hr on this quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-20T00:57:08-06:00",
+   "body": "Easier to just buy the damn recipe.\nKilled every Snapjaw along the river from Southshore to Wester Plaguelands (about 25-30) and the drop rate was ZERO.\n\nComplete waste of time.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-20T13:04:22-06:00",
+   "body": "im afraid not. SouthShore is a alliance town. Btw, turtle spwan at river. there a river east from Southshore. You can find them there. around 5-6 turtle . Drop is fairly difficult. \n\nEdited, Mon Dec 20 07:39:16 2004",
+   "replies": [
+    "im afraid not. SouthShore is a alliance town. Btw, turtle spawn at river. there a river east from Southshore. You can find them there. around 5-6 turtle . Drop is fairly difficult. \n\ncaution : Town crier will announce that Shadow Assassinate coming to town . then you shoud be on alert. They are lv 38 and in stealth mode. I was killed 3 times cuz of them. "
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-10T06:38:02-05:00",
+   "body": "[Blue]I managed to get all the turtle meat quite easily. I was killing all the turtles in the Shimmering Flats area trying to do other quests and managed to pick up the meat. However in the end I abandonded the quest as I needed space to pick up more quests.[/Blue]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-01T11:17:22-06:00",
+   "body": "I disagree on the drop rate problems being mentioned here. I got all 10 pieces of meat in about 15 minutes and that's with frequent stops to go herb gathering. Often times one turtle would come up empty only to have the next one drop two pieces of meat.",
+   "replies": [
+    "You were very fortunate, then. It took me at least thirty minutes. Not only does the turtle meat rarely drop, but the turtles take ages to spawn as well. The experience you get when you complete the quest makes it well worth it, though. Turn on some music and start grinding, 'cause you're going to be there for a while. :]"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-17T22:05:27-06:00",
+   "body": "Wow, wouldn't it be nice if you really got 30g 30s for this?\n\nAnd the drop rate is LOW, very LOW.  People that got them quickly thank the gods of random.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-12T14:34:02-05:00",
+   "body": "Yes there is a horde version and I got two turtle meats about every other lvl 31 snapjaw I killed. Guess the drop rate is pretty random...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-31T21:30:07-06:00",
+   "body": "Plenty of turtles found in river east of Southshore,  \njust keep following the river north killing as you go. Drop seems average for this type of quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-16T07:31:01-06:00",
+   "body": "the drop rate is somewhat low.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-14T21:49:32-06:00",
+   "body": "i got the meat by killing about 7 turtles it wasnt low drop rate for me",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-07T15:59:24-06:00",
+   "body": "This was the most boring quest in the hole game.. The meat never droped. Had to kill like 50 snapjaws mefore I had all ten",
+   "replies": [
+    "One of the best ways to do this quest if you are a Protection Paladin is to go to Dustwallow, Theramore. Just take the boat from Menethil. Before you cross the bridge take a right and get on the beach. There are lvl 38ish snapjaws there that are easy kills for a lvl 35 Paladin. If you wait a few more levels you can go up to a prime AOE grinding spot with murlocks. Just keep going north. You'll see an island on the right but don't go there (casters). Keep going until you see murlocks. Be careful they'll run and aggro like 6 onto you so use Judgement of justice on them. If you go inland a little"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-02T02:15:03-05:00",
+   "body": "There's a fair amount of [npc=2408] in [zone=36] 80,59, making it a good spot to farm if the other spawns are occupied.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-01T16:30:33-05:00",
+   "body": "Those meats have a nasty droprate, i got the meats in around 50 kills..",
+   "replies": [
+    "Real nasty drop rate; Ive done 15 kills now and havent got a single one..."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2006-07-23T20:52:08-05:00",
+   "body": "Yo who sells it and where?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-08-08T13:26:27-05:00",
+   "body": "Like many others here, I am also experiencing a low drop rate for the meat.  Be ready to grind!",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2019-09-20T15:38:01-05:00",
+   "body": "The drop rate on turtle meat is horrendous.  I've killed 20 of them and have 1 meat.  By comparison, I have about 10 tangy clam meat because they drop clams pretty often.",
+   "replies": [
+    "We killing meatless turtles"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2007-04-30T18:43:00-05:00",
+   "body": "Face it folks many kill X number or collect X number will be the same. I experienced it with my now 70 hunter all the time. I did a quest one time when the drop rates for it were described as not only bad but almost non-existant. You live with it and remember you are getting experience. We all forget the quests we do that say collect 10x and we get tem all in 20 mobs.\n\nEir\nLevel 70 Hunter and Her Sidekick Floyd",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2005-01-04T04:46:47-06:00",
+   "body": "jeeze. took me a hour and a half. rare drop and spawns take forever. expect to take your time here.",
+   "replies": [
+    "Tarnaris Lvl 42- 43 Snapjaws drop this all the time"
+   ]
+  },
+  {
+   "rating": -7,
+   "date": "2004-12-18T07:07:05-06:00",
+   "body": "There a horde version to get this recipe?\n\nEdited, Sat Dec 18 01:07:13 2004",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2005-01-07T10:42:48-06:00",
+   "body": "1 in 2 turtles at the most will drop the meat.\nQuick easy quest. and easy exp too.",
+   "replies": [
+    "i must have killed 50 of them and not one of them dropped turtle meat. WTF!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "id": 98208,
+ "name": "Bloom of the Heavens",
+ "level": 29,
+ "reqlevel": 22,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2350,
+ "start": {
+  "type": "npc",
+  "id": 270844,
+  "name": "Sylessa Duskwhisper",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    8,
+    55.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 270844,
+  "name": "Sylessa Duskwhisper",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    8,
+    55.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Recover Nord'el for Sylessa Duskwhisper in Menethil Harbor. Nord'el  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 279915,
+   "name": "Nord'el",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Nord'el",
+   "count": 1,
+   "type": "item",
+   "id": 279915
+  }
+ ],
+ "series": [
+  98208,
+  98209
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 270844,
+   "name": "Sylessa Duskwhisper",
+   "coord": [
+    8,
+    55.8
+   ],
+   "coords": [
+    [
+     8,
+     55.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 270844,
+   "name": "Sylessa Duskwhisper",
+   "coord": [
+    8,
+    55.8
+   ],
+   "coords": [
+    [
+     8,
+     55.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-01T23:02:37-05:00",
+   "body": "Clickable object on the north side of the ship. Can't miss it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-04T21:58:31-05:00",
+   "body": "She'll give you the [url=https://www.wowhead.com/forever/item=279915/nordel]Nord'el[/url] back, and tell you to take it to Darkshore. \nfollow up: [code]https://www.wowhead.com/forever/quest=98209/bloom-of-the-heavens[/code]",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2026-10-05T11:24:54-05:00",
+   "body": "Багованая укня, подходишь к ней и говорит ай кан лут чето там, отмена квеста и взять по новой не помогает. Залепа.",
+   "replies": []
+  }
+ ]
+}

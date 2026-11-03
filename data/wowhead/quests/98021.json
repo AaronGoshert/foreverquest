@@ -1,0 +1,145 @@
+{
+ "id": 98021,
+ "name": "Journey to Sentinel Hill",
+ "level": 13,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 455,
+ "start": {
+  "type": "npc",
+  "id": 1748,
+  "name": "Highlord Bolvar Fordragon",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    77.4,
+    18.4
+   ],
+   [
+    77.4,
+    18.8
+   ],
+   [
+    77.6,
+    18.6
+   ],
+   [
+    78,
+    18
+   ],
+   [
+    80,
+    38.4
+   ],
+   [
+    80,
+    38.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 234,
+  "name": "Gryan Stoutmantle",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    56.2,
+    47.4
+   ],
+   [
+    56.2,
+    47.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Report To Gryan Stoutmantle at Sentinel Hill in Westfall .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 234,
+   "name": "Gryan Stoutmantle",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 1748,
+   "name": "Highlord Bolvar Fordragon",
+   "coord": [
+    78,
+    18
+   ],
+   "coords": [
+    [
+     77.4,
+     18.4
+    ],
+    [
+     77.4,
+     18.8
+    ],
+    [
+     77.6,
+     18.6
+    ],
+    [
+     78,
+     18
+    ],
+    [
+     80,
+     38.4
+    ],
+    [
+     80,
+     38.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 1,
+   "id": 234,
+   "name": "Gryan Stoutmantle",
+   "coord": [
+    56.2,
+    47.6
+   ],
+   "coords": [
+    [
+     56.2,
+     47.4
+    ],
+    [
+     56.2,
+     47.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-01T17:34:11-05:00",
+   "body": "This quest is [b]Skyborne only[/b]. [quest=109] is the \"Human\" alternative -- although I think Skyborne players can also pick that one up.",
+   "replies": []
+  }
+ ]
+}

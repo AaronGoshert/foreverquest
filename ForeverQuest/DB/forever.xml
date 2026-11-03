@@ -1,0 +1,15 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..FrameXMLUI.xsd">
+
+    <Script file="DB/shared.lua"/>
+
+    <Script file="DB/forever/flightData.lua"/>
+    <Script file="DB/forever/quest.lua"/>
+    <Script file="DB/forever/spells.lua"/>
+    <Script file="DB/forever/rares.lua"/>
+    <Script file="DB/forever/db.lua"/>
+    <Script file="DB/forever/dangerousMobs.lua"/>
+    <Script file="DB/forever/StatWeights.lua"/>
+    <Script file="DB/forever/SpiritHealerDB.lua"/>
+    <Script file="DB/questDB.lua"/>
+
+</Ui>

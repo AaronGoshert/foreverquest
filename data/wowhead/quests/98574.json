@@ -1,0 +1,98 @@
+{
+ "id": 98574,
+ "name": "Hallowed Memorandum",
+ "level": 1,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": -262,
+ "reqclass": 16,
+ "status": "new",
+ "xp": 40,
+ "start": {
+  "type": "npc",
+  "id": 658,
+  "name": "Sten Stoutarm",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    29.8,
+    71.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 837,
+  "name": "Branstock Khalder",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    28.6,
+    66.4
+   ],
+   [
+    28.6,
+    66.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Read the Hallowed Memorandum and speak to Branstock Khalder in Anvilmar. Hallowed Memorandum (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 282338,
+   "name": "Hallowed Memorandum",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 658,
+   "name": "Sten Stoutarm",
+   "coord": [
+    29.8,
+    71.2
+   ],
+   "coords": [
+    [
+     29.8,
+     71.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 837,
+   "name": "Branstock Khalder",
+   "coord": [
+    28.6,
+    66.4
+   ],
+   "coords": [
+    [
+     28.6,
+     66.4
+    ],
+    [
+     28.6,
+     66.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

@@ -1,0 +1,63 @@
+{
+ "id": 95250,
+ "name": "Abominable Creatures",
+ "level": 21,
+ "reqlevel": 16,
+ "side": 1,
+ "zoneId": 16611,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1650,
+ "start": null,
+ "end": null,
+ "patch": "1.60.1.69913",
+ "objectiveText": "Collect the Head of the Baron in the Ruins of Lordaeron and bring it back to Captain Truman. Head of the Baron  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 268518,
+   "name": "Head of the Baron",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 279864,
+   "name": "Monstrous Cleaver",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 279867,
+   "name": "Slain Baron's Signet",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Head of the Baron",
+   "count": 1,
+   "type": "item",
+   "id": 268518
+  }
+ ],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": [
+  {
+   "rating": 5,
+   "date": "2026-09-23T05:29:42-05:00",
+   "body": "You can find Captain Truman to the left right as you enter the dungeon.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-28T07:01:10-05:00",
+   "body": "This quest has unique dialogue if you're a human. \r\n\r\nReally love how the dev's went the extra mile to factor that in.",
+   "replies": []
+  }
+ ]
+}

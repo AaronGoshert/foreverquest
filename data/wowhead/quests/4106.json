@@ -1,0 +1,833 @@
+{
+ "id": 4106,
+ "name": "Salve via Skinning",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 1,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 9528,
+  "name": "Arathandris Silversky",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    54.2,
+    86.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 9528,
+  "name": "Arathandris Silversky",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    54.2,
+    86.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Progress A Cenarion beacon will allow a well-trained skinner to spot patches of tainted skin from bounty gathered in Felwood .  I convert these seemingly useless patches into a thick paste that serves as a quickening agent for Cenarion plant salve .  When you skin your kills here in Felwood , be sure to have a beacon on you! When you collect tainted patches, bring them to me and I will give you some Cenarion plant salves that I have already made. Patch of Tainted Skin  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11516,
+   "name": "Cenarion plant salve",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11512,
+   "name": "Patch of Tainted Skin",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Patch of Tainted Skin",
+   "count": 5,
+   "type": "item",
+   "id": 11512
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 1,
+   "id": 9528,
+   "name": "Arathandris Silversky",
+   "coord": [
+    54.2,
+    86.8
+   ],
+   "coords": [
+    [
+     54.2,
+     86.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 1,
+   "id": 9528,
+   "name": "Arathandris Silversky",
+   "coord": [
+    54.2,
+    86.8
+   ],
+   "coords": [
+    [
+     54.2,
+     86.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7126,
+   "name": "Jaedenar Hunter",
+   "coord": [
+    35.4,
+    57.8
+   ],
+   "coords": [
+    [
+     35.4,
+     57.2
+    ],
+    [
+     35.4,
+     57.8
+    ],
+    [
+     35.6,
+     57
+    ],
+    [
+     36,
+     52
+    ],
+    [
+     36.4,
+     55.2
+    ],
+    [
+     36.4,
+     56
+    ],
+    [
+     36.6,
+     55.8
+    ],
+    [
+     36.8,
+     53.4
+    ],
+    [
+     37,
+     50.8
+    ],
+    [
+     37,
+     53.8
+    ],
+    [
+     37.2,
+     54.8
+    ],
+    [
+     37.6,
+     54.6
+    ],
+    [
+     37.8,
+     45.2
+    ],
+    [
+     37.8,
+     54.4
+    ],
+    [
+     38,
+     50.6
+    ],
+    [
+     38.2,
+     50.4
+    ],
+    [
+     38.6,
+     46
+    ],
+    [
+     38.6,
+     47.6
+    ],
+    [
+     39.4,
+     50
+    ],
+    [
+     39.6,
+     49.4
+    ],
+    [
+     39.6,
+     49.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 8957,
+   "name": "Angerclaw Grizzly",
+   "coord": [
+    55.8,
+    10.4
+   ],
+   "coords": [
+    [
+     49.4,
+     12.2
+    ],
+    [
+     49.6,
+     12.2
+    ],
+    [
+     50,
+     13.2
+    ],
+    [
+     50,
+     13.6
+    ],
+    [
+     50.8,
+     12.6
+    ],
+    [
+     51.4,
+     12
+    ],
+    [
+     51.4,
+     15.2
+    ],
+    [
+     51.6,
+     12
+    ],
+    [
+     51.6,
+     15
+    ],
+    [
+     52,
+     16
+    ],
+    [
+     52.6,
+     27.2
+    ],
+    [
+     53.2,
+     16
+    ],
+    [
+     53.2,
+     26.4
+    ],
+    [
+     53.2,
+     28
+    ],
+    [
+     53.6,
+     15.6
+    ],
+    [
+     53.8,
+     13.4
+    ],
+    [
+     53.8,
+     13.6
+    ],
+    [
+     53.8,
+     15.2
+    ],
+    [
+     53.8,
+     27.4
+    ],
+    [
+     54.2,
+     26.4
+    ],
+    [
+     54.4,
+     25
+    ],
+    [
+     54.4,
+     28
+    ],
+    [
+     54.6,
+     25
+    ],
+    [
+     55,
+     24
+    ],
+    [
+     55.2,
+     23.4
+    ],
+    [
+     55.4,
+     10.8
+    ],
+    [
+     55.4,
+     21.2
+    ],
+    [
+     55.4,
+     27
+    ],
+    [
+     55.6,
+     10.6
+    ],
+    [
+     55.6,
+     21.2
+    ],
+    [
+     55.6,
+     23
+    ],
+    [
+     55.6,
+     27
+    ],
+    [
+     55.8,
+     10.4
+    ],
+    [
+     56,
+     8.4
+    ],
+    [
+     56,
+     20.2
+    ],
+    [
+     56,
+     22.2
+    ],
+    [
+     56.2,
+     8.6
+    ],
+    [
+     56.2,
+     12
+    ],
+    [
+     56.2,
+     23.8
+    ],
+    [
+     56.4,
+     6.4
+    ],
+    [
+     56.4,
+     6.6
+    ],
+    [
+     56.6,
+     12.4
+    ],
+    [
+     56.6,
+     12.6
+    ],
+    [
+     56.6,
+     19.6
+    ],
+    [
+     56.6,
+     21.2
+    ],
+    [
+     56.6,
+     24.4
+    ],
+    [
+     56.6,
+     24.8
+    ],
+    [
+     56.6,
+     26.4
+    ],
+    [
+     56.6,
+     26.6
+    ],
+    [
+     56.8,
+     19.4
+    ],
+    [
+     57.4,
+     18.4
+    ],
+    [
+     57.8,
+     17.6
+    ],
+    [
+     58.2,
+     15.2
+    ],
+    [
+     58.2,
+     15.6
+    ],
+    [
+     58.4,
+     16.8
+    ],
+    [
+     58.6,
+     16.4
+    ],
+    [
+     58.6,
+     16.6
+    ],
+    [
+     60,
+     15.2
+    ],
+    [
+     60.8,
+     17
+    ],
+    [
+     61.8,
+     13.8
+    ],
+    [
+     61.8,
+     17
+    ],
+    [
+     62,
+     18.4
+    ],
+    [
+     62,
+     18.6
+    ],
+    [
+     62.2,
+     20.4
+    ],
+    [
+     62.2,
+     20.6
+    ],
+    [
+     62.4,
+     16
+    ],
+    [
+     62.6,
+     16.2
+    ],
+    [
+     62.8,
+     19.4
+    ],
+    [
+     62.8,
+     19.6
+    ],
+    [
+     63.4,
+     13.4
+    ],
+    [
+     63.4,
+     13.6
+    ],
+    [
+     63.6,
+     13.4
+    ],
+    [
+     63.6,
+     13.8
+    ],
+    [
+     64.4,
+     19.8
+    ],
+    [
+     64.6,
+     19.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 8961,
+   "name": "Felpaw Ravager",
+   "coord": [
+    55.8,
+    10.4
+   ],
+   "coords": [
+    [
+     51.4,
+     15.2
+    ],
+    [
+     51.6,
+     15.2
+    ],
+    [
+     52,
+     16
+    ],
+    [
+     52.6,
+     27.2
+    ],
+    [
+     53.2,
+     16
+    ],
+    [
+     53.2,
+     26.4
+    ],
+    [
+     53.2,
+     28
+    ],
+    [
+     53.6,
+     15.6
+    ],
+    [
+     53.8,
+     13.4
+    ],
+    [
+     53.8,
+     13.6
+    ],
+    [
+     53.8,
+     27.4
+    ],
+    [
+     54,
+     15
+    ],
+    [
+     54.4,
+     25
+    ],
+    [
+     54.4,
+     26.4
+    ],
+    [
+     54.4,
+     28
+    ],
+    [
+     54.6,
+     25
+    ],
+    [
+     55,
+     24
+    ],
+    [
+     55.4,
+     10.8
+    ],
+    [
+     55.4,
+     21.2
+    ],
+    [
+     55.4,
+     21.6
+    ],
+    [
+     55.4,
+     23
+    ],
+    [
+     55.4,
+     26.8
+    ],
+    [
+     55.6,
+     21.2
+    ],
+    [
+     55.6,
+     23
+    ],
+    [
+     55.8,
+     10.4
+    ],
+    [
+     55.8,
+     10.6
+    ],
+    [
+     56,
+     8.4
+    ],
+    [
+     56,
+     20.4
+    ],
+    [
+     56,
+     22.2
+    ],
+    [
+     56,
+     27.2
+    ],
+    [
+     56.2,
+     8.6
+    ],
+    [
+     56.2,
+     12
+    ],
+    [
+     56.2,
+     24
+    ],
+    [
+     56.4,
+     6.4
+    ],
+    [
+     56.4,
+     6.6
+    ],
+    [
+     56.6,
+     12.4
+    ],
+    [
+     56.6,
+     12.6
+    ],
+    [
+     56.6,
+     19.6
+    ],
+    [
+     56.6,
+     21
+    ],
+    [
+     56.6,
+     24.4
+    ],
+    [
+     56.6,
+     24.6
+    ],
+    [
+     56.6,
+     26.4
+    ],
+    [
+     56.6,
+     26.6
+    ],
+    [
+     57.2,
+     18.6
+    ],
+    [
+     57.4,
+     18.4
+    ],
+    [
+     57.8,
+     17.8
+    ],
+    [
+     58.2,
+     15.2
+    ],
+    [
+     58.4,
+     15.6
+    ],
+    [
+     58.4,
+     16.8
+    ],
+    [
+     58.6,
+     16.8
+    ],
+    [
+     60,
+     15.2
+    ],
+    [
+     60.6,
+     16.8
+    ],
+    [
+     61.8,
+     13.4
+    ],
+    [
+     61.8,
+     13.8
+    ],
+    [
+     61.8,
+     17
+    ],
+    [
+     61.8,
+     18.4
+    ],
+    [
+     62,
+     18.6
+    ],
+    [
+     62.2,
+     20.2
+    ],
+    [
+     62.2,
+     20.6
+    ],
+    [
+     62.4,
+     16
+    ],
+    [
+     62.6,
+     16
+    ],
+    [
+     62.8,
+     19.4
+    ],
+    [
+     62.8,
+     19.6
+    ],
+    [
+     63.4,
+     13.4
+    ],
+    [
+     63.4,
+     13.6
+    ],
+    [
+     63.6,
+     13.4
+    ],
+    [
+     63.6,
+     13.8
+    ],
+    [
+     64.6,
+     19.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2005-07-13T16:48:09-05:00",
+   "body": "first you have to complete [url=/quest=4101]Cleansing Felwood[/url], given by [url=/npc=9528]Arathandris Silversky[/url], she's at map coors 54,86, just south of the Emerald Sanctuary, just off the road to the east.  she also gives [url=/quest=4108]Salve via Hunting[/url].\n\ngood luck!  =)\n\nRock.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-04T18:17:48-05:00",
+   "body": "I guess the Horde equivalent would be Maybess Riverbreeze, a Tauren located at 46,83.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-25T09:47:57-05:00",
+   "body": "were do u get this q ?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-17T13:01:15-06:00",
+   "body": "what exactly is the salve for ?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-02-24T00:29:48-06:00",
+   "body": "I'm going to post this on all the Alliance versions of these quests as I have not found anyone commenting on more details about each.\r\n\r\nFrom my in-game experience and online research (checking both WoWPedia and WoWWiki), there is a limit to which of these quests each character will have available to them, based on the professions of said characters. Everyone will have the [Salve via Hunting] quests available while the other four will be determined from the aforementioned professions:\r\n\r\n[ul]\r\n[li]Only herbalists will have [Salve via Gathering] available[/li]\r\n[li]Only miners will have [Salve via Mining] available[/li]\r\n[li]Only skinners will have [Salve via Skinning] available[/li]\r\n[li]It appears only enchanters will have [Salve via Disenchanting] available to them (as the needed item is not BoP unlike the above three, I bought two on the AH and attempted to see if I could do the quest: it was not available to me even after a restart to further check)[/li]\r\n[/ul]\r\n\r\nNote that there are two versions of these quests for each faction: the first will give experience along with the salve and is a one time thing (like standard quests) while the second becomes available after and does not give experience, only the salve and is repeatable.",
+   "replies": []
+  }
+ ]
+}

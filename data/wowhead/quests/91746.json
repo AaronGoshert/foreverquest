@@ -1,0 +1,67 @@
+{
+ "id": 91746,
+ "name": "Elmpaw's Head",
+ "level": 12,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 910,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 6306,
+  "name": "Helene Peltskinner",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    46.2,
+    62.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Deliver Elmpaw's Head to Helene Peltskinner near Goldshire. Elmpaw's Head (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 247862,
+   "name": "Elmpaw's Head",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 6306,
+   "name": "Helene Peltskinner",
+   "coord": [
+    46.2,
+    62.2
+   ],
+   "coords": [
+    [
+     46.2,
+     62.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-26T15:36:59-05:00",
+   "body": "Elmpaw is a level 12 elite bear with a lot of health to boot. Looting his head allows you to start this quest.\r\n\r\nYou'll find him wandering around [url=https://www.wowhead.com/forever/npc=248299/elmpaw#map]these areas[/url].",
+   "replies": []
+  }
+ ]
+}

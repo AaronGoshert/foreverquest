@@ -1,0 +1,149 @@
+{
+ "id": 97220,
+ "name": "Philmor's Favor",
+ "level": 15,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 540,
+ "start": {
+  "type": "npc",
+  "id": 268511,
+  "name": "Manifest Clerk Philmor",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    30,
+    28.4
+   ],
+   [
+    30.4,
+    29
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 483,
+  "name": "Elaine Trias",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    60.4,
+    63.4
+   ],
+   [
+    60.4,
+    63.6
+   ],
+   [
+    60.6,
+    63.4
+   ],
+   [
+    60.6,
+    63.6
+   ],
+   [
+    66.4,
+    73.4
+   ],
+   [
+    66.4,
+    73.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring the Gatehouse Shipment to the stockroom entrance located in Trias' Cheese shop in the Trade District. Gatehouse Shipment (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 277119,
+   "name": "Gatehouse Shipment",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  97246,
+  97220,
+  97222
+ ],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 268511,
+   "name": "Manifest Clerk Philmor",
+   "coord": [
+    30.4,
+    29
+   ],
+   "coords": [
+    [
+     30,
+     28.4
+    ],
+    [
+     30.4,
+     29
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 483,
+   "name": "Elaine Trias",
+   "coord": [
+    60.4,
+    63.4
+   ],
+   "coords": [
+    [
+     60.4,
+     63.4
+    ],
+    [
+     60.4,
+     63.6
+    ],
+    [
+     60.6,
+     63.4
+    ],
+    [
+     60.6,
+     63.6
+    ],
+    [
+     66.4,
+     73.4
+    ],
+    [
+     66.4,
+     73.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-25T21:45:53-05:00",
+   "body": "A new quest in the harbor. For this one, go to [url=https://www.wowhead.com/forever/npc=483/elaine-trias#map]Trias' cheese shop[/url], have a chat with the lady behind the counter, then go upstairs and click the box in your bags to place it in front of the locked door. It's placed much like a training dummy. Jump back down to turn it in.\r\n\r\nWhile at the docks, make sure you pick [quest=95065] up as well.",
+   "replies": []
+  }
+ ]
+}

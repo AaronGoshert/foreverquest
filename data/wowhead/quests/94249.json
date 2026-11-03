@@ -1,0 +1,80 @@
+{
+ "id": 94249,
+ "name": "Craftsman's Writ: Azure Silk Hood",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 257316,
+  "name": "Cowardly Peon",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    78.4,
+    68.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Azure Silk Hood  ( 1 ) Azure Silk Hood  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264049,
+   "name": "Craftsman's Writ: Azure Silk Hood",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 7048,
+   "name": "Azure Silk Hood",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Azure Silk Hood",
+   "count": 1,
+   "type": "item",
+   "id": 264049
+  },
+  {
+   "text": "Azure Silk Hood",
+   "count": 1,
+   "type": "item",
+   "id": 7048
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 257316,
+   "name": "Cowardly Peon",
+   "coord": [
+    78.4,
+    68.8
+   ],
+   "coords": [
+    [
+     78.4,
+     68.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

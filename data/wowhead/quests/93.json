@@ -1,0 +1,2298 @@
+{
+ "id": 93,
+ "name": "Dusky Crab Cakes",
+ "level": 20,
+ "reqlevel": 17,
+ "side": 1,
+ "zoneId": 10,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 780,
+ "start": {
+  "type": "npc",
+  "id": 272,
+  "name": "Chef Grual",
+  "zone": "Duskwood",
+  "zoneId": 10,
+  "coords": [
+   [
+    73.8,
+    43.4
+   ],
+   [
+    73.8,
+    43.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 272,
+  "name": "Chef Grual",
+  "zone": "Duskwood",
+  "zoneId": 10,
+  "coords": [
+   [
+    73.8,
+    43.4
+   ],
+   [
+    73.8,
+    43.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Gather 6 Gooey Spider Legs and bring them to Chef Grual in Darkshire. Gooey Spider Leg  ( 6 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 2251,
+   "name": "Gooey Spider Legs",
+   "count": 6,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Gooey Spider Leg",
+   "count": 6,
+   "type": "item",
+   "id": 2251
+  }
+ ],
+ "series": [
+  5,
+  93,
+  240
+ ],
+ "points": [
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "start",
+   "type": 1,
+   "id": 272,
+   "name": "Chef Grual",
+   "coord": [
+    73.8,
+    43.6
+   ],
+   "coords": [
+    [
+     73.8,
+     43.4
+    ],
+    [
+     73.8,
+     43.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "end",
+   "type": 1,
+   "id": 272,
+   "name": "Chef Grual",
+   "coord": [
+    73.8,
+    43.6
+   ],
+   "coords": [
+    [
+     73.8,
+     43.4
+    ],
+    [
+     73.8,
+     43.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 217,
+   "name": "Venom Web Spider",
+   "coord": [
+    23.8,
+    27.8
+   ],
+   "coords": [
+    [
+     9.4,
+     39.1
+    ],
+    [
+     9.6,
+     39.6
+    ],
+    [
+     9.7,
+     37.8
+    ],
+    [
+     9.7,
+     40.5
+    ],
+    [
+     10.6,
+     39.1
+    ],
+    [
+     10.8,
+     45.1
+    ],
+    [
+     11,
+     47
+    ],
+    [
+     11.2,
+     53.4
+    ],
+    [
+     11.3,
+     60.9
+    ],
+    [
+     11.4,
+     46.4
+    ],
+    [
+     11.5,
+     46.6
+    ],
+    [
+     11.6,
+     46.4
+    ],
+    [
+     11.8,
+     49
+    ],
+    [
+     11.8,
+     54.8
+    ],
+    [
+     12,
+     54.4
+    ],
+    [
+     12.2,
+     28.6
+    ],
+    [
+     12.2,
+     50.4
+    ],
+    [
+     12.3,
+     58.2
+    ],
+    [
+     12.4,
+     28.4
+    ],
+    [
+     12.4,
+     50.5
+    ],
+    [
+     15,
+     27.4
+    ],
+    [
+     18.8,
+     27.8
+    ],
+    [
+     19,
+     26.2
+    ],
+    [
+     23.8,
+     27.8
+    ],
+    [
+     24.6,
+     28.6
+    ],
+    [
+     25.1,
+     28
+    ],
+    [
+     27.4,
+     29.2
+    ],
+    [
+     27.8,
+     29
+    ],
+    [
+     28,
+     29.6
+    ],
+    [
+     28.6,
+     30.8
+    ],
+    [
+     28.8,
+     29.6
+    ],
+    [
+     29.4,
+     25.7
+    ],
+    [
+     29.9,
+     29.2
+    ],
+    [
+     30.6,
+     29
+    ],
+    [
+     31.7,
+     24.9
+    ],
+    [
+     34.8,
+     24.4
+    ],
+    [
+     42.4,
+     20.4
+    ],
+    [
+     42.4,
+     20.8
+    ],
+    [
+     49,
+     16.8
+    ],
+    [
+     57.5,
+     16.3
+    ],
+    [
+     58.1,
+     17
+    ],
+    [
+     58.9,
+     20.7
+    ],
+    [
+     59.2,
+     17.5
+    ],
+    [
+     60.6,
+     20.6
+    ],
+    [
+     60.8,
+     18.2
+    ],
+    [
+     65,
+     19.4
+    ],
+    [
+     65.5,
+     17.6
+    ],
+    [
+     67.2,
+     19.4
+    ],
+    [
+     67.6,
+     19.6
+    ],
+    [
+     68.8,
+     20.6
+    ],
+    [
+     69.6,
+     22.6
+    ],
+    [
+     70.1,
+     21.9
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 539,
+   "name": "Pygmy Venom Web Spider",
+   "coord": [
+    15.2,
+    27.8
+   ],
+   "coords": [
+    [
+     7.8,
+     40.4
+    ],
+    [
+     8,
+     40.8
+    ],
+    [
+     8,
+     41.6
+    ],
+    [
+     8.4,
+     44.4
+    ],
+    [
+     8.4,
+     44.8
+    ],
+    [
+     8.4,
+     45.6
+    ],
+    [
+     8.6,
+     41.4
+    ],
+    [
+     8.6,
+     44.2
+    ],
+    [
+     8.6,
+     44.8
+    ],
+    [
+     8.8,
+     46
+    ],
+    [
+     9,
+     46.6
+    ],
+    [
+     9.4,
+     49.2
+    ],
+    [
+     9.4,
+     49.6
+    ],
+    [
+     9.4,
+     53.2
+    ],
+    [
+     9.4,
+     53.8
+    ],
+    [
+     9.4,
+     56.8
+    ],
+    [
+     9.4,
+     60.4
+    ],
+    [
+     9.4,
+     60.8
+    ],
+    [
+     9.6,
+     43.8
+    ],
+    [
+     9.6,
+     49.4
+    ],
+    [
+     9.6,
+     53.4
+    ],
+    [
+     9.6,
+     53.8
+    ],
+    [
+     9.6,
+     56.4
+    ],
+    [
+     9.6,
+     57
+    ],
+    [
+     9.6,
+     60.2
+    ],
+    [
+     9.6,
+     61.2
+    ],
+    [
+     9.8,
+     39.8
+    ],
+    [
+     9.8,
+     50
+    ],
+    [
+     9.8,
+     57.6
+    ],
+    [
+     9.8,
+     59
+    ],
+    [
+     10,
+     50.6
+    ],
+    [
+     10,
+     66.6
+    ],
+    [
+     10.2,
+     66.2
+    ],
+    [
+     11.2,
+     46.8
+    ],
+    [
+     11.2,
+     55.6
+    ],
+    [
+     11.4,
+     68.2
+    ],
+    [
+     11.4,
+     68.6
+    ],
+    [
+     11.6,
+     68.4
+    ],
+    [
+     11.6,
+     68.6
+    ],
+    [
+     12,
+     54.2
+    ],
+    [
+     12,
+     58.4
+    ],
+    [
+     12.2,
+     69.8
+    ],
+    [
+     12.4,
+     28.4
+    ],
+    [
+     12.4,
+     28.6
+    ],
+    [
+     12.8,
+     70.2
+    ],
+    [
+     13,
+     28.4
+    ],
+    [
+     13.8,
+     67.4
+    ],
+    [
+     14.1,
+     67.6
+    ],
+    [
+     15.2,
+     26.6
+    ],
+    [
+     15.2,
+     27.8
+    ],
+    [
+     15.4,
+     25.6
+    ],
+    [
+     16.6,
+     26.2
+    ],
+    [
+     19.4,
+     28.2
+    ],
+    [
+     19.6,
+     26.4
+    ],
+    [
+     19.8,
+     28.2
+    ],
+    [
+     21.6,
+     27.6
+    ],
+    [
+     23.4,
+     26.9
+    ],
+    [
+     24.4,
+     28.2
+    ],
+    [
+     24.8,
+     28.2
+    ],
+    [
+     27.4,
+     27.8
+    ],
+    [
+     27.4,
+     29.2
+    ],
+    [
+     27.5,
+     27.3
+    ],
+    [
+     27.8,
+     29.2
+    ],
+    [
+     28.4,
+     30.2
+    ],
+    [
+     29.4,
+     29
+    ],
+    [
+     29.8,
+     28.8
+    ],
+    [
+     31.6,
+     25.4
+    ],
+    [
+     35,
+     23.6
+    ],
+    [
+     40.2,
+     20.5
+    ],
+    [
+     41.8,
+     21.2
+    ],
+    [
+     42.4,
+     20.4
+    ],
+    [
+     42.6,
+     20.2
+    ],
+    [
+     42.6,
+     20.6
+    ],
+    [
+     46.4,
+     17.2
+    ],
+    [
+     46.8,
+     16.8
+    ],
+    [
+     53.8,
+     13.2
+    ],
+    [
+     61,
+     17
+    ],
+    [
+     63.4,
+     16.8
+    ],
+    [
+     63.6,
+     16.8
+    ],
+    [
+     65.5,
+     18.5
+    ],
+    [
+     65.6,
+     17
+    ],
+    [
+     66,
+     17.8
+    ],
+    [
+     68,
+     18.8
+    ],
+    [
+     68.6,
+     17.2
+    ],
+    [
+     69.2,
+     19.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 569,
+   "name": "Green Recluse",
+   "coord": [
+    61,
+    21.8
+   ],
+   "coords": [
+    [
+     9,
+     37.4
+    ],
+    [
+     9.4,
+     38
+    ],
+    [
+     9.4,
+     38.6
+    ],
+    [
+     10,
+     37.2
+    ],
+    [
+     10,
+     37.6
+    ],
+    [
+     10.1,
+     50.7
+    ],
+    [
+     10.2,
+     40.4
+    ],
+    [
+     10.4,
+     38.8
+    ],
+    [
+     10.4,
+     40.6
+    ],
+    [
+     10.4,
+     42
+    ],
+    [
+     10.9,
+     38.2
+    ],
+    [
+     11,
+     41.4
+    ],
+    [
+     11,
+     41.6
+    ],
+    [
+     11.1,
+     39.4
+    ],
+    [
+     11.2,
+     39.6
+    ],
+    [
+     11.2,
+     55.2
+    ],
+    [
+     11.4,
+     42.8
+    ],
+    [
+     11.4,
+     44.4
+    ],
+    [
+     11.4,
+     45.4
+    ],
+    [
+     11.4,
+     45.6
+    ],
+    [
+     11.4,
+     47
+    ],
+    [
+     11.4,
+     54.4
+    ],
+    [
+     11.6,
+     41.6
+    ],
+    [
+     11.6,
+     42.6
+    ],
+    [
+     11.6,
+     44
+    ],
+    [
+     11.6,
+     49
+    ],
+    [
+     11.6,
+     56
+    ],
+    [
+     11.8,
+     45.4
+    ],
+    [
+     11.8,
+     54.2
+    ],
+    [
+     11.8,
+     55.2
+    ],
+    [
+     12,
+     46.4
+    ],
+    [
+     12,
+     48
+    ],
+    [
+     12,
+     52.8
+    ],
+    [
+     12.2,
+     47.1
+    ],
+    [
+     12.2,
+     50.4
+    ],
+    [
+     12.2,
+     51.2
+    ],
+    [
+     12.2,
+     52
+    ],
+    [
+     12.2,
+     58.8
+    ],
+    [
+     12.6,
+     47.4
+    ],
+    [
+     12.6,
+     48
+    ],
+    [
+     12.6,
+     51.8
+    ],
+    [
+     12.6,
+     55.4
+    ],
+    [
+     12.7,
+     50.7
+    ],
+    [
+     12.8,
+     46.4
+    ],
+    [
+     12.8,
+     58.6
+    ],
+    [
+     13.2,
+     57.4
+    ],
+    [
+     13.4,
+     57.8
+    ],
+    [
+     13.4,
+     64
+    ],
+    [
+     13.6,
+     58
+    ],
+    [
+     13.6,
+     63.6
+    ],
+    [
+     14.2,
+     57.3
+    ],
+    [
+     15.4,
+     73
+    ],
+    [
+     15.6,
+     73
+    ],
+    [
+     15.8,
+     72.2
+    ],
+    [
+     16,
+     66.4
+    ],
+    [
+     16,
+     66.6
+    ],
+    [
+     16.8,
+     69.2
+    ],
+    [
+     16.8,
+     70
+    ],
+    [
+     50.2,
+     19.2
+    ],
+    [
+     50.6,
+     19.2
+    ],
+    [
+     51,
+     18
+    ],
+    [
+     51.4,
+     19.8
+    ],
+    [
+     51.8,
+     19
+    ],
+    [
+     51.8,
+     19.6
+    ],
+    [
+     52.2,
+     18.2
+    ],
+    [
+     52.2,
+     22
+    ],
+    [
+     53.2,
+     20
+    ],
+    [
+     53.4,
+     20.6
+    ],
+    [
+     53.4,
+     22.2
+    ],
+    [
+     54,
+     20.4
+    ],
+    [
+     54,
+     20.6
+    ],
+    [
+     54.4,
+     22.2
+    ],
+    [
+     54.6,
+     21.6
+    ],
+    [
+     55,
+     18.4
+    ],
+    [
+     55.2,
+     20.8
+    ],
+    [
+     55.3,
+     18.9
+    ],
+    [
+     55.4,
+     19.8
+    ],
+    [
+     55.6,
+     19
+    ],
+    [
+     55.6,
+     19.6
+    ],
+    [
+     55.6,
+     21.6
+    ],
+    [
+     55.8,
+     20.8
+    ],
+    [
+     56.4,
+     23.2
+    ],
+    [
+     56.4,
+     24
+    ],
+    [
+     56.6,
+     19.4
+    ],
+    [
+     56.6,
+     20
+    ],
+    [
+     56.8,
+     23
+    ],
+    [
+     56.8,
+     23.6
+    ],
+    [
+     57.4,
+     22.4
+    ],
+    [
+     58.4,
+     20.1
+    ],
+    [
+     58.4,
+     21.8
+    ],
+    [
+     58.6,
+     20.4
+    ],
+    [
+     59,
+     19.2
+    ],
+    [
+     59,
+     20.9
+    ],
+    [
+     60.1,
+     22.1
+    ],
+    [
+     60.2,
+     21.2
+    ],
+    [
+     60.4,
+     20.2
+    ],
+    [
+     60.6,
+     20.9
+    ],
+    [
+     60.7,
+     19.5
+    ],
+    [
+     61,
+     21.8
+    ],
+    [
+     61.4,
+     23.4
+    ],
+    [
+     61.6,
+     23.2
+    ],
+    [
+     62,
+     20.5
+    ],
+    [
+     62.2,
+     21.7
+    ],
+    [
+     62.5,
+     21.5
+    ],
+    [
+     62.6,
+     22.6
+    ],
+    [
+     63,
+     21
+    ],
+    [
+     63.2,
+     20.4
+    ],
+    [
+     63.5,
+     22.5
+    ],
+    [
+     63.6,
+     20.4
+    ],
+    [
+     63.9,
+     20.6
+    ],
+    [
+     64.4,
+     22.4
+    ],
+    [
+     64.4,
+     24.4
+    ],
+    [
+     64.7,
+     22.2
+    ],
+    [
+     65.2,
+     23.4
+    ],
+    [
+     66,
+     19.4
+    ],
+    [
+     66.4,
+     20.8
+    ],
+    [
+     66.6,
+     21.2
+    ],
+    [
+     66.6,
+     21.5
+    ],
+    [
+     66.8,
+     19.8
+    ],
+    [
+     67.2,
+     24.2
+    ],
+    [
+     67.4,
+     22.6
+    ],
+    [
+     67.8,
+     21.2
+    ],
+    [
+     68.4,
+     23
+    ],
+    [
+     68.4,
+     23.5
+    ],
+    [
+     68.8,
+     23.8
+    ],
+    [
+     68.9,
+     20.9
+    ],
+    [
+     68.9,
+     22.6
+    ],
+    [
+     69,
+     21.8
+    ],
+    [
+     69.6,
+     21.1
+    ],
+    [
+     69.6,
+     22
+    ],
+    [
+     70,
+     26.4
+    ],
+    [
+     70.4,
+     26.6
+    ],
+    [
+     70.6,
+     26.4
+    ],
+    [
+     70.8,
+     27
+    ],
+    [
+     71.2,
+     23.6
+    ],
+    [
+     71.4,
+     23.4
+    ],
+    [
+     71.6,
+     23.2
+    ],
+    [
+     72.2,
+     22.2
+    ],
+    [
+     72.2,
+     23.8
+    ],
+    [
+     72.4,
+     21.4
+    ],
+    [
+     72.6,
+     21.4
+    ],
+    [
+     72.7,
+     23
+    ],
+    [
+     72.8,
+     21.6
+    ],
+    [
+     73.4,
+     24.6
+    ],
+    [
+     73.6,
+     24.2
+    ],
+    [
+     74.4,
+     22.8
+    ],
+    [
+     74.6,
+     22.8
+    ],
+    [
+     74.8,
+     23.6
+    ],
+    [
+     75,
+     22.4
+    ],
+    [
+     75.6,
+     22
+    ],
+    [
+     75.6,
+     23.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 574,
+   "name": "Naraxis",
+   "coord": [
+    86.4,
+    48
+   ],
+   "coords": [
+    [
+     86.2,
+     47.4
+    ],
+    [
+     86.4,
+     48
+    ],
+    [
+     86.4,
+     49.2
+    ],
+    [
+     86.4,
+     50.4
+    ],
+    [
+     86.6,
+     47.2
+    ],
+    [
+     86.6,
+     49.2
+    ],
+    [
+     86.6,
+     49.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 930,
+   "name": "Black Widow Hatchling",
+   "coord": [
+    33.2,
+    36.2
+   ],
+   "coords": [
+    [
+     25.4,
+     52
+    ],
+    [
+     25.6,
+     51.2
+    ],
+    [
+     26.6,
+     51.8
+    ],
+    [
+     27.2,
+     46.8
+    ],
+    [
+     27.4,
+     51
+    ],
+    [
+     27.6,
+     40.6
+    ],
+    [
+     27.6,
+     51.8
+    ],
+    [
+     27.8,
+     42.4
+    ],
+    [
+     28.2,
+     48
+    ],
+    [
+     28.2,
+     49.4
+    ],
+    [
+     28.2,
+     53.4
+    ],
+    [
+     28.4,
+     45.2
+    ],
+    [
+     28.4,
+     45.8
+    ],
+    [
+     28.6,
+     45.2
+    ],
+    [
+     28.6,
+     49.4
+    ],
+    [
+     29,
+     46.2
+    ],
+    [
+     29,
+     50.8
+    ],
+    [
+     29.2,
+     49.6
+    ],
+    [
+     29.2,
+     53
+    ],
+    [
+     29.4,
+     56.2
+    ],
+    [
+     29.6,
+     36.5
+    ],
+    [
+     29.6,
+     50.4
+    ],
+    [
+     29.6,
+     55.8
+    ],
+    [
+     29.8,
+     51
+    ],
+    [
+     30,
+     49
+    ],
+    [
+     30.1,
+     34.4
+    ],
+    [
+     30.1,
+     53.1
+    ],
+    [
+     30.4,
+     35.2
+    ],
+    [
+     30.4,
+     58.8
+    ],
+    [
+     30.6,
+     49.4
+    ],
+    [
+     30.6,
+     52.4
+    ],
+    [
+     30.8,
+     52.6
+    ],
+    [
+     31,
+     35.4
+    ],
+    [
+     31,
+     35.6
+    ],
+    [
+     31,
+     59.2
+    ],
+    [
+     31.2,
+     58.2
+    ],
+    [
+     31.4,
+     39.6
+    ],
+    [
+     31.4,
+     46.4
+    ],
+    [
+     31.4,
+     57.4
+    ],
+    [
+     31.6,
+     33.3
+    ],
+    [
+     31.6,
+     39.4
+    ],
+    [
+     31.6,
+     39.6
+    ],
+    [
+     31.6,
+     49.6
+    ],
+    [
+     31.6,
+     59.4
+    ],
+    [
+     31.8,
+     34.6
+    ],
+    [
+     31.8,
+     41
+    ],
+    [
+     32,
+     34.4
+    ],
+    [
+     32,
+     49.4
+    ],
+    [
+     32.2,
+     41.6
+    ],
+    [
+     32.2,
+     52.2
+    ],
+    [
+     32.2,
+     55.8
+    ],
+    [
+     32.4,
+     36.6
+    ],
+    [
+     32.4,
+     48.4
+    ],
+    [
+     32.4,
+     59.8
+    ],
+    [
+     32.6,
+     33.6
+    ],
+    [
+     32.8,
+     35.2
+    ],
+    [
+     32.8,
+     40.4
+    ],
+    [
+     32.8,
+     44.8
+    ],
+    [
+     32.8,
+     60
+    ],
+    [
+     33.2,
+     36.2
+    ],
+    [
+     33.2,
+     50.4
+    ],
+    [
+     33.2,
+     51
+    ],
+    [
+     33.2,
+     51.8
+    ],
+    [
+     33.4,
+     41.2
+    ],
+    [
+     33.4,
+     44.2
+    ],
+    [
+     33.4,
+     52.6
+    ],
+    [
+     33.4,
+     58.8
+    ],
+    [
+     33.6,
+     31.9
+    ],
+    [
+     33.6,
+     34.6
+    ],
+    [
+     33.6,
+     51
+    ],
+    [
+     33.6,
+     52.2
+    ],
+    [
+     33.6,
+     60.4
+    ],
+    [
+     33.8,
+     53.4
+    ],
+    [
+     34,
+     36
+    ],
+    [
+     34,
+     60.6
+    ],
+    [
+     34.2,
+     46.2
+    ],
+    [
+     34.3,
+     41.3
+    ],
+    [
+     34.4,
+     46.6
+    ],
+    [
+     34.4,
+     54.4
+    ],
+    [
+     34.4,
+     54.6
+    ],
+    [
+     34.4,
+     56.2
+    ],
+    [
+     34.4,
+     56.6
+    ],
+    [
+     34.4,
+     59.2
+    ],
+    [
+     34.6,
+     46.6
+    ],
+    [
+     34.6,
+     54.6
+    ],
+    [
+     34.6,
+     56.2
+    ],
+    [
+     34.6,
+     59.4
+    ],
+    [
+     34.8,
+     31.6
+    ],
+    [
+     34.8,
+     54.4
+    ],
+    [
+     34.8,
+     56.6
+    ],
+    [
+     34.8,
+     59.6
+    ],
+    [
+     35.5,
+     54.9
+    ],
+    [
+     36.2,
+     57.6
+    ],
+    [
+     36.6,
+     57.8
+    ],
+    [
+     36.7,
+     60.6
+    ],
+    [
+     36.8,
+     56.4
+    ],
+    [
+     36.8,
+     60
+    ],
+    [
+     37,
+     57
+    ],
+    [
+     46.4,
+     55.2
+    ],
+    [
+     46.6,
+     55.4
+    ],
+    [
+     46.8,
+     55.8
+    ],
+    [
+     47.2,
+     59.8
+    ],
+    [
+     77,
+     56.4
+    ],
+    [
+     77.2,
+     57
+    ],
+    [
+     77.6,
+     57
+    ],
+    [
+     77.8,
+     54
+    ],
+    [
+     77.8,
+     57.6
+    ],
+    [
+     78.4,
+     53.4
+    ],
+    [
+     78.8,
+     53
+    ],
+    [
+     79.2,
+     53.8
+    ],
+    [
+     79.4,
+     50.4
+    ],
+    [
+     79.4,
+     51.4
+    ],
+    [
+     79.6,
+     51.4
+    ],
+    [
+     80,
+     51.8
+    ],
+    [
+     80.2,
+     52.6
+    ],
+    [
+     80.4,
+     62.2
+    ],
+    [
+     80.4,
+     62.6
+    ],
+    [
+     80.6,
+     62.4
+    ],
+    [
+     80.8,
+     63
+    ],
+    [
+     80.8,
+     63.6
+    ],
+    [
+     80.9,
+     64.8
+    ],
+    [
+     81,
+     53.4
+    ],
+    [
+     81,
+     61.4
+    ],
+    [
+     81.3,
+     50.9
+    ],
+    [
+     81.8,
+     51.4
+    ],
+    [
+     81.8,
+     53.2
+    ],
+    [
+     82,
+     52
+    ],
+    [
+     82,
+     53.6
+    ],
+    [
+     82,
+     54.6
+    ],
+    [
+     82.6,
+     52.8
+    ],
+    [
+     83.8,
+     56.2
+    ],
+    [
+     84,
+     58.2
+    ],
+    [
+     84.2,
+     56.8
+    ],
+    [
+     85,
+     56
+    ],
+    [
+     85.8,
+     55
+    ],
+    [
+     86,
+     55.6
+    ],
+    [
+     86.2,
+     51.6
+    ],
+    [
+     86.4,
+     49.8
+    ],
+    [
+     86.4,
+     50.8
+    ],
+    [
+     86.6,
+     50.4
+    ],
+    [
+     87,
+     51.2
+    ],
+    [
+     87,
+     51.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 949,
+   "name": "Carrion Recluse",
+   "coord": [
+    23.4,
+    35.4
+   ],
+   "coords": [
+    [
+     16.4,
+     38.2
+    ],
+    [
+     16.4,
+     38.8
+    ],
+    [
+     16.6,
+     38.4
+    ],
+    [
+     17,
+     44.9
+    ],
+    [
+     17.2,
+     39
+    ],
+    [
+     19.9,
+     39.2
+    ],
+    [
+     20.9,
+     41.4
+    ],
+    [
+     21.4,
+     44.2
+    ],
+    [
+     21.8,
+     44.6
+    ],
+    [
+     22.4,
+     43.2
+    ],
+    [
+     22.5,
+     43.8
+    ],
+    [
+     22.6,
+     43.2
+    ],
+    [
+     23.4,
+     35.4
+    ],
+    [
+     23.4,
+     35.6
+    ],
+    [
+     23.6,
+     35.4
+    ],
+    [
+     23.6,
+     35.6
+    ],
+    [
+     23.6,
+     36.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 221169,
+   "name": "Black Widow Broodmother",
+   "coord": [
+    46.6,
+    55.4
+   ],
+   "coords": [
+    [
+     44.4,
+     62.8
+    ],
+    [
+     46.2,
+     54.4
+    ],
+    [
+     46.4,
+     55.2
+    ],
+    [
+     46.4,
+     55.6
+    ],
+    [
+     46.4,
+     59.4
+    ],
+    [
+     46.4,
+     59.6
+    ],
+    [
+     46.6,
+     55.4
+    ],
+    [
+     46.6,
+     55.6
+    ],
+    [
+     46.8,
+     59.4
+    ],
+    [
+     47,
+     44.4
+    ],
+    [
+     47,
+     44.6
+    ],
+    [
+     47,
+     56.6
+    ],
+    [
+     47.2,
+     45.6
+    ],
+    [
+     47.2,
+     60.2
+    ],
+    [
+     47.2,
+     60.6
+    ],
+    [
+     47.4,
+     46.8
+    ],
+    [
+     52,
+     72
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 19,
+   "date": "2005-09-26T21:39:08-05:00",
+   "body": "Location is Duskwood (65,23), very low drop rate",
+   "replies": [
+    "33.37 got some black widos that drop em"
+   ]
+  },
+  {
+   "rating": 16,
+   "date": "2006-12-06T14:22:24-06:00",
+   "body": "The chance of drop is about 36% on all spider mobs In Duskwood, the quest is best stacked with the quests \"Eight-Legged Menaces\" (https://www.wowhead.com/forever/quest=245) and \"The Totem of Infliction\" (https://www.wowhead.com/forever/quest=101)\r\n\r\nThe spiders for the quest are most heavily found around the north of Darkshire, by the river or to the very west.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2006-01-14T09:39:08-06:00",
+   "body": "Found the Black Widow Hatchlings Lvl 24 Dropped them almost every second one they are at \n31 52 East Of Raven Hill",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-03-28T09:39:08-05:00",
+   "body": "if your log says your q is completed but u cant turn in, try either of these: if its a collect-items quest, check your bank, if its not, try \n/Console ReloadUI",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-07-04T15:59:24-05:00",
+   "body": "i can't get this quest, he only gives me the quest for the Lean Wolf Flank recipe.... should i complete it to get this one?",
+   "replies": [
+    "he doesn't have this quest available for me either... how do we get it?",
+    "ok so I found out the answer to this, you have to get a quest from Jitters at Raven hill that takes you to Chef Grual in order to unlock this quest"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2005-11-02T09:39:08-06:00",
+   "body": "I got a higher drop rate from the green recluse spiders up there than the venom web spiders... just a hint...",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-08-21T09:39:08-05:00",
+   "body": "Found the gooey spider legs at 83,53, with the bonus of doing the totem of infliction quest. I'm a mage level 24 and did them both solo.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-10-23T11:56:35-05:00",
+   "body": "If you're looking at the comments on this recipe, plan, or quest you might be a collector or completionist. \nThis is a compiled list of all of the cross-faction recipes in the game.\n\nMost (not all) [skill=185] recipes on the Alliance side are sold by [npc=340]. The Horde do not have a corresponding NPC, so if you are an Alliance character wanting to create an alt on the opposite side to obtain the recipes for your main, unfortunately you'll have to have a level appropriate character to do the quests to obtain some of these recipes.\n\nAll of the recipes except one ([item=7994]) can be traded cross-faction on the neutral AH.\n\n\n[b]Alliance Only Recipes[/b]\n\n[table border=2]\n[tr][td][b]Item[/b][/td][td][b]Quest / Vendor[/b][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=164][/b][/td][td][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][item=9367][/td][td][quest=2758][/td][/tr]\n[tr][td][item=6735][/td][td][quest=1618][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=185][/b][/td][td][/td][/tr]\n[tr][td][item=2889][/td][td][quest=384] / [npc=340][/td][/tr]\n[tr][td][item=3679][/td][td][quest=418] / [npc=340][/td][/tr]\n[tr][td][item=5528][/td][td][npc=4305] / [npc=4307][/td][/tr]\n[tr][td][item=3681][/td][td][quest=471] /  [npc=340][/td][/tr]\n[tr][td][item=3678][/td][td][quest=385] /  [npc=340][/td][/tr]\n[tr][td][item=3683][/td][td][quest=93] /  [npc=340][/td][/tr]\n[tr][td][item=2697][/td][td][quest=22] /  [npc=340][/td][/tr]\n[tr][td][item=6329][/td][td][npc=1684][/td][/tr]\n[tr][td][item=3680][/td][td][quest=127] /  [npc=340][/td][/tr]\n[tr][td][item=2699][/td][td][quest=92] /  [npc=340][/td][/tr]\n[tr][td][item=2701][/td][td][quest=90] /  [npc=340][/td][/tr]\n[tr][td][item=3736][/td][td][quest=564][/td][/tr]\n[tr][td][item=728][/td][td][quest=38] /  [npc=340][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=202][/b][/td][td][/td][/tr]\n[tr][td][item=18649][/td][td][npc=5175] / [npc=1304][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=165][/b][/td][td][/td][/tr]\n[tr][td][item=7289][/td][td][npc=2697][/td][/tr]\n[tr][td][item=20576][/td][td][npc=777][/td][/tr]\n[tr][td][item=7361][/td][td][npc=6731][/td][/tr]\n[tr][td][item=6710][/td][td][quest=1582][/td][/tr]\n[tr][td][item=13288][/td][td][npc=2816][/td][/tr]\n[tr][td][item=7290][/td][td][npc=2679][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=197][/b][/td][td][/td][/tr]\n[tr][td][item=14627][/td][td][npc=2668][/td][/tr]\n\n[/table]\n[br]\n[b]Horde Only Recipes[/b]\n\n[table border=2]\n[tr][td][b]Item[/b][/td][td][b]Quest / Vendor[/b][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=171][/b][/td][td] [/td][/tr]\n[tr][td][item=4597][/td][td][quest=429][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=164][/b][/td][td] [/td][/tr]\n[tr][td][item=7981][/td][td][quest=2753] (Blacksmithing 140)[/td][/tr]\n[tr][td][item=7979][/td][td][quest=2751] (Blacksmithing 140)[/td][/tr]\n[tr][td][item=7982][/td][td][quest=2755] (Blacksmithing 140)[/td][/tr]\n[tr][td][item=7980][/td][td][quest=2754] (Blacksmithing 140)[/td][/tr]\n[tr][td][item=7978][/td][td][quest=2752] (Blacksmithing 140)[/td][/tr]\n[tr][td][item=7994]*[/td][td][quest=2756][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=185][/b][/td][td] [/td][/tr]\n[tr][td][item=12226][/td][td][npc=2118][/td][/tr]\n[tr][td][item=5488][/td][td][npc=3482][/td][/tr]\n[tr][td][item=5487][/td][td][quest=862][/td][/tr]\n[tr][td][item=20075][/td][td][npc=4879][/td][/tr]\n[tr][td][item=5484][/td][td][npc=3081][/td][/tr]\n[tr][td][item=5483][/td][td][npc=3881] / [npc=5757][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=333][/b][/td][td] [/td][/tr]\n[tr][td][item=6346][/td][td][npc=3346][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=202][/b][/td][td] [/td][/tr]\n[tr][td][item=18647][/td][td][npc=3413][/td][/tr]\n[tr][td][/td][td][/td][/tr]\n[tr][td][b][skill=165][/b][/td][td] [/td][/tr]\n[tr][td][item=5083][/td][td][quest=769] (Leatherworking 10)[/td][/tr]\n[tr][td][item=13287][/td][td][npc=2819][/td][/tr]\n[/table]\n[i]* The plan for Orcish War Leggings does not exist in the game, but is instead directly taught by the questgiver. \n(Technically this is the only recipe that cannot be learned by the opposite faction because all other recipes/plans can be traded in the neutral AH.)[/i]",
+   "replies": [
+    "[item=5482] from [quest=4161] (Cooking 1)"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-08-21T09:39:08-05:00",
+   "body": "found the drop rate really low...but found it easier to get the legs from the green recluse",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-08-21T09:39:08-05:00",
+   "body": "I found the drop rate was dismal, but had the best luck farming them out of Black Widdow Hatchlings around the Cemetary.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-26T21:39:08-05:00",
+   "body": "There are a lot of Black Widow Hatchlings around 32, 41 as well as along a large portion of the west side of the mountains. These are where i had the most luck and i didnt get a single one from the green recluse, the pygmy or regular venom spiders.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-21T09:39:08-05:00",
+   "body": "the location on the map is 14,65",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-26T21:39:08-05:00",
+   "body": "That's ~86,51 ... I didn't have to move much from that spot to harvest all 6 needed for the Dusky Crab Cakes quest.&nbsp; I'm a lazy lvl 28 Mage.&nbsp; YMMV.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-14T09:39:08-06:00",
+   "body": "For the Dusky Crab Cakes the best drop for me was the Black Widow Hatchlings, in Duskwood 36,34",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-14T09:39:08-06:00",
+   "body": "For me, I found some gooey spider legs by killing the Pygmy Venom Web and Venom Web Spider's which can be found all along the Darkened Bank (its the shoreline at the top of your map). From these spiders you can also complete the Eight-Legged Menaces, and part of the Totem Of Affliction quests (vials of spider venom). For those of you who are looking for coordinates, start by looking around 17.25\n\nBut your best be is the Black Widow Hatchling's which I got a consistent drop from. You can find them around 32.32 in Duskwood.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-19T21:39:08-06:00",
+   "body": "There is a hole bunch of them at 86.51\nIt took me around 10 min.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-19T21:39:08-06:00",
+   "body": "East of raven, at 28.52 there are like 20 of them.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-19T04:03:28-06:00",
+   "body": "After you bring the gooey spider legs you get the cooking recipe for Gooey Spider Cake as reward.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-05T00:52:31-06:00",
+   "body": "Does anyone know where to buy more?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-25T19:03:48-06:00",
+   "body": "OK so I am a lvl 23 Druid. I have the recipe for the crab cakes. How do I get a crab cake made for Jitters ?",
+   "replies": [
+    "Oops !  all I had to do was accept the next Quest. Diregard last post !"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-05T02:43:12-06:00",
+   "body": "I dropped the dusky cake by accident how to get it back?  Pleae help.",
+   "replies": [
+    "You can't get it back, afaik.\n\nI would suggest petitioning a GM to see if they will return it to you.",
+    "Abandon the quest, then talk to the Chef again, he'll give you the quest again along with the cakes."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-09T21:18:12-06:00",
+   "body": "It would be great, if anyone could say the coords were these spyders are... Tks",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-17T15:48:35-05:00",
+   "body": "there's spiders east of ravenhill semitary and there's some spiders just southwest of Darkshire, those are really close by",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-12T23:48:17-05:00",
+   "body": "You can find in Southshore 41,61 in giant moss creeper",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-11-25T00:50:33-06:00",
+   "body": "I just completed this quest at level 25 (should be no XP reduction at that level), and the quest awarded 775 XP. I concede it's almost not significant, but it's definitely different from what's shown here currently.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-28T16:12:36-06:00",
+   "body": "This quest rewards 75 Stormwind reputation as of patch 2.01",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-09-26T21:39:08-05:00",
+   "body": "any spiders in duskwood drop em, they're not that rare but the venom web spiders sseem to drop em more than others",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-26T21:39:08-05:00",
+   "body": "ive killed about 30 of the venom web spiders and no spider legs... what gives",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-26T21:39:08-05:00",
+   "body": "where are they located?",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-08-21T09:39:08-05:00",
+   "body": "Venom Web Spider have a fast drop: 1 every 2 kill.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2006-12-08T21:39:08-06:00",
+   "body": "I think this quest must be glitched. my chef is a gold dot, but i've only got five of the six req. legs. I schlepped around duskwood for an hour and a half after num 5 and still couldnt get a drop!&nbsp; WTF, anybody got an answer?",
+   "replies": []
+  }
+ ]
+}

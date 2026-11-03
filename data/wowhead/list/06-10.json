@@ -1,0 +1,10449 @@
+[
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 91733,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Downstream",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 569
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98326,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    281322,
+    1
+   ]
+  ],
+  "level": 9,
+  "money": 0,
+  "name": "Frosthowl",
+  "reprewards": [
+   [
+    47,
+    100
+   ],
+   [
+    54,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 780,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 513
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 91777,
+  "itemchoices": [
+   [
+    248008,
+    1
+   ],
+   [
+    248007,
+    1
+   ],
+   [
+    248006,
+    1
+   ],
+   [
+    248005,
+    1
+   ],
+   [
+    276685,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 7,
+  "money": 350,
+  "name": "Rare Books",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 790,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 472
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 91775,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    279936,
+    1
+   ]
+  ],
+  "level": 6,
+  "money": 250,
+  "name": "Book Return",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 680,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 417
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 91738,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 85,
+  "name": "An Apple Treat",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 291
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98319,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "Secure the Mountain",
+  "reprewards": [
+   [
+    47,
+    100
+   ],
+   [
+    54,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 175,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 271
+ },
+ {
+  "category": 77,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97277,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    277977,
+    1
+   ]
+  ],
+  "level": 6,
+  "money": 0,
+  "name": "Grund and Gozwin",
+  "reprewards": [
+   [
+    54,
+    75
+   ],
+   [
+    47,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 405,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 255
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 95998,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "The Great Outdoors",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 405,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 230
+ },
+ {
+  "category": -263,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94638,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Strength and Mercy",
+  "reprewards": [
+   [
+    2758,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 219
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99130,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    286733,
+    1
+   ]
+  ],
+  "level": 7,
+  "money": 0,
+  "name": "An Enticing Offer",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 195
+ },
+ {
+  "category": -263,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94006,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Great Ursera Spirit",
+  "reprewards": [
+   [
+    609,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 194
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 93317,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    263513,
+    1
+   ],
+   [
+    263512,
+    5
+   ]
+  ],
+  "level": 9,
+  "money": 200,
+  "name": "Crab Season",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 590,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 180
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 93318,
+  "itemchoices": [
+   [
+    257943,
+    1
+   ],
+   [
+    257255,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 9,
+  "money": 600,
+  "name": "WANTED: Vulgara the Insatiable",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 780,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 178
+ },
+ {
+  "category": 38,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 86667,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Snowbound",
+  "reprewards": [
+   [
+    47,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 175
+ },
+ {
+  "category": -82,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94449,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Call of Fire",
+  "reprewards": [],
+  "reqclass": 64,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 167
+ },
+ {
+  "category": -81,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94003,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    275290,
+    1
+   ]
+  ],
+  "level": 10,
+  "money": 0,
+  "name": "The Skybreaker Bulwark",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 157
+ },
+ {
+  "category": -161,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 93797,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    263430,
+    1
+   ],
+   [
+    250344,
+    5
+   ]
+  ],
+  "level": 10,
+  "money": 0,
+  "name": "Boughs in the Wind",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 156
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99050,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 85,
+  "name": "The Great Tree Provides",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 152
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92850,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 700,
+  "name": "The Missing Scholar",
+  "reprewards": [
+   [
+    2779,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 150
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94978,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Taming the Beast",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 150
+ },
+ {
+  "category": -82,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96243,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Call of Earth",
+  "reprewards": [],
+  "reqclass": 64,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 148
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92553,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    263511,
+    1
+   ],
+   [
+    263509,
+    5
+   ]
+  ],
+  "level": 6,
+  "money": 65,
+  "name": "Restocking the Larders",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 405,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 147
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 87288,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    280088,
+    1
+   ]
+  ],
+  "level": 7,
+  "money": 0,
+  "name": "Soft Saber Pelts",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 146
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 95214,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Stolen Blasting Powder",
+  "reprewards": [
+   [
+    47,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 145
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98285,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Engineering",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 142
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92517,
+  "itemchoices": [
+   [
+    263421,
+    1
+   ],
+   [
+    263422,
+    1
+   ],
+   [
+    263423,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 7,
+  "money": 175,
+  "name": "The Criminal Element",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 475,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 141
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 93949,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 225,
+  "name": "Bugged",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 6,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 700,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 140
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92515,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    256935,
+    1
+   ]
+  ],
+  "level": 6,
+  "money": 125,
+  "name": "The Problem With Prideclaws",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 540,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 139
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 95041,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Data Hoarders",
+  "reprewards": [
+   [
+    54,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 139
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92849,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Missing Scholar",
+  "reprewards": [
+   [
+    2779,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 136
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99053,
+  "itemchoices": [
+   [
+    286734,
+    1
+   ],
+   [
+    286735,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 9,
+  "money": 0,
+  "name": "Escaping Ban'ethil",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 136
+ },
+ {
+  "category": 40,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92109,
+  "itemchoices": [
+   [
+    118,
+    5
+   ],
+   [
+    249905,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 10,
+  "money": 175,
+  "name": "My First Alchemy Set",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 135
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92528,
+  "itemchoices": [
+   [
+    257332,
+    1
+   ],
+   [
+    257333,
+    1
+   ],
+   [
+    273877,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "Among the Faithful",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 350,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 135
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99127,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 0,
+  "name": "A Net Disaster",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 135
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 91751,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 110,
+  "name": "Rough Wolf Pelts",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 700,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 134
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99162,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "Treacherous Cold",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 700,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 134
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 490,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 225,
+  "name": "Bounty: Gnarlpine Furbolg",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 700,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "level_changed",
+    "rewards_changed",
+    "objectives_changed",
+    "faction_changed",
+    "quest_giver_changed",
+    "renamed",
+    "text_changed",
+    "reworded"
+   ],
+   "lines": [
+    "Renamed from <UNUSED>",
+    "Level 8 instead of 7",
+    "Side Alliance instead of none",
+    "Quest givers: adds Ends at Sentinel Shayla Nightbreeze, Starts at Sentinel Shayla Nightbreeze",
+    "Objectives: adds Gnarlpine Fang x15",
+    "Objectives: no longer Gnarlpine Fang x20",
+    "Objective text: 15 instead of 20",
+    "Description reworded",
+    "Progress text added",
+    "Completion text added",
+    "Experience 700 instead of 630",
+    "Money 2s 25c instead of none",
+    "Rewards: adds Darnassus +100 reputation"
+   ],
+   "notShown": [
+    "Side Alliance instead of none",
+    "Quest givers: adds Ends at Sentinel Shayla Nightbreeze, Starts at Sentinel Shayla Nightbreeze",
+    "Description reworded",
+    "Progress text added",
+    "Completion text added",
+    "Experience 700 instead of 630",
+    "Money 2s 25c instead of none",
+    "Rewards: adds Darnassus +100 reputation"
+   ]
+  },
+  "popularity": 133
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 93927,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 225,
+  "name": "A Last Request",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 530,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 131
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 95212,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Never Saddle on Quality",
+  "reprewards": [
+   [
+    47,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 130
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99159,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "Finding Warmth",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 700,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 130
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 93926,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "The Western Watch",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 350,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 128
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98322,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "Secure the Mountain",
+  "reprewards": [
+   [
+    47,
+    100
+   ],
+   [
+    54,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 70,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 128
+ },
+ {
+  "category": -304,
+  "category2": 5,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 4161,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    5482,
+    1
+   ],
+   [
+    5472,
+    3
+   ]
+  ],
+  "level": 7,
+  "money": 85,
+  "name": "Recipe of the Kaldorei",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 127
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92703,
+  "itemchoices": [
+   [
+    263312,
+    1
+   ],
+   [
+    263314,
+    1
+   ],
+   [
+    263313,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 9,
+  "money": 0,
+  "name": "Deliver the News",
+  "reprewards": [
+   [
+    2778,
+    100
+   ],
+   [
+    2779,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 590,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 127
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 483,
+  "itemchoices": [
+   [
+    9599,
+    1
+   ],
+   [
+    9603,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 9,
+  "money": 300,
+  "name": "The Relics of Wakening",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 780,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 126
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96608,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "The Great Outdoors",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 405,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 126
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99046,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 9,
+  "money": 0,
+  "name": "The Lost Runner",
+  "reprewards": [
+   [
+    69,
+    10
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 80,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 125
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99073,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Easing Suffering",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 124
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94792,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Taming the Beast",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 123
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 95217,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    277673,
+    1
+   ]
+  ],
+  "level": 10,
+  "money": 175,
+  "name": "The Quarry's Smith",
+  "reprewards": [
+   [
+    47,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 123
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96101,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "The Great Outdoors",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 405,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 123
+ },
+ {
+  "category": 40,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92110,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    4597,
+    1
+   ],
+   [
+    4596,
+    1
+   ]
+  ],
+  "level": 10,
+  "money": 175,
+  "name": "My First Real Potion",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 122
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99047,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 9,
+  "money": 0,
+  "name": "Not Dead Yet",
+  "reprewards": [
+   [
+    69,
+    10
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 80,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 122
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 91723,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "Delicate Instruments",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 6,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 530,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 121
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94013,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Taming the Beast",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 121
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94774,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Divine Grace",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 121
+ },
+ {
+  "category": -263,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94914,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Moonglade",
+  "reprewards": [
+   [
+    609,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 121
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99128,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 0,
+  "name": "Slimy Menace",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 121
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92693,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    252032,
+    5
+   ]
+  ],
+  "level": 9,
+  "money": 0,
+  "name": "Standing Our Ground",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 195,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 120
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94824,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Confounding Flash",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 119
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96638,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "The Adventurer",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 405,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 119
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98323,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "Secure the Mountain",
+  "reprewards": [
+   [
+    47,
+    100
+   ],
+   [
+    54,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 70,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 119
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94413,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    263428,
+    1
+   ],
+   [
+    2454,
+    1
+   ]
+  ],
+  "level": 6,
+  "money": 125,
+  "name": "A Magical Affront",
+  "reprewards": [
+   [
+    2779,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 540,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 118
+ },
+ {
+  "category": -263,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6001,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Body and Heart",
+  "reprewards": [
+   [
+    609,
+    100
+   ]
+  ],
+  "reqclass": 1024,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Bear Form"
+   ],
+   "notShown": [
+    "Rewards: adds Bear Form"
+   ]
+  },
+  "popularity": 117
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 91725,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 85,
+  "name": "Stolen Enchanting Supplies",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 116
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92684,
+  "itemchoices": [
+   [
+    257340,
+    1
+   ],
+   [
+    257331,
+    1
+   ],
+   [
+    257334,
+    1
+   ]
+  ],
+  "itemrewards": [
+   [
+    252032,
+    5
+   ]
+  ],
+  "level": 9,
+  "money": 0,
+  "name": "Ornery Ornery Galestriders",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 590,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 116
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98321,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 45,
+  "name": "Flintfire's Shipment",
+  "reprewards": [
+   [
+    47,
+    100
+   ],
+   [
+    54,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 116
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99131,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 0,
+  "name": "Baited for Success",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 116
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92685,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    252032,
+    5
+   ]
+  ],
+  "level": 9,
+  "money": 0,
+  "name": "The Hills Have Eyes",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 780,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 115
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 91724,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 175,
+  "name": "Delicate Instruments",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 6,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 114
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 91732,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 0,
+  "name": "Good Steel",
+  "reprewards": [
+   [
+    72,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 6,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 315,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 114
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92679,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 9,
+  "money": 0,
+  "name": "Blood Tithe",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 390,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 114
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99158,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "Dawn in the Mountains",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 70,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 113
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99161,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    286737,
+    1
+   ]
+  ],
+  "level": 8,
+  "money": 0,
+  "name": "Rime's Wrath",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 700,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 113
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92698,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 9,
+  "money": 0,
+  "name": "What Is My Purpose?",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 195,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 111
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 93319,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 175,
+  "name": "Pilfered Windstones",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 475,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 111
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94007,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Taming the Beast",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 111
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97920,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Fishing",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 111
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97969,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Leatherworking",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 111
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92683,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    263329,
+    1
+   ],
+   [
+    2455,
+    5
+   ]
+  ],
+  "level": 9,
+  "money": 0,
+  "name": "Flutterfly Dust",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 590,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 110
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97965,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: First Aid",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 110
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 93036,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "Infiltrating the Cult",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 70,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 109
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96626,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Cooking",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 109
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99143,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    286732,
+    1
+   ]
+  ],
+  "level": 7,
+  "money": 0,
+  "name": "Bottles and Baubles",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 109
+ },
+ {
+  "category": -263,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94912,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Child of Nature",
+  "reprewards": [
+   [
+    2758,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 108
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94979,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Taming the Beast",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 107
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 46,
+  "itemchoices": [
+   [
+    4840,
+    1
+   ],
+   [
+    1158,
+    1
+   ],
+   [
+    1008,
+    1
+   ],
+   [
+    276686,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Bounty on Murlocs",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Choice of Junior's Hunting Bow"
+   ],
+   "notShown": [
+    "Rewards: adds Choice of Junior's Hunting Bow"
+   ]
+  },
+  "popularity": 106
+ },
+ {
+  "category": -161,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 93791,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Speak with Belann",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 106
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 91753,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 85,
+  "name": "An Enchanting Lesson",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 475,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 105
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92682,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    252032,
+    5
+   ]
+  ],
+  "level": 9,
+  "money": 0,
+  "name": "Make Yourself Useful",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 780,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 104
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97924,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Skinning",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 104
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96627,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "The Adventurer",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 405,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 103
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99129,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 0,
+  "name": "A Man About a Murloc",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 65,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 103
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99160,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "Rime's Wrath",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 700,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 103
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96630,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "The Adventurer",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 405,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 102
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97917,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Enchanting",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 102
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97919,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: First Aid",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 102
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 287,
+  "itemchoices": [
+   [
+    3216,
+    1
+   ],
+   [
+    2900,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 9,
+  "money": 0,
+  "name": "Frostmane Hold",
+  "reprewards": [
+   [
+    47,
+    75
+   ],
+   [
+    54,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 590,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 101
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92550,
+  "itemchoices": [
+   [
+    263424,
+    1
+   ],
+   [
+    263425,
+    1
+   ],
+   [
+    263426,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 8,
+  "money": 225,
+  "name": "Havoc in the Highlands",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 700,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 101
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92596,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "The High Order",
+  "reprewards": [
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 135,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 101
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92529,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "Falaath Village",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 350,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 100
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 93461,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Welcome to Shen'dar Village",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 135,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 100
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 95213,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Stolen Blasting Powder",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 100
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96628,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "The Adventurer",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 405,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 100
+ },
+ {
+  "category": 1657,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98391,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Sisterhood of Elune",
+  "reprewards": [
+   [
+    69,
+    10
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 100
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96606,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "The Great Outdoors",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 405,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 99
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 11,
+  "itemchoices": [
+   [
+    2249,
+    1
+   ],
+   [
+    2238,
+    1
+   ],
+   [
+    287059,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Riverpaw Gnoll Bounty",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 6,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Choice of Footman's Pocketknife"
+   ],
+   "notShown": [
+    "Rewards: adds Choice of Footman's Pocketknife"
+   ]
+  },
+  "popularity": 98
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96057,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Tailoring",
+  "reprewards": [],
+  "reqclass": 400,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 98
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96646,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Cooking",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 98
+ },
+ {
+  "category": 40,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 184,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    5057,
+    5
+   ],
+   [
+    4656,
+    5
+   ]
+  ],
+  "level": 9,
+  "money": 0,
+  "name": "Furlbrow's Deed",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 8,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 590,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 97
+ },
+ {
+  "category": -304,
+  "category2": 5,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 384,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    2888,
+    5
+   ],
+   [
+    2889,
+    1
+   ]
+  ],
+  "level": 7,
+  "money": 175,
+  "name": "Beer Basted Boar Ribs",
+  "reprewards": [
+   [
+    47,
+    100
+   ],
+   [
+    54,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 97
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 932,
+  "itemchoices": [
+   [
+    5419,
+    1
+   ],
+   [
+    2571,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "Twisted Hatred",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 700,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "level_changed",
+    "rewards_changed"
+   ],
+   "lines": [
+    "Level 8 instead of 7",
+    "Experience 700 instead of 630"
+   ],
+   "notShown": [
+    "Experience 700 instead of 630"
+   ]
+  },
+  "popularity": 97
+ },
+ {
+  "category": -263,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5923,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Heeding the Call",
+  "reprewards": [
+   [
+    609,
+    25
+   ]
+  ],
+  "reqclass": 1024,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 97
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92701,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 9,
+  "money": 0,
+  "name": "To Valanaar",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 6,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 80,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 97
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96031,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Leatherworking",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 97
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97925,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Tailoring",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 97
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 99260,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Fillion's Mission",
+  "reprewards": [
+   [
+    2779,
+    10
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 97
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2561,
+  "itemchoices": [
+   [
+    9598,
+    1
+   ],
+   [
+    18957,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Druid of the Claw",
+  "reprewards": [
+   [
+    69,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 3,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1050,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 96
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94793,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Training the Beast",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 96
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97921,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Herbalism",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 96
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97923,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Mining",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 96
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94050,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Training the Beast",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 94
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94773,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Divine Grace",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 94
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94817,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Confounding Flash",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 94
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97970,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Mining",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 94
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92699,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 9,
+  "money": 0,
+  "name": "The Supreme Magister",
+  "reprewards": [
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 80,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 93
+ },
+ {
+  "category": 148,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 983,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 350,
+  "name": "Buzzbox 827",
+  "reprewards": [
+   [
+    54,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 92
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97967,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Fishing",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 92
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97973,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Tailoring",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 92
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97950,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Tailoring",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 91
+ },
+ {
+  "category": 14,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 834,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 9,
+  "money": 300,
+  "name": "Winds in the Desert",
+  "reprewards": [
+   [
+    76,
+    100
+   ],
+   [
+    530,
+    100
+   ],
+   [
+    470,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 780,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 90
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92551,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 225,
+  "name": "Stolen Supplies",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 530,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 90
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96629,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Cooking",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 90
+ },
+ {
+  "category": -81,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1638,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "A Warrior's Training",
+  "reprewards": [],
+  "reqclass": 1,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 89
+ },
+ {
+  "category": -61,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1689,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Binding",
+  "reprewards": [],
+  "reqclass": 256,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 89
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 93951,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 125,
+  "name": "A Little Beauty",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 475,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 89
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94864,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Taming the Beast",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 89
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98286,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Enchanting",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 89
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92727,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Missing Scholar",
+  "reprewards": [
+   [
+    2779,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 88
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 93948,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 9,
+  "money": 150,
+  "name": "Deliver the Signet",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 6,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 390,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 88
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97943,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Fishing",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 88
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96634,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Cooking",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 87
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97918,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Engineering",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 87
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97941,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Engineering",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 87
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 109,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 250,
+  "name": "Report to Gryan Stoutmantle",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 9,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 86
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 320,
+  "itemchoices": [
+   [
+    1011,
+    1
+   ],
+   [
+    1010,
+    1
+   ],
+   [
+    10547,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "Return to Bellowfiz",
+  "reprewards": [
+   [
+    47,
+    150
+   ],
+   [
+    54,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 2,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 880,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 86
+ },
+ {
+  "category": -81,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1667,
+  "itemchoices": [
+   [
+    6979,
+    1
+   ],
+   [
+    6983,
+    1
+   ],
+   [
+    6980,
+    1
+   ],
+   [
+    6985,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Dead-tooth Jack",
+  "reprewards": [],
+  "reqclass": 1,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 86
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94825,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Confounding Flash",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 86
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96055,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Herbalism",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 86
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97949,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Skinning",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 86
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97964,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Blacksmithing",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 86
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97968,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Herbalism",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 86
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 310,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Bitter Rivals",
+  "reprewards": [
+   [
+    47,
+    25
+   ],
+   [
+    54,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 2,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 135,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 85
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94822,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Confounding Flash",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 85
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96045,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Alchemy",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 85
+ },
+ {
+  "category": 16593,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92516,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 175,
+  "name": "Hippogryph Harassment",
+  "reprewards": [
+   [
+    2778,
+    50
+   ],
+   [
+    2779,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 84
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94821,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Confounding Flash",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 84
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94863,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Taming the Beast",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 84
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96046,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Mining",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 84
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97916,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Blacksmithing",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 84
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97971,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Skinning",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 84
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 923,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    5605,
+    1
+   ]
+  ],
+  "level": 9,
+  "money": 600,
+  "name": "Tumors",
+  "reprewards": [
+   [
+    69,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 980,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 83
+ },
+ {
+  "category": -161,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1861,
+  "itemchoices": [
+   [
+    7508,
+    1
+   ],
+   [
+    9513,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Mirror Lake",
+  "reprewards": [],
+  "reqclass": 128,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 83
+ },
+ {
+  "category": -263,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5929,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Great Bear Spirit",
+  "reprewards": [
+   [
+    609,
+    50
+   ]
+  ],
+  "reqclass": 1024,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 83
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96047,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: First Aid",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 83
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96058,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Engineering",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 83
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 419,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    3151,
+    1
+   ]
+  ],
+  "level": 10,
+  "money": 0,
+  "name": "The Lost Pilot",
+  "reprewards": [
+   [
+    47,
+    50
+   ],
+   [
+    54,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 8,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 82
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2499,
+  "itemchoices": [
+   [
+    5458,
+    1
+   ],
+   [
+    5589,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 9,
+  "money": 600,
+  "name": "Oakenscowl",
+  "reprewards": [
+   [
+    69,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 980,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 82
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96050,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Fishing",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 82
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 315,
+  "itemchoices": [
+   [
+    2905,
+    1
+   ],
+   [
+    2326,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 9,
+  "money": 0,
+  "name": "The Perfect Stout",
+  "reprewards": [
+   [
+    47,
+    100
+   ],
+   [
+    54,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 780,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 81
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97922,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Leatherworking",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 81
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97946,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Leatherworking",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 81
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 475,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "A Troubling Breeze",
+  "reprewards": [
+   [
+    69,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 80
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5635,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Desperate Prayer",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "reworded"
+   ],
+   "lines": [
+    "Objective text reworded",
+    "Description reworded"
+   ],
+   "notShown": [
+    "Description reworded"
+   ]
+  },
+  "popularity": 80
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97963,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Alchemy",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 80
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 123,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 85,
+  "name": "The Collector",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 79
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 933,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 9,
+  "money": 0,
+  "name": "Crown of the Earth",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 780,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 79
+ },
+ {
+  "category": -81,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1665,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Bartleby's Mug",
+  "reprewards": [],
+  "reqclass": 1,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Defensive Stance"
+   ],
+   "notShown": [
+    "Rewards: adds Defensive Stance"
+   ]
+  },
+  "popularity": 79
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2541,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "The Sleeping Druid",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 3,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 700,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 79
+ },
+ {
+  "category": -263,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5921,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Moonglade",
+  "reprewards": [
+   [
+    609,
+    25
+   ]
+  ],
+  "reqclass": 1024,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 79
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97915,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Alchemy",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 79
+ },
+ {
+  "category": -61,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1685,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Gakin's Summons",
+  "reprewards": [],
+  "reqclass": 256,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 78
+ },
+ {
+  "category": -162,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2206,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    7298,
+    1
+   ]
+  ],
+  "level": 10,
+  "money": 0,
+  "name": "Snatch and Grab",
+  "reprewards": [],
+  "reqclass": 8,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 78
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5629,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Returning Home",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 78
+ },
+ {
+  "category": 40,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6181,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "A Swift Message",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 78
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97942,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: First Aid",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 78
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97944,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Herbalism",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 78
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97948,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Mining",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 78
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96056,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Skinning",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 77
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 60,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    1434,
+    5
+   ]
+  ],
+  "level": 7,
+  "money": 125,
+  "name": "Kobold Candles",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 3,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 475,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 76
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97939,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Blacksmithing",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 76
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97940,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Enchanting",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 76
+ },
+ {
+  "category": -81,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1639,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Bartleby the Drunk",
+  "reprewards": [],
+  "reqclass": 1,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 75
+ },
+ {
+  "category": -162,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2242,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    7298,
+    1
+   ]
+  ],
+  "level": 10,
+  "money": 0,
+  "name": "Destiny Calls",
+  "reprewards": [],
+  "reqclass": 8,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 75
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 291,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 175,
+  "name": "The Reports",
+  "reprewards": [
+   [
+    47,
+    50
+   ],
+   [
+    54,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 74
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 317,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 250,
+  "name": "Stocking Jetsteam",
+  "reprewards": [
+   [
+    47,
+    150
+   ],
+   [
+    54,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 2,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 680,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 74
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5636,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Desperate Prayer",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "reworded"
+   ],
+   "lines": [
+    "Objective text reworded",
+    "Description reworded"
+   ],
+   "notShown": [
+    "Description reworded"
+   ]
+  },
+  "popularity": 74
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97938,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Alchemy",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 74
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 61,
+  "itemchoices": [
+   [
+    1178,
+    15
+   ],
+   [
+    1177,
+    5
+   ],
+   [
+    2454,
+    2
+   ]
+  ],
+  "itemrewards": [],
+  "level": 7,
+  "money": 350,
+  "name": "Shipment to Stormwind",
+  "reprewards": [
+   [
+    72,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 3,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 790,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Choice of Elixir of Minor Strength x2",
+    "Rewards: no longer Choice of Elixir of Lion's Strength x2"
+   ],
+   "notShown": [
+    "Rewards: adds Choice of Elixir of Minor Strength x2",
+    "Rewards: no longer Choice of Elixir of Lion's Strength x2"
+   ]
+  },
+  "popularity": 73
+ },
+ {
+  "category": -81,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1683,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Vorlus Vilehoof",
+  "reprewards": [],
+  "reqclass": 1,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Defensive Stance"
+   ],
+   "notShown": [
+    "Rewards: adds Defensive Stance"
+   ]
+  },
+  "popularity": 73
+ },
+ {
+  "category": -61,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1688,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Surena Caledon",
+  "reprewards": [],
+  "reqclass": 256,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 73
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96044,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Blacksmithing",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 73
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 62,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 125,
+  "name": "The Fargodeep Mine",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 475,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 71
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 87,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    1359,
+    1
+   ]
+  ],
+  "level": 8,
+  "money": 0,
+  "name": "Goldtooth",
+  "reprewards": [
+   [
+    72,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 880,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 71
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 414,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Stout to Kadrell",
+  "reprewards": [
+   [
+    47,
+    75
+   ],
+   [
+    54,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 8,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 71
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 922,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 0,
+  "name": "Rellian Greenspyre",
+  "reprewards": [
+   [
+    69,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 315,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "reworded"
+   ],
+   "lines": [
+    "Description reworded"
+   ],
+   "notShown": [
+    "Description reworded"
+   ]
+  },
+  "popularity": 71
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 76,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 350,
+  "name": "The Jasperlode Mine",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 70
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 239,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Westbrook Garrison Needs Help!",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 6,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 70
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 319,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 0,
+  "name": "A Favor for Evershine",
+  "reprewards": [
+   [
+    47,
+    75
+   ],
+   [
+    54,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 2,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 530,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 70
+ },
+ {
+  "category": -263,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5925,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Heeding the Call",
+  "reprewards": [
+   [
+    609,
+    25
+   ]
+  ],
+  "reqclass": 1024,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 70
+ },
+ {
+  "category": -263,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5931,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Back to Darnassus",
+  "reprewards": [],
+  "reqclass": 1024,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 70
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6071,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Hunter's Path",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 70
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6103,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Training the Beast",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Beast Training",
+    "Rewards: no longer Training Lesson"
+   ],
+   "notShown": [
+    "Rewards: adds Beast Training",
+    "Rewards: no longer Training Lesson"
+   ]
+  },
+  "popularity": 70
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 59,
+  "itemchoices": [
+   [
+    1171,
+    1
+   ],
+   [
+    2237,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Cloth and Leather Armor",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 69
+ },
+ {
+  "category": -181,
+  "category2": 5,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1581,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    2449,
+    6
+   ],
+   [
+    785,
+    6
+   ]
+  ],
+  "level": 8,
+  "money": 225,
+  "name": "Elixirs for the Bladeleafs",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 700,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "objectives_changed"
+   ],
+   "lines": [
+    "Objectives: adds Elixir of Minor Strength x6",
+    "Objectives: no longer Elixir of Lion's Strength x6"
+   ],
+   "notShown": []
+  },
+  "popularity": 69
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5545,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 9,
+  "money": 300,
+  "name": "A Bundle of Trouble",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 780,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 69
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6064,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Taming the Beast",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 69
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6102,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Taming the Beast",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Tame Beast",
+    "Rewards: no longer Taming Lesson"
+   ],
+   "notShown": [
+    "Rewards: adds Tame Beast",
+    "Rewards: no longer Taming Lesson"
+   ]
+  },
+  "popularity": 69
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 114,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    118,
+    5
+   ]
+  ],
+  "level": 7,
+  "money": 0,
+  "name": "The Escape",
+  "reprewards": [
+   [
+    72,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 790,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 68
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 489,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 175,
+  "name": "Seek Redemption!",
+  "reprewards": [
+   [
+    69,
+    200
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 68
+ },
+ {
+  "category": -162,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2241,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Apple Falls",
+  "reprewards": [],
+  "reqclass": 8,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 68
+ },
+ {
+  "category": 1657,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6344,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Nessa Shadowsong",
+  "reprewards": [
+   [
+    69,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 68
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 311,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 175,
+  "name": "Return to Marleth",
+  "reprewards": [
+   [
+    47,
+    100
+   ],
+   [
+    54,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 2,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 67
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2459,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 450,
+  "name": "Ferocitas the Dream Eater",
+  "reprewards": [
+   [
+    69,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 880,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 67
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2498,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 9,
+  "money": 0,
+  "name": "Return to Denalan",
+  "reprewards": [
+   [
+    69,
+    10
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 80,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 67
+ },
+ {
+  "category": -263,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5924,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Heeding the Call",
+  "reprewards": [
+   [
+    609,
+    25
+   ]
+  ],
+  "reqclass": 1024,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 67
+ },
+ {
+  "category": 38,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6387,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Honor Students",
+  "reprewards": [
+   [
+    47,
+    25
+   ],
+   [
+    54,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 67
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96059,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Enchanting",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 67
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 112,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 0,
+  "name": "Collecting Kelp",
+  "reprewards": [
+   [
+    72,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 315,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 66
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 476,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 125,
+  "name": "Gnarlpine Corruption",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 540,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 66
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 930,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 350,
+  "name": "The Glowing Fruit",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 66
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5541,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 125,
+  "name": "Ammo for Rumbleshot",
+  "reprewards": [
+   [
+    47,
+    100
+   ],
+   [
+    54,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 540,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 66
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 40,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "A Fishy Peril",
+  "reprewards": [
+   [
+    72,
+    10
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 65
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 86,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Pie for Billy",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 405,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 65
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 413,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Shimmer Stout",
+  "reprewards": [
+   [
+    47,
+    50
+   ],
+   [
+    54,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 8,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 65
+ },
+ {
+  "category": -162,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2218,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 175,
+  "name": "Road to Salvation",
+  "reprewards": [],
+  "reqclass": 8,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 65
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 83,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    2575,
+    1
+   ],
+   [
+    983,
+    1
+   ]
+  ],
+  "level": 9,
+  "money": 0,
+  "name": "Red Linen Goods",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 780,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 64
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 85,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Lost Necklace",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 135,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 64
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 88,
+  "itemchoices": [
+   [
+    1173,
+    1
+   ],
+   [
+    1182,
+    1
+   ],
+   [
+    11191,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 9,
+  "money": 0,
+  "name": "Princess Must Die!",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 6,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 780,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 64
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 147,
+  "itemchoices": [
+   [
+    1360,
+    1
+   ],
+   [
+    1183,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Manhunt",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 64
+ },
+ {
+  "category": -81,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1692,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Smith Mathiel",
+  "reprewards": [],
+  "reqclass": 1,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 64
+ },
+ {
+  "category": -161,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1880,
+  "itemchoices": [
+   [
+    7507,
+    1
+   ],
+   [
+    9514,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Mage-tastic Gizmonitor",
+  "reprewards": [],
+  "reqclass": 128,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 64
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5637,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Desperate Prayer",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "reworded"
+   ],
+   "lines": [
+    "Objective text reworded",
+    "Description reworded"
+   ],
+   "notShown": [
+    "Description reworded"
+   ]
+  },
+  "popularity": 64
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5639,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Desperate Prayer",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "objectives_changed",
+    "text_changed"
+   ],
+   "lines": [
+    "Objective text removed",
+    "Description removed"
+   ],
+   "notShown": [
+    "Description removed"
+   ]
+  },
+  "popularity": 64
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6073,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Hunter's Path",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 64
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 45,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Discover Rolf's Fate",
+  "reprewards": [
+   [
+    72,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 63
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 318,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 0,
+  "name": "Evershine",
+  "reprewards": [
+   [
+    47,
+    25
+   ],
+   [
+    54,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 2,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 160,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 63
+ },
+ {
+  "category": -81,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1640,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Beat Bartleby",
+  "reprewards": [],
+  "reqclass": 1,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 63
+ },
+ {
+  "category": -81,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1684,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Elanaria",
+  "reprewards": [],
+  "reqclass": 1,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 63
+ },
+ {
+  "category": 148,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6343,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 250,
+  "name": "Return to Nessa",
+  "reprewards": [
+   [
+    69,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1050,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 63
+ },
+ {
+  "category": 38,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6392,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 350,
+  "name": "Return to Brock",
+  "reprewards": [
+   [
+    47,
+    150
+   ],
+   [
+    54,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1050,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 63
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 35,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Further Concerns",
+  "reprewards": [
+   [
+    72,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 62
+ },
+ {
+  "category": 40,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 36,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Westfall Stew",
+  "reprewards": [
+   [
+    72,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 9,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 62
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 52,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    858,
+    2
+   ]
+  ],
+  "level": 10,
+  "money": 250,
+  "name": "Protect the Frontier",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 62
+ },
+ {
+  "category": -81,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1679,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Muren Stormpike",
+  "reprewards": [],
+  "reqclass": 1,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 62
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5638,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Desperate Prayer",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "reworded"
+   ],
+   "lines": [
+    "Objective text reworded",
+    "Description reworded"
+   ],
+   "notShown": [
+    "Description reworded"
+   ]
+  },
+  "popularity": 62
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 39,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 700,
+  "name": "Deliver Thomas' Report",
+  "reprewards": [
+   [
+    72,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1050,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 61
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 931,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 350,
+  "name": "The Shimmering Frond",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 61
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6063,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Taming the Beast",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 61
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6101,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Taming the Beast",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 61
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 47,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    1191,
+    1
+   ]
+  ],
+  "level": 7,
+  "money": 175,
+  "name": "Gold Dust Exchange",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 60
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 432,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 9,
+  "money": 200,
+  "name": "Those Blasted Troggs!",
+  "reprewards": [
+   [
+    47,
+    75
+   ],
+   [
+    54,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 590,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 60
+ },
+ {
+  "category": -81,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1666,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Marshal Haggard",
+  "reprewards": [],
+  "reqclass": 1,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 60
+ },
+ {
+  "category": -81,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1682,
+  "itemchoices": [
+   [
+    6978,
+    1
+   ],
+   [
+    6982,
+    1
+   ],
+   [
+    6981,
+    1
+   ],
+   [
+    6984,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Grey Iron Weapons",
+  "reprewards": [],
+  "reqclass": 1,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 60
+ },
+ {
+  "category": -81,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1686,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Shade of Elura",
+  "reprewards": [],
+  "reqclass": 1,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 60
+ },
+ {
+  "category": -162,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2239,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    7298,
+    1
+   ]
+  ],
+  "level": 10,
+  "money": 0,
+  "name": "Onin's Report",
+  "reprewards": [],
+  "reqclass": 8,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 60
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2438,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 100,
+  "name": "The Emerald Dreamcatcher",
+  "reprewards": [
+   [
+    69,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 405,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 60
+ },
+ {
+  "category": 1657,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2519,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Temple of the Moon",
+  "reprewards": [
+   [
+    69,
+    10
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 60
+ },
+ {
+  "category": 40,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6281,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 175,
+  "name": "Continue to Stormwind",
+  "reprewards": [
+   [
+    72,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 60
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6721,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Hunter's Path",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 60
+ },
+ {
+  "category": 131,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6722,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Hunter's Path",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 60
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 487,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 8,
+  "money": 225,
+  "name": "The Road to Darnassus",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 700,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 59
+ },
+ {
+  "category": 148,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6342,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Flight to Auberdine",
+  "reprewards": [
+   [
+    69,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 59
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94778,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Divine Grace",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 59
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 37,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Find the Lost Guards",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 58
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 84,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Back to Billy",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 135,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 58
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 313,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 175,
+  "name": "The Grizzled Den",
+  "reprewards": [
+   [
+    47,
+    100
+   ],
+   [
+    54,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 58
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94775,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Divine Grace",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 58
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 412,
+  "itemchoices": [
+   [
+    3152,
+    1
+   ],
+   [
+    3153,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Operation Recombobulation",
+  "reprewards": [
+   [
+    54,
+    100
+   ],
+   [
+    47,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 57
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 415,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    3087,
+    1
+   ]
+  ],
+  "level": 10,
+  "money": 0,
+  "name": "Rejold's New Brew",
+  "reprewards": [
+   [
+    47,
+    10
+   ],
+   [
+    54,
+    10
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 8,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 57
+ },
+ {
+  "category": -61,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1715,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Slaughtered Lamb",
+  "reprewards": [],
+  "reqclass": 256,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 57
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94823,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Confounding Flash",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 57
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5640,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Desperate Prayer",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "reworded"
+   ],
+   "lines": [
+    "Objective text reworded",
+    "Description reworded"
+   ],
+   "notShown": [
+    "Description reworded"
+   ]
+  },
+  "popularity": 56
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6072,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Hunter's Path",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 56
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 106,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Young Lovers",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 135,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 55
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 111,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Speak with Gramma",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 135,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 55
+ },
+ {
+  "category": 40,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6261,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Dungar Longdrink",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 55
+ },
+ {
+  "category": 148,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6341,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Bounty of Teldrassil",
+  "reprewards": [
+   [
+    69,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 55
+ },
+ {
+  "category": 38,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6391,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 175,
+  "name": "Ride to Ironforge",
+  "reprewards": [
+   [
+    47,
+    50
+   ],
+   [
+    54,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 55
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94779,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Divine Grace",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 55
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 71,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Report to Thomas",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 7,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 54
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 918,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    4604,
+    10
+   ]
+  ],
+  "level": 7,
+  "money": 0,
+  "name": "Timberling Seeds",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 54
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2399,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    5205,
+    5
+   ]
+  ],
+  "level": 10,
+  "money": 0,
+  "name": "The Sprouted Fronds",
+  "reprewards": [
+   [
+    69,
+    10
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 54
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6085,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Taming the Beast",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Tame Beast",
+    "Rewards: no longer Taming Lesson"
+   ],
+   "notShown": [
+    "Rewards: adds Tame Beast",
+    "Rewards: no longer Taming Lesson"
+   ]
+  },
+  "popularity": 54
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6086,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Training the Beast",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Beast Training",
+    "Rewards: no longer Training Lesson"
+   ],
+   "notShown": [
+    "Rewards: adds Beast Training",
+    "Rewards: no longer Training Lesson"
+   ]
+  },
+  "popularity": 54
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94777,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Divine Grace",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 54
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94826,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Confounding Flash",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 54
+ },
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 107,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Note to William",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 5,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 135,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 53
+ },
+ {
+  "category": -161,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1879,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Speak with Bink",
+  "reprewards": [],
+  "reqclass": 128,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 53
+ },
+ {
+  "category": -162,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2238,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Simple Subterfugin'",
+  "reprewards": [],
+  "reqclass": 8,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 53
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5627,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Stars of Elune",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 53
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6084,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Taming the Beast",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 840,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 53
+ },
+ {
+  "category": -81,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1693,
+  "itemchoices": [
+   [
+    6966,
+    1
+   ],
+   [
+    6968,
+    1
+   ],
+   [
+    6969,
+    1
+   ],
+   [
+    6967,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Weapons of Elunite",
+  "reprewards": [],
+  "reqclass": 1,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 52
+ },
+ {
+  "category": -162,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2205,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 85,
+  "name": "Seek out SI: 7",
+  "reprewards": [],
+  "reqclass": 8,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 52
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5634,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Desperate Prayer",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "objectives_changed",
+    "quest_giver_changed",
+    "text_changed"
+   ],
+   "lines": [
+    "Quest givers: no longer Starts at High Priestess Laurena",
+    "Objective text added",
+    "Description added"
+   ],
+   "notShown": [
+    "Quest givers: no longer Starts at High Priestess Laurena",
+    "Description added"
+   ]
+  },
+  "popularity": 52
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6075,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Hunter's Path",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 52
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 94776,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Divine Grace",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 52
+ },
+ {
+  "category": -161,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1860,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Speak with Jennea",
+  "reprewards": [],
+  "reqclass": 128,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 420,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 51
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5631,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Returning Home",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 51
+ },
+ {
+  "category": -666,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98287,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 0,
+  "name": "Camping 101: Engineering",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 51
+ },
+ {
+  "category": 141,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 919,
+  "itemchoices": [
+   [
+    5606,
+    1
+   ],
+   [
+    6061,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 7,
+  "money": 350,
+  "name": "Timberling Sprouts",
+  "reprewards": [
+   [
+    69,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 4,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 790,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 49
+ },
+ {
+  "category": 40,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6285,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 350,
+  "name": "Return to Lewis",
+  "reprewards": [
+   [
+    72,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1050,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 49
+ },
+ {
+  "category": 1,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 308,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 7,
+  "money": 0,
+  "name": "Distracting Jarven",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 48
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5628,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Returning Home",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 48
+ },
+ {
+  "category": 38,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6388,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Gryth Thurden",
+  "reprewards": [
+   [
+    47,
+    25
+   ],
+   [
+    54,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 48
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5630,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Returning Home",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 45
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6074,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Hunter's Path",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 45
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5632,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Returning Home",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 43
+ },
+ {
+  "category": -261,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6076,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "The Hunter's Path",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 85,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 42
+ },
+ {
+  "category": -368,
+  "category2": 7,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 9260,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 6,
+  "money": 100,
+  "name": "Investigate the Scourge of Stormwind",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 405,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 40
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5633,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 0,
+  "name": "Returning Home",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 10,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 210,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 38
+ },
+ {
+  "category": -1001,
+  "category2": 9,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8803,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    21363,
+    1
+   ]
+  ],
+  "level": 10,
+  "money": 0,
+  "name": "A Festive Gift",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 10,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 25
+ },
+ {
+  "category": -368,
+  "category2": 7,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 9261,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 250,
+  "name": "Investigate the Scourge of Ironforge",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 25
+ },
+ {
+  "category": -368,
+  "category2": 7,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 9262,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 10,
+  "money": 250,
+  "name": "Investigate the Scourge of Darnassus",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 24
+ }
+]

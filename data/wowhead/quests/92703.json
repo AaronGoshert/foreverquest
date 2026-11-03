@@ -1,0 +1,141 @@
+{
+ "id": 92703,
+ "name": "Deliver the News",
+ "level": 9,
+ "reqlevel": 5,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 590,
+ "start": {
+  "type": "npc",
+  "id": 252800,
+  "name": "Aamelia Windfield",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    46.6,
+    81.8
+   ],
+   [
+    47,
+    81.2
+   ],
+   [
+    47.2,
+    80
+   ],
+   [
+    47.4,
+    78.4
+   ],
+   [
+    47.4,
+    78.6
+   ],
+   [
+    47.6,
+    78.4
+   ],
+   [
+    47.6,
+    78.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252448,
+  "name": "Alvarion Windfield",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    62,
+    73.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak with Alvarion Windfield in Valanaar.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 252448,
+   "name": "Alvarion Windfield",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  92693,
+  92703
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252800,
+   "name": "Aamelia Windfield",
+   "coord": [
+    46.6,
+    81.8
+   ],
+   "coords": [
+    [
+     46.6,
+     81.8
+    ],
+    [
+     47,
+     81.2
+    ],
+    [
+     47.2,
+     80
+    ],
+    [
+     47.4,
+     78.4
+    ],
+    [
+     47.4,
+     78.6
+    ],
+    [
+     47.6,
+     78.4
+    ],
+    [
+     47.6,
+     78.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252448,
+   "name": "Alvarion Windfield",
+   "coord": [
+    62,
+    73.2
+   ],
+   "coords": [
+    [
+     62,
+     73.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

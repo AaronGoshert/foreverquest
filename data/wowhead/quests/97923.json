@@ -1,0 +1,105 @@
+{
+ "id": 97923,
+ "name": "Camping 101: Mining",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 263399,
+  "name": "Sam Sarsaparilla",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    44.8,
+    63.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5513,
+  "name": "Gelman Stonehand",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    51,
+    17.2
+   ],
+   [
+    59,
+    37.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Speak with Gelman Stonehand in Stormwind to learn to craft a camping item for your profession once you have shown proficiency in your skill.   Raise your mining skill to 20  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 5513,
+   "name": "Gelman Stonehand",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Raise your mining skill to 20",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 263399,
+   "name": "Sam Sarsaparilla",
+   "coord": [
+    44.8,
+    63.2
+   ],
+   "coords": [
+    [
+     44.8,
+     63.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 5513,
+   "name": "Gelman Stonehand",
+   "coord": [
+    51,
+    17.2
+   ],
+   "coords": [
+    [
+     51,
+     17.2
+    ],
+    [
+     59,
+     37.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

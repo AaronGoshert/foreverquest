@@ -1,0 +1,120 @@
+{
+ "id": 98738,
+ "name": "Blessings of the Great Windborne Cat Spirit",
+ "level": 20,
+ "reqlevel": 20,
+ "side": 3,
+ "zoneId": -263,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 780,
+ "start": {
+  "type": "npc",
+  "id": 272054,
+  "name": "Avatar of Saeyleenan",
+  "zone": "Moonglade",
+  "zoneId": 493,
+  "coords": [
+   [
+    43.9,
+    73.4
+   ],
+   [
+    44,
+    73.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11802,
+  "name": "Dendrite Starblaze",
+  "zone": "Moonglade",
+  "zoneId": 493,
+  "coords": [
+   [
+    56.2,
+    30.4
+   ],
+   [
+    56.2,
+    30.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Completion <Dendrite makes another invisible gesture in the air above him as you approach. Another aura of power comes over him, and he smiles ever so slightly.> I sense the cunning and ferocity of the cat within you that was not present when I sent you to meet the Great Cat Spirit. In your eyes I can sense you now understand the stealth and speed needed to adopt this nature. Now you may learn to focus your cunning and adopt the true nature of the cat and call upon its spirit.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [
+  98404,
+  98738
+ ],
+ "points": [
+  {
+   "zoneId": 493,
+   "zone": "Moonglade",
+   "point": "start",
+   "type": 1,
+   "id": 272054,
+   "name": "Avatar of Saeyleenan",
+   "coord": [
+    43.9,
+    73.4
+   ],
+   "coords": [
+    [
+     43.9,
+     73.4
+    ],
+    [
+     44,
+     73.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 493,
+   "zone": "Moonglade",
+   "point": "end",
+   "type": 1,
+   "id": 11802,
+   "name": "Dendrite Starblaze",
+   "coord": [
+    56.2,
+    30.4
+   ],
+   "coords": [
+    [
+     56.2,
+     30.4
+    ],
+    [
+     56.2,
+     30.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-09T02:39:05-05:00",
+   "body": "You DO NOT have to go back to Zephras to turn this in. Its back in Moonglade.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-11T10:59:19-05:00",
+   "body": "starts in TB",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-20T14:52:25-05:00",
+   "body": "For Alliance Skyborne and maybe others you need to go to the Druid trainer on the second floor of the building in Darnassus FIRST. Go to TB for Horde.",
+   "replies": []
+  }
+ ]
+}

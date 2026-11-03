@@ -1,0 +1,338 @@
+{
+ "id": 900,
+ "name": "Samophlange",
+ "level": 14,
+ "reqlevel": 10,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 490,
+ "start": {
+  "type": "object",
+  "id": 4141,
+  "name": "Control Console",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    52.4,
+    11.7
+   ],
+   [
+    52.5,
+    11.7
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 4141,
+  "name": "Control Console",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    52.4,
+    11.7
+   ],
+   [
+    52.5,
+    11.7
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Close off the Fuel Control Valve , the Regulator Valve and the Main Control Valve then use the control console again.   Shut off Main Control Valve  ( 1 )   Shut off Fuel Control Valve  ( 1 )   Shut off Regulator Valve  ( 1 )",
+ "objectives": [
+  {
+   "type": "object",
+   "id": 61936,
+   "name": "Fuel Control Valve",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "object",
+   "id": 4141,
+   "name": "control console",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "object",
+   "id": 61935,
+   "name": "Shut off Regulator Valve",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Shut off Main Control Valve",
+   "count": 1,
+   "type": "object",
+   "id": 4072
+  },
+  {
+   "text": "Shut off Fuel Control Valve",
+   "count": 1,
+   "type": "object",
+   "id": 61936
+  },
+  {
+   "text": "Shut off Regulator Valve",
+   "count": 1,
+   "type": "object",
+   "id": 61935
+  }
+ ],
+ "series": [
+  894,
+  900,
+  901,
+  902
+ ],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 2,
+   "id": 4141,
+   "name": "Control Console",
+   "coord": [
+    52.4,
+    11.7
+   ],
+   "coords": [
+    [
+     52.4,
+     11.7
+    ],
+    [
+     52.5,
+     11.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 2,
+   "id": 4141,
+   "name": "Control Console",
+   "coord": [
+    52.4,
+    11.7
+   ],
+   "coords": [
+    [
+     52.4,
+     11.7
+    ],
+    [
+     52.5,
+     11.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "requirement",
+   "type": 2,
+   "id": 4072,
+   "name": "Main Control Valve",
+   "coord": [
+    52.3,
+    11.6
+   ],
+   "coords": [
+    [
+     52.3,
+     11.4
+    ],
+    [
+     52.3,
+     11.6
+    ],
+    [
+     52.5,
+     11.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "requirement",
+   "type": 2,
+   "id": 61935,
+   "name": "Regulator Valve",
+   "coord": [
+    52.3,
+    11.4
+   ],
+   "coords": [
+    [
+     52.3,
+     11.4
+    ],
+    [
+     52.3,
+     11.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "requirement",
+   "type": 2,
+   "id": 61936,
+   "name": "Fuel Control Valve",
+   "coord": [
+    52.4,
+    11.4
+   ],
+   "coords": [
+    [
+     52.4,
+     11.4
+    ],
+    [
+     52.4,
+     11.5
+    ],
+    [
+     52.5,
+     11.4
+    ],
+    [
+     52.5,
+     11.5
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 20,
+   "date": "2006-09-15T01:59:42-05:00",
+   "body": "The valves are at coordinates: 52x,11y in The Barrens. The respawn rate of the mobs near the valves I swear to god is less than 3 min so dont make the same mistake I did and start doin the valves after you do the control panel, or you will get respawned \n\n-Kbizzle",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2006-10-11T13:02:55-05:00",
+   "body": "The controls are really as to find, just go from left to right, getting all three wheels.\r\n\r\nAs said before, always keep a look out on the respawns, there's a good 5-6 of them that are in aggro range around the controls, so be sure you're in the clear before you start doing the valves.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-12-03T02:08:34-06:00",
+   "body": "Actually, two mobs will spawn in reaction to your using the last valve (regardless of what order you use them in).  The normal mobs in the area are aggro-tied to the valves if they (the mobs) happen to wander too close while you are using them.  This is the same behavior as mobs near a chest in the wild.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-08-04T01:26:57-05:00",
+   "body": "Don't confuse the machine in the pit to the east with this one.  Every valve you need to close is within 5 steps or so of the first control panel.  Took me forever to figure that out.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-12-28T18:30:55-06:00",
+   "body": "Location 52,11 in the far north of the Barrens.  \n\nThe valves are in the same location as the control panel, they're just on the outside of varius parts of the machine.  \n\nOutside of the area with the control panel, there will be three valves to turn off.  One is on the east side of the machine.  One is on the north side of the machine, and the last is on the west side of the machine.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-27T06:17:15-06:00",
+   "body": "Quest is fun but if you want to do it at lvl 14 and you are not a hunter, then you could use 1 more to help you. Spawn as mentioned above is crazy.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-04T10:02:14-05:00",
+   "body": "However, the quest chain stops early with because you can't get the Wenikee Boltbucket quest.\n\nEdited, Sat Jun  4 07:00:58 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-21T22:24:30-06:00",
+   "body": "If alone be careful of when the MOBS are about to die.  they run off and get someone and come back as two.  If you are a Shaman use earthbind early and get ready to chase them down. If he does get away, heal yourself and wait where you are the MOB usually only gets one person to help.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-18T21:44:16-06:00",
+   "body": "Yeah, this quest is hard alone. The only way I got through it was by killing the mobs on 1 side of the machine at a time, running in, closing the valves,and running back out.  These guys tend to run in fear at about 20% of thier life left, giving them more time to aggro more of them.  It's best to have a good ranged weapon with you, or a good hunter or warlock would be even better.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-11T16:56:35-06:00",
+   "body": "How do i use loc for this qest",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-02T17:43:49-06:00",
+   "body": "I tried to solo this and had the same problem.  I was able to kill all the guards around the machine on the same level, not the ones in the tents above.  But when I was turning the 3rd valve, in any order, I was attacked right away, it starts to repop.  I also saw no quest advancement.  And each valve I turned it said 'opening' when you are supposed to close em.\n\n-Laio",
+   "replies": [
+    "Opening is the default message.. basically means \"activating\" or \"using\".. the vast majority of intereactive items in WoW are containers of some sort."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-22T15:18:22-06:00",
+   "body": "Where are the valves? I can't find them anywhere.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-11-15T18:32:57-06:00",
+   "body": "Walk around the machine and you should see one valve on each side.  Hit them all and then go back to the control console.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-30T23:24:37-05:00",
+   "body": "52,11.  Before you do the valves you must access the control panel.  It is hidden on the side facing away from the mountain.  Ignore the control panel up the hill in the hut.  Everything you need to get started is right there at the machine.  This one is frustrating if you don't know where to look for things.\n\nEdited, Thu Sep 15 16:17:53 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-24T11:25:11-05:00",
+   "body": "This quest is terrible. It's got a lot of running involved and, yes, the mobs aggro anything in a relative area. Frustrating! At level 15, I probably died five or six times with the aggro problem and the fact that they respawned super quick. A fellow guild member said if you don't absolutely need the XP or reputation, don't even bother.\n\n[i][small]Edited, Mar 24th 2007  9:25am by goodnite[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-06-21T14:00:41-05:00",
+   "body": "This quest is available to both Alliance and Horde.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-06T02:35:41-05:00",
+   "body": "I did this quest as a lvl 13 druid. Pretty easy actually",
+   "replies": [
+    "Perhaps it's easy to solo if you can root AND heal.  Mobs run like crazy even with Hamstring so unless you can CC and/or heal, tough to solo at 13.",
+    "Easier to do if you approach from the southeast."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2006-04-23T05:11:53-05:00",
+   "body": "Who do you talk to to complete the quest, it doesnt say on your quest log.",
+   "replies": [
+    "Go back to the console and click on it.  This will complete the quest and start another."
+   ]
+  }
+ ]
+}

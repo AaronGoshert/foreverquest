@@ -1,0 +1,43 @@
+{
+ "id": 92872,
+ "name": "Dutiful Steps",
+ "level": 38,
+ "reqlevel": 32,
+ "side": 1,
+ "zoneId": 45,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2850,
+ "start": null,
+ "end": null,
+ "patch": "1.60.1.70291",
+ "objectiveText": "Throw the Pouch of Tomb Dust into The Great Sea and return to Caretaker Alaric in the Stromgarde Keep crypt.   Pouch of Tomb Dust thrown into the sea behind Stromgarde  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 278543,
+   "name": "Pouch of Tomb Dust",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 269668,
+   "name": "Pouch of Tomb Dust thrown into the sea behind Stromgarde",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Pouch of Tomb Dust thrown into the sea behind Stromgarde",
+   "count": 1,
+   "type": "npc",
+   "id": 269668
+  }
+ ],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

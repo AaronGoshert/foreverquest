@@ -1,0 +1,151 @@
+{
+ "id": 92643,
+ "name": "The Turncoat",
+ "level": 11,
+ "reqlevel": 6,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 660,
+ "start": {
+  "type": "npc",
+  "id": 252476,
+  "name": "Talaanis Shadowsong",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    66.2,
+    76.4
+   ],
+   [
+    66.2,
+    76.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253372,
+  "name": "Dead Cultist",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    56,
+    58.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Find the cultist turncoat at the house just inside the highlands northwest of Valanaar.   Find the secluded house in Shen'dar Highlands  ( 1 )   Find the Al'Aketh Turncoat  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 255013,
+   "name": "Find the secluded house in Shen'dar Highlands",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 253372,
+   "name": "Find the Al'Aketh Turncoat",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Find the secluded house in Shen'dar Highlands",
+   "count": 1,
+   "type": "npc",
+   "id": 255013
+  },
+  {
+   "text": "Find the Al'Aketh Turncoat",
+   "count": 1,
+   "type": "npc",
+   "id": 253372
+  }
+ ],
+ "series": [
+  92881,
+  98512,
+  92644,
+  94568,
+  92640,
+  93065,
+  92947
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252476,
+   "name": "Talaanis Shadowsong",
+   "coord": [
+    66.2,
+    76.6
+   ],
+   "coords": [
+    [
+     66.2,
+     76.4
+    ],
+    [
+     66.2,
+     76.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 253372,
+   "name": "Dead Cultist",
+   "coord": [
+    56,
+    58.8
+   ],
+   "coords": [
+    [
+     56,
+     58.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 253372,
+   "name": "Dead Cultist",
+   "coord": [
+    56,
+    58.8
+   ],
+   "coords": [
+    [
+     56,
+     58.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 20,
+   "date": "2026-09-21T00:56:06-05:00",
+   "body": "The place is swarming with level 9 mobs, so expect that, nevertheless, the guy you are looking for is the Dead Cultist located inside the house at coords:\n/way 56 58.8",
+   "replies": []
+  }
+ ]
+}

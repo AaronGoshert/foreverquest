@@ -1,0 +1,122 @@
+{
+ "id": 93034,
+ "name": "Valley of Bones",
+ "level": 38,
+ "reqlevel": 35,
+ "side": 3,
+ "zoneId": 16651,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 285,
+ "start": {
+  "type": "npc",
+  "id": 5397,
+  "name": "Uthek the Wise",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    36.2,
+    79.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253177,
+  "name": "Nerlokh",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    58.4,
+    88.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Improve your reputation with the Gelkis, and locate Nerlokh near the Valley of Bones far east of Gelkis Village.   Gelkis Clan Centaur  ( Honored )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 253177,
+   "name": "Nerlokh",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  1382,
+  1384,
+  1370,
+  1373,
+  93034,
+  93035,
+  93041,
+  93044,
+  93045
+ ],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 5397,
+   "name": "Uthek the Wise",
+   "coord": [
+    36.2,
+    79.2
+   ],
+   "coords": [
+    [
+     36.2,
+     79.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 253177,
+   "name": "Nerlokh",
+   "coord": [
+    58.4,
+    88.6
+   ],
+   "coords": [
+    [
+     58.4,
+     88.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "end",
+   "type": 1,
+   "id": 253177,
+   "name": "Nerlokh",
+   "coord": [
+    20.8,
+    22.6
+   ],
+   "coords": [
+    [
+     20.8,
+     22.6
+    ],
+    [
+     21,
+     22
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

@@ -1,0 +1,307 @@
+{
+ "id": 93037,
+ "name": "Outing Outcasts",
+ "level": 40,
+ "reqlevel": 35,
+ "side": 3,
+ "zoneId": 16651,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2350,
+ "start": {
+  "type": "npc",
+  "id": 253177,
+  "name": "Nerlokh",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    58.4,
+    88.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253177,
+  "name": "Nerlokh",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    58.4,
+    88.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Maintain your reputation with the Gelkis Clan, and bring 1 Necromantic Garb to Nerlokh at the entrance of the Valley of Bones. Necromantic Garb  ( 1 )   Gelkis Clan Centaur  ( Honored )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 255875,
+   "name": "Necromantic Garb",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Necromantic Garb",
+   "count": 1,
+   "type": "item",
+   "id": 255875
+  }
+ ],
+ "series": [
+  1382,
+  1384,
+  1370,
+  1373,
+  93034,
+  93035,
+  93041,
+  93044,
+  93045
+ ],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 253177,
+   "name": "Nerlokh",
+   "coord": [
+    58.4,
+    88.6
+   ],
+   "coords": [
+    [
+     58.4,
+     88.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 253177,
+   "name": "Nerlokh",
+   "coord": [
+    58.4,
+    88.6
+   ],
+   "coords": [
+    [
+     58.4,
+     88.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 11559,
+   "name": "Outcast Necromancer",
+   "coord": [
+    63.8,
+    90.4
+   ],
+   "coords": [
+    [
+     59.2,
+     89.4
+    ],
+    [
+     59.4,
+     89.6
+    ],
+    [
+     60,
+     90
+    ],
+    [
+     60.8,
+     90.4
+    ],
+    [
+     61,
+     90.6
+    ],
+    [
+     62.4,
+     91.2
+    ],
+    [
+     62.6,
+     91.2
+    ],
+    [
+     63.4,
+     89.4
+    ],
+    [
+     63.4,
+     89.6
+    ],
+    [
+     63.6,
+     89.2
+    ],
+    [
+     63.8,
+     90.4
+    ],
+    [
+     63.8,
+     90.6
+    ],
+    [
+     64.4,
+     92
+    ],
+    [
+     64.6,
+     91.8
+    ],
+    [
+     64.8,
+     84.2
+    ],
+    [
+     64.8,
+     89.4
+    ],
+    [
+     64.8,
+     89.8
+    ],
+    [
+     64.8,
+     91
+    ],
+    [
+     65,
+     85.4
+    ],
+    [
+     65,
+     87.6
+    ],
+    [
+     65.2,
+     86
+    ],
+    [
+     65.2,
+     86.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "start",
+   "type": 1,
+   "id": 253177,
+   "name": "Nerlokh",
+   "coord": [
+    20.8,
+    22.6
+   ],
+   "coords": [
+    [
+     20.8,
+     22.6
+    ],
+    [
+     21,
+     22
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "end",
+   "type": 1,
+   "id": 253177,
+   "name": "Nerlokh",
+   "coord": [
+    20.8,
+    22.6
+   ],
+   "coords": [
+    [
+     20.8,
+     22.6
+    ],
+    [
+     21,
+     22
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 11559,
+   "name": "Outcast Necromancer",
+   "coord": [
+    34.2,
+    16.5
+   ],
+   "coords": [
+    [
+     22.6,
+     26.2
+    ],
+    [
+     22.8,
+     27.4
+    ],
+    [
+     22.8,
+     27.8
+    ],
+    [
+     24,
+     25.8
+    ],
+    [
+     25.4,
+     26.6
+    ],
+    [
+     25.6,
+     26.4
+    ],
+    [
+     27,
+     27.4
+    ],
+    [
+     28.6,
+     27.2
+    ],
+    [
+     29.6,
+     29.4
+    ],
+    [
+     34.2,
+     16.5
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

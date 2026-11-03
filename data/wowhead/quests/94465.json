@@ -1,0 +1,119 @@
+{
+ "id": 94465,
+ "name": "Call of Fire",
+ "level": 11,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 660,
+ "start": {
+  "type": "npc",
+  "id": 257597,
+  "name": "Bruegs Kindleborn",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    87.4,
+    43.6
+   ],
+   [
+    87.6,
+    43.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 257808,
+  "name": "Braldir Ashmantle",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    32,
+    66
+   ],
+   [
+    32.2,
+    65.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring the Torch of the Dormant Flame to Braldir Ashmantle in Loch Modan. Torch of the Dormant Flame (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 6653,
+   "name": "Torch of the Dormant Flame",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  94449,
+  94465,
+  94466,
+  94467,
+  94468
+ ],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 257597,
+   "name": "Bruegs Kindleborn",
+   "coord": [
+    87.6,
+    43.6
+   ],
+   "coords": [
+    [
+     87.4,
+     43.6
+    ],
+    [
+     87.6,
+     43.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 257808,
+   "name": "Braldir Ashmantle",
+   "coord": [
+    32,
+    66
+   ],
+   "coords": [
+    [
+     32,
+     66
+    ],
+    [
+     32.2,
+     65.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 9,
+   "date": "2026-09-21T20:49:08-05:00",
+   "body": "Trail starts at 31.4/58.2 follow the eyebrow cliff trail past the stone totems.",
+   "replies": []
+  }
+ ]
+}

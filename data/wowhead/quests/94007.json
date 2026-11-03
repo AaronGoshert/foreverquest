@@ -1,0 +1,96 @@
+{
+ "id": 94007,
+ "name": "Taming the Beast",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 3,
+ "zoneId": -261,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 210,
+ "start": {
+  "type": "npc",
+  "id": 254084,
+  "name": "Elayaa Easewind",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    45.2,
+    44.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252389,
+  "name": "Quel'ana Quickgale",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    59.6,
+    72.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Report to Quel'ana Quickgale in Valanaar.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 252389,
+   "name": "Quel'ana Quickgale",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  6722,
+  94979,
+  6101,
+  6102,
+  6103
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 254084,
+   "name": "Elayaa Easewind",
+   "coord": [
+    45.2,
+    44.2
+   ],
+   "coords": [
+    [
+     45.2,
+     44.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252389,
+   "name": "Quel'ana Quickgale",
+   "coord": [
+    59.6,
+    72.6
+   ],
+   "coords": [
+    [
+     59.6,
+     72.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

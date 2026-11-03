@@ -1,0 +1,87 @@
+{
+ "id": 92109,
+ "name": "My First Alchemy Set",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 420,
+ "start": {
+  "type": "npc",
+  "id": 249713,
+  "name": "Odd Child"
+ },
+ "end": {
+  "type": "npc",
+  "id": 249713,
+  "name": "Odd Child"
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Bring 5 Empty Vials , 5 Silverleaf , and 5 Peacebloom to the young, aspiring alchemist inside the barn of Moonbrook in Westfall . Empty Vial  ( 5 ) Peacebloom  ( 5 ) Silverleaf  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 3371,
+   "name": "Empty Vials",
+   "count": 5,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 2447,
+   "name": "Peacebloom",
+   "count": 5,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 765,
+   "name": "Silverleaf",
+   "count": 5,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 118,
+   "name": "Minor Healing Potion",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Empty Vial",
+   "count": 5,
+   "type": "item",
+   "id": 3371
+  },
+  {
+   "text": "Peacebloom",
+   "count": 5,
+   "type": "item",
+   "id": 2447
+  },
+  {
+   "text": "Silverleaf",
+   "count": 5,
+   "type": "item",
+   "id": 765
+  }
+ ],
+ "series": [
+  92109,
+  92110
+ ],
+ "points": [],
+ "missingPoints": null,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-01T17:28:59-05:00",
+   "body": "The quest giver is inside the big building that leads down to [b]The Deadmines[/b], hidden behind a corner to the right as you come in. This quest is only available to [b]Alliance Alchemists[/b]. Her identity isn't fully clear, but it would appear that she's Edwin VanCleef's daughter, [b]Vanessa VanCleef[/b].\r\n\r\nIf you arrive with the required herbs, vials and 3 [b]Murloc Eyes[/b] already on your person, you'll be granted a quick [b]840 XP[/b] total as well as other rewards, including a new [url=https://www.wowhead.com/forever/item=4597/recipe-minor-discolored-healing-potion]recipe[/url]. The full XP reward only starts diminishing once you reach level [b]16+[/b].",
+   "replies": []
+  }
+ ]
+}

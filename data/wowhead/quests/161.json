@@ -1,0 +1,185 @@
+{
+ "id": 161,
+ "name": "A Dark Threat Looms",
+ "level": 18,
+ "reqlevel": 16,
+ "side": 1,
+ "zoneId": 38,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1350,
+ "start": {
+  "type": "npc",
+  "id": 1093,
+  "name": "Chief Engineer Hinderweir VII",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    46,
+    13.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1073,
+  "name": "Ashlan Stonesmirk",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    50,
+    18.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Chief Engineer Hinderweir wants you to take the strange smelling powder to Ashlan Stonesmirk , the explosives expert in Dun Modr. Strange Smelling Powder (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 2563,
+   "name": "strange smelling powder",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  250,
+  199,
+  161,
+  274,
+  278,
+  280,
+  283
+ ],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 1093,
+   "name": "Chief Engineer Hinderweir VII",
+   "coord": [
+    46,
+    13.6
+   ],
+   "coords": [
+    [
+     46,
+     13.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 1073,
+   "name": "Ashlan Stonesmirk",
+   "coord": [
+    50,
+    18.2
+   ],
+   "coords": [
+    [
+     50,
+     18.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 18,
+   "date": "2006-11-21T17:01:05-06:00",
+   "body": "Ashlan Stonesmirk is situated at 50, 18 in Wetlands (https://www.wowhead.com/forever/npc=1073). The next part of the quest sends you back to the dam in Loch Modan.",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2006-07-15T09:21:33-05:00",
+   "body": "Dun modr is right at the wetlands straight in the north, situated some meters south of the thandol span.\nGotten there you cant pass the guy you search.\nTip:When you are there, go to Menethil and get the fly point there if you dont have it already.\nVery useful when you want to sail to the \"other big island\" ;)\n\ngreetz mychy",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2005-09-26T09:21:33-05:00",
+   "body": "Ashlan Stonesmirke is situated at 50,18 in Wetlands\n\n/tloc 50,18 @ Wetlands",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2004-11-29T18:45:35-06:00",
+   "body": "The trick to this one is just to stay on the road and dont stop to fight.  THe mobs tend to be about 20-25 through the wetlands, but if you stay on the road and keep running you can make it.\n\nYour only real trouble will be making it past the dragonspawn guys that are sitting in the open space between two of the tunnel passes... Dont try and fight them, just run on by and let them get their two or three hits in before they get bored and run off.\n\nFollow the roadsigns to Dun Modr, the guy you have to talk to is right by the road beside a broken down cart jsut before the great span (Or whatever that big bridge was called).  Ya cant miss him.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-09-26T09:21:33-05:00",
+   "body": "stop acusing people of telling lies! he IS at 50,18 wetlands",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-12T02:43:11-05:00",
+   "body": "Do yourself a favor and don't jump off the dam.  You still have to run back to your corpse and its a long long way back.  Then you die again after the second set of waterfalls.  Simply not worth it.\n\nHead west then north through the Algaz Gate tunnels and follow the road, bear left, then north when you get to the road signs.\n\n\nEdited, Tue Oct 11 23:16:26 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-25T21:56:56-05:00",
+   "body": "jump from dam worked for me :P",
+   "replies": [
+    "I can't really recommend jumping from the dam. Its really easy to die and then you have to run back and you aren't saving any time."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-30T14:36:37-05:00",
+   "body": "This quest really isn't too hard, although for players that are inexperienced in dealing with tough mobs it probably will be. As Eldorin and the Chief Engineer have said, just stay on the roads and everything will be fine. You WILL get attacked, and you will probably be hit hard. With my 17 Gnome Mage the mobs would take out about 2/3 of my health before leaving.\n\nThis really isn't that hard though.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-26T15:08:10-06:00",
+   "body": "It was easy, but the only HARD part I thought was the waterfalls. I bet there was a way to do it, but a straight line is always the fastest. Jumping off the water falls kept killing me, but once I got past those everything else was really easy.\n\nLvl 19 Warrior",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-01T01:47:40-06:00",
+   "body": "He's at 49,19",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-18T21:22:29-05:00",
+   "body": "I just did this and it was very easy.  I did not get attacked once on the way. I also picked up Daily Delivery and when I finished this quest I went to Menethil Harbor where I grabbed the new flight path and turned in Daily Delivery for 825. Hopped on a griffon back to Loch Modan and finished the next part of this quest.\n\nlvl 18 Priest",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-27T15:39:43-06:00",
+   "body": "probably one of the easier big points quests. lvl 17 hunter. got 1350 going, 600 or so for discovery, and 340 coming back. key is not to fight, just keep going no matter what. the combat pet really helped, pulled the mobs back off me. they are 20plus and swarming so no chance if u stand and fight.\n\nused hearthstone to get back so i only ran the gauntlet once.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-09-08T13:48:15-05:00",
+   "body": "Simply jump from the dam.  You will rez at the graveyard that is on the road that leads directly to Ashlan.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-02-19T09:21:33-06:00",
+   "body": "I guess it's confussing because it says he's the Dun Modr explosives expert.",
+   "replies": []
+  }
+ ]
+}

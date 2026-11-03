@@ -1,0 +1,133 @@
+{
+ "id": 98059,
+ "name": "Hillsbrad's Hoard",
+ "level": 27,
+ "reqlevel": 23,
+ "side": 1,
+ "zoneId": 267,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2200,
+ "start": {
+  "type": "npc",
+  "id": 251493,
+  "name": "Captain McManus",
+  "zone": "Hillsbrad Foothills",
+  "zoneId": 267,
+  "coords": [
+   [
+    46.4,
+    50.2
+   ],
+   [
+    46.6,
+    50.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251493,
+  "name": "Captain McManus",
+  "zone": "Hillsbrad Foothills",
+  "zoneId": 267,
+  "coords": [
+   [
+    46.4,
+    50.2
+   ],
+   [
+    46.6,
+    50.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Place the Sealed Company Request you were given on the bookkeeping table within Hillsbrad's town hall.   Sealed Company Request delivered to Hillsbrad council  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 279386,
+   "name": "Sealed Company Request",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 270424,
+   "name": "Sealed Company Request delivered to Hillsbrad council",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Sealed Company Request delivered to Hillsbrad council",
+   "count": 1,
+   "type": "npc",
+   "id": 270424
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 267,
+   "zone": "Hillsbrad Foothills",
+   "point": "start",
+   "type": 1,
+   "id": 251493,
+   "name": "Captain McManus",
+   "coord": [
+    46.4,
+    50.2
+   ],
+   "coords": [
+    [
+     46.4,
+     50.2
+    ],
+    [
+     46.6,
+     50.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 267,
+   "zone": "Hillsbrad Foothills",
+   "point": "end",
+   "type": 1,
+   "id": 251493,
+   "name": "Captain McManus",
+   "coord": [
+    46.4,
+    50.2
+   ],
+   "coords": [
+    [
+     46.4,
+     50.2
+    ],
+    [
+     46.6,
+     50.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2026-10-07T11:37:28-05:00",
+   "body": "This quest requires [npc=2335] to be alive next to the table. If the Horde killed him, wait for him to respawn. It's the table he's standing right next to.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2026-10-16T18:17:22-05:00",
+   "body": "I had to stand on the chair as a gnome to get this to work. BUT as a gnome , be careful! I kept getting stuck if I missed the jump onto the chair!",
+   "replies": []
+  }
+ ]
+}

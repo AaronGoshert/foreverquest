@@ -1,0 +1,284 @@
+{
+ "id": 627,
+ "name": "Favor for Krazek",
+ "level": 37,
+ "reqlevel": 32,
+ "side": 1,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2100,
+ "start": {
+  "type": "npc",
+  "id": 773,
+  "name": "Krazek",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    27,
+    77.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 773,
+  "name": "Krazek",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    27,
+    77.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Bring 4 loads of Lesser Bloodstone Ore to Krazek in Booty Bay. Lesser Bloodstone Ore  ( 4 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 4278,
+   "name": "Lesser Bloodstone Ore",
+   "count": 4,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Lesser Bloodstone Ore",
+   "count": 4,
+   "type": "item",
+   "id": 4278
+  }
+ ],
+ "series": [
+  210,
+  627,
+  622
+ ],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "start",
+   "type": 1,
+   "id": 773,
+   "name": "Krazek",
+   "coord": [
+    27,
+    77.2
+   ],
+   "coords": [
+    [
+     27,
+     77.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "end",
+   "type": 1,
+   "id": 773,
+   "name": "Krazek",
+   "coord": [
+    27,
+    77.2
+   ],
+   "coords": [
+    [
+     27,
+     77.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 64,
+   "date": "2007-02-19T02:07:10-06:00",
+   "body": "Cave is at 85,34 - start climbing at 80,40\r\nYou need to be able to mine or have someone with you who can mine for you in order to complete this quest.",
+   "replies": []
+  },
+  {
+   "rating": 59,
+   "date": "2007-03-18T04:30:27-05:00",
+   "body": "If you are not a Miner....Check the Auction House. I bought 4 ore at 1s each on the AH.",
+   "replies": [
+    "Thanks! This helped me since I am NOT a miner!"
+   ]
+  },
+  {
+   "rating": 57,
+   "date": "2006-03-10T23:57:19-06:00",
+   "body": "The cave is a little tricky to find by sight. You have to follow the path to Hammerfall and turn off the road when you get to the fort and head straight east to the mountain range. You'll see a rock with a split tree kinda behind it. It's perfectly blocking the view of the narrow path leading into the mountains. You'll have to kill a couple lvl 35-37 Kobolds to get to the cave and inside the cave are stationary melee kobolds and patroling \"Drywhisker Surveyors\" (frost magic users). They patrol rather quickly and they have a surveyor for every stretch of the cave, so be careful if you're lvl 40 or lower because it's hard to take out 2 of them at a time. \n\nI get stuck in that situation, I go for the Surveyor first because he does the most damage. But make sure you take out the patrollers as soon as you see them.\n\nThere are veins of Iron, Mithril, Truesilver, Gold, and of course Lesser Bloodstone. The LB veins generally give you 2 ore per vein, but I sometimes got 4. I mined 22 and got the hell out of there! I'm a lvl 40 Warrior and I could solo 3 of the melee kobolds 1 after another (not simultaneously), but those Surveyors kick my ass, so be careful. And make sure you keep them a safe distance from the others when you agro them because they do this frostblast spell that freezes you so they can step back and attack from a short distance. Sometimes when I wasn't paying attention, the guy would step back and get too close to the next kobold and agro him as well, but atleast they don't do the frostblast thing until they're down to about 20% of their health.\n\nHope this helps.",
+   "replies": []
+  },
+  {
+   "rating": 21,
+   "date": "2007-04-25T14:33:44-05:00",
+   "body": "I found this quest greatly taxing.\r\n\r\nEven with the skill to mine the stuff, at level 35 the Kobolds still posed quite a problem for me.\r\n\r\nThey begin to \"run away in fear\" with a little higher health than most MOBs and they are pretty close together. I commonly had to deal with three or four separate battles before a rest as they kept adding right when they were about to die. If that wasn't enough, they have Frost Mages too. So you have to deal with the Chill effect on top of everything else.\r\n\r\nLastly, and probibly worst of all for alliance characters, like myself, is the cave is right next to the major Horde Town in Arathi. I got ganked three times in mid combat by a rogue.\r\n\r\nThis quest is definately do-able, but unless you are just in dire need of XP, (like I was,) The rewards and annoyance simply are not worth the trouble.",
+   "replies": [
+    "be sure to pick up the quest \"The Princess Trapped\" ( https://www.wowhead.com/forever/quest=642 ) in the Arathi Highlands before going to the cave. Makes this quest and the multiple kobold killings a bit less ignominious."
+   ]
+  },
+  {
+   "rating": 19,
+   "date": "2005-10-15T23:57:19-05:00",
+   "body": "The mine is at 81,37 exactly, the entrence to the path has a large tree with a smoothe gray big rock in front of the tree, the area is guarded by lvl 35+ kobolds when in cat form and stelthed they sensed me at about 5 yards away, I'm a lvl 37 druid and woulden't attempt it without a little help there are quite a few kobolds there.",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2005-02-21T01:41:53-06:00",
+   "body": "Cave is located at 82,36.  You can get there by entering from 81,39.\n\nHope that helps.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2005-01-04T16:30:03-06:00",
+   "body": "The cave is in the very NE portion of Arathi Highlands, east of the horde town there. You have to have a miner with you to farm the bloodstone, as it's like every other ore node.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-02-02T11:57:19-06:00",
+   "body": "I found it using the directions from the Drywhisker Gulge Cave (*Gulch) entry above.\n\nWhen you come off the road to Hammerfall there is a tree with a big, rounded rock. This is a signal that you're in the right place. \n\nGo north from there between Hammerfall and the mountain. Keep looking east - you want a large rounded rock with a tree directly behind it - the top two-thirds of the tree tree is split into a 'V' shape. It's about halfway up the hill. The path is behind the tree.\n\nIf you go into the gullies before you find this, you'll fight a lot of kobolds but not go anywhere.\n\nThere are lots of ore nodes inside the mine, but watch for traps and pitfalls. The straight path in ends in a sudden drop to a level with 3 kobolds. \nSome ore nods are beneath openings with kobolds in them. \n\nIt took me about half an hour to kill enough kobolds to get deep enough into the cave (lvl 25 Paladin), but I got my ore with only two nodes.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2004-12-25T19:21:02-06:00",
+   "body": "you need mining skill to get those lesser bloodstone ore. If not you better buy them thought AH.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-07-01T17:55:43-05:00",
+   "body": "What bonus is he talking about? How many do you have to turn in to get this bonus? And do you have to turn in all of them at once? or is this a repeatable quest?",
+   "replies": [
+    "The bonus is the 30s.  He fixes the crock pot, and gives you a 30s bonus."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2006-01-08T02:13:54-06:00",
+   "body": "The set of 4x lesser bloodstone ore sells for 1-1.5gps on Smolderthorn AH. That was well worth it considering you get nearly 5000xp for what is essentially two easy delivery quests (this and the next one), plus you get some silver back in the reward.\n\nEdited, Sat Jan  7 19:16:02 2006",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-06-28T11:57:19-05:00",
+   "body": "&nbsp; &nbsp; Arathi Highlandns North East\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Cord 81.4)\n To Mine Lesser Bloodstone Requires 155 skill in minning or greater.\n Highest level guy in cave is lv 39 non elite. Spell casters in this cave use cold spells.\n There is also Gold, Mithril, and Iron,\n Gold=155 skill in Minning\n Mithril=175 skill in Minning\n Iron=125 Skill in Minning",
+   "replies": [
+    "My mining skill was <125 and I could mine the Lesser Bloodstone Ore. I'm a Lv38 and the quest pickup from Krazek has a gray ! , so that I can't accept it. Anyone know why?"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-03T04:52:15-05:00",
+   "body": "Do not buy the ore at BB AH. It does go for well over 20s each. I found a stack of 20 for sale in IF for 80s. I plan on posting the remaining 16 ore on BB AH in four groups of 4 for 50s each. Based on the prices I saw when I looked, this ought to be a quick and easy 2g.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-10T10:49:10-06:00",
+   "body": "Horde can't get this quest?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-01T13:59:20-06:00",
+   "body": "I suceeded to solo it, but it cost me much. My durability was 100% when i walked in, but when i went out it was veeery low.\n\nI soloed it as a lvl 35 Rogue...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-23T19:14:31-05:00",
+   "body": "i found it at 81,35",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-11T22:56:55-06:00",
+   "body": "Omg some guy was selling a stack of 8 bloodstone ore for a buyout of 17s! I quickly bought it and finished the quest easily :)\n\n[i][small]Edited, Dec 11th 2006  8:02pm by Dracol[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-13T17:36:07-05:00",
+   "body": "Entrance to the cave is at 83,36",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-03T20:10:10-05:00",
+   "body": "2100 exp at level 36.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-17T20:38:22-06:00",
+   "body": "This is a great way to increase your skill in mining. You need to have 75 to mine it, and u can grind it for as far as i know. This is a great place for Iron and Mithril to, so if you want to increase your skill fast, this is the place!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-21T12:50:18-05:00",
+   "body": "In that cave I found MITHRIL ore 1 for each 4 Lesser Bloodstone Ore mining spot, and after mining half hour got a GOLD ore mining spot too :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-16T18:36:01-06:00",
+   "body": "i got my ore real cheap on AH in booty bay.\n\nthey were all in 4 stacks for 20s a stack",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-06T22:31:37-05:00",
+   "body": "Yes, 30 silver for this, but taking the feather-flight up to Refuge Pointe and back again to Booty Bay takes a big slice out of the reward. Also, go prepared to battle some big Kobolds who respawn fast - I did it easily in a party of three though the warrior-class leader died repeatedly when she tried to solo it earlier.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-24T06:05:58-06:00",
+   "body": "how the heck you get to it? wher is it i cant seem to find it in the moutnas near hammer fall or simlpy cant reach far enough in to them\n\nhow about a LOCATION",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-27T19:30:46-05:00",
+   "body": "I didn't realize that you had to have mining to get it until after I took off flying...now I just wasted a bunch of money and time flying to Refuge Pointe and back to BB...and none on AH there. AAAHHH!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-10-08T04:09:59-05:00",
+   "body": "I remember doing the crockpot quest, but now that I'm trying to get the Favor For Krazek quest, he has a gray exclamation icon over his head. Why can't I get this quest yet? I'm a Lv38 and I even have mining (not that it's required). Does anyone have any idea of why I can't accept this quest? My rep with Booty Bay is neutral (2180/3000).",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-28T15:24:51-06:00",
+   "body": "Just a suggestion, DO NOT try to get there from the west. I tried, and I agg'd guards INSIDE the fort, causing them to walk over the fence and chase me. They totaled about 19, so unless ur in a large raid of lvl 60s, I wouldn't suggest going for the ore from the west...",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2005-02-09T01:39:15-06:00",
+   "body": "is there a required mining level for them?",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-06-05T21:49:43-05:00",
+   "body": "Actually, horde CANT get this quest. The original quest giver is a pvp-enabled human in the rebel camp north of Grom'gol.",
+   "replies": []
+  }
+ ]
+}

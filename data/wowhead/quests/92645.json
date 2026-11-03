@@ -1,0 +1,135 @@
+{
+ "id": 92645,
+ "name": "Breaking the Breaker",
+ "level": 11,
+ "reqlevel": 6,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 660,
+ "start": {
+  "type": "npc",
+  "id": 252378,
+  "name": "Yorana Windyreed",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    69.4,
+    67.2
+   ],
+   [
+    69.6,
+    67
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252378,
+  "name": "Yorana Windyreed",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    69.4,
+    67.2
+   ],
+   [
+    69.6,
+    67
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Slay Commander Belguilos in the Gustberry Lowlands.   Commander Belguilos slain  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 252666,
+   "name": "Commander Belguilos",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Commander Belguilos slain",
+   "count": 1,
+   "type": "npc",
+   "id": 252666
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252378,
+   "name": "Yorana Windyreed",
+   "coord": [
+    69.6,
+    67
+   ],
+   "coords": [
+    [
+     69.4,
+     67.2
+    ],
+    [
+     69.6,
+     67
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252378,
+   "name": "Yorana Windyreed",
+   "coord": [
+    69.6,
+    67
+   ],
+   "coords": [
+    [
+     69.4,
+     67.2
+    ],
+    [
+     69.6,
+     67
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 252666,
+   "name": "Commander Belguilos",
+   "coord": [
+    65.6,
+    65.4
+   ],
+   "coords": [
+    [
+     65.6,
+     65.4
+    ],
+    [
+     65.6,
+     65.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

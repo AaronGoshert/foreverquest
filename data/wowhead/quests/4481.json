@@ -1,0 +1,2441 @@
+{
+ "id": 4481,
+ "name": "Libram of Constitution",
+ "level": 55,
+ "reqlevel": 50,
+ "side": 3,
+ "zoneId": 46,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 9836,
+  "name": "Mathredis Firestar",
+  "zone": "Burning Steppes",
+  "zoneId": 46,
+  "coords": [
+   [
+    65,
+    23.4
+   ],
+   [
+    65,
+    23.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 9836,
+  "name": "Mathredis Firestar",
+  "zone": "Burning Steppes",
+  "zoneId": 46,
+  "coords": [
+   [
+    65,
+    23.4
+   ],
+   [
+    65,
+    23.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Progress There is a price to pay for all things in this world. The price for the specific item that you seek is thirty gold pieces. Naturally, I shall retain the majority of the components which you collected. But worry not, you shall have your trinket. Black Diamond  ( 1 ) Lung Juice Cocktail  ( 1 ) Libram of Constitution  ( 1 ) Night Dragon's Breath  ( 4 )   Required money: 30  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11754,
+   "name": "Black Diamond",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 8411,
+   "name": "Lung Juice Cocktail",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11733,
+   "name": "Libram of Constitution",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11952,
+   "name": "Night Dragon's Breath",
+   "count": 4,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Black Diamond",
+   "count": 1,
+   "type": "item",
+   "id": 11754
+  },
+  {
+   "text": "Lung Juice Cocktail",
+   "count": 1,
+   "type": "item",
+   "id": 8411
+  },
+  {
+   "text": "Libram of Constitution",
+   "count": 1,
+   "type": "item",
+   "id": 11733
+  },
+  {
+   "text": "Night Dragon's Breath",
+   "count": 4,
+   "type": "item",
+   "id": 11952
+  },
+  {
+   "text": "Required money: 30",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "start",
+   "type": 1,
+   "id": 9836,
+   "name": "Mathredis Firestar",
+   "coord": [
+    65,
+    23.6
+   ],
+   "coords": [
+    [
+     65,
+     23.4
+    ],
+    [
+     65,
+     23.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "end",
+   "type": 1,
+   "id": 9836,
+   "name": "Mathredis Firestar",
+   "coord": [
+    65,
+    23.6
+   ],
+   "coords": [
+    [
+     65,
+     23.4
+    ],
+    [
+     65,
+     23.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7026,
+   "name": "Blackrock Sorcerer",
+   "coord": [
+    43,
+    36.8
+   ],
+   "coords": [
+    [
+     39.2,
+     55.2
+    ],
+    [
+     39.4,
+     55.6
+    ],
+    [
+     39.8,
+     35.4
+    ],
+    [
+     40.2,
+     33.8
+    ],
+    [
+     40.4,
+     33.2
+    ],
+    [
+     40.4,
+     35.8
+    ],
+    [
+     40.6,
+     32.8
+    ],
+    [
+     40.6,
+     35.6
+    ],
+    [
+     41.2,
+     33.6
+    ],
+    [
+     41.2,
+     35
+    ],
+    [
+     41.4,
+     55.4
+    ],
+    [
+     41.4,
+     55.8
+    ],
+    [
+     41.6,
+     55.4
+    ],
+    [
+     41.8,
+     35.4
+    ],
+    [
+     42.4,
+     35.6
+    ],
+    [
+     42.4,
+     38.4
+    ],
+    [
+     42.4,
+     38.8
+    ],
+    [
+     42.4,
+     56
+    ],
+    [
+     42.6,
+     35.4
+    ],
+    [
+     42.6,
+     35.6
+    ],
+    [
+     42.6,
+     38.4
+    ],
+    [
+     42.6,
+     38.6
+    ],
+    [
+     42.6,
+     56
+    ],
+    [
+     43,
+     36.8
+    ],
+    [
+     43.4,
+     33.6
+    ],
+    [
+     43.6,
+     33.8
+    ],
+    [
+     43.8,
+     35.6
+    ],
+    [
+     43.8,
+     36.8
+    ],
+    [
+     43.8,
+     55.4
+    ],
+    [
+     43.8,
+     55.6
+    ],
+    [
+     44,
+     35.2
+    ],
+    [
+     44.4,
+     50.4
+    ],
+    [
+     44.4,
+     50.6
+    ],
+    [
+     44.6,
+     50.4
+    ],
+    [
+     44.6,
+     50.8
+    ],
+    [
+     44.6,
+     57.8
+    ],
+    [
+     45,
+     56.4
+    ],
+    [
+     45,
+     56.6
+    ],
+    [
+     48.8,
+     59.4
+    ],
+    [
+     48.8,
+     59.6
+    ],
+    [
+     49,
+     56.4
+    ],
+    [
+     49,
+     56.8
+    ],
+    [
+     49.4,
+     54
+    ],
+    [
+     49.6,
+     54
+    ],
+    [
+     50.4,
+     61.2
+    ],
+    [
+     50.4,
+     61.6
+    ],
+    [
+     50.6,
+     60.8
+    ],
+    [
+     50.6,
+     61.8
+    ],
+    [
+     51,
+     53.4
+    ],
+    [
+     51.4,
+     54.2
+    ],
+    [
+     51.4,
+     54.6
+    ],
+    [
+     51.6,
+     54.4
+    ],
+    [
+     51.6,
+     54.6
+    ],
+    [
+     53.4,
+     52.4
+    ],
+    [
+     53.4,
+     52.6
+    ],
+    [
+     53.6,
+     52.4
+    ],
+    [
+     53.6,
+     52.6
+    ],
+    [
+     55.4,
+     54.2
+    ],
+    [
+     55.4,
+     54.6
+    ],
+    [
+     55.6,
+     54.4
+    ],
+    [
+     55.8,
+     53.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7033,
+   "name": "Firegut Ogre",
+   "coord": [
+    77.2,
+    47.4
+   ],
+   "coords": [
+    [
+     74.4,
+     37
+    ],
+    [
+     74.4,
+     38.4
+    ],
+    [
+     74.4,
+     38.6
+    ],
+    [
+     74.4,
+     40
+    ],
+    [
+     74.4,
+     40.6
+    ],
+    [
+     74.4,
+     43.2
+    ],
+    [
+     74.4,
+     43.6
+    ],
+    [
+     74.4,
+     47
+    ],
+    [
+     74.4,
+     48.4
+    ],
+    [
+     74.4,
+     48.8
+    ],
+    [
+     74.6,
+     36.8
+    ],
+    [
+     74.6,
+     38.2
+    ],
+    [
+     74.6,
+     38.6
+    ],
+    [
+     74.6,
+     40
+    ],
+    [
+     74.6,
+     40.6
+    ],
+    [
+     74.6,
+     43.4
+    ],
+    [
+     74.6,
+     43.8
+    ],
+    [
+     74.6,
+     47
+    ],
+    [
+     74.6,
+     48.8
+    ],
+    [
+     74.8,
+     36.4
+    ],
+    [
+     75,
+     45.6
+    ],
+    [
+     75.2,
+     45.2
+    ],
+    [
+     75.4,
+     48.2
+    ],
+    [
+     75.6,
+     48.6
+    ],
+    [
+     75.8,
+     50.4
+    ],
+    [
+     75.8,
+     50.6
+    ],
+    [
+     75.8,
+     56.6
+    ],
+    [
+     76.2,
+     56.2
+    ],
+    [
+     76.4,
+     34.8
+    ],
+    [
+     76.4,
+     47.4
+    ],
+    [
+     76.4,
+     47.8
+    ],
+    [
+     76.4,
+     55.4
+    ],
+    [
+     76.6,
+     34.8
+    ],
+    [
+     76.6,
+     56
+    ],
+    [
+     76.8,
+     43.8
+    ],
+    [
+     76.8,
+     48.8
+    ],
+    [
+     76.8,
+     51.4
+    ],
+    [
+     76.8,
+     51.6
+    ],
+    [
+     77,
+     43.2
+    ],
+    [
+     77,
+     47.6
+    ],
+    [
+     77.2,
+     45.4
+    ],
+    [
+     77.2,
+     47.4
+    ],
+    [
+     77.4,
+     45.6
+    ],
+    [
+     77.6,
+     54.4
+    ],
+    [
+     77.8,
+     33.4
+    ],
+    [
+     77.8,
+     33.6
+    ],
+    [
+     77.8,
+     55
+    ],
+    [
+     78,
+     41.6
+    ],
+    [
+     78,
+     43.4
+    ],
+    [
+     78,
+     43.6
+    ],
+    [
+     78,
+     45.6
+    ],
+    [
+     78.2,
+     41.4
+    ],
+    [
+     78.2,
+     45.4
+    ],
+    [
+     78.8,
+     55.4
+    ],
+    [
+     78.8,
+     55.6
+    ],
+    [
+     79,
+     44.4
+    ],
+    [
+     79,
+     45
+    ],
+    [
+     79.4,
+     42.4
+    ],
+    [
+     79.4,
+     42.6
+    ],
+    [
+     79.8,
+     42.2
+    ],
+    [
+     79.8,
+     47.2
+    ],
+    [
+     80.2,
+     46
+    ],
+    [
+     80.2,
+     48
+    ],
+    [
+     80.4,
+     41.2
+    ],
+    [
+     80.4,
+     42.6
+    ],
+    [
+     80.4,
+     45.4
+    ],
+    [
+     80.6,
+     41.8
+    ],
+    [
+     80.6,
+     42.6
+    ],
+    [
+     81.4,
+     39.4
+    ],
+    [
+     81.4,
+     40.2
+    ],
+    [
+     81.4,
+     40.6
+    ],
+    [
+     81.6,
+     41.2
+    ],
+    [
+     81.8,
+     42
+    ],
+    [
+     82,
+     39.4
+    ],
+    [
+     82,
+     39.6
+    ],
+    [
+     82,
+     46.8
+    ],
+    [
+     82.2,
+     53.8
+    ],
+    [
+     82.4,
+     53.4
+    ],
+    [
+     82.6,
+     53.4
+    ],
+    [
+     82.6,
+     53.6
+    ],
+    [
+     82.8,
+     38.8
+    ],
+    [
+     83,
+     43.4
+    ],
+    [
+     83.4,
+     43.6
+    ],
+    [
+     83.6,
+     44
+    ],
+    [
+     83.6,
+     45.2
+    ],
+    [
+     83.6,
+     53.2
+    ],
+    [
+     83.6,
+     53.8
+    ],
+    [
+     86.8,
+     45.2
+    ],
+    [
+     86.8,
+     46.8
+    ],
+    [
+     86.8,
+     48.4
+    ],
+    [
+     86.8,
+     48.6
+    ],
+    [
+     87,
+     45.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7034,
+   "name": "Firegut Ogre Mage",
+   "coord": [
+    77.2,
+    47.4
+   ],
+   "coords": [
+    [
+     74.4,
+     37
+    ],
+    [
+     74.4,
+     38.2
+    ],
+    [
+     74.4,
+     38.6
+    ],
+    [
+     74.4,
+     40.2
+    ],
+    [
+     74.4,
+     40.6
+    ],
+    [
+     74.4,
+     43.6
+    ],
+    [
+     74.4,
+     47
+    ],
+    [
+     74.4,
+     48.8
+    ],
+    [
+     74.6,
+     38
+    ],
+    [
+     74.6,
+     38.6
+    ],
+    [
+     74.6,
+     40.4
+    ],
+    [
+     74.6,
+     40.6
+    ],
+    [
+     74.6,
+     43.6
+    ],
+    [
+     74.6,
+     47.2
+    ],
+    [
+     74.6,
+     49
+    ],
+    [
+     74.8,
+     36.6
+    ],
+    [
+     75,
+     45.4
+    ],
+    [
+     75,
+     45.6
+    ],
+    [
+     75.4,
+     48.4
+    ],
+    [
+     75.6,
+     48.6
+    ],
+    [
+     75.8,
+     50.4
+    ],
+    [
+     76,
+     50.6
+    ],
+    [
+     76.4,
+     34.8
+    ],
+    [
+     76.4,
+     38
+    ],
+    [
+     76.4,
+     47.8
+    ],
+    [
+     76.8,
+     34.8
+    ],
+    [
+     76.8,
+     43.8
+    ],
+    [
+     77,
+     47.6
+    ],
+    [
+     77,
+     51.4
+    ],
+    [
+     77,
+     51.6
+    ],
+    [
+     77.2,
+     45.4
+    ],
+    [
+     77.2,
+     47.4
+    ],
+    [
+     77.4,
+     38.2
+    ],
+    [
+     77.4,
+     45.6
+    ],
+    [
+     77.8,
+     33.4
+    ],
+    [
+     77.8,
+     38.2
+    ],
+    [
+     78,
+     33.8
+    ],
+    [
+     78,
+     39
+    ],
+    [
+     78,
+     41.8
+    ],
+    [
+     78,
+     43.4
+    ],
+    [
+     78,
+     43.6
+    ],
+    [
+     78,
+     45.6
+    ],
+    [
+     78.2,
+     40.2
+    ],
+    [
+     78.2,
+     41.4
+    ],
+    [
+     78.2,
+     45.4
+    ],
+    [
+     78.8,
+     40.6
+    ],
+    [
+     79,
+     44.4
+    ],
+    [
+     79,
+     45
+    ],
+    [
+     79.2,
+     35.4
+    ],
+    [
+     79.4,
+     35.6
+    ],
+    [
+     79.4,
+     41.8
+    ],
+    [
+     79.4,
+     43.4
+    ],
+    [
+     79.6,
+     41
+    ],
+    [
+     79.6,
+     44.2
+    ],
+    [
+     79.8,
+     42.2
+    ],
+    [
+     79.8,
+     47.2
+    ],
+    [
+     80.2,
+     36.2
+    ],
+    [
+     80.2,
+     42.6
+    ],
+    [
+     80.2,
+     44.8
+    ],
+    [
+     80.2,
+     47.8
+    ],
+    [
+     80.4,
+     45.6
+    ],
+    [
+     80.6,
+     42.6
+    ],
+    [
+     80.6,
+     45.4
+    ],
+    [
+     80.8,
+     42.4
+    ],
+    [
+     80.8,
+     46.4
+    ],
+    [
+     81,
+     36.6
+    ],
+    [
+     81,
+     46.6
+    ],
+    [
+     81.2,
+     48.2
+    ],
+    [
+     81.4,
+     39.4
+    ],
+    [
+     81.4,
+     39.8
+    ],
+    [
+     81.4,
+     40.8
+    ],
+    [
+     81.4,
+     44
+    ],
+    [
+     81.6,
+     39.6
+    ],
+    [
+     81.6,
+     43.2
+    ],
+    [
+     81.6,
+     44
+    ],
+    [
+     81.8,
+     39.4
+    ],
+    [
+     81.8,
+     41.4
+    ],
+    [
+     81.8,
+     41.6
+    ],
+    [
+     81.8,
+     46
+    ],
+    [
+     82,
+     47
+    ],
+    [
+     82.2,
+     47.8
+    ],
+    [
+     82.4,
+     36.8
+    ],
+    [
+     82.4,
+     53.4
+    ],
+    [
+     82.4,
+     53.6
+    ],
+    [
+     82.6,
+     36.8
+    ],
+    [
+     82.6,
+     42.4
+    ],
+    [
+     82.6,
+     48
+    ],
+    [
+     82.6,
+     53.4
+    ],
+    [
+     82.8,
+     45.4
+    ],
+    [
+     83.2,
+     38.4
+    ],
+    [
+     83.2,
+     43.4
+    ],
+    [
+     83.2,
+     47.2
+    ],
+    [
+     83.4,
+     39
+    ],
+    [
+     83.4,
+     40.4
+    ],
+    [
+     83.4,
+     40.6
+    ],
+    [
+     83.4,
+     43.6
+    ],
+    [
+     83.4,
+     45.8
+    ],
+    [
+     83.6,
+     40
+    ],
+    [
+     83.6,
+     44
+    ],
+    [
+     83.6,
+     45.2
+    ],
+    [
+     83.6,
+     45.8
+    ],
+    [
+     83.6,
+     52.2
+    ],
+    [
+     83.6,
+     53.4
+    ],
+    [
+     83.6,
+     53.8
+    ],
+    [
+     84,
+     36.8
+    ],
+    [
+     84,
+     42.8
+    ],
+    [
+     84.4,
+     48.8
+    ],
+    [
+     84.6,
+     36.6
+    ],
+    [
+     84.6,
+     47.4
+    ],
+    [
+     84.6,
+     47.6
+    ],
+    [
+     85,
+     45.4
+    ],
+    [
+     85,
+     45.6
+    ],
+    [
+     85.4,
+     36.4
+    ],
+    [
+     85.6,
+     36.4
+    ],
+    [
+     86.8,
+     47
+    ],
+    [
+     86.8,
+     48.4
+    ],
+    [
+     87,
+     45.4
+    ],
+    [
+     87,
+     45.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7035,
+   "name": "Firegut Brute",
+   "coord": [
+    82.2,
+    39.2
+   ],
+   "coords": [
+    [
+     76.4,
+     38
+    ],
+    [
+     76.8,
+     47.8
+    ],
+    [
+     77.2,
+     43.6
+    ],
+    [
+     77.2,
+     45.4
+    ],
+    [
+     77.4,
+     38.2
+    ],
+    [
+     77.4,
+     46.2
+    ],
+    [
+     77.4,
+     47
+    ],
+    [
+     77.8,
+     38.2
+    ],
+    [
+     78,
+     39
+    ],
+    [
+     78,
+     45.6
+    ],
+    [
+     78.2,
+     34.6
+    ],
+    [
+     78.2,
+     40.2
+    ],
+    [
+     78.2,
+     45.4
+    ],
+    [
+     78.4,
+     40.6
+    ],
+    [
+     78.6,
+     40.4
+    ],
+    [
+     78.8,
+     35.2
+    ],
+    [
+     79.2,
+     40.6
+    ],
+    [
+     79.4,
+     35.6
+    ],
+    [
+     79.4,
+     41.6
+    ],
+    [
+     79.4,
+     43.4
+    ],
+    [
+     79.4,
+     43.6
+    ],
+    [
+     79.6,
+     41
+    ],
+    [
+     79.6,
+     41.6
+    ],
+    [
+     79.6,
+     44.2
+    ],
+    [
+     79.8,
+     47.2
+    ],
+    [
+     80,
+     36.2
+    ],
+    [
+     80.2,
+     42.6
+    ],
+    [
+     80.2,
+     44.8
+    ],
+    [
+     80.2,
+     47.8
+    ],
+    [
+     80.4,
+     45.8
+    ],
+    [
+     80.6,
+     42.6
+    ],
+    [
+     80.6,
+     45.4
+    ],
+    [
+     80.8,
+     42.4
+    ],
+    [
+     80.8,
+     46.4
+    ],
+    [
+     81,
+     36.6
+    ],
+    [
+     81,
+     46.6
+    ],
+    [
+     81.4,
+     39.4
+    ],
+    [
+     81.4,
+     39.8
+    ],
+    [
+     81.4,
+     40.8
+    ],
+    [
+     81.4,
+     44
+    ],
+    [
+     81.4,
+     48.2
+    ],
+    [
+     81.6,
+     39.6
+    ],
+    [
+     81.6,
+     43.2
+    ],
+    [
+     81.6,
+     44
+    ],
+    [
+     81.8,
+     41.4
+    ],
+    [
+     81.8,
+     41.6
+    ],
+    [
+     81.8,
+     46
+    ],
+    [
+     82,
+     46.8
+    ],
+    [
+     82.2,
+     39.2
+    ],
+    [
+     82.2,
+     47.8
+    ],
+    [
+     82.4,
+     36.6
+    ],
+    [
+     82.6,
+     36.8
+    ],
+    [
+     82.6,
+     42.4
+    ],
+    [
+     82.6,
+     45.4
+    ],
+    [
+     82.6,
+     48
+    ],
+    [
+     83.2,
+     38.2
+    ],
+    [
+     83.2,
+     38.6
+    ],
+    [
+     83.2,
+     43.4
+    ],
+    [
+     83.2,
+     43.6
+    ],
+    [
+     83.2,
+     47.2
+    ],
+    [
+     83.4,
+     40.4
+    ],
+    [
+     83.4,
+     40.6
+    ],
+    [
+     83.4,
+     45.8
+    ],
+    [
+     83.4,
+     52.2
+    ],
+    [
+     83.6,
+     39.2
+    ],
+    [
+     83.6,
+     40
+    ],
+    [
+     83.6,
+     43.8
+    ],
+    [
+     83.6,
+     45.2
+    ],
+    [
+     83.6,
+     45.8
+    ],
+    [
+     83.6,
+     52.4
+    ],
+    [
+     83.6,
+     52.6
+    ],
+    [
+     83.8,
+     42.4
+    ],
+    [
+     84,
+     36.8
+    ],
+    [
+     84,
+     42.8
+    ],
+    [
+     84,
+     50.6
+    ],
+    [
+     84.2,
+     49.6
+    ],
+    [
+     84.4,
+     48.4
+    ],
+    [
+     84.4,
+     48.8
+    ],
+    [
+     84.6,
+     36.6
+    ],
+    [
+     84.6,
+     47.4
+    ],
+    [
+     84.6,
+     47.6
+    ],
+    [
+     84.6,
+     48.6
+    ],
+    [
+     84.8,
+     44.2
+    ],
+    [
+     84.8,
+     45.8
+    ],
+    [
+     85,
+     45.4
+    ],
+    [
+     85.4,
+     36.4
+    ],
+    [
+     85.6,
+     36.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7037,
+   "name": "Thaurissan Firewalker",
+   "coord": [
+    54,
+    40
+   ],
+   "coords": [
+    [
+     54,
+     40
+    ],
+    [
+     54,
+     40.6
+    ],
+    [
+     54.2,
+     39.4
+    ],
+    [
+     55.4,
+     37.2
+    ],
+    [
+     55.6,
+     37.4
+    ],
+    [
+     55.8,
+     37.6
+    ],
+    [
+     56.4,
+     36.2
+    ],
+    [
+     56.6,
+     36.2
+    ],
+    [
+     61.2,
+     41.4
+    ],
+    [
+     61.2,
+     41.8
+    ],
+    [
+     61.4,
+     37
+    ],
+    [
+     61.6,
+     37.4
+    ],
+    [
+     61.8,
+     37.6
+    ],
+    [
+     62.4,
+     39.8
+    ],
+    [
+     62.8,
+     38.4
+    ],
+    [
+     62.8,
+     39.6
+    ],
+    [
+     63,
+     38.8
+    ],
+    [
+     63.2,
+     36.2
+    ],
+    [
+     63.2,
+     36.6
+    ],
+    [
+     63.6,
+     39
+    ],
+    [
+     64,
+     40
+    ],
+    [
+     64.4,
+     36.4
+    ],
+    [
+     64.4,
+     36.8
+    ],
+    [
+     64.6,
+     33.6
+    ],
+    [
+     64.6,
+     36.4
+    ],
+    [
+     64.6,
+     36.8
+    ],
+    [
+     64.8,
+     42.8
+    ],
+    [
+     65,
+     34.6
+    ],
+    [
+     65.4,
+     39.4
+    ],
+    [
+     65.4,
+     39.8
+    ],
+    [
+     65.4,
+     41.4
+    ],
+    [
+     65.4,
+     41.6
+    ],
+    [
+     65.8,
+     42.4
+    ],
+    [
+     65.8,
+     42.6
+    ],
+    [
+     66,
+     40.2
+    ],
+    [
+     66.2,
+     40.6
+    ],
+    [
+     66.4,
+     44
+    ],
+    [
+     66.6,
+     44
+    ],
+    [
+     69.2,
+     38.4
+    ],
+    [
+     69.4,
+     38.6
+    ],
+    [
+     69.6,
+     38.4
+    ],
+    [
+     69.6,
+     38.6
+    ],
+    [
+     71,
+     36.2
+    ],
+    [
+     71,
+     36.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7038,
+   "name": "Thaurissan Agent",
+   "coord": [
+    54,
+    40.4
+   ],
+   "coords": [
+    [
+     54,
+     40.4
+    ],
+    [
+     54,
+     40.6
+    ],
+    [
+     55.4,
+     37.2
+    ],
+    [
+     55.6,
+     37.2
+    ],
+    [
+     56,
+     36.2
+    ],
+    [
+     61.2,
+     41.8
+    ],
+    [
+     61.4,
+     37.2
+    ],
+    [
+     61.4,
+     37.6
+    ],
+    [
+     61.6,
+     37.4
+    ],
+    [
+     62,
+     37.6
+    ],
+    [
+     62.8,
+     38.4
+    ],
+    [
+     62.8,
+     39.6
+    ],
+    [
+     63,
+     38.8
+    ],
+    [
+     63.2,
+     36.4
+    ],
+    [
+     63.2,
+     36.6
+    ],
+    [
+     64.4,
+     36.4
+    ],
+    [
+     64.4,
+     36.6
+    ],
+    [
+     64.6,
+     34.2
+    ],
+    [
+     64.6,
+     36.4
+    ],
+    [
+     64.6,
+     36.8
+    ],
+    [
+     65,
+     34.6
+    ],
+    [
+     65.4,
+     39.4
+    ],
+    [
+     65.4,
+     40
+    ],
+    [
+     65.4,
+     41.4
+    ],
+    [
+     65.4,
+     41.6
+    ],
+    [
+     65.8,
+     42.4
+    ],
+    [
+     65.8,
+     42.6
+    ],
+    [
+     66,
+     40.2
+    ],
+    [
+     66,
+     40.6
+    ],
+    [
+     66.2,
+     43.6
+    ],
+    [
+     66.6,
+     44
+    ],
+    [
+     69.2,
+     38.4
+    ],
+    [
+     69.4,
+     38.6
+    ],
+    [
+     69.6,
+     38.4
+    ],
+    [
+     69.6,
+     38.6
+    ],
+    [
+     71,
+     36.2
+    ],
+    [
+     71,
+     36.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 9043,
+   "name": "Scarshield Grunt",
+   "coord": [
+    34,
+    28
+   ],
+   "coords": [
+    [
+     33.2,
+     26.8
+    ],
+    [
+     34,
+     28
+    ],
+    [
+     35,
+     27.8
+    ],
+    [
+     35.6,
+     27.4
+    ],
+    [
+     37.2,
+     26.6
+    ],
+    [
+     37.4,
+     26.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 9044,
+   "name": "Scarshield Sentry",
+   "coord": [
+    33.6,
+    28
+   ],
+   "coords": [
+    [
+     33.6,
+     28
+    ],
+    [
+     34.4,
+     26.6
+    ],
+    [
+     34.6,
+     28.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 203138,
+   "name": "Anvilrage Overseer",
+   "coord": [
+    26,
+    23
+   ],
+   "coords": [
+    [
+     26,
+     23
+    ],
+    [
+     26.2,
+     22
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 74,
+   "date": "2006-12-14T02:09:27-06:00",
+   "body": "This quest at first seems pretty daunting, but it's actually quite simple and just a little time consuming once you know how to acquire all of the mats. The effort is well worth it, having a +100 hp enchant to your legs and head piece will make a big difference!\r\n\r\nFirst, night dragon's breath can be acquired in Felwood. Depending on whether your Alliance or Horde, you'll have to talk to the appropiate NPC to begin the cleansing of Felwood, which will involve you kill the Warpwood Shredder's in the northern part of the zone to collect shards. The Horde NPC that begins this quest is right off the road, a little further north than the druid tents and to the left. Once you've completed this first stage, you'll be given a Cenarion Beacon (hang on to this, you need it to collect corrupted soul shards!). \r\n\r\nNow you must collect six corrupted soul shards and in exchange, you'll receive two salves (And you need four to collect night dragon's breath). Corrupted soul shards have a chance to drop off any mob in the zone. Once you have four salves, you can cleanse the night dragon's breath plants. They are located at the following coords:\r\n\r\n1st Location: 35,60\r\n\r\n2nd Location: 50,30\r\n\r\n3rd Location: 40,78\r\n\r\n4th Location: 42,13\r\n\r\nOnce you've cleansed the plant, you can collect the dragon's breath (usually yields 4-5 per use). Once you've collected from a plant, it takes about a half an hour before you can collect again. The nice thing is, if you hang around and wait, you can just keep collecting, you don't need any more salve! So I'll usually just hang around and keep collecting from the same plant.\r\n\r\nThe rest of the quest is easy. Hop on over to the Blasted Lands (Horde have a flight path to Stonard in Swamp of Sorrows, Alliance has Nethergard Keep right in the zone I believe). A blood elf in the ruins near the entrance gives the quest for the lung juice.\r\n\r\nThe scorpids are right near the entrance with the hyena's and vultures and the drop rate is fairly high. A little further south near defiler's rise you can find the basilisks, who also have a fairly high drop rate, along with hellboars, whose drop rates are quite a bit lower (This is what you'll be grinding on for the longest time). Remember when you're grinding that the hellboars, basilisks, and felhoudnds all share the same spawn point, so kill everything, it'll keep the hellboars respawning much quicker! There's also another variety of boar further east that will drop the blasted boar lungs as well. Once you've gathered everything, hope back over to Mathredis and you're done!",
+   "replies": [
+    "Great guide, though I'd recommend killing the Ashmane Boars rather than the Hellboars as they seem to have a much higher drop rate and close to the spawns of the Basilisks and the Scorpids.",
+    "As an Enchanter, to obtain Cenarion Plant Salves for the Night Dragon's Breath youre better off just getting 4 Lesser Nether Essence's.  They should be pretty cheap and way faster than killing for all those shards.",
+    "Awesome guide bud! I think I used this guide way back in the day, it was very helpful then as well!"
+   ]
+  },
+  {
+   "rating": 25,
+   "date": "2006-11-06T17:21:26-06:00",
+   "body": "Bring all the materials once you present him the Libram. \r\nThis way you will save yourself a lot of time (just stating the obvious here I know). :)",
+   "replies": [
+    "More specifically, get your Libram of Constitution, and Black Diamond, then get your Night Dragon's Breath from Felwood.  After you have all those, THEN head to the Blasted Lands to make a Lung Juice Cocktail, and save some time as it won't take long to get to Flame Crest from there and turn it all in."
+   ]
+  },
+  {
+   "rating": 22,
+   "date": "2007-05-19T22:01:43-05:00",
+   "body": "Damn i wish you got XP or Rep for this.\nbut the +100 hp is worth it.\nwhat you want to do is, if you're making a 19 twink, regardless of class, make it an engineer and get them to lvl 150. make yourself some green tinted goggles https://www.wowhead.com/forever/item=4385/green-tinted-goggles\nand send them to your main without putting them on, they are BOE so its cool.\nuse the lesser arcanum of constitution on them then send them back to the alt.\nsome people think if you do this it will make the item soul bound to you, but that's not true. if you're worried about it, give the goggles to a freind and have them put them in not to be traded and do it that way, either way you will be fine, no soul bound, nothing. then i would suggest a nice +100 hp to chest chant to go with it (damn patch you can't do +150 hp to chest anymore for a lvl 19 twink) but i just get the +50 hp to back to make up for it.",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2007-05-04T17:13:43-05:00",
+   "body": "The place where you find the quest and turn it in is Burning Stepps, Flame Cest (65,23) \n\nits a Bloodelf :P",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2005-05-31T04:35:05-05:00",
+   "body": "There's another Corrupted Night Dragon plant at 42, 14 near Jadefire Run.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2007-04-01T01:23:19-05:00",
+   "body": "Its an extra 100 hp its worth the money",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-06-19T02:20:44-05:00",
+   "body": "Any level requirement on the \"enchant\" bit ?\nWondering if this is possible to get on a low lvl twink =)\nI see this question has been asked before, but can i get a clear yes or no ? (obviuosly doing the quest bit with another char).",
+   "replies": [
+    "The quest can be completed by another character and then applied to your twink's item like an enchant.  Note that the quest reward is BOP so you can't mail it to yourself; someone has to attach for me.  I find the best way is to make a deal with another top end twink, and offer that you'll apply an arcanum to their item if they apply one to yours.  I got 100 hp to head and legs using this method :)."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-14T00:35:33-05:00",
+   "body": "\"The thing\" sells approximately for 30-35 gp, black diamond takes another 30 and finally 30 you pay to the filthy reach elf Mathredis. This 100 hp enchant usually costs 100 gp.",
+   "replies": [
+    "On my server the Book Costs between 5 - 20g, depending on how many there are out on the AH, the juice is optained thru a simple quest, the Night Dragons breath can  be tricky scince theres a lot of ppl farming those but i got about 20 of them in 1.5h so 4 shouldnt be to hard to get and the Black Diamond has a median price for 3g, i bought 4 Diamonds for 7g and sold the 2 i didnt need for 3g each so it costed me 50s each. If u get a good deal on the book the enchant should cost under 50g, wouldve costed like 20g if it wasnt for that sneaky elf quest guy who demands 30g....THe prices is ofc diff",
+    "I wonder what servers you guys are playing on where a Black Diamond is costing you 30+ gold! I play on 6 different servers (mostly RP and RPPvP) and have stacks of Black Diamonds that I can't sell to save my life. They sell for about 16 silver when they do sell and there are usually about 20 entries in the auction house to compete with me. On a lucky day I can sell one for 25 silver, but that is unusual. I've been trying to sell these things for almost a month now every day. I thought maybe you all misunderstood the quest and assumed it meant Pristine Black Diamond (which it doesn't) and even "
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-27T05:58:51-05:00",
+   "body": "wow that sux that your diamonds cost so much, I got 4 out of 1 BRD run, and it wasn't even a full run.. and I think a couple other ppl got 1 or 2... 8 had to of dropped that run. so yea sux for yall",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-31T07:10:43-06:00",
+   "body": "ok lets say i do the quest and i have the Lesser Arcanum of Constitution. \nif i use this on a BoE lvl 28 item, does the item remain BoE or it becomes soulbound. I need to know if i can mail the item to my twink. \nThx.",
+   "replies": [
+    "umm... no it won't become soulbound... I enchanted this on Green Tinted Goggles and then mailed it to my twink, so unless blizz has changed it in the last couple months, it shouldn't become soulbound when you enchant it"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-07T22:01:39-05:00",
+   "body": "I'm not sure if this is a change in a recent patch or not, but Arathandris Silversky would not talk to me.  But... a little up the path on your left you can get the quests from Maybess Riverbreeze.  48,63 is the loc.\n\n60 Horde Warrior\n\nEdited, Sun Aug  7 18:20:25 2005",
+   "replies": [
+    "Yeah since youre horde the NPC mentioned in the notes has a little bit of a language barrier, still the same process however 8)"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-27T23:43:56-05:00",
+   "body": "it should be mentioned that you don't always need the salv to loot the plants. alot of times they spawn already cleansed. only need salv if they spawn corrupted. i got all the dragon drops i need for my 2 +100 hp enchants and didn't have to use a salv at all, but it would be safe to collect 4 ahead of time anyway, in case you find a plant and it wants a cleanse. if you wait too long, someone else will get it and you will be waiting forever for a respawn. +100hp is popular, at least on my server, and there were alot of lvl 60s looking for the plant. one spawn was even camped by 60 mage till he got it. then i camped it and got mine.\n\nvery good enchant, best thing you can get to head and legs. some prefer the +20 fire enchant for molten core, but i'd much rather have the hp, this will help everywhere, against everything, rather then just vs fire. also hp=mana as warlock.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-26T23:25:27-06:00",
+   "body": "Okay, I have a twinked rogue. I have all the equipe i need and the enchants, but some1 told me you can libram ut helm and pants. What I want to know is, if i get my 60 brother to do this constitution quest thing, can i put my pants/head in will not be traded and he use on it, or would it not work?",
+   "replies": [
+    "The arcanum is a quest item, hence its Soulbound when you get it. However you can put the armor in the \"will not be traded\" slot in trade window, and apply the enchant through that... like unlocking a lockbox.\n\nEdited, Sat Apr  8 00:24:35 2006"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-18T20:11:52-05:00",
+   "body": "to get the quest as horde you need to speak to Maybess Riverbreeze not the one in the walkthrough",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-13T03:51:19-05:00",
+   "body": "How much do these things sell for?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-11T12:00:40-05:00",
+   "body": "I know this has been asked before but it wasnt really responded to that well..Can i use this on a item then send it to another char or will it bind it to the character that uses it?",
+   "replies": [
+    "yes you can... one of the few you can do.\n\nI cant seem to enchant shoulders for my twink tho its anoying as hell.",
+    "yes you can DEFINATELY enchant these and sent it..... i did on the engineering goggles that have +8 stam +9sprt or whatever, there is no lvl req on the item so i dunno if that makes a difference i dont think it does, i'm sure you could enchant any BOE headpiece and trade or send it to another char"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-13T04:02:48-05:00",
+   "body": "As most of us know this can be used on a lvl 19 twink , or any ther lvl , but the question is whats better for a rogue 8 agility or 100 hp ?",
+   "replies": [
+    "I fail to see how you can get this on low level twinks.\n\nThe felwood items are BoP and so are the Juices.\n\nBoth these quests have a minimal level before you can get them.",
+    "simple. u can put a libram enchant onto another persons equipment. so a high lvl person can farm this quest, then put it onto some1 else's twink. although it can not be the same person doin it for there own twink. so it is possible to do. ",
+    "Read 2 posts below yours. it is possible."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-23T07:44:14-05:00",
+   "body": "Note that it takes [b]four[/b] Cenarion Plant Salves to cleanse a single Night Dragon's Breath, and neither of the two plants I cleansed yielded four.  Best you bring eight salves when collecting.\n\n[i][small]Edited, Sep 23rd  2006 at  7:02am EDT by Veroswen[/small][/i]\n\n[i][small]Edited, Sep 23rd  2006 at  6:57am EDT by Veroswen[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-05-16T00:26:43-05:00",
+   "body": "I'm seeing both yes and no answers here so getting confused - can I mail my goggles to my lvl 60 and put in on them and then mail it back to my twink?",
+   "replies": [
+    "It does NOT become soul bound."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-04T16:12:31-05:00",
+   "body": "The prolblem with me is think i did the quest already for lung juice is it repeatable??",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-12T23:56:01-05:00",
+   "body": "Just a small clarification, for each plant you will need 12 corrupted shards. Tonight I got 3 NDB from one plant so be prepared to get 24 shards. Another note, the arcanum is soul bound once made but can be enchanted through the trade window. Also for some reason the comments have been down rated about the lung juice quest. It is repeatable if you intend to do multiple librams.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-16T21:04:21-05:00",
+   "body": "Is it possible to add to a BoP?",
+   "replies": [
+    "Yes, the person with the Arcanum can enchant it on someone else's item just like an Enchanter would."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-11-01T20:16:12-06:00",
+   "body": "Just wanted to point out that horde have to do the version of cleansing felwood from [url=/npc=9529]Maybess Riverbreeze[/url], had me stumped for a while :)",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-11-09T05:52:20-06:00",
+   "body": "getting the night dragons breath was the worst thing ive ever had to do in this game.  i would rather run uldaman and wailing caverns 1000 times in a row than ever try to farm for just 1 of these stupid flowers again.  whoever thought this up deserves to get shot.",
+   "replies": [
+    "not sure whats wrong with you but whenever I need these plants (great in PvP) I spend an hour or two and walk away with almost 100 of each with little trouble...",
+    "depends on what kind of server you're on I suppose...\nWhen I farm them with my Palli on a pve server I can get quite a few\nOn my Warlock on a pvp server its a bit more difficult primarilly b/c there are ganker camping them as well as other people farming who don't always like to share (although its still not that hard)",
+    "As there are only 4 spawn points for this plant in Felwood, each on a 25 minute timer, giving an average of 6 per time, then you are either:\n\nvastly exaggerating the time frame\n\nor you are managing to get every single plant, every single time for 2 hours, which could only really be done on a low population server at 4am\n\n\nThese things are a pain to get, and I recommend getting them on a quest by quest basis.",
+    "Or maybe it's hard to get cause people are picking 100 when they only need 4."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-04-17T10:47:33-05:00",
+   "body": "You can't trade quest items. Just a note :]",
+   "replies": [
+    "can be used on either people's gear in the \"not to be traded box,\" similar to enchanting\n\nis labled\namalgamation of (whatever libram)"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-12T03:16:35-06:00",
+   "body": "I can not interact with the plant at all when i mouse over it nothing happens. Not a very happy camper right now...",
+   "replies": [
+    "Someone's already picked it.  They're on a 25-minute timer and highly contested so . . . grab a cup of joe and camp that plant.  Generally get around 6 ND's per pick."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-05-24T20:38:15-05:00",
+   "body": "Ok, so there are supposed to be 4 locations for the Night Dragon's Breath, one is by Jaedenar, 2nd is by the graveyard.  Anyone know where the other 2 are?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-10-31T07:00:46-06:00",
+   "body": "deleted double post.\n\n\n\n[i][small]Edited, Oct 31st  2006 at  1:12am PST by viskitas[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-04-18T14:18:32-05:00",
+   "body": "Is the Night Dragons Breath a random spawn where the plants spawn, or is it at a specific location?   \n\nI can't seem to find it, but I have found many other plants rewarding stamina food, buffs and heals.",
+   "replies": [
+    "Just outside the entrance to the upper dungeon in Jaedenar. If it's not there then it isn't available at the time, someone grabbed it before you.\n\nEdited, Thu May  5 04:47:31 2005"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-06T08:43:50-05:00",
+   "body": "I prefer not to download a mod just to search for coordinates for these things. So any maps with marked spots?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-10-15T10:44:18-05:00",
+   "body": "The drop rate on Black Diamonds was increased dramatically in a recent patch and that is why they use to be 30-50g and are now around 1g.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-04-12T11:40:37-05:00",
+   "body": "I have no idea if this changes between servers or anything, but on ER I've only seen one night dragon's breath and it always spawns just outside the entrance leading down into the nest of the cultists (the upper one, where you do the escort quest and such). Hope that helps someone.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-05-15T20:46:03-05:00",
+   "body": "I found some night dragons breath next to the cemetary in Felwood.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-05-24T17:47:49-05:00",
+   "body": "Hm.. I found Libram of Constitution yesterday. As a priest i don't think this quest is worth the time to complete it. Maybe when I'm 60 and wearing the best equipment i could think about this. Those +50int/spi quests rule. :D",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-07-21T17:38:58-05:00",
+   "body": "locations on night dragon's breath plants pls. all 4.",
+   "replies": [
+    "35,58 near the entrance to the dungeon at jaedenar\n40,78 a little bit north of jadefire glen\n\ngo to the plants first, before getting the salves. many times i've gone to the plants and they were already cleansed (you can loot the item once they are cleansed). i got 10 night dragon's breath from one plant and i didn't use any salves.",
+    "Same but got 8 didnt know that til I farmed like 20 salves haha was a pleasant surprise"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-05-29T05:21:38-05:00",
+   "body": "Can you do this quest over and over? Or is it a one time deal?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-05-28T09:57:40-05:00",
+   "body": "I found two Librams, this one and another one (cannot say whicht one - i Play the german Version), but how do i attain the QUest?\n\nOr do i need no quest and jaust have to collect all the items an use the together?\n\nThanks for Help!",
+   "replies": [
+    "This information is correct for some of the Librams. For this one however, the information is incorrect. The person you are looking for is Mathredis Firestar in northern Burning Steppes. Have the Libram on your body and he will give you the quest."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-11-20T22:39:29-06:00",
+   "body": "I'm putting this libram on pvp legs, gotta squeese all the hp you can get ;)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-07-14T17:24:52-05:00",
+   "body": "Thorough walkthrough, should help people that wonders how to do this quite well.\nGood job",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-07-18T23:35:19-05:00",
+   "body": "I've combed this zone for two days and have yet to find the plant.  Does anybody have a definitive location besides the one coordinate above?",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2007-04-09T23:16:32-05:00",
+   "body": "is it possible to get this on a twink rogue? (19) or can it only be used on the items of whoever completes the quest?",
+   "replies": [
+    "just to clarify, he used it on a BoE head item"
+   ]
+  },
+  {
+   "rating": -2,
+   "date": "2005-04-08T10:05:09-05:00",
+   "body": "Where are these night dragons breath in Felwood? I've been lookin all over the place and they are hard to find.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2005-01-28T06:15:28-06:00",
+   "body": "This quest wasnt too hard, but in order to get the gem the questgiver (Blood Elf in Burning Steppes for horde) requires 30g along with the other components for the quest. That wouldnt be so bad if the gem was permenant, but it poofs after 1 use so dont waste your money on this quest.",
+   "replies": [
+    "Ahh, I think you miss the point here. The point is you can permantly add 100hps to your legs or head, which is a slot that you cannot get enchanted. For a warrior or Pally, 100 hps is big.. I did this quest and it was not difficult. Hard part is finding a Libram.\n",
+    "true you can't enchant legs but you CAN put Armor Kits on them for an additional 40AC personally I think that it's cheaper just to re-equip a few item to achive the 100 HP, heck, for 30 gold you can get a LOT more than 100HP extra if ya shop around a bit.  Oh, and a side note, I found the Libram in Western Plaguelands off of an undead, and sold it in AH for 20 gold :)  I think thats a much better use for it.",
+    "And if you have the best gear that money can buy? 100 hp is 100 hp no matter how you look at it.",
+    "You still can't get other enchants for your leg/head - and especially not with the high bonus of +10 stamina.\n\nAnd yes of course you can get all the other enchants for 30g - but its still 30g for enchanting an item, which no enchanter can give you.\n\nSo my conclusion is that it is worth all the money!",
+    "An additional ~50 armor instead of +100 hp? I think not.\n\nAs others have mentioned, this is intended for your end-game equipment. I just got Nightslayer Pants. I have no hesitation spending 50-100g (buying libram, diamond, etc) to get +100 health on it."
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2005-03-31T02:04:53-06:00",
+   "body": "What is btter, 8 stamina or 100 hp?",
+   "replies": [
+    "at least for my paladin 8 sta = 80 hps and 100hp = 100 hps /shrug",
+    "I'll confirm that. The general formula is, 1 Sta = 10 HP.\n\nEven for a Warlock with the +15% stamina contribution to health talent, which defines the formula as 1 Sta = 11.5 health, the 8 from the Stamina enchant only gets you 92 health."
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2005-02-20T10:31:51-06:00",
+   "body": "Where do you get the Night Dragons Breath?",
+   "replies": [
+    "Id like to know this also I got a Libram as a drop off a random mob in Westren Plauge lands Bought a Black Diamond where do we get Night Dragons Breath?",
+    "the Night Dragons Breath is found in Felwood, but can only be collected after the plant is cleansed with a Cenarion Salve"
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2019-11-15T17:07:29-06:00",
+   "body": "Hey everybody! Hope you are loving Wow Classic! I am having a little problem and here is what I posted on the forums. Any help would be super awesome! \r\n\r\nOnce Cleansing Felwood has been completed, there is a repeatable follow up quest which allows for the cleansing of certain corrupted plants in Felwood, and then harvesting that plant to receive items that provide stat buffs.\r\n\r\nThese corrupted plants are not on my map. \r\n\r\nFirst thought: Do I have the Cenarion Beacon? Yes, I have the Cenarion Beacon in my bags.\r\n\r\nSecond thought: Yes, it is possible that other players have harvested these plants already. I have repeatedly visited the known locations of the corrupted plants and they just aren't there. It is statistically improbable that enough other players are working on this quest and I have not seen them. \r\n\r\nNow, I know that improbable is not compelling... I spent 2 hours standing on the spot of what should have been a node and it did not appear/respawn; other herbs did respawn. The posted respawn time is 30 minutes. I performed /reload many times. I logged out and in twice. I completely zoned out and flew/ran back to the spot. No corrupted plant. I scouted all of the known locations in Felwood again...this in a new day, no corrupted plants.\r\n\r\nSure would like to get this fixed guys. Thank you.",
+   "replies": [
+    "those plants have nothing to do with herbs or herbalisim and wont be trackable as such. also it doesnt seem that questie adds them to the map either, just ride around and look for round plants with green gas effects on them, they are small. If you are horde one spawns in the horde fp there"
+   ]
+  },
+  {
+   "rating": -9,
+   "date": "2005-07-27T00:58:02-05:00",
+   "body": "Hmmm..I found this person after 10 mins of searching, she's comoflaged :D, I spoke to her but she's foreign ._., so I can't get the night dragon's breath for my 100 HP enchant=/ any Ideas?",
+   "replies": [
+    "[quote]she's foreign[/quote]\n\nthat's funny on so many levels :)"
+   ]
+  },
+  {
+   "rating": -9,
+   "date": "2006-03-01T02:35:28-06:00",
+   "body": "Anyone know a good spot to farm the Hellboars?",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2005-05-24T20:38:14-05:00",
+   "body": "Edited, Tue May 24 16:38:51 2005",
+   "replies": []
+  }
+ ]
+}

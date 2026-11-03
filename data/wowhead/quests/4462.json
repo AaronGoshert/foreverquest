@@ -1,0 +1,97 @@
+{
+ "id": 4462,
+ "name": "Corrupted Night Dragon",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 3,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": {
+  "type": "object",
+  "id": 174684,
+  "name": "Corrupted Night Dragon",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    35.1,
+    59
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 174684,
+  "name": "Corrupted Night Dragon",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    35.1,
+    59
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Progress You have found a sickly, corrupted version of what appears to be a night dragon plant.  The fruits that hang from the plant appear rotten and poisonous.  It desperately needs some sort of attention if it is to be turned back to normal. Cenarion Plant Salve  ( 4 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11516,
+   "name": "Cenarion Plant Salve",
+   "count": 4,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Cenarion Plant Salve",
+   "count": 4,
+   "type": "item",
+   "id": 11516
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 2,
+   "id": 174684,
+   "name": "Corrupted Night Dragon",
+   "coord": [
+    35.1,
+    59
+   ],
+   "coords": [
+    [
+     35.1,
+     59
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 2,
+   "id": 174684,
+   "name": "Corrupted Night Dragon",
+   "coord": [
+    35.1,
+    59
+   ],
+   "coords": [
+    [
+     35.1,
+     59
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

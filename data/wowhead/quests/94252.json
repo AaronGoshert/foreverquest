@@ -1,0 +1,95 @@
+{
+ "id": 94252,
+ "name": "Craftsman's Writ: Red Woolen Boots",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 4201,
+  "name": "Ziz Fizziks",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59,
+    62.4
+   ],
+   [
+    59,
+    62.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Red Woolen Boots  ( 1 ) Red Woolen Boots  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264052,
+   "name": "Craftsman's Writ: Red Woolen Boots",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4313,
+   "name": "Red Woolen Boots",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Red Woolen Boots",
+   "count": 1,
+   "type": "item",
+   "id": 264052
+  },
+  {
+   "text": "Red Woolen Boots",
+   "count": 1,
+   "type": "item",
+   "id": 4313
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 4201,
+   "name": "Ziz Fizziks",
+   "coord": [
+    59,
+    62.4
+   ],
+   "coords": [
+    [
+     59,
+     62.4
+    ],
+    [
+     59,
+     62.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-04T11:46:35-05:00",
+   "body": "The pouch you get has around 34 silver in it.",
+   "replies": []
+  }
+ ]
+}

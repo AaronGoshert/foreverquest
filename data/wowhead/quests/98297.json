@@ -1,0 +1,155 @@
+{
+ "id": 98297,
+ "name": "Stopping the Cycle",
+ "level": 34,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2700,
+ "start": {
+  "type": "npc",
+  "id": 270637,
+  "name": "Howin Kindfeather",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    49.4,
+    42
+   ],
+   [
+    49.6,
+    42
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 270637,
+  "name": "Howin Kindfeather",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    49.4,
+    42
+   ],
+   [
+    49.6,
+    42
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Kill the Subdued Dragonspawn at the Dragonmaw Gates for Howin Kindfeather .   Subdued Dragonspawn slain  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 271373,
+   "name": "Subdued Dragonspawn",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Subdued Dragonspawn slain",
+   "count": 1,
+   "type": "npc",
+   "id": 271373
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 270637,
+   "name": "Howin Kindfeather",
+   "coord": [
+    49.4,
+    42
+   ],
+   "coords": [
+    [
+     49.4,
+     42
+    ],
+    [
+     49.6,
+     42
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 270637,
+   "name": "Howin Kindfeather",
+   "coord": [
+    49.4,
+    42
+   ],
+   "coords": [
+    [
+     49.4,
+     42
+    ],
+    [
+     49.6,
+     42
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "requirement",
+   "type": 1,
+   "id": 271373,
+   "name": "Subdued Dragonspawn",
+   "coord": [
+    77.2,
+    46.6
+   ],
+   "coords": [
+    [
+     77.2,
+     46.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2026-10-14T01:32:57-05:00",
+   "body": "'Stopping the Cycle' Questchain:\r\n\r\n[ol]\r\n[li][url=https://www.wowhead.com/forever/quest=98223/]Old Habits[/url]: This quest starts from a book next to [url=https://www.wowhead.com/forever/npc=2091/chieftain-nekrosh]Chieftian Nek'rosh[/url] (naturally found while completing [url=https://www.wowhead.com/forever/quest=474/defeat-nekrosh]Defeat Nek'rosh[/url]) and picking up the book.[/li]\r\n[li](These may be completed independently from the proper quest chain, but must be marked as completed to continue.)[/li]\r\n[ul]\r\n[li][li][url=https://www.wowhead.com/forever/quest=98245/razormaw-needling]Razormaw Needling[/url] [/li][/li]\r\n[li][li][url=https://www.wowhead.com/forever/quest=98246/trying-times]Trying Times[/url][/li][/li]\r\n[/ul]\r\n[li][url=https://www.wowhead.com/forever/quest=98230/this-land-was-their-land]This Land Was Their Land[/url][/li]\r\n[li][url=https://www.wowhead.com/forever/quest=98291/death-to-the-dragonmaw]Death to the Dragonmaw[/url][/li]\r\n[li][url=https://www.wowhead.com/forever/quest=98297/stopping-the-cycle]Stopping The Cycle[/url]: Rewards, pick one of  the following: [url=https://www.wowhead.com/forever/item=281313/trusty-sword]Trusty Sword[/url], [url=https://www.wowhead.com/forever/item=281312/fallen-dragons-scepter]Fallen Dragons Scepter[/url], [url=https://www.wowhead.com/forever/item=281314/subdued-dragons-fang]Subdued Dragons Fang[/url][/li]\r\n[li][url=https://www.wowhead.com/forever/quest=98300/word-to-ironforge]Word To Ironforge[/url][/li]\r\n[/ol]",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2026-10-04T07:10:54-05:00",
+   "body": "A rather large elite chain. \r\n\r\n\r\nYou also need to do: \r\n\"Forced Disarmament\" (quest starts when u loot a crate near 60.8. 49.8). There are elite Orcs nearby (Loot the crates for the armaments)\r\n\r\nYou also need to do \"War banners\" and \"From the Ashes\" (Loot them in angerforge encampment and destroy the plans there too)\r\n\r\n\r\nTurn all of those in to \"Captain Stoutfist\" in Menethil and you will recieve \"Nekrosh's Gambit\" (Destroying Catapults in the angerforge encampment) \r\nAfter that \"Defeat Nekrosh\" @ 53.3/54.2. \r\n\r\nU will get the followquest \"This land was their land\" @ 49/42\r\n\r\nYou could have completed it before, or you can do it now \"Razormaw Needlings\" And \"Trying times\" from Howin Kindfeather.\r\n\r\nAfter completing that u will get \"Death to the Dragonmaw\". \r\n\r\nAnd then finally you will get \"Stop the cycle\" Kill the Spawn @ 76,7/45,5, rewarding some nice blue items!\r\n\r\nBring some friends.",
+   "replies": [
+    "Great info - Got it done tonight thanks to your post, would've had no clue where to start otherwise. Cheers!",
+    "Clear uphill of lvl34, drag up and kill closest mage/lock, dot/pull lvl34 at max distance uphill, kill, loot. Mage/locks respawn almost instantly."
+   ]
+  },
+  {
+   "rating": -3,
+   "date": "2026-10-03T12:12:18-05:00",
+   "body": "[quest=98293 domain=forever] starts this quest chain \nleads to [quest=98291 domain=forever]\nelites so bring friends",
+   "replies": [
+    "your comment bugged"
+   ]
+  }
+ ]
+}

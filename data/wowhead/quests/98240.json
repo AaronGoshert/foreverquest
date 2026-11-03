@@ -1,0 +1,110 @@
+{
+ "id": 98240,
+ "name": "Crimson Crate Delivery",
+ "level": 29,
+ "reqlevel": 19,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1200,
+ "start": {
+  "type": "npc",
+  "id": 2094,
+  "name": "James Halloran",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    8.4,
+    55.8
+   ],
+   [
+    8.6,
+    55.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 270637,
+  "name": "Howin Kindfeather",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    49.4,
+    42
+   ],
+   [
+    49.6,
+    42
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Bring the Crimson Crate to Howin Kindfeather off the road to the east of Menethil Harbor. Crimson Crate (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 280099,
+   "name": "Crimson Crate",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  98072,
+  98240,
+  98245
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 2094,
+   "name": "James Halloran",
+   "coord": [
+    8.6,
+    55.6
+   ],
+   "coords": [
+    [
+     8.4,
+     55.8
+    ],
+    [
+     8.6,
+     55.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 270637,
+   "name": "Howin Kindfeather",
+   "coord": [
+    49.4,
+    42
+   ],
+   "coords": [
+    [
+     49.4,
+     42
+    ],
+    [
+     49.6,
+     42
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

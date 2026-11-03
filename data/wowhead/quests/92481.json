@@ -1,0 +1,114 @@
+{
+ "id": 92481,
+ "name": "A Student of the Arcane",
+ "level": 2,
+ "reqlevel": 2,
+ "side": 1,
+ "zoneId": -161,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 85,
+ "start": {
+  "type": "npc",
+  "id": 251361,
+  "name": "Rorian the Dayseeker",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    42,
+    23.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251379,
+  "name": "Dorii Brightwhisper",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    41.4,
+    23.4
+   ],
+   [
+    41.4,
+    23.6
+   ],
+   [
+    41.6,
+    23.4
+   ],
+   [
+    41.6,
+    23.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Examine the Glowing Recall Crystal , then speak with Dorii Brightwhisper in Thendal Grove. Glowing Recall Crystal (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 282416,
+   "name": "Glowing Recall Crystal",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 251361,
+   "name": "Rorian the Dayseeker",
+   "coord": [
+    42,
+    23.4
+   ],
+   "coords": [
+    [
+     42,
+     23.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251379,
+   "name": "Dorii Brightwhisper",
+   "coord": [
+    41.6,
+    23.6
+   ],
+   "coords": [
+    [
+     41.4,
+     23.4
+    ],
+    [
+     41.4,
+     23.6
+    ],
+    [
+     41.6,
+     23.4
+    ],
+    [
+     41.6,
+     23.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

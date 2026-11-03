@@ -1,0 +1,60 @@
+{
+ "id": 93226,
+ "name": "Buying Friendship: Magram",
+ "level": 45,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 390,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 253139,
+  "name": "Gorhak",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    66.2,
+    79.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Bring the Totem Tote to the Magram Quartermaster at Magram Village in the Desolace to significantly increase your reputation with that clan. You must be of at least Neutral standing with the Magram Clan Centaur. Totem Tote (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 257685,
+   "name": "Totem Tote",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 253139,
+   "name": "Gorhak",
+   "coord": [
+    66.2,
+    79.4
+   ],
+   "coords": [
+    [
+     66.2,
+     79.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

@@ -1,0 +1,291 @@
+{
+ "id": 4298,
+ "name": "Becoming a Parent",
+ "level": 48,
+ "reqlevel": 37,
+ "side": 1,
+ "zoneId": 357,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 440,
+ "start": {
+  "type": "npc",
+  "id": 9660,
+  "name": "Agnar Beastamer",
+  "zone": "The Hinterlands",
+  "zoneId": 47,
+  "coords": [
+   [
+    14,
+    43.4
+   ],
+   [
+    14,
+    43.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 9660,
+  "name": "Agnar Beastamer",
+  "zone": "The Hinterlands",
+  "zoneId": 47,
+  "coords": [
+   [
+    14,
+    43.4
+   ],
+   [
+    14,
+    43.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Speak to Agnar Beastamer in the Hinterlands.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 9660,
+   "name": "Agnar Beastamer",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  3843,
+  4297,
+  4298
+ ],
+ "points": [
+  {
+   "zoneId": 47,
+   "zone": "The Hinterlands",
+   "point": "start",
+   "type": 1,
+   "id": 9660,
+   "name": "Agnar Beastamer",
+   "coord": [
+    14,
+    43.6
+   ],
+   "coords": [
+    [
+     14,
+     43.4
+    ],
+    [
+     14,
+     43.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 47,
+   "zone": "The Hinterlands",
+   "point": "end",
+   "type": 1,
+   "id": 9660,
+   "name": "Agnar Beastamer",
+   "coord": [
+    14,
+    43.6
+   ],
+   "coords": [
+    [
+     14,
+     43.4
+    ],
+    [
+     14,
+     43.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 25,
+   "date": "2005-10-15T09:08:02-05:00",
+   "body": "The first person you talk to is in Feralas.&nbsp; Look up the quest freedom for all creatures.&nbsp; After you do that quest talk to the NPC next to the one that gave you the freedom for all creatures quest.&nbsp; Do her series which finally ends in Darnassus.&nbsp; When your done with that head all the way back to feralas and back to the original NPC.&nbsp; he'll send you to Quinten in 1000 needles.&nbsp; do his quest series and you'll finally end up with the pet.&nbsp; its about 8 or 10 quests in total",
+   "replies": []
+  },
+  {
+   "rating": 22,
+   "date": "2005-03-04T02:30:33-06:00",
+   "body": "At level 49 this quest yields 440 XP and gives a slight increase to Darnassus and Wildhammer Clan reputations.",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2005-10-15T09:08:02-05:00",
+   "body": "Very cute, tiny little faerie dragon... thing is a total chick-magnet too.&nbsp; :p\n\nThis series was very fun and also pretty hard.&nbsp; Those damn stealthed wolves gave us fits.\n\n-Panoramix",
+   "replies": [
+    "chick-magnet? lmao"
+   ]
+  },
+  {
+   "rating": 13,
+   "date": "2006-06-27T21:08:02-05:00",
+   "body": "This quest series begins with an elf in Azshara at (65, 45). \n\nFreedom for All Creatures, Free 6 sprites \n\nDoling Justice (part 1) Kill the Taurens \n\nDoling Justice (part 2) Go to Darnassus \n\nAn Orphan Looking For A Home, Come back to the Elf in Azshara to get this quest, go to Thousand Needles \n\nA Short Incubation, Bring 2 Elixir of Fortitudes \n\nThe Newest Member of the Family, Go to Hinterlands in less than one hour \n\nFood for Baby, Get 5 Silvermane Stalker Flank \n\nBecoming A Parent, Get your Sprite Darter Egg!",
+   "replies": [
+    "Girder, your information is very good except for one key point... You go to FERALAS [b]NOT[/b] Azshara.\n\nSimply replace Azshara with Feralas throughout the above post and you've got perfect information."
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2005-10-15T09:08:02-05:00",
+   "body": "To get the quest, you have to do another quest chain before beginning with \"freedom for all creatures\" in Feralas",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-02-01T21:08:02-06:00",
+   "body": "There's quite a few Silvermane Stalkers around 69,55 area.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-03T21:36:50-05:00",
+   "body": "I just saw this thing, and I want it sooooo bad! What do you guys think the minimum lvl I should try this at is?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-05-13T10:05:38-05:00",
+   "body": "OK.. if you have followed the posts and know WHERE To go to the quest giver, the quest can be obtained at lev 42.\n\nTWO SETS OF QUESTS\n\nOnce you have done the timed one and so on, and got your reward in Darnassus Temple of the Moon, it ENDS!\n\nYOU MUST GO BACK to feralis to get the SECOND SET OF QUESTS.\n\nafk to do a tiny bit of research.. brb :D",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-27T21:08:02-05:00",
+   "body": "First of all you start in Feralas by doing the \"Freedom for all creatures\" series, when she after that sends you to Tyrande, go there, and then return to Feralas and talk to the one where it all started. Instructions from there is easy enough for anyone to follow. (Yes that means they tell you EXACTLY how to do, dont worry your little heads, you dont need to think at all)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-08-03T09:08:02-05:00",
+   "body": "Can you get this quest before level 47?&nbsp; Because in the description it says obtained at 47, but it seems to me people have gotten it sooner?&nbsp; Can anyone clarify this for me?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-08-03T09:08:02-05:00",
+   "body": "Well, I found out you can do this quest before lvl 47! Lol...and now I have an adorable pet dragon who flutters and follows me everywhere!&nbsp; YAY!&nbsp; ^__^\n\nPS..thanks everyone for your help on the posts...it made this quest fairly easy, just time consuming.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-12-27T09:08:02-06:00",
+   "body": "well whats been helping me is\nhttp://www.wowwiki.com/Sprite_Darter_Hatchling\nits quite simple and ive been soloing it from the beginning, which im surprised because me being a lvl 42 druid and being able to kill lvl 46-48 is exciting. so far i only got one of the Silvermane Stalker Flanks. but im getting there :D \nhope that the link helps!\n-oka",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-12-27T09:08:02-06:00",
+   "body": "I turned in the quest to Agnar in the Hinterlands, but I missed what he said when I hit complete too fast because I was worried about the time.&nbsp; It sounds silly, but I like to read all my quests no matter how menial, so if anyone has a rundown of what he says when you first get the Sprite Darter egg too him, before he gives you the quest to get meat, I would be greatly appreciative\nP.S. I also missed what he said when I got back from killing the wolves, I hope someone can answer, thanks",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-15T21:08:02-05:00",
+   "body": "the stealthed wolves are mainly found on the road, and especialy before the passage leading from the high land down to shore. have fun =)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-27T21:08:02-05:00",
+   "body": "I found the Silvermane Stalkers along both sides of the road to the south of Skulk Rock.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-09T19:31:06-05:00",
+   "body": "Hehe, i was in a cooking rush and while moving supplies around, i kept trying to cook the poor guy, thinking he was part of a boiled eggs recipe.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-23T19:30:36-05:00",
+   "body": "Anything like this for horde players? Don't fancy farming a whelp.",
+   "replies": [
+    "nope this is an alliance only quest\n"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-08T05:34:21-06:00",
+   "body": "If for any reason you should lose possession of this pet, you will not be able to get it back (unless you can still buy it back from the vendor).\n\nIn my haste, I confused my pet with the [url=/item=11419]Mysterious Unhatched Egg[/url] that was also in my inventory, and sold the former instead of the latter shortly before logging.\n\nWhen I came back on, I found that upon attempting to release my pet, it was not in my inventory. That unhatched egg still was.\n\nJust a warning.\n\nEdited, Wed Dec  7 23:41:20 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-11T03:29:46-05:00",
+   "body": "LoL Speak to agnar..... lol hes the one who starts it. its like ! i got this epic quest for you! but first speak to me in a sec. lol",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-10T22:15:11-06:00",
+   "body": "AWWWW its just like the blink dragon. I wanted to tame the blink dragon but I couldnt. But I will be doing this quest when I can.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-10T17:58:53-05:00",
+   "body": "I started this quest as a lvl 44.  I needed 12,000 more xp points to make lvl 45.  I did the entire chain of quests in about 2-3 hours.\n\nOnce I was finished I was a lvl 45 and had 34,000 points.  So I gained roughly 46,000 xp points during the entire chain. That was all the quest turn-in's and the killing xp.  \n\nIn case you can't find Kindall.  Look for the cage of sprite darters.  She is directly behind it on a little cliff.  Water separates her from the cage.  To the left of the cage there is a tree with a very tiny path up this hill.  Take that.  It will go UP then down to these two women. \n\nENJOY THE PET!\n\nXaria",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-12T07:08:37-06:00",
+   "body": "The quest isn't really for the XP its to get the cute little pet.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-29T01:28:59-06:00",
+   "body": "Sprite Darter Hatchling is rather small, but cute.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-15T09:08:02-05:00",
+   "body": "Took me forever to find the damn wolves, one by one for a long time.&nbsp; Finally, I got attacked by four of em at once while I was taking a screenshot with my Siamese cat.&nbsp; I'm guessing there's a small pack that wanders around cloaked, otherwise I musta just gotten real lucky.&nbsp; Three of em dropped the last three I needed. :)&nbsp; The sprite darter hatchling is so cute!",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-02-01T21:08:02-06:00",
+   "body": "so worth it, my level 42 hunter got so much experience and now has a cute little flying chameleon as a side kick.\n\ngot to kill a load of horde too, woot!",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-10-15T09:08:02-05:00",
+   "body": "Just got my sprite darte hatchling and it is SOOO cute, took me 4 hours from start to finish, but well worth the time.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-09-08T21:08:02-05:00",
+   "body": "Where would i find the wovles?",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2005-10-15T09:08:02-05:00",
+   "body": "at the top, it says speak to agnar beast tamer, but it says, starts and finishes with agnar beasttamer",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2007-01-21T23:33:02-06:00",
+   "body": "i just got mine.\n\nwas fun with a 60 warrior.\n\nsimple. easy. i got my pet too. ;)\n\nthough ahead of time you should set your hearthstone to darnasses and have two elixirs of fortitude on you.",
+   "replies": []
+  }
+ ]
+}

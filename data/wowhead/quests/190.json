@@ -1,0 +1,606 @@
+{
+ "id": 190,
+ "name": "Panther Mastery",
+ "level": 31,
+ "reqlevel": 28,
+ "side": 3,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1250,
+ "start": {
+  "type": "npc",
+  "id": 718,
+  "name": "Sir S. J. Erlgadin",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    35.4,
+    10.4
+   ],
+   [
+    35.4,
+    10.6
+   ],
+   [
+    35.6,
+    10.4
+   ],
+   [
+    35.6,
+    10.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 718,
+  "name": "Sir S. J. Erlgadin",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    35.4,
+    10.4
+   ],
+   [
+    35.4,
+    10.6
+   ],
+   [
+    35.6,
+    10.4
+   ],
+   [
+    35.6,
+    10.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Sir S. J. Erlgadin of Nesingwary's Expedition wants you to kill 10 Young Panthers .   Young Panther slain  ( 10 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 718,
+   "name": "Sir S. J. Erlgadin",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 683,
+   "name": "Young Panther",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Young Panther slain",
+   "count": 10,
+   "type": "npc",
+   "id": 683
+  }
+ ],
+ "series": [
+  190,
+  191,
+  192,
+  193
+ ],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "start",
+   "type": 1,
+   "id": 718,
+   "name": "Sir S. J. Erlgadin",
+   "coord": [
+    35.6,
+    10.6
+   ],
+   "coords": [
+    [
+     35.4,
+     10.4
+    ],
+    [
+     35.4,
+     10.6
+    ],
+    [
+     35.6,
+     10.4
+    ],
+    [
+     35.6,
+     10.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "end",
+   "type": 1,
+   "id": 718,
+   "name": "Sir S. J. Erlgadin",
+   "coord": [
+    35.6,
+    10.6
+   ],
+   "coords": [
+    [
+     35.4,
+     10.4
+    ],
+    [
+     35.4,
+     10.6
+    ],
+    [
+     35.6,
+     10.4
+    ],
+    [
+     35.6,
+     10.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "requirement",
+   "type": 1,
+   "id": 683,
+   "name": "Young Panther",
+   "coord": [
+    42.8,
+    10.4
+   ],
+   "coords": [
+    [
+     35,
+     14.2
+    ],
+    [
+     35,
+     16.4
+    ],
+    [
+     35,
+     16.6
+    ],
+    [
+     35.2,
+     15
+    ],
+    [
+     36,
+     7.2
+    ],
+    [
+     36,
+     15.2
+    ],
+    [
+     36.4,
+     13.6
+    ],
+    [
+     37.2,
+     8.4
+    ],
+    [
+     37.2,
+     14.4
+    ],
+    [
+     37.4,
+     12.6
+    ],
+    [
+     37.4,
+     14.6
+    ],
+    [
+     37.6,
+     12.4
+    ],
+    [
+     37.6,
+     12.6
+    ],
+    [
+     37.6,
+     14.6
+    ],
+    [
+     37.8,
+     14.4
+    ],
+    [
+     38.6,
+     13.4
+    ],
+    [
+     38.6,
+     15.2
+    ],
+    [
+     38.8,
+     13.6
+    ],
+    [
+     39.2,
+     6.4
+    ],
+    [
+     39.2,
+     6.6
+    ],
+    [
+     39.2,
+     8
+    ],
+    [
+     40,
+     10
+    ],
+    [
+     40.2,
+     8.2
+    ],
+    [
+     40.2,
+     8.6
+    ],
+    [
+     40.4,
+     11.4
+    ],
+    [
+     40.4,
+     11.6
+    ],
+    [
+     40.6,
+     10.8
+    ],
+    [
+     40.6,
+     11.8
+    ],
+    [
+     41.2,
+     8.2
+    ],
+    [
+     41.2,
+     9.4
+    ],
+    [
+     41.2,
+     9.6
+    ],
+    [
+     41.4,
+     13
+    ],
+    [
+     41.6,
+     10.8
+    ],
+    [
+     41.6,
+     12.4
+    ],
+    [
+     41.6,
+     13.6
+    ],
+    [
+     42.2,
+     13
+    ],
+    [
+     42.4,
+     9.2
+    ],
+    [
+     42.4,
+     9.6
+    ],
+    [
+     42.6,
+     9.4
+    ],
+    [
+     42.6,
+     13.2
+    ],
+    [
+     42.8,
+     10.4
+    ],
+    [
+     42.8,
+     10.6
+    ],
+    [
+     42.8,
+     13.6
+    ],
+    [
+     43,
+     12.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 34,
+   "date": "2005-09-29T05:33:47-05:00",
+   "body": "Can be found at 42,12",
+   "replies": []
+  },
+  {
+   "rating": 22,
+   "date": "2006-11-15T15:52:51-06:00",
+   "body": "Find these all over the Northern area of the zone. The little valley between the road and the Kurzen camp to the East is the best; around 41, 9.",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2006-01-16T17:33:47-06:00",
+   "body": "The young panthers are around 42,12 and the young Tigers are around 33,11 just ouside of the nesingwary's expedtion.&nbsp; Comment above that said tigers at 35,16 are Elder Tigers not Young Tigers.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-09-29T05:33:47-05:00",
+   "body": "there's a ton of them on the north side of the river , east of the road",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2007-03-13T15:52:10-05:00",
+   "body": "Confirmed 41.9 to 41.11\r\n\r\nthanks guys",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-02-22T11:38:16-06:00",
+   "body": "A lot of Young Panthers in 42,11",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-01-04T16:33:13-06:00",
+   "body": "As forker note, you can find the young panthers NE of the hunting camp, near the road. Had no trouble whatsoever finding and killing them. although they aren't as common as the young tigers.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-09-29T05:33:47-05:00",
+   "body": "The correct location is 42,12",
+   "replies": [
+    "Confirm Cords"
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2007-02-21T10:54:55-06:00",
+   "body": "The Young Panther seem to be few and far between compared to their more powerful brethren, the Panther.  It took me 3X's as long to kill all 10 Young Panthers.  Very easy quest to complete!  At the time, I was lvl34 (Hunter) and had no problems.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-01-16T17:33:47-06:00",
+   "body": "I am a lvl 37 pally and for some reason I can start the tiger or panther quest.&nbsp; They don't even show a bubble to talk to the two that start the quest.&nbsp; Anyone have the same problem or know a solution?",
+   "replies": [
+    "I got these quests after completing the \"welcome to the jungle\" quest. This quests get you to talk to someone about 2 yards from the starter NPC. Once this is done 4 NPCs have exclaimation marks above their heads."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-24T13:01:43-05:00",
+   "body": "Solo'd very easily on my shadow priest at 30. Best place to find these, as stated above, would be around 41, 9. Plenty to kill there, finished the quest in no time.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-29T05:33:47-05:00",
+   "body": "Young panthers are north of river, east of the road around 40, 10.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-03-30T17:33:47-06:00",
+   "body": "lots of young panthers at 41, 12. finished my quest in like 4 or 5 minutes as my lvl 33 druid",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-02-18T06:14:19-06:00",
+   "body": "from Nesingway's Expedition head SE across the river to the East side.  Right where the river leads into the Lake Nazferiti you'll find many panthers roaming about.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-29T05:33:47-05:00",
+   "body": "I found these at 49,23",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-29T05:33:47-05:00",
+   "body": "If you cross the river to the east, and wander a little north, these things are everywhere.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-11T17:33:47-05:00",
+   "body": "ill comfirme the cord 42.10(kinda the same on all)\nif u come close to rebel camp(a road) follow the road to the left instead to the rebel camp\nu will fin the phanters there\nWATCH OUT FOR ALLIES!\ngot some after me after i killed some phanters\njust watch out guys\nthey are annoying",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-12-11T05:33:47-06:00",
+   "body": "41-9 is a ton of them...&nbsp; just cross the bridge",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-09T10:50:35-05:00",
+   "body": "42.10 confirmed they are all around there",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-11T05:33:47-06:00",
+   "body": "Is where you'll find way more than 10",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-06T05:33:47-05:00",
+   "body": "Location for young panters is confirmed at 41,11\nEasy quest, did it in ten min w/ lvl 33 lock",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-29T05:33:47-05:00",
+   "body": "Yes, there are lots of YOUNG PANTHERS just across the river near Kurzens Compound, just to the west of the compound, 41,8.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-29T05:33:47-05:00",
+   "body": "40, 10",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-16T17:33:47-06:00",
+   "body": "This is the correct location. Enough panthers and tigers to cover both quests. Also bloodscalps near aswell if you have those quests.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-22T05:33:47-06:00",
+   "body": "you can find a lot of these panthers at 41,10",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-30T17:33:47-05:00",
+   "body": "i found most of the young panters at cods 40,10",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-19T12:41:41-06:00",
+   "body": "good info but i think damotta meant to say, NE.  plenty can be found NE of the Nesingway's Expedition camp, which is also a little south of Kurzen compound.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-10T06:00:22-05:00",
+   "body": "can any1 tell me whre si he staying no crds something like ne sw",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-01T18:46:25-06:00",
+   "body": "weres the main pantha dude cant find him did him on my warrior seem to b havin trouble with my shaman dont have co ordinates add on!    thnx",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-24T02:52:14-06:00",
+   "body": "those young panthers mostly located at NorthEast from the camp under the bridge, really rare to find.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-06T17:15:02-06:00",
+   "body": "I found most of my Young Panthers at 42, 10 and 42, 12\n\n[i][small]Edited, Nov  6th  2006 at 11:19am PST by BrianGrice[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-21T11:21:30-05:00",
+   "body": "41,11 for those with the add on.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-14T16:15:35-06:00",
+   "body": "Follow Damota's instructions, tons of panthers there",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-30T06:44:43-06:00",
+   "body": "Hemet Nesingwary is an anagram of Ernest Hemingway... Oh, the humor, Blizzard, the humor...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-16T11:21:51-05:00",
+   "body": "Currently in Classic Sir S. J. Erlgadin doesn't show a ! mark over his head to start the quest Panther Mastery. If you've completed the quest \"Welcome to the Jungle\" then this quest will be available to you. You just have to click on the NPC itself and pick up the quest as he won't have a yellow ! mark over his head. Likely a bug.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-10-04T10:13:50-05:00",
+   "body": "Around 28,13.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-09-29T05:33:47-05:00",
+   "body": "also at 35,16 where all the Young Tigers are, that way u dont have to walk to far.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-03-30T17:33:47-06:00",
+   "body": "I found Sir S. J. Erigadin in camp as advertised, but he has no quest for me.&nbsp; Do I need to do some prerequisite quest first?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-06-11T17:33:47-05:00",
+   "body": "my friend can't get the quest. we've done whole raptor mastery, but he can't get panther mastery. any ideas?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-06-11T17:33:47-05:00",
+   "body": "The NPC that gives the Panther Mastery Quest is in the same village as the person the gives you the Raptor Mastery Quest",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-29T05:33:47-05:00",
+   "body": "I've looked for days and found only one.&nbsp; There locations arent right from the TB map.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-09-28T04:35:53-05:00",
+   "body": "Do you have to do any prior quest to get this one?  I went to Sir. Sj but he has no question mark over his head and when I click on him nothing happens? anybody know why? thanks",
+   "replies": [
+    "All three mastery quest chains have the quest \"Welcome to the Jungle\" as prerequisite. \n\nJust go up to Barnil Stonepot in the same camp, who in turn directs you (via the mini-quest) to Nesingwary.  Once this is done, all three quest chains will be unlocked.\n\nIf you visit the camp past mid 30's, the yellow [b][Yellow]![/Yellow][/b] might not be shown (having grayed out).  Don't be alarmed, just talk to Barnil and get the above mentioned mini-quest done.\n\nEdited, Wed Dec 21 09:23:28 2005"
+   ]
+  }
+ ]
+}

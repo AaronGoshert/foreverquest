@@ -1,0 +1,382 @@
+{
+ "id": 1713,
+ "name": "The Summoning",
+ "level": 40,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": -81,
+ "reqclass": 1,
+ "status": "unchanged",
+ "xp": 2350,
+ "start": {
+  "type": "npc",
+  "id": 6176,
+  "name": "Bath'rah the Windwatcher",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    80.2,
+    62.6
+   ],
+   [
+    80.4,
+    66.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 6176,
+  "name": "Bath'rah the Windwatcher",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    80.2,
+    62.6
+   ],
+   [
+    80.4,
+    66.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring the Whirlwind Heart to Bath'rah Windwatcher. Whirlwind Heart  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 6894,
+   "name": "Whirlwind Heart",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Whirlwind Heart",
+   "count": 1,
+   "type": "item",
+   "id": 6894
+  }
+ ],
+ "series": [
+  1791,
+  1712,
+  1713
+ ],
+ "points": [
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 6176,
+   "name": "Bath'rah the Windwatcher",
+   "coord": [
+    80.4,
+    66.8
+   ],
+   "coords": [
+    [
+     80.2,
+     62.6
+    ],
+    [
+     80.4,
+     66.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 6176,
+   "name": "Bath'rah the Windwatcher",
+   "coord": [
+    80.4,
+    66.8
+   ],
+   "coords": [
+    [
+     80.2,
+     62.6
+    ],
+    [
+     80.4,
+     66.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 6239,
+   "name": "Cyclonian",
+   "coord": [
+    80.2,
+    62
+   ],
+   "coords": [
+    [
+     76.2,
+     65.4
+    ],
+    [
+     78.8,
+     64.4
+    ],
+    [
+     79.2,
+     62.8
+    ],
+    [
+     79.4,
+     62.2
+    ],
+    [
+     80.2,
+     61.4
+    ],
+    [
+     80.2,
+     62
+    ],
+    [
+     80.4,
+     60.2
+    ],
+    [
+     80.4,
+     62.6
+    ],
+    [
+     80.6,
+     61.4
+    ],
+    [
+     80.6,
+     62
+    ],
+    [
+     80.6,
+     62.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 32,
+   "date": "2007-04-23T06:47:30-05:00",
+   "body": "Also be aware that Cyclonian is a Level 40 Elite Elemental. You'll need a friend to assist you in killing him in order to obtain the Whirlwind Heart.",
+   "replies": []
+  },
+  {
+   "rating": 24,
+   "date": "2006-10-12T19:40:17-05:00",
+   "body": "[b]Pre Level 40 (heroic strike):[/b]\n\nGet the SWORD. You'll be mostly using Heroic Strike which adds it's damage to the next available swing. Faster weapon, more swings, more damage.\n\n[b]Post Level 40 (mortal strike):[/b]\n\nGet the AXE if you're an ARMS/Mortal Strike build. MS is an instant attack and you want the highest possible top end damage available.\n\nInstant attack formula: https://www.wowhead.com/forever/search?q=Normalized\n\nThe MACE is a waste of time.\n\nWarrior rule.\nTankerbelle",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-10-12T19:40:17-05:00",
+   "body": "Like all quests: you can abandon it. Then go back to the guy that gave you the quest and try all over again.",
+   "replies": [
+    "Thank you! This was very helpful"
+   ]
+  },
+  {
+   "rating": 10,
+   "date": "2007-05-15T11:54:56-05:00",
+   "body": "The best advice was the nature potion beat him easily with it.before  that died 3 times.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-03-07T19:40:17-06:00",
+   "body": "My lvl 37 warrior tried to solo the summoned elemental for this last part because I was dumb and didn't check here first to see that he is elite.&nbsp; Anyway, I wiped and went to go abandon the quest . . . but it wasn't in the log.&nbsp; Freak out ensues.&nbsp; \"What!&nbsp; I'm gonna have to collect all those items again!&nbsp; What a pain in the <bleep>!\"\n\nWell, I have the cosmos/khaos addons and was looking in that PartyQuest log.&nbsp; When I just looked at the regular log by clicking on the quest log tab at the bottom of my screen, it was there and I could abandon it.&nbsp; Yippee!\n\nJust wanted to put that out there in case any of you freak about having to re-try the last part of the quest.&nbsp; You can abandon and re-do without having to get all that stuff again.&nbsp; Just avoid the khaos version of the quest log since that is currently bugged on the failed quests.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2021-02-20T18:29:09-06:00",
+   "body": "Was able to solo this as a level 38 arms human in quest greens and still using Archeus (~24 dps). Pop a nature protection potion as you accept the quest and wait until there's about 30 seconds left on cooldown before you pull. I also used a stamina food buff, an agility elixir, a strength elixir, and a regeneration potion.\r\n\r\nKeep up demoralizing shout and backpedal while stacking Sunder Armor. You want to be using as many instant attacks as possible to help fish for overpower procs. He has 2 different skills that you can easily outrange just by backpedalling and he will randomly do a big knockback that won't do much damage. Pop your second nature protection potion when the first expires and if the fight drags on long enough you can use a third. Try to sneak in a bandage when he's using a skill and you're out of range of the skill. Note that he is immune to hamstring and retaliation so don't bother.\r\n\r\nI beat him at about 50% remaining life and 2 nature pots used up. Maybe only 2-3 overpower procs. There's going to be some big RNG in your nature protection rolls (1350-2250) so it might take a few tries!",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-03-07T19:40:17-06:00",
+   "body": "u just abandon and talk to the guy who summmons the cyclonian.. u dont have to collect the items again... 2 warriors lvl 34 and 45 took him",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-12T19:40:17-05:00",
+   "body": "I did it solo as a 42 def specced war, took a greater healing potion and was a close fight but that's about it.\n\nStill, I have herod's axe so I dunno if I'll use it or not (chose the axe again).\n\nAlso, for those complaining about 1h weapons, do the quest in SM for one, both horde and alliance have nice 1h weapon rewards.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-12-24T19:40:17-06:00",
+   "body": "I accomplished this Quest by myself as I didn�t have any guild members to assist at the time so i said what the heck ile try my best! \n\nStarted at level 39 & finished at beginning of 40. \n\nAs far as the requirements: \nThe 30 blood scalp tusks, well they do take a lot of grinding but you will get them. \n\nI also had the best time killing the elements to get the charms because I got whooped many times before by them earlier in earlier levels and i found that they have elemental materials they drop as im a blacksmith and can also use some of the ingredients for my recipes \n\nThe 3 sets of 8 charms do take some grinding but they do come eventually from the time invested or as last resort you can always find @ AH. \n\nWhen it came to Beating the Cyclonian. I was a bit hesitant to do this alone but after reading another Brave Warriors tale i used his idea and whooped the Cyclonian hands down. \nI used a Nature potion( remember hes made from NATURE!) that helped BIGTIME as I relentlessly battered and bashed on him till he dropped and i plenty of health left with a slight sweat on my forhead. \n\nI took the Sword! Mounted up and galloped out of there Very Happy as I was just about to turn 40 after killing him! \n\nFor the Alliance! \nSandreas \nDuel Wield Fury Warrior \nServer: Uldaman \n\nI Play eveynight so if you really need help.. look me up and we will get it DONE!",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-12T19:40:17-05:00",
+   "body": "Have you tried abandoning the quest and trying to get it from the NPC again?",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-12T19:40:17-05:00",
+   "body": "lvl 40 elite",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-12T19:40:17-05:00",
+   "body": "abandon the quest then he'll give it to you again i died my first try too",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-13T07:40:17-05:00",
+   "body": "All the necessary things are already said in the discussions above. All I can say is Nature Protection Potion is a must have if you want to beat the Cyclonian (Level 40 Elite). He deals nature damage and the potion absorbs it. Keep more than one flask of potion with you since during the fight you end up drinking more potions.\n\nWatch out for his whirlwind/knockback. The potion will absorb the damage but you will get knocked back a great distance. By the time you reach the Cyclonian, he will have healed - not fully but enough to make you irritated.\n\nThe reward is the [url=https://www.wowhead.com/forever/quest=1792/whirlwind-weapon]Whirlwind Weapon[/url]. I got the sword. I am planning to get [url=https://www.wowhead.com/forever/search?q=Bonebiter]Bonebiter[/url] as the axe from my [url=https://www.wowhead.com/forever/quest=1053/in-the-name-of-the-light]In the Name of Light[/url] quest and complete the set.\n\nCheers",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-12T19:40:17-05:00",
+   "body": "Ok first of all, all of the weapons are good in there own way. If you acutually look at the dps and damage the warhammer has the highest dps by a little bit then the sword then the axe. Overall, the axe has the most damage, then the warhammer, then the sword. The fastest of them all is the sword. The coolest looking in order is the axe, the sword, then the hammer. Once i beat this quest i ended up with the hammer since it has the best dps by about .1 and the damage of it is only about 10 or less below the axe. Ive seen all of these before and i must say that most people get the axe. But there is a reason why 2 handed swords are lower in damage of course. If you read online guides, two handed swords always have lower damage compared to axes and maces if you just look at the damage, but if u actually use them, the sword hits the most and is the fastest which explains the low damage. In the game ive been the only person so far that ive seen take the mace. Which is kinda cool in&nbsp; a sense. it has no glowy blue light like the sword or no cool swirvy shape like the axe. it is basically a black chipped rock on a black stick with a spike on the top and on the bottom which is all black. So also consider if your class has a certain +5 specialty with weapons. Such as if you are a human warrior, get the sword or the mace (both great in my opinion). and if you are a horde definitly get the axe. (looks great on them plus good dmg)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-31T19:40:17-05:00",
+   "body": "If you get killed by the Cyclonian, the NPC&nbsp; Bath-Rah won't talk to you again until you abandon the quest.&nbsp; When you abandon the quest, the NPC gets the yellow ? back over his head, and starts you off again.&nbsp; Taking some friends to help you is a good idea.&nbsp; (But if you are a helper, and use Taunt in Def Stance, you may find it'll just get you bounced back a way).",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-06T07:40:17-05:00",
+   "body": "no you dont have to do it all over again, just abondon quest and he'll give it to you again\n\nand for all the ppl who keep arguing about which one to choose, i say....&nbsp; &nbsp; it doest matter!\nthey all have the same DPS!(besides the 0.1 variation, which doesnt matter) just pick either the one you have the highest skill in already or the one you think looks best, i picked the sword at level 30 and it ownedjust like the rest just i thought it looked better (get blue enchant for these weps, looks awsome) \n\nnow ive ditched my sword and bought 2 one-hand weapons which are faster and easier to kill with.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-30T07:40:17-06:00",
+   "body": "lvl 39 arms spec. warrior.. could not complete this alone..i got all the items but couldnt kill the elemental at all.. got him to about half hp max.\n\nthis was w/o using a nature potion.. i just wanted to try it.\n\ni died bout 5 or 6 times lol then finally got a 60 rouge friend to help me out 8P\n\ni chose the mace as i can stun opponents w/ maces.. nice stats and dmg!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-01-17T01:54:22-06:00",
+   "body": "Level 37 works for this quest.\n\nIt also follows the Cyclonion",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-12T19:40:17-05:00",
+   "body": "i got the weapon in lvl 30. u should do the same.\n\nliferoot: u can byt liferoot on AH (auktion house)no creeps if u buy it cost about 1Gold\n\nbloodscalp tusk: get some friends to help u they are very easy to get. creeps lvl 33-36\n\nessence of the exile: u need to collect 3 times 8 to create the essence of exile. creeps lvl 38-39",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-24T19:40:17-06:00",
+   "body": "so i was doing the summoning quest when my lvl 56 mage that was helping left me there to die, and i did. how do i get bath'rah to resummon the clyclonian, or where did he go cause i cannot find him.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-19T06:28:07-06:00",
+   "body": "I just got talking with a GM about the NPC missing after I died. He said that the NPC hides away back into its hut somewhere near Chillwind Point. And it is not a one chance opportunity.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-23T19:06:32-05:00",
+   "body": "THIS CAN BE COMPLETED AT LVL 30. you can buy the root and charms in AH,farming the fangs is a little difficult but I did it solo at 30 killing lvl 33-34 bloodfangs. Dont ask how many times I died. For the fight against Cyclonia you can have a high level help (do the killing) and its finished. Basicly a lvl 40 weapon at lvl 30:)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-03T01:55:54-06:00",
+   "body": "what should i choose the axe or the mace or the sword cus i think the axe is the bomb!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-26T10:25:19-05:00",
+   "body": "Just a nature protection potion makes all the difference. \n\nWithout rest and not wanting to waste a bunch of ag, str, defense and trolls blood potions, I thought I'd try with my 41 warrior just with a +12 food and +15 drink stam buff, and nearly pulled it off solo...he had 1% health left when I died...unlucky I guess. Then someone suggested I could stand in the middle of the river and shoot him while he helplessly stood by the shore, but wherever I stood he seemed to either be able to hit me, or when I shot him, he'd evade and restore to 100% health...maybe I wasn't doing it right, but eventually gave up that idea, fought him melee, and died much faster.\n\nThen I looked at the combat log, and a lot of his damage is nature damage, so just drank a nature protection potion which he ended up slapping out of me, but 1350 to 2250 health to my favor (I didn't notice how much protection I actually got). But he was only 25-50% health by the time I actually took any significant damage, and it was no contest...you can probably get away with being a few levels lower than 41. Good luck!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-12T03:37:42-05:00",
+   "body": "just follow Bath'ra around the corner, and he'll summon the cylcone.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-09T09:29:16-05:00",
+   "body": "wasn't hard, had a lvl 60 help me, now my weap's sweet until i do SM and get bonibiter\n\nEdited, Tue Sep 13 06:58:40 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-02T19:19:30-06:00",
+   "body": "as stated (rather brilliantly) below, bring some nature potions. ive just finished this at level 32 and its gonna last me probably 10-15 levels. i had help from 2 guildies, a lvl 32 preist and 30 rogue and these are our first characters so no twinks. without the potions it wouldnt have gotten anywhere.\n\n[i][small]Edited, Mar  2nd 2007  4:20pm by CaptainShiznit[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-21T05:00:27-06:00",
+   "body": "So where is the fight exactly, is it right at the camp, or do i have to go someplace?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-27T10:14:53-06:00",
+   "body": "Cyclonian\n\nWhat a bloody hard wind thing to beat. At level 41, I found it hard to beat this guy.\n\n(Died 3 times)\n\nBut I found a tricks which will help\n\nRight got to AH and buy\n•\tMagic Resistance Potions (Must have)\n•\tSuper Healing Potions (You will need)\n\nBoth you will need, extras\n•\tElixir of Strength \n•\tElixir of Agility\n•\tElixir of Giant Growth\n•\tElixir of Stamina\n\nOr any other buffs you can find.\n\nWhen fighting him, his physical attacks won’t do much damage – you are a warrior so take it! \n\nit’s the blasted Nature damage that is the killer. So watch your health. Also, if you see him casting, stop it, Shield bash (if you can switch quickly) or Pummel to stop it, if he hits you with one of them, expect to die soon.\n\nIf he knocks you back, charge back in with Inception ASAP, as he tends to heal himself if he is losing.\n\nA final note, don’t be a coward and use a shield and main hand, either dual-wield or big 2-hand, as I said its not the physical attacks you should be worried about!\n\nA small trick is to run in to the water, he can not get you. Heal, buff and try again.\n\nAlso, most of your special moves don’t work, either Immune or Resisted, so just go all out with rage, and shouts! And hope for those crit-hits",
+   "replies": [
+    "Thanks for the tips.  What level is he and how many hit points does he have?  Would it be better to have a healer or a DPS with you on this guy?\n\nThanks!",
+    "Your hints worked.  I drank a nature resistance potion and 2 people helping me and he didn't even scratch me.  The one guy who didn't have potion got thrown into the river once, that was funny.",
+    "Looks good, I havent tried it yet. So you want me to shield bash him when he casts, but you want me to \"not be a coward\" and use a 2h or dual wield? Last I checked you have to have the shield eqiped to bash with it... Other than that looks like a sound plan."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-10T03:24:21-05:00",
+   "body": "did this today at lvl 31 had a 39 warlock help, we killed Cyclonian first go.  I got the axe.  nice weapon",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-18T22:05:49-05:00",
+   "body": "what happens of you fail the 1st time? Will it pop up again later ? I've been waiting for 10 min, nothing.",
+   "replies": [
+    "If you die trying like I did that's all you have to do is abandon the mission and talk to the Troll again.  He will do the walk and summon him for you.......  Make sure you have a group that can handle a lvl 42 Elite."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-19T17:25:13-06:00",
+   "body": "Just tried to defeat Cyclonian but he beat me. How do I have the troll summon him again?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-09T10:54:36-05:00",
+   "body": "Doable solo at level 30 on the Forever beta, assuming you use the thrown weapon/river terrain method. Be warned it will take probably over 20 min to kill him. Also, the first time I tried it my thrown weapon which was 100% repaired before the fight completely broke. I went to the AH and bought a couple white throwing weapons so I would have a backup for the next try, when he died no issues.",
+   "replies": []
+  }
+ ]
+}

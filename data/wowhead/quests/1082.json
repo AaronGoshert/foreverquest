@@ -1,0 +1,150 @@
+{
+ "id": 1082,
+ "name": "Update for Sentinel Thenysil",
+ "level": 22,
+ "reqlevel": 17,
+ "side": 1,
+ "zoneId": 406,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 870,
+ "start": {
+  "type": "npc",
+  "id": 4080,
+  "name": "Kaela Shadowspear",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59.8,
+    66.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4079,
+  "name": "Sentinel Thenysil",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    34.8,
+    49.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Return to Sentinel Thenysil in Ashenvale.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 4079,
+   "name": "Sentinel Thenysil",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  1082,
+  1081
+ ],
+ "points": [
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 4080,
+   "name": "Kaela Shadowspear",
+   "coord": [
+    59.8,
+    66.8
+   ],
+   "coords": [
+    [
+     59.8,
+     66.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 4079,
+   "name": "Sentinel Thenysil",
+   "coord": [
+    34.8,
+    49.8
+   ],
+   "coords": [
+    [
+     34.8,
+     49.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 11,
+   "date": "2019-07-14T16:22:51-05:00",
+   "body": "Does anyone find it odd that the Pre-Req quests in this Chain are a higher level than \"Update for Sentinel Thenysil\"",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-09-26T21:26:07-05:00",
+   "body": "Must complete Charred Vale and Wounded Spirits to obtain this quest.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-06-09T09:26:07-05:00",
+   "body": "this quest does appear after Wounded Acients i think, at least thats when i found it. only its a way low level compared to Wounded Ancients so there is no '!' above her head, i juts got a speach bubble.\n\ni've practicly run this one twice now, i accepted t6he quest and ran all the way up the mountain, hopped a flight to Astranaar and started looking for the sentinel...only to find i hadent accepted the quest properly, must have missed the button or something. so i had to run all the way back to accept it and then back to Astranaar again! who ever heard of a blond night elf?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-12-20T05:25:07-06:00",
+   "body": "This quest is unlocked by two other quests,\n'Enraged Spirits' and 'Wounded Ancients'.\n\n'Reception from Tyrande' has the final reward for this thread.\n\nTo see the complete thread, have a look under the Ashenvale quest 'On guard in Stonetalon' since the complete chain is not revealed otherwise at present time.\n\nHave fun, and do this before you reach lvl 40,\nreward should hopefully be more useful around low 20's...\n\nEdited, Mon Dec 19 22:31:36 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-26T21:26:07-05:00",
+   "body": "Something must be completed before this quest will be given.&nbsp; Tried before and after \"On Guard in Stonetalon\" series.&nbsp; \n\nSo...what is needed before this Quest will be given?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-02T09:26:07-06:00",
+   "body": "One problem, which elvish girl doesn't have a quest for me, i'm&nbsp; lv 28",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-14T09:26:07-06:00",
+   "body": "No, it's not the Charred Vale and Wounded Spirits. It's the one with the thing from the treants and the smoldering embers... What was the names of them? Anyhow, I have this quest without completing the Charred Vale-reclaiming thing...",
+   "replies": [
+    "I think Wounded Ancients leads to this quest..."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-01T20:28:05-06:00",
+   "body": "I would hope you could attain the quest before it's nearly grey.  ^^",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2006-06-09T09:26:07-05:00",
+   "body": "blond night elf now that is wacked",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,1270 @@
+{
+ "id": 937,
+ "name": "The Enchanted Glade",
+ "level": 11,
+ "reqlevel": 6,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 440,
+ "start": {
+  "type": "npc",
+  "id": 3519,
+  "name": "Sentinel Arynia Cloudsbreak",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    38.2,
+    34.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3519,
+  "name": "Sentinel Arynia Cloudsbreak",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    38.2,
+    34.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Acquire 6 Bloodfeather Belts and bring them to Sentinel Arynia Cloudsbreak in the Oracle Glade. Bloodfeather Belt  ( 6 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5204,
+   "name": "Bloodfeather Belts",
+   "count": 6,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Bloodfeather Belt",
+   "count": 6,
+   "type": "item",
+   "id": 5204
+  }
+ ],
+ "series": [
+  937,
+  98392,
+  98398,
+  940,
+  952
+ ],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 3519,
+   "name": "Sentinel Arynia Cloudsbreak",
+   "coord": [
+    38.2,
+    34.4
+   ],
+   "coords": [
+    [
+     38.2,
+     34.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 3519,
+   "name": "Sentinel Arynia Cloudsbreak",
+   "coord": [
+    38.2,
+    34.4
+   ],
+   "coords": [
+    [
+     38.2,
+     34.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2015,
+   "name": "Bloodfeather Harpy",
+   "coord": [
+    33.8,
+    35.4
+   ],
+   "coords": [
+    [
+     33.4,
+     35.6
+    ],
+    [
+     33.6,
+     35.6
+    ],
+    [
+     33.8,
+     35.4
+    ],
+    [
+     34.4,
+     33.4
+    ],
+    [
+     34.4,
+     34.2
+    ],
+    [
+     34.6,
+     33.4
+    ],
+    [
+     34.6,
+     33.8
+    ],
+    [
+     34.6,
+     35.6
+    ],
+    [
+     35,
+     35
+    ],
+    [
+     35.2,
+     38.8
+    ],
+    [
+     35.4,
+     36.8
+    ],
+    [
+     35.4,
+     37.8
+    ],
+    [
+     35.6,
+     36
+    ],
+    [
+     35.6,
+     37.4
+    ],
+    [
+     35.8,
+     35
+    ],
+    [
+     35.8,
+     38.8
+    ],
+    [
+     36.2,
+     38
+    ],
+    [
+     36.4,
+     39.8
+    ],
+    [
+     36.6,
+     38.8
+    ],
+    [
+     36.8,
+     37.6
+    ],
+    [
+     37.2,
+     37.2
+    ],
+    [
+     37.2,
+     40.2
+    ],
+    [
+     37.2,
+     41.4
+    ],
+    [
+     37.2,
+     41.6
+    ],
+    [
+     37.4,
+     42.6
+    ],
+    [
+     37.4,
+     43.8
+    ],
+    [
+     37.6,
+     37.8
+    ],
+    [
+     37.6,
+     42.4
+    ],
+    [
+     37.8,
+     43
+    ],
+    [
+     38,
+     43.6
+    ],
+    [
+     38,
+     44.8
+    ],
+    [
+     38.2,
+     40.4
+    ],
+    [
+     38.2,
+     41
+    ],
+    [
+     38.6,
+     41.4
+    ],
+    [
+     38.7,
+     42.7
+    ],
+    [
+     38.8,
+     42.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2017,
+   "name": "Bloodfeather Rogue",
+   "coord": [
+    35.2,
+    35
+   ],
+   "coords": [
+    [
+     33.4,
+     35.8
+    ],
+    [
+     33.6,
+     35.6
+    ],
+    [
+     33.8,
+     35.4
+    ],
+    [
+     34.4,
+     33.4
+    ],
+    [
+     34.4,
+     34.2
+    ],
+    [
+     34.6,
+     33
+    ],
+    [
+     34.6,
+     34
+    ],
+    [
+     34.6,
+     35.6
+    ],
+    [
+     35.2,
+     35
+    ],
+    [
+     35.2,
+     38.8
+    ],
+    [
+     35.4,
+     36.8
+    ],
+    [
+     35.4,
+     38
+    ],
+    [
+     35.6,
+     34.8
+    ],
+    [
+     35.6,
+     36
+    ],
+    [
+     35.6,
+     37.2
+    ],
+    [
+     35.8,
+     37.8
+    ],
+    [
+     36,
+     38.8
+    ],
+    [
+     36.4,
+     39.6
+    ],
+    [
+     36.6,
+     38
+    ],
+    [
+     36.6,
+     38.6
+    ],
+    [
+     37,
+     37.4
+    ],
+    [
+     37.2,
+     40.4
+    ],
+    [
+     37.2,
+     41.4
+    ],
+    [
+     37.2,
+     41.6
+    ],
+    [
+     37.2,
+     43.6
+    ],
+    [
+     37.4,
+     42.8
+    ],
+    [
+     37.6,
+     37.6
+    ],
+    [
+     37.6,
+     42.4
+    ],
+    [
+     37.8,
+     43.2
+    ],
+    [
+     37.8,
+     43.8
+    ],
+    [
+     38,
+     44.8
+    ],
+    [
+     38.2,
+     40.2
+    ],
+    [
+     38.4,
+     40.8
+    ],
+    [
+     38.6,
+     41.4
+    ],
+    [
+     38.6,
+     41.6
+    ],
+    [
+     38.6,
+     42.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2018,
+   "name": "Bloodfeather Sorceress",
+   "coord": [
+    35.2,
+    35
+   ],
+   "coords": [
+    [
+     33.4,
+     35.7
+    ],
+    [
+     34.4,
+     34.2
+    ],
+    [
+     34.4,
+     35.4
+    ],
+    [
+     34.4,
+     35.6
+    ],
+    [
+     34.6,
+     33.8
+    ],
+    [
+     35.1,
+     32.7
+    ],
+    [
+     35.2,
+     35
+    ],
+    [
+     35.2,
+     36.4
+    ],
+    [
+     35.2,
+     38.8
+    ],
+    [
+     35.4,
+     36.6
+    ],
+    [
+     35.4,
+     37.8
+    ],
+    [
+     35.6,
+     34.8
+    ],
+    [
+     35.6,
+     37.2
+    ],
+    [
+     35.6,
+     38.6
+    ],
+    [
+     36.4,
+     38
+    ],
+    [
+     36.4,
+     39.6
+    ],
+    [
+     36.6,
+     38.6
+    ],
+    [
+     36.8,
+     37.4
+    ],
+    [
+     36.8,
+     37.6
+    ],
+    [
+     37.2,
+     40.4
+    ],
+    [
+     37.2,
+     40.6
+    ],
+    [
+     37.2,
+     41.6
+    ],
+    [
+     37.2,
+     43.8
+    ],
+    [
+     37.4,
+     42.6
+    ],
+    [
+     37.5,
+     35.8
+    ],
+    [
+     37.8,
+     42.8
+    ],
+    [
+     37.8,
+     43.6
+    ],
+    [
+     38,
+     44.6
+    ],
+    [
+     38.4,
+     40.4
+    ],
+    [
+     38.4,
+     40.8
+    ],
+    [
+     38.6,
+     40.8
+    ],
+    [
+     38.6,
+     42.4
+    ],
+    [
+     38.6,
+     42.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2019,
+   "name": "Bloodfeather Fury",
+   "coord": [
+    31.8,
+    32.2
+   ],
+   "coords": [
+    [
+     31.4,
+     31.4
+    ],
+    [
+     31.4,
+     31.6
+    ],
+    [
+     31.8,
+     32.2
+    ],
+    [
+     32.2,
+     32.8
+    ],
+    [
+     32.6,
+     31.4
+    ],
+    [
+     32.6,
+     32.6
+    ],
+    [
+     32.8,
+     30.2
+    ],
+    [
+     32.8,
+     31.8
+    ],
+    [
+     33,
+     28.4
+    ],
+    [
+     33,
+     29
+    ],
+    [
+     33.6,
+     29.8
+    ],
+    [
+     33.9,
+     27.4
+    ],
+    [
+     34.4,
+     28
+    ],
+    [
+     34.4,
+     29
+    ],
+    [
+     34.6,
+     29
+    ],
+    [
+     34.6,
+     30.2
+    ],
+    [
+     34.8,
+     27
+    ],
+    [
+     34.8,
+     28.4
+    ],
+    [
+     35,
+     26.4
+    ],
+    [
+     36,
+     28.6
+    ],
+    [
+     36.2,
+     28.2
+    ],
+    [
+     36.4,
+     26.4
+    ],
+    [
+     36.4,
+     27.4
+    ],
+    [
+     36.6,
+     28
+    ],
+    [
+     36.8,
+     28.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2020,
+   "name": "Bloodfeather Wind Witch",
+   "coord": [
+    33.4,
+    29.8
+   ],
+   "coords": [
+    [
+     31.4,
+     31.4
+    ],
+    [
+     31.4,
+     31.6
+    ],
+    [
+     31.6,
+     31.6
+    ],
+    [
+     32.2,
+     32.8
+    ],
+    [
+     32.6,
+     32.6
+    ],
+    [
+     32.8,
+     30.6
+    ],
+    [
+     32.8,
+     32
+    ],
+    [
+     33.4,
+     29.4
+    ],
+    [
+     33.4,
+     29.8
+    ],
+    [
+     33.6,
+     27.4
+    ],
+    [
+     34,
+     30
+    ],
+    [
+     34.4,
+     28
+    ],
+    [
+     34.4,
+     29
+    ],
+    [
+     34.4,
+     30.6
+    ],
+    [
+     34.5,
+     30.4
+    ],
+    [
+     34.6,
+     27.6
+    ],
+    [
+     34.6,
+     28.8
+    ],
+    [
+     34.8,
+     26.8
+    ],
+    [
+     35,
+     26.4
+    ],
+    [
+     36,
+     28.6
+    ],
+    [
+     36.2,
+     25.8
+    ],
+    [
+     36.2,
+     28.2
+    ],
+    [
+     36.4,
+     27.4
+    ],
+    [
+     36.8,
+     28
+    ],
+    [
+     37.6,
+     28
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2021,
+   "name": "Bloodfeather Matriarch",
+   "coord": [
+    31.4,
+    31.6
+   ],
+   "coords": [
+    [
+     31.4,
+     31.4
+    ],
+    [
+     31.4,
+     31.6
+    ],
+    [
+     31.8,
+     32.2
+    ],
+    [
+     32.2,
+     32.8
+    ],
+    [
+     32.6,
+     32
+    ],
+    [
+     32.6,
+     32.6
+    ],
+    [
+     33.4,
+     29.4
+    ],
+    [
+     33.4,
+     29.8
+    ],
+    [
+     34,
+     30
+    ],
+    [
+     34.1,
+     27.2
+    ],
+    [
+     34.1,
+     30.6
+    ],
+    [
+     34.2,
+     28.4
+    ],
+    [
+     34.4,
+     29
+    ],
+    [
+     34.5,
+     30
+    ],
+    [
+     34.6,
+     28
+    ],
+    [
+     34.6,
+     29
+    ],
+    [
+     34.8,
+     27
+    ],
+    [
+     35.2,
+     26.2
+    ],
+    [
+     36.2,
+     25.8
+    ],
+    [
+     36.2,
+     28.2
+    ],
+    [
+     36.4,
+     27.4
+    ],
+    [
+     36.8,
+     28
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 14431,
+   "name": "Fury Shelda",
+   "coord": [
+    36.4,
+    38.8
+   ],
+   "coords": [
+    [
+     34,
+     33.4
+    ],
+    [
+     34.4,
+     34.4
+    ],
+    [
+     34.4,
+     35.2
+    ],
+    [
+     34.6,
+     29.8
+    ],
+    [
+     34.6,
+     33.4
+    ],
+    [
+     34.6,
+     34.4
+    ],
+    [
+     34.8,
+     32.4
+    ],
+    [
+     35.2,
+     35
+    ],
+    [
+     35.4,
+     35.8
+    ],
+    [
+     35.4,
+     36.6
+    ],
+    [
+     35.4,
+     38
+    ],
+    [
+     35.4,
+     38.6
+    ],
+    [
+     35.6,
+     35.4
+    ],
+    [
+     35.6,
+     37.2
+    ],
+    [
+     35.8,
+     35.6
+    ],
+    [
+     36,
+     38
+    ],
+    [
+     36.4,
+     33.8
+    ],
+    [
+     36.4,
+     38.8
+    ],
+    [
+     36.4,
+     39.8
+    ],
+    [
+     36.4,
+     40.6
+    ],
+    [
+     36.4,
+     42.4
+    ],
+    [
+     36.6,
+     35.4
+    ],
+    [
+     36.6,
+     38.4
+    ],
+    [
+     36.6,
+     39.4
+    ],
+    [
+     36.8,
+     35.6
+    ],
+    [
+     37,
+     40.8
+    ],
+    [
+     37.2,
+     33.8
+    ],
+    [
+     37.2,
+     40.2
+    ],
+    [
+     37.2,
+     41.6
+    ],
+    [
+     37.4,
+     36.6
+    ],
+    [
+     37.4,
+     42.6
+    ],
+    [
+     37.4,
+     43.6
+    ],
+    [
+     37.6,
+     40.4
+    ],
+    [
+     37.6,
+     42.4
+    ],
+    [
+     37.6,
+     43.2
+    ],
+    [
+     37.6,
+     44.8
+    ],
+    [
+     37.8,
+     37
+    ],
+    [
+     37.8,
+     38.4
+    ],
+    [
+     38,
+     39
+    ],
+    [
+     38,
+     41
+    ],
+    [
+     38,
+     44
+    ],
+    [
+     38.2,
+     34.8
+    ],
+    [
+     39,
+     41.4
+    ],
+    [
+     39.8,
+     44.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 272034,
+   "name": "Hatescreech",
+   "coord": [
+    35,
+    39.2
+   ],
+   "coords": [
+    [
+     35,
+     39.2
+    ],
+    [
+     35,
+     39.8
+    ],
+    [
+     35.2,
+     38.4
+    ],
+    [
+     35.6,
+     38.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 272044,
+   "name": "Windmistress Gaedress",
+   "coord": [
+    33.2,
+    36
+   ],
+   "coords": [
+    [
+     33.2,
+     36
+    ],
+    [
+     33.6,
+     35.4
+    ],
+    [
+     33.6,
+     35.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 272046,
+   "name": "Witchmother Arysa",
+   "coord": [
+    34.2,
+    27.9
+   ],
+   "coords": [
+    [
+     34,
+     27.4
+    ],
+    [
+     34.2,
+     27.9
+    ],
+    [
+     34.3,
+     28.9
+    ],
+    [
+     34.5,
+     28.4
+    ],
+    [
+     35,
+     28.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 26,
+   "date": "2006-01-08T09:08:18-06:00",
+   "body": "they can all be found at 35,35. solo'd at levl 9 priest. Just be patient and pull one by one.",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2006-04-27T21:08:18-05:00",
+   "body": "There are lower lvl's at /tloc 37,42. (lvls 8-10)",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2007-03-21T01:26:11-05:00",
+   "body": "These guys appear at 36,34 and northward. They are fairly bunched up so the chance for adds is great. Casters sprinkled in there, as well.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2007-01-08T09:08:18-06:00",
+   "body": "As I was coming from Darnassus, I headed up the road & kept an eye our for the creatures to the left hand side. I killed heaps. I got a chest too. After I got them all, I got another chest & box from the area and killed the rare one for fun. Not exciting drops",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-03-19T12:58:42-05:00",
+   "body": "Is this NElf only or have a requirement?&nbsp; This Draeni can't even talk to the questgiver. :'(",
+   "replies": [
+    "You can only get this quest after doing a moonwell chain."
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2005-08-22T23:35:57-05:00",
+   "body": "No coins, but gained 440XP (at lvl 9, just shy of making 10) and a slight Darnassus Faction increase.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-04-27T21:08:18-05:00",
+   "body": "it was really easy as a 14 druid just watch out for the gray elite straight west of the quest giver",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-13T21:08:18-06:00",
+   "body": "Fun quest - Solo'd this as a level 8 hunter.&nbsp; Just pull them one by one and you'll be ok.&nbsp; Good Luck!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-02-01T17:06:45-06:00",
+   "body": "The location is:\n\n[b]Continent[/b]: Kalimdor\n[b]Zone[/b]: Teldrassil\n[b]Coordinates[/b]: The monsters are at the west side of the road leading to the Oracle Glade. (around 38, 42)\n[b]Where?[/b]: At south-west of Oracle Glade\n\nThe monsters are white and red coloured, names: Bloodfeather Harpy and Bloodfeather sorceress.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2020-04-11T15:47:00-05:00",
+   "body": "\"I have noticed the Oracle Tree has just shed a piece of its bark. No doubt it has a task that it wishes completed. You should speak with it.\"\r\n\r\nAnyone knows what that means? The tree isn't clickable or anything.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-26T09:21:42-05:00",
+   "body": "37,43",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-25T21:50:59-06:00",
+   "body": "The drop rates for the belts seems to be better on the Bloodfeather Wind Witches and Matriarchs to the west of the Oracle Tree. I managed to get five of the six belts just making my way to find Mist for another quest, and I only killed about six harpies. But for the last belt I tried the Harpies, Rogues, and Sorceresses that are near the road, and I had to kill four or five to get one belt.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-22T13:56:18-05:00",
+   "body": "just solo'd with a lvl 8 priest.&nbsp; might need to bubble a little if ur new, gl :)",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-27T09:08:18-05:00",
+   "body": "Hey, im a lvl 11 druid, is it easy to rescue mist? And also which item did u pick on the enchanted glade quest?",
+   "replies": [
+    "At the end of this quest:\n\n[b]\"I have noticed the Oracle Tree has just shed a piece of its bark. No doubt it has a task that it wishes completed. You should speak with it.\"[/b]\n\nBut all I see is that she starts the next quest...although her dialogue sounds like it would come from the oracle tree itself, but I can't find any oracle tree to speak to.&nbsp; She herself actually starts the next quest (but not in a direct chain).&nbsp; What's up with that?"
+   ]
+  },
+  {
+   "rating": -7,
+   "date": "2006-07-09T21:08:18-05:00",
+   "body": "PLz plz.&nbsp; would help me a ton.&nbsp; TY",
+   "replies": []
+  }
+ ]
+}

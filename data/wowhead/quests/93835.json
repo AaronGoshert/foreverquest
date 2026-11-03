@@ -1,0 +1,151 @@
+{
+ "id": 93835,
+ "name": "Confront Lorthuna",
+ "level": 12,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 455,
+ "start": {
+  "type": "npc",
+  "id": 253590,
+  "name": "Valennia Stormfist",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    65.2,
+    50.4
+   ],
+   [
+    65.2,
+    50.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252475,
+  "name": "Elaadrin Evengale",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    66.4,
+    79.8
+   ],
+   [
+    66.6,
+    79.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Take the portal to the Rohashi Spires overhead and join Elaadrin Evengale and Ayessa Dawnsinger in their confrontation with High Priestess Lorthuna.   Confront Lorthuna  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 252475,
+   "name": "Elaadrin Evengale",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 256634,
+   "name": "Confront Lorthuna",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Confront Lorthuna",
+   "count": 1,
+   "type": "npc",
+   "id": 256634
+  }
+ ],
+ "series": [
+  93835,
+  94369,
+  93089,
+  94946,
+  94947,
+  93963
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 253590,
+   "name": "Valennia Stormfist",
+   "coord": [
+    65.2,
+    50.4
+   ],
+   "coords": [
+    [
+     65.2,
+     50.4
+    ],
+    [
+     65.2,
+     50.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252475,
+   "name": "Elaadrin Evengale",
+   "coord": [
+    66.6,
+    79.8
+   ],
+   "coords": [
+    [
+     66.4,
+     79.8
+    ],
+    [
+     66.6,
+     79.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-27T05:45:39-05:00",
+   "body": "Today on the Beta, this quest seems bugged.\r\n\r\nAfter you defeat Baron Anvillax, the Air Lord spawns 6 malevolent storms that stay neutral and do nothing until the event despawns.",
+   "replies": [
+    "Ok after 3 tries, YOU HAVE TO LET THE BARON hit the NPCs to trigger the rest of the event, otherwise you'll get stuck in a loop",
+    "Jump into wind affect after peacekeeper - looks like quest is bugged but it's not."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-07T18:05:58-05:00",
+   "body": "Well, if it [i]looks[/i] like there isn't an air bridge there, don't test it out, like I did, and fall to your death in a place so far off the map that your only option is rez sickness...",
+   "replies": [
+    "OK, but when the air bridge does look like it's there, you can just run into it, regardless of what the nearby guard says."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-09T08:23:07-05:00",
+   "body": "At the end of the event and the roleplay, one of the Kirin Tor mages opens a portal back to Valanaar. If you wait too long, it will despawn. You'll need to run back down and start the event again. This time, click the portal faster. I presume the same is true of the horde version of the quest.",
+   "replies": []
+  }
+ ]
+}

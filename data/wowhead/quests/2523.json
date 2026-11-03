@@ -1,0 +1,156 @@
+{
+ "id": 2523,
+ "name": "Corrupted Songflower",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 3,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": {
+  "type": "object",
+  "id": 171942,
+  "name": "Corrupted Songflower",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    48.3,
+    75.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 171942,
+  "name": "Corrupted Songflower",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    48.3,
+    75.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Progress You have found a sickly, corrupted version of what appears to be a songflower plant.  A pungent, unhealthy odor emanates from the plant.  It desperately needs some sort of attention if it is to be turned back to normal. Cenarion Plant Salve  ( 2 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11516,
+   "name": "Cenarion Plant Salve",
+   "count": 2,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Cenarion Plant Salve",
+   "count": 2,
+   "type": "item",
+   "id": 11516
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 2,
+   "id": 171942,
+   "name": "Corrupted Songflower",
+   "coord": [
+    48.3,
+    75.6
+   ],
+   "coords": [
+    [
+     48.3,
+     75.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 2,
+   "id": 171942,
+   "name": "Corrupted Songflower",
+   "coord": [
+    48.3,
+    75.6
+   ],
+   "coords": [
+    [
+     48.3,
+     75.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2005-12-22T04:51:31-06:00",
+   "body": "you havta do the cleansing felwood quest first...then you get to clean these plants",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2019-12-01T01:00:43-06:00",
+   "body": "Using a [url=https://www.wowhead.com/forever/item=11516/cenarion-plant-salve]salve[/url] on this will spawn a [url=https://www.wowhead.com/forever/object=164882/cleansed-songflower]cleansed version[/url] that, when opened provides [url=https://www.wowhead.com/forever/spell=15366/songflower-serenade]this[/url]",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2020-03-19T07:05:13-05:00",
+   "body": "I made a compilation of all the spawn locations here: https://imgur.com/a/g0yXnrq",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2020-02-09T06:50:00-06:00",
+   "body": "/way Felwood 64, 6\r\n/way Felwood 50, 13\r\n/way Felwood 63, 22\r\n/way Felwood 40, 44\r\n/way Felwood 34, 52\r\n/way Felwood 40, 56\r\n/way Felwood 48, 75\r\n/way Felwood 56, 85\r\n/way Felwood 53, 88",
+   "replies": [
+    "Found one at 46.0, 85.2"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2005-01-18T10:03:55-06:00",
+   "body": "After the flower is cleansed you can click on it to get an hour buff called \"Songflower Serenade\" that increases the chance to crit by 5% and adds 15 to all stats.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-04-08T18:12:07-05:00",
+   "body": "If you have a choice of which flower to 'uncorrupt', choose this one. \n\nIt adds 15 to all of your stats for one hour. \n\nTrue, with the others you get more items; but, this lasts longer (vs taking one of the others) than the others' 10 minutes. \n\nIt helps you slice through the satyrs like buttah.  :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-06T04:23:01-06:00",
+   "body": "That's all fantastic and luvverly, but where is it?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-31T16:24:54-05:00",
+   "body": "This quest is broken for now. If you inhale the songflower you will not get the stat buff and the crit increase. You will get a message that \"the songflower was resisted\".\nA GM told me that it is broken and they are looking into it. Hopefully next patch will fix that.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-06-11T17:25:13-05:00",
+   "body": "anyone have any locations for any of the corrupted plants or are they a random spawn?",
+   "replies": [
+    "Do you always ask questions that have already been answered?\n\nLink above your post gives locations. I've verified some of them, but I can't guarantee 100% accuracy though."
+   ]
+  }
+ ]
+}

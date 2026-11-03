@@ -1,0 +1,129 @@
+{
+ "id": 94500,
+ "name": "Call of Water",
+ "level": 23,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 1400,
+ "start": {
+  "type": "npc",
+  "id": 258203,
+  "name": "Hervdana Saegrund",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    65.6,
+    76.4
+   ],
+   [
+    65.8,
+    76.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 258203,
+  "name": "Hervdana Saegrund",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    65.6,
+    76.4
+   ],
+   [
+    65.8,
+    76.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Fill the Unfilled Blue Waterskin at the waters of Astranaar in Ashenvale and return to Hervdana Saegrund in the Wetlands. Full Blue Waterskin  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 265772,
+   "name": "Unfilled Blue Waterskin",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 265773,
+   "name": "Full Blue Waterskin",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Full Blue Waterskin",
+   "count": 1,
+   "type": "item",
+   "id": 265773
+  }
+ ],
+ "series": [
+  94495,
+  94497,
+  94499,
+  94500,
+  94501,
+  94502,
+  94503,
+  94505
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 258203,
+   "name": "Hervdana Saegrund",
+   "coord": [
+    65.6,
+    76.4
+   ],
+   "coords": [
+    [
+     65.6,
+     76.4
+    ],
+    [
+     65.8,
+     76.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 258203,
+   "name": "Hervdana Saegrund",
+   "coord": [
+    65.6,
+    76.4
+   ],
+   "coords": [
+    [
+     65.6,
+     76.4
+    ],
+    [
+     65.8,
+     76.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

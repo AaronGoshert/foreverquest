@@ -1,0 +1,106 @@
+{
+ "id": 98463,
+ "name": "Talk of the Town",
+ "level": 33,
+ "reqlevel": 28,
+ "side": 1,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 265,
+ "start": {
+  "type": "npc",
+  "id": 2366,
+  "name": "Barkeep Kelly",
+  "zone": "Hillsbrad Foothills",
+  "zoneId": 267,
+  "coords": [
+   [
+    51.4,
+    58.4
+   ],
+   [
+    51.4,
+    58.6
+   ],
+   [
+    51.6,
+    58.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2832,
+  "name": "Nixxrax Fillamug",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    27,
+    77.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Visit Nixxrax Fillamug in the Salty Sailor Tavern in Booty Bay in Stranglethorn.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2832,
+   "name": "Nixxrax Fillamug",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 267,
+   "zone": "Hillsbrad Foothills",
+   "point": "start",
+   "type": 1,
+   "id": 2366,
+   "name": "Barkeep Kelly",
+   "coord": [
+    51.4,
+    58.6
+   ],
+   "coords": [
+    [
+     51.4,
+     58.4
+    ],
+    [
+     51.4,
+     58.6
+    ],
+    [
+     51.6,
+     58.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "end",
+   "type": 1,
+   "id": 2832,
+   "name": "Nixxrax Fillamug",
+   "coord": [
+    27,
+    77.2
+   ],
+   "coords": [
+    [
+     27,
+     77.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

@@ -1,0 +1,111 @@
+{
+ "id": 97979,
+ "name": "The Goddess Provides",
+ "level": 1,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": -676,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 40,
+ "start": {
+  "type": "npc",
+  "id": 3595,
+  "name": "Shanda",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    59.2,
+    40.4
+   ],
+   [
+    59.2,
+    40.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3595,
+  "name": "Shanda",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    59.2,
+    40.4
+   ],
+   [
+    59.2,
+    40.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Cast Elune's Light and Shadowmeld.   Elune's Light cast  ( 1 )   Shadowmeld cast  ( 1 )",
+ "objectives": [],
+ "objectiveRows": [
+  {
+   "text": "Elune's Light cast",
+   "count": 1,
+   "type": "event",
+   "id": null
+  },
+  {
+   "text": "Shadowmeld cast",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 3595,
+   "name": "Shanda",
+   "coord": [
+    59.2,
+    40.4
+   ],
+   "coords": [
+    [
+     59.2,
+     40.4
+    ],
+    [
+     59.2,
+     40.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 3595,
+   "name": "Shanda",
+   "coord": [
+    59.2,
+    40.4
+   ],
+   "coords": [
+    [
+     59.2,
+     40.4
+    ],
+    [
+     59.2,
+     40.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

@@ -1,0 +1,177 @@
+{
+ "id": 473,
+ "name": "Report to Captain Stoutfist",
+ "level": 28,
+ "reqlevel": 23,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 230,
+ "start": {
+  "type": "npc",
+  "id": 2086,
+  "name": "Valstag Ironjaw",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    10,
+    56.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2104,
+  "name": "Captain Stoutfist",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    9.8,
+    57.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Speak with Captain Stoutfist .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2104,
+   "name": "Captain Stoutfist",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  473,
+  464,
+  465,
+  474
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 2086,
+   "name": "Valstag Ironjaw",
+   "coord": [
+    10,
+    56.8
+   ],
+   "coords": [
+    [
+     10,
+     56.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 2104,
+   "name": "Captain Stoutfist",
+   "coord": [
+    9.8,
+    57.4
+   ],
+   "coords": [
+    [
+     9.8,
+     57.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 47,
+   "date": "2005-08-05T05:44:07-05:00",
+   "body": "It appears that you cannot get this quest until you complete \"The Algaz Gauntlet\" mission given by Mountaineer Rockgar in Loch Modan.",
+   "replies": [
+    "I've completed The Algaz Gauntlet and I'm only lvl 25... still, I can't find him...\n\nS.",
+    "Strange... Now I suddenly found a huge room, that I swear wasn't there before... And - surprise, surprise - Stoutfist is there too...\n\nS.",
+    "Confirmed, didn't have the quest available, did the Algaz Gauntlet and then, bingo, the quest was available !"
+   ]
+  },
+  {
+   "rating": 34,
+   "date": "2019-09-03T19:06:11-05:00",
+   "body": "If you have completed The Algaz Gauntlet but you still can't see the quest from Valstag Ironjaw, drop the quest \"War Banners\".\r\n\r\nIt appears as though if you've already talked to Captain Stoutfist and picked up the quest from him, you won't see the quest to report to him.",
+   "replies": [
+    "Thank you, this fixed the issue for me",
+    "This needs to be top comment...",
+    "Thanks a bunch this needs more upvotes",
+    "youre a real god for this"
+   ]
+  },
+  {
+   "rating": 26,
+   "date": "2005-10-12T06:45:56-05:00",
+   "body": "Here's the way to find him: \n\nFirst, go into the keep. Pick a wing, left or right, and then go straight until you run into a room that has cots, like barracks. Next, turn either left or right to enter a room in the middle of both paths. There should be stairs and the NPC with quest \"Fiona Longears\". Go up these stairs, and turn right. Turn left up the ramp, and a left again to find the room he's in.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-03-07T06:45:56-06:00",
+   "body": "You need to complete the \"The Algaz Gauntlet\" quest if u want to get this quest.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-12T06:45:56-05:00",
+   "body": "The NPC seems to be impossible to find.\nI'm inside the keep, and have been running around for 30min.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-12T06:45:56-05:00",
+   "body": "Am sure you found him by now - but if not - he's on the third floor.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-12-24T06:45:56-06:00",
+   "body": "im having the same problem i am LvL 31 , and i remember quest with alt, u think it is bugged",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-18T20:17:47-06:00",
+   "body": "10,57/58\nGo up one flight of stairs, and when you see the next set going up, turn around and go up the ramp instead. He is in this room.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-09-16T12:40:49-05:00",
+   "body": "If you've already completed the second quest in the chain, \"War Banners\", you will not have the option to pick up this quest. You can always abandon the quest and pick this one up to have the full chain.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-12-03T08:53:45-06:00",
+   "body": "First you must complete all the quests in Loch Modan and retrieve the quest The Algaz Gauntlet. Complete that quest to get Report to Captain Stoutfist.\n\nCaptain Stoutfist is located in the keep inside Menethil Harbor.\n\nGo upstairs to the throne room on the second floor. He is in the back standing proud at his table.\n\n[i][small]Edited, Dec  3rd 2006  5:57am by Waylo[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-08-01T21:59:14-05:00",
+   "body": "For some reason I don't get this quest...",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-11-20T12:43:32-06:00",
+   "body": "I completed the mission.  Now I attempt to contact Captain Stoutfist.  I know he's in the keep.  I went into the keep and look around and I'm on top of the smileyface all I see are two characters.  I went all floors even the roof and the basement and not found him.  Is there a bug or is that not available anymore since my character is at level 28?",
+   "replies": []
+  }
+ ]
+}

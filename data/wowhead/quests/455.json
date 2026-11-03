@@ -1,0 +1,577 @@
+{
+ "id": 455,
+ "name": "The Algaz Gauntlet",
+ "level": 21,
+ "reqlevel": 19,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1250,
+ "start": {
+  "type": "npc",
+  "id": 1342,
+  "name": "Mountaineer Rockgar",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    25.4,
+    10.4
+   ],
+   [
+    25.4,
+    10.6
+   ],
+   [
+    25.6,
+    10.4
+   ],
+   [
+    25.6,
+    10.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2086,
+  "name": "Valstag Ironjaw",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    10,
+    56.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Traverse Dun Algaz. Kill 8 Dragonmaw Scouts and 6 Dragonmaw Grunts . Report to Valstag Ironjaw in Menethil Harbor.   Dragonmaw Scout slain  ( 8 )   Dragonmaw Grunt slain  ( 6 )   Explore Zone  ( 1 )   Traverse Dun Algaz  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2103,
+   "name": "Dragonmaw Scouts",
+   "count": 8,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 2102,
+   "name": "Dragonmaw Grunt",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Dragonmaw Scout slain",
+   "count": 8,
+   "type": "npc",
+   "id": 2103
+  },
+  {
+   "text": "Dragonmaw Grunt slain",
+   "count": 6,
+   "type": "npc",
+   "id": 2102
+  },
+  {
+   "text": "Explore Zone",
+   "count": 1,
+   "type": "event",
+   "id": null
+  },
+  {
+   "text": "Traverse Dun Algaz",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [
+  468,
+  455
+ ],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 1342,
+   "name": "Mountaineer Rockgar",
+   "coord": [
+    25.4,
+    10.4
+   ],
+   "coords": [
+    [
+     25.4,
+     10.4
+    ],
+    [
+     25.4,
+     10.6
+    ],
+    [
+     25.6,
+     10.4
+    ],
+    [
+     25.6,
+     10.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 2086,
+   "name": "Valstag Ironjaw",
+   "coord": [
+    10,
+    56.8
+   ],
+   "coords": [
+    [
+     10,
+     56.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "requirement",
+   "type": 1,
+   "id": 2102,
+   "name": "Dragonmaw Grunt",
+   "coord": [
+    50,
+    69.8
+   ],
+   "coords": [
+    [
+     47.2,
+     77
+    ],
+    [
+     47.2,
+     77.6
+    ],
+    [
+     47.4,
+     75.2
+    ],
+    [
+     47.4,
+     76.2
+    ],
+    [
+     47.6,
+     76
+    ],
+    [
+     47.8,
+     76.8
+    ],
+    [
+     48,
+     74
+    ],
+    [
+     48,
+     74.8
+    ],
+    [
+     48,
+     77.6
+    ],
+    [
+     48.6,
+     75.4
+    ],
+    [
+     48.8,
+     77.4
+    ],
+    [
+     48.8,
+     77.8
+    ],
+    [
+     49.2,
+     79.8
+    ],
+    [
+     49.4,
+     79.4
+    ],
+    [
+     49.6,
+     79.4
+    ],
+    [
+     49.6,
+     79.6
+    ],
+    [
+     49.6,
+     80.6
+    ],
+    [
+     49.8,
+     69.2
+    ],
+    [
+     50,
+     69.8
+    ],
+    [
+     50,
+     76.2
+    ],
+    [
+     50.2,
+     70.6
+    ],
+    [
+     50.4,
+     77
+    ],
+    [
+     50.8,
+     79.6
+    ],
+    [
+     51,
+     78.8
+    ],
+    [
+     51.4,
+     78.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "requirement",
+   "type": 1,
+   "id": 2103,
+   "name": "Dragonmaw Scout",
+   "coord": [
+    50,
+    79.8
+   ],
+   "coords": [
+    [
+     47.4,
+     76.4
+    ],
+    [
+     47.4,
+     76.6
+    ],
+    [
+     47.8,
+     75.8
+    ],
+    [
+     47.8,
+     77
+    ],
+    [
+     48,
+     74
+    ],
+    [
+     48,
+     74.8
+    ],
+    [
+     48.2,
+     78.2
+    ],
+    [
+     48.4,
+     78.6
+    ],
+    [
+     48.6,
+     78.4
+    ],
+    [
+     48.8,
+     77.2
+    ],
+    [
+     49,
+     79
+    ],
+    [
+     49.4,
+     79.6
+    ],
+    [
+     49.6,
+     79.2
+    ],
+    [
+     49.8,
+     77
+    ],
+    [
+     50,
+     76.2
+    ],
+    [
+     50,
+     79.8
+    ],
+    [
+     50.8,
+     79.8
+    ],
+    [
+     51.4,
+     78.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 42,
+   "date": "2005-12-08T07:11:53-06:00",
+   "body": "\"traverse Dun Algaz\" aka continue down the road to wetlands",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2006-12-08T10:44:18-06:00",
+   "body": "This quest is rather easy.  Go through the tunnel and on the left there is a camp of said orcs.  They can be pulled one at a time, just be careful as they are runners.  To complete the satisfy objective, just continue through the rest of the tunnels until you reach the wetlands.  Then onto Menthril Harbor to turn in.",
+   "replies": [
+    "Also be careful of the ones with shields (grunts I think). They shield slam the hell out of you. This not only interrupts any casting but knocks you over as well. Having been unlucky enough to be fighting three at the same time, I couldn't even get off a 1.5 sec cast Gift of the Naaru.",
+    "You cannot pull the GRUNTS one at a time. They're too close together. If you are just 20 or poorly geared, your best bet is to get the ones close to the tunnels and wait for them to respawn as you need to. Or run from Loch Modan's graveyard back to your corpse."
+   ]
+  },
+  {
+   "rating": 14,
+   "date": "2005-11-01T19:11:53-06:00",
+   "body": "This took a while with my 21 mage because I kept getting jumped by multiple guys when I made my way in to the grunts.&nbsp; Then I'd have to run/blink out and have to kill most of the scouts to get back in which took time.&nbsp; I figured out if you are facing the camp to the right you can go up on the side of the hill (just time the scout movements so you can stay far enough away from them), then cross the big fallen tree to the left side and get to the grunts by staying up on the left side of the hill away from the scouts.&nbsp; It's kind of a back door approach that got me the last of the grunts.&nbsp; Just try to pull them up the hill one by one.&nbsp; Unfortunately for some reason I got to the harbor and didn't satisfy the traverse part of the quest so no clue what happened there.",
+   "replies": [
+    "A great trick! No problem getting all the grunts this way at lvl 22 warlock"
+   ]
+  },
+  {
+   "rating": 13,
+   "date": "2007-04-09T03:50:17-05:00",
+   "body": "If you had trouble on the Algaz Gauntlet, and you could not get the question mark yellow... check the quest.&nbsp; It says you have to traverse the whole trail... and if you did like me... and had to go back to Loch Modan and flew.... then you didn't get credit for completing the task.. go back to the point of the fight... at least... then finish the tunnel out and the question mark will be yellow... I did, and it worked fine...&nbsp; It's picky but it's the quest.. You can look at your quest log and if it does not say complete by the quest, then something was omitted.. most likely the finishing the exact course by foot... to Menethil\n\nGood questing to you all",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2007-04-11T05:47:13-05:00",
+   "body": "50,80 in between the tunnels",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-11-01T19:11:53-06:00",
+   "body": "You don't actually have to go in the building for this quest, so long as you can find enought scouts and grunts to kill. The \"traverse\" bit seems to mean that you continue on through the normal tunnel system to the wetlands, which is easy. My 21 warrior did fine.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-03-27T19:11:53-06:00",
+   "body": "If you get to menethil and the question mark is still grey you may have done what I did\n\nFAter you have killed the mobs, you then have to walk all the way through the tunnels to the wetlands. \n\nIf you look at the quest there is a list of three things to do, and the first is to traverse dun algaz. If you do that as well as kill the mobs, the question mark turns yellow",
+   "replies": [
+    "Lvl 21 Warlock (Realm-Dethecus) Easy enough to solo, right out of the tunnels downed the Scouts easy enough, not an abundance of Grunts though, had to go above the tunnel entrance to locate a few extra to get the quota! Easy enough to pull will Corruption/Immolate/Curse of Agony and follow up with volleys of Shadowbolts till they dropped, only got multiple Mobs once...the Imp came in handy there... however when I completed the kills, I thought I'd be smart and backtrack to Thesamar (sp?) and FP to Menethil Harbor, when I got there I realized I needed to \"Traverse\" the route....&nbsp; OH well.."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2005-12-08T07:11:53-06:00",
+   "body": "We got this quest all done and went back to the guy in Menethil Harbor but the question mark over his head was still gray. It says complete in our quest log but we can't complete it. Has anyone else had this problem?",
+   "replies": [
+    "I too have been unable to complete the quest...I'm a level 22 and it says 21 is needed. I still get the grey Question mark.\n\nI tried to report the problem and the system wouldn't let me do that either?\n\nFrom the comments, it seems that some people could complete it if they were high enough level.&nbsp; Until I get to a higher level I'll keep trying until I get to claim it."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2006-02-19T07:11:53-06:00",
+   "body": "Where is the quest turned in? I cannot find Ironjaw.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-06-08T19:11:53-05:00",
+   "body": "The quest consists of going through the first set of tunnels from Loch Modan in the direction of the Wetlands. Just after the first tunnel your path will be blocked by mobs of Dragonmaw Scout Mobs. These are the mobs you must kill to complete the quest. Deeper in that cove that appears to be a small base are where the Dragonmaw grunts are. This quest is not hard just take your time. I did it easily with my 19 warrior...but then again..he is a lil bit twinked.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-06-08T19:11:53-05:00",
+   "body": "you just go throught the 4 tunnels from loch modan to wetland then it will shows you complete the Q..",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-13T19:11:53-06:00",
+   "body": "Manage your pulls, and this is incredibly easy to solo, quite possibly a little moreso as a rogue (done at lv 21 with my rogue Yume). Use every trick in the book, climb up walls to do long range pulls, body pull, use any crowd control you have, and you should be [i]fine[/i].",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-03T07:11:53-05:00",
+   "body": "I solo'd this as a level 19 Warlock fairly quickly.\n\nAt the main camp of Orcs in Algaz (between two tunnels), I pulled and killed the scouts one-by-one no problem. To get the Orcs I snuck around the perimeter of the camps and pulled the ones closest to me. The idea is not to wake up anyone in the middle of the camp. The respawn is fairly quick, so you can do it again shortly afterwards.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-08T19:11:53-05:00",
+   "body": "I forgot bout this quest for a while, but I managed it fiiine as lvl 25 hunter... T'is pretty damn easy, plenty of grunts n scouts about, if you can't find thum tho use the tracking thingy (: (if you have it ofcourse...)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-15T07:11:53-05:00",
+   "body": "I never go into the camp.&nbsp; Just before you enter the fence go right up the hill.&nbsp; There are many grunts and scouts well spaced.&nbsp; Soloed easily with my 20 NE priest.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-26T07:11:53-05:00",
+   "body": "A clarification on the \"Traverse Dun Algaz\" issue.&nbsp; I killed the mobs I needed and hearthed back to Menethil immediately after.&nbsp; I then realized that to complete it I would need to actually walk the tunnels.&nbsp; If you just enter the first tunnel on the Wetlands side of Dun Algaz, you'll satisfy the \"traverse\" portion of the quest.&nbsp; No need to go through the entire path again.&nbsp; Just walk in that door and back out and you'll be alright.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-30T10:33:29-05:00",
+   "body": "54, 70 on wetlands side.&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-01T19:11:53-06:00",
+   "body": "A bit difficult 25 Warrior/ The grunts arent afraid to gang up on you 4 or 5 at a time.&nbsp; This is where it got really tough... \nLocation is going from Loch Moden to the Wetlands, they are off to the left hand side.",
+   "replies": [
+    "this quest is actually very, very easy. i soloed it with a 20 druid\n\nwhere to find them? if you take the route up from loch modan you pass them no questions, they are on the left, theres a little ravine down there.\n\nmy advice is: as you go down this first ravine, you'll see a treetrunk connecting the 2 walls, 1 either side. it is possible (may take 1 or 2 attempts) to get on the trunk. from there, you can follow the top of the hills along, still killing as you go. when you see the building full of them, simply go to the side (east i think) and carry on out the place. quest complete!\n\np.s. the "
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-27T19:11:53-06:00",
+   "body": "Soloed quest with my level 19 Druid.&nbsp; You can easily pull one at a time.&nbsp; As a Druid, I can take on two, if I stay in bear form.&nbsp; If you want to fight the Grunts and not go all the way into the camp, go up the hill to your right (just where you're entering the camp).&nbsp; Some will be on guard up there, along with Scouts.&nbsp; So far I've seen only two Grunts on ground level, near the camp entrance.&nbsp; Found three up on those hills.&nbsp; Another one is perched on a hill to the left of the camp entrance.&nbsp; May fluctuate, but so far it's been the same each time I've gone in there.&nbsp; By the time you get the ones on the hill, you'll go down and see that the others have respawned.&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-15T07:11:53-05:00",
+   "body": "This small area full of orcs is great for leveling up quickly (at lvls 17, 18 and 19) as the respawn rate is supa-fast, also they are a peice of piss to down.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-15T07:11:53-05:00",
+   "body": "Hey where is that part of the quest:\ntraverse dun algaz?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-20T19:11:53-05:00",
+   "body": "Traverse Dun Algaz:\nSimply walk out the way you come in if you came from Wetlands, and you shall be fine. The tunnel closest to wetlands is the one you have to go out through.\n\nConerning the orcs, they where simply fun on my level. Me (On my level 26 mage) and my friend on his level 23 mage had a go with AoE on them, plain fun.\n\nShould be easily soloable aswell tho.\n\nAlso we managed to find a raremob + a chest.\nThe chest gave me a blue BoE item called 'Thorbia's gauntlets'. \n\nEnjoy",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-08T07:11:53-06:00",
+   "body": "My lvl 20 Mage was able to do this with a few healing potions and mana potions. The orcs were easy to find as they attacked me as soon as I started to go into the next to the last tunnel to the wetlands.&nbsp; Go left where attacked and clean your way to the buildings killing all scouts - the grunts I picked off from the hillside on the left of the ravine. Then cleaned out scouts on my way back to the tunnel.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-13T19:11:53-06:00",
+   "body": "I would like some coords where it bgins ^^",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-13T19:11:53-06:00",
+   "body": "When you travel to Dun Algaz you go threw two of the tunnels and then you should see orcs around the level 19-22. When you finish killing then amount of orcs you need then you have to go threw all four of the tunnels then you should finish up the mission -->(Traverse Dun Algaz).",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-09T13:26:17-05:00",
+   "body": "soloed lvl21 paladin, easy enough only not enuff grunts so a bit time consuming. you will find through the north gate tower and just at the end of the tunnel.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-07T23:44:04-06:00",
+   "body": "(In the Wetlands) Go THROUGH the Dun Algaz 'gate' and continue following the road.  You will see the proper Dragonmaws around there.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-04T23:16:27-06:00",
+   "body": "Yes, that is all very nice.....Where are the Dragonmaw Scouts and such?  I can find all types but the ones the quest calls for!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-01T15:52:23-06:00",
+   "body": "Wonderful place for leveling a lvl20 NE Hunter with a bear to lvl 21.  The Orcs not in the villiage are space quite apart from each other.  Once you made a circle of wacking everyone on the ridge, the Orcs in the valley would've respawned.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-01T01:59:07-05:00",
+   "body": "You have to through Dun Algaz and those tunnels",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-12T18:56:21-06:00",
+   "body": "Traverse Dun Algaz... (Complete): You have to go through Dun Algaz to complete this quest",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-20T03:19:41-06:00",
+   "body": "Anybody know where Valstag is?  I have searched throughout the Keep in Menthril harbor and he is not around\n\n\nPS I found him today in the entrance to the keep don't know why he wasnt there before?\n\nAnyway be sure you walk thru the tunnels to Menthril don't fly there as I did the first time after killing the orcs.  Valstag wont complete the quest unles u walk there.\n\n\nEdited, Mon Feb 21 17:47:33 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-08T14:50:39-06:00",
+   "body": "ok i saw da big BIG jump after killing de rcies and had to (couldnt resist it), jump\nnow im going to probably go throught the tunnels again im guessing cause thats all i have left >< o well how u dont do the same mistake as me hehe",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-31T20:29:37-06:00",
+   "body": "Just so everyone knows Coords are as follows (48, 78)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-06-08T19:11:53-05:00",
+   "body": "finished the grinding part easy on my 19 warr, just pull and pick off, but the traverse part doesnt wanna complete.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-05-21T17:16:41-05:00",
+   "body": "Solod easily with a lvl 19 rogue (sut spec), only once i ever pulled two and thats cus I logged out and when i logged again there was two around me.",
+   "replies": []
+  }
+ ]
+}

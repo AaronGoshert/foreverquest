@@ -1,0 +1,345 @@
+{
+ "id": 466,
+ "name": "Search for Incendicite",
+ "level": 22,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1750,
+ "start": {
+  "type": "npc",
+  "id": 1377,
+  "name": "Pilot Stonegear",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    49.6,
+    48.4
+   ],
+   [
+    49.6,
+    48.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1377,
+  "name": "Pilot Stonegear",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    49.6,
+    48.4
+   ],
+   [
+    49.6,
+    48.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 6 loads of Incendicite Ore to Pilot Stonegear in Dun Morogh . Incendicite Ore  ( 6 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 3340,
+   "name": "Incendicite Ore",
+   "count": 6,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Incendicite Ore",
+   "count": 6,
+   "type": "item",
+   "id": 3340
+  }
+ ],
+ "series": [
+  467,
+  466
+ ],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1377,
+   "name": "Pilot Stonegear",
+   "coord": [
+    49.6,
+    48.4
+   ],
+   "coords": [
+    [
+     49.6,
+     48.4
+    ],
+    [
+     49.6,
+     48.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1377,
+   "name": "Pilot Stonegear",
+   "coord": [
+    49.6,
+    48.4
+   ],
+   "coords": [
+    [
+     49.6,
+     48.4
+    ],
+    [
+     49.6,
+     48.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 55,
+   "date": "2006-01-18T15:52:08-06:00",
+   "body": "Travel to Thelgen Rock, just North of the Dun Algaz entrance into the Wetlands.&nbsp; The entrance is on the left, surrounded by lvl 20-22 spiders.&nbsp; This little cave is a great place to level, farm sellable/disenchantable items, and improve mining skill.&nbsp; \n\nMining skill can be a tad difficult to improve in the 100-150 range (mentioned above I believe) and the incendicite counts towards the mining skill.&nbsp; \nAdditionally, one can continue to mine the ore after reaching the six ore necessary to complete the quest.&nbsp; &nbsp; The ore may be auctionable, making it possible to sell the excess ore to those too lazy to travel to the cave themselves.\n\nThe spiders are evenly spaced and may be killed one at a time with little chance of being mobbed.&nbsp; The necessity of mining skill (65) prevents some from making use of this cave but the exp. gained from the mobs and the quest make this place great for those who can.",
+   "replies": []
+  },
+  {
+   "rating": 23,
+   "date": "2005-10-01T03:52:08-05:00",
+   "body": "This requires mining 65.. 3 of us in my guild needed this quest, and the incendicite ore takes a while to spawn... We spent prolly 1.5 hrs in there mining and killing the critters.&nbsp; Found the cave at 53,64.&nbsp; I got 1850exp at lev 23.",
+   "replies": []
+  },
+  {
+   "rating": 21,
+   "date": "2004-12-04T04:47:31-06:00",
+   "body": "I was able to mine this at skill 115 in mining, and got several increases from it as well, as it was still green.",
+   "replies": [
+    "My friend and I just did this quest, and his mining skill was 88 when we started."
+   ]
+  },
+  {
+   "rating": 20,
+   "date": "2007-01-18T15:52:08-06:00",
+   "body": "Yes, All you need to do is stop by the AH and buy up the goods those farmers put up, or you can ask a guildy/friend to mine it for you.\n\nIn my opinion, this cave is by far the best place to Lvl your Mining from 85=>125 (tell your friend this)\nCheers!",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2007-03-07T13:22:39-06:00",
+   "body": "This quest is very useful as it also increases your mining skill during the dull time of around 110-130 mining skill level.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2006-01-18T15:52:08-06:00",
+   "body": "I went in there as a 23 Warrior and found it pretty easy.&nbsp; The spiders are agressive but not social, so pull them with a ranged attack if possible.&nbsp; Also if you're also doing the warrior quest \"Fire Hardened Mail\" you can kill two birds with one stone in here as all the spiders drop 1 or 2 of the required fangs every death ( you need 50 ).\n\nThe xp from the spiders is decent and they don't do much damage ( to me anyway ), but they will always keep you poisoned.&nbsp; The poison isn't strong and I barely notice it but your character will be green the entire time you're in there, and it interrupts bandages and shadow melding.\n\nThe incenidite mines yield one or two ore each, and if you sit around the first and second corners you can wait for the ore to respawn without getting too deep in.\n\nThe only time I died in there was when I couldn't be bothered working my way out so made a run for it.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2007-05-17T11:04:08-05:00",
+   "body": "Required 65 mining skill to do quest.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-04-02T22:49:16-05:00",
+   "body": "Around 50,62 in Wetlands. Theres a cave there. Its the first cave, just a tad north of where you come out of the tunnel coming from Dun Morgh (south side of zone).",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-12-13T03:52:08-06:00",
+   "body": "Al the Incendicite Ore is found in the cave in the wetlands in Dun ALgaz Coord. 54.72 Go through Loch Modan from Thelsamar past Algaz Station and through the North Gate Pass.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-04-01T15:52:08-05:00",
+   "body": "Go north through Dun Algaz into the wetlands. Once there the map map should say Thelgen Rock. Go until it turns to Mosshide Fen then turn west and slightly south. You should run right into the mountains and it should be right in the area.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-11-06T15:52:08-06:00",
+   "body": "just finished this quest....great place to skill up your mining.&nbsp; Spiders respawn quickly so need to keep your wits.&nbsp; Treasure chest respawns usually in one of the two pools of water.&nbsp; Found good stuff for my enchanting...even got a blue item.&nbsp; Overall, great place to level up.\n\nOre is useless except to finish the quest.&nbsp; You can't smelt it or use it for anything useful. On the plus side, there are tin and silver deposits in the mine as well.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-10-01T03:52:08-05:00",
+   "body": "Have anyone brought up the fact that you have a bigger aggro range if you are of a lower level, e.g a level 20 character would find it harder to pull the spiders one at a time then a level 25 character.\nThis could be the reason why some people find it harder then others, apart from apparent reasons like class etc.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-08-25T15:52:08-05:00",
+   "body": "Yeah the reward for this is pretty damned weak. But, that's not the point of this quest. You can up your mining a bit from mining the incendicite as well as the other minerals in the cave. But along the way I got a ton of experience, I collected enough spider-type vendor trash to earn about 1 gold, plus I got three drops. One green, two blue. It was a forest buckler, as starlight tunic and a Gargoyle's Bite. So happy hunting, the loot for this quest is well worth it.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-05-02T06:16:08-05:00",
+   "body": "At level 23, I died five times and not getting more into the cave than into the first intersection. The spiders respawn super-fast. I've tried Gift of the Naaru, potions, bandages and JC statues. I still died. (My AoE grinding skills are mediocre so I didn't try this.)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-06-13T15:52:08-05:00",
+   "body": "I took my rogue in there, mined 36 incendicite, 40 tin, 4 silver, killed a rare spider, and found three chests before I got bored and left.\n\nIt was easy for me just to skulk around the spiders or drop a dummie if I got swarmed. \n\nI went ahead and mined it for my husband and guildies whilest I was there.\n\nThe rogue/engineer combo worked out really well for this quest.\n\nI think I ended up gaining 20 points in mining by the end of my trip thru.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-04T00:22:18-06:00",
+   "body": "This ore seems to mine at the same level as Tin - at least it is green when tin is green and yellow when tin is yellow.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2026-10-05T15:40:48-05:00",
+   "body": "Requires Mining [url=https://www.wowhead.com/forever/item=3340/incendicite-ore]Incendicite Ore[/url].  You can also buy them off the AH\n\nCave Entrance \n/way 52.2 62.8 Search for Incendicite",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-08T03:52:08-05:00",
+   "body": "I'm a 25 Paladin who's a 75 minor. It took about 20 minutes to do because of all those spiders.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-01T15:52:08-05:00",
+   "body": "The cave is at 52.62/53.63. Did this by myself with a 21 hunter.&nbsp; Died a couple of times but not that bad. If you want, I noticed a bit in the AH.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-17T01:28:08-05:00",
+   "body": "22 lock... w/ my voidwalker... was no problem... good xp, decent loot, good mining skill... just take your time with it...1 or 2 mobs at a time and no problem",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-05T07:20:52-06:00",
+   "body": "The cavern is full of spiders level 20-22. Bring friends if your under 20 and move quickly. The repop on the spiders is fast and they will back spawn rapidly which can add grief if your in the cavern mining Tin and Incendicite. It's possible to skill mining to at least 130 in this cavern.\n\nTonopa \nLifebringer",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-19T21:25:10-06:00",
+   "body": "the ore is tradeable , so you can let someone else do the mining or buy it on the ah .\nno need to abadon the quest .",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-24T11:09:00-05:00",
+   "body": "there are about 4 Indencite Veins in Thelgen Rock you need to mine for these. Each has 1-2 of these ores. The mining req. is rather low, no way you don't have that much yet when you do that quest. Was also worth some more skill-points for me, including some tin/silver veins in there.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-22T17:25:14-06:00",
+   "body": "Just did it as lvl 23 human paladin, done it solo and did not have any real problems.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-27T14:13:50-06:00",
+   "body": "Same skill as tin or silver -- both of those are \"green\" to me...\n\nOne other thing, I found 3 tin mines and 2 silver mines in there while looking around...  Was in for about 25 min.  2 tins and a silver \"popped up\" while I was in there so that was 5 tine and 3 silver mines total in 25 minutes.  Not to shabby...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-26T04:04:59-06:00",
+   "body": "It doesn't mention at any point that you need mining skill, so I happily accepted it despite being into herbalism/alchemy. Oh well, I guess I can abandon it  now.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-18T05:44:19-05:00",
+   "body": "It's a good cave to farm (and there's even a chest in the cave!). Darn I though I could use the ore. Made my stash look sooooo good :P\n\nIf you can mine Iron, you defintely can mine that. It was green for me. Lot's of spiders in there yep and there's also a semi-elite spider there too (with a grey Dragon around its picture) dropped a shield for me, one that had the same image as a spider drop.\n\nTin and copper pop out there too.",
+   "replies": [
+    "Silver borders are rares not elites.  Gold borders are elites."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-12-13T03:52:08-06:00",
+   "body": "i did this quest at level 27, pally and got 1750xp",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-01-18T15:52:08-06:00",
+   "body": "As a lvl 20 warrior.&nbsp; Got about 1/2 way in, got 2 ore, and was progressing smoothly, then aggroed to by accident and that was the end.&nbsp; Used up 5 light healing pots in the process, and by the time I got back to my body, the spiders had all respawned (fast!).&nbsp; I tried to rez, but there's no place to rez without aggroing, and I couldn't take a 22 spider with half my hp gone to start.\nDamn.&nbsp; SO close, I could see 2 more veins right ahead, and if I'd gotten past that corner, it would be very simple, single pulls.&nbsp; Probably could be done if you are very, very careful never to die.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-08-25T15:52:08-05:00",
+   "body": "At the top of this screen there is a place that says quest starts and ends at and a map option. Otherwise outside of IF to the south.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-05T00:41:59-06:00",
+   "body": "can someone tell me where the cave is without coords",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-03-19T22:14:39-06:00",
+   "body": "i don't even have mining...why does it let accept this quest?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-12T15:57:55-06:00",
+   "body": "1750 xp at lvl 20",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-10-27T19:29:46-05:00",
+   "body": "I am not sure where the cave is located - does anyone have coords?",
+   "replies": [
+    "yep, the coordinates to the entrance are 53,63\ncant miss it"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2020-06-21T09:55:54-05:00",
+   "body": "/way Wetlands 53, 63",
+   "replies": []
+  },
+  {
+   "rating": -7,
+   "date": "2006-12-18T22:58:18-06:00",
+   "body": "Instead of going all the way to the wetlands and having mining...\nCheck the Auction House. I just bought 10 for 36s.\nAnd i used Allakhazam before starting  Stonegear's Search, so I only have to go once.",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2005-04-05T04:04:21-05:00",
+   "body": "You have to be level 65 to mine for incendicite",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,262 @@
+{
+ "id": 93066,
+ "name": "Bristleback Retreat",
+ "level": 43,
+ "reqlevel": 35,
+ "side": 3,
+ "zoneId": 16651,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3600,
+ "start": {
+  "type": "npc",
+  "id": 253136,
+  "name": "Orgrul",
+  "zone": "Shen'dralas",
+  "zoneId": 16651,
+  "coords": [
+   [
+    35.6,
+    12
+   ],
+   [
+    35.8,
+    13
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253851,
+  "name": "Hagiak",
+  "zone": "Shen'dralas",
+  "zoneId": 16651,
+  "coords": [
+   [
+    58.8,
+    53.8
+   ],
+   [
+    59,
+    53.4
+   ],
+   [
+    59.6,
+    53.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Maintain your reputation with the Magram, and slay quilboar at Bristleback Retreat. Then report to Hagiak at the Magram Front on the other side of Valley of Bones in Desolace.   Bristleback Nomad slain  ( 4 )   Bristleback Thornweaver slain  ( 6 )   Bristleback Skullcrusher slain  ( 6 )   Magram Clan Centaur  ( Honored )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 253851,
+   "name": "Hagiak",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 253524,
+   "name": "Bristleback Nomad",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 253525,
+   "name": "Bristleback Thornweaver",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 253526,
+   "name": "Bristleback Skullcrusher",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Bristleback Nomad slain",
+   "count": 4,
+   "type": "npc",
+   "id": 253524
+  },
+  {
+   "text": "Bristleback Thornweaver slain",
+   "count": 6,
+   "type": "npc",
+   "id": 253525
+  },
+  {
+   "text": "Bristleback Skullcrusher slain",
+   "count": 6,
+   "type": "npc",
+   "id": 253526
+  }
+ ],
+ "series": [
+  1385,
+  1386,
+  1369,
+  92743,
+  92841,
+  92846,
+  92847,
+  92873,
+  92894,
+  93066,
+  93072,
+  93188,
+  93196
+ ],
+ "points": [
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "start",
+   "type": 1,
+   "id": 253136,
+   "name": "Orgrul",
+   "coord": [
+    35.6,
+    12
+   ],
+   "coords": [
+    [
+     35.6,
+     12
+    ],
+    [
+     35.8,
+     13
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "end",
+   "type": 1,
+   "id": 253851,
+   "name": "Hagiak",
+   "coord": [
+    58.8,
+    53.8
+   ],
+   "coords": [
+    [
+     58.8,
+     53.8
+    ],
+    [
+     59,
+     53.4
+    ],
+    [
+     59.6,
+     53.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "requirement",
+   "type": 1,
+   "id": 253524,
+   "name": "Bristleback Nomad",
+   "coord": [
+    58.4,
+    20.2
+   ],
+   "coords": [
+    [
+     58.4,
+     20.2
+    ],
+    [
+     68.8,
+     30.8
+    ],
+    [
+     71.6,
+     28.4
+    ],
+    [
+     72.4,
+     34.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "requirement",
+   "type": 1,
+   "id": 253525,
+   "name": "Bristleback Thornweaver",
+   "coord": [
+    69.2,
+    28.4
+   ],
+   "coords": [
+    [
+     69.2,
+     28.4
+    ],
+    [
+     71.6,
+     23.6
+    ],
+    [
+     71.6,
+     26.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "requirement",
+   "type": 1,
+   "id": 253526,
+   "name": "Bristleback Skullcrusher",
+   "coord": [
+    57,
+    15.4
+   ],
+   "coords": [
+    [
+     57,
+     15.4
+    ],
+    [
+     58.4,
+     18.4
+    ],
+    [
+     59.4,
+     14.4
+    ],
+    [
+     59.6,
+     34.8
+    ],
+    [
+     71.2,
+     25.8
+    ],
+    [
+     71.4,
+     29.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

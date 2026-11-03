@@ -1,0 +1,97 @@
+{
+ "id": 94491,
+ "name": "The Fate of the Den",
+ "level": 12,
+ "reqlevel": 8,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 455,
+ "start": {
+  "type": "npc",
+  "id": 257944,
+  "name": "Elegael Thornpaw",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    61.6,
+    39.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252359,
+  "name": "Lotheluum Starbreeze",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    64,
+    75
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Give the missive to Lotheluum in Valanaar and tell him what has transpired.",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 265782,
+   "name": "Mysterious Orders",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Mysterious Orders",
+   "count": 1,
+   "type": "item",
+   "id": 265782
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 257944,
+   "name": "Elegael Thornpaw",
+   "coord": [
+    61.6,
+    39.2
+   ],
+   "coords": [
+    [
+     61.6,
+     39.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252359,
+   "name": "Lotheluum Starbreeze",
+   "coord": [
+    64,
+    75
+   ],
+   "coords": [
+    [
+     64,
+     75
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

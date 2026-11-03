@@ -1,0 +1,1264 @@
+{
+ "id": 4450,
+ "name": "Ledger from Tanaris",
+ "level": 46,
+ "reqlevel": 43,
+ "side": 3,
+ "zoneId": 51,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 5050,
+ "start": {
+  "type": "object",
+  "id": 173265,
+  "name": "Wooden Outhouse",
+  "zone": "Searing Gorge",
+  "zoneId": 51,
+  "coords": [
+   [
+    65.4,
+    62.2
+   ],
+   [
+    65.5,
+    62.2
+   ],
+   [
+    65.6,
+    62.5
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5411,
+  "name": "Krinkle Goodsteel",
+  "zone": "Tanaris",
+  "zoneId": 440,
+  "coords": [
+   [
+    51.4,
+    28.8
+   ],
+   [
+    51.6,
+    28.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Take the copy of Goodsteel's Ledger and then find the items listed in it before seeking Krinkle Goodsteel in Tanaris. Goodsteel Ledger  ( 1 ) Solid Crystal Leg Shaft  ( 20 ) Overdue Package  ( 1 ) Goodsteel's Balanced Flameberge  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 5411,
+   "name": "Krinkle Goodsteel",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11727,
+   "name": "Goodsteel Ledger",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11725,
+   "name": "Solid Crystal Leg Shaft",
+   "count": 20,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11724,
+   "name": "Overdue Package",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11723,
+   "name": "Goodsteel's Balanced Flameberge",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Goodsteel Ledger",
+   "count": 1,
+   "type": "item",
+   "id": 11727
+  },
+  {
+   "text": "Solid Crystal Leg Shaft",
+   "count": 20,
+   "type": "item",
+   "id": 11725
+  },
+  {
+   "text": "Overdue Package",
+   "count": 1,
+   "type": "item",
+   "id": 11724
+  },
+  {
+   "text": "Goodsteel's Balanced Flameberge",
+   "count": 1,
+   "type": "item",
+   "id": 11723
+  }
+ ],
+ "series": [
+  4449,
+  4450
+ ],
+ "points": [
+  {
+   "zoneId": 51,
+   "zone": "Searing Gorge",
+   "point": "start",
+   "type": 2,
+   "id": 173265,
+   "name": "Wooden Outhouse",
+   "coord": [
+    65.5,
+    62.2
+   ],
+   "coords": [
+    [
+     65.4,
+     62.2
+    ],
+    [
+     65.5,
+     62.2
+    ],
+    [
+     65.6,
+     62.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 51,
+   "zone": "Searing Gorge",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 5856,
+   "name": "Glassweb Spider",
+   "coord": [
+    67.4,
+    68.6
+   ],
+   "coords": [
+    [
+     58.4,
+     53.4
+    ],
+    [
+     58.4,
+     53.8
+    ],
+    [
+     59,
+     52.8
+    ],
+    [
+     59.2,
+     53.6
+    ],
+    [
+     59.2,
+     54.6
+    ],
+    [
+     59.2,
+     71.6
+    ],
+    [
+     59.4,
+     52.4
+    ],
+    [
+     59.4,
+     70.4
+    ],
+    [
+     59.4,
+     70.8
+    ],
+    [
+     59.6,
+     52.6
+    ],
+    [
+     59.6,
+     53.6
+    ],
+    [
+     59.6,
+     70.4
+    ],
+    [
+     59.6,
+     70.6
+    ],
+    [
+     60,
+     52.4
+    ],
+    [
+     60,
+     69.4
+    ],
+    [
+     60.4,
+     67.8
+    ],
+    [
+     60.6,
+     69.6
+    ],
+    [
+     60.8,
+     49.4
+    ],
+    [
+     60.8,
+     52.8
+    ],
+    [
+     61,
+     70.6
+    ],
+    [
+     61.2,
+     53.6
+    ],
+    [
+     61.2,
+     68.2
+    ],
+    [
+     61.4,
+     50.4
+    ],
+    [
+     61.4,
+     51.4
+    ],
+    [
+     61.4,
+     52
+    ],
+    [
+     61.4,
+     68.8
+    ],
+    [
+     61.6,
+     50.4
+    ],
+    [
+     61.6,
+     68.2
+    ],
+    [
+     61.6,
+     69.2
+    ],
+    [
+     61.8,
+     51.8
+    ],
+    [
+     61.8,
+     71.6
+    ],
+    [
+     62,
+     70
+    ],
+    [
+     62.2,
+     51
+    ],
+    [
+     62.2,
+     52.6
+    ],
+    [
+     62.4,
+     54.2
+    ],
+    [
+     62.4,
+     54.6
+    ],
+    [
+     62.4,
+     70.8
+    ],
+    [
+     62.6,
+     51.2
+    ],
+    [
+     62.6,
+     53.6
+    ],
+    [
+     62.6,
+     70.4
+    ],
+    [
+     62.8,
+     53.4
+    ],
+    [
+     62.8,
+     71.2
+    ],
+    [
+     63,
+     54.6
+    ],
+    [
+     63.2,
+     52.4
+    ],
+    [
+     63.2,
+     71.6
+    ],
+    [
+     63.4,
+     69.4
+    ],
+    [
+     63.6,
+     51.8
+    ],
+    [
+     63.6,
+     53.2
+    ],
+    [
+     63.6,
+     53.6
+    ],
+    [
+     63.8,
+     35.4
+    ],
+    [
+     64,
+     50.4
+    ],
+    [
+     64,
+     50.8
+    ],
+    [
+     64,
+     68.2
+    ],
+    [
+     64,
+     69.6
+    ],
+    [
+     64.4,
+     68.8
+    ],
+    [
+     64.8,
+     50.6
+    ],
+    [
+     64.8,
+     68.6
+    ],
+    [
+     65,
+     68.4
+    ],
+    [
+     65.2,
+     37.4
+    ],
+    [
+     65.2,
+     49.6
+    ],
+    [
+     65.4,
+     34.4
+    ],
+    [
+     65.4,
+     34.6
+    ],
+    [
+     65.4,
+     36.2
+    ],
+    [
+     65.4,
+     38.4
+    ],
+    [
+     65.4,
+     38.6
+    ],
+    [
+     65.4,
+     45.4
+    ],
+    [
+     65.4,
+     48.4
+    ],
+    [
+     65.4,
+     49
+    ],
+    [
+     65.4,
+     77.6
+    ],
+    [
+     65.4,
+     78.6
+    ],
+    [
+     65.6,
+     36.6
+    ],
+    [
+     65.6,
+     38.4
+    ],
+    [
+     65.6,
+     38.6
+    ],
+    [
+     65.6,
+     48.2
+    ],
+    [
+     65.6,
+     48.6
+    ],
+    [
+     65.6,
+     49.6
+    ],
+    [
+     65.8,
+     34.6
+    ],
+    [
+     65.8,
+     35.6
+    ],
+    [
+     65.8,
+     46
+    ],
+    [
+     65.8,
+     47.2
+    ],
+    [
+     66,
+     45
+    ],
+    [
+     66.2,
+     34.2
+    ],
+    [
+     66.2,
+     51.4
+    ],
+    [
+     66.4,
+     33.4
+    ],
+    [
+     66.4,
+     39.6
+    ],
+    [
+     66.4,
+     43.8
+    ],
+    [
+     66.4,
+     51.6
+    ],
+    [
+     66.4,
+     53.4
+    ],
+    [
+     66.4,
+     68.2
+    ],
+    [
+     66.6,
+     33.4
+    ],
+    [
+     66.6,
+     34.2
+    ],
+    [
+     66.6,
+     38.2
+    ],
+    [
+     66.6,
+     38.8
+    ],
+    [
+     66.6,
+     43.2
+    ],
+    [
+     66.6,
+     51.4
+    ],
+    [
+     66.8,
+     34.6
+    ],
+    [
+     66.8,
+     41.6
+    ],
+    [
+     67,
+     40.4
+    ],
+    [
+     67,
+     41.4
+    ],
+    [
+     67,
+     45.2
+    ],
+    [
+     67.2,
+     46.6
+    ],
+    [
+     67.2,
+     52
+    ],
+    [
+     67.2,
+     68
+    ],
+    [
+     67.4,
+     44.2
+    ],
+    [
+     67.4,
+     45.6
+    ],
+    [
+     67.4,
+     53
+    ],
+    [
+     67.4,
+     53.6
+    ],
+    [
+     67.4,
+     68.6
+    ],
+    [
+     67.6,
+     39
+    ],
+    [
+     67.6,
+     46.6
+    ],
+    [
+     67.6,
+     51
+    ],
+    [
+     67.6,
+     52
+    ],
+    [
+     67.6,
+     53.2
+    ],
+    [
+     67.6,
+     53.6
+    ],
+    [
+     67.8,
+     45.2
+    ],
+    [
+     67.8,
+     46
+    ],
+    [
+     68,
+     37.6
+    ],
+    [
+     68.6,
+     45
+    ],
+    [
+     68.8,
+     49.4
+    ],
+    [
+     69.2,
+     50.6
+    ],
+    [
+     69.4,
+     50.4
+    ],
+    [
+     69.6,
+     50.6
+    ],
+    [
+     69.8,
+     50.2
+    ],
+    [
+     71,
+     17.6
+    ],
+    [
+     71.2,
+     17.4
+    ],
+    [
+     71.6,
+     16.8
+    ],
+    [
+     72.2,
+     20
+    ],
+    [
+     72.4,
+     19.4
+    ],
+    [
+     72.6,
+     19.6
+    ],
+    [
+     72.8,
+     19.2
+    ],
+    [
+     74.2,
+     16.6
+    ],
+    [
+     74.4,
+     16
+    ],
+    [
+     74.6,
+     16.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "end",
+   "type": 1,
+   "id": 5411,
+   "name": "Krinkle Goodsteel",
+   "coord": [
+    51.4,
+    28.8
+   ],
+   "coords": [
+    [
+     51.4,
+     28.8
+    ],
+    [
+     51.6,
+     28.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": [
+  {
+   "rating": 254,
+   "date": "2006-12-13T06:05:48-06:00",
+   "body": "The Godsteel Ledger is outside the outhouse.\r\nThe Leg Shafts are off of spiders in searing gorge\r\nThe Overdue Package is  54,55 in Dustwallow Marsh.\r\nGodsteel's Balanced Flameberge is 91,66 in the Swamp of Sorrows.\r\n\r\n- SJ",
+   "replies": [
+    "For those without coordinate add-ons, the name of the place for \"The Overdue Package\" is called Beezil's Wreck and you'll find it Northeast of the Stonemaul Ruins on the map. It's right up against the mountain ridge.  If you search amongst the wreckage, one of the of the boxes can be opened and the package is inside.",
+    "For Goodsteel's Balanced Flameberge, you're looking for a murloc named \"Jarquia.\" When you kill her she should drop teh Flameberge that you need.  Jarquia's position is somewhat random, but she will appear along the Misty Reed Strand in the Swamp of Sorrorws.  Also, depending on your level, you should be able to pull her away from any other murlocs around her, so you only have to take her out and not a whole pack. Jarquia is a level 47 murloc.",
+    "You don't need an addon to see coordinates. Simply make a new macro and insert these lines into it: /script px,py=GetPlayerMapPosition(\"player\") /script DEFAULT_CHAT_FRAME:AddMessage(format(\"( %s ) %i,%i\",GetZoneText(),px *100,py *100));",
+    "Jarquia was lvl 46 for me :)",
+    "Glassweb spiders to be exact. Searing Lava Spiders don't drop the quest item."
+   ]
+  },
+  {
+   "rating": 107,
+   "date": "2006-11-04T08:21:53-06:00",
+   "body": "Don't forget to pick up the ledger - you don't get it automatically. It appears in front of the outhouse. You can talk to him again if you miss it.\n\nThe leg shafts drop from Glassweb Spiders in Searing Gorge. The Overdue Package is in Dustwallow Marsh, and the sword is by the eastern coast of Swamp of Sorrows, carried by a named murloc. Check the links in the quest description above for exact positions.",
+   "replies": []
+  },
+  {
+   "rating": 90,
+   "date": "2006-07-19T18:17:01-05:00",
+   "body": "These items listed below are the items required for the quest Ledger from Tanaris.\n\n1. Krinkle Goodsteel's Ledger\n&nbsp; -Appears by outhouse after accepting this quest\n2. Crystal Leg Shafts\n&nbsp; -Dropped from Glassweb spiders in Searing Gorge (these spiders can be found directly North and West of where you accapt this quest)\n3. Goodsteel's Balanced Flamberge\n&nbsp; -Dropped from Jarquia(?) in Swamp of Sorrows&nbsp; (spawns near the mmiddle of the beach on the&nbsp; Eastern edge of SoS)\n4. An Overdue Package\n&nbsp; -By far the hardest item to find. Found in Dustwallow Marsh by a crashed Zeppelin (Beezil's Wreck). The easiest way to find this is to go to the mountains surrounding Dustwallow Bay (not the mountains surrounding the entire region), then to head south until it says that you've discovered Beezil's Wreck (if you've got your minimap open and zoomed all the way out, it'll look like a tiny black line on the ground when you get close enough). It's a tiny package on the ground, so just search around, it'll be there.\n\nI hope these directions help those who are having trouble completing this quest, and those who are too lazy to figure these things out on their own.",
+   "replies": [
+    "I will just add that the instructions in the ledger itself are very good. The key is to get the ledger, which I didn't do when i got the quest. Even though he said 'here's the ledger', I didn't see it lying on the ground....I love my pet gorilla, but sometimes he blocks my view :(",
+    "4. An Overdue Package - Large square box with flame on corner of it."
+   ]
+  },
+  {
+   "rating": 44,
+   "date": "2007-04-01T06:17:01-05:00",
+   "body": "Overdue package - [u]54,55[/u] (dustwallow)\n\nGodsteel ledger - [u]66,62[/u] (Searing Sorge)\n\nLeg shafts - spiders drop them (Searing Sorge)\n\nGoodsteel's Balanced Flameberge - [u]91,66[/u] (swamp of sorrows)",
+   "replies": []
+  },
+  {
+   "rating": 34,
+   "date": "2005-01-19T19:38:54-06:00",
+   "body": "The ledger reads:\n\n            Goodsteel Ledger\n_________________________________________\n\n           page 1\n\nGreetings and Salutations.\nAdventurers!\n\nI, Krinkle Goodsteel, have need of\nThose willing to put themselves at\nrisk in order to complete some of my\nmost arduous tasks. Because of my\nmany duties and the workload I've \nmanaged to take upon myself, I ensure\nthat anyone brave enough to complete\nthis list of items and return them to me\nintact will be paid handsomely.\n\nThe list is contained on the following\npages...\n___________________________________________\n\n                     page 2\n\nSolid Crystal Leg Shafts -\n\nThe Glassweb spiders of Searing Gorge\nare made of an incredible\ncrystal-like material. Their legs, if not\ndamaged when they're killed, make for\na wonderful conductor in some of my\ncompanions' engineering experiments.\n\nI will need a number of them to test\nupon. The spiders having eight possible\nlegs themselves should be no problem\nfor a stalwart warrior or practiced\nmage.\n__________________________________________\n\n                page 3\n\nAn Overdue Package -\n\nI hired someone who I thought was a\nreliable pilot to bring me a package\nfrom Theramore. I was apparently\nwrong. And even though the pilot\nlived to tell the tale, he left his entire\nzepplin and all it's cargo behind to\nsave his own neck.\n\nWell, I need that package back. From\nwhat Beezil tells me, he crashed just\nwest of the bay in Dustwallow\nMarsh. It went down just after he\ncrossed the hills along the water's\nedge.\n\nHmmm... never did tell me what caused\nhim to crash...\n________________________________________\n\n                page  4\n\nGoodsteel's Balanced Flameberge -\n\nFinally, I want one of my finest\nworks of blacksmithing to date. This\nflameberge was an incredible sword\nthat I bestowed upon what I thought\nwas a very honorable and great\nwarrior. Well, he was tronced by a\nmurloc named Jarquai? Something like\nthat.\n\nIt was while he was traveling along\nthe coast of the Swamp of Sorrows\nwhen he thought to attack the\ncreature. He failed and aperantly\nfled, but not before leaving the\nweapon behind for this murloc to\ntake.\n_______________________________________\n\n                  page 5\n\nFind me these items and return to\ngadgetzan with them all, along with\nthis ledger, and I will reward you.\n\n\n\n\n\n\n_____________________________________________\n\n\nAdditional note:\n\nTo aquire the ledger be sure to look at the ground next to the outhouse as it is slid under the door and you need to click on it to pick it up, he does not actually hand it to you.\n\nEdited, Wed Jan 19 13:40:43 2005",
+   "replies": []
+  },
+  {
+   "rating": 33,
+   "date": "2005-09-30T18:17:01-05:00",
+   "body": "When you accept the quest the ledger appears on the ground by the outhouse. If its not there, just talk to him again and he'll drop it on the ground. I thought I never recieved it either, but you you have to actively pick it up.",
+   "replies": [
+    "If you are like me and forgot to pick up the ledger the first time out...you may need to go back at some point and get it.&nbsp; If you have the quest, you have all you need.&nbsp; You must speak to the guy locked in the outhouse...when the textbox appears asking to see the ledger again, click on the actual text inside the textbox to advance to the next screen.&nbsp; (it is a little confusing here because the only button associated with the box is a red \"goodbye\" at the bottom) At that point, the book appears on the ground for you to put in your inventory.&nbsp; I went back and forth for a whi"
+   ]
+  },
+  {
+   "rating": 33,
+   "date": "2019-11-26T20:33:05-06:00",
+   "body": "So you don't have too scroll down to far, in Swamp of Sorrows you are looking for a named murloc on the back called Jarquia, who drops the flaberge.  Questie's icon puts him in a turtle shell hut thing at 94.50 or so, but he is often elsewhere.  Check at 91.66 first as this is where I and many others below found him in the open.  Level 46, easy kill.",
+   "replies": [
+    "exactly what I was looking for, thank you"
+   ]
+  },
+  {
+   "rating": 32,
+   "date": "2019-09-15T08:01:33-05:00",
+   "body": "So....for WoW Classic... To make it easier for those looking for old posts about it:\r\n\r\nThe ledger appears in front of the outhouse for you to click on the ground.  If it disappears, click the outhouse again and ask to borrow it.  It will appear again.",
+   "replies": [
+    "And, for WoW Classic, which is really busy now, there's a lot of competition for spiders. I got 6 yesterday killing as many as I could find, then their respawns. Took me a while to figure out how to get the ledger, and came here because I didn't bother to read the ledger, when reading quest text and notes and ledgers is important again. Had no idea I was going to Swamp of Sorrows or the zeppelin wreckage in Dustwallow."
+   ]
+  },
+  {
+   "rating": 23,
+   "date": "2006-05-07T18:17:01-05:00",
+   "body": "To be a bit more accurate since there are three types of spiders in Searing Gorge. The ones that you are looking to kill for the shafts are Glassweb Spiders. One place to find them is around Sea of Cinders/Grimslot Dig Site/Tanner's Camp.",
+   "replies": []
+  },
+  {
+   "rating": 20,
+   "date": "2006-07-19T18:17:01-05:00",
+   "body": "I just completed this quest and my coords are as follows:\n\nThe Overdue Package (Dustwallow) = 53,55\n&nbsp; Path to get there = 55,50\n\nGoodsteel's Balance Flanberge (sword dropped from Jarquia the murloc in Swamp of Sorrows) = 93,51\n(he is a blue colored murloc standing next to a large turtle shell)\n\nI did this easily as a 49 druid in cat form. there are spiders and slimes there (40-41)in the area of the wreck.\n\nHappy hunting!\nShandor",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2007-04-10T22:14:57-05:00",
+   "body": "The sword \"Goodsteel's Balanced Flameberge\" drops off of the named murloc right outside of the turtle house at 94, 52 in swamp of sorrows",
+   "replies": [
+    "it was already mentioned by poster above",
+    "His name is JARQUIA."
+   ]
+  },
+  {
+   "rating": 14,
+   "date": "2005-10-22T21:18:05-05:00",
+   "body": "The dwarf in the outhouse will put the ledger on the ground. If you miss it you can request it again. Strange thing is even if you let him out and watch him head off and disappear his voice will still come from the outhouse when clicked.\n\nSolid Crystal Leg Shafts are found on Glassweb spiders found throughout Searing Gorge.\n\nThe overdue package is found at the crashsite in Dustwallow Marsh west of Theramore at coords 54,55\n\nAnd lastly the Balanced Flameberge is found on a named level 46 Murloc called Jarquai in Swamp of Sorrows. He is found along the eastern beach at coords 91,66\n\nNow take the items to Goodsteel in  Gadgetzan, Tanaris for your reward.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2007-03-05T09:41:36-06:00",
+   "body": "Just to be perfectly clear, I did this quest on March 5 2007 and kept a clear eye on my combat text and I got a number of the spider leg drops on fights where I critted multiple times.\n\nCrits [b]do NOT[/b] affect drop rate.\n\nIt is just that the drop rate sucks.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2005-09-30T18:17:01-05:00",
+   "body": "I found the [u]Goodsteel's Balanced Flameberge[/u] at 91,66 of a murloc named Jarquai",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-11-06T06:17:01-06:00",
+   "body": "From Theramore, cross the bay swimming untill you reach Tloc 56,51. There climb up the hills (there is a passage in Tloc 55,51), turn left, and u find in Tloc 54,56 the damage crate.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-01-18T06:17:01-06:00",
+   "body": "[b]Godsteel's Balanced Flameberge:[/b] this item is a drop from a Murloc named jarquia. For my fellow hunters just use humanoid tracking around this area of the beach. Shaqweeta's coordinates may be correct for some, but I caught up with this dude at 94,64.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-06-13T06:17:01-05:00",
+   "body": "located at [b]54,55[/b] It is in wreckage on land that is on fire in [b]Beezel's Wreck[/b] area",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-05-02T08:46:48-05:00",
+   "body": "Whats the big deal with the spiders? I had absolutely no problem getting all of the legs. drop rate was fine. Didn't throw my keyboard once. Lvl 51 lock.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2019-10-30T18:41:22-05:00",
+   "body": "I made an account just to say that this quest is evil... go across two continents all over the place, just for under 3g worth of reward, experience not being full starting 52, with 1k experience penalty for each level after 51. The experience being comparable to that of killing between 5 and 25 mobs, which is significantly faster than doing this quest.",
+   "replies": [
+    "It's all relative. You pick up the ledger from the questgiver, the spiders are all over his neighborhood. The only traveling involved is Nethergarde for the Swamp of Sorrows murloc. Theramore is a good place to keep your hearthstone anyway, so if you have it there, it's pretty easy to get the crate from Beezil's Wreck and then fly to Gadgetzan.",
+    "I can't pick up ledger. Is this thing bugged?",
+    "No problem with the ledger except forgot to pick it up first time. You can click on the outhouse and he'll slide out a new one for you. As for whether it's worthwhile, maybe yes, maybe no. I'm having a hard time finding enough mid-40's quests, and it shouldn't be full XP at level 52 - the mobs you fight are low to mid 40's. And if you combine some of the travel with other quests - there's another quest to pick up a package in Beezil's wreck, the cooking quest and the Swamp-of-Sorrows driftwood quest can be done on the same beach as the named murloc - maybe it's a little less waste of time.",
+    "Spiders nearby & plentiful...yes indeed...'til quest accepted. 3/4 of the pop de-spawned upon accepting the quest....leaving me to wander around & compete with others for legs. That coupled with slooow spider spawn time makes a person pissed and crazy. 65 spiders/47 min later-I FINALLY got all 20 legs. This is worse than sucking hind tit. This quest value is up to the individual, but as a hunter....such time-suck quests waste my ammo-which I must buy b/c thorium veins are as rare as 100% drop-rate. Cloning toons & paying an add $15/mos just to keep playing classic for this--DEF NOT WORTH IT."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-30T18:17:01-05:00",
+   "body": "I think he respawn in random location among 3 camps in the coast... as of 4/1/05 he respawn near 93.51.. You just have to scount around the area to find him.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-09-30T18:17:01-05:00",
+   "body": "The overdue package can be found in Dustwallow Marsh at Beezil's Wreck. Location 56,68.\n\nThe Solid Crystal Leg Shafts drop from the Glassweb Spiders in Searing Gorge. They can be found around the Digging site and the Northern gate to Ironforge. Drop rate is not very high. Some drop none at all, others drop 1, 2 or 3 legs at a time. A little bit of grinding, but not too bad. Except for the respawns which is slow on these mobs.\n\nThe murloc you need to slay for the sword is called Jarquia. He can be found along the coast side of the Swamps of Sorrows, just east of Sunken Temple.\n\nGood luck hunting and Light be with you.\n\nGrazia - Moonglade",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-10-12T15:46:06-05:00",
+   "body": "The package is in Dustwallow, 54.07 - 55.90, it's a crate and I'm standing on it.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-10-31T14:05:24-05:00",
+   "body": "Have to complete Caught! quest first to get this one.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-30T18:17:01-05:00",
+   "body": "could someone plz give the location of that Overdue Package? i cant find it after i read the book where is that ship?",
+   "replies": [
+    "It's a pain in the neck to find a way through those mountains to get to Beezil's Wreck, huh?&nbsp; He couldn't wreck himself in a more convenient place.&nbsp; ;)&nbsp; Anyway, if you have a mod with coordinates, then you can get over those mountains from at least two easy places.&nbsp; 55, 50 is the one that'll take you directly to the wreck.&nbsp; It's ingrained in some of us from multiple Onyxia death runs.&nbsp; =/&nbsp; hehe.&nbsp; Swim to that coordinate... then run directly over that small hill and end up at his wreck.\n\nIf you don't have a map with coordinates, then you get some funky di",
+    "PERFECT!&nbsp; Go exactly parallel with (but slightly south of)the word ISLE.&nbsp; You'll hit the trail.&nbsp; After you go up the hill turn left and soon you'll see the crash area.&nbsp; Box has a small \"fire\" on it.",
+    "The overdue package is exactly at 54.1 55.9 in Dustwallow Marsh"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-18T06:17:01-06:00",
+   "body": "For me it was on and off. I would get several drops in a row then kill 10+ spiders without even getting one. I eventually did get all of them. Probably 50 or 60 spiders in all (I don't mind, for me they are good XP). \n\nThe others were no problem at all since I use an addon with coordinates. (if you don't have one imagine the map as roughly 100x100 and estimate)\n\nLots of leg-work though, so I don't know if its really worth it.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-01T06:17:01-06:00",
+   "body": "Thanks, but I found Jarquia at 93, 51.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-01T06:17:01-06:00",
+   "body": "I find him a the very center of the beach.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-01T06:17:01-06:00",
+   "body": "ye this thing is exactly where zeppelin crashed",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-07T18:17:01-05:00",
+   "body": "Found him a bit higher up north at 93,51.&nbsp; Basically he'll be along the coast.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-07T18:17:01-05:00",
+   "body": "Instead of running around Dustwallow on the road if u just head west through the water towards coords 55,50 you will be able to go through the mountains and get to you desired location.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-07T18:17:01-05:00",
+   "body": "I found her at 93,50",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-08-25T06:17:01-05:00",
+   "body": "thx for the so excellent directions...was able to complete this quest with my 49 priest in no time flat",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-30T18:17:01-05:00",
+   "body": "This mob strolls up and down the beach I got him at 93.52",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-30T18:17:01-05:00",
+   "body": "Found the overdue package in a \"damage crate\" at 54,56",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-30T18:17:01-05:00",
+   "body": "beezils wreck is at 54,55",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-02-23T18:17:01-06:00",
+   "body": "Correct coordinates for the Overdue Package are 54,55.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-01-14T05:55:33-06:00",
+   "body": "The guy in the outhouse passes the book under but when i say goodbye i dont not have it. ansy one know what i am doing wrong?",
+   "replies": [
+    "Happened to me too. Just right click the outhouse again, ask for the ledger back and it shows up."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2007-03-09T23:21:18-06:00",
+   "body": "A couple of notes:\n\nAt 56,52 (or very close) is a pass through the mountains. This is a handy way of getting to the wrecked zepplin for those who don't want to run allllll the way around the barrier in Dustwallow. It at least lets you back to Theramore Isle with no delay.\n\nJust so we're clear on this, an item not dropping after you get a critical hit does [i]not[/i] prove that criticals eliminate the drop. There's this little thing called \"statistics,\" and \"scientific method,\" which I applied by noticing that I got a number of crits (it's a rare fight that I don't get a few, being an Arms-based Warrior) and still picked up the crystal legs. (Actually, I kinda feel sorry for those fighters who get so few criticals that they notice when one does happen.)\n\nI did forget to pick up the ledger, so I went back for it. The way you ask is funny: \"I'd like another copy of the ledger, if... um... if you're not doing anything else with it.\" OJ, it's not Emo Philips, but it's a bit of fun.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2019-10-18T20:36:57-05:00",
+   "body": "I watched Jarquia respawn at exactly 94,61",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-30T18:17:01-05:00",
+   "body": "The Spiders adjacent to the outhouse don't seem to&nbsp; actually drop these. Funnily enough it's only the ones everywhere else that do, e.g. the ones NE of the site",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-07T18:17:01-05:00",
+   "body": "She's now popping at 93,51 and 91,66",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-25T06:17:01-05:00",
+   "body": "I found Jarquia at 95,52.&nbsp; She must respawn in diff camps.&nbsp; Just go to a diff camp if u dont find her.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-18T12:20:40-05:00",
+   "body": "The book is on the floor by the door to the outhouse. Did the quest last night. If you 'miss' the book you can right click the outhouse and ask to see it again. He then puts another on the floor. The book has to be right-ckicked to 'open' it and the ledger is inside (yeah a bit strange that the book is a container for the ledger).",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-09T12:05:19-06:00",
+   "body": "Named Murloc is middle of the beach...\n\nCrashsite is almost due east of Tabetha to her side of the mountains lining the bay.  I haven't found a shortcut there so you really need to go up to north point tower and back down along the mountains.  Box is behind the front end of the crash site.",
+   "replies": [
+    "There is a shortcut to the crashsite, just go north out of theramore, hang a left, then swim to 55,50.  There is a ramp you can climb up there",
+    "You got it right on the money! This shortcut saved a huge amount of time. I was back to the gryphon in a few minutes.",
+    "There is no such thing as behind the front end of the crash site.  How do you tell the front end of a crash?  Which side is behind the front end: North, South, East, or West?  This is the same problem with directions such as right and left: right and left depend on which direction you are facing.  You eliminate a lot of confusion if you use compass directions unless you can define facing exactly.  I love directions like \"when you are facing the ramp\": do you mean up the ramp or down the ramp?  What do you do if there are multiple ramps?"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-31T20:56:04-06:00",
+   "body": "The spider legs took me 20 minutes to get then all. One dropped 5.  I am using a retribution pally.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-27T03:12:41-05:00",
+   "body": "After taking the shortcut mentions above, proceed to 54,55. That is the actual crash site where you can loot the Overdue Package. Its a crate next to the left wing.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-25T19:16:05-06:00",
+   "body": "Jarquai moves around. Roams between the co-ords mentioned. Just have to look.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-28T03:08:28-05:00",
+   "body": "Sence patch cant pick up the book. Just can point and be like o nice its on the ground.",
+   "replies": [
+    "I picked it up just fine."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-19T08:38:41-05:00",
+   "body": "Where do i get the ledger from?\nAnd i what area?\n\n\ncheers",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-06T21:28:28-06:00",
+   "body": "The crystal legs dropped just fine for me. I collected most of them in 2's, 3's and one in 4. Damage done to them doesn't effect the droprate! I collected them all in about 20 min...\n\nThe Murloc Jalguar, is at 91,66 give or take (he paces the shore a little)...Very easy kill. Didn't aggro any other mobs.\n\nAt last the crate with the late shipment is at 54,55. no mobs to fight thru...It's just sitting right there ready for you to pick it up...Done!\n\nI got 5050 xp at lvl 50, and took the rod and sold it for over a gold. Didn't need the mail girdle cuz I wear plate, so the rod was a nice quest reward (for the G).\n\nFinished whole quest in about an hour and 10 min.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-19T12:27:17-06:00",
+   "body": "Its confirmed that the \"confirmation\" is wrong, I critted on a spider today, got 4 legs drop from it",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-02T16:42:14-05:00",
+   "body": "Cosmos 54,55",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-30T17:13:48-05:00",
+   "body": "bloody hell, only 500XP at lvl 56...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-24T05:09:46-06:00",
+   "body": "lvl 60    u get 500 exp 15 rep with gadgetzen\npick the rod, it sells for 1g 29 silver",
+   "replies": [
+    "in a small Murloc village near the dead beached turtle."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-30T01:19:38-05:00",
+   "body": "if someone is having trouble gathering solid crystal leg shaft from glassweb spiders,its not the crappy drop rate,infact its \" you \".The point is ,critical hits reduces the drop rate(1 crit = loss of one leg),8 crits = no legs at all....i'm a rogue and i removed all my agility items to reduce crits (was bare naked) and voila!  i had 5-6 drops in 1 kill...enjoy",
+   "replies": [
+    "couldn't find any difference between crits and non-crits, I've had more drop with several crits and none drop with no crits.  My believe is that it just depends on the roll of the dice for the drops.\n",
+    "\". . . .its not the crappy drop rate,infact its \" you \"\"\n\nI have to agree here. I killed these spiders for over an hour and only got 1 leg. Then I took off almost all my toon's clothes-everything that had strength and agility--and I stopped casting damage on them. There was a nekkid Tauren killing spiders bare-fisted in Searing Gorge but the drop rate shot up to 3 or 4 per kill. It seems as though if you hit them too hard, you knock the drop right out of them."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-22T17:52:18-05:00",
+   "body": "found murlock @ camp 94, 52 Swamp of sorrows\n\nEdited, Thu Jun 22 12:42:15 2006",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-27T07:22:39-06:00",
+   "body": "Well... don't make the mistake of abandoning the quest if you think that it's \"bugging\" and not giving you the ledger. I had it complete, except the ledger, and I thought that it just wasn't giving to me. I abandoned, and lost ALL of the items- legs and all.\n\nthe ledger shows up on the ground in front of the outhouse door when you ask to see it again.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-08T10:33:47-05:00",
+   "body": "the name of the murloc is actually jarquia. can confirm finding him at 94,52 in swamp of sorrows.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-14T19:06:10-06:00",
+   "body": "coords on the crystal legs please..",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-21T02:04:41-06:00",
+   "body": "uhhh my level 47 hunter is hitting 600-800 crits and is still dropping 4-2 legs a peice so where ever youre getting this crit info is sad",
+   "replies": [
+    "Crits affecting Drop rates.. That is just outa hand stupid..\n\nOne another note.. I have noted that when I am wearing my tin foil hat I get waaay more World Epic drops.. Just something to keep in mind"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-22T21:38:59-06:00",
+   "body": "about 93,51  you can pull him from that spot jargula (sp) was its neame was a golde brown color rather thean the blue magenta",
+   "replies": [
+    "I fought him at 91,66. ",
+    "I also found the Murloc (Jagular) at 93,51"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-24T15:38:12-06:00",
+   "body": "Drop Rate Spider So poor :( OMG !",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-25T02:15:25-06:00",
+   "body": "well Tchugach, the reason you don't understand what we are talking about is because you are a rouge.  Rouges primary damage is by stings and poisons.  When i did this quest I did no physical damage at all, using only damage over time stings or poisons and resulted in 100% - 400% drop rate off every spider.  If I used a phyical attack I'd be be lucky if anything dropped at all.\n\nThis is not the only kind of quest like this.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-25T16:02:36-05:00",
+   "body": "crash site at 54,55",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-08T11:34:38-05:00",
+   "body": "[url=/npc=9916]jarquia[/url]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-16T06:39:27-06:00",
+   "body": "well the posts about the glassweb spiders and not critting makes for more shafts just isnt true. i crit alot on the 1st and got nothing, crit only once on the next few and got nadda, even on the few that i didnt crit at all i got absolute zilch.\n\nstupid spiders >.<\n\nEDIT: found something strange tho, after a good amount of dead spiders i was trying diffrent methods to see what would drop most, oddly enough the times that i used no melee to kill them resulted in multiple shaft drops. coincidence? maybe! :D\n\n[i][small]Edited, Nov 16th  2006 at 12:48am PST by CocoDaMunky[/small][/i]",
+   "replies": [
+    "same thing happened to me i was using my pet and i killed him with bow and i got legs then i melee cuz my pet didn't growl enough and guess what? i didn't get anything"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-03T18:56:41-05:00",
+   "body": "After killing 37 spiders I got 21 legs @ 57%\n\n3x 4 legs\n1x 2 legs\n1x 3 legs",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-17T18:49:34-05:00",
+   "body": "For those without cosmos the wreck is in the hills sort of in the centre on that bump of land that juts out due west of Theramore.  It's called Beezil's Wreck and you will get a discovery bonus for it. It's a big smoking wreck and easy to spot if you're close to it. Your best bet is to swim west of Theramore and run up into the hills like you would if you were headed towards Tabetha's hut.  Hope that helps.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-06T13:43:55-06:00",
+   "body": "Picked up my Goodsteel from Jarquia in Swamp of Sorrows at 91,66\nHe's a purplish murloc",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-20T15:39:40-06:00",
+   "body": "no idea where you guys are getting this crit info from.  My rogue just did this, was critting about 45% of the time, and I got 20 shafts off of about 9 spiders.",
+   "replies": [
+    "Ditto. Crits have nothing to do with the drop rate."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-17T11:57:49-06:00",
+   "body": "A couple of people posted that they only recieved 500 xp from completing this quest (at levels 56 & 60). If you do this quest when you're supposed to, the XP & Rep gain is much much nicer.\n\n5050 XP at lvl 46 and 350 gadgetzan rep.\n\nfor rogues doing the first part (crystal shafts) don't assume you have to be naked and unarmed to get the drops...although you have to be mindful of your attack.\n\nthe method I found out the best for getting decent drops goes as follows\n\nstart off doing a garotte, with deadly poison III applied to your weapon(s)(instant poison should work as well) do a normal attack, which means avoid the temptation to use sin strike. then, when your combo points build up a bit (usually only 2-3 cp) hit the spider with a rupture, and let the normal attacks and the DoTs finish them off. almost all of my drops using this method produced 2-4 legs.\n\nfor those rogues using weapons that do frost damage, (like the coldrage dagger) I would suggest putting it in your pack, and use a different weapon...this seams to kill the drop all together. However, using the SM quest reward of the Black Menace should work fine, as shadow damage doesn't seem to affect the drop rate.\n\nand definately stay away from ambush/eviscarate because those will also kill your drop rate as well.",
+   "replies": [
+    "And how exactly are you garotting a non-humanoid target...?"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-26T17:26:32-06:00",
+   "body": "The Leg Shafts are the hardest part here. I farmed them for about 15 minutes before I got the 20. Most would drop 1 at a time but some do drop 3 and 4's at a time. \r\n\r\n5050 xp for some time farming and a fairly decent wand.",
+   "replies": [
+    "Yup, drop rate is about 30%. At least they have a chance to drop x4 of them."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-02-20T11:19:43-06:00",
+   "body": "XP Gained @ Level 48 was 5050",
+   "replies": [
+    "I received 5050 at level 52 as well. "
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-11-25T20:07:20-06:00",
+   "body": "If you are wondering NPCs paid 52s for the girdle",
+   "replies": [
+    "And 1.29 gold for the wand."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2020-09-26T04:35:54-05:00",
+   "body": "With all the traveling involved, this quest is not worth doing. In addition, the spider drop rate is horrendous. \r\n\r\nIf you need a wand, get it from somewhere else. This quest is just not worth the time and effort.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-11-26T14:50:52-06:00",
+   "body": "For the Solid Crystal Leg Shafts that drop off of the Glassweb Spiders, you are going to want to try to aviod criting if at all possible, since you will get more off of them if you don't crit.  They might have changed this in a patch, but I just did it and seemed to get more when I didn't crit.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-03-26T09:06:49-05:00",
+   "body": "I'm a 51 shadow priest and I don't crit that often with Mind Blast; I mostly just bubble, SW:P and Mind Flay.  Took me about 15 mins all up.\nMost of the spiders dropped 1-5 legs at random, and I didn't have that many empty drops.  Crits affecting drop rates is just plain silly.\nOn another note, quest handin for 51 is (or was for me), 5050xp and 350 rep with Gadgetzan.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-03-20T21:04:35-05:00",
+   "body": "the next person that posts about crits affecting your drop rate( witch is retarded) im gonna go chuck norris/leeroy jenkins on your ass....drop rate is ALL STATS of course if you didnt listen to the 50 million other people thats cool they obviously have brains",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2007-02-17T03:29:12-06:00",
+   "body": "It is confirmed! Any crits and u will lose the spider legs. I solo's it as lvl 46 Hunter. I disarmed my weapons, and sent my pet in first, i then layed fire traps on the spiders and skilled up my unarmed.. xD \n\nIf u were to forget to pick up the Goodsteel Ledger, it will appear again by the outhouse if u talk to him again. \n\nNice quest with good reward! I got 5050 xp for it!",
+   "replies": [
+    "[quote]It is confirmed! Any crits and u will lose the spider legs.[/quote]\n\nNo offense but your one experience doesn't confirm [i]anything[/i].  \n\nFurthermore, this whole idea of crits reducing the drop rate just plain doesn't make any sense.  \n\nDo you really think Blizzard programmers would waste their time (and the company's money) adding in a whole new mechanic to the loot system for one drop, especially when that one drop is needed for a minor mid-level quest?  Doesn't even come close to passing the logic test I'm afraid...\n\n[i][small]Edited, Feb 18th 2007  9:29pm by Phins[/small][/i]"
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2007-04-08T23:09:30-05:00",
+   "body": "Ok, you are all missing the joke here.  \"Crit 8 times and get no legs.\"  He is kidding around.  Of course someone, thinking that this is true, noticed a time where they didn't crit and received a leg and suddenly they believe this as a fact instead of someone just being funny.  Don't be upset at SpecialistEonar just because someone did not have a sense of humor and took him/her serious.  It would be like saying that in the quest where you need to bring back someone's head, you need to make sure you use a sword or axe and not a mace or staff because you wont cut the head off you will just smash it.  Jokes people, (not always funny apparently) but it's a joke.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-02-25T17:47:35-06:00",
+   "body": "Did the spiders with a 51 Warrior.  Critted the hell out of them and got the legs in about 20 minutes.",
+   "replies": [
+    "How does the drop rate relate to crits? It never did and it never will. I mean some classes have higher crits than others, and having droprate dependant on crits will introduce imbalance between classes. "
+   ]
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "id": 92847,
+ "name": "Corrupting Tears",
+ "level": 42,
+ "reqlevel": 35,
+ "side": 1,
+ "zoneId": 16651,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3450,
+ "start": {
+  "type": "npc",
+  "id": 253136,
+  "name": "Orgrul",
+  "zone": "Shen'dralas",
+  "zoneId": 16651,
+  "coords": [
+   [
+    35.6,
+    12
+   ],
+   [
+    35.8,
+    13
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253136,
+  "name": "Orgrul",
+  "zone": "Shen'dralas",
+  "zoneId": 16651,
+  "coords": [
+   [
+    35.6,
+    12
+   ],
+   [
+    35.8,
+    13
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Maintain your reputation with the Magram, and bring 3 Petrified Bark and 3 Imbued Tears back to Orgrul . Petrified Bark  ( 3 ) Imbued Tears  ( 3 )   Magram Clan Centaur  ( Honored )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 254841,
+   "name": "Petrified Bark",
+   "count": 3,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 254840,
+   "name": "Imbued Tears",
+   "count": 3,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Petrified Bark",
+   "count": 3,
+   "type": "item",
+   "id": 254841
+  },
+  {
+   "text": "Imbued Tears",
+   "count": 3,
+   "type": "item",
+   "id": 254840
+  }
+ ],
+ "series": [
+  1385,
+  1386,
+  1369,
+  92743,
+  92841,
+  92846,
+  92847,
+  92873,
+  92894,
+  93066,
+  93072,
+  93188,
+  93196
+ ],
+ "points": [
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "start",
+   "type": 1,
+   "id": 253136,
+   "name": "Orgrul",
+   "coord": [
+    35.6,
+    12
+   ],
+   "coords": [
+    [
+     35.6,
+     12
+    ],
+    [
+     35.8,
+     13
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "end",
+   "type": 1,
+   "id": 253136,
+   "name": "Orgrul",
+   "coord": [
+    35.6,
+    12
+   ],
+   "coords": [
+    [
+     35.6,
+     12
+    ],
+    [
+     35.8,
+     13
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-07T23:50:34-05:00",
+   "body": "Petrified Bark - scattered across Shen'dralas in the Valley of Bones as white trees.\r\n\r\nImbued Tears - Purchased from Warug ( coordinates 75, 68 ) at the price of 5x Carved Centaur Totem for 3x Imbued Tears.\r\n\r\nThe totems required for Imbued Tears can be farmed from many of the centaur within Desolace.",
+   "replies": []
+  }
+ ]
+}

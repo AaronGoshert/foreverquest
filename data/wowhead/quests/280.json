@@ -1,0 +1,241 @@
+{
+ "id": 280,
+ "name": "A Dark Threat Looms",
+ "level": 18,
+ "reqlevel": 16,
+ "side": 1,
+ "zoneId": 38,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 680,
+ "start": {
+  "type": "npc",
+  "id": 1093,
+  "name": "Chief Engineer Hinderweir VII",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    46,
+    13.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 1585,
+  "name": "Explosive Charge",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    50.6,
+    14.4
+   ],
+   [
+    50.6,
+    14.5
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Chief Engineer Hinderweir wants you to swim down to the base of the dam, locate the powder keg and stir in the Disarming Mixture to prevent an explosion. Disarming Mixture (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 2610,
+   "name": "Disarming Mixture",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  250,
+  199,
+  161,
+  274,
+  278,
+  280,
+  283
+ ],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 1093,
+   "name": "Chief Engineer Hinderweir VII",
+   "coord": [
+    46,
+    13.6
+   ],
+   "coords": [
+    [
+     46,
+     13.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 2,
+   "id": 1585,
+   "name": "Explosive Charge",
+   "coord": [
+    50.6,
+    14.4
+   ],
+   "coords": [
+    [
+     50.6,
+     14.4
+    ],
+    [
+     50.6,
+     14.5
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 96,
+   "date": "2005-09-28T11:23:10-05:00",
+   "body": "One way to find the barrel without coordinates:\n1. Run along the dam to the east.&nbsp; \n2. Bring up your world map.\n3. When you get to the \"U\" in Stonewrought Dam, jump in and swim down.&nbsp; \n4. The barrel is very small and hard to see, but it's there in the corner.&nbsp; \n\nGood luck!",
+   "replies": [
+    "I dove straight down from the U, like instructed, and had no problem finding the barrel. Thanks for the great directions!",
+    "about jumping in at the U in the dam name",
+    "Perfect instructions; give this man a gold star."
+   ]
+  },
+  {
+   "rating": 10,
+   "date": "2005-09-28T11:23:10-05:00",
+   "body": "coordinates 50, 14",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-04-03T19:27:33-05:00",
+   "body": "Located around 51, 14 at the bottom of the dam. It's a small brown keg that can be hard to see, I had to swim around several times before I noticed it. It's slightly hidden in a corner.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-09-28T11:23:10-05:00",
+   "body": "51,14 right in the corner",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2004-11-29T19:12:31-06:00",
+   "body": "Soon as you get the quest, turn around and jump off the edge of the dam.  Swim eastwardly till you spot the barrel.  Mix it, no problem.\n\nThe only possible problem you might have is that there are a ton of those stupid frenzy's around and they will try and tag you.  Best plan is to clear the area real quick, because the last thing you want to do is get 90% done with the barrel, get interrupted, fight, then stop mid battle and swim for air.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-28T11:23:10-05:00",
+   "body": "sitting on the bottom of the loch, just to the right of midline hiding in the corner. good luck",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-05-13T13:24:58-05:00",
+   "body": "Jump in by the third cannon, the one farthest north. It's very nearly right below it.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-28T11:23:10-05:00",
+   "body": "Can someone tell were i can find that powerder keg without thottbot locs?\nI swam the whole area in front of dam, but couldn't find it",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-05T17:00:26-06:00",
+   "body": "How do you know youve found the barrel ? Ive found a barrel but I cant do anything with it. \n\nEdited, Mon Dec  5 11:07:09 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-07T08:01:23-06:00",
+   "body": "i soloed this quest as a lvl 20 Pally. not bad you just got to be carfull.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-02T06:27:10-06:00",
+   "body": "There's another keg at 56,13 (left hand side of the ramp, next to the Iron Dwarves). I don't know if this one works as well since I already defused the one at 51,14. If anyone wants to try it out..",
+   "replies": [
+    "That's the keg you have to find to complete the first quest in the chain; chances of it also completing the chain are minimal ;)"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-12T09:42:09-05:00",
+   "body": "Middle East as everyone above has said ...\n\nVery close to Dam wall, look close I missed it the first time I swam past it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-25T17:42:31-05:00",
+   "body": "Just solo'd the whole thing as a lvl 18 hunter with a wolf. Didn't have much luck with the bear or boar so I got the wolf out of the stables. What was almost impossable with the other 2 was nearly (nearly...lol) simple with the wolf....) \n\n[i][small]Edited, Mar 25th 2007  4:43pm by Estelaura[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-22T07:14:32-06:00",
+   "body": "I wasn't expecting the barrel to be so small, and it took me a while to find. Look very closely!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-01T02:50:41-06:00",
+   "body": "in a crook in the wall on the bottom. not too bad.  had to swim around three times though before i saw it. follow the wall exactly after u jump in mid span and swim east",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-18T08:33:19-05:00",
+   "body": "The barrel is at (51,14)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-03T21:45:39-05:00",
+   "body": "Btw, by \"base of the dam\" they mean the south side...not the north. If you go to the north you have a very long walk back..hah",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2004-11-21T17:28:43-06:00",
+   "body": "Ok the Keg, is at the foot of the damn.  Its more to the East side, unless spawn location is random.  It can be hard to locate if everyone is doing the quest atm.  Just be patient it will respawn.  Best thing to do is probably camp a visible location and see if a keg spawns.  Thats your target.\n\nR,\nNacho",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-02-04T02:24:24-06:00",
+   "body": "Location is 50,15",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-05-05T11:23:10-05:00",
+   "body": "How can I use the mixture in water? I tried everything...",
+   "replies": [
+    "Just right-click the charge, and a window popped up to complete the quest."
+   ]
+  },
+  {
+   "rating": -3,
+   "date": "2005-09-28T11:23:10-05:00",
+   "body": "From the big tree trunk on the bottom follow the wall of the dam eastly. The corner is close by but cannot be seen from the trunk.",
+   "replies": []
+  }
+ ]
+}

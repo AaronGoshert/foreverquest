@@ -1,0 +1,221 @@
+{
+ "id": 2701,
+ "name": "Heroes of Old",
+ "level": 57,
+ "reqlevel": 45,
+ "side": 3,
+ "zoneId": 4,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 6000,
+ "start": {
+  "type": "npc",
+  "id": 7750,
+  "name": "Corporal Thund Splithoof",
+  "zone": "Swamp of Sorrows",
+  "zoneId": 8,
+  "coords": [
+   [
+    33.4,
+    66
+   ],
+   [
+    33.4,
+    66.6
+   ],
+   [
+    33.6,
+    66
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 141980,
+  "name": "Spectral Lockbox",
+  "zone": "Swamp of Sorrows",
+  "zoneId": 8,
+  "coords": [
+   [
+    33.4,
+    66
+   ],
+   [
+    33.5,
+    66
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Open the chest and claim your reward.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [
+  2783,
+  2801,
+  2681,
+  2702,
+  2701
+ ],
+ "points": [
+  {
+   "zoneId": 8,
+   "zone": "Swamp of Sorrows",
+   "point": "start",
+   "type": 1,
+   "id": 7750,
+   "name": "Corporal Thund Splithoof",
+   "coord": [
+    33.4,
+    66
+   ],
+   "coords": [
+    [
+     33.4,
+     66
+    ],
+    [
+     33.4,
+     66.6
+    ],
+    [
+     33.6,
+     66
+    ]
+   ]
+  },
+  {
+   "zoneId": 8,
+   "zone": "Swamp of Sorrows",
+   "point": "end",
+   "type": 2,
+   "id": 141980,
+   "name": "Spectral Lockbox",
+   "coord": [
+    33.5,
+    66
+   ],
+   "coords": [
+    [
+     33.4,
+     66
+    ],
+    [
+     33.5,
+     66
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 30,
+   "date": "2007-03-22T18:04:35-05:00",
+   "body": "Best quest ever, get 6k xp for clicking on a box right next to the quest giver.",
+   "replies": []
+  },
+  {
+   "rating": 23,
+   "date": "2006-12-15T21:51:56-06:00",
+   "body": "Leads to the quest: Kirith: https://www.wowhead.com/forever/quest=2721",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-08-15T18:04:35-05:00",
+   "body": "the chest apperas right beside the quest giver",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-03-22T18:04:35-06:00",
+   "body": "I finished the quest, and it offered me the chest. My bags were full when I first excepted the quest, so I got nothing. I dropped one thing from bag, abandoned quest and accepted it again. The chest appeared on the ground and the guy disappeared. But it wouldn't let me open the chest and then the chest disappeared. Anyone know what I'm not getting here? Do I have to go somewhere else to get the chest?",
+   "replies": [
+    "just talk to the fallen hero again and he will give u an option \"hero, i have urgent business with corporal splithoof\" then he will appear again."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-31T01:13:58-06:00",
+   "body": "definitely worth the time, 16750xp and a decent trinket.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-10-11T22:27:33-05:00",
+   "body": "roughly 16,000xp for entire quest as lvl 52 Hunter",
+   "replies": [
+    "I got 16,500 xp plus the shard.  I was about jumping up and down, I was so surprised!  Pushed me into lvl 55 and made me want to go out and find more quests like this one. "
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-27T18:04:35-05:00",
+   "body": "I also could not find him anywhere?&nbsp; Can anyone help?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-27T18:04:35-05:00",
+   "body": "he appars beh. you then u acc. quest\nif you have acc. just abandon and acc. again.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-08T18:04:35-06:00",
+   "body": "When you go to the Second guy to get your reward. He says click on the chest. Which is right beside him. So if you are on your mount you wont see it. Once you collect your reward go back to the fallen hero and he will have another quest for you to do.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-06T09:40:49-06:00",
+   "body": "6000 XP on 56 lvl. Easily soloed (rogue).",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-03T23:05:37-06:00",
+   "body": "What is the reward for this quest?",
+   "replies": [
+    "Once yo finish with the Corpral, look left, you should see the chest / box."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-08T12:58:07-05:00",
+   "body": "Any rep increases from this line of quests?",
+   "replies": [
+    "Not that I saw, only the 6000 EXP at 57."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-13T06:09:57-06:00",
+   "body": "Messed up, left before I opened Chest near NPC.Went back, and tried talk to NPC, but chest didnt appear.Any advice? Or am I screwed.\n\nThanks",
+   "replies": [
+    "I did the same thing.  Abandon the quest, and the Corporal gets a ! over his head again.  Take the quest and the chest appears again.\n"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-31T01:05:31-06:00",
+   "body": "This was a pretty easy quest to do although its quite long. Soloed as a 52-53 paladin.\n\nThough it would be worth pointing out that the servants are not unique.  Meaning you can kill the same one once he respawns and it will still count.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-15T02:06:30-06:00",
+   "body": "[item=10659]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-17T17:37:58-05:00",
+   "body": "This trinket says it gives +5 mana/hp regen per tick. Correct me if I'm wrong, but that means 5 mana every 2 seconds. And 5 hp every 2 seconds. All in all this is kinda awesome...",
+   "replies": [
+    "well, it increases your basic regens by that amount. In other words, you don't get the effect for HP: while in combat\nfor MP: for 5 secs after casting a spell\n\nalso afaik a tick is 3 seconds, not 2.\n\nIts an O.K. trinket but if you're one of these people that rather med each 1-2 fights than getting some decent spirit you won't like this that much. And it isn't very usefull for warriors and rogues either as most of them bandage after a fight and proceed into the next one, meaning they hardly get any benefit of this."
+   ]
+  }
+ ]
+}

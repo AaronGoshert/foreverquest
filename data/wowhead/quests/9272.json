@@ -1,0 +1,93 @@
+{
+ "id": 9272,
+ "name": "Dressing the Part",
+ "level": 55,
+ "reqlevel": 49,
+ "side": 3,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 2546,
+  "name": "Fleet Master Firallon",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    30.4,
+    90
+   ],
+   [
+    30.6,
+    90.4
+   ],
+   [
+    30.6,
+    90.6
+   ]
+  ]
+ },
+ "patch": "1.13.3.33155",
+ "objectiveText": "Completion Yarrr... if ye be keen on enjoying the company of us experienced sea dogs, you'd best belay dressing like a blaggard!  Here, put on something proper 'fore I keelhaul yer hide. These'll fit ye better than they ever fit that old dog, Red-Eyed Ben.  Lost him in a devil of a storm at sea. Wear 'em with pride, mate!",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "end",
+   "type": 1,
+   "id": 2546,
+   "name": "Fleet Master Firallon",
+   "coord": [
+    30.6,
+    90.4
+   ],
+   "coords": [
+    [
+     30.4,
+     90
+    ],
+    [
+     30.6,
+     90.4
+    ],
+    [
+     30.6,
+     90.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 18,
+   "date": "2007-04-16T19:22:02-05:00",
+   "body": "Hated - 1,440 Booty Bay Bruiser\nHostile - 120 Booty Bay Bruiser\nUnfriendly   -      120 Booty Bay Bruiser\nNeutral - 120 Booty Bay Bruiser\nFriendly - 420 Booty Bay Bruiser",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-11-12T17:16:41-06:00",
+   "body": "soo how about someone post something useful, like where to get the quest. instead of OMg look at my screenshots",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-26T07:30:23-06:00",
+   "body": "You can longer get this quest from pretty boy duncan. Once you are neutral with the bloodsail pirates. Just goto Fleet Master Firallon and talk with him. He will give you the uniform. You must be friendly to start on the quest for the hat.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-07-20T21:11:04-05:00",
+   "body": "First thing i did when 1.11 was out was to farm up hordes of cloth to get my rep with the steamwheedle back up...\nDidn't know about this think.\nA bit late now though..\n\nGot the chest from the van cleef in DM though, and that go very well with the hat.\nBetter than this one acutaly.\nAnd the swashbuckler boots of the <something> as feet.\nBoth of the items are redish.\nThen the dark leather pants for legs.\nthe set i've got looks like this one, just that the chest is red instead of white, and i don't have any belt.\n\nNow i'm max hated with the bloodsails, so can't get this in a loooong time if i should try, so i'll stick with the stuff i have now :)",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "id": 96408,
+ "name": "A Visitor to Dun Morogh",
+ "level": 13,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 680,
+ "start": {
+  "type": "npc",
+  "id": 1376,
+  "name": "Beldin Steelgrill",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    50.4,
+    49
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 264936,
+  "name": "Earthseer Farsen",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    64.8,
+    58.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Investigate the campsite overlooking the Gol'Bolar Quarry.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [
+  96408,
+  96392,
+  96390
+ ],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1376,
+   "name": "Beldin Steelgrill",
+   "coord": [
+    50.4,
+    49
+   ],
+   "coords": [
+    [
+     50.4,
+     49
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 264936,
+   "name": "Earthseer Farsen",
+   "coord": [
+    64.8,
+    58.4
+   ],
+   "coords": [
+    [
+     64.8,
+     58.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-26T12:28:55-05:00",
+   "body": "There's a small path leading to him when coming from south to north.",
+   "replies": []
+  }
+ ]
+}

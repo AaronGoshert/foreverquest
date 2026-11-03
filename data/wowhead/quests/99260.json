@@ -1,0 +1,105 @@
+{
+ "id": 99260,
+ "name": "Fillion's Mission",
+ "level": 10,
+ "reqlevel": 5,
+ "side": 1,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 85,
+ "start": {
+  "type": "npc",
+  "id": 253285,
+  "name": "Fillion Flamebreeze",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    66.2,
+    79.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252475,
+  "name": "Elaadrin Evengale",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    66.4,
+    79.8
+   ],
+   [
+    66.6,
+    79.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.70009",
+ "objectiveText": "Speak with Elaadrin Evengale in Valanaar.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 252475,
+   "name": "Elaadrin Evengale",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  92849,
+  92850,
+  99260,
+  92840,
+  92834,
+  92860
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 253285,
+   "name": "Fillion Flamebreeze",
+   "coord": [
+    66.2,
+    79.8
+   ],
+   "coords": [
+    [
+     66.2,
+     79.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252475,
+   "name": "Elaadrin Evengale",
+   "coord": [
+    66.6,
+    79.8
+   ],
+   "coords": [
+    [
+     66.4,
+     79.8
+    ],
+    [
+     66.6,
+     79.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

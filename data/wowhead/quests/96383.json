@@ -1,0 +1,82 @@
+{
+ "id": 96383,
+ "name": "Legacy Reward: Spectral Bear Cub",
+ "level": 60,
+ "reqlevel": 0,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 6791,
+  "name": "Innkeeper Wiley",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62,
+    39.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 6791,
+  "name": "Innkeeper Wiley",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62,
+    39.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.70291",
+ "objectiveText": "Completion Ah, the great <name> is back. Just as I expected. Why might I, Wiley, the humble innkeeper, expect the arrival of a specific adventurer? Because whoever your secret admirer is still hasn't updated your delivery address! No, no, don't say anything. We're all busy, I get it. Just make sure they get it sorted, alright? Here's your package. I am pretty sure whatever is in it is alive. Or was? At this point, I don't care to find out. I will forever remember it as being both alive and dead.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 6791,
+   "name": "Innkeeper Wiley",
+   "coord": [
+    62,
+    39.4
+   ],
+   "coords": [
+    [
+     62,
+     39.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 6791,
+   "name": "Innkeeper Wiley",
+   "coord": [
+    62,
+    39.4
+   ],
+   "coords": [
+    [
+     62,
+     39.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

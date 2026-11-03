@@ -1,0 +1,113 @@
+{
+ "id": 96783,
+ "name": "A Way In",
+ "level": 34,
+ "reqlevel": 24,
+ "side": 3,
+ "zoneId": -162,
+ "reqclass": 8,
+ "status": "new",
+ "xp": 2700,
+ "start": {
+  "type": "npc",
+  "id": 13085,
+  "name": "Myrokos Silentform",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    85,
+    80.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 656157,
+  "name": "Syndicate Footlocker",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    32.2,
+    26.4
+   ],
+   [
+    32.4,
+    26.7
+   ],
+   [
+    32.5,
+    26.4
+   ],
+   [
+    32.5,
+    26.7
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Steal a Syndicate uniform from Northfold Manor to infiltrate Stromgarde Keep.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 13085,
+   "name": "Myrokos Silentform",
+   "coord": [
+    85,
+    80.4
+   ],
+   "coords": [
+    [
+     85,
+     80.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 2,
+   "id": 656157,
+   "name": "Syndicate Footlocker",
+   "coord": [
+    32.4,
+    26.7
+   ],
+   "coords": [
+    [
+     32.2,
+     26.4
+    ],
+    [
+     32.4,
+     26.7
+    ],
+    [
+     32.5,
+     26.4
+    ],
+    [
+     32.5,
+     26.7
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-05T10:16:46-05:00",
+   "body": "Item located at 32.3, 26.6 in Arathi Highlands",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": 96101,
+ "name": "The Great Outdoors",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 3,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 405,
+ "start": {
+  "type": "npc",
+  "id": 263664,
+  "name": "Raan Wildwind",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    41.6,
+    44.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 263664,
+  "name": "Raan Wildwind",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    41.6,
+    44.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Sit near Raan's Basic Campfire and wait until you receive the Boosted Rest buff.   Sit near the campfire  ( 1 )   Gain the Boosted Rest buff  ( 1 )",
+ "objectives": [],
+ "objectiveRows": [
+  {
+   "text": "Sit near the campfire",
+   "count": 1,
+   "type": "event",
+   "id": null
+  },
+  {
+   "text": "Gain the Boosted Rest buff",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [
+  96638,
+  96101
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 263664,
+   "name": "Raan Wildwind",
+   "coord": [
+    41.6,
+    44.8
+   ],
+   "coords": [
+    [
+     41.6,
+     44.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 263664,
+   "name": "Raan Wildwind",
+   "coord": [
+    41.6,
+    44.8
+   ],
+   "coords": [
+    [
+     41.6,
+     44.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-21T06:11:29-05:00",
+   "body": "Introduction to camp system.\n\nWill open quests for each profession you learned already (will do so later on for the ones you learn later).\nCamping 101: Profession",
+   "replies": []
+  }
+ ]
+}

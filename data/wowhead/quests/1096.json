@@ -1,0 +1,618 @@
+{
+ "id": 1096,
+ "name": "Gerenzo Wrenchwhistle",
+ "level": 27,
+ "reqlevel": 16,
+ "side": 3,
+ "zoneId": 406,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2200,
+ "start": {
+  "type": "npc",
+  "id": 4201,
+  "name": "Ziz Fizziks",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59,
+    62.4
+   ],
+   [
+    59,
+    62.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4201,
+  "name": "Ziz Fizziks",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59,
+    62.4
+   ],
+   [
+    59,
+    62.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring Gerenzo Wrenchwhistle's Mechanical Arm to Ziz Fizziks in the Stonetalon Mountains . Gerenzo's Mechanical Arm  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 4201,
+   "name": "Ziz Fizziks",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5736,
+   "name": "Gerenzo's Mechanical Arm",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Gerenzo's Mechanical Arm",
+   "count": 1,
+   "type": "item",
+   "id": 5736
+  }
+ ],
+ "series": [
+  1483,
+  1093,
+  1094,
+  1095,
+  1096
+ ],
+ "points": [
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 4201,
+   "name": "Ziz Fizziks",
+   "coord": [
+    59,
+    62.4
+   ],
+   "coords": [
+    [
+     59,
+     62.4
+    ],
+    [
+     59,
+     62.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 4201,
+   "name": "Ziz Fizziks",
+   "coord": [
+    59,
+    62.4
+   ],
+   "coords": [
+    [
+     59,
+     62.4
+    ],
+    [
+     59,
+     62.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 4202,
+   "name": "Gerenzo Wrenchwhistle",
+   "coord": [
+    62.8,
+    40.4
+   ],
+   "coords": [
+    [
+     62.8,
+     40.4
+    ],
+    [
+     62.8,
+     40.6
+    ],
+    [
+     63.6,
+     39.6
+    ],
+    [
+     64.2,
+     39.4
+    ],
+    [
+     64.6,
+     39.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 154,
+   "date": "2007-01-15T03:08:34-06:00",
+   "body": "In order to get up to the top of the waterwheel you need to go over to the far east side of the lake. You'll find a path there that leads up into the cliffs and to the top of the wheel.",
+   "replies": []
+  },
+  {
+   "rating": 40,
+   "date": "2005-09-26T20:14:50-05:00",
+   "body": "The route up the mountain is up the east side.&nbsp; Follow the lake and it takes you to a path leading up to the water wheel area.&nbsp; Make sure you kill Gerenzo without him falling off when he makes a run for it at low health.&nbsp; ;)",
+   "replies": []
+  },
+  {
+   "rating": 32,
+   "date": "2007-01-14T08:14:50-06:00",
+   "body": "I don't know if anyone's mentioned it yet, but here's a trick.\n\nWhen you get to gerenzo focus everything you have on him, kill him, loot him immediately and then book it for the edge and jump off into the lake below.\n\nNot only could it save your life, but its fun too. :)",
+   "replies": []
+  },
+  {
+   "rating": 20,
+   "date": "2005-01-02T18:17:07-06:00",
+   "body": "The trail is up from the right side of the lake.\n\nOnly worth 2200 xp.",
+   "replies": [
+    "it depends on what lvl you are, depends on how much exp u get, the lower the lvl, the more exp u get :D",
+    "um the xp is the same at any lvl that the quest is green, yellow, orange or red, but not at grey (your too high a lvl at that point).  Some peeps say that u also get less xp at green just before the lvl it turns grey, but im not sure about this."
+   ]
+  },
+  {
+   "rating": 18,
+   "date": "2006-10-22T14:22:16-05:00",
+   "body": "64, 39 Cragpool Lake (In the Water Wheel).",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2006-03-05T14:26:50-06:00",
+   "body": "If you do him methodically, he's cake, no matter where he spawns.  Did him with my 23 shaman on the far east platform. \n\nJust kill down to him, target the add.  For myself, dropped earthbind, searing, and healing wave.  Kill the add and run away.  The little mech that spawned despawns when you're out of combat.  Now you have Gerenzo all by his lonesome.  Rinse and repeat.\n\nThere is a roamer that I had noticed before starting, but I figured someone would be dead before he came back around.  Wrong. He made it to me before the deed was done, so i thought...what the heck, 1/3rd health, just jump in the water.  Loot up and jump off.  That leads me to my final suggestion, jump off the east side of the platform.  I had about 300 of my 950ish hps and the fall was for 923.  You do the math. \n\nGood luck to all you hordies doing this.  To you alliance types, jump off the north side. =)",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2005-06-05T22:48:29-05:00",
+   "body": "if u looking for a way to come up, took me ages, look for the trail at loc 73,41. u have to run behind the mountain.\n\nHappy Hunting!\nStaika",
+   "replies": [
+    "The trail is at 69,40 and it heads north"
+   ]
+  },
+  {
+   "rating": 13,
+   "date": "2005-09-26T20:14:50-05:00",
+   "body": "Fairly easy to kill Gerenzo as a 27 rogue straight up (no stealth ambush needed).&nbsp; I missed him on my first pass through the Water wheel area but he was there the second time.\n\nNote: the Water wheel is high above the back of the&nbsp; lake.&nbsp; As&nbsp; previos posters mentioned, swim east though the lake and then follow the path up the mountain and back west to the wheel.\n\nNo mobs in the lake that I saw so its a safe swim.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-06-09T08:14:50-05:00",
+   "body": "Got the arm not from Gerenzo but from one of the mobs on the way up.\n\nRamp is at 68,42 \nGerenzo is at 63,40\n\nConfirmed",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2019-06-14T14:53:29-05:00",
+   "body": "This quest, and all quests in its chain, are available to Alliance as well as Horde characters.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-09-26T20:14:50-05:00",
+   "body": "u gotta go east of the lake and there's a path that goes up and around",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-11-02T08:14:50-06:00",
+   "body": "Tauren Druid solo'd at 24 but unless you can heal lots i dont recomend it, i ended up taking on 3 at once because the dude to Gerninzino's left has a mechanical dude that he has attack you as well",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-09-26T20:14:50-05:00",
+   "body": "The gnome can respawn all around the place, so don't try to camp him if someone killed you before you did.&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-09-26T20:14:50-05:00",
+   "body": "i got the drop (the arm) from one of the guys on the way to gorenzo on the ramps.....strange but yeah i've seen a few ppl say they killed gorenzo and didn't get the arm...i didn't even get it from gerenzo",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-03-28T08:14:50-06:00",
+   "body": "I did the quest solo with my 24 hunter, really easy quest. I just swam in the river until I reached the lake in the north where the waterwheel. Go west and up the moutainpath to the catwalk. There are some doods there so just kill them one at a time, I didnt even notice I killed Gerenzo lol. Got the arm, the arm is in the second window in the loot menu so dont freak out when you dont see it at first.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-06-09T08:14:50-05:00",
+   "body": "tried this last night, but couldn't do it with lv25 priest. Gerenzo is lv27, but he is linked with another lv22 goblin. But my biggest headache is from the mechanical robot that lv22 goblin summons. The robot hits moderately but he hits FAST! My shield cannot hold for 3 sec. If you can sap or sheep the lv22 sidekick, i'd suppose gerenzo is a lot easier to take down. \n\nThe gerenzo's respawn location is not fixed. Although i don't believe he is spawned randomly across all water mill, but he might be on different platforms each time. I probably will come back to get him after getting mind control, then i'll have a little fun.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-06-09T08:14:50-05:00",
+   "body": "This guy spawns in several different spots on the water mill area... Sometimes by the armor merchant, sometimes on the other side of the week on that big flat part, sometimes on a corner platform.... His respawn is bout 10-20 minutes&nbsp; \n\nJust do a /target Gerenzo and there ya go",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-06-09T08:14:50-05:00",
+   "body": "Just a tip for anyone having problems...\n\nI solo'd this, but if you're having problems soloing it, when you get to gerenzo, worry about his friends, not him, and then rush back to your body, eat/drink up, and kill him",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-06-09T08:14:50-05:00",
+   "body": "I had a 26 warrior i went past the mobs and when i got to him and the machine guy i just cast retaliation and watched their health dropped then i hamstringed gerenzo and killed him.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-05-04T00:34:02-05:00",
+   "body": "Level 25 Druid.\n\njudgeing from what ive read he can also be found on right at the very end of the walkway. Dont do what i did, reading thottbot to try and find out where he is, getting to the end and waiting. when i went there, he wasnt at the end but under the \"tent/Gizebo\" bit of the walkway. so he can be found either at the end of the walk way or under the tent.\n\nI worked the other way, I got to the very end and worked my way backwards, by doing it this way i was able to pull him on his own and was quite easy. if you have stealth ability then i would recommend this method. Hope this helps",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-17T14:19:21-05:00",
+   "body": "Just to warn everyone... the respawn rate for everything leading up to the boss... who is easy to kill is EXTREMELY fast. I'm talking almost instantaneous. If you really want a SUPER annoying quest go ahead and try this one.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-12-08T20:14:50-06:00",
+   "body": "I found Gerenzo right next to the salesman. He must just have a long spawn time!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-02-19T20:14:50-06:00",
+   "body": "Did it as a lvl 23 Shaman, pretty straightforward fight but, like everybody else has said before, really look out for the adds. If you get 3 Resists/Parry in a row, you migth get in trouble.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-03-28T08:14:50-06:00",
+   "body": "Killed him twice, each time only got 13 copper, no other loot at all.&nbsp; Killed all the others around him, but still no arm.\n\nAny chance this one is broken?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-05-03T20:14:50-05:00",
+   "body": "as it says above:\n\n* swim over the water\n* follow path to the left (quite obvious track)\n* kill mobs one by one until you reach Gerenzo\n\nthen if your a 24 shaman like me, stand above them and pull one of the mobs, attack it, set out slowing totem\\aggro totem and run away, then go back to gerenzo.\n\nset out fire totem \\ melee attack totem, pull boss, kill it, get loot and smile.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-05-02T03:31:16-05:00",
+   "body": "Didn't get back around to doing this till level 35, but even then with the quest being Gray in my log I got 875xp, 21 silver, some rep with ratchet and the choice of the 2 items. Not bad to go back to even if you are a higher level.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-26T20:14:50-05:00",
+   "body": "After you kill Gerenzo, make sure you check the vendor, he usually have some \"very\" nice Loot for sale at a ridiculous low price.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-14T08:14:50-06:00",
+   "body": "First i killed the mobs around him then i used freeze and slowed him down every time he came near me so for a mage it wasent so hard to do even for a lvl 23 mage ^^",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-03T20:14:50-05:00",
+   "body": "I did this as a 25 warrior, died once when surprised with a mechanical minon dude and accidentally pulled two other gobblins.&nbsp; Healing would have made this WAY easier.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-09T08:14:50-05:00",
+   "body": "Ding'ed to 25 just before i got to him. He has his 22 escourt, which spawns a 3rd escourt, the damned bot. \n\nCake! First off, use distraction to get Gerenzp to look away, then sap his ass. Take out the escourt, dont worry about her bot. Use vanish, and the bot will go away. Then, distract Gerenzo again, Ambush his ass, and take his arms.\n\nDoesn't get more simple than that.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-15T20:14:50-05:00",
+   "body": "East for the lake in Windshear crag, you will find a path araund the mountain and upp to Gerenzo. U gta fight ur way through, im a lvl 24 rogue and i maked it fine :)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-14T08:14:50-06:00",
+   "body": "I managed to pull him solo at 26 by sneaking past him and pulling from the plank nearest to the water wheel with a spell. If you get him alone he's an easy and straightforward fight - I agree that the little engineer dude is the biggest pain if you get him as well.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-13T03:26:50-05:00",
+   "body": "Warlock lvl 23 solo'd.\n\nChain feared the boss mob, killed his add and the little robot thingie he summons. Kept chain fear + dotting the boss mob, unfortunately I agrod another engineer patrol mob which made me sac my VW but at that time the boss mob was on low hp anyway so I nuked his ass off. Quickly pop a healthstone loot him and jump into the water",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-26T20:14:50-05:00",
+   "body": "Click on the name of the item, or NPC or whatever, then click map.&nbsp; Works everywhere here.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-26T20:14:50-05:00",
+   "body": "Whats the spawning time on wrench whistle?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-09T08:14:50-05:00",
+   "body": "Very easy for a level 24 Priest to solo, very easy to find too. Took 4 minutes.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-21T08:14:50-05:00",
+   "body": "i soloed this quest easyly with l24 warlock... just let your voidwalker use suffering to keep them all busy, then curse them, target guards with wand until dead, then sacrifice void and kill gerenzo with shadow bolts...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-19T20:14:50-06:00",
+   "body": "I got this bastard with my lvl 23 Mage really easy.\nI didn't have any problem because he flees.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-28T08:14:50-05:00",
+   "body": "Lvl 24 Enhance Shaman\n\nDied twice.&nbsp; Once when killing Gerenzo (and aggred 2 respawned 21 mobs) and another time when I rezzed and 2 different mobs spawned there again.\n\nWhat makes it difficult si the little mechanical guys they summon have over 500 health and can therfor take a beating.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-06T15:55:38-05:00",
+   "body": "Dide this quite easily, wiped out whole platform and then got to him. just stayed in cat form.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-27T17:37:10-06:00",
+   "body": "i wound gerenzo at co. 64,40.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-18T13:52:25-05:00",
+   "body": "did this at lvl 26. only died once and was able to get back before all the mobs had respawned. got out by jumping from the highest platform into the lake...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-29T18:52:14-06:00",
+   "body": "sat at his location for what was like 15 min he didn't re spawn at all \nLocation is 62 40 I am standing right in the spot were he is sappose to spawn and nothing...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-05T11:03:09-06:00",
+   "body": "Not spawning for me either, feb 5, 07. His lieutennant with the mech has spawned three times already, but no Gerenzo.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-27T17:37:30-06:00",
+   "body": "i found gerenzo at co. 64,40.",
+   "replies": [
+    "just.. don't.. FALL.. I did.. and died and had to run a veeeery long way, all around to get back and all mobs had popped again. No fun... but other than that, it was pretty easy.\n\nGood Luck,\n\nAldebaran"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-28T00:17:56-05:00",
+   "body": "I did this quest solo as lvl 25 hunter.  Since it was so easy, I decided to run all the way to the end of the ramp.  There is a Venture Co. salesman there who sells some good armor.  Most of the stuff was mail; but I got a very good pair of leather pants with high def and good stats.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-29T03:25:00-05:00",
+   "body": "Trail 69,40 small look close.\n\nSoloed lvl 23 warrior; wacked em, picked up hand, died rezed, drop down hill and done.\n\n4 min of walk time to sunrock so 4 more till sickness fades no sweat for over 2k xp.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-09T02:41:22-06:00",
+   "body": "Incredibly easy for lvl 25 Hunter. Gerenzo took a few minutes to spawn. Found him at 64,60 right next to the huge wheel.\n\nAlso, tip: Don't fall off the edge. The water isn't deep enough close to the ramps and you will land on ground and die. Learned this the hard way.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-12T08:01:32-05:00",
+   "body": "almost died with one. pulled gerenzo but an engineer and guardian came also. \n\ni had a 24 windserpent pet for this one.  i was able to put down the two adds but the pet died. i ran for it. good thing gerenzo stayed behind. i healed up and finished the job.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-25T09:18:02-06:00",
+   "body": "I had the same problem jsheppers had. I went to kill him, twice in fact, and had the bad luck of finding an horde in there... right behind me and clawing my back. This happened me twice, and after that the gnome never showed up again. Logged off and back on, abandoned the quest and brough it back, and still nothing. The gnome just wont show up.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-05T00:05:42-05:00",
+   "body": "Just to confirm it's 64,40, northern bank of the Cragpool Lake",
+   "replies": [
+    "The start of the trail is definetly at 69,40 if you swim across the lake hang a left just after you get out if coming from the quest giver side."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-17T20:24:37-06:00",
+   "body": "I am not sure if this was a one time bug or a reoccuring problem.  Put once I went up with several guys and a group before us killed the gnome.  We literally waited over an hour and he still never respawned.  This included us just going back to the begining of the trail and killing everything because we were bored and thought maybe starting over would respawn him.  We eventually left without him ever respawning.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-02T03:22:06-05:00",
+   "body": "I did this as a lvl 27, first got killed by horde, then got to the end and got killed by the guy next to him and his machine. Then the third freakin time the others hadn't respawned so it was just him, I forgot to do my dot on him- 4% he runs off, I turn to kill him and fall. Worst of all I didn't die. So I had to walk clear up and refight everything. If i would of died I could have rez'ed right where he was but nooo. Finally, I tried again and tried to jump to a lower level so I wouldn't have to fight as many, but you can't do it. Those boards are not walkable lol. Anyway, I give up for now. I should of got him on the first or second try, as long as there are no horde and you're smart!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-11T06:16:21-05:00",
+   "body": "I just did this quest as a lvl23 rogue.\n\nSap Gerenzo, beat the goblin on his platform, vanish (this will remove the mech-add created by the goblin), regen, and regularly beat Gerenzo up.\n\nI had no pots, but Gouge+bandage was handy. Beware that he runs like all(?) other humanoids do, so make sure he doesnt run into a heap of adds.\n\nHe ran down the ramp and pulled me a gun-toting maniac. Did a quick loot on Gerenzo, gouged the gunman, bought a pair of pants from the vendor, and jumped into the water.\n\nNot exactly a piece of cake, but doable.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-03T12:16:21-06:00",
+   "body": "Finished this quest as lvl 25 undead warlock. Sent voidwalker to draw mobs attention and  I cast spells until gerenzo was dead, thats when everyone noticed me. I grabbed the arm and jumped off the platform.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-25T03:08:09-06:00",
+   "body": "Is this a horde only quest?",
+   "replies": [
+    "No. It's a neutral quest originated from Ratchet."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-14T08:44:31-06:00",
+   "body": "This is a fairly simple quest, if you go to the lake  there is a trail up the top of the lake. Once you get to the platform he spawns not too far away.\n\nHe is level 27.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-29T10:27:05-05:00",
+   "body": "I've tried to solo this a couple of times and finally managed it with ease as a lvl 30 hunter. It could have been done at an earlier lvl but it depends on which platform Gerenzo spawns. I had him spawning on three different platforms and most of the times he spawned on the last. This is most difficult because there is another mob guarding him (as on all other platforms), but the real problem is that you can't attack him from a distance before you actually set a foot on that platform. However, this is causing his guard to attack you and the guard spawns his little helper and you have to deal with Gerenzo as well. Three of them are a rather tough fight and I never managed to kill Gerenzo and grab his mechanical arm before I died.\nOn my last and finally successful try I had him on the platform with the big machinery and since I was able to attack him from above, it was an easy task because his guard doesn't follow him when you attack Gerenzo directly. \nSo the point is, have a go at Gerenzo from a distance when you can and don't bother taking out his guard first. Gerenzo attacks together with his guard, but his guard doesn't join him when he is under attack.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-09T21:05:18-05:00",
+   "body": "I done this as a lvl 27 gnome rogue, had him and a lvl 21 on me plus his pet... took down the 21, then him, looted his arm, then jumped down into the water and swam off safely.\nUsed evasion skill to improve dodging of course and 1 healing potion.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-16T22:06:00-05:00",
+   "body": "This quest, and all the prerequisites are attainable at level 16. :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-05T06:00:46-06:00",
+   "body": "I tried taking him alone at lvl 28 and got OWNED! There's a swarm that comes out of nowhere of about 3 high level lackeys and even with my pet, I couldn't make it out of there alive. Make sure you have at least 2 lvl 28+ people with you to take on him.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-13T12:35:35-06:00",
+   "body": "Solo'd easily as 26 rogue. Correct coords are 64,40 beside the water wheel norht of Cragpool Lake.  Engineers and reapers are numerous and spawn quickly, so if Gerenzo is not there, try and keep area clear until he respawns.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-11T04:14:00-05:00",
+   "body": "Lots of wrong coords in classic comments. Trail up in Forever: 69,40 (east of lake)",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-13T10:29:52-06:00",
+   "body": "I just got this quest as an Alliance character.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-31T13:07:32-05:00",
+   "body": "really easy, i did it as a 24 shaman. You can pull him so that it is only him and not the engineer right near him.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-21T07:31:00-05:00",
+   "body": "its actually on the far south where the path starts",
+   "replies": [
+    "68,39 is the approx. start of the path."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-09-26T20:14:50-05:00",
+   "body": "I also Killed him but same deal no arm",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-25T19:43:17-05:00",
+   "body": "Solo'd with a 22 Warlock using my Voidwalker to keep him at bay.  wasn't to difficult, had to use a soulstone but if I'd notice I was fighting him and not just a lacky I'd played slightly different.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-04-27T18:41:07-05:00",
+   "body": "All you druids out there - this guy is a piece of cake at 22.\n\nGo up in cat form.  Single pull and solo the normal mobs on the platforms, they're all lev 20 / 21.  Make sure you apply a RIP after the third or fourth Claw, this stops 'em from pulling adds onto you.\n\nWatch out for the Engineer, as he pulls a mechanical helper out of nowhere.\n\nThe main guy is a single pull.  Pull down a level to you (This is how he's a single!) with Faerie Fire whist in humanoid form, change to CAT form right away (You're thinking BEAR, right?  Well no, cat form has the DPS, bear doesn't), Build up 5 combo points with Claw, apply a rip, change back to human, cast a Healing touch, followed by a rejuvenation, then it's back into cat mode to apply more DPS... \n\nMake sure you try to keep a 3 combo point or more rip on the little sod, so if he does run away (And he will at 10%ish) he doesn't make it too far.\n\nNeedless to say you'll have cleared all the other mobs on the lower platforms, right? ;)\n\nIt's amazing you can do this at level 22 solo, the mob is level 27, five levels above you!  Technically you shouldn't be able to lay a finger on his arse, yet the power of the druid shows through again!\n\nAt level 22, I got the cloak, 22 silver, and 2200 XP from this phase of the quest.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-07T12:27:25-05:00",
+   "body": "i kiiled him at lvl 24...  im shaman",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-07-23T19:09:12-05:00",
+   "body": "Easy soloing this as a mage lv.29, just sheep the mob next to him, kill the guy and if you are low on mana just jump down into the water ;) spawned on the  middle platform.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-03-09T17:33:10-06:00",
+   "body": "I'm a Level 22 Orc/Warrior... and is he managable to defeat at this level?\n\nThanks.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2007-05-14T10:26:07-05:00",
+   "body": "This quests reward, the back, [lime]Engineer's Cloak[/lime], is the best lvl 19 caster back for twinkers - sometimes it is better to have [url=/item=12979][blue]Firebane Cloak[/blue][/url] for the FR (twinks use alot of Fiery Weapon-enchant) \n\n+2 intellect gives +20 mana, and some critpercents. +5 FR is just practical at lvl 10-19 Warsong Gulches.\n\nHave a friend along to help you boost your twink. PS: Have a [blue]Firebane Cloak[/blue] too :)\n\nThis long line of quests is started from [url=/zone=37]The Barrens[/url] - [url=/quest=1483]Ziz Fizziks[/url]",
+   "replies": []
+  },
+  {
+   "rating": -11,
+   "date": "2005-02-27T10:23:58-06:00",
+   "body": "I think you're rather mistaken. What swarm are you talking about? I just killed him about 2 minutes ago. No swarm. Hell I didn't even break a sweat.\n\nlv29 Hunter, Wolf pet",
+   "replies": []
+  }
+ ]
+}

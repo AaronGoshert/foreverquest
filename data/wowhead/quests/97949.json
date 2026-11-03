@@ -1,0 +1,105 @@
+{
+ "id": 97949,
+ "name": "Camping 101: Skinning",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 265811,
+  "name": "Lyreena Duskblade",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    57.4,
+    56.6
+   ],
+   [
+    57.6,
+    56.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 6287,
+  "name": "Radnaal Maneweaver",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    42,
+    50
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Speak with Radnaal Maneweaver on the road to Darnassus from Dolanaar to learn to craft a camping item for your profession once you have shown proficiency in your skill.   Raise your skinning skill to 20  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 6287,
+   "name": "Radnaal Maneweaver",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Raise your skinning skill to 20",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 265811,
+   "name": "Lyreena Duskblade",
+   "coord": [
+    57.6,
+    56.6
+   ],
+   "coords": [
+    [
+     57.4,
+     56.6
+    ],
+    [
+     57.6,
+     56.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 6287,
+   "name": "Radnaal Maneweaver",
+   "coord": [
+    42,
+    50
+   ],
+   "coords": [
+    [
+     42,
+     50
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

@@ -1,0 +1,59 @@
+{
+ "id": 97236,
+ "name": "Fang of Githyiss",
+ "level": 5,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 450,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 2082,
+  "name": "Gilshalan Windwalker",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    57.8,
+    41.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Deliver the Fang of Githyiss to someone interested in the study of spiders in Aldrassil.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 2082,
+   "name": "Gilshalan Windwalker",
+   "coord": [
+    57.8,
+    41.6
+   ],
+   "coords": [
+    [
+     57.8,
+     41.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-06T18:41:32-05:00",
+   "body": "[npc=1994] is in the back of the spider cave in Shadowglen. Interesting how she wasn't part of any quest until Cataclysm, but now she's part of the story in Forever!",
+   "replies": []
+  }
+ ]
+}

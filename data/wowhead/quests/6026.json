@@ -1,0 +1,688 @@
+{
+ "id": 6026,
+ "name": "That's Asking A Lot",
+ "level": 58,
+ "reqlevel": 54,
+ "side": 3,
+ "zoneId": 139,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 6200,
+ "start": {
+  "type": "npc",
+  "id": 11033,
+  "name": "Smokey LaRue",
+  "zone": "Eastern Plaguelands",
+  "zoneId": 139,
+  "coords": [
+   [
+    80.4,
+    58
+   ],
+   [
+    80.6,
+    58
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11033,
+  "name": "Smokey LaRue",
+  "zone": "Eastern Plaguelands",
+  "zoneId": 139,
+  "coords": [
+   [
+    80.4,
+    58
+   ],
+   [
+    80.6,
+    58
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Smokey LaRue wants you to get 2 Thorium Bars , 1 Golden Rod , 8 Hi-Explosive Bombs , and 8 Unstable Triggers . You will have to find a blacksmith and an engineer for these items. Thorium Bar  ( 2 ) Golden Rod  ( 1 ) Hi-Explosive Bomb  ( 8 ) Unstable Trigger  ( 8 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 11033,
+   "name": "Smokey LaRue",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 10562,
+   "name": "Hi-Explosive Bombs",
+   "count": 8,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 12359,
+   "name": "Thorium Bar",
+   "count": 2,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11128,
+   "name": "Golden Rod",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 10560,
+   "name": "Unstable Trigger",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Thorium Bar",
+   "count": 2,
+   "type": "item",
+   "id": 12359
+  },
+  {
+   "text": "Golden Rod",
+   "count": 1,
+   "type": "item",
+   "id": 11128
+  },
+  {
+   "text": "Hi-Explosive Bomb",
+   "count": 8,
+   "type": "item",
+   "id": 10562
+  },
+  {
+   "text": "Unstable Trigger",
+   "count": 8,
+   "type": "item",
+   "id": 10560
+  }
+ ],
+ "series": [
+  6026,
+  6041
+ ],
+ "points": [
+  {
+   "zoneId": 139,
+   "zone": "Eastern Plaguelands",
+   "point": "start",
+   "type": 1,
+   "id": 11033,
+   "name": "Smokey LaRue",
+   "coord": [
+    80.6,
+    58
+   ],
+   "coords": [
+    [
+     80.4,
+     58
+    ],
+    [
+     80.6,
+     58
+    ]
+   ]
+  },
+  {
+   "zoneId": 139,
+   "zone": "Eastern Plaguelands",
+   "point": "end",
+   "type": 1,
+   "id": 11033,
+   "name": "Smokey LaRue",
+   "coord": [
+    80.6,
+    58
+   ],
+   "coords": [
+    [
+     80.4,
+     58
+    ],
+    [
+     80.6,
+     58
+    ]
+   ]
+  },
+  {
+   "zoneId": 139,
+   "zone": "Eastern Plaguelands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 230146,
+   "name": "Fel Interloper",
+   "coord": [
+    31.8,
+    30.6
+   ],
+   "coords": [
+    [
+     24.8,
+     20
+    ],
+    [
+     28.8,
+     44
+    ],
+    [
+     31.6,
+     30.4
+    ],
+    [
+     31.8,
+     30.6
+    ],
+    [
+     38,
+     16.4
+    ],
+    [
+     82,
+     36.4
+    ],
+    [
+     82.4,
+     36.8
+    ],
+    [
+     82.6,
+     37
+    ],
+    [
+     82.8,
+     40.4
+    ],
+    [
+     82.8,
+     40.6
+    ],
+    [
+     83.4,
+     46
+    ],
+    [
+     83.4,
+     46.6
+    ],
+    [
+     83.6,
+     46.2
+    ],
+    [
+     84.2,
+     43.2
+    ],
+    [
+     87,
+     42.4
+    ],
+    [
+     87.2,
+     42.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 4,
+   "zone": "Blasted Lands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 223544,
+   "name": "Fel Interloper",
+   "coord": [
+    62.2,
+    39
+   ],
+   "coords": [
+    [
+     34.8,
+     56.2
+    ],
+    [
+     35,
+     55
+    ],
+    [
+     41.2,
+     33.4
+    ],
+    [
+     41.2,
+     33.6
+    ],
+    [
+     43.6,
+     25.2
+    ],
+    [
+     46.2,
+     39.4
+    ],
+    [
+     46.6,
+     39.2
+    ],
+    [
+     48.8,
+     48.2
+    ],
+    [
+     49.2,
+     48.6
+    ],
+    [
+     56.2,
+     36.4
+    ],
+    [
+     56.2,
+     36.6
+    ],
+    [
+     56.6,
+     36.6
+    ],
+    [
+     58.8,
+     41.2
+    ],
+    [
+     59.2,
+     40.2
+    ],
+    [
+     59.8,
+     42.4
+    ],
+    [
+     60.2,
+     46.6
+    ],
+    [
+     60.4,
+     46.4
+    ],
+    [
+     60.6,
+     39
+    ],
+    [
+     60.6,
+     44.8
+    ],
+    [
+     61.8,
+     38.4
+    ],
+    [
+     62.2,
+     39
+    ]
+   ]
+  },
+  {
+   "zoneId": 16,
+   "zone": "Azshara",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 223544,
+   "name": "Fel Interloper",
+   "coord": [
+    30.2,
+    79.8
+   ],
+   "coords": [
+    [
+     16.4,
+     51
+    ],
+    [
+     17.6,
+     58.8
+    ],
+    [
+     21.2,
+     54
+    ],
+    [
+     24.8,
+     47.4
+    ],
+    [
+     24.8,
+     47.6
+    ],
+    [
+     25,
+     81.4
+    ],
+    [
+     25,
+     81.6
+    ],
+    [
+     30.2,
+     79.8
+    ],
+    [
+     33,
+     81.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 357,
+   "zone": "Feralas",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 223544,
+   "name": "Fel Interloper",
+   "coord": [
+    74.2,
+    50.6
+   ],
+   "coords": [
+    [
+     68.2,
+     58.8
+    ],
+    [
+     70.6,
+     62.6
+    ],
+    [
+     72.4,
+     63.6
+    ],
+    [
+     72.6,
+     63.8
+    ],
+    [
+     73.2,
+     54.2
+    ],
+    [
+     74.2,
+     50.6
+    ],
+    [
+     74.2,
+     56.8
+    ],
+    [
+     74.2,
+     60
+    ],
+    [
+     76.2,
+     56.4
+    ],
+    [
+     76.2,
+     56.6
+    ],
+    [
+     76.6,
+     63.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 230146,
+   "name": "Fel Interloper",
+   "coord": [
+    60,
+    65
+   ],
+   "coords": [
+    [
+     20.6,
+     43.2
+    ],
+    [
+     22.4,
+     52.4
+    ],
+    [
+     22.4,
+     52.6
+    ],
+    [
+     24.2,
+     64.2
+    ],
+    [
+     24.2,
+     64.6
+    ],
+    [
+     29.4,
+     43.6
+    ],
+    [
+     36,
+     60
+    ],
+    [
+     36,
+     61.6
+    ],
+    [
+     36.6,
+     61.8
+    ],
+    [
+     37.4,
+     41.8
+    ],
+    [
+     37.6,
+     42
+    ],
+    [
+     57.6,
+     45.2
+    ],
+    [
+     57.6,
+     45.6
+    ],
+    [
+     60,
+     65
+    ],
+    [
+     60.8,
+     64.6
+    ],
+    [
+     69,
+     26.6
+    ],
+    [
+     69.2,
+     26.2
+    ],
+    [
+     71.6,
+     31.2
+    ],
+    [
+     72,
+     30.2
+    ],
+    [
+     72,
+     32
+    ],
+    [
+     85.4,
+     43.6
+    ],
+    [
+     93.4,
+     59
+    ],
+    [
+     93.6,
+     59.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": [
+  {
+   "rating": 119,
+   "date": "2005-10-22T09:58:44-05:00",
+   "body": "Before you correct someone's math make sure you know all the facts first.\n\n3 Mithril = Mithril Casing\n2 Solid Stone = Solid Blasting Powder\n\n1 Mageweave, 1 Solid Blasting Powder, 1 Mithril = Unstable Trigger\n\n2 Mithril Casing, 1 Unstable Trigger, 2 Solid Blasting Powder = 4x HI-Explosive Bombs.\n\nSo in total we need\n2 HI-Explosive Bomb Combines = \n 4 Mithril casings(12 Mithril)\n 2 Unstable Triggers(2 Mithril, 2 Mageweave, 2&nbsp; Solid Blasting Powder(4 Solid Stone))\n 4 Solid Blasting Powder(8 Solid Stone)\n\n8 Unstable triggers(8 Mithril, 8 Mageweave 8 Solid Blasting Powder(16 Solid Stone)\n\n1 Gold Bar\n2 Coarse Grinding Stone = 4 Coarse Stones\n2 Thorium Bars\n\nWhen we add of of them up we have\n22 Mithril\n10 Mageweave\n28 Solid Stone\n1 Gold Bar\n2 Thorium Bar\n4 Coarse Grinding Stone",
+   "replies": [
+    "Thanks for the list but the sum at the end is wrong, you only need 4 Coarse Stones = 2 Coarse Grinding Stones, not 4 Coarse Grindings Stones which would be 8 Coarse Stones ;)"
+   ]
+  },
+  {
+   "rating": 67,
+   "date": "2007-03-18T00:38:28-05:00",
+   "body": "TOTAL Material\n- Thorium Ore (2)\n- Gold Ore (1)\n- Coarse Stone (4)\n- Mithril Ore (22)\n- Mageweave Cloth (10)\n- Solid Stone (28)\n\nTOTAL Skill\n- Engineering [235]\n- Blacksmith [150]\n\nSend all 3 types of ore to some miner [250+], make them all into bars.\nSend Gold Bar, and Coarse Stone to Blacksmith to make Golden Rod\nSend Mihril Bar, Mageweave Cloth and Solid Stone to Engineer to make Bombs and Unstable Trigger",
+   "replies": []
+  },
+  {
+   "rating": 31,
+   "date": "2019-10-28T17:56:39-05:00",
+   "body": "Bloodsail Buccaneers Server - Alliance [ul]\n[li]1.2g (60s*2) for bars[/li][li]25s for rod[/li][li]8g+ (1.03g*8) for bombs[/li][li]9g+ (1.14g*8) for triggers[/li]\n[/ul] So it's roughly 18.5g for the parts, and at best, this quest plus the one after it reward 8.5g, making for a net LOSS of 10g. All that for a couple hundred rep, and a few thousand xp if not already 60. Still a total waste in 2019. :(",
+   "replies": [
+    "Cheers. Was just trying to figure this out.",
+    "The quest rewards from the next step, specifically the [item=5951], can make the outlay of gold worth it for some."
+   ]
+  },
+  {
+   "rating": 20,
+   "date": "2020-04-27T04:42:49-05:00",
+   "body": "Just as a further note to anyone asking if doing this quest is worth it. Spoiler alert: it’s not and I will tell you why.\r\n\r\nThe follow-up gives a few rewards including a FR cloak - at max lvl you can net around 8g from completing the quest if you vendor the rewards. However, like most people have already pointed out, all [i]the materials needed in this step can be time consuming to make or expensive to buy depending on your server’s economy[/i]. \r\n\r\nPeople have said that the [b]cloak is great for MC - however this would only be the case on a new server that doesn’t have Onyxia on farm[/b]. Onyxia Scale Cloak prices to begin with were around 80-120g, but in Phase 5, prices will plummet dramatically - I have picked up the Onyxia cloak for about 23g for my alts. Putting the FR enchant in the cloak from this reward would be a waste of materials (mostly Elemental Fire.)\r\n\r\nThe gear rewards are so-so, but I would say you can [b] invest your time better by farming pre-raid BiS[/b] gear from dungeons instead. \r\n\r\nPeople say that the [i]Moist Towlette[/i] reward more than makes up for it, but to be quite honest...it’s the kind of [b]limited-use item that you will carry in your bags for months on end forgetting you even have it[/b]. It just takes up an extra bag space. Unnecessarily I might add. \r\n\r\n[i]The only scenario that I can see where this quest is worth doing is if you are stacked on alts with the right professions and have a surplus of materials so you can craft all the required items yourself with stock that you already have.[/i] And no, whilst you’re are levelling it is not worth doing for the XP as you will spend more time buying materials and finding crafters for the items which is a lot of down-time. The only time you should be in any AH city is if you’re having down time, a quest instructs you to visit them, if you’re buying gear or training your abilities. Otherwise continuing your world quests is most efficient.\r\n\r\nAnything else is just a waste of gold and time to be honest. Hope this helps some of you decide wether you will actually do this quest.",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2005-08-22T22:59:57-05:00",
+   "body": "Buying all this stuff at the AH is about 16G cost on my server... A bit too much I feel ^^",
+   "replies": [
+    "Live with it.  Triggers cost 50s to make, and I need to make a profit by selling them to make up for the AH deposit if I don't get it back.  Bombs cost even more.\n\nBlacksmiths are the same I have no doubt.\n\nEdited, Mon Feb 27 14:38:13 2006",
+    "What he meant was ofc not that plp with Eng/BS should lower the prices, he simply meant 16g is a bit much for 6200 xp and 1.75g. Thats about 435 xp per gold, which is far to expensive to be worth doing, unless you have A LOT of money and nothing else to buy.",
+    "maybe that's why they named it this way... ;)"
+   ]
+  },
+  {
+   "rating": 12,
+   "date": "2006-10-22T09:58:44-05:00",
+   "body": "This quest is not worth doing at all...\n\nIt costs quite a bit, and takes quite a bit of time. And if that's not a kick in the ass, you get NO ARGENT DAWN REP!\n\nAt least I didn't get any rep at revered.\n\nSo if your doing this for the AD rep grind...don't.",
+   "replies": [
+    "You get the next quest which gives you lootz and more stuff!"
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2006-08-23T21:37:23-05:00",
+   "body": "Gives 0 AD Rep :-(",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-04-12T17:45:26-05:00",
+   "body": "For those of you that are engineers, you'll need about 22 mithril bars total to make the dynamite and the unstable triggers. \n\nStill collecting the ore..  :P",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-10-22T09:58:44-05:00",
+   "body": "It came out about even for me.\n\nCost me about 4 or 5 gold, got 5.5g as a reward (as 60).",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-02-08T21:58:44-06:00",
+   "body": "Those of you who havent noticed this is a relatively easy way to get a fire res cape, crucial for any serious raiders.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-22T21:58:44-05:00",
+   "body": "In some realms this will be the best way to get the Fire Resistance of the quest reward; in others, buying an equivalent item will be cheaper than acquiring the goods to complete the quest. The idea is to find out which applies to you before deciding whether or not to do this quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-10T09:58:44-05:00",
+   "body": "Actually, the Towelettes are pretty damned useful. As a Hunter, it's a useful trick for your epic quest. Not to mention, this is a free source of AD rep, (at Revered, it's one of the few sources you have), so I'm planning on hiring an engineering friend, buying the mats, finishing the quest, pick up some junk, vendor the item rewards and bank the Towelettes until my epic quest.\n\nThe part of the epic quest in question happens to be the Winterspring demon who is a right pain in the buttocks -- but the Towelettes are a way to remove his nasty curse from you if you accidentally slip into the 30 yard zone.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-12T20:17:30-05:00",
+   "body": "So whats the reward for bringing him all this stuff?",
+   "replies": [
+    "leads to next quest which u can pick from few things  which include a 10 FR cloak /win!"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-24T23:34:52-06:00",
+   "body": "Is this quest broken?  I have all the supplies, the quest long shows it as being done, and he has the orange ? over his head, but the complete quest button is grey'd out... what the ?",
+   "replies": [
+    "it says completed because you HAVE everything needed, but it wont let you hit butten because you dont have them on you. some of the required items are in your bank, get them out of there, and have them on you, then you should be able to complete."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-29T14:33:27-05:00",
+   "body": "after consulting web links and in-game trade windows, this is the final tally as was posted way back in april 2005-\n\nfor the triggers and bombs:\n22 x mithril bar\n10 x mageweave cloth\n28 x solid stone\n\nand for the gold rod:\n1 x gold bar\n4 x coarse stone\n\nthat is all",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-14T18:53:53-05:00",
+   "body": "First off, thank you *very* much, Gandie, for laying it all out for Bomb/Trigger mats. You helped me immensely.\n\nSecond off, it costs about 15g to buy all the mats for the items. I spent the most money on buying a stack of 20 mithril bars, which was about 10g, while the rest of the mats cost less than 1g for however many needed. It was, all in all, a pretty easy quest, with a 6200 xp reward.\n\nYes, it costs money, but it does lead to a pretty fun quest, where you get to blow up buildings with the bombs you just made. I find amusement in blowing up buildings...*shifty eyes*",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-10T02:04:56-05:00",
+   "body": "hardest damn explosives to get from AH :P\n\ndone this on two chars now, still havn't completed it on my main and can't find anyone to make the damn things or buy them from AH on my server.  *sigh*",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-10-22T09:58:44-05:00",
+   "body": "1.75 6k+ xp and the rep ;)",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-13T11:37:29-06:00",
+   "body": "First I'm an engineer with the quest open and my engineering craft window open. \nSecond I will try to not make a mistake and be complete in my information. \nThrid I will start with the final desired product and break it down into the componets it takes to make, then break those down. Often a piece (mithril casing) can be bought for less on AH then the raw materials to make it.\n\nSmokey LaRue wants;\n2 thorium bars,\n1 golden rod,\n8 Hi-Explosive bombs,\n8 Unstable triggers.\n\n8 Hi-Explosive bombs takes 2 makes of,\n4 Hi-Explosive bombs per make takes \n2 Mithril Casing,\n1 Unstable trigger\n2 Solid blasting powder.\n\n4 Mithril Casing @ 3 Mithril bar per = 12 Mithril bars (for the casings)\n\n10 Unstable triggers (yes ten) @ 1 mithril bar, 1 mageweave cloth, 1 solid blasting powder per = 10 Mitril bar, 10 mageweave cloth, 10 solid blasting powder.\n\n14 Solid blasting powder @ 2 solid stone per = 28 solid stone.\n(edit) yes 14, 10 for the 10 unstable triggers and 4 for the 2 makes of 4 Hi-Explosive bombs. \n\nSo if walk up to an Engineer and hand him,\n28 solid stone,\n22 Mithril bars,\n10 Mageweave Cloth,\nand ask politly and possibly include some coin he can hand you back\n8 Hi-Explosive bombs and \n8 Unstable triggers.\n\nYou can also hand him,\n14 solid blasting powder\n2  Mithril casings\n10 mithril bars\n10 mageweave cloth\nand he can hand you back the same \n8 Hi-Explosive bombs\n8 Unstable triggers.\n\nThe reason I break it down like this is often Mithril casings or solid blasting powder will sell for less then the ingrediants to make them. This is do to people skilling up on these items then dumping them on AH.\n\n\n\n\n[i][small]Edited, Dec 14th 2006  3:19pm by Gandie[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2019-12-17T13:25:55-06:00",
+   "body": "\"I can pay you half up front and half when the job is done.\"\r\n\r\nGood ol' Blizz with their jokes. Hilarious!",
+   "replies": []
+  }
+ ]
+}

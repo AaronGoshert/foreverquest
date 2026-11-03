@@ -1,0 +1,250 @@
+{
+ "id": 834,
+ "name": "Winds in the Desert",
+ "level": 9,
+ "reqlevel": 7,
+ "side": 3,
+ "zoneId": 14,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 780,
+ "start": {
+  "type": "npc",
+  "id": 3293,
+  "name": "Rezlak",
+  "zone": "Durotar",
+  "zoneId": 14,
+  "coords": [
+   [
+    46.4,
+    23
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3293,
+  "name": "Rezlak",
+  "zone": "Durotar",
+  "zoneId": 14,
+  "coords": [
+   [
+    46.4,
+    23
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Retrieve 5 Sacks of Supplies and return them to Rezlak near Orgrimmar. Sack of Supplies  ( 5 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3293,
+   "name": "Rezlak",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4918,
+   "name": "Sack of Supplies",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Sack of Supplies",
+   "count": 5,
+   "type": "item",
+   "id": 4918
+  }
+ ],
+ "series": [
+  834,
+  835
+ ],
+ "points": [
+  {
+   "zoneId": 14,
+   "zone": "Durotar",
+   "point": "start",
+   "type": 1,
+   "id": 3293,
+   "name": "Rezlak",
+   "coord": [
+    46.4,
+    23
+   ],
+   "coords": [
+    [
+     46.4,
+     23
+    ]
+   ]
+  },
+  {
+   "zoneId": 14,
+   "zone": "Durotar",
+   "point": "end",
+   "type": 1,
+   "id": 3293,
+   "name": "Rezlak",
+   "coord": [
+    46.4,
+    23
+   ],
+   "coords": [
+    [
+     46.4,
+     23
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 51,
+   "date": "2007-03-17T14:34:15-05:00",
+   "body": "This quest can also be completed as Alliance.",
+   "replies": []
+  },
+  {
+   "rating": 21,
+   "date": "2006-10-10T19:20:29-05:00",
+   "body": "Entrance to where you find the sacs [b](49,28)[/b]\n\nWhen you get there you'll see where they are, but if you don't, here are the coords:\n1. sac, left when u enter [b](49,26)[/b]\n2. sac, by entrance to cave [b](51,27)[/b]\n3. sac, right side of the gulch [b](50.25)[/b]\n4. sac, right side, by cactus' [b](50,24)[/b]\n5. sac, at the end of the gulch, left hand side, by cactus' [b](49,22)[/b]\n\nRun through the gulch in direction of Orgrimmar for the shortest path to complete the quest.\n\nCair.",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2006-12-14T07:28:47-06:00",
+   "body": "The above posted is completely correct but I just wanted to clarify some coordinates to help people out.\r\n\r\nTo pick  up this quest you need to see Rezlak, he can be found at: 46,23 for those with coordinates. That's just south of Ogrimmar on the right hand side of the road, for those of you without coordinates :). \r\n\r\nTo confirm the above stated, Razorwind Canyon is located at   (51,32) \r\n\r\nOnce in the canyon, just look for the bags on the ground and loot them. Then head back to Rezlak and he'll give you the next quest.",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2019-06-21T14:46:30-05:00",
+   "body": "Alliance characters can do this quest too, though they will not gain any Darkspear or Orgrimmar reputation for it, only Ratchet reputation.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-04-28T07:59:02-05:00",
+   "body": "i found 4 @ 50,25 and u can just w8 for a lil while and they come back",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-05-10T11:35:13-05:00",
+   "body": "Easiest way to do this is run northeast from Rezlak (questgiver) across the road, then turn south into the opening (beginning of canyon).  5 bags between there and Drygulch to the southeast.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-10T19:20:29-05:00",
+   "body": "The quest items appear as bags, and are usually located around the cati.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-05-17T19:20:29-05:00",
+   "body": "I located 6 bags total:\n\n47,33\n47,33\n48,33\n48,32\n47,29\n47,30",
+   "replies": [
+    "what are you smoking cus youre way out with tloc data............"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2005-11-21T10:16:24-06:00",
+   "body": "775 at lvl 12\n+100 rep with Rachet and DS trolls (if horde)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-09T05:29:10-06:00",
+   "body": "[quote]Additional Notes:\n\nThe sacks are ground spawn in the cavern.\n[/quote]\n\n\nIf you go to 47, 33 you will find the sacks up and down the chasm. When you pick them up new ones spawn in different spots. \n\n[i][small]Edited, Jan  9th 2007  4:24am by suffeli[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-10T19:20:29-05:00",
+   "body": "51,32",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-12-22T19:20:29-06:00",
+   "body": "I did this with all my chars on Altar of Storms, a PvP realm.&nbsp; Sure, I got killed on my way there, but it's all good.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-10T19:20:29-05:00",
+   "body": "46,23",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-10T19:20:29-05:00",
+   "body": "Posted under my friends acct name.. (Celandria) Either way, you have the info.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-16T07:20:29-06:00",
+   "body": "LOL someone killed Rezlak, he takes forever to respawn i been waiting for like 10 min just killing boars. by the way find harpies if you lookin for the sacks. its the the east.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-05T19:20:29-06:00",
+   "body": "U can find the entrace to harpy place in 49,28 and just go in and theres sacks.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-29T19:20:29-05:00",
+   "body": "how do you use the cordinets?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-24T05:54:53-06:00",
+   "body": "This quest & the one that follows are available to the Alliance as well. I just did them. Increases your reputation with Ratchet.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-23T01:56:26-06:00",
+   "body": "I find there only 3 Sacks. Could anyone please give me the coords? Thanks :).",
+   "replies": [
+    "I found the two missing ones at 50,24.\n\nAnd Rezlak is at 46,23."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-07T21:09:14-06:00",
+   "body": "This is a pretty easy quest to do as you work your way to level 10. Simply kill the harpies in Razorwind Canyon and keep an eye out for the sacks of supplies.  Loot 5 of them and call this one done.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-01-30T04:13:30-06:00",
+   "body": "47,33\n48,34\n48,33\n49,33\n49,33",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-03-18T15:19:39-05:00",
+   "body": "Can you say this to somebody that hasn't got cords please?",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2006-03-05T19:20:29-06:00",
+   "body": "I have killed all the harpies (twice) and still no sacks.\n\nThis isn't worth my time. (good for xp do).",
+   "replies": []
+  }
+ ]
+}

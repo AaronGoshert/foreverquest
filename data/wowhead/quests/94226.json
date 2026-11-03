@@ -1,0 +1,80 @@
+{
+ "id": 94226,
+ "name": "Craftsman's Writ: Green Iron Gauntlets",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 2501,
+  "name": "\"Sea Wolf\" MacKinley",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    27.8,
+    77
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Green Iron Gauntlets  ( 1 ) Green Iron Gauntlets  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264026,
+   "name": "Craftsman's Writ: Green Iron Gauntlets",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3485,
+   "name": "Green Iron Gauntlets",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Green Iron Gauntlets",
+   "count": 1,
+   "type": "item",
+   "id": 264026
+  },
+  {
+   "text": "Green Iron Gauntlets",
+   "count": 1,
+   "type": "item",
+   "id": 3485
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "end",
+   "type": 1,
+   "id": 2501,
+   "name": "\"Sea Wolf\" MacKinley",
+   "coord": [
+    27.8,
+    77
+   ],
+   "coords": [
+    [
+     27.8,
+     77
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

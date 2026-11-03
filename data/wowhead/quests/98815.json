@@ -1,0 +1,142 @@
+{
+ "id": 98815,
+ "name": "Highland Hides",
+ "level": 28,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 16732,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1150,
+ "start": {
+  "type": "npc",
+  "id": 2094,
+  "name": "James Halloran",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    8.4,
+    55.8
+   ],
+   [
+    8.6,
+    55.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2094,
+  "name": "James Halloran",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    8.4,
+    55.8
+   ],
+   [
+    8.6,
+    55.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Return 4 Thicket Raptor Hides to James Halloran , the tanner, in Menethil Harbor. Thicket Raptor Hide  ( 4 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 284845,
+   "name": "Thicket Raptor Hides",
+   "count": 4,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Thicket Raptor Hide",
+   "count": 4,
+   "type": "item",
+   "id": 284845
+  }
+ ],
+ "series": [
+  469,
+  484,
+  471
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 2094,
+   "name": "James Halloran",
+   "coord": [
+    8.6,
+    55.6
+   ],
+   "coords": [
+    [
+     8.4,
+     55.8
+    ],
+    [
+     8.6,
+     55.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 2094,
+   "name": "James Halloran",
+   "coord": [
+    8.6,
+    55.6
+   ],
+   "coords": [
+    [
+     8.4,
+     55.8
+    ],
+    [
+     8.6,
+     55.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 8,
+   "date": "2026-10-02T13:12:47-05:00",
+   "body": "Prerequisite: Complete Young Crocolisk Skin by James Halloran in Menethil Harbor\n\nThere is no need to do Daily Delivery beforehand.",
+   "replies": [
+    "This quest shows up along with[https://www.wowhead.com/forever/quest=471/apprentices-duties] but you do not have to take it. There is no portal icon as if this is a dungeon-only quest; however, you can finish this quest inside Excavation Site.",
+    "Are you saying Young Crocolisk Skin HAS to be completed for this quest to unlock? Others are saying you don't so I'm confused.",
+    "I had to complete Young Crocolisk Skins before I was able to get this quest."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-03T08:44:29-05:00",
+   "body": "Quest: [url=https://www.wowhead.com/forever/quest=98815/highland-hides]Highland Hides[/url]\nOthers: [url=https://www.wowhead.com/forever/quests/dungeons/excavation-site-wetlands]Excavation Site: Wetlands[/url]\nType: Dungeon\nReq: Level 24\nStart: Wetlands\nSharable: No (Chain)\nBreadcrumb: [url=https://www.wowhead.com/forever/quest=469/daily-delivery]Daily Delivery[/url]\nFinal Rewards:\n[ul]\n[li]\n[url=https://www.wowhead.com/forever/item=2545/malleable-chain-leggings]Malleable Chain Leggings[/url]\n[/li]\n[li]\n[url=https://www.wowhead.com/forever/item=3561/resilient-poncho]Resilient Poncho[/url]\n[/li]\n[li]\n[url=https://www.wowhead.com/forever/item=3681/recipe-crocolisk-gumbo]Recipe: Crocolisk Gumbo[/url]\n[/li]\n[/ul]\nNote: These details are subject to change throughout Forever's development cycle. Accuracy is only guaranteed at the time of this posting.\nYou can find my Google Sheets document which is updated more frequently [url=https://docs.google.com/spreadsheets/d/1Hy3tqXAsSic6QvAf8Aew8TEagLj5ohU5bQS-mCbX9H0/edit?usp=sharing]here[/url].",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-15T05:59:33-05:00",
+   "body": "this is NOT a dungeon quest and should not be included on the list for quests for the excavation site",
+   "replies": [
+    "This is a dungeon quest. The raptors inside Excavation Site: Wetlands drop the Thicket Raptor Hide."
+   ]
+  }
+ ]
+}

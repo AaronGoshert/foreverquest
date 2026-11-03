@@ -1,0 +1,342 @@
+{
+ "id": 93963,
+ "name": "Exploring the Alliance",
+ "level": 13,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1150,
+ "start": {
+  "type": "npc",
+  "id": 1748,
+  "name": "Highlord Bolvar Fordragon",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    77.4,
+    18.4
+   ],
+   [
+    77.4,
+    18.8
+   ],
+   [
+    77.6,
+    18.6
+   ],
+   [
+    78,
+    18
+   ],
+   [
+    80,
+    38.4
+   ],
+   [
+    80,
+    38.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1748,
+  "name": "Highlord Bolvar Fordragon",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    77.4,
+    18.4
+   ],
+   [
+    77.4,
+    18.8
+   ],
+   [
+    77.6,
+    18.6
+   ],
+   [
+    78,
+    18
+   ],
+   [
+    80,
+    38.4
+   ],
+   [
+    80,
+    38.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Speak with Randal Emerson in Stormwind Keep to receive further instructions. Use the instructions received to locate and speak with King Magni Bronzebeard , High Tinker Mekkatorque , and Tyrande Whisperwind .   Receive Instructions from Randal Emerson  ( 1 )   Speak with High Tinker Mekkatorque  ( 1 )   Speak with King Magni Bronzebeard  ( 1 )   Speak with Tyrande Whisperwind  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 275491,
+   "name": "Randal Emerson",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 7937,
+   "name": "High Tinker Mekkatorque",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 2784,
+   "name": "Speak with King Magni Bronzebeard",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 7999,
+   "name": "Speak with Tyrande Whisperwind",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Receive Instructions from Randal Emerson",
+   "count": 1,
+   "type": "npc",
+   "id": 275491
+  },
+  {
+   "text": "Speak with High Tinker Mekkatorque",
+   "count": 1,
+   "type": "npc",
+   "id": 7937
+  },
+  {
+   "text": "Speak with King Magni Bronzebeard",
+   "count": 1,
+   "type": "npc",
+   "id": 2784
+  },
+  {
+   "text": "Speak with Tyrande Whisperwind",
+   "count": 1,
+   "type": "npc",
+   "id": 7999
+  }
+ ],
+ "series": [
+  93835,
+  94369,
+  93089,
+  94946,
+  94947,
+  93963
+ ],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 1748,
+   "name": "Highlord Bolvar Fordragon",
+   "coord": [
+    78,
+    18
+   ],
+   "coords": [
+    [
+     77.4,
+     18.4
+    ],
+    [
+     77.4,
+     18.8
+    ],
+    [
+     77.6,
+     18.6
+    ],
+    [
+     78,
+     18
+    ],
+    [
+     80,
+     38.4
+    ],
+    [
+     80,
+     38.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 1748,
+   "name": "Highlord Bolvar Fordragon",
+   "coord": [
+    78,
+    18
+   ],
+   "coords": [
+    [
+     77.4,
+     18.4
+    ],
+    [
+     77.4,
+     18.8
+    ],
+    [
+     77.6,
+     18.6
+    ],
+    [
+     78,
+     18
+    ],
+    [
+     80,
+     38.4
+    ],
+    [
+     80,
+     38.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "requirement",
+   "type": 1,
+   "id": 275491,
+   "name": "Randal Emerson",
+   "coord": [
+    79,
+    44.8
+   ],
+   "coords": [
+    [
+     79,
+     44.8
+    ],
+    [
+     79.2,
+     44.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "requirement",
+   "type": 1,
+   "id": 2784,
+   "name": "King Magni Bronzebeard",
+   "coord": [
+    39.4,
+    55.8
+   ],
+   "coords": [
+    [
+     39.4,
+     55.4
+    ],
+    [
+     39.4,
+     55.8
+    ],
+    [
+     39.6,
+     55.6
+    ],
+    [
+     40,
+     55.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "requirement",
+   "type": 1,
+   "id": 7937,
+   "name": "High Tinker Mekkatorque",
+   "coord": [
+    69,
+    49
+   ],
+   "coords": [
+    [
+     69,
+     49
+    ],
+    [
+     69.8,
+     49.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "requirement",
+   "type": 1,
+   "id": 7999,
+   "name": "Tyrande Whisperwind",
+   "coord": [
+    39,
+    81.2
+   ],
+   "coords": [
+    [
+     38.4,
+     80.6
+    ],
+    [
+     38.6,
+     80.4
+    ],
+    [
+     39,
+     81.2
+    ],
+    [
+     39,
+     81.6
+    ],
+    [
+     39.6,
+     80.4
+    ],
+    [
+     39.8,
+     80.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-02T13:50:54-05:00",
+   "body": "[item=285356] doesn't get deleted upon finishing the quest. Make sure you do it yourself.",
+   "replies": []
+  }
+ ]
+}

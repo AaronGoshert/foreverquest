@@ -1,0 +1,206 @@
+{
+ "id": 1092,
+ "name": "Gerenzo's Orders",
+ "level": 22,
+ "reqlevel": 17,
+ "side": 3,
+ "zoneId": 406,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1300,
+ "start": {
+  "type": "npc",
+  "id": 4276,
+  "name": "Piznik",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    71.8,
+    60
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4201,
+  "name": "Ziz Fizziks",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59,
+    62.4
+   ],
+   [
+    59,
+    62.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Deliver the Unidentified Ore to Ziz Fizziks in the Stonetalon Mountains . Unidentified Ore (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5733,
+   "name": "Unidentified Ore",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  1090,
+  1092
+ ],
+ "points": [
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 4276,
+   "name": "Piznik",
+   "coord": [
+    71.8,
+    60
+   ],
+   "coords": [
+    [
+     71.8,
+     60
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 4201,
+   "name": "Ziz Fizziks",
+   "coord": [
+    59,
+    62.4
+   ],
+   "coords": [
+    [
+     59,
+     62.4
+    ],
+    [
+     59,
+     62.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 10,
+   "date": "2005-12-11T07:33:07-06:00",
+   "body": "Could not solo as a Level 29 Rogue. Almost got them but the last wave did me in. Heres the best stratagy I can give you to attempt solo. Piznek is in the NE section of the mine at Winshear Crag. Kill everything around him for at least running distance as the little buggers like to run, Dont let them pull extra guys or you will be facing 5 - 6 at a time. The first wave is 3. The second wave is 2 Geomancers and 2 Stonecutters. Kill the Geomancers first, they are hurting you the most with thier magic. The last wave is 5. Pull out all the stops on this wave and you can do it solo if you are over 30. You have to do this as fast as possible because of the vicious respawn rate",
+   "replies": [
+    "as a 120 blood dk with 440 ilvl it was so easy to solo..."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2005-12-11T07:33:07-06:00",
+   "body": "There are 3 waves to this and even with a lvl 29 Rogue I could not keep the guy alive during the 3rd wave. With one other party member however we did it very quick. The Quest starts from the guy in the NE mine in Windshear Crag. If you enter the mine from the lower end (Theres an upper entrance and a lower entrance)and head down then take the first right you will find the little guy. :-) Good Luck!\n\nAlso this is a great place as a Rouge to bump up your Lock Picking skilz \n\n~Xy~",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-03-30T19:33:07-05:00",
+   "body": "tried this as a 28 drenai shaman and the 3rd wave did me in, took too long on the 2nd wave and i was low on mana when the 3rd popped.\n\nwent back again as level 29, and when i got there, the 3rd wave was standing there milling about. assumedly someone else had recently tried and failed. so i clear them and start the quest. first two waves spawn, dispatched with no problems, then i'm at full mana waiting... waiting.. waiting... and the 3rd wave never comes. \n\nthen just about the time i start thinking \"oh great its bugged\", piznik says he's done and i get to complete the quest bass-ackwards",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-29T07:33:07-05:00",
+   "body": "Unless you have a group (on your way to Gerenzo or whatever) don't bother with this quest, waste of time for peanuts exp..",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-02-20T21:37:03-06:00",
+   "body": "Can you rename this thread Part 2?\n\nRewards for turning in the Ore to Ziz is as follows:\n\nMy Results: \nExperience Gained:  130\nRevieved item: Dredge boots\n(this was the only item award)\nDredge Boots\nBinds when picked up\nFeet     Mail\n119 Armor\n+3 Agility\n+4 Stamina\nDurability 45/45",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T07:33:07-05:00",
+   "body": "Anyone have any info on the location of this start NPC?&nbsp; The map appears to put him in the middle of untraverseable mountains.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T07:33:07-05:00",
+   "body": "Don't try this mission alone. It way too hard solo even just to get in to get the quest. Monsters spawn fast and attack in mobs. When i tried him the first time, 2 waves of 4 monsters attacked. I died on the 2nd wave. When i tried it the 2nd time, no monsters came.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T07:33:07-05:00",
+   "body": "I tried at level 27 as a Rogue.&nbsp; The first wave was doable, but it was 5 on 1 and it took my health down pretty low.&nbsp; I didn't last through the second wave.&nbsp; If I get buffs and better healing potions perhaps I could make it.\n\nHe's in an alcove in the mine at the Southeast corner of the Venture Mining company area.&nbsp; Most of the mobs are levels 21 and 22.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T07:33:07-05:00",
+   "body": "a lvl 22 quest and it can't be soloed at lvl 28.&nbsp; Stuff respawns while you are waiting for him to get the mineral, which makes you have to fight 4-5 at a time.&nbsp; Set up terribly, don't bother.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T07:33:07-05:00",
+   "body": "This guy is inside Windshear Mine.&nbsp; This seems to be the kind of quest that is easy to miss, unless you have Thottbot.\n\nFirst, you need to find him and protect him while he mine.&nbsp; Don't do this quest alone.&nbsp; You need teamates.\n\nI tried alone with a level 28 Mage but I could not even reach him without dying.&nbsp; But then I teamed with a level 28 Paladin and it was suddenly extremely easy.\n\nThere are many enemies inside the cave and they spawn very fast.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T07:33:07-05:00",
+   "body": "Can someone please post directions instead of blatantly throw in a location name that is meaningless to most readers?\nThank you...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T07:33:07-05:00",
+   "body": "&nbsp; &nbsp; &nbsp; &nbsp; The position of this mine is in windshear crag. Coming from Ashenvale it's south east. If you're coming from Horde flight path it's north east. If you click on the map of stone talon mts. you'll see the mine in windshear.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T07:33:07-05:00",
+   "body": "this quest is complete bull@#$%, i tried it as a level 25 warrior and ALMOST beat it with retaliation on the last wave but i started retaliation too late and an overlord respawned on me and I died. now i can even get out of the mine",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-31T00:21:07-05:00",
+   "body": "Easy. Demoralized all mobs, cleave, heroic strike, excute, bandage. Rinse, repeat.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-20T20:55:52-06:00",
+   "body": "I got 1050 XP at level 28 for this.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-11-26T21:57:54-06:00",
+   "body": "Don't mind if you die at the third wave and the quest fails! It's still (2020) bugged so you can go back, kill the wave (maybe you will die again, doesn't matter) and restart the quest. When you restart, you will only have to kill 2 waves and just wait a bit... the quest will be completed!\r\n\r\nProbably only works if you kill the third not despawned third wave\r\n\r\nGood luck!",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2005-09-29T07:33:07-05:00",
+   "body": "where is he?",
+   "replies": []
+  }
+ ]
+}

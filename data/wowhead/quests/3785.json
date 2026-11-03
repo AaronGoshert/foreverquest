@@ -1,0 +1,267 @@
+{
+ "id": 3785,
+ "name": "Morrowgrain Research",
+ "level": 50,
+ "reqlevel": 47,
+ "side": 1,
+ "zoneId": 1657,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 4700,
+ "start": {
+  "type": "npc",
+  "id": 4217,
+  "name": "Mathrengyl Bearwalker",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    34.8,
+    7.4
+   ],
+   [
+    35.2,
+    8
+   ],
+   [
+    35.2,
+    8.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4217,
+  "name": "Mathrengyl Bearwalker",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    34.8,
+    7.4
+   ],
+   [
+    35.2,
+    8
+   ],
+   [
+    35.2,
+    8.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Use an Evergreen Pouch with a Packet of Tharlendis Seeds and two Un'Goro Soil samples to try and cultivate samples of Morrowgrain . Bring 10 Morrowgrain to Mathrengyl Bearwalker in Darnassus . Morrowgrain  ( 10 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11020,
+   "name": "Evergreen Pouch",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11040,
+   "name": "Morrowgrain",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Morrowgrain",
+   "count": 10,
+   "type": "item",
+   "id": 11040
+  }
+ ],
+ "series": [
+  3781,
+  3785
+ ],
+ "points": [
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "start",
+   "type": 1,
+   "id": 4217,
+   "name": "Mathrengyl Bearwalker",
+   "coord": [
+    35.2,
+    8
+   ],
+   "coords": [
+    [
+     34.8,
+     7.4
+    ],
+    [
+     35.2,
+     8
+    ],
+    [
+     35.2,
+     8.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 4217,
+   "name": "Mathrengyl Bearwalker",
+   "coord": [
+    35.2,
+    8
+   ],
+   "coords": [
+    [
+     34.8,
+     7.4
+    ],
+    [
+     35.2,
+     8
+    ],
+    [
+     35.2,
+     8.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": [
+  {
+   "rating": 55,
+   "date": "2006-08-01T17:55:11-05:00",
+   "body": "This information should be accurate as of patch 1.11.2\n[b]Morrowgrain quests:[/b]\n\nThe Morrowgrain quests can be quite involved as there are two quest givers and turn-in locations. Also the rewards given are different for both turn-in locations. The actual process to get Morrowgrain takes several steps as well.\n\nThe quest line starts with a quest called [b]Morrowgrain Research[/b] which is given out by Arch Druid Fandral Staghelm. Arch Druid Fandral Staghelm may be found at Thottbot coordinates 35,8 in Darnassas. He is located at the top level of the Druid complex (Cenarion Enclave). He asks you to take a packet of 20 [b]Tharlendris seeds[/b] to the middle level of the same complex and give them to Mathrengyl Bearwalker who gives out the next quest. That quest is also titled [b]Morrowgrain Research[/b] (Just to confuse things).\n\nThe second [b]Morrowgrain Research[/b] quest has you take a special pouch called an [b]Evergreen Pouch[/b] (Provided when you receive the quest) and put into it 2 [b]Un'Goro Soil[/b] (Collected in Un’Goro Crater) and 1 of the [b]Tharlendris seeds[/b] from the packet (First 10 seeds given to you with the quest). With 2 Un'Goro Soil in your backpack along with 1 Tharlendris seed, you right click the Evergreen pouch. The pouch will plant the seed into the soil and grow an [b]Evergreen Herb Casing[/b]. When you right click the casing, out will pop a random herb. One of the herbs grown may be [b]Morrowgrain[/b]. When you have 10 of them you turn them in to complete the quest. You can repeat this quest as many times as desired. You can grow a new Evergreen Herb Casing once every 10 minutes.\n\nThere is a second parallel quest line involving Morrowgrain as well. This chain of quests starts with either Innkeeper Shyria in the Inn of Feathermoon Stronghold in Feralas or with Tannysa the Herbalism trainer in the Mage Quarter of Stormwind. Talking to either of these two people will give you a quest titled [b]Jonespyre's Request[/b] which asks you to go talk to Quintis Jonespyre in the Feathermoon Stronghold in Feralas. Quintis Jonespyre will then give you the repeatable quest titled [b]The Mystery of Morrowgrain[/b]. This quest is identical to the above quest (Use the Evergreen pouch to grow an Evergreen Herb Casing from 1 Tharlendris seed and 2 Un'Goro Soil and out pops a random herb) except you only need to turn in 5 Morrowgrain.\n\nIn the end, you now have two locations to turn in Morrowgrain:\n\nTurning in [b]5 Morrowgrain[/b] to Quintis Jonespyre in the Feathermoon Stronghold in Feralas will give you [b]25 reputation with Darnassas[/b]. In addition he also gives you another packet of 10 Tharlendris seeds so you can go out and grow more.\n\nTurning in [b]10 Morrowgrain[/b] to Mathrengyl Bearwalker at the Cenarion Enclave in Darnassas will earn you [b]50 reputation with Darnassas[/b]. In addition he also gives you a [b]Cenarion Circle Cache[/b]. Opening this will provide a random number of items as loot. Typically there are 4-8 items in the bag although I have seen only 1 before and as many as 14 per Cenarion Circle Cache. The Cenarion Circle Cache typically contains food, drinks, scrolls, potions, herbs etc. For a list of the types of items found in each Cache please see the following link: https://www.wowhead.com/forever/item=5533/ilkrud-magthrulls-tome You can get a lot of really good stuff in these caches.\n\n[b]Where to get Un’Goro Soil:[/b] Un’Goro Soil is found in Un’Goro Crater (Southern end of Kalimdor). Un’Goro Soil is dropped (from Dinosaurs) throughout the crater. Just run around the zone (Avoiding being stepped on or eaten by the dinosaurs) and right click the dirt piles you see laying on the ground. Un’Goro Soil is often found in the AH as well. Un’Goro Soil stacks up to 100 units per stack now.\n\n[b]Where to get Tharlendris seeds:[/b] Tharlendris seeds may be purchased from either of the two turn-in NPCs or you can get them as part of your turn-in reward when you turn in Morrowgrain to Quintis Jonespyre in the Feathermoon Stronghold in Feralas.\n\n[b]Where to get an Evergreen pouch:[/b] An Evergreen pouch is given to you when you receive the second Morrowgrain Research quest. Replacements may be purchased (For around 1 Gold) from either of the two turn-in NPCs.\n\n\n[b]The rewards:[/b]\n\nOnce you have grown Evergreen Herb Casings and retrieved the herbs out of the casings you can either turn in the Morrowgrain for reputation, sell it on the AH or use it to make Cenarion Herb Bags (Manufacturing 20 slot herb bags requires 8 Morrowgrain as one of the materials to make 1 bag). In addition the loot from the Cenarion Circle Cache is typically valued at several gold and may be used or sold as needed.\n\nIn addition to growing Morrowgrain, the Evergreen Herb Casings often contains other herbs which may be used or sold as needed. How much Morrowgrain or other herbs you grow and which types depend on your Herbalism skill. As an example, I dropped the Herbalism profession completely and grew 65 Evergreen Herb Casings. Out of those casings I received the following:\n\nMorrowgrain 50\nKingsblood 6\nGromsblood 3\nEarthroot 9\nBriarthorn 8\nLiferoot 7\nMageroyal 5\nSungrass 2\n\nFor a total of 90 herbs averaging 1.48 herbs per Evergreen Herb Casing. For the most part these are lower-end herbs.\n\nI relearned Herbalism and worked it up to 300 skill level. I then grew 65 more Evergreen Herb Casings. This is what I received from those:\n\nMorrowgrain 75\nKingsblood 22\nGromsblood 2\nLiferoot 6\nSungrass 5\nStranglekelp 13\nBlindweed 5\nGoldthorn 22\nFirebloom 2\n\nFor a total of 152 herbs averaging 2.34 herbs per Evergreen Herb Casing. For the most part these are higher-end herbs. The maximum # of herbs out of any single casing is 5.\n\nAs I went up in skill level, the numbers and types of herbs increased steadily.\n\nAll in all 300 Herbalism will result in a 50% increase in Morrowgrain output and a 70% increase in the number of herbs grown as well as large increase in the value of the herbs.\n\nMost people performing the Morrowgrain quests keep the pouch, seeds and soil in their backpack and as they run around Azeroth they pop out a new batch of herbs once every ten minutes. For an Alchemist this results in a steady supply of herbs for use in potions and for others it results in a steady supply of cash from the sale of those herbs. The hardest part is having enough space in your bags for all those herbs!",
+   "replies": [
+    "Thanks for this detailed post, davidmanvell -- it's very useful information!\n\nBTW, I'm a 300 herbalist, and I got close to 40 morrowgrain from the initial packet of seeds. I don't know why Demonicka (also 300 herb) got only 3 from 20 seeds. Maybe really, really bad luck? :-(\n\nOn the other hand, I didn't get any exciting herbs. Sungrass, liferoot, kingsblood... eh. I would've wanted some gromsblood but no dice. I'm a bit peeved that iiLLuMNaTii Scholar, a rogue with no herbalism, got several of them! Oh well. I guess it's the luck of the draw."
+   ]
+  },
+  {
+   "rating": 17,
+   "date": "2005-04-30T16:10:02-05:00",
+   "body": "This is a horrible quest. When you use the bag you may get Morrowgrain or some other herb. I've gotten good ones, but this will take you lots more than the 20.\n\nYou may want to try to bring tons more soil back to Darnassus with you (like 60+) and try to knock it out there to save the inevitable trips back and forth.",
+   "replies": [
+    "The other thing that make this quest so absurd is the 10 minute cool down on the Evergreen pouch. I've used this a couple times, but I'm quickly growing disillusioned with this quest... it seems like a waste of inventory slots for not a proportionate gain. ",
+    "The 10 minute cooldown its not so absurd, taking in consideration the fact that you can use the herbs for potions or sell them.",
+    "Actually it most certianly is absurd and the entire quest just really isn't worth it. The items that can be generated instead of the morrowgrain just aren't that valuable, my alchemist has stacks and stacks of the stuff. After going through 40+ soil samples and still being nowehere near completion, I abandonded the quest. I'd recommend others avoid this useless waste of time.",
+    "While i appreciate that there is a 10 min cooldown to this pouch, I fail to see how this is such a terrible quest.  IMO this is one of the best quests going.\n\nYou are given the first 20 seeds, and it took me very little time to get 20 soil samples while grinding in Un'goro (fulfilling other quests).  It takes 5 seconds to 'cast' the seed casing, so as i got dirt, i 'cast' then continued to grind.\n\nIt took me maybe 7 seed casings to get to the 10 morrograin I needed, and 20 seeds yielded 24 morrowgrain - enough for 2 turn ins.  I also got a nice selection of other herbs. Now, i am an herb/alch ",
+    "You are clearly absurd if you think this quest is absurd, that or you have not tried it as of late.  EACH turn in gives you some XP, 50 rep. points with Darn.(I'm Lvl 60), AND a VERY NICE bag, with lots of goodies! i have done this turn-in about 15 times and NOT ONCE have i got less than 5 items in the sack. The Un'Goro Soil is very easy to farm, you can get anywhere from 1-4 soils from one pile and in addition the mobs in Un'Goro drop them as well. So if you are pre-60, kill a bunch of mobs, get XP, and occasionally some soil, ride around looking for some soil mounds, loot them (and if you ca"
+   ]
+  },
+  {
+   "rating": 9,
+   "date": "2005-10-21T19:07:19-05:00",
+   "body": "just buy the morrowgrains from auction house.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-11-15T18:35:49-06:00",
+   "body": "Results for Ungoro Soil conversion. Rogue just turned level 47 and has skinning / leatherworking as professions (no herbalism skill).\n\n 1 - 3 morrowgrain\n 2 - 1 gromsblood\n 3 - 1 morrowgrain\n 4 - 1 kingsblood\n 5 - 1 gromsblood\n 6 - 1 briarthorn\n 7 - 1 gromsblood\n 8 - 1 morrowgrain\n 9 - 3 morrowgrain\n10 - 1 kingsblood\n11 - 1 gromsblood\n12 - 3 morrowgrain (quest complete with 1 extra morrowgrain)\n13 - 1 briarthorn\n14 - 3 morrowgrain\n15 - 1 kingsblood\nLeveled to level 48\n16 - 1 sungrass\n17 - 1 gromsblood\n18 - 1 kingsblood\n19 - 1 sungrass\n20 - 1 briarthorn\n21 - 1 sungrass\n22 - 1 gromsblood\n23 - 1 morrowgrain\n24 - 1 morrowgrain\n25 - 2 morrowgrain\n26 - 1 mageroyal\n27 - 1 briarthorn\n28 - 1 earthroot\n29 - 1 kingsblood\n30 - 2 morrowgrain\n31 - 1 briarthorn\n32 - 1 morrowgrain\n33 - 1 gromsblood (turn in with 4 extra morrowgrain, 550xp 27 rep)\n34 - 1 briarthorn\n35 - 1 briarthorn\n36 - 3 morrowgrain\n37 - 1 mageroyal\n38 - 1 blindweed\n39 - 1 kingsblood\n40 - 1 kingsblood\n41 - 1 briarthorn\n42 - 1 kingsblood\n43 - 3 morrowgrain (exactly enough morrowgrain for a third turn in)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-11-21T19:07:20-06:00",
+   "body": "In order for this you only need to use 2 Un'Goro Soil samples for each morrowgrain. The morrowgrain comes in piles of 5 I believe.  Right-click the bag you receive when you have 2 Un'Goro Soil then open the pouch. \n\nThe pouch has a 10-minute cooldown though. It's worth it for such an easy task.",
+   "replies": [
+    "You'll likely only get 1 Morrowgrain at a time.  You might be lucky and get 2 or 3 but I'm currently redoing this quest for the first time in about 2 years and so far have only got 1."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-19T06:56:39-05:00",
+   "body": "k so what do you do if you are outta seeds and dont have 10 morrowgrain. i have 7 but i am outta seeds",
+   "replies": [
+    "If you run out of seeds, go see Mathrengyl Bearwalker in the Cenarion Enclave and he will sell you more. I think they are 9 silver each seed or something like that.\nAs for the rest of you, I don't know what you're all complaining about. I only needed to use the pouch 6 times and had all the Morrowgrain required for the quest and more!\n"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-01T03:38:30-05:00",
+   "body": "...and only 3 morrowgrain out of 20 seeds? I cry foul!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-07T05:05:59-05:00",
+   "body": "I just finished burning through my 20 seeds and I believe I set a new record!\n\n0 for 20!\n\nAnyone need any Briarthorn or Kingsblood, I'm your man!\n\nThis quest is going in the hopper.....",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-03T13:39:57-05:00",
+   "body": "So, I used the pouch and nothing appeared in my inventory- or does it only appear after the 10m cooldown?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-13T14:34:02-05:00",
+   "body": "Sometimes the cache reward can be pretty good - this is my third, and I received:\n\n1 x Arcane Elixir\n1 x Elixir of Detect Undead\n1 x Elixir of Dream Vision\n1 x Elixir of Shadow Power\n2 x Greater Mana Potion\n3 x Moonberry Juice\n1 x Oil of Immolation\n2 x Superior Healing Potion\n1 x Fine Aged Chedder\n4 x Morning Glory Dew\n1 x Scroll of Spirit III\n\nThat's 11 potentially useful/valuable items taking up just one inventory slot - and their AH value totals 5g 17s 8c (half of which is the Elixir of Shadow Power alone!)\n\nWell worth it in my estimation.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-10T10:02:36-05:00",
+   "body": "If you talk to Arch Druid Fandral Staghelm he says you*ll gain more Morrowgrain if you are a Herbalist.....did anyone try if there is indeed any difference if you use the bag as herbalist or as none herbalist ?",
+   "replies": [
+    "Herbalists with over 150 skill can get more morrowgrain at a time. I've heard up to stacks of 5 from a single cultivation. While people without can get a maximum of 3.",
+    "Thanks for the answer, do you have any clue if the faction adjustment lowers once you reach a certain level ? Or othere way round at wich point does the first quest where you still get exp gets grey ?\n\nHm okay tried it with a 60 mage of mine, only yields 2 faction points...at level 53 its still 25 and I guess till it turns grey somewhere between 65-59.\n\nStaying in the low 50th and getting a couple people for you to farm the morrowgrain as well, should be a doable way to get exaltet with damassus. 480exp eac time you do the quest so you ll even level with that.\n(the faction quest in feralas nee"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-25T19:17:02-05:00",
+   "body": "Do you get stacks of other herbs and where do you get the ungoro soil samples, are they just on the ground or do you have to use a shovel or something on the ground to get them? thx",
+   "replies": [
+    "The Un'Goro soil samples can be found on the ground throughout un'goro (they look like, well, little piles of dirt). You just need to click on 'em like anything else you pick up in the game. The mobs in Un'Goro also drop the soil samples with pretty solid regularity (1 in 3, I'd say). Not sure if *all* the mobs in Un'Goro drop soil samples, but the raptors and the apes definitely do."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-06T07:43:21-05:00",
+   "body": "i'm a 300 herbalist~ and got 5 morrowgrain from 1 use of the pouch~\nguess it does help~\nbut the 10 wait each try is annoying.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-23T18:54:09-06:00",
+   "body": "I have 300 Alchemy/Herbalism and I made 5 and 4 morrowgrain on my first 2 attempts so this is might be geared towards those skills.\n\nEdited, Wed Nov 23 12:54:23 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-27T02:33:18-06:00",
+   "body": "Is this the only way to lvl up ur Darn Rep? I am a lvl 49 dwarf hunter and want a tiger mount but with all the complainin goin on about this quest is it really worth all of the pain?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-11-24T12:23:49-06:00",
+   "body": "WoW Classic\nI have 300 hearbalism skill. I got 1 Morrowgrain from the first opened bag. The next 10 bags had no Morrowgrain at all. Then I got 1 Morrowgrain again. Seems like it won't give me 5 Morrowgrains at once...",
+   "replies": [
+    "I've gotten 1-5, with a normal distribution. I collect the soil on a higher-level toon without herbalism and send it all to my 48 herb collector. I've earned quite a few caches in the last couple weeks since I started doing this and made a bit of gold selling the potions. So far it seems worthwhile."
+   ]
+  },
+  {
+   "rating": -6,
+   "date": "2007-05-08T15:51:37-05:00",
+   "body": "I'm not an herbalist, and it only took me 12 seeds to get all the morrowgrain I needed. Most times, I got two or three in one sprout. I really don't see why it's such a bad quest; it requires little effort, only a bit of patience.",
+   "replies": []
+  },
+  {
+   "rating": -7,
+   "date": "2007-05-16T19:23:21-05:00",
+   "body": "As of BC and the many patches\n\nCreating those evergreen herb casings has a cooldown of 10 mins on the evergreen pouch. Gathering all materials and creating it into what you need, takes alot of time",
+   "replies": []
+  }
+ ]
+}

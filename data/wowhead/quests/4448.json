@@ -1,0 +1,138 @@
+{
+ "id": 4448,
+ "name": "Corrupted Night Dragon",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 3,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": {
+  "type": "object",
+  "id": 174608,
+  "name": "Corrupted Night Dragon",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    42.4,
+    13.9
+   ],
+   [
+    42.5,
+    13.9
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 174608,
+  "name": "Corrupted Night Dragon",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    42.4,
+    13.9
+   ],
+   [
+    42.5,
+    13.9
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Progress You have found a sickly, corrupted version of what appears to be a night dragon plant.  The fruits that hang from the plant appear rotten and poisonous.  It desperately needs some sort of attention if it is to be turned back to normal. Cenarion Plant Salve  ( 4 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11516,
+   "name": "Cenarion Plant Salve",
+   "count": 4,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Cenarion Plant Salve",
+   "count": 4,
+   "type": "item",
+   "id": 11516
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 2,
+   "id": 174608,
+   "name": "Corrupted Night Dragon",
+   "coord": [
+    42.5,
+    13.9
+   ],
+   "coords": [
+    [
+     42.4,
+     13.9
+    ],
+    [
+     42.5,
+     13.9
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 2,
+   "id": 174608,
+   "name": "Corrupted Night Dragon",
+   "coord": [
+    42.5,
+    13.9
+   ],
+   "coords": [
+    [
+     42.4,
+     13.9
+    ],
+    [
+     42.5,
+     13.9
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2006-04-27T12:03:31-05:00",
+   "body": "The Night Dragon in the upper area of Felwood is at 50,30 (Cosmos Map)\n\nThe Night Dragon in the lower area of Felwood is at approx. 40,78 (Cosmos Map)\n\nNote: the only Whipper Root I've seen is at approx. 33,60 (Cosmos Map) in the heart of Jaedenar.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-09T07:01:15-05:00",
+   "body": "where do i get this qest from?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-03-16T09:49:44-05:00",
+   "body": "What object do you get from this plant? cuz from other ones you get food",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-26T16:16:33-06:00",
+   "body": "ty a lot",
+   "replies": []
+  }
+ ]
+}

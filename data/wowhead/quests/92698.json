@@ -1,0 +1,161 @@
+{
+ "id": 92698,
+ "name": "What Is My Purpose?",
+ "level": 9,
+ "reqlevel": 5,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 195,
+ "start": {
+  "type": "npc",
+  "id": 250929,
+  "name": "Malfunctioning Cyclone Construct",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    48,
+    77.8
+   ],
+   [
+    48.8,
+    78.4
+   ],
+   [
+    48.8,
+    78.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252800,
+  "name": "Aamelia Windfield",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    46.6,
+    81.8
+   ],
+   [
+    47,
+    81.2
+   ],
+   [
+    47.2,
+    80
+   ],
+   [
+    47.4,
+    78.4
+   ],
+   [
+    47.4,
+    78.6
+   ],
+   [
+    47.6,
+    78.4
+   ],
+   [
+    47.6,
+    78.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak with Aamelia Windfield about the Malfunctioning Cyclone Construct .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 252800,
+   "name": "Aamelia Windfield",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 250929,
+   "name": "Malfunctioning Cyclone Construct",
+   "coord": [
+    48,
+    77.8
+   ],
+   "coords": [
+    [
+     48,
+     77.8
+    ],
+    [
+     48.8,
+     78.4
+    ],
+    [
+     48.8,
+     78.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252800,
+   "name": "Aamelia Windfield",
+   "coord": [
+    46.6,
+    81.8
+   ],
+   "coords": [
+    [
+     46.6,
+     81.8
+    ],
+    [
+     47,
+     81.2
+    ],
+    [
+     47.2,
+     80
+    ],
+    [
+     47.4,
+     78.4
+    ],
+    [
+     47.4,
+     78.6
+    ],
+    [
+     47.6,
+     78.4
+    ],
+    [
+     47.6,
+     78.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-01T05:22:35-05:00",
+   "body": "You pass the butter.",
+   "replies": []
+  }
+ ]
+}

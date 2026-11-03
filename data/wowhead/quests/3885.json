@@ -1,0 +1,35 @@
+{
+ "id": 3885,
+ "name": "<NYI> <TXT> The Gadgetzan Run",
+ "level": 55,
+ "reqlevel": 50,
+ "side": 3,
+ "zoneId": 490,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 8450,
+ "start": null,
+ "end": null,
+ "patch": "1.13.5.35186",
+ "objectiveText": "Escort Petra and Dadanga!   Escort Petra and Dadanga!  ( 1 )",
+ "objectives": [],
+ "objectiveRows": [
+  {
+   "text": "Escort Petra and Dadanga!",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2019-10-24T13:37:32-05:00",
+   "body": "Didn't make it out of Beta,  but looks like you had to escort [url=https://www.wowhead.com/forever/npc=9273/petra-grossen]Petra[/url] and [url=https://www.wowhead.com/forever/npc=9274/dadanga]Dadanga[/url] probably from Gagetzan to the camp at Un'goro? Given that both zones are contested, it's not surprizing such a long escort quest was dropped",
+   "replies": []
+  }
+ ]
+}

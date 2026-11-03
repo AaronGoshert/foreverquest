@@ -1,0 +1,258 @@
+{
+ "id": 309,
+ "name": "Protecting the Shipment",
+ "level": 15,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": 38,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1050,
+ "start": {
+  "type": "npc",
+  "id": 1379,
+  "name": "Miran",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    52.2,
+    69.4
+   ],
+   [
+    52.2,
+    69.6
+   ],
+   [
+    52.8,
+    68.6
+   ],
+   [
+    53.4,
+    68.2
+   ],
+   [
+    53.8,
+    68
+   ],
+   [
+    56.4,
+    66
+   ],
+   [
+    56.6,
+    65.8
+   ],
+   [
+    58.2,
+    64.6
+   ],
+   [
+    58.8,
+    64.4
+   ],
+   [
+    60.8,
+    65.4
+   ],
+   [
+    61.4,
+    65.6
+   ],
+   [
+    63,
+    65.8
+   ],
+   [
+    65,
+    65.4
+   ],
+   [
+    65,
+    65.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1344,
+  "name": "Prospector Ironband",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    65.8,
+    65.4
+   ],
+   [
+    65.8,
+    65.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Ensure Miran and the shipment arrive at the excavation site, then inform Prospector Ironband .   Escort Miran to the excavation site  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1379,
+   "name": "Miran",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Escort Miran to the excavation site",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 1379,
+   "name": "Miran",
+   "coord": [
+    52.2,
+    69.4
+   ],
+   "coords": [
+    [
+     52.2,
+     69.4
+    ],
+    [
+     52.2,
+     69.6
+    ],
+    [
+     52.8,
+     68.6
+    ],
+    [
+     53.4,
+     68.2
+    ],
+    [
+     53.8,
+     68
+    ],
+    [
+     56.4,
+     66
+    ],
+    [
+     56.6,
+     65.8
+    ],
+    [
+     58.2,
+     64.6
+    ],
+    [
+     58.8,
+     64.4
+    ],
+    [
+     60.8,
+     65.4
+    ],
+    [
+     61.4,
+     65.6
+    ],
+    [
+     63,
+     65.8
+    ],
+    [
+     65,
+     65.4
+    ],
+    [
+     65,
+     65.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 1344,
+   "name": "Prospector Ironband",
+   "coord": [
+    65.8,
+    65.6
+   ],
+   "coords": [
+    [
+     65.8,
+     65.4
+    ],
+    [
+     65.8,
+     65.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 43,
+   "date": "2006-03-08T01:07:44-06:00",
+   "body": "There's a patrol of 3 lvl 21 elites in the area that you walk through that can aggro to the NPC... If they do I recommend just letting him die and going back for the quest.",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2006-08-01T01:07:44-05:00",
+   "body": "If you happen to die (due to the above-mentioned Patrol), abandon the quest and go back to Miran.&nbsp; You'll be able to re-start from there.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2026-09-22T21:45:48-05:00",
+   "body": "This quest is currently bugged in the Forever beta. [npc=1981]s spawn at a [i]very[/i] fast rate at the quest's starting point. Miran will aggro onto these Ambushers at a ridiculously long range - even if he's almost halfway to the excavation site, he'll still run back to attack the Ambushers. Once he passes the threshold where he'll no longer run back to attack the Ambushers, he will still momentarily stop and do the yell about them appearing. When he finally reaches the excavation site, he will have the proper dialogue about the quest ending, but you do not receive credit.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-05-08T12:19:09-05:00",
+   "body": "There's a Dark Iron ambush near the camp.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-02-23T17:10:51-06:00",
+   "body": "At 63.65 Two iron dwarf raiders (level 14) ambush you.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-14T15:24:13-06:00",
+   "body": "Definantly bugged - I got the Complete message, but I was unable to talk to Prospector Ironband (he kept the silver ? over his head). Also, if I returned to where I originally picked up Miran, I was unable to talk to him.\n\nEdited, Mon Feb 14 09:31:19 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-31T03:30:35-05:00",
+   "body": "If a message says that Loch Modan is under attack, don't try this quest until all's clear. Tried after the message disappeared, and had three lvl 21 Horde Runners attack me, and the escort guy",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-03T12:36:01-05:00",
+   "body": "To get this quest you need to complete the prerequisite \"After the Ambush\"\r\n\r\n[quest=454 domain=classic]",
+   "replies": []
+  }
+ ]
+}

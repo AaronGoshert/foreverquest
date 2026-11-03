@@ -1,0 +1,106 @@
+{
+ "id": 94473,
+ "name": "Fire Sapta",
+ "level": 13,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 257808,
+  "name": "Braldir Ashmantle",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    32,
+    66
+   ],
+   [
+    32.2,
+    65.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 257808,
+  "name": "Braldir Ashmantle",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    32,
+    66
+   ],
+   [
+    32.2,
+    65.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak to Braldir Ashmantle for another Fire Sapta .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 257808,
+   "name": "Braldir Ashmantle",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 257808,
+   "name": "Braldir Ashmantle",
+   "coord": [
+    32,
+    66
+   ],
+   "coords": [
+    [
+     32,
+     66
+    ],
+    [
+     32.2,
+     65.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 257808,
+   "name": "Braldir Ashmantle",
+   "coord": [
+    32,
+    66
+   ],
+   "coords": [
+    [
+     32,
+     66
+    ],
+    [
+     32.2,
+     65.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

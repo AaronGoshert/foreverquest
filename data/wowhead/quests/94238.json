@@ -1,0 +1,87 @@
+{
+ "id": 94238,
+ "name": "Craftsman's Writ: Heavy Leather Ball",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 257281,
+  "name": "Sos'mol",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    38.4,
+    61.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Heavy Leather Ball  ( 1 ) Heavy Leather Ball  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264038,
+   "name": "Craftsman's Writ: Heavy Leather Ball",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 18662,
+   "name": "Heavy Leather Ball",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Heavy Leather Ball",
+   "count": 1,
+   "type": "item",
+   "id": 264038
+  },
+  {
+   "text": "Heavy Leather Ball",
+   "count": 1,
+   "type": "item",
+   "id": 18662
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 257281,
+   "name": "Sos'mol",
+   "coord": [
+    38.4,
+    61.2
+   ],
+   "coords": [
+    [
+     38.4,
+     61.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-26T20:51:32-05:00",
+   "body": "The quest is turned in to an [npc=257281] located on the wall of the ogre fortress in [zone=36] - on the side facing the yeti's quest cave - at approximately coordinates 38:60.",
+   "replies": []
+  }
+ ]
+}

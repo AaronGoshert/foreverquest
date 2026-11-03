@@ -1,0 +1,166 @@
+{
+ "id": 96393,
+ "name": "Old Ironforge Incursion",
+ "level": 16,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 16919,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1450,
+ "start": {
+  "type": "npc",
+  "id": 264936,
+  "name": "Earthseer Farsen",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    64.8,
+    58.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2784,
+  "name": "King Magni Bronzebeard",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    39.4,
+    55.4
+   ],
+   [
+    39.4,
+    55.8
+   ],
+   [
+    39.6,
+    55.6
+   ],
+   [
+    40,
+    55.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Enter the Hall of Thanes beneath Old Ironforge and claim the Head of Durgen Dirgehammer. Durgen Dirgehammer's Head  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 274286,
+   "name": "Durgen Dirgehammer's Head",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Durgen Dirgehammer's Head",
+   "count": 1,
+   "type": "item",
+   "id": 274286
+  }
+ ],
+ "series": [
+  96391,
+  96393
+ ],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 264936,
+   "name": "Earthseer Farsen",
+   "coord": [
+    64.8,
+    58.4
+   ],
+   "coords": [
+    [
+     64.8,
+     58.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 2784,
+   "name": "King Magni Bronzebeard",
+   "coord": [
+    39.4,
+    55.8
+   ],
+   "coords": [
+    [
+     39.4,
+     55.4
+    ],
+    [
+     39.4,
+     55.8
+    ],
+    [
+     39.6,
+     55.6
+    ],
+    [
+     40,
+     55.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16919,
+   "zone": "The Hall of Thanes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 261319,
+   "name": "Durgen Dirgehammer",
+   "coord": [
+    ""
+   ],
+   "coords": []
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 18,
+   "date": "2026-09-20T05:22:31-05:00",
+   "body": "To get this quest you have to [b]loot a quest item[/b], its not given by the NPC. The item  [url=https://www.wowhead.com/forever/item=274268/dark-iron-map]Dark Iron Map[/url] drops from the dark iron mobs in the south east corner of Dun Morogh. Hand it in to [url=https://www.wowhead.com/forever/npc=264936/earthseer-farsen]Earthseer Farsen[/url] and he gives you this quest as a followup. I was already on a quest to kill these mobs by Farsen, it is not clear if that is requirement for the drop.",
+   "replies": [
+    "thank you this comment helped a lot",
+    "I just farmed the Dark Iron Map, got it after killing about 10 dark iron spies. Can comfirm you do NOT need any other quest in order for the map to drop."
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2026-09-22T03:27:13-05:00",
+   "body": "The dark iron dwarves that drop the item are located at /way 77,0 60,1 in Dun Morogh.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2026-09-22T10:44:49-05:00",
+   "body": "This is not available for horde, the NPC you have to interact with is Alliance only.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-20T18:29:19-05:00",
+   "body": "Is the weapon damage on the gun correct? That seems like a crazy high number.",
+   "replies": [
+    "It seems to be NOT correct, I have the item ingame on beta and it's 9.6 DPS"
+   ]
+  }
+ ]
+}

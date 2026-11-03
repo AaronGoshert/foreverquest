@@ -1,0 +1,811 @@
+{
+ "id": 1560,
+ "name": "Tooga's Quest",
+ "level": 50,
+ "reqlevel": 40,
+ "side": 3,
+ "zoneId": 440,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 5900,
+ "start": {
+  "type": "npc",
+  "id": 5955,
+  "name": "Tooga",
+  "zone": "Tanaris",
+  "zoneId": 440,
+  "coords": [
+   [
+    28.4,
+    63.6
+   ],
+   [
+    28.4,
+    67.4
+   ],
+   [
+    28.4,
+    67.6
+   ],
+   [
+    28.6,
+    63.6
+   ],
+   [
+    28.6,
+    67.2
+   ],
+   [
+    28.6,
+    67.6
+   ],
+   [
+    29.4,
+    60.4
+   ],
+   [
+    29.4,
+    60.6
+   ],
+   [
+    29.6,
+    60.4
+   ],
+   [
+    29.6,
+    60.6
+   ],
+   [
+    29.8,
+    73.8
+   ],
+   [
+    30,
+    66.4
+   ],
+   [
+    30,
+    70.4
+   ],
+   [
+    30.2,
+    58.2
+   ],
+   [
+    30.2,
+    64.4
+   ],
+   [
+    30.2,
+    70.6
+   ],
+   [
+    30.4,
+    64.6
+   ],
+   [
+    30.6,
+    64.8
+   ],
+   [
+    30.8,
+    66
+   ],
+   [
+    31.8,
+    74
+   ],
+   [
+    37.4,
+    54.4
+   ],
+   [
+    44.2,
+    43
+   ],
+   [
+    66.4,
+    25.6
+   ],
+   [
+    66.6,
+    25.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 6015,
+  "name": "Torta",
+  "zone": "Tanaris",
+  "zoneId": 440,
+  "coords": [
+   [
+    66.4,
+    25.4
+   ],
+   [
+    66.4,
+    25.6
+   ],
+   [
+    66.6,
+    25.4
+   ],
+   [
+    66.6,
+    25.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Show Tooga the way back to his wife, Torta .   Lead Tooga to Torta  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 5955,
+   "name": "Tooga",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Lead Tooga to Torta",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "start",
+   "type": 1,
+   "id": 5955,
+   "name": "Tooga",
+   "coord": [
+    29.6,
+    60.6
+   ],
+   "coords": [
+    [
+     28.4,
+     63.6
+    ],
+    [
+     28.4,
+     67.4
+    ],
+    [
+     28.4,
+     67.6
+    ],
+    [
+     28.6,
+     63.6
+    ],
+    [
+     28.6,
+     67.2
+    ],
+    [
+     28.6,
+     67.6
+    ],
+    [
+     29.4,
+     60.4
+    ],
+    [
+     29.4,
+     60.6
+    ],
+    [
+     29.6,
+     60.4
+    ],
+    [
+     29.6,
+     60.6
+    ],
+    [
+     29.8,
+     73.8
+    ],
+    [
+     30,
+     66.4
+    ],
+    [
+     30,
+     70.4
+    ],
+    [
+     30.2,
+     58.2
+    ],
+    [
+     30.2,
+     64.4
+    ],
+    [
+     30.2,
+     70.6
+    ],
+    [
+     30.4,
+     64.6
+    ],
+    [
+     30.6,
+     64.8
+    ],
+    [
+     30.8,
+     66
+    ],
+    [
+     31.8,
+     74
+    ],
+    [
+     37.4,
+     54.4
+    ],
+    [
+     44.2,
+     43
+    ],
+    [
+     66.4,
+     25.6
+    ],
+    [
+     66.6,
+     25.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "end",
+   "type": 1,
+   "id": 6015,
+   "name": "Torta",
+   "coord": [
+    66.6,
+    25.6
+   ],
+   "coords": [
+    [
+     66.4,
+     25.4
+    ],
+    [
+     66.4,
+     25.6
+    ],
+    [
+     66.6,
+     25.4
+    ],
+    [
+     66.6,
+     25.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 260,
+   "date": "2006-02-27T05:11:45-06:00",
+   "body": "[b]Tooga[/b] is found at ([b]29,60[/b]) , in the northern parts of the Thistleshrub Valley. You might have to wait for him to respawn.\nHe doesn't roam, almost stays at the same spot.\n\n[b]Torta[/b] is at ([b]66,25[/b]) , just south of the Steemwheedle Port in the north east. She's always there so no waiting there.\n\nMobs neer Tooga are lvl48-49 elementals.\nMobs go down from lvl45 to lvl40ish in the north (scorpids/wolves/basilisks).\n\nAlso...\n[b]Tooga follows YOU[/b], you don't have to follow him. He walks at around 110% speed, so running with a steed might get him lost.\nHe attracts almost no agro and if you take care where you walk you can walk all the way without fighting a single mob.\n\nIf you arrive, Tooga's gonna have some words with his wife:\n---\n[i]Tooga:[/i] Torta, my love! I have returned at long last.\n[i]Torta:[/i] You have any idea how long I've been waiting here? And where's dinner? All that time gone and nothing to show for it?\n[i]Tooga:[/i] My dearest Torta, I have been gone for so long. Finally we are reunited. At long last our love van blossom again.\n[i]Torta:[/i] Enough with the rambling. I am starving! Now, get your dusty shell into that ocean and bring momma some grub.\n[i]Tooga:[/i] Yes, torta. Whatever your heart desires...\n---",
+   "replies": [
+    "poor tooga",
+    "As the poor husband waddles toward the ocean, Torta mutters:&nbsp; \n\n\"And don't get lost this time....\"&nbsp; \n\nShe is horrible.&nbsp; X)",
+    "Found him at 30,65... he does seem to move around a bit. Possible spawn points: 29,60, 30,65 and 30,70 from my experience.",
+    "Found him even further at 30,75.",
+    "under the thumb & nagged more like it"
+   ]
+  },
+  {
+   "rating": 106,
+   "date": "2007-02-27T21:34:15-06:00",
+   "body": "This is one of the cutest quests in all of WoW, when you find Torta, her and Tooga have a very cute conversation.  Call me a sap, but it was adorable!\r\n\r\nAlso, just an useless piece fo information, the Spanish word for turtle is \"tortuga\".  Get it ... Torta and Tooga :)",
+   "replies": [
+    "Or it could be the pirate stronghold Tortuga, when looking at the amount of pirate stuff in the Tanaris area. :) But yeah, didn't consider that.",
+    "Also \"Torta\" in Spanish is what in the united stares is called a sandwich, and Tooga (or Toga) is the vestiment for graduation in school, so \"torta-toga\" make no sense."
+   ]
+  },
+  {
+   "rating": 72,
+   "date": "2020-04-10T11:30:02-05:00",
+   "body": "Heads up. If you're looking at Tooga and no option to get the quest its likely because you've already got a quest timer running. Cannot get the quest while doing something else w/ a timer!",
+   "replies": [
+    "This reply seriously needs more upvotes! Thank you for this!"
+   ]
+  },
+  {
+   "rating": 61,
+   "date": "2006-11-03T00:16:52-06:00",
+   "body": "After you speak with Tooga, he follows you wherever you go. Just run him to Steamwheedle Port, in the northeast of the zone. He's slow, so you have to go on foot or he won't be able to keep up. \r\n\r\nStick around when you finish the quest, the dialog is funny :)",
+   "replies": [
+    "Also be careful not to wander too far away from him.  I assumed he would continue to follow me, but after being mounted and trying to get away from several mobs that were on me I got the message \"quest failed\"."
+   ]
+  },
+  {
+   "rating": 44,
+   "date": "2006-04-04T17:11:45-05:00",
+   "body": "I found Tooga at 31,74",
+   "replies": [
+    "Confirmed, I found him there too.",
+    "Also found him here in Classic."
+   ]
+  },
+  {
+   "rating": 35,
+   "date": "2007-01-21T17:11:45-06:00",
+   "body": "I have done this quest many a time with different characters, but always find him in different locs, either by zepplin or next to the Thistleshrubs.. today for the first time I actually watched him spawn.. he spawned AT the zepplin, then started his walk toward the Thistleshrubs.. hope this helps if you need to find him. \n\nAlso, when I escort him, I have found the easiest way is to mount up (so you can see mobs better and pick around them) and run about 6 paces, then let him catch up, walking slowly, rinse repeat.. it's easy to avoid mobs and quick this way.. just be sure to keep him targeted, because he sometimes draws aggros, and you don't want to lose the guy.",
+   "replies": []
+  },
+  {
+   "rating": 34,
+   "date": "2007-03-22T01:13:37-05:00",
+   "body": "Just a word of advice..if you pull aggro, STOP AND KILL IT. Tooga will keep attacking it until it's dead, so if you try and outrun the aggro, Tooga will fall behind.",
+   "replies": []
+  },
+  {
+   "rating": 27,
+   "date": "2006-08-28T17:11:45-05:00",
+   "body": "Poor Tooga, Torta is a real $%^&*!",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2006-11-09T17:11:45-06:00",
+   "body": "The first time I did it I almost fell over laughing!&nbsp; It's the cutest end scene ever!&nbsp; And c'mon now.&nbsp; You can't blame her for being mad.&nbsp; If the positions were reversed, you'd probably be mad at your absentminded wife for wandering off AGAIN, taking FOREVER, and then NOT bringing home food, right?&nbsp; ;)&nbsp; I love the humor Bliz puts into some of their quests.&nbsp; \n\nAnd dunno if it'll help some other druids out there (unless you're gonna try stealthing it), but while I was trying to find the name of this quest (it's been awhile since I've done it on my other chars), I came across some advice from someone else - on Allakhazam, I believe.&nbsp; Someone advised druids to have fun with Soothe Animal.&nbsp; I completely forgot I had that spell, and it helped a lot.&nbsp; Especially with the damn aggro happy hyenas.&nbsp; The only time I had to fight during the quest was when I had 2 of the mobs resist.&nbsp; Other than that, smooth sailing.&nbsp; \n\nGood luck!&nbsp; Enjoy the end show.&nbsp; ;)",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2006-11-04T06:08:24-06:00",
+   "body": "Start: Reported and found at 31.74 and 66.25\r\n\r\nEnds: (Torta) 66.25 just South of Steemwheedle Port",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2007-05-15T13:40:08-05:00",
+   "body": "START: Tooga spawn right in front of me at 29,60\r\nFINISH: Found Torta on the beach at 66,25\r\nRun around mobs and avoid aggro. You'll have plenty of time to make it if you know where your going. Tooga was able to run faster then me so if you have a mount then use it but don't get too far ahead. (or mages use Blink) Just keep some distance so he stays running at top speed for him.\r\nCompleted with 16mins left & fought 1 mob on the way.",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2006-07-23T05:11:45-05:00",
+   "body": "Damn I feel so sorry for Tooga :(\nFirst I felt sorry for him because he lost his wife and when I returned him I felt sorry because of his wife :(",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2006-07-23T05:11:45-05:00",
+   "body": "I feel sorry for the poor guy.&nbsp; What a mean wife =(",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2019-10-01T04:53:14-05:00",
+   "body": "If someone else is doing the quest, he isn't at the quest location because he's literally running across Tanaris. By the time I'd gotten my Laden Dew Gland, he'd returned. Note that he doesn't path like a normal 'escort' quest; he follows you wherever you go!",
+   "replies": [
+    "That's implied in the quest instructions. He asks you to lead him back to his wife because he's lost."
+   ]
+  },
+  {
+   "rating": 10,
+   "date": "2007-04-22T23:01:44-05:00",
+   "body": "Tooga Can also be found at  29,60",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2019-09-11T20:29:33-05:00",
+   "body": "Can someone explain how the respawn on this quest works? I'm supposed to wait until whoever is doing the quest walks all the way across Tanaris, and then however more for it to spawn again? Wouldn't this make the quest pretty much impossible to do?\n\nNot to mention if someone decides to take their sweet time running around with it for hours.",
+   "replies": [
+    "30 min timer, so add maybe another 5-10 for him to spawn, and thats the max you would need to wait.",
+    "I had him wandering around offering his quest when I was there."
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2019-09-07T14:49:54-05:00",
+   "body": "I just did this quest was kinda strange me (alliance) and a horde palyer picked up the guest the same time but the turtle did not follow me it followd the horde player but my quest did not Fail so i just followed them and when the Tooga got to the destination it got completed for me to",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-03-27T00:30:21-05:00",
+   "body": "You pretty much set the difficulty of this quest yourself by choosing how straight of a path you want to take.  If you're willing to take the time to go around NPC patches (especially the Dunemaul compound) you can do the entire quest with no aggro.\r\n\r\nThe largest problem I ran into was opposing faction members harassing the poor turtle.  I was able to solo with a 48 Blood Elf Pally.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-08-28T17:11:45-05:00",
+   "body": "tooga is at 30,71\n\ndo not mount when doing the quest",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-04-04T17:11:45-05:00",
+   "body": "I kill a mob and he disapears and it says quest failed. Happened to me twice so far. Tooga can find his own way home.",
+   "replies": [
+    "You were probably out of range of his attack starting point. He goes back to the point where he was when you started your attack and he went to assist."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2005-11-09T17:11:45-06:00",
+   "body": "It doesn't seem to list XP here. So... it's worth 5900xp.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-12-16T05:11:45-06:00",
+   "body": "The ring=432 armour for druids",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-06-16T17:11:45-05:00",
+   "body": "I found Tooga at the south end of the valley, near the crashed zeplin.\n\nTry there if you cant find him at the north end",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2020-02-19T10:15:27-06:00",
+   "body": "Spawns either inside Thistleshrub valley (far north side, or along east side of hill in middle of valley)     Also has a spawn point closer to 33, 71 near that broken down Zepplin.   \n\n\nEasy escort -- true escort quest where you only engage mobs you want to engage.  So you can just grind in a straight line, or you can avoid.  Just remember he has a level 45 aggro range.    Your biggest danger will be other players\n\nHe does NOT go any faster if you mount. If you attack a mob first and he has to run to catch up and help you fight, he resets back to where he aggro'd after you kill mob  so just keep an eye on him.  This means do NOT try to kite a mob towards the destination, otherwise it's even further he will run back and you may get out of range.\n\n**If doing this as a group, you can individually fail this by getting out of proximity of him.  We had a guy who was like \"i'll run ahead and clear a path\" and he failed it**",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-07-23T05:11:45-05:00",
+   "body": "He should divorce his turtly wife. Anyway. You should do this quest after finishing \"The Thirsty Goblin\" and \"Thistleshrub Valley\" Both are done in the immediate surroundings of the turtle, and the turn in is near his wife. Three quests in one trip! Go me!",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-10-04T05:11:45-05:00",
+   "body": "well, my first attepmt at this, i found Tooga at 30, 71. i waited for at least 30 mins for this to respawn again then started looking around at other locations. i ended up finding Tooga again at 31, 74.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-01-21T17:11:45-06:00",
+   "body": "Tooga does not roam much but he DOES spawn at different spots in the Thisleshrug Valley.&nbsp; I've seen him spawn in 3 different spots so far.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-05-08T05:00:20-05:00",
+   "body": "I honestly was about 100 yards from the point where u turn in the quest and turned to talk to my girlfriend and my guy was still running and 20 seconds later tooga had aggro'd about 5 guys and died. im seriously about to smash my monitor im so mad. Just make sure you are paying attention to him because he will lag behind you and aggro stuff easily.",
+   "replies": [
+    "We get it, you have a girlfriend.",
+    "I had my target on him so I could see when he aggroed something and could protect him."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2005-06-05T15:12:46-05:00",
+   "body": "easy quest....did it at lvl 45 with no problems for 5900 xp",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-07-13T08:15:12-05:00",
+   "body": "This quest gets easier and easier as it goes along. You find Tooga near Thistleshrub valley.. the mobs in this area are 48-49. But by the time you near steamwheelde, the mobs are down to 40-42 or so and it's a cakewalk.\n\nIt should be easy to do within 30 minutes.\n\nI finished with nine to spare and I think I was going a bit slowly, more so than necessary.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-03-20T20:08:39-06:00",
+   "body": "5900xp at level 52. Torta was waiting impatiently at 66, 25 (CTmod) and promptly sent Tooga out to fetch dinner.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-10-04T05:11:45-05:00",
+   "body": "Torta is at 66,25",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-03-28T02:28:58-06:00",
+   "body": "5900 xp at level 47 as well. Took me 15 minutes to get him there tho, so you could argue it's not worth it.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2019-10-15T04:23:43-05:00",
+   "body": "I recommend doing this quest last, when you've reached level 50 or so. That will make it easier to avoid trash, which is less likely to aggro on you.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-05T22:20:26-05:00",
+   "body": "I only got 4400 at lv49",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-16T21:55:23-05:00",
+   "body": "30,70",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-13T18:49:39-05:00",
+   "body": "This guy tooga spawns in the very south-western corner...it is easy to see/notice him in amongst all the cacti and thistletrub(dont know actual spelling) guys..i found tooga when i was looking for a Laden dew gland for the one quest from Marin Noggenfogger.\n\nGlenan, Uldum server",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-08T20:44:38-06:00",
+   "body": "Torta and Tooga... The spanish word for turtle is \"tortuga\".  Made me chuckle.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-06T16:07:08-05:00",
+   "body": "There is no %^&*ing way for a level 45 ANYTHING to complete this quest solol seeing as how the %^&*ing turtle is in the Middle of level 47-50 mobs which will add all on top of you. The only way is if the area is being hunted and is pretty clear of the Thistle elementals. Otherwise, you're going to get adds from hell and have the quest fail.",
+   "replies": [
+    "you obviously aint very good then :P",
+    "A level 45 will have a hard time soloing this because of aggro radius on lvl47-50 mobs that happen to be elementals with rooting spells."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-17T15:35:50-05:00",
+   "body": "He wanders. He does aggro so don't be lazy. Luckily, he follows you, so not the ridiculous escort limitations.\n\n[i][small]Edited, Mar 17th 2007 11:44am by jtbalogh[/small][/i]",
+   "replies": [
+    "Except : don't go too far ahead or too far away from his attack starting point."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-03T06:56:54-05:00",
+   "body": "I can't talk to either turtle as 50 tauren druid.\nNo talk bubble is on mouse cursor.\n\nIs it only for alliance? or changed?\n\nthx for help",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-26T01:38:44-05:00",
+   "body": "im lvl45 horde druid, and i cant do anything either...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-05T14:36:30-05:00",
+   "body": "took me about 12 minutes with my lvl 45 druid..\nhad to fight two mobs on the way that was all. managed to sneak around the rest! well worth the time considering the xp and reward (the ring)!\nFound him at 29,58\n\nEdited, Wed Oct  5 10:53:23 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-01T04:20:21-06:00",
+   "body": "Took me about 10 minutes to complete. Got jumped a couple times but my pet dispatched them pretty quickly. The dialogue cracked me up, he whines along the way \"Ow! I've got sand between my toes!\" and the like, then when you finally get him back, his wife rags him about missing her dinner. Can't recall how much XP I got at 52 but it was worth doing imho. And 15 minutes to do? Well, what else are you doing that's so important?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-16T19:52:01-06:00",
+   "body": "Both times I've seen Tooga it was in Thistleshrub valley in the SW.  I still got 5900 for this quest at lvl 50.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-17T21:56:14-06:00",
+   "body": "solo'd as a lvl 45 rogue, very easy quest",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-10T13:22:55-06:00",
+   "body": "You can do this quest at level 60 and still get the ring.  You get 62 silver as well for the reward.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-26T03:55:13-05:00",
+   "body": "Exremely easy at lv 50 as a priest. Just dont get on a mount if you run off to much you will fail the quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-08T03:25:23-06:00",
+   "body": "Does no one find it stange that you are talking to TURTLES! I mean, since when can they talk! This quest if full of plot holes.",
+   "replies": [
+    "Not so fast smartboi, he has a point.\n\nWhy can these particular two turtles talk, but not any of the others?\n\nYou can try to write it off to \"it's all made up anyway\", in which case I am a level 75 black dragon with 3,700,000 HP and you're toast.  Why not?  It's all made up anyway...\n\nSeriously, games like this only work if there is a certain degree of consistancy.  You don't expect the same mob in the same zone to range from level 5 to level 75.  You don't expect Gadgetzan Bruisers to be neutral today, friendly tomorrow and hostile the day after with no action on your part.  You could never d",
+    "All the turtles (or other beast mobs for that matter) can talk, they just have nothing to say to us, in general, unless they need an escort across the desert.\n\nThis is a magical world after all.  Personally Id like to have hippogriffs (or equivilent) tell jokes on the longer flights, or perhaps chat away.\n\n'Hay <race>, Why did the Hippogriff fly over the road?  Cause Hioopgriffs, dont have to walk.  Hahaha, I crack myself up'",
+    "I agree with this theory :) It stands to reason that should there be two turtles in the whole of the world that could talk they wouldn't be in some desert looking for their lunch. - They'd be in an exhibit or zoo somewhere - Maybe being studdied by scientists.\nFar more likely is the fact that as previously suggested, they simply have nothing important - or relevent to say. \n Or it could be just that they DO want to talk about their family problems - But arn't going to talk about them with the likes of you :p  you are the enemy of most of them afterall. :)\n\nIn closing - I also like the Hyppogri"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-28T14:34:14-05:00",
+   "body": "Soloed at lvl 45 (druid). As long as you can get out of Thistleshrub Valley alive it's pretty easy. I only aggroed one of the Thistleshrubs, they're not that hard to avoid :) 5900 exp.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-13T23:29:44-05:00",
+   "body": "we were able to get 3900 exp each and the items are a ring with 140 armor (sells for 20 silver) and then cuffs - mail - 4 stamina and 10 intellect (worth 86 silvers) on Gilneas.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-12T10:37:01-05:00",
+   "body": "I soloed this as a 47 Druid. I found him at the end of Thistleshrub valley when I was doing the other Thistleshrub quests (laden dew gland and the Thistleshrub exploration one).\n\nI just cleared out the mobs at the entrance to the valley, then started the quest. One shrub aggroed us on the way out, but like everyone says, when you get into the desert, he follows you (don't ride a mount or get too far ahead of him). Since he follows you, and there is plenty of time on the time, you can avoid aggroing the mobs in the desert.\n\nI just took him up to Gadget then took the road across from there.\n\nA fun quest, a good reward for a feral druid, and decent xp. If only more quests could be like this! :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-07T12:05:59-05:00",
+   "body": "I just did this Tonight with a 40 Druid.. Solo\n\nJust have to be carefull and run between mobs without aggroing.. Very fun quest to do early for a Feral Druid.  EXP Reward was 5900",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-05T12:29:47-05:00",
+   "body": "was just wandering around and found this turtle i was able to get the quest at 42.  Mobs in the area were too big for me to do the quest but i could get it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-13T18:28:01-05:00",
+   "body": "This quest is long alright, but it is not that hard; unlike most escort quests, you don't deal with spare spawns above and beyond the wanderers, so it is easily soloable at appropriate levels. As an added bonus, Tooga and the Tooga/Torta dialog are some of the more amusing writing in the game. Do it, and remember Tooga and Torta fondly as you travel the beach and massacre hundreds of their cousins for their turtle scale resource ;-)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-15T21:47:06-06:00",
+   "body": "So easy. Soloed as 49 Rogue on mount. I trained mobs and so did he but not one attack except a rootshaper in the very begining.  That was it.\nOwned.\nNice ring and 5900 xp",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-20T04:49:14-05:00",
+   "body": "How long does it take for him to respawn? I got too far away from him the first time I tried to do this quest, and I failed it. I went back to get the quest again and he wasn't there. An hour later, he still hadn't shown up.",
+   "replies": [
+    "Two comments on location and respawn for Tooga:\n\n1. He can spawn anywhere near the abandoned camp in the southwest corner of the zone, south and east of Thistleshrub Valley.  I've seen him both east and west of the shelter thing in the abandoned (burned out?) camp there.  I think he spawns in one of a few spots and wanders in a small path around his spawn point, so if you miss him in one spot, loop around and check the other nearby areas.  He doesn't wander far.\n\n2. I was about to grab the quest when two Alliance yoyos grabbed him and ran off with him, so I logged to an alt and kept checking b",
+    "Thank you so much! I didn't know he roamed as far the burning camp. I ran down there to check for him, and there he was! Finished the quest in about 15 minutes and got my band of the great tortoise (a handy little ring for a priest!)",
+    "I accepted the quest without clearing the immediate surroundings or reading the text. I didn't think it would be an escort, so I thought I'd accept, stealth away, and read when there weren't a bunch of mobs all around me. Needless to say, as soon as I accepted and Tooga turned from yellow to green, he drew five mobs and killed us both. By the time I returned to my body, some other guy had already found him and taken the quest. Based on that, I'd say it's less than five minutes to spawn after he dies. I dunno about how it works if you successfully complete, but I'd imagine it's about the same."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-27T16:39:49-05:00",
+   "body": "one of the best quests in the whole game, very funny and amusing, especially the end, the dialogue between Tooga and Torta - superb!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-11T17:22:30-05:00",
+   "body": "Don't get too hasty and run too far off on a mount.  He dissappears ;(",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-03T06:45:06-05:00",
+   "body": "I just completed the quest with 21 minutes left on the quest timer (that started at 30 minutes). I even stopped a couple times to skin dead animals left by others.\n\nSince he follows you - it is your fault if you aggro. i did not have to attack a single mob to complete this. The couple mobs that aggrod the turtle were no big deal since if i kept running, so did the turtle, and nothing was going to stop him or bring him down in the slightest.\n\n5900xp as 54 hunter",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-07T00:48:48-06:00",
+   "body": "I recieved 5900 exp at 47th doing this",
+   "replies": [
+    "I was able to get this and do it at level 46. Think the experience was 5900."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-06T18:58:00-05:00",
+   "body": "This ring is the 2nd best so far in the game for alliance feral druids.  120 armor in bear form actually equals 432 more so 552 total from this ring.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-29T19:25:43-06:00",
+   "body": "I am sooo stupid. I did the quest and got to Gadgetzan and then got on my wolf and sprintd to torta and it seems that if u leave his sight u fail. Im posting this message to save other ppl time. [Red]Do not run too fast![/Red]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-28T02:05:03-06:00",
+   "body": "I <3 Tooga!\n\nDid it as 48 Hunter, Dwarf... Was a walk in the park, and the xp wasnt half bad neither, a wooping 5900xp.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-02-17T18:49:08-06:00",
+   "body": "For anyone like me who was hoping to pick up his quest, do the quests around where he spawns, then hearth back to Gad and take an easy trip over to the Port, hearthing will instantly fail this quest.",
+   "replies": [
+    "That's because it puts you out of his range."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2006-11-03T13:43:02-06:00",
+   "body": "Tooga wanders to the south-west of the map, at the extreme opposite of where he wants to go.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-06T11:01:28-06:00",
+   "body": "the starting coords are right but i think u have to kill soem mobs in the area first do tooga can spawn.\r\nBtw quest bugged to me in a moment tooga disapeared but it didnt said failed.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-10T02:30:38-06:00",
+   "body": "Step 1.) Accept Tooga quest, have him follow you around\r\nStep 2.) Stealth around Tanaris and track down opposite faction\r\nStep 3.) ???\r\nStep 4.) Profit!",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-29T16:19:06-05:00",
+   "body": "If there's several people in the area, it's worth it picking it up before finishing the other things in the area.\r\nThought I'd stick around, and take it once I was done, but a nelf beat me to it, and I've been waiting for ~45 mins for the spawn.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-29T23:57:47-06:00",
+   "body": "torta doesnt deserver tooga, hes too good for her!",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-02-27T00:49:55-06:00",
+   "body": "I'm level 50 horde and the turtle tooga won't talk to me.  is there some trick to triggering this quest?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-04-15T23:02:56-05:00",
+   "body": "By the way, for those of you who are wondering, Torta, Tooga's wife, is JUST South of Steamwheedle.  and I mean JUST.  :)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-01-28T00:46:52-06:00",
+   "body": "where does this guy spawn at? i found him once but someone else came up and stole quest while i was reading it lol",
+   "replies": [
+    "When I could see the yellow dot on the minimap, i got ganked by a 70 hunter...logged main and tried to track him down. ARGH got so pist!\n\n[i][small]Edited, Apr 17th 2007  3:21pm by Tranquillityy[/small][/i]"
+   ]
+  },
+  {
+   "rating": -3,
+   "date": "2021-01-15T08:16:32-06:00",
+   "body": "This quest is bugged in Classic. While escorting him, I attacked and killed an enemy bot that was killing a basilisk. Tooga attacked the basilisk, and when I killed the bot the basilisk reset and Tooga vanished, and I failed the quest. So if you are going to escort him on a pvp realm, be careful.",
+   "replies": [
+    "You were probably out of range of him when he went back to the point which he moved to attack from."
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2005-01-28T10:32:23-06:00",
+   "body": "Tooga spends his time at the far SW area of the zone near or in the cactus garden.",
+   "replies": [
+    "Found him today at: 30,64."
+   ]
+  },
+  {
+   "rating": -7,
+   "date": "2007-05-21T19:38:46-05:00",
+   "body": "God, His mrs was so mean when i escorted him back, he should dump her and maybe find a new girlfriend called Michelle or something... Mwuahaha",
+   "replies": []
+  }
+ ]
+}

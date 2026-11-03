@@ -1,0 +1,126 @@
+{
+ "id": 92747,
+ "name": "Moonbrook Espionage",
+ "level": 15,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 800,
+ "start": {
+  "type": "npc",
+  "id": 253092,
+  "name": "Alba Fairmoon",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    52.4,
+    53
+   ],
+   [
+    52.6,
+    53.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253092,
+  "name": "Alba Fairmoon",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    52.4,
+    53
+   ],
+   [
+    52.6,
+    53.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect 8 Suspicious Industrial Supplies from Moonbrook. Suspicious Industrial Supplies  ( 8 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 254676,
+   "name": "Suspicious Industrial Supplies",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Suspicious Industrial Supplies",
+   "count": 8,
+   "type": "item",
+   "id": 254676
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "start",
+   "type": 1,
+   "id": 253092,
+   "name": "Alba Fairmoon",
+   "coord": [
+    52.4,
+    53
+   ],
+   "coords": [
+    [
+     52.4,
+     53
+    ],
+    [
+     52.6,
+     53.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 1,
+   "id": 253092,
+   "name": "Alba Fairmoon",
+   "coord": [
+    52.4,
+    53
+   ],
+   "coords": [
+    [
+     52.4,
+     53
+    ],
+    [
+     52.6,
+     53.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2026-10-01T16:56:59-05:00",
+   "body": "You can also find these crates from all over the buildings scattered in Moonbrook, including the \"Moonbrook schoolhouse\" [i](i.e. the big empty building)[/i]. No need to challenge any elites for this one. Best combined with [quest=13].",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2026-09-21T21:31:17-05:00",
+   "body": "The crates are inside the cave on the way to the entrance to the Deadmines. So, go into the building that leads to the Deadmines and work your way down into those caves. You will find them there.",
+   "replies": []
+  }
+ ]
+}

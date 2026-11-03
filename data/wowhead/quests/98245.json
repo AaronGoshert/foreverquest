@@ -1,0 +1,420 @@
+{
+ "id": 98245,
+ "name": "Razormaw Needling",
+ "level": 29,
+ "reqlevel": 21,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2350,
+ "start": {
+  "type": "npc",
+  "id": 270637,
+  "name": "Howin Kindfeather",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    49.4,
+    42
+   ],
+   [
+    49.6,
+    42
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 270637,
+  "name": "Howin Kindfeather",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    49.4,
+    42
+   ],
+   [
+    49.6,
+    42
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Collect 10 Razormaw Incisors for Howin Kindfeather . Razormaw Incisor  ( 10 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 280103,
+   "name": "Razormaw Incisors",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Razormaw Incisor",
+   "count": 10,
+   "type": "item",
+   "id": 280103
+  }
+ ],
+ "series": [
+  98072,
+  98240,
+  98245
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 270637,
+   "name": "Howin Kindfeather",
+   "coord": [
+    49.4,
+    42
+   ],
+   "coords": [
+    [
+     49.4,
+     42
+    ],
+    [
+     49.6,
+     42
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 270637,
+   "name": "Howin Kindfeather",
+   "coord": [
+    49.4,
+    42
+   ],
+   "coords": [
+    [
+     49.4,
+     42
+    ],
+    [
+     49.6,
+     42
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1018,
+   "name": "Highland Razormaw",
+   "coord": [
+    69.6,
+    33.4
+   ],
+   "coords": [
+    [
+     34.2,
+     16.2
+    ],
+    [
+     34.6,
+     18.8
+    ],
+    [
+     34.8,
+     17.2
+    ],
+    [
+     35.8,
+     20.1
+    ],
+    [
+     65.3,
+     31.2
+    ],
+    [
+     65.6,
+     30.6
+    ],
+    [
+     66.1,
+     32.4
+    ],
+    [
+     66.3,
+     32.5
+    ],
+    [
+     66.6,
+     32.6
+    ],
+    [
+     67.2,
+     36.6
+    ],
+    [
+     67.4,
+     28.4
+    ],
+    [
+     67.4,
+     28.8
+    ],
+    [
+     67.6,
+     28
+    ],
+    [
+     67.6,
+     31.4
+    ],
+    [
+     67.6,
+     31.6
+    ],
+    [
+     67.6,
+     35.6
+    ],
+    [
+     68,
+     27.4
+    ],
+    [
+     68,
+     35.2
+    ],
+    [
+     68.4,
+     33
+    ],
+    [
+     68.6,
+     33
+    ],
+    [
+     68.8,
+     36.2
+    ],
+    [
+     69.1,
+     37.3
+    ],
+    [
+     69.2,
+     28.7
+    ],
+    [
+     69.2,
+     31
+    ],
+    [
+     69.2,
+     31.8
+    ],
+    [
+     69.3,
+     34.9
+    ],
+    [
+     69.4,
+     28.1
+    ],
+    [
+     69.4,
+     34.4
+    ],
+    [
+     69.6,
+     33.4
+    ],
+    [
+     69.6,
+     33.5
+    ],
+    [
+     69.8,
+     30.2
+    ],
+    [
+     70.2,
+     31.8
+    ],
+    [
+     70.2,
+     38.8
+    ],
+    [
+     70.3,
+     38.4
+    ],
+    [
+     70.4,
+     28.3
+    ],
+    [
+     70.4,
+     28.6
+    ],
+    [
+     70.4,
+     31.4
+    ],
+    [
+     70.6,
+     28.4
+    ],
+    [
+     70.6,
+     29.2
+    ],
+    [
+     70.8,
+     29.8
+    ],
+    [
+     70.8,
+     31
+    ],
+    [
+     71,
+     38.2
+    ],
+    [
+     71.1,
+     39
+    ],
+    [
+     72.2,
+     40.2
+    ],
+    [
+     72.6,
+     40.8
+    ],
+    [
+     73.3,
+     41.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1019,
+   "name": "Elder Razormaw",
+   "coord": [
+    68.7,
+    33
+   ],
+   "coords": [
+    [
+     68,
+     32.7
+    ],
+    [
+     68.7,
+     33
+    ],
+    [
+     69,
+     28.3
+    ],
+    [
+     69.2,
+     28.8
+    ],
+    [
+     69.3,
+     32.1
+    ],
+    [
+     69.4,
+     34.4
+    ],
+    [
+     69.4,
+     34.8
+    ],
+    [
+     69.5,
+     34
+    ],
+    [
+     69.6,
+     32.2
+    ],
+    [
+     69.6,
+     33
+    ],
+    [
+     70.2,
+     28.2
+    ],
+    [
+     70.4,
+     31.4
+    ],
+    [
+     70.8,
+     29.1
+    ],
+    [
+     70.8,
+     30.8
+    ],
+    [
+     71,
+     30.4
+    ],
+    [
+     73.4,
+     43.2
+    ],
+    [
+     73.7,
+     43.3
+    ],
+    [
+     74.6,
+     41.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-11T11:51:09-05:00",
+   "body": "I picked this up without any prerequisites as well.\r\n\r\nBoth this quest and [quest=98246] can be completed either in the west [i]or[/i] east of the zone. The western location only has [b]a few[/b] viable spawns for incisors, but [b]a lot[/b] of eggs and lower level raptors that you can often avoid aggroing while looting eggs. If you happen to be in the western half of the map, consider just finishing the egg part there. For [quest=98245], you really want to go east to around [b]69, 31[/b], as the teeth only drop well there. Watch out for [npc=1140] in the cave.\r\n\r\nI also did [b]not[/b] receive any reputation with the Wildhammer Clan for completing this quest at 30.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-08T19:49:18-05:00",
+   "body": "Was able to pick this quest up without doing the two quests wowhead shows as prereqs on the Beta at level 21.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-14T01:30:48-05:00",
+   "body": "'Stopping the Cycle' Questchain:\n\n[ol]\n[li][url=https://www.wowhead.com/forever/quest=98223/]Old Habits[/url]: This quest starts from a book next to [url=https://www.wowhead.com/forever/npc=2091/chieftain-nekrosh]Chieftian Nek'rosh[/url] (naturally found while completing [url=https://www.wowhead.com/forever/quest=474/defeat-nekrosh]Defeat Nek'rosh[/url]) and picking up the book.[/li]\n[li](These may be completed independently from the proper quest chain, but must be marked as completed to continue.)[/li]\n[ul]\n[li][li][url=https://www.wowhead.com/forever/quest=98245/razormaw-needling]Razormaw Needling[/url] [/li][/li]\n[li][li][url=https://www.wowhead.com/forever/quest=98246/trying-times]Trying Times[/url][/li][/li]\n[/ul]\n[li][url=https://www.wowhead.com/forever/quest=98230/this-land-was-their-land]This Land Was Their Land[/url][/li]\n[li][url=https://www.wowhead.com/forever/quest=98291/death-to-the-dragonmaw]Death to the Dragonmaw[/url][/li]\n[li][url=https://www.wowhead.com/forever/quest=98297/stopping-the-cycle]Stopping The Cycle[/url]: Rewards, pick one of  the following: [url=https://www.wowhead.com/forever/item=281313/trusty-sword]Trusty Sword[/url], [url=https://www.wowhead.com/forever/item=281312/fallen-dragons-scepter]Fallen Dragons Scepter[/url], [url=https://www.wowhead.com/forever/item=281314/subdued-dragons-fang]Subdued Dragons Fang[/url][/li]\n[li][url=https://www.wowhead.com/forever/quest=98300/word-to-ironforge]Word To Ironforge[/url][/li]\n[/ol]",
+   "replies": []
+  }
+ ]
+}

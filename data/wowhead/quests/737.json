@@ -1,0 +1,390 @@
+{
+ "id": 737,
+ "name": "Forbidden Knowledge",
+ "level": 40,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": 3,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2350,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 2785,
+  "name": "Theldurin the Lost",
+  "zone": "Badlands",
+  "zoneId": 3,
+  "coords": [
+   [
+    51.4,
+    76.4
+   ],
+   [
+    51.4,
+    76.8
+   ],
+   [
+    51.6,
+    76.4
+   ],
+   [
+    51.6,
+    76.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Bring Yagyin's Digest to Theldurin. Yagyin's Digest (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 4647,
+   "name": "Yagyin's Digest",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  728,
+  736,
+  737
+ ],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 2786,
+   "name": "Gerrig Bonegrip",
+   "coord": [
+    50.4,
+    6
+   ],
+   "coords": [
+    [
+     50.2,
+     7
+    ],
+    [
+     50.4,
+     5.4
+    ],
+    [
+     50.4,
+     6
+    ],
+    [
+     50.6,
+     5.4
+    ],
+    [
+     50.6,
+     6.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1497,
+   "zone": "Undercity",
+   "point": "start",
+   "type": 1,
+   "id": 2934,
+   "name": "Keeper Bel'dugur",
+   "coord": [
+    53.6,
+    54
+   ],
+   "coords": [
+    [
+     53.4,
+     53
+    ],
+    [
+     53.4,
+     53.8
+    ],
+    [
+     53.6,
+     53
+    ],
+    [
+     53.6,
+     54
+    ],
+    [
+     54,
+     54.6
+    ],
+    [
+     54.2,
+     55.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 3,
+   "zone": "Badlands",
+   "point": "end",
+   "type": 1,
+   "id": 2785,
+   "name": "Theldurin the Lost",
+   "coord": [
+    51.4,
+    76.8
+   ],
+   "coords": [
+    [
+     51.4,
+     76.4
+    ],
+    [
+     51.4,
+     76.8
+    ],
+    [
+     51.6,
+     76.4
+    ],
+    [
+     51.6,
+     76.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 92,
+   "date": "2007-01-14T15:05:44-06:00",
+   "body": "Once upon a time, this item did a fixed amount of damage, instead of a percent-based amount of damage, while still offering a 60% speed increase.  At that time, it was considered a \"must-have\" pvp item, both for the run speed and for the ability to break various forms of CC.  Since the change to do a percent-based health and mana reduction, it is less desirable.\n\nIts primary use now is to keep around and use to try and kill yourself to save durability rather than be killed by NPCs in a raid wipe.",
+   "replies": []
+  },
+  {
+   "rating": 33,
+   "date": "2005-10-05T08:13:03-05:00",
+   "body": "hes at 51,76 in badlands",
+   "replies": []
+  },
+  {
+   "rating": 23,
+   "date": "2005-04-26T16:54:18-05:00",
+   "body": "Nice for pvp. I started the quest chain after lvl60 for the reward.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2005-05-09T14:23:46-05:00",
+   "body": "Note: The holder is the one who receive the damage.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-08-29T20:13:03-05:00",
+   "body": "Expect that to be pounded with a nerf bat any day now, especially since Swifty spammed a link to his video on every single realm forum.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-05-12T08:13:03-05:00",
+   "body": "Reputation is never stupid or pointless. I for one like to gain it and if it is \"stupid\" or \"easy\" so be it.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-08-29T20:13:03-05:00",
+   "body": "this Deals dmg to you over 10 secondes which makes you break every almost very cc out there.\n\nfreezing trap and scatter shot both end with dmg\npolymorph end with dmg\nguage and blind end with dmg\n\nThis item is amazing for my fury warrior",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-05T08:13:03-05:00",
+   "body": "You dont actually have to do anything but take him the book so its little exp at the end.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-06-17T20:13:03-05:00",
+   "body": "Oh my gosh!&nbsp; The skull of impending doom killed me when i used it!\n\nDon't ever use this reward!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-08-29T20:13:03-05:00",
+   "body": "im level 45 too and i got 2350 XP =D",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-11-06T12:15:15-06:00",
+   "body": "as with the Crystal of Zin-Malor, this one could be used to suicide without losing durability. Handy in raids when it's an obvious wipe.\nAnd as for the amount of damage /mana drain, its a random amount every time you use it, but during the usage, the damage is consistent.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-05T08:13:03-05:00",
+   "body": "just got 2350 xp for completing this quest.\nI'm lvl 45 btw.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-05T08:13:03-05:00",
+   "body": "Theldurin the Lost is in Badlands.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-22T20:13:03-06:00",
+   "body": "got 1400xp for just turning this in.\n\nim a lvl 47 warlock too.\n\nhe is also at 51.76 in the badlands.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-05T08:13:03-05:00",
+   "body": "Only 950 exp at lvl 48 but full 5600 for prequest \"The Hand, The Star, etc.\"",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-28T08:13:03-06:00",
+   "body": "I got 2350XP for turning in the digest to Theldurin at level 45. Maybe a patch fixed it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-17T20:13:03-05:00",
+   "body": "loc&nbsp; 51.76",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-29T20:13:03-05:00",
+   "body": "I saw this PvP video, yeah the one with swifty in it lol and i ran here to this guy to get the quest and... no quest I know i never did it wtf man?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-29T20:13:03-05:00",
+   "body": "that swifty video said it made him immune to sheep freezing trap scatter shot gouge&nbsp; and blind? was that a enchant or does it actually do that?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-29T20:13:03-05:00",
+   "body": "It says that this is an ally and horde quest so where do u start it on horde.plz reply thanks",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-15T03:53:51-05:00",
+   "body": "The quest gives good exp through the chain, not to mention your out there grinding anyway, just do it, Don't listen to the whiners",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-19T20:29:32-05:00",
+   "body": "This is a very good item! You can use it in PvP when sheeped/Seduced/Saped, it will remove Sheed/seduce/Sap Becasue its hurts you",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-23T16:51:46-05:00",
+   "body": "This item can be used to break Seduce/sheep and other stuff like that, rogue stuns and the like, its probably most useful for warlocks or warriors since they have the most health.",
+   "replies": [
+    "This does not break rogue stuns."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-06T17:48:00-05:00",
+   "body": "WSG: mage flag carrier + Rejuv + icebarrier + defilers trinket = easy cap. :>",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-19T00:11:18-05:00",
+   "body": "where can i find the quest giver?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T15:25:03-05:00",
+   "body": "Has anyone tried using Divine Shield and then the skull?",
+   "replies": [
+    "Just tried it.  It blocks the health damage but not the mana damage.\n\nStill not something I'd consider useful.  To the vendor it goes.",
+    "Useful in PvP against Sheep/seduce/SAP.. no so useful in pve."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-16T02:13:02-06:00",
+   "body": "Has anyone tried to use VW Sacrifice shield or SpellStone or Power word Shield in conjunction with this item to see if the damage is absorbed? \n\nTamorand/Namuh\nHunter/Warlock",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-01T14:53:58-06:00",
+   "body": "the link to the alliance side quest goes to the horde quest.  Can someone tell me where this quest string starts?",
+   "replies": [
+    "Gerrig Bonegrip in Ironforge",
+    "I think the prereq starts with Theldurin the lost (51, 76) Badlands with To IF for Yagyin's Digest.",
+    "The chain starts with Solution to Doom, offered by Theldurin the Lost in the Badlands:\n\n[quest=709]"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-17T23:41:58-05:00",
+   "body": "AWESOME FOR WSG...DON'T BELIEVE THE HYPE...IT'S AN AWESOME ITEM",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-14T10:51:07-06:00",
+   "body": "This quest reward is simply amazing.  It is the ultimate \"get-away\" final resort.  If you complete this quest chain you will love this trinket forever, and I highly suggest you do as it's saved my life 10+ times now.",
+   "replies": [
+    "This is a Held In Off-Hand, not a Trinket"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2006-07-24T08:13:03-05:00",
+   "body": "It's pretty much just a swiftness potion or extra sprint that costs mana and HP. Don't know if it's REALLY worth the effort.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2020-05-07T05:26:59-05:00",
+   "body": "Is there a following quest?\r\nI give this guy the digest.  He gives me the skull.  Says \"Ow.  Spicy\".....and that's it?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-29T15:24:37-05:00",
+   "body": "Has anyone tried using Divine Shield and then the skull?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-04-19T00:08:55-05:00",
+   "body": "Does this share teh cool down timer with the Nifty stopwatch?  If it doesnt these 2 items would own in flag BG. 60% speed to clear enemy then 40% speed for the last leg.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-02T21:52:00-05:00",
+   "body": "Well, it definitely makes you run fast, but when I tested it, I got hit for 317 damage, Five Times. 1585 damage out of my 2100 or so hit points...not sure if it does that same ammount every time or not, but once was enough. So, I happily vendored it. \n\nThe [url=/item=2820]Nifty Stopwatch[/url] is much better, even tho it is slower. Imagine, you are running after a Horde who is trying to escape. He is just out of range of spells, so you push the button for the Skull of Impending Doom to catch him...and instead of catching him, you fall over dead...by your Own Hand. Bleh.",
+   "replies": [
+    "Well if you WERE chasing a Horde you were probably 10 levels above him or had at least 1 other buddy with you. So make that other a priest to heal you. The really need to make the Alliance version damage free ebcause they need all the help they can get ROFL."
+   ]
+  },
+  {
+   "rating": -4,
+   "date": "2006-06-06T00:07:07-05:00",
+   "body": "There actually is a use for this! When it's 10v1 or 10v0 it happens alot on my sever for wsg, And you need to cap very fast, this could definately come in use.",
+   "replies": []
+  }
+ ]
+}

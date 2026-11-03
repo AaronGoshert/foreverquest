@@ -1,0 +1,537 @@
+{
+ "id": 3521,
+ "name": "Iverron's Antidote",
+ "level": 4,
+ "reqlevel": 2,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 355,
+ "start": {
+  "type": "npc",
+  "id": 8583,
+  "name": "Dirania Silvershine",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    60.8,
+    42
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 8583,
+  "name": "Dirania Silvershine",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    60.8,
+    42
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Collect 7 Hyacinth Mushrooms , 4 Moonpetal Lilies , and 1 Webwood Ichor for Dirania Silveshine in Shadowglen. Hyacinth Mushroom  ( 7 ) Moonpetal Lily  ( 4 ) Webwood Ichor  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 10639,
+   "name": "Hyacinth Mushrooms",
+   "count": 7,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 10641,
+   "name": "Moonpetal Lily",
+   "count": 4,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 10640,
+   "name": "Webwood Ichor",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Hyacinth Mushroom",
+   "count": 7,
+   "type": "item",
+   "id": 10639
+  },
+  {
+   "text": "Moonpetal Lily",
+   "count": 4,
+   "type": "item",
+   "id": 10641
+  },
+  {
+   "text": "Webwood Ichor",
+   "count": 1,
+   "type": "item",
+   "id": 10640
+  }
+ ],
+ "series": [
+  3519,
+  3521,
+  3522
+ ],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 8583,
+   "name": "Dirania Silvershine",
+   "coord": [
+    60.8,
+    42
+   ],
+   "coords": [
+    [
+     60.8,
+     42
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 8583,
+   "name": "Dirania Silvershine",
+   "coord": [
+    60.8,
+    42
+   ],
+   "coords": [
+    [
+     60.8,
+     42
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1986,
+   "name": "Webwood Spider",
+   "coord": [
+    56.6,
+    31
+   ],
+   "coords": [
+    [
+     55.4,
+     28
+    ],
+    [
+     55.4,
+     32.8
+    ],
+    [
+     55.6,
+     27.8
+    ],
+    [
+     56,
+     29
+    ],
+    [
+     56.2,
+     24.8
+    ],
+    [
+     56.2,
+     26.4
+    ],
+    [
+     56.4,
+     26.6
+    ],
+    [
+     56.4,
+     30.2
+    ],
+    [
+     56.4,
+     30.6
+    ],
+    [
+     56.4,
+     32.2
+    ],
+    [
+     56.4,
+     33.2
+    ],
+    [
+     56.4,
+     34.4
+    ],
+    [
+     56.4,
+     34.6
+    ],
+    [
+     56.6,
+     25.4
+    ],
+    [
+     56.6,
+     25.6
+    ],
+    [
+     56.6,
+     29.6
+    ],
+    [
+     56.6,
+     31
+    ],
+    [
+     56.6,
+     32.6
+    ],
+    [
+     56.6,
+     33.6
+    ],
+    [
+     56.6,
+     34.6
+    ],
+    [
+     56.8,
+     27.4
+    ],
+    [
+     56.8,
+     28.4
+    ],
+    [
+     56.8,
+     29.2
+    ],
+    [
+     56.8,
+     31.6
+    ],
+    [
+     57.6,
+     27.8
+    ],
+    [
+     57.6,
+     29
+    ],
+    [
+     57.6,
+     32.4
+    ],
+    [
+     57.6,
+     32.6
+    ],
+    [
+     57.6,
+     34
+    ],
+    [
+     57.8,
+     26
+    ],
+    [
+     57.8,
+     26.6
+    ],
+    [
+     58.6,
+     33
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1988,
+   "name": "Grell",
+   "coord": [
+    56.4,
+    45.6
+   ],
+   "coords": [
+    [
+     55.4,
+     44.8
+    ],
+    [
+     55.8,
+     44.2
+    ],
+    [
+     56.2,
+     41.8
+    ],
+    [
+     56.4,
+     41.4
+    ],
+    [
+     56.4,
+     45.4
+    ],
+    [
+     56.4,
+     45.6
+    ],
+    [
+     56.6,
+     41.6
+    ],
+    [
+     56.6,
+     45.4
+    ],
+    [
+     56.6,
+     45.6
+    ],
+    [
+     56.8,
+     44.4
+    ],
+    [
+     61,
+     45
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1989,
+   "name": "Grellkin",
+   "coord": [
+    55,
+    44.6
+   ],
+   "coords": [
+    [
+     54,
+     39.6
+    ],
+    [
+     54.2,
+     39.2
+    ],
+    [
+     54.4,
+     38.4
+    ],
+    [
+     54.4,
+     43.4
+    ],
+    [
+     54.4,
+     43.6
+    ],
+    [
+     54.6,
+     38.4
+    ],
+    [
+     54.6,
+     38.8
+    ],
+    [
+     54.8,
+     44
+    ],
+    [
+     55,
+     39.6
+    ],
+    [
+     55,
+     43.2
+    ],
+    [
+     55,
+     44.6
+    ],
+    [
+     55.6,
+     44.8
+    ],
+    [
+     56,
+     38.4
+    ],
+    [
+     56.2,
+     38.6
+    ],
+    [
+     56.4,
+     34.2
+    ],
+    [
+     56.4,
+     35
+    ],
+    [
+     56.4,
+     35.8
+    ],
+    [
+     56.6,
+     34.4
+    ],
+    [
+     56.6,
+     35.2
+    ],
+    [
+     56.6,
+     35.6
+    ],
+    [
+     57.8,
+     33.2
+    ],
+    [
+     58,
+     33.6
+    ],
+    [
+     59.2,
+     35.6
+    ],
+    [
+     59.4,
+     35.4
+    ],
+    [
+     59.6,
+     35.4
+    ],
+    [
+     59.6,
+     35.6
+    ],
+    [
+     61.2,
+     34.4
+    ],
+    [
+     61.2,
+     34.6
+    ],
+    [
+     61.8,
+     39.6
+    ],
+    [
+     62,
+     38.4
+    ],
+    [
+     62,
+     39
+    ],
+    [
+     62.4,
+     36
+    ],
+    [
+     62.6,
+     36
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 49,
+   "date": "2006-04-18T05:33:40-05:00",
+   "body": "57,32&nbsp; is the ichor \n54,43&nbsp; is&nbsp; mushrooms (they can be found in other places as well)\n58,36 for moonpetals.&nbsp; They are around the water.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2019-10-18T17:53:56-05:00",
+   "body": "If you are using Questie it will show you that the Mushrooms can be found inside the spider cave. I cleared the whole cave and there is nothing there. Instead head south-west to the Grelkins (54, 42). They are small purplish mushrooms which can be found at the roots of the bigger purple trees.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-03-12T17:33:40-06:00",
+   "body": "the grellkin drop the mushrooms they have a 100% drop rate.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2004-09-12T23:51:32-05:00",
+   "body": "The Lilies are near a pond southwest of Dirania. The mushrooms are along the cliff sides, and the Ichor is a common drop from the spider cave to the north.",
+   "replies": [
+    "Mushrooms can be found on the grimlin looking mobs too.",
+    "The lilies are to the NORTHwest of the lady ~ they're on the way from the chick to the caves where the spiders are."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-29T17:33:40-06:00",
+   "body": "For the mushrooms, look around trees, they'll be in groups of three or so.\nFor the moonpetal lily. go to the pond North of the town, they are flowers surrounding the East pond.\nKill spiders near camp for Ichor.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-11T20:58:03-05:00",
+   "body": "Mushroom's found on Grelkin at loc 54, 43\n\nLilies are in area 57,37 near the pond.\n\nIckor is loc 56, 32",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-08-11T15:11:45-05:00",
+   "body": "[b][item=10639][/b] can be found along grellkin's villages and dropped by them as well.\r\n[b][item=10641][/b], search for them behind the Shadowglen tree, they are all near small lakes.\r\n[b][item=10640][/b] is dropped by spiders, you will found them around spder cave north of Shadowglen.\r\n\r\nBring all these back to [b]Dirania Silvershine[/b] to complete the quest.\r\n\r\n[b][quest=3521][/b] - www.youtube.com/watch?v=Ksx5xnDkQi0",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-08T16:34:26-05:00",
+   "body": "If your timer runs out just go back to her at 60.8 42.0",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-06T19:06:02-06:00",
+   "body": "Continue Quest Text (from Dirania Silvershine):\r\n\r\n\"Please, collect the ingredients, <name>. Iverron needs our help.\"\r\n\r\nComplete Quest Text (from Dirania Silvershine):\r\n\r\n\"Thank Elune that you have gathered these ingredients so quickly!\r\n\r\n\"In just a moment, I will have the antidote prepared.\"",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-14T20:14:39-05:00",
+   "body": "Мухоморы растут вдоль поселений Grellkin (loc. 54,43)\nЛилии возле озера (loc. 57,37)\nНу а Webwood Ichor падает с Webwood Spider (loc. 56,34)\n\nMuhomori rastut vdol' poselenij Grellkin (loc. 54.43)\nLilii vozle ozera (loc. 57.37)\nNu a Webwood Ichor padaet s Webwood Spider (loc. 54.43)\n\n[i][small]Edited, May 15th 2007  1:21am by TEREH[/small][/i]\n\n[i][small]Edited, May 15th 2007  1:27am by TEREH[/small][/i]\n\n[i][small]Edited, May 15th 2007  1:31am by TEREH[/small][/i]",
+   "replies": []
+  }
+ ]
+}

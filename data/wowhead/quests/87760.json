@@ -1,0 +1,166 @@
+{
+ "id": 87760,
+ "name": "Holy Diver",
+ "level": 20,
+ "reqlevel": 15,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 10219,
+  "name": "Gwennyth Bly'Leggonde",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    36.6,
+    45.4
+   ],
+   [
+    36.6,
+    45.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 10219,
+  "name": "Gwennyth Bly'Leggonde",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    36.6,
+    45.4
+   ],
+   [
+    36.6,
+    45.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Find a Stormscale Beastmistress, slay her, and bring back her Rod of Deep Dominion . Rod of Deep Dominion  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 280686,
+   "name": "Rod of Deep Dominion",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Rod of Deep Dominion",
+   "count": 1,
+   "type": "item",
+   "id": 280686
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 10219,
+   "name": "Gwennyth Bly'Leggonde",
+   "coord": [
+    36.6,
+    45.4
+   ],
+   "coords": [
+    [
+     36.6,
+     45.4
+    ],
+    [
+     36.6,
+     45.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 10219,
+   "name": "Gwennyth Bly'Leggonde",
+   "coord": [
+    36.6,
+    45.4
+   ],
+   "coords": [
+    [
+     36.6,
+     45.4
+    ],
+    [
+     36.6,
+     45.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 271903,
+   "name": "Stormscale Beastmistress",
+   "coord": [
+    48.5,
+    12.3
+   ],
+   "coords": [
+    [
+     48,
+     13
+    ],
+    [
+     48.5,
+     12.3
+    ],
+    [
+     49.4,
+     11.4
+    ],
+    [
+     49.4,
+     13.6
+    ],
+    [
+     49.6,
+     11.4
+    ],
+    [
+     49.6,
+     11.6
+    ],
+    [
+     49.7,
+     13.9
+    ],
+    [
+     49.8,
+     13
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 5,
+   "date": "2026-10-06T13:26:46-05:00",
+   "body": "This quest only unlocks after you've completed all [b]9[/b] [url=https://www.wowhead.com/forever/search?q=beached+sea#quests;0-8+2+3]beached sea creature quests[/url].\n\nYou get both potion types as a reward. Save these for later quests, like the new [quest=98197] that you'll be completing in the next zone with all objectives located underwater.\n\nAlso, this quest currently grants [b]0 XP[/b].",
+   "replies": []
+  }
+ ]
+}

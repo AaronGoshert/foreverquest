@@ -1,0 +1,41 @@
+[
+ {
+  "category": 2017,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6201,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    16025,
+    1
+   ]
+  ],
+  "level": 65,
+  "money": 0,
+  "name": "<UNUSED> The Legacy of the Ashbringer",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 60,
+  "side": 3,
+  "titlereward": 0,
+  "type": 21,
+  "xp": 0,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: no longer Ashbringer Test 002"
+   ],
+   "notShown": [
+    "Rewards: no longer Ashbringer Test 002"
+   ]
+  },
+  "popularity": 38
+ }
+]

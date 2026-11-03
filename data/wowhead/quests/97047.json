@@ -1,0 +1,198 @@
+{
+ "id": 97047,
+ "name": "The Cook in the Cage",
+ "level": 38,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2850,
+ "start": {
+  "type": "npc",
+  "id": 218230,
+  "name": "Wendel Mathers",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    44.2,
+    8
+   ]
+  ]
+ },
+ "end": null,
+ "patch": "1.60.1.70205",
+ "objectiveText": "Find a key to Wendel's cage, and a disguise for him to sneak out, within the Kurzen compound. Compound Cage Key  ( 1 ) Kurzen Fighter's Uniform  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 216616,
+   "name": "Compound Cage Key",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 216617,
+   "name": "Kurzen Fighter's Uniform",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Compound Cage Key",
+   "count": 1,
+   "type": "item",
+   "id": 216616
+  },
+  {
+   "text": "Kurzen Fighter's Uniform",
+   "count": 1,
+   "type": "item",
+   "id": 216617
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "start",
+   "type": 1,
+   "id": 218230,
+   "name": "Wendel Mathers",
+   "coord": [
+    44.2,
+    8
+   ],
+   "coords": [
+    [
+     44.2,
+     8
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 813,
+   "name": "Colonel Kurzen",
+   "coord": [
+    49.6,
+    4
+   ],
+   "coords": [
+    [
+     49.4,
+     4
+    ],
+    [
+     49.6,
+     4
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 939,
+   "name": "Kurzen Elite",
+   "coord": [
+    48.2,
+    8.4
+   ],
+   "coords": [
+    [
+     46.8,
+     6.4
+    ],
+    [
+     47,
+     6.6
+    ],
+    [
+     47.8,
+     6.2
+    ],
+    [
+     47.8,
+     7
+    ],
+    [
+     48.2,
+     8.4
+    ],
+    [
+     48.4,
+     8.6
+    ],
+    [
+     48.6,
+     8.6
+    ],
+    [
+     49,
+     8.2
+    ],
+    [
+     49.2,
+     7.2
+    ],
+    [
+     49.6,
+     7.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 978,
+   "name": "Kurzen Subchief",
+   "coord": [
+    49.4,
+    4
+   ],
+   "coords": [
+    [
+     48.8,
+     4.8
+    ],
+    [
+     49.2,
+     6.4
+    ],
+    [
+     49.2,
+     6.6
+    ],
+    [
+     49.2,
+     7.6
+    ],
+    [
+     49.4,
+     4
+    ],
+    [
+     49.6,
+     4
+    ],
+    [
+     49.6,
+     5.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

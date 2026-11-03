@@ -1,0 +1,136 @@
+{
+ "id": 97286,
+ "name": "Research Access",
+ "level": 20,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": -161,
+ "reqclass": 128,
+ "status": "new",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 211033,
+  "name": "Garion Wendell",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    37.6,
+    80.8
+   ],
+   [
+    37.8,
+    80.2
+   ],
+   [
+    48.8,
+    86.6
+   ],
+   [
+    49,
+    86.4
+   ]
+  ]
+ },
+ "end": null,
+ "patch": "1.60.1.69913",
+ "objectiveText": "Completion Your actions show you are one who respects knowledge. The library is open for use in your studies.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 211033,
+   "name": "Garion Wendell",
+   "coord": [
+    37.8,
+    80.2
+   ],
+   "coords": [
+    [
+     37.6,
+     80.8
+    ],
+    [
+     37.8,
+     80.2
+    ],
+    [
+     48.8,
+     86.6
+    ],
+    [
+     49,
+     86.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 211033,
+   "name": "Garion Wendell",
+   "coord": [
+    37.8,
+    80.2
+   ],
+   "coords": [
+    [
+     37.6,
+     80.8
+    ],
+    [
+     37.8,
+     80.2
+    ],
+    [
+     48.8,
+     86.6
+    ],
+    [
+     49,
+     86.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1497,
+   "zone": "Undercity",
+   "point": "end",
+   "type": 1,
+   "id": 211022,
+   "name": "Owen Thadd",
+   "coord": [
+    73.6,
+    33
+   ],
+   "coords": [
+    [
+     73.2,
+     33.6
+    ],
+    [
+     73.4,
+     33
+    ],
+    [
+     73.6,
+     33
+    ],
+    [
+     74,
+     32.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

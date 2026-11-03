@@ -1,0 +1,95 @@
+{
+ "id": 94214,
+ "name": "Craftsman's Writ: Shadow Protection Potion",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 3134,
+  "name": "Kzixx",
+  "zone": "Duskwood",
+  "zoneId": 10,
+  "coords": [
+   [
+    81.4,
+    19.8
+   ],
+   [
+    81.8,
+    19.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Shadow Protection Potion  ( 1 ) Shadow Protection Potion  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264014,
+   "name": "Craftsman's Writ: Shadow Protection Potion",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 6048,
+   "name": "Shadow Protection Potion",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Shadow Protection Potion",
+   "count": 1,
+   "type": "item",
+   "id": 264014
+  },
+  {
+   "text": "Shadow Protection Potion",
+   "count": 1,
+   "type": "item",
+   "id": 6048
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "end",
+   "type": 1,
+   "id": 3134,
+   "name": "Kzixx",
+   "coord": [
+    81.8,
+    19.8
+   ],
+   "coords": [
+    [
+     81.4,
+     19.8
+    ],
+    [
+     81.8,
+     19.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-23T06:41:58-05:00",
+   "body": "The quest item dropped for me from a harpy in the Dry Hills in the Barrens on Sept. 23rd 2026. \r\n\r\nI could not see the delivery location until I obtained the [url=https://www.wowhead.com/forever/spell=7256/shadow-protection-potion]Shadow Protection Potion[/url] and turned on quest tracking in the quest log. \r\n\r\nThe NPC to turn in the quest was [url=https://www.wowhead.com/forever/npc=3134/kzixx]Kzixx [/url]in Duskwood, rewards were 75 rep with Durotar Supply and Logistics and 28s 42c from the [url=https://www.wowhead.com/forever/item=284583/coin-pouch]Coin Pouch[/url].",
+   "replies": []
+  }
+ ]
+}

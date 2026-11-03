@@ -1,0 +1,202 @@
+{
+ "id": 3791,
+ "name": "The Mystery of Morrowgrain",
+ "level": 50,
+ "reqlevel": 47,
+ "side": 1,
+ "zoneId": 1657,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 4700,
+ "start": {
+  "type": "npc",
+  "id": 7879,
+  "name": "Quintis Jonespyre",
+  "zone": "Feralas",
+  "zoneId": 357,
+  "coords": [
+   [
+    32.4,
+    43.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7879,
+  "name": "Quintis Jonespyre",
+  "zone": "Feralas",
+  "zoneId": 357,
+  "coords": [
+   [
+    32.4,
+    43.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Bring 10 Morrowgrain to Quintis Jonespyre in Feathermoon Stronghold. Morrowgrain  ( 10 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11040,
+   "name": "Morrowgrain",
+   "count": 10,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11020,
+   "name": "Evergreen Pouch",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Morrowgrain",
+   "count": 10,
+   "type": "item",
+   "id": 11040
+  }
+ ],
+ "series": [
+  3787,
+  3791
+ ],
+ "points": [
+  {
+   "zoneId": 357,
+   "zone": "Feralas",
+   "point": "start",
+   "type": 1,
+   "id": 7879,
+   "name": "Quintis Jonespyre",
+   "coord": [
+    32.4,
+    43.8
+   ],
+   "coords": [
+    [
+     32.4,
+     43.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 357,
+   "zone": "Feralas",
+   "point": "end",
+   "type": 1,
+   "id": 7879,
+   "name": "Quintis Jonespyre",
+   "coord": [
+    32.4,
+    43.8
+   ],
+   "coords": [
+    [
+     32.4,
+     43.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": [
+  {
+   "rating": 31,
+   "date": "2019-09-18T03:03:37-05:00",
+   "body": "[s]Questie shows this as available in classic, but it's not there.\n\nOriginally the quest was introduced in Vanilla Patch 1.13 which was the Diremaul Patch. So this quest will probably arrive later with Phase II[/s]\n\n[b]Prequests:[/b]\n\nAlliance starts in Darnassus from [npc=3516]\n[quest=3781]\n[quest=3785]\n\nHorde starts in Thunderbluff from [npc=5769]\n[quest=3782]\n[quest=3786]\n\nNote: If you got skill 300 in [skill=182] you get more [item=11040]\n\nFound this [url=https://www.wowhead.com/forever/item=11040/morrowgrain#comments:id=2650456]comment[/url] from 2006 that explains it \n\nMorrowgrain quests:\n\nThe Morrowgrain quests can be quite involved as there are two quest givers and turn-in locations. Also the rewards given are different for both turn-in locations. The actual process to get Morrowgrain takes several steps as well.\n\nThe quest line starts with a quest called Morrowgrain Research which is given out by Arch Druid Fandral Staghelm. Arch Druid Fandral Staghelm may be found at Thottbot coordinates 35,8 in Darnassas. He is located at the top level of the Druid complex (Cenarion Enclave). He asks you to take a packet of 20 Tharlendris seeds to the middle level of the same complex and give them to Mathrengyl Bearwalker who gives out the next quest. That quest is also titled Morrowgrain Research (Just to confuse things).\n\nThe second Morrowgrain Research quest has you take a special pouch called an Evergreen Pouch (Provided when you receive the quest) and put into it 2 Un'Goro Soil (Collected in Un�Goro Crater) and 1 of the Tharlendris seeds from the packet (First 10 seeds given to you with the quest). With 2 Un'Goro Soil in your backpack along with 1 Tharlendris seed, you right click the Evergreen pouch. The pouch will plant the seed into the soil and grow an Evergreen Herb Casing. When you right click the casing, out will pop a random herb. One of the herbs grown may be Morrowgrain. When you have 10 of them you turn them in to complete the quest. You can repeat this quest as many times as desired. You can grow a new Evergreen Herb Casing once every 10 minutes.\n\nThere is a second parallel quest line involving Morrowgrain as well. This chain of quests starts with either Innkeeper Shyria in the Inn of Feathermoon Stronghold in Feralas or with Tannysa the Herbalism trainer in the Mage Quarter of Stormwind. Talking to either of these two people will give you a quest titled Jonespyre's Request which asks you to go talk to Quintis Jonespyre in the Feathermoon Stronghold in Feralas. Quintis Jonespyre will then give you the repeatable quest titled The Mystery of Morrowgrain. This quest is identical to the above quest (Use the Evergreen pouch to grow an Evergreen Herb Casing from 1 Tharlendris seed and 2 Un'Goro Soil and out pops a random herb) except you only need to turn in 5 Morrowgrain.\n\nIn the end, you now have two locations to turn in Morrowgrain:\n\nTurning in 5 Morrowgrain to Quintis Jonespyre in the Feathermoon Stronghold in Feralas will give you 25 reputation with Darnassas. In addition he also gives you another packet of 10 Tharlendris seeds so you can go out and grow more.\n\nTurning in 10 Morrowgrain to Mathrengyl Bearwalker at the Cenarion Enclave in Darnassas will earn you 50 reputation with Darnassas. In addition he also gives you a Cenarion Circle Cache. Opening this will provide a random number of items as loot. Typically there are 4-8 items in the bag although I have seen only 1 before and as many as 14 per Cenarion Circle Cache. The Cenarion Circle Cache typically contains food, drinks, scrolls, potions, herbs etc. For a list of the types of items found in each Cache please see the following link: [item=5533 domain=classic] You can get a lot of really good stuff in these caches.\n\nWhere to get Un�Goro Soil: Un�Goro Soil is found in Un�Goro Crater (Southern end of Kalimdor). Un�Goro Soil is dropped (from Dinosaurs) throughout the crater. Just run around the zone (Avoiding being stepped on or eaten by the dinosaurs) and right click the dirt piles you see laying on the ground. Un�Goro Soil is often found in the AH as well. Un�Goro Soil stacks up to 100 units per stack now.\n\nWhere to get Tharlendris seeds: Tharlendris seeds may be purchased from either of the two turn-in NPCs or you can get them as part of your turn-in reward when you turn in Morrowgrain to Quintis Jonespyre in the Feathermoon Stronghold in Feralas.\n\nWhere to get an Evergreen pouch: An Evergreen pouch is given to you when you receive the second Morrowgrain Research quest. Replacements may be purchased (For around 1 Gold) from either of the two turn-in NPCs.\n\nThe rewards:\n\nOnce you have grown Evergreen Herb Casings and retrieved the herbs out of the casings you can either turn in the Morrowgrain for reputation, sell it on the AH or use it to make Cenarion Herb Bags (Manufacturing 20 slot herb bags requires 8 Morrowgrain as one of the materials to make 1 bag). In addition the loot from the Cenarion Circle Cache is typically valued at several gold and may be used or sold as needed.\n\nIn addition to growing Morrowgrain, the Evergreen Herb Casings often contains other herbs which may be used or sold as needed. How much Morrowgrain or other herbs you grow and which types depend on your Herbalism skill. As an example, I dropped the Herbalism profession completely and grew 65 Evergreen Herb Casings. Out of those casings I received the following:\n\nMorrowgrain 50\nKingsblood 6\nGromsblood 3\nEarthroot 9\nBriarthorn 8\nLiferoot 7\nMageroyal 5\nSungrass 2\n\nFor a total of 90 herbs averaging 1.48 herbs per Evergreen Herb Casing. For the most part these are lower-end herbs.\n\nI relearned Herbalism and worked it up to 300 skill level. I then grew 65 more Evergreen Herb Casings. This is what I received from those:\n\nMorrowgrain 75\nKingsblood 22\nGromsblood 2\nLiferoot 6\nSungrass 5\nStranglekelp 13\nBlindweed 5\nGoldthorn 22\nFirebloom 2\n\nFor a total of 152 herbs averaging 2.34 herbs per Evergreen Herb Casing. For the most part these are higher-end herbs. The maximum # of herbs out of any single casing is 5.\n\nAs I went up in skill level, the numbers and types of herbs increased steadily.\n\nAll in all 300 Herbalism will result in a 50% increase in Morrowgrain output and a 70% increase in the number of herbs grown as well as large increase in the value of the herbs.\n\nMost people performing the Morrowgrain quests keep the pouch, seeds and soil in their backpack and as they run around Azeroth they pop out a new batch of herbs once every ten minutes. For an Alchemist this results in a steady supply of herbs for use in potions and for others it results in a steady supply of cash from the sale of those herbs. The hardest part is having enough space in your bags for all those herbs!",
+   "replies": [
+    "This quest is available now, you are able to accept it after you've accepting the Morrowgrain Research from Staghelm. I have The Mystery of Morrowgrain in my quest log right now.",
+    "It is true that you must have accepted Morrowgrain Research first. However it is also worth noting that you can only pick up Morrowgrain Research after completing the entire [url=https://www.wowhead.com/forever/quest=3763/assisting-arch-druid-staghelm#comments]Un'Goro Soil quest chain.[/url]",
+    "Thank you for an excellent post, however one correction: The initial [url=https://www.wowhead.com/forever/quest=3791/the-mystery-of-morrowgrain]quest[/url] from Quintis Jonespyre in Feathermoon Stronghold is for 10 Morrowgrain and provides gear rewards (as well as 4700 XP up to level 56 and 100 Darnassus rep). It does not give you another packet of seeds. Thereafter, the [url=https://www.wowhead.com/forever/quest=3792/morrowgrain-to-feathermoon-stronghold]quest[/url] becomes repeatable for 5 Morrowgrain and rewards 10 packets of seeds."
+   ]
+  },
+  {
+   "rating": 25,
+   "date": "2006-12-13T06:53:30-06:00",
+   "body": "Ok, I did both Morrowgrain quests to compare them. \r\nNote: I am using a mod to show the reputation in numbers. This is not the same as Cosmos' digits. \r\n\r\nIf you are unfamiliar with the mod: \r\nNeutral to Friendly: 3k reputation points required. \r\nFriendly to Honored: 6k reputation points required. \r\nHonored to Revered: 12k reputation points required. \r\nRevered to Exalted: 21k reputation points required. \r\n\r\nDarnassus: \r\n\r\nAs 47 human mage, I got 4.7k experience points and 110 increase in reputation with Darnassus. So that is 100 for Gnomes, Dwarves and Night Elves. (Humans get a racial 10% additional reputation increase) Morrowgrain handed in: 10. \r\nReward: Bag with randomly selected: potions, scrolls (extra stamina III, strength III etc.) and food. \r\n\r\nFollow up: 470 quest experience. And 27/28 increase in reputation with Darnassus. So 25 for Gnomes, Dwarves and Night Elves. \r\nMorrowgrain handed in: 10. \r\nReward: That same bag again. \r\n\r\nFeathermoon Stronghold: \r\n\r\nDid it with the same character: 47 human mage. \r\nI received the same 4.7k quest experience for completing the quest. I also got that 110 increase in reputation. So like in Darnassus: This would mean 100 for Gnomes, Dwarves and Night Elves. \r\nMorrowgrain handed in: 10 \r\nRewards: The questreward item and 10 Packets of Tharlendris Seeds. \r\n\r\nFollow up: Completing this will give you 470 quest experience and 27/28 increase in reputation (Yes, that's 25 if you are a Dwarf, Gnome or Night Elf). \r\nMorrowgrain handed in: 5 \r\nRewards: 10 packets of Tharlendris Seeds. \r\n\r\nAs conclusion: Handing them in at Feathermoon Stronghold is better. Ohw. And if you want to get to exalted with Darnassus: go for the cloth option. You'll get it way faster than handing in Morrowgrain. \r\n\r\nEdit: as of patch 1.9, it does not make a difference where to hand them in. Also note that the level of handing in Morrowgrain has been increased to level 55 (already in from 1.8 I believe). So I am not sure whether you can still do this quest at level 47.",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2005-08-31T14:51:57-05:00",
+   "body": "Ok, I did both Morrowgrain quests to compare them.\nNote: I am using a mod to show the reputation in numbers. This is not the same as Cosmos' digits. \n\nIf you are unfamiliar with the mod:\nNeutral to Friendly: 3k reputation points required.\nFriendly to Honored: 6k reputation points required.\nHonored to Revered: 12k reputation points required.\nRevered to Exalted: 21k reputation points required.\n\n[b]Darnassus[/b]:\n\nAs 47 human mage, I got 4.7k experience points and 110 increase in reputation with Darnassus. So that is 100 for Gnomes, Dwarves and Night Elves. (Humans get a racial 10% additional reputation increase) Morrowgrain handed in: 10.\nReward: Bag with randomly selected: potions, scrolls (extra stamina III, strength III etc.) and food.\n\nFollow up: 470 quest experience. And 27/28 increase in reputation with Darnassus. So 25 for Gnomes, Dwarves and Night Elves.\nMorrowgrain handed in: 10.\nReward: That same bag again.\n\n[b]Feathermoon Stronghold[/b]:\n\nDid it with the same character: 47 human mage.\nI received the same 4.7k quest experience for completing the quest. I also got that 110 increase in reputation. So like in Darnassus: This would mean 100 for Gnomes, Dwarves and Night Elves.\nMorrowgrain handed in: 10\nRewards: The questreward item and 10 Packets of Tharlendris Seeds.\n\nFollow up: Completing this will give you 470 quest experience and 27/28 increase in reputation (Yes, that's 25 if you are a Dwarf, Gnome or Night Elf).\nMorrowgrain handed in: 5\nRewards: 10 packets of Tharlendris Seeds.\n\nAs conclusion: Handing them in at Feathermoon Stronghold is better. Ohw. And if you want to get to exalted with Darnassus: go for the cloth option. You'll get it way faster than handing in Morrowgrain.\n\n[b]Edit: as of patch 1.9, it does not make a difference where to hand them in. Also note that the level of handing in Morrowgrain has been increased to level 55 (already in from 1.8 I believe). So I am not sure whether you can still do this quest at level 47. [/b]\n\nEdited, Sat Jan  7 09:00:34 2006",
+   "replies": [
+    "Im going to start working twords exalted soon and i was woundering what cloth option you ment.",
+    "The Cloth Quartermaster in Darnassus will tell you all about it. You can find him in the same house as the tailoring trainer. Just ask a guard."
+   ]
+  },
+  {
+   "rating": 11,
+   "date": "2020-03-27T17:39:24-05:00",
+   "body": "If anyone's ever that curious as to why Fandral needs all that Morrowgrain, it's because [spoiler]he went mad because his son died when C'Thun waged war on the world 1000 years ago, so he was easily persuaded by Xavius to plant a corrupted branch on the young World Tree Teldrassil. This, together with a miscalculation/lack of knowledge from thousands of years ago when planting the other World Trees (especially the one in Northrend), allowed Yogg'Saron's corrupted influence to escape his prison and seep into the Emerald Dream, thus forming the Emerald Nightmare. Fandral, still under Xavius' influence, then ambushed Malfurion and put him in a coma and started using Morrowgrain on him regularly to keep him asleep (in the Emerald Nightmare) and slowly kill him by turning him into a tree.[/spoiler]",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-04-01T19:33:24-06:00",
+   "body": "OK I have cosmos do a number count in my reputation page, it comes in the form of a decimal so I'll check out which gives more rep.",
+   "replies": [
+    "The reputation increase doing the first part of this quest is the same as with the Arch Druid in Darnassus 0.08.   However,  the follow on quest here for 5 Morrowgrain only earns 0.02 increase unlike the Darnassus which is 0.08 for 10 Morrowgrain.  Basically the follow on quest in Darnassus provides a better reputation increase than the guy in Feralas.  These figures were obtained using Cosmos reputation tracker.  ",
+    "Then you have to take in to consideration, getting 10 new seeds for every five morrowgrain you hand in, as to buying 10 for 90s in Darnassus.\nAlmost a gold for 10 seeds will pretty soon make you go flat broke. ;)\n\nPersonally, I will alternate between the two."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-01-21T16:37:08-06:00",
+   "body": "Reward: 4700 exp Your reputation with Darnassus Has increased.\nPlus a choice of:\nQuintis Research Gloves, or Bark Iron Pauldrons",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-10T10:05:10-05:00",
+   "body": "If you talk to Arch Druid Fandral Staghelm in Damassus he says you*ll gain more Morrowgrain if you are a Herbalist.....did anyone try if there is indeed any difference if you use the bag as herbalist or as none herbalist ?\n\nFor the faction part, I used an add on with numbers...it showed me for the follow quest the same faction amount gained as it showed for the follow quest in damassus. 25 points at level 52.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-09T06:46:00-06:00",
+   "body": "There is another quest from him after this one for 5 more Morrowgrain...  going to check it out and I'll get back here with the results of that quest step.",
+   "replies": [
+    "the 2nd quest is a repeatble quest tha gave me 460xp ( lvl 51 at the time ) and 5 more seeds to make more morrowgrain and a slight increase to darnassus rep\n\nEdited, Wed Jan 12 07:36:25 2005"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-07T18:22:15-05:00",
+   "body": "Can someone tell me where to get these grains?  Are they only collected by herbalists?",
+   "replies": [
+    "You get the grains using a quest item from [url=/quest=3785]this quest[/url] in Darnassus. Takes 2 Un'Goro Soil Samples and a seed, generates a random herb item which may include 1-4 Morrowgrains. The quest combiner has a 10-minute cooldown per combine, and the success rate is very streaky - 2 for first 4, 0 for next 14, then 5 for next 8 for me over three nights."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-20T10:51:05-06:00",
+   "body": "both quest givers will not give me the quest and i am a lvl48 pally, how do i get it?",
+   "replies": [
+    "Likewise; neither Tannysa nor Innkeeper Shyria will give me the Jonespyre's Request quest...nor does Quintis give me the Mystery of Morrowgrain quest...I'm exalted with Darnassus, level 48, not sure what I could be missing..."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-24T14:50:12-06:00",
+   "body": "What are the faction differences between this one and the  Arch Druid in Darnassus ?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-28T21:14:58-05:00",
+   "body": "I noticed (at least the last 10 times I did this) that when you are actually in Un'Goro crater you have more often morrowgrain out of the casing than when you're not there.\r\n\r\nThe last 10 times counted, I had 9 morrowgrain loot while in Un'goro, and only 4 when I was elsewhere.\r\n\r\nMaybe someone can confirm this.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-05T10:02:21-05:00",
+   "body": "I found the npc in Stormwind that gives the prequest for this, but she doesn't have any ! (only herb training)  I'm lvl 48.... why is that?? maybe they changed it ??\n\nah sorry, didn't read all of the post above untill now, so I guess I get it @ 55 or something then",
+   "replies": []
+  }
+ ]
+}

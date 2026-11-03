@@ -1,0 +1,241 @@
+{
+ "id": 21,
+ "name": "Skirmish at Echo Ridge",
+ "level": 5,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 450,
+ "start": {
+  "type": "npc",
+  "id": 197,
+  "name": "Marshal McBride",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    48.8,
+    41.4
+   ],
+   [
+    48.8,
+    41.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 197,
+  "name": "Marshal McBride",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    48.8,
+    41.4
+   ],
+   [
+    48.8,
+    41.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Kill 12 Kobold Laborers , then return to Marshal McBride at Northshire Abbey.   Kobold Laborer slain  ( 12 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 80,
+   "name": "Kobold Laborers",
+   "count": 12,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Kobold Laborer slain",
+   "count": 12,
+   "type": "npc",
+   "id": 80
+  }
+ ],
+ "series": [
+  15,
+  21
+ ],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 197,
+   "name": "Marshal McBride",
+   "coord": [
+    48.8,
+    41.6
+   ],
+   "coords": [
+    [
+     48.8,
+     41.4
+    ],
+    [
+     48.8,
+     41.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 197,
+   "name": "Marshal McBride",
+   "coord": [
+    48.8,
+    41.6
+   ],
+   "coords": [
+    [
+     48.8,
+     41.4
+    ],
+    [
+     48.8,
+     41.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "requirement",
+   "type": 1,
+   "id": 80,
+   "name": "Kobold Laborer",
+   "coord": [
+    48.4,
+    29.2
+   ],
+   "coords": [
+    [
+     47.4,
+     30.2
+    ],
+    [
+     47.6,
+     31.8
+    ],
+    [
+     47.8,
+     31.2
+    ],
+    [
+     48.2,
+     30.2
+    ],
+    [
+     48.4,
+     26.6
+    ],
+    [
+     48.4,
+     28
+    ],
+    [
+     48.4,
+     29.2
+    ],
+    [
+     48.6,
+     27.4
+    ],
+    [
+     48.6,
+     27.8
+    ],
+    [
+     49,
+     29
+    ],
+    [
+     49.4,
+     25.8
+    ],
+    [
+     49.8,
+     25.4
+    ],
+    [
+     50.2,
+     26.2
+    ],
+    [
+     50.2,
+     26.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 6,
+   "date": "2021-05-14T11:21:23-05:00",
+   "body": "\"The longer the kobolds are left unmolested in the mine\"\r\n\r\nHe wants us to do what now?\r\n\r\n[quote]You no take innocence![/quote]",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-12T08:51:23-06:00",
+   "body": "its a software called cosmos, after you download it google the name of the quest and then find the cords and go to the map the numbers in green are where you are and the white numbers are where you want to go not all quests have cords good luck :)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-03-16T09:52:02-06:00",
+   "body": "+100 Stormwind rep",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-31T08:51:23-06:00",
+   "body": "How can I use the numbers yall list for locations in game. Is there some third part software I can use or please explain how yall do it with just the maps in-game",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-05T00:52:58-06:00",
+   "body": "47,30\n\nCave on top of Northshire Abbey",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-01T03:06:20-05:00",
+   "body": "lol Epic Lewts",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-29T06:54:34-05:00",
+   "body": "Hi all \r\n\r\nOn this quest you need to kill 12 [npc=80]. You can find them in Echo Ridge Mine north from Northshire Abbey. Quest is take it from [npc=197] and return to him, He is located inside Northshire Abbey.\r\n\r\nSee My Video if need it - https://youtu.be/vAf073B3Flg\r\n\r\nHope that help You :)",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-27T17:03:45-06:00",
+   "body": "This quest rewards 250 Stormwind reputation as of patch 2.01",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-28T14:43:32-06:00",
+   "body": "Continue Quest Text (from Marshal McBride):\r\n\r\n\"I know it's bloody work, <name>, but it's vital to the safety of Northshire. Are you ready to report?\"\r\n\r\nComplete Quest Text (from Marshal McBride):\r\n\r\n\"Once again, you have earned my respect, and the gratitude of the Stormwind Army. There may yet be kobolds in the mine, but I will marshal others against them. We have further tasks for you.\"",
+   "replies": []
+  }
+ ]
+}

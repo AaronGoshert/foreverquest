@@ -1,0 +1,507 @@
+{
+ "id": 97284,
+ "name": "Vahlarriel's Vengeance",
+ "level": 33,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2650,
+ "start": {
+  "type": "npc",
+  "id": 5642,
+  "name": "Vahlarriel Demonslayer",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    66.4,
+    11.4
+   ],
+   [
+    66.4,
+    11.8
+   ],
+   [
+    66.6,
+    11.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5642,
+  "name": "Vahlarriel Demonslayer",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    66.4,
+    11.4
+   ],
+   [
+    66.4,
+    11.8
+   ],
+   [
+    66.6,
+    11.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Slay Burning Blade orcs at Thunder Axe Fortress in the Desolace , then return to Vahlarriel Demonslayer at Nijel's Point.   Burning Blade Augur slain  ( 4 )   Burning Blade Reaver slain  ( 4 )   Burning Blade Adept slain  ( 4 )   Burning Blade Felsworn slain  ( 4 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 5642,
+   "name": "Vahlarriel Demonslayer",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 4663,
+   "name": "Burning Blade Augur",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 4664,
+   "name": "Burning Blade Reaver",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 4665,
+   "name": "Burning Blade Adept",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 4666,
+   "name": "Burning Blade Felsworn",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Burning Blade Augur slain",
+   "count": 4,
+   "type": "npc",
+   "id": 4663
+  },
+  {
+   "text": "Burning Blade Reaver slain",
+   "count": 4,
+   "type": "npc",
+   "id": 4664
+  },
+  {
+   "text": "Burning Blade Adept slain",
+   "count": 4,
+   "type": "npc",
+   "id": 4665
+  },
+  {
+   "text": "Burning Blade Felsworn slain",
+   "count": 4,
+   "type": "npc",
+   "id": 4666
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 5642,
+   "name": "Vahlarriel Demonslayer",
+   "coord": [
+    66.4,
+    11.8
+   ],
+   "coords": [
+    [
+     66.4,
+     11.4
+    ],
+    [
+     66.4,
+     11.8
+    ],
+    [
+     66.6,
+     11.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 5642,
+   "name": "Vahlarriel Demonslayer",
+   "coord": [
+    66.4,
+    11.8
+   ],
+   "coords": [
+    [
+     66.4,
+     11.4
+    ],
+    [
+     66.4,
+     11.8
+    ],
+    [
+     66.6,
+     11.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "requirement",
+   "type": 1,
+   "id": 4663,
+   "name": "Burning Blade Augur",
+   "coord": [
+    55.2,
+    30
+   ],
+   "coords": [
+    [
+     53,
+     32.4
+    ],
+    [
+     53.4,
+     29.2
+    ],
+    [
+     54.2,
+     28
+    ],
+    [
+     54.4,
+     27.2
+    ],
+    [
+     54.4,
+     33.2
+    ],
+    [
+     55.2,
+     27.4
+    ],
+    [
+     55.2,
+     28.6
+    ],
+    [
+     55.2,
+     30
+    ],
+    [
+     55.4,
+     26.2
+    ],
+    [
+     55.4,
+     27.6
+    ],
+    [
+     55.6,
+     26.2
+    ],
+    [
+     56,
+     27.4
+    ],
+    [
+     56,
+     27.6
+    ],
+    [
+     56,
+     31.2
+    ],
+    [
+     56.2,
+     22
+    ],
+    [
+     56.6,
+     30
+    ],
+    [
+     57,
+     22.8
+    ],
+    [
+     57.2,
+     22.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "requirement",
+   "type": 1,
+   "id": 4664,
+   "name": "Burning Blade Reaver",
+   "coord": [
+    56,
+    29.6
+   ],
+   "coords": [
+    [
+     52.4,
+     32.2
+    ],
+    [
+     53.4,
+     29.2
+    ],
+    [
+     54.2,
+     30.4
+    ],
+    [
+     54.4,
+     27.2
+    ],
+    [
+     54.6,
+     29.8
+    ],
+    [
+     55.2,
+     27.4
+    ],
+    [
+     55.2,
+     28.8
+    ],
+    [
+     55.4,
+     26.2
+    ],
+    [
+     55.4,
+     27.6
+    ],
+    [
+     55.6,
+     26.2
+    ],
+    [
+     55.6,
+     26.8
+    ],
+    [
+     55.8,
+     28.4
+    ],
+    [
+     56,
+     29.4
+    ],
+    [
+     56,
+     29.6
+    ],
+    [
+     56,
+     30.6
+    ],
+    [
+     56.4,
+     21.2
+    ],
+    [
+     56.6,
+     21.6
+    ],
+    [
+     56.6,
+     29.8
+    ],
+    [
+     57.4,
+     26.2
+    ],
+    [
+     57.6,
+     26.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "requirement",
+   "type": 1,
+   "id": 4665,
+   "name": "Burning Blade Adept",
+   "coord": [
+    55,
+    26.2
+   ],
+   "coords": [
+    [
+     52.4,
+     28.8
+    ],
+    [
+     52.6,
+     29.4
+    ],
+    [
+     52.8,
+     28.2
+    ],
+    [
+     53.4,
+     26.4
+    ],
+    [
+     54.4,
+     27.2
+    ],
+    [
+     54.4,
+     29.8
+    ],
+    [
+     54.4,
+     33.2
+    ],
+    [
+     54.6,
+     29.8
+    ],
+    [
+     55,
+     26.2
+    ],
+    [
+     55,
+     28.6
+    ],
+    [
+     55.2,
+     26.8
+    ],
+    [
+     55.4,
+     27.6
+    ],
+    [
+     55.6,
+     26.2
+    ],
+    [
+     55.8,
+     31.4
+    ],
+    [
+     56.6,
+     30
+    ],
+    [
+     56.8,
+     25.6
+    ],
+    [
+     57.2,
+     27.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "requirement",
+   "type": 1,
+   "id": 4666,
+   "name": "Burning Blade Felsworn",
+   "coord": [
+    55.2,
+    30.2
+   ],
+   "coords": [
+    [
+     52.4,
+     28.6
+    ],
+    [
+     53,
+     28.4
+    ],
+    [
+     53,
+     29.4
+    ],
+    [
+     54,
+     29.4
+    ],
+    [
+     54.4,
+     27.4
+    ],
+    [
+     55.2,
+     25.6
+    ],
+    [
+     55.2,
+     30.2
+    ],
+    [
+     55.4,
+     27.2
+    ],
+    [
+     55.4,
+     27.8
+    ],
+    [
+     55.4,
+     28.8
+    ],
+    [
+     55.6,
+     26.4
+    ],
+    [
+     55.6,
+     26.8
+    ],
+    [
+     55.6,
+     28
+    ],
+    [
+     55.6,
+     28.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

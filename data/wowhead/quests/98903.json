@@ -1,0 +1,104 @@
+{
+ "id": 98903,
+ "name": "The Battle for Darkspear Islands!",
+ "level": 39,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 16606,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3000,
+ "start": {
+  "type": "npc",
+  "id": 275273,
+  "name": "Brelinda McFarry",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    63.4,
+    58.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 275273,
+  "name": "Brelinda McFarry",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    63.4,
+    58.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Win a Darkspear Islands battleground and return back to Brelinda McFarry at Northwatch Hold.   Win in Darkspear Islands  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 275273,
+   "name": "Brelinda McFarry",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 275188,
+   "name": "Win in Darkspear Islands",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Win in Darkspear Islands",
+   "count": 1,
+   "type": "npc",
+   "id": 275188
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 275273,
+   "name": "Brelinda McFarry",
+   "coord": [
+    63.4,
+    58.8
+   ],
+   "coords": [
+    [
+     63.4,
+     58.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 275273,
+   "name": "Brelinda McFarry",
+   "coord": [
+    63.4,
+    58.8
+   ],
+   "coords": [
+    [
+     63.4,
+     58.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

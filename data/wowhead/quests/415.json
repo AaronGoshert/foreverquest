@@ -1,0 +1,169 @@
+{
+ "id": 415,
+ "name": "Rejold's New Brew",
+ "level": 10,
+ "reqlevel": 8,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 85,
+ "start": {
+  "type": "npc",
+  "id": 1378,
+  "name": "Pilot Bellowfiz",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    49.4,
+    48.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1374,
+  "name": "Rejold Barleybrew",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    30.2,
+    45.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Speak with Rejold Barleybrew .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1374,
+   "name": "Rejold Barleybrew",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  415,
+  413,
+  414
+ ],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1378,
+   "name": "Pilot Bellowfiz",
+   "coord": [
+    49.4,
+    48.4
+   ],
+   "coords": [
+    [
+     49.4,
+     48.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1872,
+   "name": "Tharek Blackstone",
+   "coord": [
+    46,
+    51.6
+   ],
+   "coords": [
+    [
+     46,
+     51.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1374,
+   "name": "Rejold Barleybrew",
+   "coord": [
+    30.2,
+    45.8
+   ],
+   "coords": [
+    [
+     30.2,
+     45.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 102,
+   "date": "2005-10-01T03:51:47-05:00",
+   "body": "This quest is in the retail release, I just completed it. The trick is that it's only available after you finish [b]The Perfect Stout[/b]. The problem is that the quest giver for [b]Rejold's New Brew[/b] is Tharek Blackstone, who's in Kharanos. The other problem is that right after you complete [b]The Perfect Stout[/b] in Brewnall Village, you are asked to do [b]Shimmer Stout[/b].\n\n[b]Rejold's New Brew[/b] directly leads to [b]Shimmer Stout[/b], so if you accept [b]Shimmer Stout[/b] upon completing [b]The Perfect Stout[/b] (as presumably most people do) you won't be offered [b]Rejold's New Brew[/b].\n\nSo, if you really want to do [b]Rejold's New Brew[/b], you must do the following:\n\n1. Complete [b]The Perfect Stout[/b] in Brewnall Village.\n\n2. Decline the offer to start [b]Shimmering Stout[/b] (in Brewnall Village).\n\n3. Head to Kharanos and talk to Tharek Blackstone. He's right outside of the blacksmithing building.\n\nTharek will offer you [b]Rejold's New Brew[/b], then you can head back to Brewnall Village whereupon [b]Rejold's New Brew[/b] will lead automatically to [b]Shimmering Stout[/b].",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2020-05-21T10:34:20-05:00",
+   "body": "I still had [b]Shimmer Stout[/b] when I saw this thread. I abandoned the quest and was able to get the quest [b]Rejold's New Brew[/b]. After completion I was then able to get the quest [b]Shimmer Stout[/b].",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-05-21T01:27:52-05:00",
+   "body": "It's a tricky sequence, but to get this quest you hvae to turn down [b]Shimmer Stout[/b] which is offered upon completing [b]The Perfect Stout[/b]. Then you have to go to Kharanos and talk to Tharek (who's right outside the blacksmithing building) and obtain this quest.\n\nIf you accept [b]Shimmer Stout[/b] before taking this, you'll never be offered this quest because it's a prerequisite for [b]Shimmer Stout[/b].\n\nSo the proper quest order is:\n\n1. [b]The Perfect Stout[/b] (Brewnall Village)\n2. [b]Rejold's New Brew[/b] (Kharanos)\n3. [b]Shimmering Stout[/b] (Brewnall Village)",
+   "replies": [
+    "Really? well actually, I did all of them, and not in that order\npossibly because this post is 2 years later than your post, so I think they changed that not to eliminate any quests.\n\nI did The Perfect Stout, then Shimmering Stout because Perfect is (I thought) the preq of Shimmering, and then I went to Khanaros and saw Tharek with this quest. also, at Steelgrill's Depot there's a guy called Pilot Bellowfiz and the gives the quest too, only then you can't get it from Tharek anymore...\n\nhope this helpes :P\n\n/farewell"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-29T16:33:09-05:00",
+   "body": "He is on 30,45.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-01T03:51:47-05:00",
+   "body": "its there but u have to speak to him before u take the quest shimmer stout. and pilot bellowfiz gives it too.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-17T12:16:37-05:00",
+   "body": "where can i read the quest id?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-01T03:51:47-05:00",
+   "body": "why do they do #$%^ like that, man, cant get any reputation like this -_-",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2019-09-23T01:53:53-05:00",
+   "body": "Just found out that this quest can also be obtained from [url=https://www.wowhead.com/forever/npc=1378/pilot-bellowfiz]Pilot Bellowfiz[/url] at Steelgrill's Depot. Not sure if this was an addition with Classic release or something missed from pre-cataclysm revamp.",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2005-10-01T03:51:47-05:00",
+   "body": "This quests isnt there anymore in retail",
+   "replies": []
+  }
+ ]
+}

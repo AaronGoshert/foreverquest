@@ -1,0 +1,61 @@
+[
+ {
+  "category": 12,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 91736,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    247824,
+    1
+   ]
+  ],
+  "level": 0,
+  "money": 0,
+  "name": "Applejack Still",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 0,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 421
+ },
+ {
+  "category": 0,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 7790,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 0,
+  "money": 0,
+  "name": "REUSE",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 0,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 28
+ }
+]

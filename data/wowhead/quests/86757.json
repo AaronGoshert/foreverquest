@@ -1,0 +1,441 @@
+{
+ "id": 86757,
+ "name": "Slowing the Orc Advance",
+ "level": 32,
+ "reqlevel": 27,
+ "side": 1,
+ "zoneId": 331,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2550,
+ "start": {
+  "type": "npc",
+  "id": 3955,
+  "name": "Shandrina",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    49.4,
+    67
+   ],
+   [
+    49.6,
+    67
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3955,
+  "name": "Shandrina",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    49.4,
+    67
+   ],
+   [
+    49.6,
+    67
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Bring 6 Jagged Orc Swords and 4 Curved Orc Daggers to Shandrina . Jagged Orcish Sword  ( 6 ) Curved Orcish Dagger  ( 4 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3955,
+   "name": "Shandrina",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 279507,
+   "name": "Curved Orcish Dagger",
+   "count": 4,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Jagged Orcish Sword",
+   "count": 6,
+   "type": "item",
+   "id": 279505
+  },
+  {
+   "text": "Curved Orcish Dagger",
+   "count": 4,
+   "type": "item",
+   "id": 279507
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "start",
+   "type": 1,
+   "id": 3955,
+   "name": "Shandrina",
+   "coord": [
+    49.4,
+    67
+   ],
+   "coords": [
+    [
+     49.4,
+     67
+    ],
+    [
+     49.6,
+     67
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 3955,
+   "name": "Shandrina",
+   "coord": [
+    49.4,
+    67
+   ],
+   "coords": [
+    [
+     49.4,
+     67
+    ],
+    [
+     49.6,
+     67
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 11680,
+   "name": "Horde Scout",
+   "coord": [
+    71.4,
+    79.6
+   ],
+   "coords": [
+    [
+     69.4,
+     82.4
+    ],
+    [
+     69.4,
+     82.6
+    ],
+    [
+     69.4,
+     83.8
+    ],
+    [
+     69.4,
+     84.8
+    ],
+    [
+     69.6,
+     82.4
+    ],
+    [
+     69.6,
+     82.6
+    ],
+    [
+     69.6,
+     83.6
+    ],
+    [
+     69.6,
+     84.6
+    ],
+    [
+     70.6,
+     83.6
+    ],
+    [
+     70.8,
+     82.2
+    ],
+    [
+     70.8,
+     83.4
+    ],
+    [
+     71.4,
+     79.4
+    ],
+    [
+     71.4,
+     79.6
+    ],
+    [
+     71.6,
+     79.4
+    ],
+    [
+     71.6,
+     79.6
+    ],
+    [
+     71.6,
+     82.6
+    ],
+    [
+     72.4,
+     82
+    ],
+    [
+     73.4,
+     79.4
+    ],
+    [
+     73.4,
+     79.8
+    ],
+    [
+     73.4,
+     81.2
+    ],
+    [
+     73.6,
+     79.4
+    ],
+    [
+     73.6,
+     79.6
+    ],
+    [
+     83,
+     62
+    ],
+    [
+     84.2,
+     58.8
+    ],
+    [
+     84.6,
+     59.4
+    ],
+    [
+     84.8,
+     59.6
+    ],
+    [
+     85,
+     60.6
+    ],
+    [
+     85.2,
+     62
+    ],
+    [
+     85.8,
+     56
+    ],
+    [
+     86,
+     57.8
+    ],
+    [
+     86.2,
+     56.8
+    ],
+    [
+     86.2,
+     60.6
+    ],
+    [
+     86.4,
+     53.4
+    ],
+    [
+     86.4,
+     53.6
+    ],
+    [
+     86.4,
+     55
+    ],
+    [
+     86.4,
+     60.4
+    ],
+    [
+     86.4,
+     62
+    ],
+    [
+     86.6,
+     62
+    ],
+    [
+     86.8,
+     59.4
+    ],
+    [
+     86.8,
+     59.6
+    ],
+    [
+     87,
+     52.4
+    ],
+    [
+     87,
+     52.6
+    ],
+    [
+     87,
+     57.4
+    ],
+    [
+     87.2,
+     64.6
+    ],
+    [
+     87.4,
+     58.4
+    ],
+    [
+     87.6,
+     53.2
+    ],
+    [
+     87.6,
+     58.6
+    ],
+    [
+     87.6,
+     62.4
+    ],
+    [
+     88,
+     57.6
+    ],
+    [
+     88,
+     61.4
+    ],
+    [
+     89.2,
+     50
+    ],
+    [
+     89.2,
+     54.4
+    ],
+    [
+     89.2,
+     54.6
+    ],
+    [
+     89.4,
+     49.2
+    ],
+    [
+     89.4,
+     51
+    ],
+    [
+     89.4,
+     52.4
+    ],
+    [
+     89.4,
+     52.6
+    ],
+    [
+     89.6,
+     49.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 11682,
+   "name": "Horde Grunt",
+   "coord": [
+    85.2,
+    64.8
+   ],
+   "coords": [
+    [
+     71.4,
+     81.2
+    ],
+    [
+     71.6,
+     81
+    ],
+    [
+     72.6,
+     80
+    ],
+    [
+     84.8,
+     65.6
+    ],
+    [
+     85.2,
+     64.8
+    ],
+    [
+     85.4,
+     64.4
+    ],
+    [
+     85.8,
+     63.6
+    ],
+    [
+     88.2,
+     56
+    ],
+    [
+     88.4,
+     57.8
+    ],
+    [
+     88.6,
+     55.8
+    ],
+    [
+     88.8,
+     57
+    ],
+    [
+     90.8,
+     57.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-06T17:15:29-05:00",
+   "body": "The quest's suggested level is [b]32[/b], but the mobs you kill are all [b]27-30[/b]. Most classes can easily finish this quest when it's still orange in your quest log, so don't be thwarted by the apparently high level requirement of this quest!\n\nI had a [b]100% drop rate[/b] with this quest, but if you use the small area direct east of Fallen Sky Lake around [b]73, 80[/b], be advised the [b]shamans share spawns with grunts[/b]. In my first clear of the camp, I only saw 3 grunts for the [item=279505], but clearing a bunch of shamans in the area respawned more of them.",
+   "replies": []
+  }
+ ]
+}

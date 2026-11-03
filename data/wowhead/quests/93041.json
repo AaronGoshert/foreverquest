@@ -1,0 +1,136 @@
+{
+ "id": 93041,
+ "name": "Facing the Truth",
+ "level": 38,
+ "reqlevel": 35,
+ "side": 3,
+ "zoneId": 16651,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 710,
+ "start": {
+  "type": "npc",
+  "id": 253177,
+  "name": "Nerlokh",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    58.4,
+    88.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5397,
+  "name": "Uthek the Wise",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    36.2,
+    79.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.70235",
+ "objectiveText": "Maintain your reputation with the Gelkis Clan, and bring an Accursed Skull and Gelkis Necromantic Garb to Uthek the Wise in Gelkis Village. Accursed Skull  ( 1 ) Gelkis Necromantic Garb (Provided)  ( 1 )   Gelkis Clan Centaur  ( Honored )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 255945,
+   "name": "Accursed Skull",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 255941,
+   "name": "Gelkis Necromantic Garb",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Accursed Skull",
+   "count": 1,
+   "type": "item",
+   "id": 255945
+  }
+ ],
+ "series": [
+  1382,
+  1384,
+  1370,
+  1373,
+  93034,
+  93035,
+  93041,
+  93044,
+  93045
+ ],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 253177,
+   "name": "Nerlokh",
+   "coord": [
+    58.4,
+    88.6
+   ],
+   "coords": [
+    [
+     58.4,
+     88.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 5397,
+   "name": "Uthek the Wise",
+   "coord": [
+    36.2,
+    79.2
+   ],
+   "coords": [
+    [
+     36.2,
+     79.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "start",
+   "type": 1,
+   "id": 253177,
+   "name": "Nerlokh",
+   "coord": [
+    20.8,
+    22.6
+   ],
+   "coords": [
+    [
+     20.8,
+     22.6
+    ],
+    [
+     21,
+     22
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

@@ -1,0 +1,233 @@
+{
+ "id": 92461,
+ "name": "Harmony in Balance",
+ "level": 1,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 80,
+ "start": {
+  "type": "npc",
+  "id": 251361,
+  "name": "Rorian the Dayseeker",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    42,
+    23.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251361,
+  "name": "Rorian the Dayseeker",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    42,
+    23.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Slay 8 Vuldren Juveniles in Thendal Grove.   Juvenile Vuldren slain  ( 8 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 250873,
+   "name": "Juvenile Vuldren",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Juvenile Vuldren slain",
+   "count": 8,
+   "type": "npc",
+   "id": 250873
+  }
+ ],
+ "series": [
+  92460,
+  92461
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 251361,
+   "name": "Rorian the Dayseeker",
+   "coord": [
+    42,
+    23.4
+   ],
+   "coords": [
+    [
+     42,
+     23.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251361,
+   "name": "Rorian the Dayseeker",
+   "coord": [
+    42,
+    23.4
+   ],
+   "coords": [
+    [
+     42,
+     23.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 250873,
+   "name": "Juvenile Vuldren",
+   "coord": [
+    43.2,
+    26
+   ],
+   "coords": [
+    [
+     43.2,
+     25.4
+    ],
+    [
+     43.2,
+     26
+    ],
+    [
+     43.2,
+     28.2
+    ],
+    [
+     43.4,
+     22.2
+    ],
+    [
+     43.4,
+     27.4
+    ],
+    [
+     43.6,
+     21.8
+    ],
+    [
+     43.6,
+     26
+    ],
+    [
+     43.8,
+     25.4
+    ],
+    [
+     43.8,
+     28.6
+    ],
+    [
+     43.9,
+     28.3
+    ],
+    [
+     44.4,
+     27.2
+    ],
+    [
+     44.5,
+     27
+    ],
+    [
+     44.6,
+     22
+    ],
+    [
+     44.6,
+     25.6
+    ],
+    [
+     44.8,
+     27.6
+    ],
+    [
+     45,
+     25.4
+    ],
+    [
+     45.2,
+     24
+    ],
+    [
+     45.3,
+     28.7
+    ],
+    [
+     45.4,
+     22.6
+    ],
+    [
+     45.6,
+     24.6
+    ],
+    [
+     45.8,
+     26.4
+    ],
+    [
+     45.8,
+     28
+    ],
+    [
+     45.8,
+     28.8
+    ],
+    [
+     46,
+     22.7
+    ],
+    [
+     46.1,
+     27.2
+    ],
+    [
+     46.3,
+     22.3
+    ],
+    [
+     46.6,
+     22.3
+    ],
+    [
+     46.8,
+     26
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-21T00:04:42-05:00",
+   "body": "On launch day, look a bit Northeast of the questgivers to near where the map says Thendal Village. There's some Juvenile Vuldren up there, that won't be as heavily populated.",
+   "replies": []
+  }
+ ]
+}

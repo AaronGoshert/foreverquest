@@ -1,0 +1,120 @@
+{
+ "id": 98397,
+ "name": "To Darnassus",
+ "level": 20,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": -263,
+ "reqclass": 1024,
+ "status": "new",
+ "xp": 155,
+ "start": {
+  "type": "npc",
+  "id": 11802,
+  "name": "Dendrite Starblaze",
+  "zone": "Moonglade",
+  "zoneId": 493,
+  "coords": [
+   [
+    56.2,
+    30.4
+   ],
+   [
+    56.2,
+    30.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4217,
+  "name": "Mathrengyl Bearwalker",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    34.8,
+    7.4
+   ],
+   [
+    35.2,
+    8
+   ],
+   [
+    35.2,
+    8.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Return to Darnassus and speak with Mathrengyl Bearwalker in the Cenarion Enclave.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 4217,
+   "name": "Mathrengyl Bearwalker",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  98393,
+  98394,
+  98396,
+  98731,
+  98397
+ ],
+ "points": [
+  {
+   "zoneId": 493,
+   "zone": "Moonglade",
+   "point": "start",
+   "type": 1,
+   "id": 11802,
+   "name": "Dendrite Starblaze",
+   "coord": [
+    56.2,
+    30.4
+   ],
+   "coords": [
+    [
+     56.2,
+     30.4
+    ],
+    [
+     56.2,
+     30.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 4217,
+   "name": "Mathrengyl Bearwalker",
+   "coord": [
+    35.2,
+    8
+   ],
+   "coords": [
+    [
+     34.8,
+     7.4
+    ],
+    [
+     35.2,
+     8
+    ],
+    [
+     35.2,
+     8.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

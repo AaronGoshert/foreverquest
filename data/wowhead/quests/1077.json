@@ -1,0 +1,217 @@
+{
+ "id": 1077,
+ "name": "Special Delivery for Gaxim",
+ "level": 21,
+ "reqlevel": 17,
+ "side": 1,
+ "zoneId": 406,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 830,
+ "start": {
+  "type": "npc",
+  "id": 4078,
+  "name": "Collin Mauren",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    42.4,
+    80
+   ],
+   [
+    43,
+    79.4
+   ],
+   [
+    43,
+    80.2
+   ],
+   [
+    52.8,
+    86.4
+   ],
+   [
+    53,
+    86.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4077,
+  "name": "Gaxim Rustfizzle",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59.4,
+    67.2
+   ],
+   [
+    59.6,
+    67
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring the Scroll of Messaging to Gaxim Rustfizzle in Stonetalon. Scroll of Messaging (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5731,
+   "name": "Scroll of Messaging",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 4078,
+   "name": "Collin Mauren",
+   "coord": [
+    43,
+    80.2
+   ],
+   "coords": [
+    [
+     42.4,
+     80
+    ],
+    [
+     43,
+     79.4
+    ],
+    [
+     43,
+     80.2
+    ],
+    [
+     52.8,
+     86.4
+    ],
+    [
+     53,
+     86.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 4077,
+   "name": "Gaxim Rustfizzle",
+   "coord": [
+    59.4,
+    67.2
+   ],
+   "coords": [
+    [
+     59.4,
+     67.2
+    ],
+    [
+     59.6,
+     67
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 15,
+   "date": "2007-04-17T10:47:39-05:00",
+   "body": "To get this quest, you need to complete \"Devils in Westfall\" (https://www.wowhead.com/forever/quest=1076).",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-10-27T18:01:14-05:00",
+   "body": "His coordinates are 59,67",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-09-21T06:01:14-05:00",
+   "body": "It looks like this quest can chain to another quest, https://www.wowhead.com/forever/quest=1079/covert-ops-alpha. But I think you have to also complete https://www.wowhead.com/forever/quest=1074/ineptitude-chemicals-fun.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-01-08T18:01:14-06:00",
+   "body": "is in the Mage Quarter \n\nCoords are 43,80",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-02-14T06:01:14-06:00",
+   "body": "This quest is part of a chain of chain quests.\n\nThe first quest in the chain is On Guard in Ashenvale, which begins in Astraanar, though it may be possible to start the chain from Gaxim himself.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-27T18:01:14-05:00",
+   "body": "I'm probably not the first dwarf/gnome/human to miss this and all the Venture Co stuff because we have a full quest log and way too much to keep us busy in Westfall and Redridge. I hadn't even pushed through to Menethil Harbour let alone got through Ashenvale and into Stonetalon. This should stay an option from Mauren a lot longer than it does, by the time I got back to him he was offering the basilisk quest.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2004-12-10T18:16:06-06:00",
+   "body": "JUst a simple delivery to get back to Gaxim in Stonetalon. Was worth 825 exp.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-10T18:36:35-06:00",
+   "body": "where is collin located?",
+   "replies": [
+    "mage quarter in stormwind"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-05T06:32:52-06:00",
+   "body": "[npc=4077]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-29T20:22:48-06:00",
+   "body": "sweet...but where is he, thats all i care about.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-27T18:01:14-05:00",
+   "body": "thnx fer the co-0rdinates i needed 'em too",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-11-19T12:20:28-06:00",
+   "body": "This should actually be nested under\n'Devils in Westfall', shouldn't it?\n\nIt appear until after I completed 'Devils...'\n\nEdited, Sat Nov 19 07:27:30 2005",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-07-29T13:28:24-05:00",
+   "body": "Can someone give me coordinates on cosmos or something else, where can I find Gaxim?",
+   "replies": []
+  },
+  {
+   "rating": -7,
+   "date": "2005-10-27T18:01:14-05:00",
+   "body": "where is gaxim in stanelon",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,899 @@
+{
+ "id": 93165,
+ "name": "Mercy Falls on Deaf Ears",
+ "level": 13,
+ "reqlevel": 8,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 910,
+ "start": {
+  "type": "npc",
+  "id": 254151,
+  "name": "Vayn Moongaze",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    63.7,
+    38
+   ],
+   [
+    63.8,
+    36
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 254151,
+  "name": "Vayn Moongaze",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    63.7,
+    38
+   ],
+   [
+    63.8,
+    36
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect 5 Al'Aketh Cultist's Ears from the Al'Aketh cultists in Shadowgale Forest, the Shrine of Akir, or Gustberry Lowlands. Al'Aketh Cultist's Ear  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 258771,
+   "name": "Al'Aketh Cultist's Ears",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Al'Aketh Cultist's Ear",
+   "count": 5,
+   "type": "item",
+   "id": 258771
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 254151,
+   "name": "Vayn Moongaze",
+   "coord": [
+    63.8,
+    36
+   ],
+   "coords": [
+    [
+     63.7,
+     38
+    ],
+    [
+     63.8,
+     36
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 254151,
+   "name": "Vayn Moongaze",
+   "coord": [
+    63.8,
+    36
+   ],
+   "coords": [
+    [
+     63.7,
+     38
+    ],
+    [
+     63.8,
+     36
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 252664,
+   "name": "Al'Aketh Stormchaser",
+   "coord": [
+    62,
+    35.7
+   ],
+   "coords": [
+    [
+     62,
+     35.7
+    ],
+    [
+     62.4,
+     37.2
+    ],
+    [
+     62.6,
+     36.2
+    ],
+    [
+     62.8,
+     36.6
+    ],
+    [
+     63,
+     38.6
+    ],
+    [
+     63.1,
+     38.4
+    ],
+    [
+     63.6,
+     38.3
+    ],
+    [
+     63.8,
+     39
+    ],
+    [
+     63.9,
+     36.8
+    ],
+    [
+     64.5,
+     38.6
+    ],
+    [
+     64.9,
+     38.3
+    ],
+    [
+     65.1,
+     36.4
+    ],
+    [
+     65.4,
+     37
+    ],
+    [
+     65.5,
+     36.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 252665,
+   "name": "Al'Aketh Footsoldier",
+   "coord": [
+    63.1,
+    36.4
+   ],
+   "coords": [
+    [
+     62.3,
+     38.3
+    ],
+    [
+     62.3,
+     38.7
+    ],
+    [
+     62.6,
+     37.8
+    ],
+    [
+     62.9,
+     38.6
+    ],
+    [
+     63.1,
+     36.4
+    ],
+    [
+     63.4,
+     37.1
+    ],
+    [
+     63.6,
+     36.4
+    ],
+    [
+     63.9,
+     36.9
+    ],
+    [
+     64.6,
+     36.3
+    ],
+    [
+     64.6,
+     37
+    ],
+    [
+     65.5,
+     36.2
+    ],
+    [
+     65.6,
+     35.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 252762,
+   "name": "Al'Aketh Guardian",
+   "coord": [
+    62.9,
+    49.1
+   ],
+   "coords": [
+    [
+     59.7,
+     50.4
+    ],
+    [
+     60,
+     49.3
+    ],
+    [
+     60.2,
+     51.6
+    ],
+    [
+     60.4,
+     51.1
+    ],
+    [
+     60.7,
+     50.7
+    ],
+    [
+     61,
+     51.9
+    ],
+    [
+     61.4,
+     49.5
+    ],
+    [
+     61.6,
+     49.9
+    ],
+    [
+     61.8,
+     50.6
+    ],
+    [
+     61.9,
+     53.3
+    ],
+    [
+     62.1,
+     48.7
+    ],
+    [
+     62.1,
+     53.5
+    ],
+    [
+     62.3,
+     52.2
+    ],
+    [
+     62.9,
+     49.1
+    ],
+    [
+     62.9,
+     52.2
+    ],
+    [
+     63.2,
+     52.6
+    ],
+    [
+     63.9,
+     46.3
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 252763,
+   "name": "Al'Aketh Spiritcaller",
+   "coord": [
+    64.8,
+    47.4
+   ],
+   "coords": [
+    [
+     60.2,
+     49.7
+    ],
+    [
+     60.2,
+     50.5
+    ],
+    [
+     60.3,
+     51.6
+    ],
+    [
+     60.4,
+     49.2
+    ],
+    [
+     60.6,
+     51.8
+    ],
+    [
+     60.7,
+     48.6
+    ],
+    [
+     60.8,
+     50
+    ],
+    [
+     60.9,
+     50.9
+    ],
+    [
+     61.2,
+     52.7
+    ],
+    [
+     61.8,
+     51.3
+    ],
+    [
+     62,
+     53.3
+    ],
+    [
+     62.2,
+     49.7
+    ],
+    [
+     62.2,
+     52.4
+    ],
+    [
+     62.4,
+     53.7
+    ],
+    [
+     63.2,
+     47.8
+    ],
+    [
+     63.4,
+     52.2
+    ],
+    [
+     64.8,
+     47.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 252764,
+   "name": "Al'Aketh Skypriest",
+   "coord": [
+    69,
+    50.6
+   ],
+   "coords": [
+    [
+     64.6,
+     51
+    ],
+    [
+     64.7,
+     51.5
+    ],
+    [
+     65.2,
+     50.4
+    ],
+    [
+     65.5,
+     50.2
+    ],
+    [
+     66.1,
+     49.1
+    ],
+    [
+     66.1,
+     51.5
+    ],
+    [
+     66.2,
+     51.4
+    ],
+    [
+     66.8,
+     48.2
+    ],
+    [
+     66.8,
+     50
+    ],
+    [
+     67.4,
+     49
+    ],
+    [
+     68.9,
+     50.4
+    ],
+    [
+     69,
+     49.4
+    ],
+    [
+     69,
+     50.6
+    ],
+    [
+     69.8,
+     48.8
+    ],
+    [
+     69.8,
+     51.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 252765,
+   "name": "Al'Aketh Blademaster",
+   "coord": [
+    63.2,
+    47.9
+   ],
+   "coords": [
+    [
+     59.5,
+     52.2
+    ],
+    [
+     60.1,
+     49.9
+    ],
+    [
+     60.2,
+     50.6
+    ],
+    [
+     60.4,
+     49.3
+    ],
+    [
+     60.6,
+     50.4
+    ],
+    [
+     60.8,
+     48.8
+    ],
+    [
+     60.8,
+     50.7
+    ],
+    [
+     61.1,
+     52.3
+    ],
+    [
+     61.2,
+     52.8
+    ],
+    [
+     61.5,
+     49.5
+    ],
+    [
+     61.7,
+     49
+    ],
+    [
+     61.8,
+     51.3
+    ],
+    [
+     62,
+     52.6
+    ],
+    [
+     62.2,
+     53.7
+    ],
+    [
+     62.4,
+     51.6
+    ],
+    [
+     62.5,
+     51.5
+    ],
+    [
+     62.5,
+     53.3
+    ],
+    [
+     63.2,
+     47.9
+    ],
+    [
+     63.5,
+     46.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 252767,
+   "name": "Al'Aketh Honor Guard",
+   "coord": [
+    69.8,
+    51.4
+   ],
+   "coords": [
+    [
+     65,
+     50.4
+    ],
+    [
+     65.2,
+     50.5
+    ],
+    [
+     65.3,
+     52.3
+    ],
+    [
+     65.6,
+     50
+    ],
+    [
+     66.4,
+     49.2
+    ],
+    [
+     66.4,
+     51.4
+    ],
+    [
+     66.7,
+     49.3
+    ],
+    [
+     66.8,
+     51
+    ],
+    [
+     66.9,
+     50.1
+    ],
+    [
+     68.3,
+     49.6
+    ],
+    [
+     68.8,
+     50.3
+    ],
+    [
+     69,
+     50.8
+    ],
+    [
+     69.4,
+     49
+    ],
+    [
+     69.8,
+     48.9
+    ],
+    [
+     69.8,
+     51.4
+    ],
+    [
+     69.8,
+     51.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 253195,
+   "name": "Al'Aketh Preacher",
+   "coord": [
+    64.1,
+    65.9
+   ],
+   "coords": [
+    [
+     60.6,
+     66
+    ],
+    [
+     61.9,
+     66.5
+    ],
+    [
+     62.6,
+     65.7
+    ],
+    [
+     62.8,
+     63.9
+    ],
+    [
+     63.1,
+     64.7
+    ],
+    [
+     64,
+     64.9
+    ],
+    [
+     64.1,
+     65.9
+    ],
+    [
+     64.5,
+     64.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 253511,
+   "name": "Al'Aketh Pillager",
+   "coord": [
+    64.4,
+    66
+   ],
+   "coords": [
+    [
+     61.6,
+     62.3
+    ],
+    [
+     62.8,
+     64.1
+    ],
+    [
+     63.7,
+     65.1
+    ],
+    [
+     64.1,
+     63
+    ],
+    [
+     64.3,
+     64.4
+    ],
+    [
+     64.4,
+     66
+    ],
+    [
+     65.1,
+     64.6
+    ],
+    [
+     65.8,
+     64.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 253622,
+   "name": "Commander Haalien",
+   "coord": [
+    65.5,
+    36.3
+   ],
+   "coords": [
+    [
+     65.2,
+     36.8
+    ],
+    [
+     65.4,
+     36.4
+    ],
+    [
+     65.5,
+     36.3
+    ],
+    [
+     65.5,
+     36.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 256966,
+   "name": "Skypriest Aanders",
+   "coord": [
+    41,
+    64.3
+   ],
+   "coords": [
+    [
+     41,
+     64.3
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 257196,
+   "name": "Zaal Stormshield",
+   "coord": [
+    56.6,
+    50.3
+   ],
+   "coords": [
+    [
+     56.4,
+     50.5
+    ],
+    [
+     56.6,
+     50.3
+    ],
+    [
+     56.6,
+     50.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 270201,
+   "name": "Al'Aketh Brawler",
+   "coord": [
+    65.2,
+    66
+   ],
+   "coords": [
+    [
+     64.8,
+     66.5
+    ],
+    [
+     65,
+     67.9
+    ],
+    [
+     65.2,
+     65.3
+    ],
+    [
+     65.2,
+     66
+    ],
+    [
+     65.4,
+     69.6
+    ],
+    [
+     65.5,
+     65.6
+    ],
+    [
+     66.2,
+     67.2
+    ],
+    [
+     66.9,
+     67.7
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 9,
+   "date": "2026-09-20T21:15:06-05:00",
+   "body": "Head to the Shrine of Akir, the drop rate is much higher there",
+   "replies": [
+    "Can confirm. much higher drop chance from the mobs at Shrine of Akir",
+    "Adding more confirmation, WAY better drop rate at the Shrine."
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2026-09-20T17:15:35-05:00",
+   "body": "Reporting in from the beta, drop rate is AWFUL :'(\n\nthat being said, you do not need to finish this as soon as you get the quest. there are plenty of other quests upcoming to kill Al'Aketh",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2026-09-24T13:37:39-05:00",
+   "body": "Disgusting drop rate, this should be fixed, in addition mobs heals TOO MUCH and can heal each other, for dru with no cast interrupt killing even 1 stormchaser takes so much time",
+   "replies": [
+    "I'll second this. Fighting the stormchasers as a rage starved warrior was a nightmare, you can potentially end up dealing with multiple heals."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-26T22:03:55-05:00",
+   "body": "Did all other quest in Ruins of Ban'aethal and Shrine of Akir  and got zero to drop. \r\nI was heading back to town and last ditch started killing the mobs in the bowl North of Valanaar and ended up getting them to drop.\r\nIt took 43 to get all 10.\r\nThis quest ill be next to impossible on launch unless they massively increase drops rates, good luck!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-27T20:11:14-05:00",
+   "body": "I was stuck on 9/10 for over an hour... a painful hour as a druid where I had to drink and eat after each kill.   This drop rate is the kind of %^&* that causes people to quit the f'ing game.   No reason it should be this way. None.  Fix it Blizzard.",
+   "replies": []
+  }
+ ]
+}

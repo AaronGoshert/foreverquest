@@ -1,0 +1,133 @@
+{
+ "id": 94468,
+ "name": "Call of Fire",
+ "level": 14,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 1250,
+ "start": {
+  "type": "object",
+  "id": 61934,
+  "name": "Brazier of the Dormant Flame",
+  "zone": "Durotar",
+  "zoneId": 14,
+  "coords": [
+   [
+    38.9,
+    58.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 257597,
+  "name": "Bruegs Kindleborn",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    87.4,
+    43.6
+   ],
+   [
+    87.6,
+    43.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring the Torch of Eternal Flame to Bruegs Kindleborn in Dun Morogh. Torch of the Eternal Flame (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 257597,
+   "name": "Bruegs Kindleborn",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 6654,
+   "name": "Torch of the Eternal Flame",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  94449,
+  94465,
+  94466,
+  94467,
+  94468
+ ],
+ "points": [
+  {
+   "zoneId": 14,
+   "zone": "Durotar",
+   "point": "start",
+   "type": 2,
+   "id": 61934,
+   "name": "Brazier of the Dormant Flame",
+   "coord": [
+    38.9,
+    58.2
+   ],
+   "coords": [
+    [
+     38.9,
+     58.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 2,
+   "id": 61934,
+   "name": "Brazier of the Dormant Flame",
+   "coord": [
+    31.9,
+    64.5
+   ],
+   "coords": [
+    [
+     31.9,
+     64.4
+    ],
+    [
+     31.9,
+     64.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 257597,
+   "name": "Bruegs Kindleborn",
+   "coord": [
+    87.6,
+    43.6
+   ],
+   "coords": [
+    [
+     87.4,
+     43.6
+    ],
+    [
+     87.6,
+     43.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

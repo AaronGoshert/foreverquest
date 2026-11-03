@@ -1,0 +1,260 @@
+{
+ "id": 5713,
+ "name": "One Shot. One Kill.",
+ "level": 15,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1050,
+ "start": {
+  "type": "npc",
+  "id": 11711,
+  "name": "Sentinel Aynasha",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    45.8,
+    90.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11806,
+  "name": "Sentinel Onaeya",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    26.4,
+    36.4
+   ],
+   [
+    26.4,
+    36.6
+   ],
+   [
+    26.6,
+    36.4
+   ],
+   [
+    26.6,
+    36.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Protect Sentinel Aynasha , then speak with Onaeya at Maestra's Post in Ashenvale.   Protect Aynasha  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 11711,
+   "name": "Sentinel Aynasha",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Protect Aynasha",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 11711,
+   "name": "Sentinel Aynasha",
+   "coord": [
+    45.8,
+    90.2
+   ],
+   "coords": [
+    [
+     45.8,
+     90.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 11806,
+   "name": "Sentinel Onaeya",
+   "coord": [
+    26.6,
+    36.6
+   ],
+   "coords": [
+    [
+     26.4,
+     36.4
+    ],
+    [
+     26.4,
+     36.6
+    ],
+    [
+     26.6,
+     36.4
+    ],
+    [
+     26.6,
+     36.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 44,
+   "date": "2006-01-16T05:28:14-06:00",
+   "body": "You get 3 waves of attackers. First wave is two lv14s. Second wave is three lv14s. Last is a lv16. Wait around for each wave to come. Last wave Sentinal Aynasha will run out of arrows and won't help you. Another minute and she will send you to Onaeya. Shes located at 45:90.",
+   "replies": [
+    "Did this alone as lv 18 druid. You have time to drink between waves."
+   ]
+  },
+  {
+   "rating": 35,
+   "date": "2019-09-10T22:43:48-05:00",
+   "body": "she takes ages to finish, even if you kill all the mobs, just wait for the quest complete text.",
+   "replies": [
+    "Did this for rep/completion at level 60. One-shot the named mob in the last wave, and worried that I'd bugged it out by killing too quickly. Waited about a full minute, and the quest finally completed."
+   ]
+  },
+  {
+   "rating": 26,
+   "date": "2007-04-07T00:54:38-05:00",
+   "body": "She's hidden in the hills, sort of difficult to find.  3 waves spawn upon accepting the quest, the first with 2 furbolgs, the second with 3, and the last wave with the named furbolg \"boss.\"",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2020-07-20T02:21:01-05:00",
+   "body": "She has some \"unique\" audio-only voice lines. I assume they're from night elf units in one of the Warcraft RTS games.\r\n\"Cry, Havoc.\"\r\n\"All to easy.\"\r\n\"One shot. One Kill.\"\r\n\"Fire.\"",
+   "replies": [
+    "They're lines from the Night Elf Archer unit."
+   ]
+  },
+  {
+   "rating": 11,
+   "date": "2019-10-10T18:51:20-05:00",
+   "body": "You don't have to actually \"escort\" this NPC. You just defend the friendly NPC against a few waves, then the quest is \"complete\", and you turn it in in Ashenvale.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2007-05-20T16:55:53-05:00",
+   "body": "Coords for this one: 45,90",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-07-31T11:53:13-05:00",
+   "body": "Sentinel Oneaya is in Ashevale at Maestra's Post. Just go south down the road and you will find it.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-07-11T11:36:49-05:00",
+   "body": "I generally do this one at the same time as \"The Sleeper has Awakened\" with the Druid of the Claw.  Two Escort quests at once!  You turn them both in at Maestra's Post.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-05-08T22:45:02-05:00",
+   "body": "no juat splintertree post or whatever its called there are lvl 26-28 horde gaurds just off the road. my advice dont go that way until at least twenty five my 18 hunter got two-hitted",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-08T02:38:40-06:00",
+   "body": "I did this one today. You stay in one spot and just defend her from some Blackwood guys and then report to Onaeya. There is one named MOB, Marosh the Devious. He is only level 16 though. The quest gives you some time between waves to heal up.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-10-05T21:32:54-05:00",
+   "body": "She deals a lot of damage by herself so make sure you fight close enough to her. I think she emotes different dialouge sounds from WC3",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-10-03T18:11:45-05:00",
+   "body": "After trying to do this quest 6 times and failing, I find this quest is impossible to do solo at level 15 as a Nightelf Priest, as a total of 5 Furbolg in quick succession aggros on you, as the location does not give you much room to maneuver being in between hills.  This quest is probably best done at higher levels or as with a group.",
+   "replies": [
+    "Don't feel bad; it is impossible at 15. This is one of the quests, like the Tower of Althalax, that you can only complete at a much-higher level. This may have been planned originally but some of these kinds of quests have other quirks too. After killing all the required mobs, I've had to wait 5-7 minutes before the quest would complete. By the way at level 37 only 11 Darnassus rep. : /"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-09-28T17:28:14-05:00",
+   "body": "Sorry 4 posting the post before, just figured out, that its in Ashenvale, not Darkshore.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-06-27T02:21:20-05:00",
+   "body": "God, are there enough escort quests in this unfinished, unbalanced zone? I'm starting to regret playing a night elf.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-09-24T12:00:23-05:00",
+   "body": "Quest starts at location 45,90 in Darkshore.\n\nEasy quest as a lvl 18 rogue :)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-03-22T08:08:47-06:00",
+   "body": "Exactly where is Sentinel Onaeya?",
+   "replies": [
+    "/wloc 45, 90 along the eastern mountains."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-27T11:48:57-06:00",
+   "body": "Where is this quest located?",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2007-04-24T15:48:30-05:00",
+   "body": "haha, im level 25 rouge.. i just stand in front of her and let her kill all the mobs while im dancing.. LOL",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2006-02-05T11:59:05-06:00",
+   "body": "stupid escort qst",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-04-08T13:09:02-05:00",
+   "body": "The person to give the quest to is in front of the little house in maestras point.",
+   "replies": []
+  },
+  {
+   "rating": -11,
+   "date": "2007-05-08T22:45:02-05:00",
+   "body": "wheres ashenvale?",
+   "replies": [
+    "its a zone just south of darkshore"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "id": 94616,
+ "name": "Water Sapta",
+ "level": 20,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 258043,
+  "name": "Norric Lochthane",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    41.8,
+    19
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 258043,
+  "name": "Norric Lochthane",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    41.8,
+    19
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Completion Take the water sapta and find the tainted pond water in Westfall, <name>. I have great faith in your abilities.",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 6637,
+   "name": "water sapta",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 258043,
+   "name": "Norric Lochthane",
+   "coord": [
+    41.8,
+    19
+   ],
+   "coords": [
+    [
+     41.8,
+     19
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 258043,
+   "name": "Norric Lochthane",
+   "coord": [
+    41.8,
+    19
+   ],
+   "coords": [
+    [
+     41.8,
+     19
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

@@ -1,0 +1,104 @@
+{
+ "id": 91738,
+ "name": "An Apple Treat",
+ "level": 10,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 630,
+ "start": {
+  "type": "npc",
+  "id": 955,
+  "name": "Sergeant De Vries",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    24,
+    73
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 955,
+  "name": "Sergeant De Vries",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    24,
+    73
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Progress The sergeant's eyes light up as he notices your bottle of Thunder Applejack ... Thunder Applejack  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 247824,
+   "name": "Thunder Applejack",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Thunder Applejack",
+   "count": 1,
+   "type": "item",
+   "id": 247824
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 955,
+   "name": "Sergeant De Vries",
+   "coord": [
+    24,
+    73
+   ],
+   "coords": [
+    [
+     24,
+     73
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 955,
+   "name": "Sergeant De Vries",
+   "coord": [
+    24,
+    73
+   ],
+   "coords": [
+    [
+     24,
+     73
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-26T14:40:36-05:00",
+   "body": "The drink is from [quest=91736]. Walk up the hill to Thunder Falls in Elwynn Forest's Mirror Lake and hand in 4 [url=https://www.wowhead.com/forever/item=4536/shiny-red-apple]apples[/url] to the machine.\r\n\r\nAn enterprising player can also simply buy a [item=247824] from the Auction House from another enterprising player and complete this quest without ever having to visit Thunder Falls at all... ;-)",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "id": 92742,
+ "name": "Testing the Wells",
+ "level": 12,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 455,
+ "start": {
+  "type": "npc",
+  "id": 253092,
+  "name": "Alba Fairmoon",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    52.4,
+    53
+   ],
+   [
+    52.6,
+    53.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253092,
+  "name": "Alba Fairmoon",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    52.4,
+    53
+   ],
+   [
+    52.6,
+    53.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Use the Well Water Sample Kit to collect samples from the wells at the Jansen Stead and the Molsen Farm. Jansen Stead Water Sample  ( 1 ) Molsen Farm Water Sample  ( 1 ) Well Water Sample Kit (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 254545,
+   "name": "Well Water Sample Kit",
+   "count": 1,
+   "provided": true
+  },
+  {
+   "type": "item",
+   "id": 254546,
+   "name": "Jansen Stead Water Sample",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 254547,
+   "name": "Molsen Farm Water Sample",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Jansen Stead Water Sample",
+   "count": 1,
+   "type": "item",
+   "id": 254546
+  },
+  {
+   "text": "Molsen Farm Water Sample",
+   "count": 1,
+   "type": "item",
+   "id": 254547
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "start",
+   "type": 1,
+   "id": 253092,
+   "name": "Alba Fairmoon",
+   "coord": [
+    52.4,
+    53
+   ],
+   "coords": [
+    [
+     52.4,
+     53
+    ],
+    [
+     52.6,
+     53.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 1,
+   "id": 253092,
+   "name": "Alba Fairmoon",
+   "coord": [
+    52.4,
+    53
+   ],
+   "coords": [
+    [
+     52.4,
+     53
+    ],
+    [
+     52.6,
+     53.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2026-09-24T00:38:39-05:00",
+   "body": "Molson Farm 46.2, 38.3\r\n\r\nJansen Stead 56.7, 18.7",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2026-10-06T14:02:51-05:00",
+   "body": "An entire dungeon questline for all alliance races except humans?",
+   "replies": []
+  }
+ ]
+}

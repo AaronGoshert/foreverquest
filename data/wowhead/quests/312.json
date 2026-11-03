@@ -1,0 +1,406 @@
+{
+ "id": 312,
+ "name": "Tundra MacGrann's Stolen Stash",
+ "level": 12,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 910,
+ "start": {
+  "type": "npc",
+  "id": 1266,
+  "name": "Tundra MacGrann",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    34.6,
+    51.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1266,
+  "name": "Tundra MacGrann",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    34.6,
+    51.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Retrieve Tundra MacGrann's dried meats from the stolen meat locker in Old Icebeard's cave. MacGrann's Dried Meats  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 2667,
+   "name": "MacGrann's dried meats",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "MacGrann's Dried Meats",
+   "count": 1,
+   "type": "item",
+   "id": 2667
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1266,
+   "name": "Tundra MacGrann",
+   "coord": [
+    34.6,
+    51.6
+   ],
+   "coords": [
+    [
+     34.6,
+     51.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1266,
+   "name": "Tundra MacGrann",
+   "coord": [
+    34.6,
+    51.6
+   ],
+   "coords": [
+    [
+     34.6,
+     51.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 76,
+   "date": "2006-12-19T08:32:33-06:00",
+   "body": "You don't have to fight Old Icebeard to complete this quest so you can easily solo it as soon as you can pick it up.\r\n\r\nOld Icebeard periodicly patrols the area, just wait for him to leave the cave and you can run in, loot the chest, and run out before he even notices you.",
+   "replies": [
+    "MacGrann is standing in front of a cave. This is NOT the cave with the quest item. Run back down the hill you came up to get to MacGrann (decent directions below) and you'll be facing the cave with the quest item. The elite boss does pat out of the cave and you can easily dash in and grab the item without picking up aggro."
+   ]
+  },
+  {
+   "rating": 65,
+   "date": "2007-01-02T12:10:49-06:00",
+   "body": "To get to MacGrann: South of ICEFLOW LAKE, there are two parallel ridges (the lower has a cave named \"Grizzled Den\"). go between the ridges and there should be a way to get up to MacGrann (he's on the ridge facing iceflow lake,&nbsp; coord: 34, 52).&nbsp; \n\nTo Get his meat: Just behind MacGrann is another cave (GRIZZLED DEN - coord: 37,54). If you time it right, you can run in the cave and open and get the meat. run like hell and if u die, you can always rez and run again.\n\nI was a lvl 12 mage when i did this quest, no issues.\nhappy hunting!",
+   "replies": [
+    "I know this was from 2007 but THANK YOU. Couldn't figure out for the life of me how to get up there to him for turn-in.",
+    "Go east of the south tip of iceflow lake, to 39.5, 47.7 (Just south of Shimmer Ridge). Then go south-east in a valley. A wooden platform on the right side, at 36.34, 52.56 is the start of the path west and up to Tundra MacGrann. The cave is east of that platform.",
+    "Old Iceburg is alive and well thanks. I killed him twice",
+    "After you handed the meat over to MacGrann and received the Wooly Mittens from him aka completed the quest, have a look down (cave entrance at your back), there you'll find a small chest. You'll have to slide down a bit. Don't jump, you'll most likely jump over it and possibly die.",
+    "if there was a chest it was just a random spawn"
+   ]
+  },
+  {
+   "rating": 14,
+   "date": "2006-12-13T23:57:39-06:00",
+   "body": "The chest is in the cave guarded by Old Icebeard at 38,54. He's a level 11 elite with about 650 HP.",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2006-03-16T12:10:49-06:00",
+   "body": "Directly outside of the cave Icebeard is in, there are 2 bloody corpse piles.&nbsp; If you look up from there, you should see a wooden platform with a flag.&nbsp; Go to the right of the flag and up and you'll go between 2 hills and to the cave the guy is standing in.\n\nCoordinates of the start of the path are 36,52\n\nIf you play on Dragonblight and need help finding the place, send a whisper to Celak.&nbsp; I'm on fairly often and I'll lead you to the place.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2021-03-07T08:22:00-06:00",
+   "body": "36.18 52.58 is the exact spot I found for the trail up to McGrann. ....and as someone else said....you don't have to kill the elite. If you have patience just sit out of aggro, he eventually will path out of the cave, remember classic takes a stupid amount of time to loot so figure that in but yeah just grab the quest item and GTFO...you'll never need to fight.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2005-02-24T00:26:29-06:00",
+   "body": "Tundra cannot be reached from the lake side.\n\nYou have to scale the SouthEast side of the ridge (see the link for Tundra) in order to get to him.\n\nIce Beard is found in or walking around (be careful) the cave that is also in that area.\n\nIf you are lucky and he is outside of the cave, you may not even need to fight him.\n\nEdited, Wed Feb 23 18:45:12 2005",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-10-21T12:10:49-05:00",
+   "body": "He occasionally leaves his cave for a walk to the north, so if you hide up the side of the hill and wait you can complete this at low level.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-01-02T12:10:49-06:00",
+   "body": "Polymorph worked fine for me first try at level 10 - else, just try a couple of times :)",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-03-16T12:10:49-05:00",
+   "body": "the cave is in chilly breeze valley. Look for dead meat and bones and blood on the ground. From the cave walk out and go straight up the mountain in front of you. At the top turn left he is right there.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-04-25T20:30:51-05:00",
+   "body": "Did this quest at level 8 solo with my gnome mage.  Just polymorph Old Icebeard and run in and out.  He never touched me :)\n\n\nFiddlestix\nLevel 10 Mage of the Alliance",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-21T12:10:49-05:00",
+   "body": "1) ask your imp to charge\n2) spam fear on the guard\n3) if successed, rush into the cave and press Left-shift and click on the chest\n4) loot the meat and rush out of the cave toowards the quest giver\n5) get your rewards",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-01-02T12:10:49-06:00",
+   "body": "To get to this guy, walk on the east side of the mountain until you see a wooden platform with a flag on it. From there, just follow the snow right, then left.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-01-02T12:10:49-06:00",
+   "body": "MacGrann is in a cave on the top of the mountain opposite the valley where IceBeard is. Just head straight out from Old Ice's cave and go straight up the mountain. You'll pass the platform with the banner a little ways up the mountain.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-06-11T23:26:47-05:00",
+   "body": "Sorry about the multiple posts, i was getting a lot of disconnects aand didn't know if my message got thru. :-(",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-21T12:10:49-05:00",
+   "body": "You go to the spot on the map where there's a cave under the label 'chill breeze valley' and when you get to the mountain, you follow a faint set of tracks until you get to him. On a further note, where's Old Icebeard's cave?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-21T12:10:49-05:00",
+   "body": "He's on a ledge, you have to go thru Chill Breeze Valley, and take a turn to go up. He is in a cave on a ledge overlooking Iceflow Lake.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-16T12:10:49-06:00",
+   "body": "I don't have this quest but it sure seems interesting(plus i want those fuzzy gloves)! But anyways, I know that you gtei t from Tundra MacGrann, but where is she?",
+   "replies": [
+    "I found the questgiver at 35,52.&nbsp; You can get to him through Coldridge Valley, but it's quite a climb and he was difficult to find.\n\nFor those who lack coordinates:\nIf you stand directly in front of Icebeard's cave and look straight across the valley, you will see a banner and a platform on the side of the hill.&nbsp; Climb up there; Tundra is further up the hill, kind of around back in a cave.",
+    "The folks who have been specific here are very helpful.&nbsp; Don't post 'where is he/she?' if you have not read the above.\n\nTundra is actually quite easy to find.\n\nEdit: the advice about waiting till he goes on his walk may not work.&nbsp; I had killed him once before reading here re the quest.&nbsp; But when I saw him going away from the cave, I darted into his cave and opened the box.\n\nWoohoo! right?&nbsp; Well, he came running back to attack me.&nbsp; Yeah I killed him (lvl 12 warrior) but wasn't expecting opening the meat locker to trigger his quick return. :)",
+    "I went all over the area, I even stood on top of his cave and I dont see any platrform or flags."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-22T00:10:49-05:00",
+   "body": "I had to time it just right - but it worked great - thanks for the tip - and easy 900xp and nice gloves (at this level).",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-06T23:42:01-05:00",
+   "body": "heres the thing\nFear dots fear dots fear dots....\nthis is before i got my wand \ngood luck with the quest!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-06-11T15:09:12-05:00",
+   "body": "If you find Icebeard's Cave, you can find Tundra.\nLook directly across from the cave, there is a platform at 37,53. go to the platform, there is a saddle over the mountains at 36,52. You wwwill have to go  a little to the north then switchback to get over it, then Tundra is right there aaat 34,51.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-21T12:10:49-05:00",
+   "body": "I got this quest about a week ago, then I stopped playing my character and made a new one, and now I have NO clue how to get to the guy that you hand this in to. Any help?",
+   "replies": [
+    "this is real easy although it took me a while. you need to go to chill breeze valley while looking at map you will see a mountain to the east of the lake that has 2 caves to get to macgann you turn your back to icebeards cave then work your way to the top of the ridge he is in front of the cave, the most important thing to remember is that you nee to climb up the east side of the ridge you cant do it from the west side but you might be able to at least see the location. East side of ridge........"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-21T12:10:49-05:00",
+   "body": "I recived this quest from a player, i got the meat but have no idea where to turn it into, I know i have to turn it into Tundra. But where is he?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-21T12:10:49-05:00",
+   "body": "The easyest way to complete it for a low lvl mage is to just polymorph him to a sheep, walk in get the meat and walk out... I think Polymorp his aquired at lvl 9...",
+   "replies": [
+    "This doesn't really work, because he is elite and very strong. He breaks the polymorph after about 2 seconds. I tryed this twice.\n\nBut if you wait around the cave (beyond agro range) for him to leave, you should be able to sneak in. Or if you die, try to die inside the cave so u can wait there as a spirit and when ge leaves you can res, take the meat and run.\n\nP.S.\nYou get polymorph at level 8"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-11T15:12:05-05:00",
+   "body": "Tundra is located at 34,51. To get there go to the platform opposite Icebeard's cave. Its at 37,53. You will have to get to the saddle over the mountains at 36,52 to reach Tundra.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-27T13:33:41-06:00",
+   "body": "Anyone of any level should be able solo this easily as Icebeard leaves his cave and wanders off to the north in regular intervals. Just keep in mind that he will come running back as soon as you open the box. So wait until he is far enough away, grab the stuff and run out of the cave and to the south presto.\n\nHaving said that, I also didn't have much trouble killing him with my level 11 Warrior. Just make sure you're at full rage (kill some boars), have a Minor Healing Potion on you and use all your abilities to their full extent. I guess gear is also a factor. Mine was average.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-11T15:08:44-05:00",
+   "body": "If you find Icebeard's Cave, you can find Tundra.\nLook directly across from the cave, there is a plaatform at 37,53. go to the platform, there is a saddle over the mountains at 36,52. You wwwill have to go  a little to the north then switchback to get over it, then Tundra is right there aaat 34,51.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-11T15:13:39-05:00",
+   "body": "Tundra is located at 34,51. To get there go to the platform opposite Icebeard's cave. Its at 37,53. You will have to get to the saddle over the mountains at 36,52 to reach Tundra.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-11T15:09:03-05:00",
+   "body": "If you find Icebeard's Cave, you can find Tundra.\nLook directly across from the cave, there is a platform at 37,53. go to the platform, there is a saddle over the mountains at 36,52. You wwwill have to go  a little to the north then switchback to get over it, then Tundra is right there aaat 34,51.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-26T01:06:46-05:00",
+   "body": "As a lvl 10 rogue, this quest is really easy. At 10 you learn sap, which will stun Icebeard. By the time he revives, you will already be on your way to Tundra, and he will not bother chasing you.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-18T14:41:32-05:00",
+   "body": "Where is Tundra MacGrann located?",
+   "replies": [
+    "click start npc's clicky name :)"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-04T03:08:35-05:00",
+   "body": "Good advice to just wait until he leaves the cave, but he'll hustle back as soon as you open the locker. I was a level 8 rogue and just hit Evasion and had to down one minor healing potion to get away. He hit me pretty hard the one time he connected, half my health gone in one smack. Worthless rewards for a rogue but good rep and xp.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-18T21:21:38-05:00",
+   "body": "soloed it as a lvl 7 preist. Got the quest, ran in, died, waited till he patted out. Opened the case, Power Word Sheild and ran like the %^&*ens.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-11T15:12:30-05:00",
+   "body": "Tundra is located at 34,51. To get there go to the platform opposite Icebeard's cave. Its at 37,53. You will have to get to the saddle over the mountains at 36,52 to reach Tundra.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-09T19:20:21-05:00",
+   "body": "I was able to sheep him at level 10 and had no issues :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-10-17T21:18:30-05:00",
+   "body": "Icebeard's pat timer is about 3-5 minutes. I had arrived as he was running back into his cave. Make sure you loot the  dried meats and run...his pat doesn't last long.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-12-02T18:03:43-06:00",
+   "body": "Climb up mountainside across from Old Icebeard's cave to access Tundra McGann ... if you go up from the southeast, you need luck and the ability to spam your spacebar like mad!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2021-01-18T12:24:14-06:00",
+   "body": "This quest is easily done for Rogues as they can go into Stealth and sneak in after Old Iceberg leaves the cave and then grab the loot and run out while he is still away.  Other classes will have to be careful.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-21T15:00:41-05:00",
+   "body": "Just dont do what I did :p\r\n\r\nhttps://youtube.com/shorts/bb3Zu-yctTM?is=aNIJN8L3v--HhyO2\r\n\r\n[url=https://https://youtube.com/shorts/bb3Zu-yctTM?is=aNIJN8L3v--HhyO2][/url]",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-04-22T00:10:49-05:00",
+   "body": "Just sap the elite monster and open barrel :)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-09T20:01:55-06:00",
+   "body": "Super easy kill for my 12 hunter.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-12-24T00:43:24-06:00",
+   "body": "is this the 11 E",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-09-15T00:10:49-05:00",
+   "body": "He is nowhere near Icebeards cave as some say so the map helped me find the questgiver.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2005-06-10T01:10:11-05:00",
+   "body": "tundra is right above the cave towards the lake",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-21T12:10:49-05:00",
+   "body": "I found the cave and waited till old icebeard went away. but now there is nothing inside the cave. Is he carrying the meat on him?",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-21T12:10:49-05:00",
+   "body": "Hi Guys, The cave tip was great but I still can't see anyone elses tracks but my own. I saw the ledge, could get to some fallen supplies but not all the way up. any other hints?",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-11-27T00:10:49-06:00",
+   "body": "where is the cave where the beast is?",
+   "replies": [
+    "Loc is 38:53 on cosmos"
+   ]
+  },
+  {
+   "rating": -6,
+   "date": "2006-08-09T12:10:49-05:00",
+   "body": "I soloed this guy as a lvl 8 lock, locks are the greatest.",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2006-09-15T00:10:49-05:00",
+   "body": "Can Paladin do it in lvl 9?",
+   "replies": []
+  }
+ ]
+}

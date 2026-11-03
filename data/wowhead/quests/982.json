@@ -1,0 +1,689 @@
+{
+ "id": 982,
+ "name": "Deep Ocean, Vast Sea",
+ "level": 17,
+ "reqlevel": 13,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 1250,
+ "start": {
+  "type": "npc",
+  "id": 6301,
+  "name": "Gorbold Steelhand",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    38,
+    41.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 6301,
+  "name": "Gorbold Steelhand",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    38,
+    41.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Recover the Silver Dawning's Lockbox and the Mist Veil's Lockbox for Gorbold Steelhand in Auberdine. Both items should be found aboard the wreckage of the ships to the north of the village. Silver Dawning's Lockbox  ( 1 ) Mist Veil's Lockbox  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 12191,
+   "name": "Silver Dawning's Lockbox",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 12192,
+   "name": "Mist Veil's Lockbox",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Silver Dawning's Lockbox",
+   "count": 1,
+   "type": "item",
+   "id": 12191
+  },
+  {
+   "text": "Mist Veil's Lockbox",
+   "count": 1,
+   "type": "item",
+   "id": 12192
+  }
+ ],
+ "series": [
+  97894,
+  982
+ ],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 6301,
+   "name": "Gorbold Steelhand",
+   "coord": [
+    38,
+    41.2
+   ],
+   "coords": [
+    [
+     38,
+     41.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 6301,
+   "name": "Gorbold Steelhand",
+   "coord": [
+    38,
+    41.2
+   ],
+   "coords": [
+    [
+     38,
+     41.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 45,
+   "date": "2006-12-09T14:43:44-06:00",
+   "body": "Beware of murlocs swimming through walls. It can happen with alarming frequency.",
+   "replies": []
+  },
+  {
+   "rating": 44,
+   "date": "2004-11-29T18:04:03-06:00",
+   "body": "Just FYI, each box is located in the bottom of the boat in the stern (back) end of the ship. Both ships sank with their prow (front) end pointing towards land, so the stern is the seaward side of each ship. \n\nThere is also a \"weapons crate\" in the very center of the bottom hold of the south ship. Hard to get to, because there are many close spawns and a hole in the hull nearby where you can get adds coming in from outside the ship.",
+   "replies": []
+  },
+  {
+   "rating": 36,
+   "date": "2005-10-28T01:23:51-05:00",
+   "body": "These are around 39,28 in Darkshore",
+   "replies": []
+  },
+  {
+   "rating": 28,
+   "date": "2006-11-21T09:50:21-06:00",
+   "body": "The two ships can be found at 39, 28. You have to pick up Mist Veil's Lockbox from the ship lying on its side before Silver Dawning's Lockbox will spawn in the other ship.\n\nBoth lockboxes can be opened from the outside of the ship. Just stand behind the ship and move your cursor around until you find the box.",
+   "replies": [
+    "Not true, I got the Silver Dawning's Lockbox first. By the way this quest is also easy as a druid in aquatic form :)",
+    "Confermed with screenshot! <posted>  Can be opened from outside the ships. Thanks sjonkel",
+    "Coordinates are correct, and you can get either box. You don't have to do one in order to spawn the other. They are both quite easy to get in or out of the boat. Sorry Sjonkel but that spawn information is wrong."
+   ]
+  },
+  {
+   "rating": 28,
+   "date": "2004-11-18T14:46:47-06:00",
+   "body": "Both boxes are heavily guarded by wicked fast little sea monkeys that are almost impossible to pull without one or more adds.",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2019-12-06T15:08:53-06:00",
+   "body": "Unless you're a warlock, have an underwater breathing potion or two, are too high-level for it to be meaningful, are a marine mammal in another life or are a closet masochist, this is one you can skip. The rewards are not very good, the XP isn't worth it to offset the time spent, the Darn rep is OK but you'll wonder afterwards how you're ever going to get that lost time back. I love Classic and loved it the first time around but as many others have said, I can confirm that this is not one of its memorable quests.",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2005-03-17T07:25:18-06:00",
+   "body": "Did this solo as a 17 hunter. Only death was my pet, once.\n\nFirst of all, not sure if this matters or not, but I did the north ship first (Mist's Veil). Went around to the side with the big hole in it, stayed just under the surface where the camera shows underwater, but you don't start holding your breath. Targeted a murloc, sent the pet in, and hit follow button to pull it back when he got their attention. When the murloc was almost in range, sent the pet back in, and proceeded to light the little bugger up. Wash, rinse, repeat. Lost the pet when it pulled 4 out, but killed two of the murlocs and swam for my life. The clams are a frequent drop, so if your pet eats clam meat like mine does, no worries about happiness loss.\n\nGot all the fish outside out of the way, then waited for the ones inside to show up through the hole, target, and sent pet, etc. Swam down a couple times to check if the way was clear, eventually it was, and went inside to grab the lockbox. Oh, forgot to mention, used Eagle Eye from a safe distance to make sure I knew where the thing was, a major help.\n\nFirst lockbox down, headed south, keeping clear of the murlocs. Used Eagle Eye again, eventually spotted the lockbox for the Silver Dawning. In the process, noticed the following:\n\nA. The lockbox was easily accesible from a gunport-looking entrance in the side of the ship, near the back.\n\nB. There were almost NO murlocs nearby outside, and from what I could see, absolutely none inside near the gunport and box.\n\nIntruiged, I killed all of 2 murlocs outside, put my pet on stay, and headed in. 10 seconds in, 5 seconds to loot, and 10-15 seconds out. No muss, only fuss was when I lost the exit hole for a moment. Method might even work on the first ship, don't know. Damn near necessary on the Dawning, the thing is crawling with murlocs.\n\nSo, moral of the long-winded story: doing your planning carefully can save you an IMMENSE amount of trouble. Hope this is helpful.",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2004-11-30T11:30:53-06:00",
+   "body": "Rogues may be able to SOLO this, but if you arent a rogue, you can do this with just two people. THe nearest graveyard is so CLOSE, it isnt even a hassel dying. \n\nThe trick?\n\nBoth you and your partner go balls to the wall, and swim inside each vessel, and get as close as you can to the chest you seek before you most ultimately die. \n\nWhen you and your partner return as  ghosts, wisp back to the location of the chest in each ship, and have your partner ressurect first. While your partner creates a diversion, and starts to get slaughtered...ressurect yourself, open the chest, get the loot. Then swim your ass off as fast as you can outside the ship. Hopefully before you, TOO, are slaughtered, you can get far away from the monster weasels, and then you and your partner can trade places. \n\nWorks everytime, Trust me.\n\n\nNat.",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2004-11-27T11:22:09-06:00",
+   "body": "Only Rogues can pretty much do this quest at the appropriate level by sneaking in to where the boxes are at but, even then, it's an interesting event for them -- the boxes are at the front of the ship and require swimming inside to get to them.\n\nThe only way to do this is in a pretty decent group or groups.  You need to pull the guys out and kill them underwater so, unless you slide in behind a group or what not, you won't get there cleanly to get the quest done.\n\nI play a druid, at 17th level I tried soloing this (it was 'green' easy to me by then).  I managed to clear 1 ship enough to get in but the second one...  I'd get 2-5 guys per attempt to pull and, even with sea lion form (cannot cast spells when not in own shape), I couldn't handle fighting them all.\n\nget some friends or others who want to do this or simply skip it.  The quest results aren't that good and it is Really hard to try this.",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2005-10-28T01:23:51-05:00",
+   "body": "This quest takes its title from the Peter Murphy song of the same name from his 1989 (and arguably best to date) album, Deep.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2007-04-11T02:40:36-05:00",
+   "body": "Elixir of Water Breathing can be very helpful on this quest if you are not a druid and are typically inexpensive.\n-> https://www.wowhead.com/forever/item=5996\n\nNote: Shaman (lvl 22) and Warlocks (lvl 16) have buffs that allow underwater breathing if you find one in the area.\n\nHint: Ask Nicely (shaman need a reagent for their buff you may have in your inventory)\n-> https://www.wowhead.com/forever/item=17057",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-10-28T01:23:51-05:00",
+   "body": "all this crap about having to get a certain box first is not true. it doesnt matter what order you get them in. if a box isn't there, it's because someone else got to it before you did, and it hasnt spawned.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-09-18T08:35:26-05:00",
+   "body": "This is possibly the most infamous quest in the entire game.  Most people choose this as their least favorite, due to it's difficulty and the relatively poor rewards.  That said, a warlock will have an easiser time with this due to Underwater Breathing...",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2019-10-01T20:30:09-05:00",
+   "body": "This is allegedly the most reviled quest in all of Classic WoW, according to its own creator, who also does the Murloc voice effect: https://youtu.be/EbKQFeKMseQ?t=81",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2019-08-12T10:17:24-05:00",
+   "body": "To complete the quest you need to locate [b]Two Drowned Ships[/b] and retreive both [b][item=12191][/b] and [b][item=12192][/b].\r\nMove to the north along the shore, you will see ship wreckage in a minute or less. Clear an area if needed.\r\nThere are two ships under the water, lockboxes can be found in their holds at low deck.\r\nYou can get directly into the holds through the broken sides. Get all the chests and go back to Gorbold Steelhand/\r\n[quote][b][item=12191][/b] location coordinates are [b]38.3 28.8[/b]\r\n[b][item=12192][/b] location coordinates are [b]39.7 27.4[/b][/quote]\r\n[b][quest=982][/b] - www.youtube.com/watch?v=gWffo3t-jvg",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-02-14T13:23:51-06:00",
+   "body": "I have just completed this quest following the hints given above. \nJust swim down to the back of the ships and collect the lock boxes through the hull.\nI was attacked by only one Murlock. I'm sure he regreted it. He died I didn't.\nGetting the angle for the second misty ship (the one on it's side) is harder and may take a few attempts but you can do it.\nI did the whole thing solo as a 15 level druid. No breathing potions or spells.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-10-28T01:23:51-05:00",
+   "body": "1st box 39,27 at the back of the boat as stated\n2nd box 38,28 also at the back of the boat.\n\nThis was farely simple.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2019-09-04T03:21:19-05:00",
+   "body": "both ships have holes in the bottom and the treasure chest is on that bottom floor.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2019-09-14T19:36:16-05:00",
+   "body": "Only way I could do this as a priest is die, rez near the box, kill the murloc guarding it and hope no others spawn. Click, and swim away.",
+   "replies": [
+    "That's actually the least-annoying way to solo it. The problem is that the alternative is to wait until you're 19 or so, at which point there's no more reason to do it. 1250 XP at level 15, which is not special and there is no meaningful reward other than Darn rep for the cat mount. But with a friend or two, it's easy."
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-28T01:23:51-05:00",
+   "body": "I went into the ship fought till I ran out of air and died. Then I took my spirit and went right to the lock box. Opened it ant took the chest. Next i just swam for out and went to shore to rest up.&nbsp; Repeated in the next ship..",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-03-23T01:23:51-06:00",
+   "body": "u find the two boats\nfind the chest which is at the bottom most part and the most posterior part of the boat\nswim in ignoring all the beasts\ndie inside next to the box\ngo get ur body next to the box\nget the item\n\nthat is if you cant do it the normal way",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-31T19:49:15-06:00",
+   "body": "I found the two ships together and got Mist Veil from the northernmost ship. I cannot find the the silver dawning one. Are these the two located next to one another or do I go to the other ship north of those two. Or somewhere else entirely?\n\nThanks",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2004-12-10T22:11:33-06:00",
+   "body": "I managed to complete this quest legit as a lvl 20 hunter last night.\n\nFirst I would take out as many swimming around the part of the ship with the chests as I could.  Next came the tricky part.  I would swim close enough to the ship and hit my button to target the closest enemy.  Even though you can't see them, you can still target them inside the ship.  Then I would lay a trap down and tell my pet to attack the target.  Sure enough he would swim into the ship and I would wait for him to get attacked.  As soon as he did, I would switch my pet to passive so that he would break off the attack and start swimming back to me with at least 1 or 2 nasties hot on his tail.  As soon as I could see a target, I'd start hitting them with my arrows and when they got to me the trap would do a lot of damage and I would tell my pet to attack again and we'd kill them.  About every 3rd time or so of doing that I'd get about 4 or 5 on us and I'd die because it would take too long and my breath would run out or they're would just be too many of them.  Even if I swam to the surface and caught my breath, they would still usually kill me because there be 2 or 3 and once they killed my pet, I was easy prey.  So after about 3 deaths like this I finally had pretty much cleared the ship of all the baddies and swam in and looted and swam out unharmed.  Then I did it again on the other ship.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-05-12T14:57:23-05:00",
+   "body": "Future Patch 1.5 Changes (5/10/05)\n[quote]\nEveryone's favorite Alliance quest, \"Deep Ocean, Vast Sea\" now gives a substantial coin reward in addition to the choice of item.[/quote]\n\nThis could be an official acknowledgement that this quest is ridiculously difficult for its intended level.\n\nUnderwater quests are always difficult because of the breathing limitation, movement limitation and of course AI's non-Line-of-Sight aggro.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2026-10-03T21:36:04-05:00",
+   "body": "[s]The Mist Veil's Lockbox is currently bugged open as of this evening (10/03/26), and cannot be looted.[/s] Fixed as of 10/05/26.",
+   "replies": [
+    "Working again now on Oct 5, 2026."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-08T01:04:12-06:00",
+   "body": "Easiest way to do this is to bring a group or:\n\nDie at the first box. Respawn, loot, swim out (alive).\n\nKill the guard at the second box, die. Respawn, loot, try swim out, but you'll probably die again due to aggro trough the walls.\n\nBut you completed it anyway. Yes, the graveyard is very close.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2004-12-11T15:28:15-06:00",
+   "body": "You can't do this at lvl 14, I died right in front of the chest, I tried to resurrect my body, but it doesn't let me, So I have to talk to Tyrael's sister.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-11T23:34:05-06:00",
+   "body": "I was able to do this as a rogue alright. Just stealth, swim in the back port hole and go straight for the lockbox. \n\nUnlock as FAST as possible before you're interrupted by the murlocs. Then swim out as fast as possible. Buff as necessary. Make sure to have a health potion (not to mention burst of speed and improved dodge skills) ready for your escape.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-14T13:07:11-06:00",
+   "body": "Im a level 15 druid, i did this at lvl 14 though.  found out a little glitch that works to your advantage, \nas you know from reading, both boxes are in the stern of each boat.\nwhat i did was come in from the stern side on both, i swam up to the ship.  \n\nOn the 1st ship i had to kill 2 murlocs, and the got as close as i could to the back of the ship to where the silver cog turned gold and i was able to open the box without ever seeing it or entering the ship\n\ndid the same thing on the second ship but only faced one murloc and obtained the box\n\nthe trick is that you find it from the seaside with your mouse and swim right up to the back of the ships easy as 123...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-01T02:42:06-06:00",
+   "body": "Did this at lv 14 rogue. Pretty easy, died 3 times",
+   "replies": [
+    "Ditto, I only had to kill one murloc on the southern most ship. Druid in waterf orm can get to the stern of the ship and like the above poster said, loot through the hull. "
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-17T21:43:11-05:00",
+   "body": "Want advice? Don't even bother.\n\nThe things can see u thto the wood panels and the y can even travel thro them (bit of a glitch there), very annoying wen they do it runnin away.\n\nI do have a tactic tho. Go with a very large group and bomb ur way in and find the box. Die, then respawn rite at the box all at the same time and jst simply slaughter them! DO this for both boxes.\n\nWait til ur lvl 17 as well (the quest level) - but still required a few ppl in a grp and then u do stand a bttr chance.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-04T17:04:14-06:00",
+   "body": "Did anyone else catch that this is the name of a Peter Murphy song?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-04T02:58:48-06:00",
+   "body": "Each time I did this a 40+ guy helped me.\n\nI died more from getting stuck in the ship window things and drowning. :/ Breathing potions would have really helped.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-25T16:16:43-05:00",
+   "body": "I think some runs at this are easier than others depending on how recently someone else has cleared out the murlocs.\n\nAnyway, after several solo tries on the 2nd ship, I paired up and we each took a term as sacrificial lamb, drawing the murlocs to the frnont of the ship while the other player unlocked the box.  So that's another option.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-07T08:01:19-05:00",
+   "body": "It was a little bit harder.  Make sure you kill all the ones underneath the boat.  Still able to kill 2 at a time and I did morph into bear form.  Make sure you go to the top and  you can regen faster (eating food/drinking) because you can sit out of the water on the sail mast.  Good luck",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-29T14:26:58-06:00",
+   "body": "For me this was truly the most annoying quest I've done so far. \n\nI've completed the quest using a lvl 15 hunter. It took me at least 6 or 7 lives to do it, here's why. \n\nI had no problem locating the chest on the outside of the boat at the back. That was the easy part. Eliminating enemies around that area, also easy.\n\nAt the same time as I was doing the quest there was also like 3 other people doing it. \n\nI lost three lives on the first chest in this way:\nLife 1: Opening chest... bar is almost filled.... all of a sudden one of the people starts swimming from around the corner closely followed by about 2 thrashers and three of the little creatures. You would think that they would continue and follow that player? No. As soon as they saw me all of em turned on me.\n\nLife2: Swimming towards the chest, same player as before starts swimming towards me, dragging 2 thrashers and 2 creatures. Dead again...\n\nLife3: Getting very suspicious now. I've inspected the area, and it looks clear. I get to the bottom almost to the chest and two other players swim by me... you know what follows. This time though I sent my cat to distract the creatures. It worked well(he has roar), for about 10 seconds, and as Im getting away I get ambushed by 1 creature and the rest catch up....\n\nNext time I did it problem free.\n\nSecond chest\n\nI died at least 4 times. I died atleast twice because of this girl who kept getting in the way and asking me what I'm doing, and the first time as I started typing I was ambushed. Second time she kept jumping in front of me so I couldn't target the chest to open. \n\nThen I teamed up with someone who was also doing the quest. Bad idea. This guy not only did not know how to steer properly underwater he did not follow directions. First thing I said to him, don't go inside the boat, first thing he did is go inside and pull all the creatures out and swam towards me. He swam a bit faster than me so he survived an extra 5 seconds. Eventually I abandoned the idea of \"teamwork\" and completed this on my own...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-27T21:30:47-05:00",
+   "body": "extremely easy, just killed two murlocs, one at each ship.  Went to Stern on the OUTSIDE, and got close enough to loot through the wall...easy easy easy",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-31T02:14:43-05:00",
+   "body": "Heh I did this at lvl 12 on my night elf druid, solo as well, I died inside the ship, then resurrected near the chest, and if one of the monsters spotted me I'd kill it then open chest, then run out with about 5 of them on me and I would die, then resurrect then run away again, did that method for both ships =)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-16T11:22:14-05:00",
+   "body": "co-ordinates are correct.. i had to bring in backup for this one , as a lvl\n18 NE rogue.. murlocs kept running away to get their friends before i could \nstun them.. they also somehow detected me in stealth, before i could sap them\nMake sure you get water breathing potions or get a water breathing spell.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-23T21:57:50-06:00",
+   "body": "For those of you Hunters that has a pet, use Eyes of the Beast to control your pet into swimming.\nWith your pet in control, lure the murlocs out of their territory and kill them at the surface.\n\nWhen you go swim down for the treasure, distract one murloc with your pet as you open the chests.\n\nGood luck.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-23T14:40:38-05:00",
+   "body": "Hehe solot it at 14 with my human mage:D just 3 dies 1 to search for the boxes and 2 for frost nova and taking it",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-23T21:18:39-06:00",
+   "body": "Did this as a lvl 15 druid.  \n\nI pulled the mobs in pairs and swam out to the shore \n to avoid agroing more than 2 at the time. When that didn't work i died.  \n\nI also cleared the mobs around the ship and didnt loot em to avoid the respwans coming up sooner than needed.\n\nI died twice and completed the quest in approx 15-20 mins.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-12T09:50:49-05:00",
+   "body": "This is definately the most annoying quest so far! I tried to do it like 7 times with a friend and my pet and we all died every time. I got the first box very easily but the second one is a true pain in the ass. Gave up, 'cause the price really isn't that good. Thank god the graveyard isn't so far away :D",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-15T01:14:10-06:00",
+   "body": "I managed to do this using the ghost trick, because even a full group of level 18s that I had with me couldn't do it the legit way. All the pulling and buffing in the world wasn't helping much. Either they need to raise the level listed for this quest (so that people try it at a more appropriate level), label it as elite (which admittedly is probably a bit excessive), lower the number of murlocs in the area, or give you a better reward for it. Neither the experience nor the item is worth the hassle of this quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-06T08:02:36-06:00",
+   "body": "After you die just wisp around to find the box and plan your strategy.  Usually there is one way in where you won't pick up any trouble on the way in.  Then take the same way out.  I did it solo in about 10 minutes but that was about my 10th try.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-15T19:29:22-05:00",
+   "body": "38,29 (First ship)\n39,26 (Second ship)\n\nI just stealthed and swam through the window on both....no problems whatsoever.  Don't know why you Rogues are having problems, it's not that hard to stealth :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-08T21:59:30-05:00",
+   "body": "Coordinates please?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-06T22:11:58-06:00",
+   "body": "As of 2.01, you can no longer get it from outside of ship. Seems to be fewer murlocs too, but maybe it's just that I'm a rogue this time and avoided all but the nearest to each box. Use a water breathing potion or have a friendly warlock cast a spell and save yourself some grief. Also pick up Buzzbox 411 as the Threshers and box are here as well.",
+   "replies": [
+    "This is actually doable solo now.  My 20 hunter had to kill 1-2 murlocks outside each ship and 2 inside before getting the chests.  No more getting swarmed by 3-4 coming in through the floor/ceiling/walls.  Reward's still kinda lame, but no longer ridiculously so for the difficulty."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-02T08:34:02-05:00",
+   "body": "Okay, for myself this was quite an easy quest, along for my parents who did this quest only minutes before me on a completely different server 3 & 4 levels ahead of me.\n\nI was playing my level 17 druid, Florelline (as seen in my signature at the moment) on the Greymane server during Oceanic high times on a Saturday, there was NO ONE around mainly due to it being 4am EDT... anyways, I took Aquatic Form, swam downward past a thresher (without aggroing), found the chest, and then swam back up to re-calculate.\n\nThe next box I did was the Silver Dawning's, little tougher, but I took out the level 14 Thresher and then turned to fight the level 14 Murloc guarding the box area, both boxes are in roughly the same area on each boat ( maybe designed by the same person? xD ), and after I had the murloc taken care of, I did NOT loot him ( case he would spawn back quickly ). I slowly swam over to the box, shifted back to normal form and got it without aggroing one inside the boat... now all I suggest is, if you cannot use an item even if it is able to be worn, get the higher one that you most likely cannot wear ( me and mail ) if anything, it sells for more than the lower armored one! \n\nI don't get why some of you had so much trouble though, maybe you people rushed, I will not make solid assumtions, but if you take this slowly, you can do it with any class.\n\n[teal]Cords or Both Boats/Boxes (approx.)\n\n(Stern of Silver Dawning): 38,29\n(Stern of Mist's Veil): 39,27[/teal]\n\nNow, GO GET THOSE BOXES YOU ALLIANCE PEOPLE! ;D",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-30T13:47:22-06:00",
+   "body": "Found my tactick to. . .I used stealth to swif in the boat to the rear. . .I did go as far as i could into the corner and than opened it. . . same at the other boat.\n\n[i][small]Edited, Nov 30th 2006 10:51am by ecrofnomed[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-12T03:09:50-05:00",
+   "body": "I would like to finish this quest, but!  I cannot see under water for some reason.  Could anyone help me?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-08T07:46:56-05:00",
+   "body": "I managed to do this quest on my 13 Druid, wasn't easy.  I died once at the ship to the south and scouted for the box as a wisp.  Then I snuck in through the front and avoided contact on the way out.\n\nThe second ship was much harder, I died at least 5 times there.  I spent almost 8 silver in repairs for broken equipment, so you can basically look at this quest as giving you --\n\n1 Useless peice of equipment and 10 silver.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-17T07:17:34-06:00",
+   "body": "Are these sea creatures supposed to be this bright or is my video card screwed up?  My biggest problem with this quest is I can't see anythind due to how bright the Greymist Runners are.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-01T01:52:14-06:00",
+   "body": "Ok, well, I avoided this quest because of the comments concerning its difficulty, especially given the fact that a lvl 23 druid got his \"ass handed to him\" but I was bored, so I just had a crack at it now as a lvl 20 druid and took me less than 5mins and died only once.\n\nMy intention was to transform from seal to cat form near the ship and prowl past the mob. When I got inside the first ship there was someone else doing the quest, so i jumped into bear form and we got rid of the pretty quickly.\n\nGot killed by 6 of them on the way out though.\n\nSecond ship.. was in and out of there quick, prowled as a cat, nearly died again getting out.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-18T09:06:19-05:00",
+   "body": "Just did this quest fairly easily on a 15 rogue with waterbreathing potions. Died two times from not being stealthy enough. Murlocs suck.\n\nI think that someone is cruel and took whatever was in the box and left me a really lame Stock Shortsword (gray) just so I would kill all those murlocs for a whole 5s from vendoring that crappy thing.\n\nEither that, or Blizzard really does hate us.\n\nKind of ticked off from that either way.\n\n\nAlso I would like to add that you should be prepared for mild annoyance from the boat that you get Mist Veil's Lockbox from, as it sunk kind of sideways.\n\nThey're pretty much right next to each other too, northwest of Bashal'Aran.\n\nEdited, Thu Aug 18 05:21:13 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-07T07:51:35-05:00",
+   "body": "I have to say it wasn't that hard.  As a 15 Druid.  It just took patience.  I was afraid that by the time I got to the chest that the others would respawn.  I was wrong.  Pretty easy, just swim up and down many times.  Was able to kill 2 of them in one trip.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-04T22:35:49-06:00",
+   "body": "Did this as a Lvl 18 Druid. Use aquatic form to swim under water (no breathing worries). Go to the stern (back) of the boat closest to Auberdine's direction. Use your mouse to search the wall. Find chest. Return to humanoid form. Retrieve chest. Go back to aquatic form. Do the same thing on next boat. Took me all of 5 minutes no attacks.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-06T19:49:12-05:00",
+   "body": "Since nobody below has seen fit to post it, the LOC is:\n,\nSilver Dawning: 38,29\nMist Veil: 39,26",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-27T14:23:24-05:00",
+   "body": "Just finished this quest as a lvl 16 rogue. Never killed, and only had to face 2 murlocs. Stealth swam to the rear of the first boat. Swam straight down the back and opened the box from outside the boat (glitch as mentioned above). This broke my stealth but I only had to kill one murloc. Surfaced quickly unstealthed to catch my breath where I had to face another but no problem. Went back into stealth, swam to the next boat. Went straight down as before. Opened the box without being noticed after stealth was broken. Swam up half way to save air, re-stealthed, swam home safely.\n\nEasy 18s. For a rogue anyway. Rank 2 master of deception.\n\n-------------------------------\nFedardorn - lvl 16 NE Rogue",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-20T19:10:16-06:00",
+   "body": "after attempting this solo, in large and small groups, and now finally reading all this, I have no shame in deleting this quest from my book.  It is definitely not worth the trouble.  I have to agree with everyone here, the rewards are weak for the difficulty:  Most if not all folks have better gear at the level that you can realistically do this quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-28T15:05:29-06:00",
+   "body": "It is more than possible to solo this... you may die a couple times though and u have to be fast on getting back to your body. Although you also have to be a rogue to solo this one. I was a lvl 15 rogue when i solo'd it, then i came back and helped out some lvl 17 druid... if you're not a rogue u could probably solo at 18.. if u are you could solo with some diff at 15 =)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-05T15:34:00-05:00",
+   "body": "I solo'd it as a lvl16 druid.. died 3 times, but it wasn't impossible.",
+   "replies": [
+    "I got a quick question, Is the south ship south of Auberdine? I can't seem to find the Silver Dawning."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-06T17:40:49-06:00",
+   "body": "Unless you are gonna attack this quest in a group, dont waste your time.\n\nWhy should you not waste your time:\n\n#1-the item reward are common gloves and if you are a leather wearer, you cant even use it.\n\n#2-you do get 18s, but I spend over 2/3s of that amount repairing my equipment during and after this quest.\n\n#3-you do get IF rep, which is nice if you are a NE, but you can gain IF rep much easier then this.\n\n#4-it is not part of a chain\n\nAll-in-all, the risks far out way the rewards here.   Plus, if you are not a druid with aquatic form or have some means to breathe underwater, the quest is only more a pain in the ass.\n\nEdited, Mon Feb  6 11:52:37 2006",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-06T21:15:49-06:00",
+   "body": "thx for the coords!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-19T09:52:17-05:00",
+   "body": "About soloing the quest; the trick that many don't know or forget about can be very well applied here: if you can reach opening distance within an object's range you can click on it no problem, it matter not that something is between you and the object.\nIn this case, swim to the [i]back[/i] side of the ships where only 1 or two murlocs are lurking and open both chests from the outside. Being on the other side you should avoid aggro range from the mobs inside the ship's hull as well.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-25T16:16:48-05:00",
+   "body": "I think some runs at this are easier than others depending on how recently someone else has cleared out the murlocs.\n\nAnyway, after several solo tries on the 2nd ship, I paired up and we each took a term as sacrificial lamb, drawing the murlocs to the frnont of the ship while the other player unlocked the box.  So that's another option.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-28T05:38:27-05:00",
+   "body": "one technique for those who's gonna do this the first time- \nget as far and deep of the ship as u can.. when u die look for the chest while ur a wisp or a spirit or whatever.. when u find the chest... resurect right in front of it.but before u do that be sure that there aint no bastrd creature lurking around the chest. open it then leave. look for the nearest whole u can go thru. just get out of the ship asap. do the same on the other ship. if u are level 14 or something it is pretty hard. i solo'd it at 15.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-20T18:16:46-05:00",
+   "body": "did it as a 15 druid, pecie of cake, died twice",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-01T18:06:22-06:00",
+   "body": "I'll agree with everyone.  This quest is ridonculous D:<  I've been trying to do this as a level 17 Druid and I keep getting raped by these stupid murloc things that are comin' at me from right and left and through the walls.  So far, I've gotten one box but I can't seem to get the second because I'm too busy croaking somewhere off in the ocean instead.\n\nBut anyway... Here are the cords : )\n\nMist's Veil: 39,29\nSilver Dawning: 38,29",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-13T15:38:59-06:00",
+   "body": "I decided to kill everything for the XP which at level 18 was no big deal. But it would not have mattered much at 17 or 16. Take Aquatic form. Swim in range. Become human (thorns on ofcourse). Moonfire, wrath,wrath,moonfire, mace til dead. Become aquatic. Regain breath. Loot. Repeat until clear. Loot chest. \n\nNo mass mobs anymore. Easy to solo. Take your time and watch your pulls. \n\nIf there was a weapons crate I was unable to find it but someone may well have beaten me to it. Crap for a reward but decent XP at 1250.\n-Sudorin lvl 18 druid",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-23T17:23:30-06:00",
+   "body": "THIS is what I get for this mad crazy hard quest? Some crappy gloves I'm gonna sue",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-08T02:50:37-05:00",
+   "body": "I'm a lvl 16 druid.  Charged in 4 lvl16 priests and failed! This quest is so freakin hard!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-06T11:38:08-06:00",
+   "body": "This quest is probably one of the most frustrating in that the ships are pure deathtraps by way of design, not so much enemy power.  The first ship isn't so bad, as the enemy spawn points are fairly spread out, but the second one, the spawn points seem to be on top of each other, and there are quite a few seers in there that will heal themselves and their buddies, which means if you link two of those guys, you might as well just die without a fight, as you won't be able to outdamage them (assuming you're figthing in the 15ish range, where this quest cons yellow).\n\nWorst of all, the enemies aggro through the ship walls, so don't expect the walls to help you.  They also link through walls, can go through walls, and there are quite a few blind spots where you can't nail them with spells, but nothing else changes.\n\n(in the end, I actually opened the second box because of a glitch, the enemies just sat staring at me but couldn't attack me, even though I was in perfect view. Ironic considering glitches such as x-ray vision on the mobs are what killed me half the time)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-07T08:07:25-05:00",
+   "body": "after BC came out and everything... back wall glitch still works... honestly just do that.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-02T00:28:36-06:00",
+   "body": "I managed to finish this quest by the ghost form trick listed above. Takes all of five minutes and as long as you keep an eye on the spawns you don't need someone to distract them.\n\nBut just for fun, I tried it \"legit\" as a level 22 Druid, and got my ass handed to me again. I've seen whole groups of level 18's get wiped out. Definitely not a level 14 quest and should be tweaked.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-24T23:35:27-06:00",
+   "body": "Well I just maid the pull and would like to tell you how I did it eventually, after dying a few times. As a Whisp go and have a look where the Boxes are located, so you know where to go.\n\nQuite easy this way...\n\nNorth Boat... I was killed near the back of the boat. so near to the boat, so I could respawn inside of the it, right next to the box. After waiting for the mobs to be aray far enough, I respawned, opened the box and could make a run for it.\n\nSouth Boat... Use an openig on the top rear of the Boat.. go in and 1 mob well have to be klled if at all. Then open the box and make a run for it..\n\nEdited, Thu Mar 24 17:41:25 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-08T19:08:56-05:00",
+   "body": "Soloed it with a lvl 25 paladin - no problems no fights",
+   "replies": [
+    "you can't \"solo\" if you do it with someone else... you \"duo'd\" it with a paladin",
+    "Or, he soloed it \"as\" a paladin. Or, with *his* paladin. Either way."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-26T10:29:44-05:00",
+   "body": "I really must tell you the post from \"ottfire\" was really the best. First swim\nto the back of the ship, with the mouse search the wall, get as close as you can\nand then loot it. Very easy, success.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-15T16:02:06-05:00",
+   "body": "On both of these I found a way in via a lower rear window and was able to avoid any conflict. Chests are in the lower back of each ship. Did this on my alt not to long ago.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-05T18:53:32-06:00",
+   "body": "Can you open the lockbox's themselves? Is anything inside? Or are they unopenable?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-05T18:53:03-05:00",
+   "body": "I tried to find the boxes from the outside but failed. As I remember they fixed so it can't be done any longer.\r\nWould be nice to know if any one have done it so in modern time.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-10-14T10:14:48-05:00",
+   "body": "Nobody mention that there are two ships right next to each other. So lockboxes are on different ships.",
+   "replies": [
+    "Boxofbeer mentions it below, with really-good coords."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-12T15:36:54-06:00",
+   "body": "I strongly recommend you have an aquatic form for this quest. If you do not have an aquatic form, then at least group up.  I attempted this with groups several times, without success.  I eventually did it solo, but only with aquatic form.\r\n\r\nRegardless of which lockbox you attempt first, you will have to enter the ship to open it.  I couldn't open the lockboxes from the outside.\r\n\r\n1st Lockbox - Ship closest to Auberdine.  Enter through a hole in the north side of the ship.  The lockbox will be to your right on the same level.\r\n\r\n2nd Lockbox - Ship on it's side.  Enter from the top level and fight your way down.  Murlocs are everywhere, and you will have to kill all of them as you.  This is not an easy swim, even with aquatic form.  You will have to go to the very bottom of the ship to find the lockbox.  By the time you make your way to the bottom, the Murlocs will most likely be back.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-22T01:27:14-05:00",
+   "body": "For me, the boxes were near the aft (rear) of the ships. Come in about center of the back side of the ship. You should be able to locate the boxes from outside.",
+   "replies": [
+    "I can confirm the boxes were both in 'openable' objects in the aft (rear) of the hold (lowest level) of the ships, which is great because the main deck is a nightmare to maneuver around in with limited breath."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2026-10-03T13:17:45-05:00",
+   "body": "The Lockboxes can no longer be looted from the outside (through the stern) of the ships.",
+   "replies": [
+    "This is still working via the \"Interact with Target\" keybind in Options from outside both ships."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-15T02:20:05-06:00",
+   "body": "I wish this post could be further up!\n\nEDIT: Oh! He he. It is at the top!\n\nI don't get what all this fuzz is about!\n\nThis quest is EXTREMELY easy. At least for a level 13 druid, which I was at the moment.\n\nI shapeshifted to feral form, swimmed down to the stern of the ship, killed the murloc, then went back up for air. Then I shifted back to normal form, swam down to the chest and opened it. I did the excactly same thing at the second ship.\n\nSo, come-on guys! You were above level 20 and could not complete it? Perhaps I was lucky or the the quest difficulty have been altered. I don't know. But that does not change that this is one of the EASIEST quest around. Stop whining, use your brains instead!\n\n[i][small]Edited, Jan 15th 2007  5:13am by lakersforce[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-03-02T22:01:01-06:00",
+   "body": "Just did this quest.  Went to the back of each ship and was able to get both chests from OUTSIDE the ship.\n\nMist's Veil: 39,29 \nSilver Dawning: 38,29",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-04-07T11:49:54-05:00",
+   "body": "this back wall thing is genius. i just did this easily with a 15 hunter, and only had to kill 2 murlocks. go to the bottom back side of the ship, and feel around for the golden gear, done, and done. yes it is that easy",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-15T22:43:07-06:00",
+   "body": "Soloed this one as a level 15 Priest. Only had to kill one Seer at each ship and was able to obtain the quest items without even entering the ship itself. At the very rear of each ship there is a spot that allows you to get them through the hull from the outside. Quite easy this way. I didn't die once.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-03-03T12:31:22-06:00",
+   "body": "This was supposed to be hard\n\n[i][small]Edited, Mar 14th 2007  1:44am by Fartspray[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2019-09-28T04:37:49-05:00",
+   "body": "Soloed it on my L35 mage everything was grey.\r\nreward was crap.",
+   "replies": []
+  },
+  {
+   "rating": -8,
+   "date": "2005-06-24T02:43:26-05:00",
+   "body": "I died about 10 times trying to do this quest and no I am not exagerating lol  VERY NASTY quest. Died so many times that all my armor went red :(",
+   "replies": []
+  }
+ ]
+}

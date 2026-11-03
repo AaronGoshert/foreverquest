@@ -1,0 +1,367 @@
+{
+ "id": 94489,
+ "name": "The Wounds of Betrayal",
+ "level": 12,
+ "reqlevel": 8,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 910,
+ "start": {
+  "type": "npc",
+  "id": 257944,
+  "name": "Elegael Thornpaw",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    61.6,
+    39.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 257944,
+  "name": "Elegael Thornpaw",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    61.6,
+    39.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Enter the Nightfang Den and heal 7 druids and find Jorel Windsinger in Shadowgale Forest.   Injured Druids healed  (7)   Injured Druid  ( 1 )   Telenos Leafwhisper  ( 1 )   Neyasteel Mossmender  ( 1 )   Mithraless Sterngale  ( 1 )   Naaleos Leafwhisper  ( 1 )   Nayeela Snarlfang  ( 1 )   Bryaes Galechaser  ( 1 )   Baeo Sharpstrike  ( 1 )  ( 1 )   Find Jorel Windsinger  ( 1 )   Naaleos Leafwhisper slain  ( 1 )   Telenos Leafwhisper slain  ( 1 )   Nayeela Snarlfang slain  ( 1 )   Neyasteel Mossmender slain  ( 1 )   Bryaes Galechaser slain  ( 1 )   Mithraless Sterngale slain  ( 1 )   Baeo Sharpst",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 258130,
+   "name": "Jorel Windsinger",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 257964,
+   "name": "Injured Druid",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 258137,
+   "name": "Telenos Leafwhisper",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 258275,
+   "name": "Neyasteel Mossmender",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 258288,
+   "name": "Mithraless Sterngale",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 258134,
+   "name": "Naaleos Leafwhisper",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 258138,
+   "name": "Nayeela Snarlfang",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 258277,
+   "name": "Bryaes Galechaser",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 258289,
+   "name": "Baeo Sharpstrike",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Injured Druids healed  (7)   Injured Druid",
+   "count": 1,
+   "type": "npc",
+   "id": 257964
+  },
+  {
+   "text": "Telenos Leafwhisper",
+   "count": 1,
+   "type": "npc",
+   "id": 258137
+  },
+  {
+   "text": "Neyasteel Mossmender",
+   "count": 1,
+   "type": "npc",
+   "id": 258275
+  },
+  {
+   "text": "Mithraless Sterngale",
+   "count": 1,
+   "type": "npc",
+   "id": 258288
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 257944,
+   "name": "Elegael Thornpaw",
+   "coord": [
+    61.6,
+    39.2
+   ],
+   "coords": [
+    [
+     61.6,
+     39.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 257944,
+   "name": "Elegael Thornpaw",
+   "coord": [
+    61.6,
+    39.2
+   ],
+   "coords": [
+    [
+     61.6,
+     39.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 258130,
+   "name": "Jorel Windsinger",
+   "coord": [
+    64.4,
+    34.6
+   ],
+   "coords": [
+    [
+     64.4,
+     34.4
+    ],
+    [
+     64.4,
+     34.6
+    ],
+    [
+     64.6,
+     34.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 258134,
+   "name": "Naaleos Leafwhisper",
+   "coord": [
+    64.8,
+    34.8
+   ],
+   "coords": [
+    [
+     64.8,
+     34.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 258137,
+   "name": "Telenos Leafwhisper",
+   "coord": [
+    64.6,
+    35
+   ],
+   "coords": [
+    [
+     64.6,
+     35
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 258138,
+   "name": "Nayeela Snarlfang",
+   "coord": [
+    64.4,
+    34.8
+   ],
+   "coords": [
+    [
+     64.4,
+     34.8
+    ],
+    [
+     64.6,
+     34.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 258275,
+   "name": "Neyasteel Mossmender",
+   "coord": [
+    64,
+    32
+   ],
+   "coords": [
+    [
+     64,
+     32
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 258277,
+   "name": "Bryaes Galechaser",
+   "coord": [
+    64.4,
+    31.8
+   ],
+   "coords": [
+    [
+     64.4,
+     31.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 258288,
+   "name": "Mithraless Sterngale",
+   "coord": [
+    65.8,
+    32.8
+   ],
+   "coords": [
+    [
+     65.8,
+     32.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 258289,
+   "name": "Baeo Sharpstrike",
+   "coord": [
+    65.8,
+    33.4
+   ],
+   "coords": [
+    [
+     65.8,
+     33.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 13,
+   "date": "2026-09-25T03:48:20-05:00",
+   "body": "The quests bugs out if you click the wounded when out of range, so make sure you are right next to them when you click",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2026-09-21T07:48:01-05:00",
+   "body": "Could only heal 6 out of 7 druids. Can't find the 7th anywhere",
+   "replies": [
+    "I was stuck at 6/7 as well. I ended up abandoning the quest and picking it up again. Made sure i was close to the druids when right clicking them and didnt spam rightclick. Got 7/7 this time and turned the Quest in.",
+    "If you’re in a party to save time, one of you can abandon the quest, the other can share it, then the second person can abandon it and the first person can share it again."
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2026-09-23T07:51:47-05:00",
+   "body": "I was unsure if I needed some sort of ointment in my bag to heal the druids but all you have to do is enter the den/cave, find all 7 druids that turn your cursor into a \"hand\" when you mouse over, then click the druid and they get \"healed\". No enemies to fight, very easy quest.\r\n\r\nQuest worked for me, I could heal all 7 druids.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2026-09-22T21:48:16-05:00",
+   "body": "In the new hotfix as of 9/22 its now bugged at 0/7 :'(",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2026-09-22T12:04:14-05:00",
+   "body": "Quest seems to be bugged still, can only heal 6/7",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-27T14:51:49-05:00",
+   "body": "For anyone wondering, the quest will error out if you click a Druid from too far away. Go right next to them, click them, and move on. If you get stuck at 6/7, abandon the quest and it will allow you to click everyone again. Have fun!",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,323 @@
+{
+ "id": 98283,
+ "name": "Carnage",
+ "level": 30,
+ "reqlevel": 22,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3050,
+ "start": {
+  "type": "npc",
+  "id": 1244,
+  "name": "Rethiel the Greenwarden",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    56.2,
+    40.4
+   ],
+   [
+    56.2,
+    40.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1244,
+  "name": "Rethiel the Greenwarden",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    56.2,
+    40.4
+   ],
+   [
+    56.2,
+    40.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Bring Carnage's Head to Rethiel the Greenwarden in The Green Belt. Malignant Rotclaw Flesh  ( 1 ) Carnage's Head  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 280330,
+   "name": "Carnage's Head",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 280331,
+   "name": "Malignant Rotclaw Flesh",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Malignant Rotclaw Flesh",
+   "count": 1,
+   "type": "item",
+   "id": 280331
+  },
+  {
+   "text": "Carnage's Head",
+   "count": 1,
+   "type": "item",
+   "id": 280330
+  }
+ ],
+ "series": [
+  463,
+  276,
+  277,
+  275,
+  98283
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 1244,
+   "name": "Rethiel the Greenwarden",
+   "coord": [
+    56.2,
+    40.4
+   ],
+   "coords": [
+    [
+     56.2,
+     40.4
+    ],
+    [
+     56.2,
+     40.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 1244,
+   "name": "Rethiel the Greenwarden",
+   "coord": [
+    56.2,
+    40.4
+   ],
+   "coords": [
+    [
+     56.2,
+     40.4
+    ],
+    [
+     56.2,
+     40.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 271334,
+   "name": "Maddened Rotclaw",
+   "coord": [
+    60.6,
+    36.4
+   ],
+   "coords": [
+    [
+     56,
+     25.3
+    ],
+    [
+     56.6,
+     43.8
+    ],
+    [
+     57,
+     43.2
+    ],
+    [
+     57.3,
+     28.9
+    ],
+    [
+     59.2,
+     27.9
+    ],
+    [
+     59.4,
+     31.6
+    ],
+    [
+     59.8,
+     34.2
+    ],
+    [
+     59.9,
+     26.4
+    ],
+    [
+     59.9,
+     27.5
+    ],
+    [
+     59.9,
+     37.3
+    ],
+    [
+     59.9,
+     38.4
+    ],
+    [
+     59.9,
+     38.9
+    ],
+    [
+     59.9,
+     39.9
+    ],
+    [
+     60.2,
+     27.1
+    ],
+    [
+     60.4,
+     29.4
+    ],
+    [
+     60.4,
+     29.5
+    ],
+    [
+     60.4,
+     33
+    ],
+    [
+     60.5,
+     33.3
+    ],
+    [
+     60.6,
+     36.4
+    ],
+    [
+     60.8,
+     36.6
+    ],
+    [
+     61.1,
+     31.4
+    ],
+    [
+     61.4,
+     31.8
+    ],
+    [
+     61.6,
+     40
+    ],
+    [
+     61.8,
+     30.8
+    ],
+    [
+     62.2,
+     35.4
+    ],
+    [
+     62.3,
+     31.9
+    ],
+    [
+     62.4,
+     40.7
+    ],
+    [
+     63.8,
+     49.1
+    ],
+    [
+     64.8,
+     39
+    ],
+    [
+     64.8,
+     41
+    ],
+    [
+     68.2,
+     44.1
+    ],
+    [
+     68.6,
+     44.2
+    ],
+    [
+     69.1,
+     50
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 271336,
+   "name": "Carnage",
+   "coord": [
+    69,
+    28.3
+   ],
+   "coords": [
+    [
+     69,
+     28.3
+    ],
+    [
+     69,
+     28.8
+    ],
+    [
+     69.8,
+     29
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-04T14:25:19-05:00",
+   "body": "Entrance to the cave is at 69.5, 34.7",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-05T18:41:22-05:00",
+   "body": "For this quest you must complete the following:\r\n\r\n1) Kill [url=https://www.wowhead.com/forever/npc=271334/maddened-rotclaw]Maddened Rotclaw[/url] until they drop the [url=https://www.wowhead.com/forever/item=280331/malignant-rotclaw-flesh]Malignant Rotclaw Flesh[/url]\r\n2) Place the [url=https://www.wowhead.com/forever/item=280331/malignant-rotclaw-flesh]Malignant Rotclaw Flesh[/url] at the cave located at 69.5, 34.7\r\n3) Kill [url=https://www.wowhead.com/forever/npc=271336]Carnage[/url] to acquire [url=https://www.wowhead.com/forever/item=280330/carnages-head]Carnage's Head[/url]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-10T17:13:01-05:00",
+   "body": "The drop rate on this is abysmal... they need to fix this asap. I've killed at least 20 bears now. No drop.",
+   "replies": []
+  }
+ ]
+}

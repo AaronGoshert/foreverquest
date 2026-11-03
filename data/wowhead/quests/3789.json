@@ -1,0 +1,160 @@
+{
+ "id": 3789,
+ "name": "Assisting Arch Druid Staghelm",
+ "level": 50,
+ "reqlevel": 47,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 470,
+ "start": {
+  "type": "npc",
+  "id": 6740,
+  "name": "Innkeeper Allison",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    52.4,
+    65.6
+   ],
+   [
+    52.6,
+    65.6
+   ],
+   [
+    52.8,
+    65.4
+   ],
+   [
+    60.4,
+    75.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3516,
+  "name": "Arch Druid Fandral Staghelm",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    34.4,
+    8.4
+   ],
+   [
+    34.4,
+    8.6
+   ],
+   [
+    34.6,
+    8.4
+   ],
+   [
+    34.8,
+    8.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Speak with Arch Druid Fandral Staghelm in Darnassus.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3516,
+   "name": "Arch Druid Fandral Staghelm",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  3763,
+  3764
+ ],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 6740,
+   "name": "Innkeeper Allison",
+   "coord": [
+    52.6,
+    65.6
+   ],
+   "coords": [
+    [
+     52.4,
+     65.6
+    ],
+    [
+     52.6,
+     65.6
+    ],
+    [
+     52.8,
+     65.4
+    ],
+    [
+     60.4,
+     75.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 3516,
+   "name": "Arch Druid Fandral Staghelm",
+   "coord": [
+    34.8,
+    8.8
+   ],
+   "coords": [
+    [
+     34.4,
+     8.4
+    ],
+    [
+     34.4,
+     8.6
+    ],
+    [
+     34.6,
+     8.4
+    ],
+    [
+     34.8,
+     8.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 18,
+   "date": "2005-12-31T09:11:10-06:00",
+   "body": "Quest lead to: Un'Goro Soil",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2007-03-15T21:34:52-05:00",
+   "body": "cords 34,11 in darn.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-04-09T11:53:26-05:00",
+   "body": "34, 9 At the top of the cetner tower in the Cenarion Enclave",
+   "replies": []
+  }
+ ]
+}

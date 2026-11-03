@@ -1,0 +1,152 @@
+{
+ "id": 94638,
+ "name": "Strength and Mercy",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 3,
+ "zoneId": -263,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 840,
+ "start": {
+  "type": "npc",
+  "id": 255853,
+  "name": "Urs'endris",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    69.8,
+    61.4
+   ],
+   [
+    69.8,
+    61.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 255853,
+  "name": "Urs'endris",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    69.8,
+    61.4
+   ],
+   [
+    69.8,
+    61.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Find and kill Ur'endra in the Shen'dar Highlands.   Ur'endra slain  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 258443,
+   "name": "Ur'endra",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Ur'endra slain",
+   "count": 1,
+   "type": "npc",
+   "id": 258443
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 255853,
+   "name": "Urs'endris",
+   "coord": [
+    69.8,
+    61.6
+   ],
+   "coords": [
+    [
+     69.8,
+     61.4
+    ],
+    [
+     69.8,
+     61.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 255853,
+   "name": "Urs'endris",
+   "coord": [
+    69.8,
+    61.6
+   ],
+   "coords": [
+    [
+     69.8,
+     61.4
+    ],
+    [
+     69.8,
+     61.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 258443,
+   "name": "Ur'endra",
+   "coord": [
+    54,
+    65.4
+   ],
+   "coords": [
+    [
+     53.4,
+     64.8
+    ],
+    [
+     54,
+     65.4
+    ],
+    [
+     54.2,
+     65.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 9,
+   "date": "2026-09-22T04:45:10-05:00",
+   "body": "Had a bit of trouble to find it myself as I was looking for it next to the foggy cave but instead it's on the upper mountainface. So, from Valanaar take the path west instead of north.\r\n\r\nWhat I recommend is you take this quest [quest=92840] and complete it at the same time as its on the way. From there, you can cross the river via the wooden log bridge and Ur'Endra is right in the cave at the edge of the cliff.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-01T12:47:37-05:00",
+   "body": "Accessed from the north/upper side of the cliff at an unmarked cave. Not at the nearby entrance at the bottom of the cliffs. Coords are 53.7, 65.1",
+   "replies": []
+  }
+ ]
+}

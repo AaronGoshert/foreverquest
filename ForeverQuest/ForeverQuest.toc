@@ -1,0 +1,66 @@
+## Interface: 16001
+## Title: ForeverQuest
+## Notes: Completionist questing guides for WoW Forever (fork of RestedXP Guides)
+## Author: ForeverQuest contributors; based on RestedXP Guides by RestedXP (CC BY-NC-SA 4.0)
+## Version: 0.1.0
+## Category: Quests
+## Category-deDE: Quests
+## Category-esES: Misiones
+## Category-esMX: Misiones
+## Category-frFR: Quêtes
+## Category-itIT: Missioni
+## Category-koKR: 퀘스트
+## Category-ptBR: Missões
+## Category-ruRU: Задания
+## Category-zhCN: 任务
+## Category-zhTW: 任務
+## OptionalDeps: Questie, RXPGuides_Themes
+## SavedVariables: RXPData, RXPDB, RXPSettings, RXPString
+## SavedVariablesPerCharacter: RXPCData, RXPCTrackingData, RXPCComms, RXPCSettings
+
+libs\embeds_Mainline.xml [AllowLoadGameType standard,camelot]
+locale\locales.xml
+UI\includes.xml
+
+Conflict.lua
+Locale.lua
+Themes.lua
+Communications.lua
+RXPGuides.lua
+GuideWindow.lua
+Help.lua
+SettingsPanel.lua
+
+DB/forever.xml [AllowLoadGameType camelot]
+
+HSBatching.lua
+QuestLog.lua
+ActiveItemFrame.lua
+LevelingTracker.lua
+Timers.lua
+Targeting.lua
+Tips.lua
+InventoryManager.lua
+
+map.lua
+functions.lua
+GuideLoader.lua
+
+Guides/GuideList-forever.xml [AllowLoadGameType camelot]
+
+lang/Guides-zhCN/GuideList-forever.xml [AllowLoadGameType camelot]
+
+lang/Guides-deDE/GuideList-forever.xml [AllowLoadGameType camelot]
+
+lang/Guides-esES/GuideList-forever.xml [AllowLoadGameType camelot]
+
+lang/Guides-frFR/GuideList-forever.xml [AllowLoadGameType camelot]
+
+lang/Guides-ptBR/GuideList-forever.xml [AllowLoadGameType camelot]
+
+Talents.lua [AllowLoadGameType cata,vanilla,camelot,tbc]
+Guides/Talents/classic.xml [AllowLoadGameType vanilla,camelot]
+
+ItemUpgrades.lua [AllowLoadGameType tbc,vanilla,camelot,cata]
+
+CptStadicsVendorTreasures.lua [AllowLoadGameType vanilla,camelot,tbc,wrath]

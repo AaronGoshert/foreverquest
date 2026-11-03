@@ -1,0 +1,349 @@
+{
+ "id": 895,
+ "name": "WANTED: Baron Longshore",
+ "level": 16,
+ "reqlevel": 11,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1150,
+ "start": {
+  "type": "object",
+  "id": 3972,
+  "name": "WANTED",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62.6,
+    37.5
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3391,
+  "name": "Gazlowe",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62.6,
+    36.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring the head of Baron Longshore to Gazlowe in Ratchet. Baron Longshore's Head  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3391,
+   "name": "Gazlowe",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5084,
+   "name": "Baron Longshore's Head",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Baron Longshore's Head",
+   "count": 1,
+   "type": "item",
+   "id": 5084
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 2,
+   "id": 3972,
+   "name": "WANTED",
+   "coord": [
+    62.6,
+    37.5
+   ],
+   "coords": [
+    [
+     62.6,
+     37.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 3391,
+   "name": "Gazlowe",
+   "coord": [
+    62.6,
+    36.2
+   ],
+   "coords": [
+    [
+     62.6,
+     36.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 3467,
+   "name": "Baron Longshore",
+   "coord": [
+    62.6,
+    49.8
+   ],
+   "coords": [
+    [
+     62.4,
+     49.4
+    ],
+    [
+     62.4,
+     50
+    ],
+    [
+     62.6,
+     49.8
+    ],
+    [
+     63.4,
+     49.2
+    ],
+    [
+     63.6,
+     48
+    ],
+    [
+     63.6,
+     49
+    ],
+    [
+     64.2,
+     47.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 61,
+   "date": "2005-09-28T06:07:44-05:00",
+   "body": "He can be in front of any of the three camps running along the shore.&nbsp; He respawns within 2 minutes once he's killed so keep an eye out for him.",
+   "replies": []
+  },
+  {
+   "rating": 24,
+   "date": "2006-03-29T18:07:44-06:00",
+   "body": "He must randomly spawn at the different tents in the area so if you don't see him straight away make sure you check all the tents in teh area..for me he was at the far south pair of tents.\n\nFor those who need co-ordinates it was 63,49 on this occasion.",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2005-09-28T06:07:44-05:00",
+   "body": "64, 47",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2007-02-04T14:44:00-06:00",
+   "body": "Solod as a level 13 mage with only minor difficulty.  Might be hard as other classes until level 14 or 15.  He was located at 64, 47 near a tent.  Human wearing a red long-coat.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2019-09-02T17:34:13-05:00",
+   "body": "Quest giver is a poster, located to the left of the bank NPCs. Has no exclamation point but will give the quest when you interact with it.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-09-28T06:07:44-05:00",
+   "body": "RESPAWN AT 64,47 !",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-11-03T18:07:44-06:00",
+   "body": "Lvl 15 warrior soloed this no probs.\nWatched him die at 64,47 then killed him when he respawned at 63,49.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-09-28T06:07:44-05:00",
+   "body": "He Is In Coordenade 62,49",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2019-06-06T21:34:26-05:00",
+   "body": "As of 06/06/2019, Wowhead incorrectly labels this quest as Horde: It is in fact doable by both Alliance and Horde.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2020-02-09T10:41:49-06:00",
+   "body": "OK, so here is the deal.  This mob is always up somewhere, but he has three different spawn points.  He will either be in front of the tents at roughly 64,47 or he will be in front of one of the two sets of tents further south from there.  He does *not* spawn in front of the two sets of tents furthest north (those two closest to Ratchet).  Therefore, once he dies, he immediately respawns at one of the other two possible locations.  Just go through these three locations and you should find him.  He stands out due to his red coat.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-28T06:07:44-05:00",
+   "body": "The right loc is /mntloc 63,48",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-28T06:07:44-05:00",
+   "body": "Found him at 63.49.\n\nHe's by the camp with 2 tents",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-02-21T06:07:44-06:00",
+   "body": "All I did was go s from Captain Thalo'thas Brightsun, followed the path (along the coastline) and found the captain at 2 tents after the ships. I did the Stolen Booty quest at the same time, and the captain resetted to another camp when I was killing its inhabitants.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-10T18:07:44-05:00",
+   "body": "he does randomly spawn at the camps allong the mountains",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-22T18:07:44-05:00",
+   "body": "[b]64,47[/b]&nbsp; [b]In the Barrens[/b]\n\nI did this solo at lvl 15 w/ a hunter.\n\nBarron is lvl 16 and the mobs around him at the camp site are 13-15.&nbsp; Not hard, good luck.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-21T06:07:44-06:00",
+   "body": "I found him at 62,49",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-02T21:08:32-05:00",
+   "body": "I just completed it.  He does look like Captain Morgan.  If you go to the Rachet, there is a set of building on the southern side that have a walkway in front of them and a railing on the other (it is set higher up on the hillside.  Follow this path past the buildings and continue south (along the shoreline) there is a path .  This is between the hill and the water.  I found him next to the 3rd set of tents.\n\nEdited, Thu Jun  2 17:11:06 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-03T08:34:49-05:00",
+   "body": "took him down for the fun of it when i was clearing the pirates.\n\ncheapskate only drops copper...before and after the quest",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-23T07:30:31-06:00",
+   "body": "Easily soloable after level 17 or so.  I've found Baron Longshore in a bunch of different places, but generally he's at the last camp before Northwatch Hold.  Easy to spot - red jacket, black hat.  Almost exactly like Captain Morgan, as another poster mentioned.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-20T22:08:51-06:00",
+   "body": "got him at 62, 50",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-30T13:02:09-06:00",
+   "body": "One of the easiest quest mobs there is, just solo'd as a 13 mage. Move round the back of the tent, and nuke the cannoneer. Pull him with a fireball, nova him and the add, sheem the add and then spam your fastest spell (to make up for resits), preferably frostbolt  (faster + slow). Kite him back a bit, running sideways to through in fireblast, and then finish him with wand. I was oom and low on health at this point so I ran after looting ^^",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-22T15:20:39-06:00",
+   "body": "Where is this guy because I have no idea where he might be besides on the shoreline by Ratchet",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-09T04:45:57-05:00",
+   "body": "Just did this with a baby alt, so it's fresh in mind :)\n\n\nGazlowe's Coords are: 63,36 (north Ratchet)\n\nXP: 1150\n+250 rep with Ratchet",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-31T23:11:35-05:00",
+   "body": "Baron Longshore can be found at 64,47",
+   "replies": [
+    "My character is a troll with level 17, I found the mission in the poster in the city, got the head of the pirate and when went buck for the bounty, found out that the little guy I have to talk to doesn't want to talk to me. He has an orange/yellow circle, and instead of a hand a sword appears when pointing at him. What can I do?",
+    "You have your reputation with Ratchet (his faction) set to at war in the Reputation tab.  Unclick it and you can talk to him."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-28T16:57:39-05:00",
+   "body": "He is by a tent by that pirateship",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-03T08:34:48-05:00",
+   "body": "took him down for the fun of it when i was clearing the pirates.\n\ncheapskate only drops copper...before and after the quest",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-27T02:33:43-06:00",
+   "body": "Do this quest and the Guns of NorthWatch together...the barron is on the way. Easily soloed. Just take your time.\nBTW can u go into the pirate ship?",
+   "replies": [
+    "Yeah you can, part of it is kinda touching shore and you crawl in on that. As a quest for rogue you have to go on it.."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-04T23:24:27-06:00",
+   "body": "Where does this quest begin?",
+   "replies": [
+    "The sign is on same building as the Bank in Rachet.",
+    "My character is a troll with level 17, I found the mission in the poster in the city, got the head of the pirate and when went buck for the bounty, found out that the little guy I have to talk to doesn't want to talk to me. He has an orange/yellow circle, and instead of a hand a sword appears when pointing at him. What can I do?"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-30T11:27:27-05:00",
+   "body": "My character is a troll with level 17, I found the mission in the poster in the city, got the head of the pirate and when went buck for the bounty, found out that the little guy I have to talk to doesn't want to talk to me. He has an orange/yellow circle, and instead of a hand a sword appears when pointing at him. What can I do?",
+   "replies": [
+    "Well the sword means you can attack it.  Which means either you are at war with that faction. I would think at least."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-30T23:20:06-06:00",
+   "body": "Just completed this one with a lv 12 undead lock.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-13T17:45:42-05:00",
+   "body": "co-ords for baron are 63.39 theres a little beach/cove thing, hes by the camp N\\W of it.",
+   "replies": []
+  },
+  {
+   "rating": -13,
+   "date": "2004-12-01T01:10:20-06:00",
+   "body": "Did this one today and was a bit quick due to some other people clearing out the junk mobs.  When I finally located Baron Longshore I had to laugh.  He looks like a Captain Morgan.  All he needed to do was to raise one knee up in the air.  Anynow, he's located on the merchant coast in one the the camp areas.  I killed him once then on the way back to Ratchet he spawned at another camp.  He got owned by my bear. \n\nMy result:\nYou gain 1150 experience.\nYour reputation with Ratchet has increased.\nReceived 8 Silver",
+   "replies": []
+  }
+ ]
+}

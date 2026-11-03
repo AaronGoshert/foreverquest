@@ -1,0 +1,280 @@
+{
+ "id": 1483,
+ "name": "Ziz Fizziks",
+ "level": 21,
+ "reqlevel": 16,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 415,
+ "start": {
+  "type": "npc",
+  "id": 3442,
+  "name": "Sputtervalve",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    63,
+    37.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4201,
+  "name": "Ziz Fizziks",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59,
+    62.4
+   ],
+   [
+    59,
+    62.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Speak with Ziz Fizziks in Windshear Crag.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 4201,
+   "name": "Ziz Fizziks",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  1483,
+  1093,
+  1094,
+  1095,
+  1096
+ ],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 3442,
+   "name": "Sputtervalve",
+   "coord": [
+    63,
+    37.2
+   ],
+   "coords": [
+    [
+     63,
+     37.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 4201,
+   "name": "Ziz Fizziks",
+   "coord": [
+    59,
+    62.4
+   ],
+   "coords": [
+    [
+     59,
+     62.4
+    ],
+    [
+     59,
+     62.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 23,
+   "date": "2005-10-13T09:04:12-05:00",
+   "body": "At 58,62 myself. :-)",
+   "replies": [
+    "Comfirming 58,62 aswell\n(door to tent is 59, 62)",
+    "Not knowing anything about this stuff, and picking up the quest in The Barrens, i assumed this was in The Barrens, its not. Stonetalen Mountains.",
+    "Ditto. Ended up South of the Hold getting slaughtered by Murlocs (God. I HATE Murlocs!)"
+   ]
+  },
+  {
+   "rating": 15,
+   "date": "2005-10-13T09:04:12-05:00",
+   "body": "confirming 58,62",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-08-01T09:04:12-05:00",
+   "body": "Windshear Crag is definitely in the Stonetalon Mountains. The coordinates for Ziz Fizziks are 59,63 in a little hut out in the middle of nowhere.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-10-13T09:04:12-05:00",
+   "body": "He's in a little green hut at 58 62\n\ndirectly south west of the talondeep path.\n\nwhen you enter the area you'll see spiders cross the river avoiding the goblins and human logger ect you'll see some trees and more spiders.\n\nhead towards the dotted line/path on the map.\n\nhe'll give you the next quest to kill operators",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-13T21:04:12-05:00",
+   "body": "steps 3-5 of this quest are WRONG. The entire quest is obtainable at level 16 (at least).\nThis is good news to all the twinks out there.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-06-06T21:27:17-05:00",
+   "body": "This quest chain can be done by Alliance characters too.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-18T21:04:12-06:00",
+   "body": "For those of us who do not use Cosmos, as you enter Windshear Crag stay to the left. You will come to a very small house containing Ziz Fizziks. He gives you the next quest--obtaining blueprints for Super Reaper 6000.",
+   "replies": [
+    "Why not?\n\nEasy to use and install and makes everything a lot easier. Cosmos is overrated, but something like titan bar has pvp info,gold and exp/hour info etc etc etc all in a hideable bar at the top of your screen as well as co-ords. Don't know how to find it? Do the same thing as with anything else your searching for, simply go to Google, and type in \"Wow titan bar download\" and youll see a bunch of links with the file as well as instructions for the 2 min(or less) install."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-25T09:04:12-06:00",
+   "body": "u take the first left in stonelatin the left takes u to the spider trail and keep going and u will find a house (a average small house) that will have a goblin zen fizzit (he wont help u fight so dont go to him if u got a tribe of spiders chasing after you)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-08T09:04:12-06:00",
+   "body": "i use cosmos. I input those $(*@&# coords... and it takes me south of Northwatch Hold... into a swamp where i get demolished...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-08T09:04:12-06:00",
+   "body": "LOL ziz fizziks = this physics lol",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-20T09:04:12-05:00",
+   "body": "I did the exact same thing...being in the barrens and going to those coords and getting totally and completely owned by those spiders and raptors...Noobs (which i am so dont take offense) open your map, look to the LEFT side. it will say STONETALON MOUNTAINS...thats where you go.&nbsp; when you get to the mountains open your map again and you will see that it has changed. THEN go to the coords.&nbsp; Avoid Bluefen at all costs...lol",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-12T10:00:36-05:00",
+   "body": "59,62\n\nStay on the path, yes.  If you go to the river, you've massively overshot it.  On the map, the path with Y, the right-side, or NE-bound, path leads to Windshear.  The hut is just about equal to where the Winshear-bound path fetters out.\n\nAs a druid, I cat-form / prowled to the hut.",
+   "replies": [
+    "What zone is the Co-ors 58-62?"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-16T11:01:42-06:00",
+   "body": "just go to that area and if you cant find it like i did just die \nand the cemetary is right besides that ziz fizz",
+   "replies": [
+    "What zone is 58-62 in?"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-07T17:26:24-06:00",
+   "body": "Take the road west from Ratchet all the way through the barrens and in to the Stonetalon Mountains.  Keep following it until the fork in the road and go right.  He is in a hut on the left.  Cords below are correct; 58,62",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-02T01:16:29-05:00",
+   "body": "yeah I basically skimmed this quest and ended up on the other side of windshear crag XD a real pain in the ass seeing how there were mobs EVERYWHERE.  had to fight my way back after i found out he was right by the entrance.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-25T10:13:51-05:00",
+   "body": "Not to be confused with the gnome found at coords 59, 67.  Incedently if you go there first, you can then drop over the small cliff right to the guy's house without having to fight the spiders along the path.  However, you won't be able to climb back up. ha ha!\n\n\n\nEdited, Sat Jun 25 06:30:19 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-13T08:58:46-06:00",
+   "body": "id say wait until level twenty four before going into windshear crag.... as soon as u hit windshear crag, make a left. He will be right there. Good luck and have fun!",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-13T09:04:12-05:00",
+   "body": "can u please just give some direction to where its at? i cant find it",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-11-18T21:04:12-06:00",
+   "body": "how stealthy can 1 thing be!",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-08-01T09:04:12-05:00",
+   "body": "Where is the quest giver? i am an alli warlock looking to pick the chain up for a decent twink item",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-05-19T17:01:50-05:00",
+   "body": "is there a link to a map with the coordinates? i can't seem to find one.........i don't want to buy the friggin atlas.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-03-07T10:38:16-06:00",
+   "body": "58 62",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-07T01:32:58-06:00",
+   "body": "Is this in The Barrens or somewhere else?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-10-29T18:40:06-06:00",
+   "body": "Go in to [npc=4201] and u can see a map :P",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-08-07T23:55:40-05:00",
+   "body": "where is windshear crag",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2007-03-25T21:25:01-05:00",
+   "body": "Found Ziz Fizziks at 59,62.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2004-12-01T04:08:38-06:00",
+   "body": "Easy to get here if you STAY on the path.  As you enter Windshear Crag you should see a hut on your left. You might need to fight your way to the hut. Go inside and you'll find Ziz.  He'll give you another quest, Super Reaper 6000\n\nMy result:\nExperience Gained 420",
+   "replies": [
+    "I noticed this last post was from 2004.  I, for the life of me, can not find windshear or coor 58-62 (this leads off a cliff to duskhollow).  I must be missing something.",
+    "It's in Stonetalon Mountains right before you turn left to goto Sun Rock Retreat."
+   ]
+  }
+ ]
+}

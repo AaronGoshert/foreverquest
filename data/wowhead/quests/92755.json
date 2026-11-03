@@ -1,0 +1,75 @@
+{
+ "id": 92755,
+ "name": "Mysterious Mysticism",
+ "level": 35,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2050,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 253096,
+  "name": "Halea",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    35.4,
+    92
+   ],
+   [
+    35.6,
+    92.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Maintain your reputation with the Gelkis, and bring 3 Greater Mystic Essences to Halea in the Gelkis Village in Desolace . Greater Mystic Essence  ( 3 )   Gelkis Clan Centaur  ( Friendly )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11135,
+   "name": "Greater Mystic Essences",
+   "count": 3,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Greater Mystic Essence",
+   "count": 3,
+   "type": "item",
+   "id": 11135
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 253096,
+   "name": "Halea",
+   "coord": [
+    35.4,
+    92
+   ],
+   "coords": [
+    [
+     35.4,
+     92
+    ],
+    [
+     35.6,
+     92.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

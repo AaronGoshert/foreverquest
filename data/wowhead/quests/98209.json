@@ -1,0 +1,100 @@
+{
+ "id": 98209,
+ "name": "Bloom of the Heavens",
+ "level": 29,
+ "reqlevel": 22,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1200,
+ "start": {
+  "type": "npc",
+  "id": 270844,
+  "name": "Sylessa Duskwhisper",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    8,
+    55.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3649,
+  "name": "Thundris Windweaver",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    37.4,
+    40.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Bring Nord'el to Thundris Windweaver in Auberdine in Darkshore. You recall Sylessa mentioning a boat in Menethil Harbor can take you there. Nord'el (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 279924,
+   "name": "Nord'el",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  98208,
+  98209
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 270844,
+   "name": "Sylessa Duskwhisper",
+   "coord": [
+    8,
+    55.8
+   ],
+   "coords": [
+    [
+     8,
+     55.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 3649,
+   "name": "Thundris Windweaver",
+   "coord": [
+    37.4,
+    40.2
+   ],
+   "coords": [
+    [
+     37.4,
+     40.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-15T15:50:58-05:00",
+   "body": "Looking towards the dock from Menethil Harbor, [b]take the boat to your right[/b]. You may talk to [npc=12657] there to confirm where the boat will take you.\r\n\r\nSolid bit of XP from this quick quest chain--[i]especially if you do it en route to Blackfathom Deeps, requiring you to take the boat anyways[/i]... [b]3550[/b] total, and [b]+150[/b] Darnassus reputation.",
+   "replies": []
+  }
+ ]
+}

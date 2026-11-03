@@ -1,0 +1,205 @@
+{
+ "id": 97237,
+ "name": "Shelf Picked",
+ "level": 18,
+ "reqlevel": 13,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 680,
+ "start": {
+  "type": "npc",
+  "id": 2504,
+  "name": "Donyal Tovald",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    71.6,
+    7.4
+   ],
+   [
+    71.6,
+    7.6
+   ],
+   [
+    75.2,
+    30.2
+   ],
+   [
+    75.2,
+    30.6
+   ],
+   [
+    75.6,
+    29.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 268568,
+  "name": "Roy Lewells",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    38.4,
+    62
+   ],
+   [
+    38.6,
+    62
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Find each of the reading materials located somewhere in the library and then return to Roy Lewells in Stormwind's Park. Field Accounts of Horde Razings  ( 1 ) Trollbane Conquests  ( 1 ) The Forsaken Ally  ( 1 ) Cycles of Morality  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 268568,
+   "name": "Roy Lewells",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 277196,
+   "name": "Field Accounts of Horde Razings",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 277194,
+   "name": "Trollbane Conquests",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 277195,
+   "name": "The Forsaken Ally",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 277197,
+   "name": "Cycles of Morality",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Field Accounts of Horde Razings",
+   "count": 1,
+   "type": "item",
+   "id": 277196
+  },
+  {
+   "text": "Trollbane Conquests",
+   "count": 1,
+   "type": "item",
+   "id": 277194
+  },
+  {
+   "text": "The Forsaken Ally",
+   "count": 1,
+   "type": "item",
+   "id": 277195
+  },
+  {
+   "text": "Cycles of Morality",
+   "count": 1,
+   "type": "item",
+   "id": 277197
+  }
+ ],
+ "series": [
+  97234,
+  97237
+ ],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 2504,
+   "name": "Donyal Tovald",
+   "coord": [
+    71.6,
+    7.4
+   ],
+   "coords": [
+    [
+     71.6,
+     7.4
+    ],
+    [
+     71.6,
+     7.6
+    ],
+    [
+     75.2,
+     30.2
+    ],
+    [
+     75.2,
+     30.6
+    ],
+    [
+     75.6,
+     29.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 268568,
+   "name": "Roy Lewells",
+   "coord": [
+    38.6,
+    62
+   ],
+   "coords": [
+    [
+     38.4,
+     62
+    ],
+    [
+     38.6,
+     62
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 4,
+ "comments": [
+  {
+   "rating": 6,
+   "date": "2026-09-21T18:01:23-05:00",
+   "body": "[item=277196] scroll under first row of bookshelves on side of entrance \r\n[item=277194] green book on same row of bookshelves from side of entrance \r\n[item=277195] red book on second row of bookshelves on same side \r\n[item=277197] black book on table north corner",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-20T06:40:18-05:00",
+   "body": "I found [item=277196] under one of the bookshelves in the back row. [item=277197] is on the back table.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-06T20:01:09-05:00",
+   "body": "Can't select [li]The Forsaken Ally[/li] on gamepad will need to switch to mouse instead",
+   "replies": []
+  }
+ ]
+}

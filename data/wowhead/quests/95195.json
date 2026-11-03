@@ -1,0 +1,147 @@
+{
+ "id": 95195,
+ "name": "Bloodied Insignia",
+ "level": 22,
+ "reqlevel": 16,
+ "side": 1,
+ "zoneId": 16611,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2600,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 466,
+  "name": "General Marcus Jonathan",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    63.4,
+    75.8
+   ],
+   [
+    63.8,
+    75.4
+   ],
+   [
+    64,
+    75.6
+   ],
+   [
+    64.4,
+    74.4
+   ],
+   [
+    64.4,
+    77.4
+   ],
+   [
+    64.4,
+    77.6
+   ],
+   [
+    64.6,
+    74.8
+   ],
+   [
+    64.6,
+    77.6
+   ],
+   [
+    64.8,
+    77.2
+   ],
+   [
+    69,
+    82.8
+   ],
+   [
+    69.2,
+    82.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Collect 10 Bloodied Insignias and take them to General Marcus Jonathan in Stormwind City. Bloodied Insignia (Provided)  ( 10 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 268540,
+   "name": "Bloodied Insignias",
+   "count": 10,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 466,
+   "name": "General Marcus Jonathan",
+   "coord": [
+    63.8,
+    75.4
+   ],
+   "coords": [
+    [
+     63.4,
+     75.8
+    ],
+    [
+     63.8,
+     75.4
+    ],
+    [
+     64,
+     75.6
+    ],
+    [
+     64.4,
+     74.4
+    ],
+    [
+     64.4,
+     77.4
+    ],
+    [
+     64.4,
+     77.6
+    ],
+    [
+     64.6,
+     74.8
+    ],
+    [
+     64.6,
+     77.6
+    ],
+    [
+     64.8,
+     77.2
+    ],
+    [
+     69,
+     82.8
+    ],
+    [
+     69.2,
+     82.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-27T01:27:24-05:00",
+   "body": "The quest starts in the instance by looting one a quest starting item. then you have to loot 9 aditional of those insignias. there're dropped by the undead mobs and there more than enough for the hole group.",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "id": 91740,
+ "name": "Croaky's Head",
+ "level": 11,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 880,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 248277,
+  "name": "Merell Ross",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    84.4,
+    79.2
+   ],
+   [
+    84.6,
+    79.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Deliver Croaky's Head to Merell Ross at Ridgepoint Tower. Croaky's Head (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 247826,
+   "name": "Croaky's Head",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 248277,
+   "name": "Merell Ross",
+   "coord": [
+    84.6,
+    79.2
+   ],
+   "coords": [
+    [
+     84.4,
+     79.2
+    ],
+    [
+     84.6,
+     79.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-24T01:26:24-05:00",
+   "body": "This quest is started from the drop \"Croaky's Head\" from Croaky. He is a gold plate elite murloc at The Darkened Bank, you may encounter him at the southern most edge by the river while doing the quest called Downstream.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2026-09-21T10:53:35-05:00",
+   "body": "I dont think this quest exists in the beta. I found Merell Ross and she doesn't have a quest available.",
+   "replies": []
+  }
+ ]
+}

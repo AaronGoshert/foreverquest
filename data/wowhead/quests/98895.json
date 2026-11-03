@@ -1,0 +1,412 @@
+{
+ "id": 98895,
+ "name": "Darkspear Islands Clash",
+ "level": 39,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 16606,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1500,
+ "start": {
+  "type": "npc",
+  "id": 15351,
+  "name": "Alliance Brigadier General",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    39.2,
+    82.8
+   ],
+   [
+    39.4,
+    82.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 15351,
+  "name": "Alliance Brigadier General",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    39.2,
+    82.8
+   ],
+   [
+    39.4,
+    82.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Bring 3 Darkspear Islands Marks of Honor to an Alliance Brigadier General outside the battlegrounds. Darkspear Islands Mark of Honor  ( 3 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 15351,
+   "name": "Alliance Brigadier General",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 274895,
+   "name": "Darkspear Islands Mark of Honor",
+   "count": 3,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Darkspear Islands Mark of Honor",
+   "count": 3,
+   "type": "item",
+   "id": 274895
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 15351,
+   "name": "Alliance Brigadier General",
+   "coord": [
+    39.4,
+    82.2
+   ],
+   "coords": [
+    [
+     39.2,
+     82.8
+    ],
+    [
+     39.4,
+     82.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 15351,
+   "name": "Alliance Brigadier General",
+   "coord": [
+    39.4,
+    82.2
+   ],
+   "coords": [
+    [
+     39.2,
+     82.8
+    ],
+    [
+     39.4,
+     82.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "start",
+   "type": 1,
+   "id": 15351,
+   "name": "Alliance Brigadier General",
+   "coord": [
+    45.6,
+    45.8
+   ],
+   "coords": [
+    [
+     45.6,
+     45.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 1,
+   "id": 15351,
+   "name": "Alliance Brigadier General",
+   "coord": [
+    45.6,
+    45.8
+   ],
+   "coords": [
+    [
+     45.6,
+     45.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "start",
+   "type": 1,
+   "id": 15351,
+   "name": "Alliance Brigadier General",
+   "coord": [
+    61.8,
+    83.8
+   ],
+   "coords": [
+    [
+     61.8,
+     83.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 15351,
+   "name": "Alliance Brigadier General",
+   "coord": [
+    61.8,
+    83.8
+   ],
+   "coords": [
+    [
+     61.8,
+     83.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 15351,
+   "name": "Alliance Brigadier General",
+   "coord": [
+    79.4,
+    18
+   ],
+   "coords": [
+    [
+     79,
+     17.4
+    ],
+    [
+     79,
+     18.8
+    ],
+    [
+     79.4,
+     18
+    ],
+    [
+     79.6,
+     18
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 15351,
+   "name": "Alliance Brigadier General",
+   "coord": [
+    79.4,
+    18
+   ],
+   "coords": [
+    [
+     79,
+     17.4
+    ],
+    [
+     79,
+     18.8
+    ],
+    [
+     79.4,
+     18
+    ],
+    [
+     79.6,
+     18
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 15351,
+   "name": "Alliance Brigadier General",
+   "coord": [
+    69.8,
+    90
+   ],
+   "coords": [
+    [
+     69.2,
+     91.2
+    ],
+    [
+     69.4,
+     89.4
+    ],
+    [
+     69.4,
+     90
+    ],
+    [
+     69.6,
+     88.4
+    ],
+    [
+     69.8,
+     89.4
+    ],
+    [
+     69.8,
+     90
+    ],
+    [
+     69.8,
+     90.6
+    ],
+    [
+     70.6,
+     90.6
+    ],
+    [
+     70.8,
+     89.2
+    ],
+    [
+     70.8,
+     90.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 15351,
+   "name": "Alliance Brigadier General",
+   "coord": [
+    69.8,
+    90
+   ],
+   "coords": [
+    [
+     69.2,
+     91.2
+    ],
+    [
+     69.4,
+     89.4
+    ],
+    [
+     69.4,
+     90
+    ],
+    [
+     69.6,
+     88.4
+    ],
+    [
+     69.8,
+     89.4
+    ],
+    [
+     69.8,
+     90
+    ],
+    [
+     69.8,
+     90.6
+    ],
+    [
+     70.6,
+     90.6
+    ],
+    [
+     70.8,
+     89.2
+    ],
+    [
+     70.8,
+     90.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "start",
+   "type": 1,
+   "id": 15351,
+   "name": "Alliance Brigadier General",
+   "coord": [
+    58,
+    34.4
+   ],
+   "coords": [
+    [
+     57.4,
+     35.2
+    ],
+    [
+     58,
+     34.4
+    ],
+    [
+     58,
+     34.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 15351,
+   "name": "Alliance Brigadier General",
+   "coord": [
+    58,
+    34.4
+   ],
+   "coords": [
+    [
+     57.4,
+     35.2
+    ],
+    [
+     58,
+     34.4
+    ],
+    [
+     58,
+     34.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

@@ -1,0 +1,88 @@
+{
+ "id": 94229,
+ "name": "Craftsman's Writ: Ornate Spyglass",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 257282,
+  "name": "Alan Sneeks",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    30.4,
+    61.2
+   ],
+   [
+    30.6,
+    61
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Ornate Spyglass  ( 1 ) Ornate Spyglass  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264029,
+   "name": "Craftsman's Writ: Ornate Spyglass",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5507,
+   "name": "Ornate Spyglass",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Ornate Spyglass",
+   "count": 1,
+   "type": "item",
+   "id": 264029
+  },
+  {
+   "text": "Ornate Spyglass",
+   "count": 1,
+   "type": "item",
+   "id": 5507
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 257282,
+   "name": "Alan Sneeks",
+   "coord": [
+    30.6,
+    61
+   ],
+   "coords": [
+    [
+     30.4,
+     61.2
+    ],
+    [
+     30.6,
+     61
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

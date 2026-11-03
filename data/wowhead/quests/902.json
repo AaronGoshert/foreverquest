@@ -1,0 +1,188 @@
+{
+ "id": 902,
+ "name": "Samophlange",
+ "level": 16,
+ "reqlevel": 10,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1150,
+ "start": {
+  "type": "object",
+  "id": 4141,
+  "name": "Control Console",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    52.4,
+    11.7
+   ],
+   [
+    52.5,
+    11.7
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3442,
+  "name": "Sputtervalve",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    63,
+    37.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Return the Samophlange to Sputtervalve in Ratchet. Samophlange (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5054,
+   "name": "Samophlange",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  894,
+  900,
+  901,
+  902
+ ],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 2,
+   "id": 4141,
+   "name": "Control Console",
+   "coord": [
+    52.4,
+    11.7
+   ],
+   "coords": [
+    [
+     52.4,
+     11.7
+    ],
+    [
+     52.5,
+     11.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 3442,
+   "name": "Sputtervalve",
+   "coord": [
+    63,
+    37.2
+   ],
+   "coords": [
+    [
+     63,
+     37.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 96,
+   "date": "2006-04-05T17:44:35-05:00",
+   "body": "This quest is a bit complex to complete, and even with the information here, it took me a while to figure out.\n\nFirst, go to the Smokestack at about 53,10.&nbsp; This is NOT the larger apparatus which is a ways farther to the east, in the Sludge Fen.&nbsp; The Smokestack is a smaller installation, though it is also surrounded by a lot of guards, workers, peons, etc.&nbsp; It is just east of the road that leads north from Crossroads.&nbsp; It is a fair distance up the road, and sits up against a hill, on the south side of the hill.\n\nYou will need to kill about 20 guards on this one.&nbsp; They will probably regenerate before you are done.&nbsp; If there are any other people nearby, doing the same quest, you really should consider grouping with them.&nbsp; The grouping won't matter so much on the first tasks, but, unless you group, only ONE person will be able to get the key at the end (fron Tinkerer Sniggles) and you will need to wait for him (and the guards) to regenerate.\n\nOkay, here is the order of tasks:\n\n1.&nbsp; Kill enough guards to get to the control panel.&nbsp; It is is in the area in front of the smokestack (next to the smokestack, on the south side), under the canopy.\n\n2.&nbsp; Go the the control panel, to the left side, under the canopy.&nbsp; Stand next to it and right click.&nbsp; After it opens, click, \"Complete Task.\"\n\n3.&nbsp; Go turn off the 3 valves.&nbsp; One is on the protrusions from the east side of the smokestack.&nbsp; One is on the pipe that comes out of the ground behind, on the north side of the smokestack.&nbsp; One is on the west side of the smokestack, near the base.&nbsp; The order in which you do this is not important, except that it can only be completed AFTER you have opened the control panel the first time (above).\n\n4.&nbsp; Go back to the control panel again, and open it again.&nbsp; This is the second time.&nbsp; 'Complete' that task.\n\n5.&nbsp; Now, you need to go up the small hill to the east and kill Tinkerer Sniggles.&nbsp; If you are with a group, you MUST get grouped by this point, or only one of you will get the key.&nbsp; Tinkerer Sniggles is in the little house, up the hill.&nbsp; When he dies, you should find a key in his possestions.&nbsp; Take it.\n\n6.&nbsp; Final task.&nbsp; Go back down the hill and open the Control Panel one more time (the 3rd time).&nbsp; Complete that.&nbsp; \n\nNow take the Samophlange device to Sputtervalve in Ratchet.\n\nI hope this helps make the whole thing clear.",
+   "replies": [
+    "Thank you for the details kostren..I soloed this as a 16 mage. Just follow instructions above."
+   ]
+  },
+  {
+   "rating": 32,
+   "date": "2007-05-14T14:02:43-05:00",
+   "body": "For allys the quest chain ends here",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2007-05-07T15:54:08-05:00",
+   "body": "This quest opens up for https://www.wowhead.com/forever/quest=3921",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-07-24T05:44:35-05:00",
+   "body": "I'd just like to make it clear that the whole thing takes place in the little camp to the west of the main buildings and the key is obtained from the hut&nbsp; up the slope. Because I went to the main place and there are lots of valves there I was convinced something had to be done there. This is not the case. Sorry if this is blindingly obvious but I wasted ages on this annoying quest!",
+   "replies": [
+    "very fast respawn :S"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-05T05:44:35-05:00",
+   "body": "62,37",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-22T17:44:35-06:00",
+   "body": "I can't find the key at 62, 37? I'm looking all around that area in ratchet, but uh...\\\n\nEDIT: Damnit he's not in ratchet, he's up by the console.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-28T05:44:35-06:00",
+   "body": "The key isn't at Ratchet ^^ So ofc you can't find it there :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-28T05:44:35-06:00",
+   "body": "the key is at 53,10 inside the hut :) kill the lvl 16 guy, he drops it...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-28T18:57:40-06:00",
+   "body": "Sputtervalve is located in Ratchet at 62,37.  Ratchet is on the East coast of the Barrens.  \n\nThis is a simple milkrun, but it gives good XP, and the shield reward is awesome.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-27T23:57:34-05:00",
+   "body": "you get to choose between these Two Items as your reward----\n\n[url=/item=5325]Welding Shield[/url]\n\n[url=/item=5324]Engineer's Hammer[/url]\n\nEdited, Sat Aug 27 20:09:01 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-06-21T14:05:47-05:00",
+   "body": "This quest, like all of the other Samophlange quests leading up to it, can be done by both Alliance and Horde.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-09-15T02:41:54-05:00",
+   "body": "Finally the quest is over and I got myself a nice new shield for me shammy :D. Any who the quest guy is right next to the flight path in ratchet 62x,37y.\r\n\r\n-Kbizzle",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-10-31T11:04:22-06:00",
+   "body": "And what with the operating manual? Is it of any use later in the game ?",
+   "replies": [
+    "No, it's just flavor. Feel free to scrap it."
+   ]
+  }
+ ]
+}

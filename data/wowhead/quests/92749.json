@@ -1,0 +1,156 @@
+{
+ "id": 92749,
+ "name": "A Dynamite Plan",
+ "level": 16,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 580,
+ "start": {
+  "type": "npc",
+  "id": 11026,
+  "name": "Sprite Jumpsprocket",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    54.6,
+    8
+   ],
+   [
+    54.8,
+    8.8
+   ],
+   [
+    61.8,
+    30.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11026,
+  "name": "Sprite Jumpsprocket",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    54.6,
+    8
+   ],
+   [
+    54.8,
+    8.8
+   ],
+   [
+    61.8,
+    30.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Obtain 10 Rough Dynamite from crafting, trading, or the auction house, then return to Sprite Jumpsprocket in the Dwarven District of Stormwind. Rough Dynamite  ( 10 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 4358,
+   "name": "Rough Dynamite",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Rough Dynamite",
+   "count": 10,
+   "type": "item",
+   "id": 4358
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 11026,
+   "name": "Sprite Jumpsprocket",
+   "coord": [
+    54.6,
+    8
+   ],
+   "coords": [
+    [
+     54.6,
+     8
+    ],
+    [
+     54.8,
+     8.8
+    ],
+    [
+     61.8,
+     30.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 11026,
+   "name": "Sprite Jumpsprocket",
+   "coord": [
+    54.6,
+    8
+   ],
+   "coords": [
+    [
+     54.6,
+     8
+    ],
+    [
+     54.8,
+     8.8
+    ],
+    [
+     61.8,
+     30.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2026-10-02T01:48:38-05:00",
+   "body": "The quest now requires 10 Rough Dynamite as of Oct 1st Beta update.  Quest text still reads as 10 Coarse.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2026-10-02T21:17:02-05:00",
+   "body": "Note that with the October 1 beta update, this quest now requires Rough Dynamite, not Coarse Dynamite, and so the cost is much cheaper.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2026-09-29T15:50:17-05:00",
+   "body": "I don't think you need to do the dynamite part. I just noticed when that part of the chain came he already had Detonation at a Distance. So I think you can skip that part. Didn't realize it till I had already bought 10 dynamite :(",
+   "replies": [
+    "I was required to complete this to continue the chain as of the Oct 1st Beta update."
+   ]
+  },
+  {
+   "rating": -3,
+   "date": "2026-09-29T01:20:13-05:00",
+   "body": "Is this questline even worth it? Costs almost 1 gold to buy 10 Coarse Dynamite.",
+   "replies": []
+  }
+ ]
+}

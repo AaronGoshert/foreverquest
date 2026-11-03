@@ -1,0 +1,205 @@
+{
+ "id": 96394,
+ "name": "The Restless Dead",
+ "level": 15,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": 16919,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1050,
+ "start": {
+  "type": "npc",
+  "id": 264943,
+  "name": "Afadra Dunwall",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    32.8,
+    48.6
+   ],
+   [
+    33,
+    48
+   ],
+   [
+    33.2,
+    47.4
+   ],
+   [
+    33.6,
+    48
+   ],
+   [
+    33.6,
+    48.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 264943,
+  "name": "Afadra Dunwall",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    32.8,
+    48.6
+   ],
+   [
+    33,
+    48
+   ],
+   [
+    33.2,
+    47.4
+   ],
+   [
+    33.6,
+    48
+   ],
+   [
+    33.6,
+    48.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Kill 15 Enraged Apparitions , 10 Tormented Souls and put the spirit of Anvilmar to rest.   Enraged Apparition slain  ( 15 )   Tormented Soul slain  ( 10 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 263389,
+   "name": "Enraged Apparitions",
+   "count": 15,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 263390,
+   "name": "Tormented Soul",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Enraged Apparition slain",
+   "count": 15,
+   "type": "npc",
+   "id": 263389
+  },
+  {
+   "text": "Tormented Soul slain",
+   "count": 10,
+   "type": "npc",
+   "id": 263390
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 264943,
+   "name": "Afadra Dunwall",
+   "coord": [
+    33,
+    48
+   ],
+   "coords": [
+    [
+     32.8,
+     48.6
+    ],
+    [
+     33,
+     48
+    ],
+    [
+     33.2,
+     47.4
+    ],
+    [
+     33.6,
+     48
+    ],
+    [
+     33.6,
+     48.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 264943,
+   "name": "Afadra Dunwall",
+   "coord": [
+    33,
+    48
+   ],
+   "coords": [
+    [
+     32.8,
+     48.6
+    ],
+    [
+     33,
+     48
+    ],
+    [
+     33.2,
+     47.4
+    ],
+    [
+     33.6,
+     48
+    ],
+    [
+     33.6,
+     48.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16919,
+   "zone": "The Hall of Thanes",
+   "point": "requirement",
+   "type": 1,
+   "id": 263389,
+   "name": "Enraged Apparition",
+   "coord": [
+    ""
+   ],
+   "coords": []
+  },
+  {
+   "zoneId": 16919,
+   "zone": "The Hall of Thanes",
+   "point": "requirement",
+   "type": 1,
+   "id": 263390,
+   "name": "Tormented Soul",
+   "coord": [
+    ""
+   ],
+   "coords": []
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-25T09:34:02-05:00",
+   "body": "This quest can easily be completed within 1 run. You'll find [url=https://www.wowhead.com/forever/npc=264943/afadra-dunwall#map]Afandia[/url] by going to The High Seat (the king's room), and then immediately turning left to enter the newly added dungeon entrance area.\r\n\r\nThis quest's completion text also contains a typo as of now in the Beta: [i]Ah good, [b]its[/b] done then.[/i]; should be [i]it's[/i].",
+   "replies": []
+  }
+ ]
+}

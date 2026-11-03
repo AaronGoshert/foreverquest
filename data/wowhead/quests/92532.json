@@ -1,0 +1,105 @@
+{
+ "id": 92532,
+ "name": "The Warrior's Path",
+ "level": 2,
+ "reqlevel": 2,
+ "side": 3,
+ "zoneId": -81,
+ "reqclass": 1,
+ "status": "new",
+ "xp": 85,
+ "start": {
+  "type": "npc",
+  "id": 251361,
+  "name": "Rorian the Dayseeker",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    42,
+    23.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251964,
+  "name": "Blademaster Ren",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    43.4,
+    24.2
+   ],
+   [
+    43.6,
+    24.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Read the Crumpled Note you've been given, then seek out Blademaster Ren inside the Thendal Village watchtower. Crumpled Note (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 282419,
+   "name": "Crumpled Note",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 251361,
+   "name": "Rorian the Dayseeker",
+   "coord": [
+    42,
+    23.4
+   ],
+   "coords": [
+    [
+     42,
+     23.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251964,
+   "name": "Blademaster Ren",
+   "coord": [
+    43.6,
+    24.2
+   ],
+   "coords": [
+    [
+     43.4,
+     24.2
+    ],
+    [
+     43.6,
+     24.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-21T02:51:08-05:00",
+   "body": "Regular start zone warrior quest. \nDon't forget to train skills, you should be level 2 already. Remember to come and train each 2 levels for new skills.",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "id": 94467,
+ "name": "Call of Fire",
+ "level": 14,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 1250,
+ "start": {
+  "type": "npc",
+  "id": 257808,
+  "name": "Braldir Ashmantle",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    32,
+    66
+   ],
+   [
+    32.2,
+    65.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 61934,
+  "name": "Brazier of the Dormant Flame",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    31.9,
+    64.4
+   ],
+   [
+    31.9,
+    64.5
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Defeat the Minor Manifestation of Fire, and place the Glowing Ember in the brazier atop the Shrine of Eternal Flame. Torch of the Dormant Flame (Provided)  ( 1 ) Glowing Ember  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 6655,
+   "name": "Glowing Ember",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 6653,
+   "name": "Torch of the Dormant Flame",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Glowing Ember",
+   "count": 1,
+   "type": "item",
+   "id": 6655
+  }
+ ],
+ "series": [
+  94449,
+  94465,
+  94466,
+  94467,
+  94468
+ ],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 257808,
+   "name": "Braldir Ashmantle",
+   "coord": [
+    32,
+    66
+   ],
+   "coords": [
+    [
+     32,
+     66
+    ],
+    [
+     32.2,
+     65.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 2,
+   "id": 61934,
+   "name": "Brazier of the Dormant Flame",
+   "coord": [
+    31.9,
+    64.5
+   ],
+   "coords": [
+    [
+     31.9,
+     64.4
+    ],
+    [
+     31.9,
+     64.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 14,
+   "zone": "Durotar",
+   "point": "end",
+   "type": 2,
+   "id": 61934,
+   "name": "Brazier of the Dormant Flame",
+   "coord": [
+    38.9,
+    58.2
+   ],
+   "coords": [
+    [
+     38.9,
+     58.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-25T17:21:51-05:00",
+   "body": "Its up past the quest giver.  Use the glowing ember from your inventory.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-27T22:38:39-05:00",
+   "body": "Go further op the mountain, past the quest giver. Then use Fire Sapta in your inventory and kill the fire elemental and loot it. After that you can interact with the shrine and complete the quest.",
+   "replies": []
+  }
+ ]
+}

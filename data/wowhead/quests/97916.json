@@ -1,0 +1,105 @@
+{
+ "id": 97916,
+ "name": "Camping 101: Blacksmithing",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 263399,
+  "name": "Sam Sarsaparilla",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    44.8,
+    63.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 514,
+  "name": "Smith Argus",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    41.6,
+    65.4
+   ],
+   [
+    41.6,
+    65.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Speak with Smith Argus in Goldshire to learn to craft a camping item for your profession once you have shown proficiency in your skill.   Raise your blacksmithing skill to 20  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 514,
+   "name": "Smith Argus",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Raise your blacksmithing skill to 20",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 263399,
+   "name": "Sam Sarsaparilla",
+   "coord": [
+    44.8,
+    63.2
+   ],
+   "coords": [
+    [
+     44.8,
+     63.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 514,
+   "name": "Smith Argus",
+   "coord": [
+    41.6,
+    65.6
+   ],
+   "coords": [
+    [
+     41.6,
+     65.4
+    ],
+    [
+     41.6,
+     65.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

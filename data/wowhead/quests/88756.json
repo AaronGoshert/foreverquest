@@ -1,0 +1,104 @@
+{
+ "id": 88756,
+ "name": "Bring Back a Bang",
+ "level": 31,
+ "reqlevel": 25,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2500,
+ "start": {
+  "type": "npc",
+  "id": 1073,
+  "name": "Ashlan Stonesmirk",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    50,
+    18.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1073,
+  "name": "Ashlan Stonesmirk",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    50,
+    18.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Retrieve 3 Stolen Explosives from the Dark Iron Dwarf camps. Stolen Explosives  ( 3 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 280806,
+   "name": "Stolen Explosives",
+   "count": 3,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Stolen Explosives",
+   "count": 3,
+   "type": "item",
+   "id": 280806
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 1073,
+   "name": "Ashlan Stonesmirk",
+   "coord": [
+    50,
+    18.2
+   ],
+   "coords": [
+    [
+     50,
+     18.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 1073,
+   "name": "Ashlan Stonesmirk",
+   "coord": [
+    50,
+    18.2
+   ],
+   "coords": [
+    [
+     50,
+     18.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-06T17:23:14-05:00",
+   "body": "Small kegs in the [url=https://www.wowhead.com/forever/object=673206/stolen-explosives#map]elite dwarf camps[/url]. Not the easiest to see. They don't sparkle and it takes a couple of seconds to pick them up.",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "id": 93227,
+ "name": "Buying Friendship: Gelkis",
+ "level": 45,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 390,
+ "start": {
+  "type": "npc",
+  "id": 5396,
+  "name": "Captain Pentigast",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    66.4,
+    10.8
+   ],
+   [
+    66.6,
+    11
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253140,
+  "name": "Molkar",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    35.6,
+    92
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Bring the Totem Tote to the Gelkis Quartermaster at Gelkis Village in the Desolace to significantly increase your reputation with that clan. You must be of at least Neutral standing with the Gelkis Clan Centaur. Totem Tote (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 257685,
+   "name": "Totem Tote",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 5396,
+   "name": "Captain Pentigast",
+   "coord": [
+    66.6,
+    11
+   ],
+   "coords": [
+    [
+     66.4,
+     10.8
+    ],
+    [
+     66.6,
+     11
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 253140,
+   "name": "Molkar",
+   "coord": [
+    35.6,
+    92
+   ],
+   "coords": [
+    [
+     35.6,
+     92
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

@@ -1,0 +1,91 @@
+{
+ "id": 98423,
+ "name": "The Treaty of Understanding",
+ "level": 16,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1150,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 2784,
+  "name": "King Magni Bronzebeard",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    39.4,
+    55.4
+   ],
+   [
+    39.4,
+    55.8
+   ],
+   [
+    39.6,
+    55.6
+   ],
+   [
+    40,
+    55.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Deliver the Treaty of Understanding to Magni Bronzebeard in Ironforge. Treaty of Understanding (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 281030,
+   "name": "Treaty of Understanding",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 2784,
+   "name": "King Magni Bronzebeard",
+   "coord": [
+    39.4,
+    55.8
+   ],
+   "coords": [
+    [
+     39.4,
+     55.4
+    ],
+    [
+     39.4,
+     55.8
+    ],
+    [
+     39.6,
+     55.6
+    ],
+    [
+     40,
+     55.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-04T15:13:47-05:00",
+   "body": "According to a guide on here, you can find the item needed for this quest in \"The Hall of Thanes, Located in the Reliquary of Kings in a Vault\"",
+   "replies": []
+  }
+ ]
+}

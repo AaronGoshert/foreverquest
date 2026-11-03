@@ -1,0 +1,149 @@
+{
+ "id": 95065,
+ "name": "Fishin' Time",
+ "level": 12,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 680,
+ "start": {
+  "type": "npc",
+  "id": 267118,
+  "name": "Gilbert Gray",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    26.2,
+    47
+   ],
+   [
+    26.4,
+    47.6
+   ],
+   [
+    26.6,
+    47.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 267118,
+  "name": "Gilbert Gray",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    26.2,
+    47
+   ],
+   [
+    26.4,
+    47.6
+   ],
+   [
+    26.6,
+    47.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring 1 Shiny Bauble and 3 Nightcrawlers to Gilbert Gray at the harbor in Stormwind. Shiny Bauble  ( 1 ) Nightcrawlers  ( 3 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 6529,
+   "name": "Shiny Bauble",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 6530,
+   "name": "Nightcrawlers",
+   "count": 3,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Shiny Bauble",
+   "count": 1,
+   "type": "item",
+   "id": 6529
+  },
+  {
+   "text": "Nightcrawlers",
+   "count": 3,
+   "type": "item",
+   "id": 6530
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 267118,
+   "name": "Gilbert Gray",
+   "coord": [
+    26.2,
+    47
+   ],
+   "coords": [
+    [
+     26.2,
+     47
+    ],
+    [
+     26.4,
+     47.6
+    ],
+    [
+     26.6,
+     47.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 267118,
+   "name": "Gilbert Gray",
+   "coord": [
+    26.2,
+    47
+   ],
+   "coords": [
+    [
+     26.2,
+     47
+    ],
+    [
+     26.4,
+     47.6
+    ],
+    [
+     26.6,
+     47.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-25T21:43:29-05:00",
+   "body": "This is one of those quests you want to bring the items for beforehand, so you won't need to backtrack. The closest vendors are [npc=1286] and [npc=5494]. Catherine is even mentioned in the quest description!\r\n\r\nWhile you're in the docks, make sure to pick [quest=97220] [i](minimum level 9)[/i] up as well. It's a delivery quest to the Trade District, and you can pick the fishing lures from there as well.",
+   "replies": []
+  }
+ ]
+}

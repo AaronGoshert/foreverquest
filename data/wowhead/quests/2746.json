@@ -1,0 +1,791 @@
+{
+ "id": 2746,
+ "name": "Items of Some Consequence",
+ "level": 31,
+ "reqlevel": 16,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 630,
+ "start": {
+  "type": "npc",
+  "id": 7766,
+  "name": "Tyrion",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    68.4,
+    14.4
+   ],
+   [
+    68.4,
+    14.6
+   ],
+   [
+    69.2,
+    13.4
+   ],
+   [
+    69.2,
+    14.4
+   ],
+   [
+    69.2,
+    14.6
+   ],
+   [
+    73.2,
+    35.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7766,
+  "name": "Tyrion",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    68.4,
+    14.4
+   ],
+   [
+    68.4,
+    14.6
+   ],
+   [
+    69.2,
+    13.4
+   ],
+   [
+    69.2,
+    14.4
+   ],
+   [
+    69.2,
+    14.6
+   ],
+   [
+    73.2,
+    35.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 3 Silk Cloth and 2 of Clara's Fresh Apples to Tyrion in Stormwind. Silk Cloth  ( 3 ) Clara's Fresh Apple  ( 2 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 4306,
+   "name": "Silk Cloth",
+   "count": 3,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 8683,
+   "name": "Clara's Fresh Apple",
+   "count": 2,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Silk Cloth",
+   "count": 3,
+   "type": "item",
+   "id": 4306
+  },
+  {
+   "text": "Clara's Fresh Apple",
+   "count": 2,
+   "type": "item",
+   "id": 8683
+  }
+ ],
+ "series": [
+  373,
+  389,
+  391,
+  392,
+  393,
+  350,
+  2745,
+  2746
+ ],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 7766,
+   "name": "Tyrion",
+   "coord": [
+    69.2,
+    14.6
+   ],
+   "coords": [
+    [
+     68.4,
+     14.4
+    ],
+    [
+     68.4,
+     14.6
+    ],
+    [
+     69.2,
+     13.4
+    ],
+    [
+     69.2,
+     14.4
+    ],
+    [
+     69.2,
+     14.6
+    ],
+    [
+     73.2,
+     35.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 7766,
+   "name": "Tyrion",
+   "coord": [
+    69.2,
+    14.6
+   ],
+   "coords": [
+    [
+     68.4,
+     14.4
+    ],
+    [
+     68.4,
+     14.6
+    ],
+    [
+     69.2,
+     13.4
+    ],
+    [
+     69.2,
+     14.4
+    ],
+    [
+     69.2,
+     14.6
+    ],
+    [
+     73.2,
+     35.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1754,
+   "name": "Lord Gregor Lescovar",
+   "coord": [
+    68.4,
+    14.6
+   ],
+   "coords": [
+    [
+     68,
+     14.2
+    ],
+    [
+     68.4,
+     13.4
+    ],
+    [
+     68.4,
+     14.6
+    ],
+    [
+     68.6,
+     13.4
+    ],
+    [
+     68.6,
+     14.2
+    ],
+    [
+     68.6,
+     14.6
+    ],
+    [
+     68.8,
+     15.6
+    ],
+    [
+     72.2,
+     35.6
+    ],
+    [
+     72.3,
+     35.1
+    ],
+    [
+     72.8,
+     6.6
+    ],
+    [
+     73.2,
+     6.2
+    ],
+    [
+     73.6,
+     7
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1755,
+   "name": "Marzon the Silent Blade",
+   "coord": [
+    68,
+    14.2
+   ],
+   "coords": [
+    [
+     67.2,
+     14.8
+    ],
+    [
+     67.4,
+     14.4
+    ],
+    [
+     68,
+     13.4
+    ],
+    [
+     68,
+     14.2
+    ],
+    [
+     68.4,
+     14.6
+    ],
+    [
+     68.6,
+     13.2
+    ],
+    [
+     68.6,
+     14.8
+    ],
+    [
+     68.8,
+     15.6
+    ],
+    [
+     69,
+     14.4
+    ],
+    [
+     69.4,
+     12.4
+    ],
+    [
+     72.2,
+     35.2
+    ],
+    [
+     72.5,
+     35.8
+    ],
+    [
+     73,
+     36.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2044,
+   "name": "Forlorn Spirit",
+   "coord": [
+    29.6,
+    61.8
+   ],
+   "coords": [
+    [
+     29.4,
+     61.8
+    ],
+    [
+     29.4,
+     62.6
+    ],
+    [
+     29.6,
+     61.8
+    ],
+    [
+     29.6,
+     62.6
+    ],
+    [
+     30.2,
+     61.4
+    ],
+    [
+     30.6,
+     61
+    ],
+    [
+     31,
+     60.4
+    ],
+    [
+     42.4,
+     73
+    ],
+    [
+     42.5,
+     72.5
+    ],
+    [
+     42.6,
+     72.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 4969,
+   "name": "Old Town Thug",
+   "coord": [
+    70,
+    45
+   ],
+   "coords": [
+    [
+     61,
+     70.3
+    ],
+    [
+     64.4,
+     66.9
+    ],
+    [
+     64.7,
+     67.9
+    ],
+    [
+     64.9,
+     65.6
+    ],
+    [
+     64.9,
+     68.9
+    ],
+    [
+     65.3,
+     64.9
+    ],
+    [
+     69.4,
+     43.2
+    ],
+    [
+     69.4,
+     44.2
+    ],
+    [
+     69.4,
+     45
+    ],
+    [
+     69.8,
+     44.4
+    ],
+    [
+     69.8,
+     45.6
+    ],
+    [
+     70,
+     45
+    ],
+    [
+     70.6,
+     44.8
+    ],
+    [
+     73.3,
+     58.3
+    ],
+    [
+     73.4,
+     59.4
+    ],
+    [
+     73.6,
+     59.5
+    ],
+    [
+     73.8,
+     57.3
+    ],
+    [
+     73.8,
+     59.3
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 119,
+   "date": "2007-01-07T17:08:04-06:00",
+   "body": "I've always thought this was one of the funniest quests in the game.\r\n\r\nSpybot is going to be disguised as a woman, what could those 2x apples POSSIBLY represent??  =)",
+   "replies": [
+    "never thought of that be4 +gg+",
+    "I see what they're for now. Haha, nice one ^.^"
+   ]
+  },
+  {
+   "rating": 78,
+   "date": "2005-10-21T07:54:20-05:00",
+   "body": "hum... Clara grows great apples eh?&nbsp; then why is her garden full of cabages?",
+   "replies": []
+  },
+  {
+   "rating": 48,
+   "date": "2005-11-26T19:54:20-06:00",
+   "body": "[i]*Yawn*[/i] I cant beleive how some people keep asking the same question over and over again when it has been posted for a long time.\n\nClaras Apples: After Exiting Stormwind from enterance closest to Goldshire,&nbsp; you can see a little house with farm to the side of the house, walk inside and you will see a bowl of apples on the table. Grab the apples. - Complete.\n\nSilk Cloth: I got my silk cloth from Stockades, Considering its close to where the quest is to hand in and also because they drop quite commonly and all humanoids in the instance. After getting all the Silk cloth (3) You should have the requirements to hand in quest. - Complete.\n\nSimple?",
+   "replies": [
+    "I mind controlled the rogue first, but I didnt get credit for the kill....&nbsp; Priests, dont do it!"
+   ]
+  },
+  {
+   "rating": 34,
+   "date": "2007-03-16T07:54:20-05:00",
+   "body": "I can't believe no one has commented about the use of the apples.. you're totally using Clara's apples as boobs for the robot's disguise.\n\nLOL\n\nClara has nice apples indeed... Two hands full!",
+   "replies": []
+  },
+  {
+   "rating": 32,
+   "date": "2007-03-15T13:55:08-05:00",
+   "body": "He could've just used any kind of apples but nooo... he had to use the extra large ones.",
+   "replies": []
+  },
+  {
+   "rating": 32,
+   "date": "2004-12-20T13:16:13-06:00",
+   "body": "On the table in the building right outside the Stormwind gates.  South and slightly West..right off the road.",
+   "replies": []
+  },
+  {
+   "rating": 25,
+   "date": "2006-12-06T16:24:45-06:00",
+   "body": "Clara's house is just outside of Stormwind City to the South/slightly Southwest.  Her house has no decorations and is on the Stormwind side of the water that is around this area.  Once you're in her house, the apples are in a large bowl on the table.  Nothing happens when you take them.",
+   "replies": [
+    "The NPC's name is Clara Charles and her information can be found here: https://www.wowhead.com/forever/npc=5917"
+   ]
+  },
+  {
+   "rating": 25,
+   "date": "2007-02-22T07:04:58-06:00",
+   "body": "This quest leads to https://www.wowhead.com/forever/quest=434",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2005-11-26T19:54:20-06:00",
+   "body": "Easy. Just to the southwest of Stormwind. Coords 34,56 Elwynn Forest.",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2005-10-21T07:54:20-05:00",
+   "body": "This is NOT rocket science folks.&nbsp; Apples are on table in the farmhouse just outside city to the right.&nbsp; Have the 3 silk in ur inventory,&nbsp; not in the bank.&nbsp; After u talk to Tyrion the final time... quest starts automatically.&nbsp; Watch ur text...wait for Tyrion to yell. \"Now...attack now !\"&nbsp; If u let either one of them slip away...then u have to do quest over again.&nbsp; Simply delete quest,&nbsp; and \"Con\" Tryion again.&nbsp; Go to step one,&nbsp; rinse and repeat.",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2019-09-21T19:21:14-05:00",
+   "body": "The ultimate reward for this quest chain is [item=2933], an incredible twinking or levelling ring. The entire chain rewards a ton of XP and has you visiting multiple instances and zones. Twinks would be best to commence this long chain as soon as is practicable, at level 16, and of course you'll need some buddies to carry you.\r\n\r\n[ol]\r\n[li][quest=373] - a drop from [npc=639] in [zone=1581], who might also drop [item=5193], [item=5191] or [item=10399] if you are really lucky![/li]\r\n[li][quest=389] - back in [zone=1519][/li]\r\n[li][quest=391] in the [zone=717]. Hopefully [item=2941], [item=2942] or [item=3228] also dropped for you![/li]\r\n[li][quest=392] in [zone=1519][/li]\r\n[li][quest=393][/li]\r\n[li][quest=350][/li]\r\n[li][quest=2745][/li]\r\n[li][quest=2746] which takes you to [zone=12] and elsewhere for [item=4306][/li]\r\n[li][quest=434] in [zone=1519][/li]\r\n[li][quest=394][/li]\r\n[li][quest=395][/li]\r\n[li][quest=396][/li]\r\n[/ol]\r\n\r\nCongratulations! A ton of XP, reputation and a very nice ring indeed!",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2005-10-21T07:54:20-05:00",
+   "body": "If you fail at killing the 30 and 31, go to your quest log and hit [Abandon Quest] for [The Attack!]. If you wait about 20-30 seconds, the yellow exclamation point will re-appear over Tyrion's head and you can retry the quest.",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2007-04-07T23:37:06-05:00",
+   "body": "34,57 Elwynn forest. Between Stormwind entrance and Mirror Lake. 5 seconds off main road to stormwind, 1st house south of Stormwind entrance.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2006-09-14T19:54:20-05:00",
+   "body": "Leads to this quest > The Attack! https://www.wowhead.com/forever/quest=434/the-attack",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-03-08T22:33:18-06:00",
+   "body": "Go straight out of the Stormwind entrance and it will be the building straight ahead,Clara will be inside.There is a basket of fruit on the table beside her.Just loot it and your good to go..:)",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-10-21T07:54:20-05:00",
+   "body": "when you do this the next step is automatically initiated, and you gotta fight a level 30 and 31 simultaniously to beat it, and you get one chance, so be prepared.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-21T07:54:20-05:00",
+   "body": "The apples are in a house on the table.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-04-21T19:54:20-05:00",
+   "body": "The next quest in the chain is called \"The Attack\" and is listed here on Thottbot (just not linked from this quest).\n\n&nbsp; https://www.wowhead.com/forever/quest=434/the-attack\n\nThe end reward after killing the two lvl 30's in \"The Attack\" and then running around some more is a nice Blue ring (+3 or +4 to all five major stats).",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-02-07T19:54:20-06:00",
+   "body": "apples 34 37\nsilk = stockade",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-21T07:54:20-05:00",
+   "body": "Just drop the quest and talk to the gnome over again!",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2019-09-09T12:39:44-05:00",
+   "body": "The quest is bugged for me. I have both items on me, but Tyrion does not seem to care. I cannot hand in the quest.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2019-09-12T14:15:19-05:00",
+   "body": "Keep in mind this Tyrion is part of a few quests, including The Attack [quest=434 domain=classic] - which is important in regards to this quest.  That's because if someone has started that particular quest, he will be unavailable to turn in this quest until he finishes up his \"RP\" he is doing for that.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-21T07:54:20-05:00",
+   "body": "The farm is just outside SW to the right of the road.&nbsp; Clara is inside her hut and walks out to the well and back again.&nbsp; The apples are in a bowl on her table.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-02-07T19:54:20-06:00",
+   "body": "In response to this quest not being worth it...I got an awesome ring with it...blue item. + 2-4 on all specs. Also the xp isn't that back if you count all the thing you have to do to get it. In the end I figure I got around 3000+ xp. I was fighting with rested xp(killing the two nobles got me 600 xp alone)\n\nThe ring is something like the Ring of Wrynn or something like that.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-09-14T19:54:20-05:00",
+   "body": "its actually first house on the west coming out of Stormwind",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-21T07:54:20-05:00",
+   "body": "when running down the road, there is a little off road. First one. The first house. It looks like there's bear traps in her garden. Inside the house is where the apples are.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-02-07T19:54:20-06:00",
+   "body": "WEll after i killed the 2 guys (Defias and Lord..) tyron isnt where u finish the quest.. u need to go to the previous guy (from the trade district) and he'll tell u to run around again n do a chain of ppl to talk to to finish the quest... u'll like the result =D!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-04-21T19:54:20-05:00",
+   "body": "Tyrion is at 69,14 in SW Keep.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-21T07:54:20-05:00",
+   "body": "On the table in her house, apparently.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-21T07:54:20-05:00",
+   "body": "Same problem here, i have the items but i can click the continue button to complete the quest. I have just send a ticket to the GM's",
+   "replies": [
+    "In every quest, if an item is in your bank it will ALWAYS say that you \"have\" the item, even though it isn't on you.&nbsp; Make sure you actually are carrying it before trying to turn any quest in."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-21T07:54:20-05:00",
+   "body": "I've got the silk and the apples, but i've forgotten where Tyrion is, can u help?",
+   "replies": [
+    "He is at stormwind keep you gotta go not to the bg thing but make the first left when you enter that area"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-21T19:54:20-05:00",
+   "body": "in wich quarter is tyron?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-28T07:54:20-05:00",
+   "body": "The Apples are on the table in the house located in Elwynn Forest located at 33,57.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-03T19:54:20-05:00",
+   "body": "After doing this little errand, you will continue the chain and eventually at the end you will Recieve the Seal of Wrynn. Quite a good ring.. Look it up for stats. Its really worth it.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-14T19:54:20-05:00",
+   "body": "lvl 30 pally. just completed quest..its easy&nbsp; i did howver not kill them when they were done so i had to wait for the bot to come back ...abandoned quest re accepted they talked and i killed them both with no problems..kill the rogue first as he has a weapon and other guy doesnt&nbsp; no heals or shields needed",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-02-07T19:54:20-06:00",
+   "body": "Any of you guys realise what the apples are for? ^^",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-13T05:54:03-06:00",
+   "body": "I have picked up silk cloth numerous times from random mobs, but i dont want to go randomly killing everything that drops the item, can i buy it in stormwind, i cant seem to find it.",
+   "replies": [
+    "No vendor sells silk - only comes from drops or you can go to AH and try to buy some.\n"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-19T03:28:08-05:00",
+   "body": "Apples are at 33.57 Elwynn",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-18T13:58:24-05:00",
+   "body": "i am getting so frustrated now,  i have got the apples and the silk but i cannot find tyrion ANYWHERE!  he is not where it says he is!  \n\nSome one please help...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-30T18:22:10-06:00",
+   "body": "Can I just point out that you do have to remember topick up the quest before you go to get the apples!  I thought I would get it all beforehand and sort it out all in one go but it doesn't work like that! Doh!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-17T08:15:04-06:00",
+   "body": "130 experience, 5 Stormwind Faction at lvl 40.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-28T18:10:43-05:00",
+   "body": "I have the 3 silk cloths and 2 of Clara's apples but Tyrion or whatever his name is won't let me turn in the quest.  Is there a level requirement or something? I'm 29.",
+   "replies": [
+    "there is a timer on the quest while he works on the robot.  just wait an hour or so to turn in the quest."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-30T05:15:43-06:00",
+   "body": "I may look stupid....I do not found where to turn the quest....lol",
+   "replies": [
+    "69, 14 in Stormwind."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-05T17:18:33-05:00",
+   "body": "cant seem to get this quest with my alts.\ngot it ok  with main  awhile back  but i dont remember  how it starts.\n\nim guessing its unlocked  by completing an instance quest  from stockades  or gnomer.\n\nany clues?",
+   "replies": [
+    "Yes. you have to complete a stockades quest first:\n[quest=391] Stockade Riots it's called."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-11T05:31:32-06:00",
+   "body": "Ya know, I was wondering. Can you BUY the silk textile from a shop or must it be dropped?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-22T07:27:33-06:00",
+   "body": "now i understand to turn into a woman he needs silk for a dress, but what could 2 apples possibly be used for.. O.o",
+   "replies": [
+    "Ahem. -sheepishly motions to her chest-"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-15T15:01:54-05:00",
+   "body": "Just right click on them. ^_^",
+   "replies": [
+    "I got the Silk Cloth by killing two Skeletal Raiders in Forlorn Rowe. ^_^"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-25T05:42:24-05:00",
+   "body": "He's at 69,14 in Stormwind.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2019-09-01T16:04:33-05:00",
+   "body": "YOU NEED TO BE ON QUEST TO PICK THEM UP  \r\n\r\ndont go there if you dont have quest",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2004-12-19T08:36:59-06:00",
+   "body": "how do u get the apples?",
+   "replies": []
+  }
+ ]
+}

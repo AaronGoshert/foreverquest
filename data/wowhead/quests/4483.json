@@ -1,0 +1,2344 @@
+{
+ "id": 4483,
+ "name": "Libram of Resilience",
+ "level": 55,
+ "reqlevel": 50,
+ "side": 3,
+ "zoneId": 46,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 9836,
+  "name": "Mathredis Firestar",
+  "zone": "Burning Steppes",
+  "zoneId": 46,
+  "coords": [
+   [
+    65,
+    23.4
+   ],
+   [
+    65,
+    23.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 9836,
+  "name": "Mathredis Firestar",
+  "zone": "Burning Steppes",
+  "zoneId": 46,
+  "coords": [
+   [
+    65,
+    23.4
+   ],
+   [
+    65,
+    23.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Progress If it is resilience you desire, thirty gold I require. Black Diamond  ( 1 ) Crystal Spire  ( 4 ) Burning Essence  ( 1 ) Libram of Resilience  ( 1 )   Required money: 30  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11754,
+   "name": "Black Diamond",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11567,
+   "name": "Crystal Spire",
+   "count": 4,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11751,
+   "name": "Burning Essence",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11736,
+   "name": "Libram of Resilience",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Black Diamond",
+   "count": 1,
+   "type": "item",
+   "id": 11754
+  },
+  {
+   "text": "Crystal Spire",
+   "count": 4,
+   "type": "item",
+   "id": 11567
+  },
+  {
+   "text": "Burning Essence",
+   "count": 1,
+   "type": "item",
+   "id": 11751
+  },
+  {
+   "text": "Libram of Resilience",
+   "count": 1,
+   "type": "item",
+   "id": 11736
+  },
+  {
+   "text": "Required money: 30",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "start",
+   "type": 1,
+   "id": 9836,
+   "name": "Mathredis Firestar",
+   "coord": [
+    65,
+    23.6
+   ],
+   "coords": [
+    [
+     65,
+     23.4
+    ],
+    [
+     65,
+     23.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "end",
+   "type": 1,
+   "id": 9836,
+   "name": "Mathredis Firestar",
+   "coord": [
+    65,
+    23.6
+   ],
+   "coords": [
+    [
+     65,
+     23.4
+    ],
+    [
+     65,
+     23.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7025,
+   "name": "Blackrock Soldier",
+   "coord": [
+    55.6,
+    54.2
+   ],
+   "coords": [
+    [
+     39.2,
+     55.4
+    ],
+    [
+     39.4,
+     55.6
+    ],
+    [
+     39.6,
+     55.4
+    ],
+    [
+     39.6,
+     55.6
+    ],
+    [
+     40.2,
+     56.6
+    ],
+    [
+     40.4,
+     54.2
+    ],
+    [
+     41.4,
+     55.2
+    ],
+    [
+     41.4,
+     55.6
+    ],
+    [
+     42.2,
+     55.8
+    ],
+    [
+     42.4,
+     54.2
+    ],
+    [
+     42.4,
+     54.8
+    ],
+    [
+     42.6,
+     54.2
+    ],
+    [
+     42.6,
+     55
+    ],
+    [
+     42.6,
+     56
+    ],
+    [
+     43,
+     53.2
+    ],
+    [
+     43.4,
+     56.6
+    ],
+    [
+     44,
+     55.4
+    ],
+    [
+     44,
+     55.6
+    ],
+    [
+     44.4,
+     50.4
+    ],
+    [
+     44.4,
+     50.8
+    ],
+    [
+     44.4,
+     58
+    ],
+    [
+     44.6,
+     51
+    ],
+    [
+     44.6,
+     55.4
+    ],
+    [
+     44.6,
+     57.8
+    ],
+    [
+     44.8,
+     56.4
+    ],
+    [
+     45,
+     56.6
+    ],
+    [
+     45.6,
+     56.2
+    ],
+    [
+     45.6,
+     56.8
+    ],
+    [
+     48.4,
+     56.2
+    ],
+    [
+     48.8,
+     56.4
+    ],
+    [
+     48.8,
+     59.2
+    ],
+    [
+     48.8,
+     59.6
+    ],
+    [
+     49,
+     55.2
+    ],
+    [
+     49,
+     56.8
+    ],
+    [
+     49.4,
+     54
+    ],
+    [
+     49.6,
+     54
+    ],
+    [
+     50.4,
+     54.6
+    ],
+    [
+     51,
+     53.4
+    ],
+    [
+     51,
+     55.6
+    ],
+    [
+     51.4,
+     54.4
+    ],
+    [
+     51.4,
+     54.6
+    ],
+    [
+     51.6,
+     54.4
+    ],
+    [
+     51.6,
+     54.6
+    ],
+    [
+     52.6,
+     55.2
+    ],
+    [
+     55.2,
+     52.2
+    ],
+    [
+     55.2,
+     52.6
+    ],
+    [
+     55.2,
+     54.6
+    ],
+    [
+     55.4,
+     54.2
+    ],
+    [
+     55.6,
+     54.2
+    ],
+    [
+     56.2,
+     53.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7033,
+   "name": "Firegut Ogre",
+   "coord": [
+    77.2,
+    47.4
+   ],
+   "coords": [
+    [
+     74.4,
+     37
+    ],
+    [
+     74.4,
+     38.4
+    ],
+    [
+     74.4,
+     38.6
+    ],
+    [
+     74.4,
+     40
+    ],
+    [
+     74.4,
+     40.6
+    ],
+    [
+     74.4,
+     43.2
+    ],
+    [
+     74.4,
+     43.6
+    ],
+    [
+     74.4,
+     47
+    ],
+    [
+     74.4,
+     48.4
+    ],
+    [
+     74.4,
+     48.8
+    ],
+    [
+     74.6,
+     36.8
+    ],
+    [
+     74.6,
+     38.2
+    ],
+    [
+     74.6,
+     38.6
+    ],
+    [
+     74.6,
+     40
+    ],
+    [
+     74.6,
+     40.6
+    ],
+    [
+     74.6,
+     43.4
+    ],
+    [
+     74.6,
+     43.8
+    ],
+    [
+     74.6,
+     47
+    ],
+    [
+     74.6,
+     48.8
+    ],
+    [
+     74.8,
+     36.4
+    ],
+    [
+     75,
+     45.6
+    ],
+    [
+     75.2,
+     45.2
+    ],
+    [
+     75.4,
+     48.2
+    ],
+    [
+     75.6,
+     48.6
+    ],
+    [
+     75.8,
+     50.4
+    ],
+    [
+     75.8,
+     50.6
+    ],
+    [
+     75.8,
+     56.6
+    ],
+    [
+     76.2,
+     56.2
+    ],
+    [
+     76.4,
+     34.8
+    ],
+    [
+     76.4,
+     47.4
+    ],
+    [
+     76.4,
+     47.8
+    ],
+    [
+     76.4,
+     55.4
+    ],
+    [
+     76.6,
+     34.8
+    ],
+    [
+     76.6,
+     56
+    ],
+    [
+     76.8,
+     43.8
+    ],
+    [
+     76.8,
+     48.8
+    ],
+    [
+     76.8,
+     51.4
+    ],
+    [
+     76.8,
+     51.6
+    ],
+    [
+     77,
+     43.2
+    ],
+    [
+     77,
+     47.6
+    ],
+    [
+     77.2,
+     45.4
+    ],
+    [
+     77.2,
+     47.4
+    ],
+    [
+     77.4,
+     45.6
+    ],
+    [
+     77.6,
+     54.4
+    ],
+    [
+     77.8,
+     33.4
+    ],
+    [
+     77.8,
+     33.6
+    ],
+    [
+     77.8,
+     55
+    ],
+    [
+     78,
+     41.6
+    ],
+    [
+     78,
+     43.4
+    ],
+    [
+     78,
+     43.6
+    ],
+    [
+     78,
+     45.6
+    ],
+    [
+     78.2,
+     41.4
+    ],
+    [
+     78.2,
+     45.4
+    ],
+    [
+     78.8,
+     55.4
+    ],
+    [
+     78.8,
+     55.6
+    ],
+    [
+     79,
+     44.4
+    ],
+    [
+     79,
+     45
+    ],
+    [
+     79.4,
+     42.4
+    ],
+    [
+     79.4,
+     42.6
+    ],
+    [
+     79.8,
+     42.2
+    ],
+    [
+     79.8,
+     47.2
+    ],
+    [
+     80.2,
+     46
+    ],
+    [
+     80.2,
+     48
+    ],
+    [
+     80.4,
+     41.2
+    ],
+    [
+     80.4,
+     42.6
+    ],
+    [
+     80.4,
+     45.4
+    ],
+    [
+     80.6,
+     41.8
+    ],
+    [
+     80.6,
+     42.6
+    ],
+    [
+     81.4,
+     39.4
+    ],
+    [
+     81.4,
+     40.2
+    ],
+    [
+     81.4,
+     40.6
+    ],
+    [
+     81.6,
+     41.2
+    ],
+    [
+     81.8,
+     42
+    ],
+    [
+     82,
+     39.4
+    ],
+    [
+     82,
+     39.6
+    ],
+    [
+     82,
+     46.8
+    ],
+    [
+     82.2,
+     53.8
+    ],
+    [
+     82.4,
+     53.4
+    ],
+    [
+     82.6,
+     53.4
+    ],
+    [
+     82.6,
+     53.6
+    ],
+    [
+     82.8,
+     38.8
+    ],
+    [
+     83,
+     43.4
+    ],
+    [
+     83.4,
+     43.6
+    ],
+    [
+     83.6,
+     44
+    ],
+    [
+     83.6,
+     45.2
+    ],
+    [
+     83.6,
+     53.2
+    ],
+    [
+     83.6,
+     53.8
+    ],
+    [
+     86.8,
+     45.2
+    ],
+    [
+     86.8,
+     46.8
+    ],
+    [
+     86.8,
+     48.4
+    ],
+    [
+     86.8,
+     48.6
+    ],
+    [
+     87,
+     45.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7034,
+   "name": "Firegut Ogre Mage",
+   "coord": [
+    77.2,
+    47.4
+   ],
+   "coords": [
+    [
+     74.4,
+     37
+    ],
+    [
+     74.4,
+     38.2
+    ],
+    [
+     74.4,
+     38.6
+    ],
+    [
+     74.4,
+     40.2
+    ],
+    [
+     74.4,
+     40.6
+    ],
+    [
+     74.4,
+     43.6
+    ],
+    [
+     74.4,
+     47
+    ],
+    [
+     74.4,
+     48.8
+    ],
+    [
+     74.6,
+     38
+    ],
+    [
+     74.6,
+     38.6
+    ],
+    [
+     74.6,
+     40.4
+    ],
+    [
+     74.6,
+     40.6
+    ],
+    [
+     74.6,
+     43.6
+    ],
+    [
+     74.6,
+     47.2
+    ],
+    [
+     74.6,
+     49
+    ],
+    [
+     74.8,
+     36.6
+    ],
+    [
+     75,
+     45.4
+    ],
+    [
+     75,
+     45.6
+    ],
+    [
+     75.4,
+     48.4
+    ],
+    [
+     75.6,
+     48.6
+    ],
+    [
+     75.8,
+     50.4
+    ],
+    [
+     76,
+     50.6
+    ],
+    [
+     76.4,
+     34.8
+    ],
+    [
+     76.4,
+     38
+    ],
+    [
+     76.4,
+     47.8
+    ],
+    [
+     76.8,
+     34.8
+    ],
+    [
+     76.8,
+     43.8
+    ],
+    [
+     77,
+     47.6
+    ],
+    [
+     77,
+     51.4
+    ],
+    [
+     77,
+     51.6
+    ],
+    [
+     77.2,
+     45.4
+    ],
+    [
+     77.2,
+     47.4
+    ],
+    [
+     77.4,
+     38.2
+    ],
+    [
+     77.4,
+     45.6
+    ],
+    [
+     77.8,
+     33.4
+    ],
+    [
+     77.8,
+     38.2
+    ],
+    [
+     78,
+     33.8
+    ],
+    [
+     78,
+     39
+    ],
+    [
+     78,
+     41.8
+    ],
+    [
+     78,
+     43.4
+    ],
+    [
+     78,
+     43.6
+    ],
+    [
+     78,
+     45.6
+    ],
+    [
+     78.2,
+     40.2
+    ],
+    [
+     78.2,
+     41.4
+    ],
+    [
+     78.2,
+     45.4
+    ],
+    [
+     78.8,
+     40.6
+    ],
+    [
+     79,
+     44.4
+    ],
+    [
+     79,
+     45
+    ],
+    [
+     79.2,
+     35.4
+    ],
+    [
+     79.4,
+     35.6
+    ],
+    [
+     79.4,
+     41.8
+    ],
+    [
+     79.4,
+     43.4
+    ],
+    [
+     79.6,
+     41
+    ],
+    [
+     79.6,
+     44.2
+    ],
+    [
+     79.8,
+     42.2
+    ],
+    [
+     79.8,
+     47.2
+    ],
+    [
+     80.2,
+     36.2
+    ],
+    [
+     80.2,
+     42.6
+    ],
+    [
+     80.2,
+     44.8
+    ],
+    [
+     80.2,
+     47.8
+    ],
+    [
+     80.4,
+     45.6
+    ],
+    [
+     80.6,
+     42.6
+    ],
+    [
+     80.6,
+     45.4
+    ],
+    [
+     80.8,
+     42.4
+    ],
+    [
+     80.8,
+     46.4
+    ],
+    [
+     81,
+     36.6
+    ],
+    [
+     81,
+     46.6
+    ],
+    [
+     81.2,
+     48.2
+    ],
+    [
+     81.4,
+     39.4
+    ],
+    [
+     81.4,
+     39.8
+    ],
+    [
+     81.4,
+     40.8
+    ],
+    [
+     81.4,
+     44
+    ],
+    [
+     81.6,
+     39.6
+    ],
+    [
+     81.6,
+     43.2
+    ],
+    [
+     81.6,
+     44
+    ],
+    [
+     81.8,
+     39.4
+    ],
+    [
+     81.8,
+     41.4
+    ],
+    [
+     81.8,
+     41.6
+    ],
+    [
+     81.8,
+     46
+    ],
+    [
+     82,
+     47
+    ],
+    [
+     82.2,
+     47.8
+    ],
+    [
+     82.4,
+     36.8
+    ],
+    [
+     82.4,
+     53.4
+    ],
+    [
+     82.4,
+     53.6
+    ],
+    [
+     82.6,
+     36.8
+    ],
+    [
+     82.6,
+     42.4
+    ],
+    [
+     82.6,
+     48
+    ],
+    [
+     82.6,
+     53.4
+    ],
+    [
+     82.8,
+     45.4
+    ],
+    [
+     83.2,
+     38.4
+    ],
+    [
+     83.2,
+     43.4
+    ],
+    [
+     83.2,
+     47.2
+    ],
+    [
+     83.4,
+     39
+    ],
+    [
+     83.4,
+     40.4
+    ],
+    [
+     83.4,
+     40.6
+    ],
+    [
+     83.4,
+     43.6
+    ],
+    [
+     83.4,
+     45.8
+    ],
+    [
+     83.6,
+     40
+    ],
+    [
+     83.6,
+     44
+    ],
+    [
+     83.6,
+     45.2
+    ],
+    [
+     83.6,
+     45.8
+    ],
+    [
+     83.6,
+     52.2
+    ],
+    [
+     83.6,
+     53.4
+    ],
+    [
+     83.6,
+     53.8
+    ],
+    [
+     84,
+     36.8
+    ],
+    [
+     84,
+     42.8
+    ],
+    [
+     84.4,
+     48.8
+    ],
+    [
+     84.6,
+     36.6
+    ],
+    [
+     84.6,
+     47.4
+    ],
+    [
+     84.6,
+     47.6
+    ],
+    [
+     85,
+     45.4
+    ],
+    [
+     85,
+     45.6
+    ],
+    [
+     85.4,
+     36.4
+    ],
+    [
+     85.6,
+     36.4
+    ],
+    [
+     86.8,
+     47
+    ],
+    [
+     86.8,
+     48.4
+    ],
+    [
+     87,
+     45.4
+    ],
+    [
+     87,
+     45.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7035,
+   "name": "Firegut Brute",
+   "coord": [
+    82.2,
+    39.2
+   ],
+   "coords": [
+    [
+     76.4,
+     38
+    ],
+    [
+     76.8,
+     47.8
+    ],
+    [
+     77.2,
+     43.6
+    ],
+    [
+     77.2,
+     45.4
+    ],
+    [
+     77.4,
+     38.2
+    ],
+    [
+     77.4,
+     46.2
+    ],
+    [
+     77.4,
+     47
+    ],
+    [
+     77.8,
+     38.2
+    ],
+    [
+     78,
+     39
+    ],
+    [
+     78,
+     45.6
+    ],
+    [
+     78.2,
+     34.6
+    ],
+    [
+     78.2,
+     40.2
+    ],
+    [
+     78.2,
+     45.4
+    ],
+    [
+     78.4,
+     40.6
+    ],
+    [
+     78.6,
+     40.4
+    ],
+    [
+     78.8,
+     35.2
+    ],
+    [
+     79.2,
+     40.6
+    ],
+    [
+     79.4,
+     35.6
+    ],
+    [
+     79.4,
+     41.6
+    ],
+    [
+     79.4,
+     43.4
+    ],
+    [
+     79.4,
+     43.6
+    ],
+    [
+     79.6,
+     41
+    ],
+    [
+     79.6,
+     41.6
+    ],
+    [
+     79.6,
+     44.2
+    ],
+    [
+     79.8,
+     47.2
+    ],
+    [
+     80,
+     36.2
+    ],
+    [
+     80.2,
+     42.6
+    ],
+    [
+     80.2,
+     44.8
+    ],
+    [
+     80.2,
+     47.8
+    ],
+    [
+     80.4,
+     45.8
+    ],
+    [
+     80.6,
+     42.6
+    ],
+    [
+     80.6,
+     45.4
+    ],
+    [
+     80.8,
+     42.4
+    ],
+    [
+     80.8,
+     46.4
+    ],
+    [
+     81,
+     36.6
+    ],
+    [
+     81,
+     46.6
+    ],
+    [
+     81.4,
+     39.4
+    ],
+    [
+     81.4,
+     39.8
+    ],
+    [
+     81.4,
+     40.8
+    ],
+    [
+     81.4,
+     44
+    ],
+    [
+     81.4,
+     48.2
+    ],
+    [
+     81.6,
+     39.6
+    ],
+    [
+     81.6,
+     43.2
+    ],
+    [
+     81.6,
+     44
+    ],
+    [
+     81.8,
+     41.4
+    ],
+    [
+     81.8,
+     41.6
+    ],
+    [
+     81.8,
+     46
+    ],
+    [
+     82,
+     46.8
+    ],
+    [
+     82.2,
+     39.2
+    ],
+    [
+     82.2,
+     47.8
+    ],
+    [
+     82.4,
+     36.6
+    ],
+    [
+     82.6,
+     36.8
+    ],
+    [
+     82.6,
+     42.4
+    ],
+    [
+     82.6,
+     45.4
+    ],
+    [
+     82.6,
+     48
+    ],
+    [
+     83.2,
+     38.2
+    ],
+    [
+     83.2,
+     38.6
+    ],
+    [
+     83.2,
+     43.4
+    ],
+    [
+     83.2,
+     43.6
+    ],
+    [
+     83.2,
+     47.2
+    ],
+    [
+     83.4,
+     40.4
+    ],
+    [
+     83.4,
+     40.6
+    ],
+    [
+     83.4,
+     45.8
+    ],
+    [
+     83.4,
+     52.2
+    ],
+    [
+     83.6,
+     39.2
+    ],
+    [
+     83.6,
+     40
+    ],
+    [
+     83.6,
+     43.8
+    ],
+    [
+     83.6,
+     45.2
+    ],
+    [
+     83.6,
+     45.8
+    ],
+    [
+     83.6,
+     52.4
+    ],
+    [
+     83.6,
+     52.6
+    ],
+    [
+     83.8,
+     42.4
+    ],
+    [
+     84,
+     36.8
+    ],
+    [
+     84,
+     42.8
+    ],
+    [
+     84,
+     50.6
+    ],
+    [
+     84.2,
+     49.6
+    ],
+    [
+     84.4,
+     48.4
+    ],
+    [
+     84.4,
+     48.8
+    ],
+    [
+     84.6,
+     36.6
+    ],
+    [
+     84.6,
+     47.4
+    ],
+    [
+     84.6,
+     47.6
+    ],
+    [
+     84.6,
+     48.6
+    ],
+    [
+     84.8,
+     44.2
+    ],
+    [
+     84.8,
+     45.8
+    ],
+    [
+     85,
+     45.4
+    ],
+    [
+     85.4,
+     36.4
+    ],
+    [
+     85.6,
+     36.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7036,
+   "name": "Thaurissan Spy",
+   "coord": [
+    54,
+    40
+   ],
+   "coords": [
+    [
+     53.2,
+     40.6
+    ],
+    [
+     53.4,
+     40.4
+    ],
+    [
+     54,
+     40
+    ],
+    [
+     54,
+     40.6
+    ],
+    [
+     54,
+     41.8
+    ],
+    [
+     54.2,
+     39.4
+    ],
+    [
+     54.6,
+     39.2
+    ],
+    [
+     54.6,
+     41
+    ],
+    [
+     55,
+     37.6
+    ],
+    [
+     55.2,
+     37.4
+    ],
+    [
+     55.6,
+     36.8
+    ],
+    [
+     55.6,
+     37.6
+    ],
+    [
+     56.4,
+     36.2
+    ],
+    [
+     56.6,
+     36.2
+    ],
+    [
+     59.6,
+     42.8
+    ],
+    [
+     60.4,
+     36.8
+    ],
+    [
+     61,
+     38.4
+    ],
+    [
+     61,
+     38.6
+    ],
+    [
+     61.2,
+     41.6
+    ],
+    [
+     61.4,
+     37.2
+    ],
+    [
+     61.4,
+     41.2
+    ],
+    [
+     61.6,
+     37.4
+    ],
+    [
+     61.6,
+     41.2
+    ],
+    [
+     62.2,
+     37.8
+    ],
+    [
+     62.4,
+     38.6
+    ],
+    [
+     62.4,
+     40.2
+    ],
+    [
+     62.6,
+     38.4
+    ],
+    [
+     62.8,
+     39.6
+    ],
+    [
+     63,
+     38.8
+    ],
+    [
+     63.2,
+     36.2
+    ],
+    [
+     63.4,
+     35.4
+    ],
+    [
+     63.4,
+     36.6
+    ],
+    [
+     63.4,
+     41
+    ],
+    [
+     63.6,
+     35.4
+    ],
+    [
+     63.6,
+     39
+    ],
+    [
+     64.2,
+     41.4
+    ],
+    [
+     64.2,
+     41.6
+    ],
+    [
+     64.4,
+     34
+    ],
+    [
+     64.4,
+     36.4
+    ],
+    [
+     64.4,
+     36.6
+    ],
+    [
+     64.6,
+     36.4
+    ],
+    [
+     64.6,
+     36.8
+    ],
+    [
+     64.8,
+     34.4
+    ],
+    [
+     64.8,
+     37.6
+    ],
+    [
+     65,
+     34.6
+    ],
+    [
+     65,
+     42.6
+    ],
+    [
+     65.2,
+     41.6
+    ],
+    [
+     65.4,
+     39.4
+    ],
+    [
+     65.4,
+     39.8
+    ],
+    [
+     65.4,
+     41.4
+    ],
+    [
+     65.6,
+     39.4
+    ],
+    [
+     65.6,
+     41.2
+    ],
+    [
+     65.8,
+     42.4
+    ],
+    [
+     65.8,
+     42.6
+    ],
+    [
+     66,
+     40.2
+    ],
+    [
+     66.4,
+     43.8
+    ],
+    [
+     66.6,
+     40.4
+    ],
+    [
+     66.6,
+     40.6
+    ],
+    [
+     66.6,
+     44
+    ],
+    [
+     69.2,
+     38.4
+    ],
+    [
+     69.2,
+     38.8
+    ],
+    [
+     69.6,
+     38.6
+    ],
+    [
+     70,
+     38.2
+    ],
+    [
+     71,
+     36.6
+    ],
+    [
+     71.2,
+     35.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7038,
+   "name": "Thaurissan Agent",
+   "coord": [
+    54,
+    40.4
+   ],
+   "coords": [
+    [
+     54,
+     40.4
+    ],
+    [
+     54,
+     40.6
+    ],
+    [
+     55.4,
+     37.2
+    ],
+    [
+     55.6,
+     37.2
+    ],
+    [
+     56,
+     36.2
+    ],
+    [
+     61.2,
+     41.8
+    ],
+    [
+     61.4,
+     37.2
+    ],
+    [
+     61.4,
+     37.6
+    ],
+    [
+     61.6,
+     37.4
+    ],
+    [
+     62,
+     37.6
+    ],
+    [
+     62.8,
+     38.4
+    ],
+    [
+     62.8,
+     39.6
+    ],
+    [
+     63,
+     38.8
+    ],
+    [
+     63.2,
+     36.4
+    ],
+    [
+     63.2,
+     36.6
+    ],
+    [
+     64.4,
+     36.4
+    ],
+    [
+     64.4,
+     36.6
+    ],
+    [
+     64.6,
+     34.2
+    ],
+    [
+     64.6,
+     36.4
+    ],
+    [
+     64.6,
+     36.8
+    ],
+    [
+     65,
+     34.6
+    ],
+    [
+     65.4,
+     39.4
+    ],
+    [
+     65.4,
+     40
+    ],
+    [
+     65.4,
+     41.4
+    ],
+    [
+     65.4,
+     41.6
+    ],
+    [
+     65.8,
+     42.4
+    ],
+    [
+     65.8,
+     42.6
+    ],
+    [
+     66,
+     40.2
+    ],
+    [
+     66,
+     40.6
+    ],
+    [
+     66.2,
+     43.6
+    ],
+    [
+     66.6,
+     44
+    ],
+    [
+     69.2,
+     38.4
+    ],
+    [
+     69.4,
+     38.6
+    ],
+    [
+     69.6,
+     38.4
+    ],
+    [
+     69.6,
+     38.6
+    ],
+    [
+     71,
+     36.2
+    ],
+    [
+     71,
+     36.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 9044,
+   "name": "Scarshield Sentry",
+   "coord": [
+    33.6,
+    28
+   ],
+   "coords": [
+    [
+     33.6,
+     28
+    ],
+    [
+     34.4,
+     26.6
+    ],
+    [
+     34.6,
+     28.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 203138,
+   "name": "Anvilrage Overseer",
+   "coord": [
+    26,
+    23
+   ],
+   "coords": [
+    [
+     26,
+     23
+    ],
+    [
+     26.2,
+     22
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 37,
+   "date": "2007-03-30T20:52:21-05:00",
+   "body": "If you are level 70 you can do this solo even without stealth.  Helps to be a mage to blink past a few \"tight spots\".\r\n\r\nEnter BRD, go through the locked door on your left, continue straight to the \"highway\", take a right and follow the hall to Incendius, melt his face, loot corpse, dance happy jig, disenchant BOP drop (if you can), continue straight and go up the ramp, avoid mobs by walking on the railing most fo the way.  At the top fo the ramp go through the doorway and go to the left, take the next left into the Cofffer Room.  Blink past the boss and the dog so you are standing against the Dark Coffer.  Attack and kill the dog and ignore the boss until the dog is dead.  At level 70 you should resist all or most of the bosses spells.  Kill the boss, loot and dance again, DE, walk to the edge of the room (stand about where the boss was standing), adjust your camera angle so you can click the picture on the wall and read the caption n the picture to find where the NPC is that you need to kill to get the Dark Coffer Key.  Backtrack to wherever that mobs is and kill him to get the key, then return to the Coffer Room, open the Dark Coffer, loot contents, hearth out to Orgrimmar or Ironforge... spam the trade channel til you sell the \"enchant\" or get ignored by everyone on your server.\r\n\r\nIf you happen to get ignored by everyone on the server, pay Blizzard to do a server transfer to another.  Repeat as needed.\r\n\r\n:-P",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2006-11-26T14:06:08-06:00",
+   "body": "This CAN be enchanted through the trade window. Rogues and Druids can stealth run the BRD coffer for the Burning Essence, and give it to anyone once they turn in the quest for the arcanum.",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2006-12-11T17:20:38-06:00",
+   "body": "To get the main (and hardest to get) ingredient, the Burning Essence, you first need to examine the Portrait on the wall outside the Coffer Room. By doing so, you then get the name of the Dark Key Holder. (1 of 6 possibles). Once you do so, and have the name, you have to kill him, and then reurn with the key to open the Dark Coffer. The list of Dark Key holders and where they can be found are:\nDark Keeper Offgut\t\tWest Garrison - room with Angerforge\t\t\nDark Keeper Bethek\t\tPatrols near Coffer room\nDark Keeper Vorfalk\t\tGrim Guzzler Tavern \t\t\t\nDark Keeper Zimrel\t\tArena; upper seating area\nDark Keeper Uggel\t\tTop of ramp in Golem Room w/Fineous\t\t\nDark Keeper Pelver\t\tDomicile room (storeroom in center)\n\nAll but 2 are fairly easy to do. \nBethek spawns almost instantly outside the Coffer room, so be prepared. \nVorfalk is surrounded by patrons in the Grim Guzzler. To get to him, you have to pull the patrons around him, 1 by 1, with the Dark Iron Ale.\nJust make sure you kill the patron before they drink it, as it's limited in supply.\nAfter all that, the Burning Essence is still a 50% drop, so you may need a few attempts before you get it. I still feel the drop is Quest related, so make sure you have the Libram of Resilience on you, and that you have already spoken with Mathredis Firestar in Burning Steppes, and that regardless of who gets the Dark Key, you open the chest. After weeks of trying and failing, I wasn't taking any chances. It is worth the effort!\nAnd yes, it is BOP, and can't be split up; though, you'll want the extra one anyway! An extra +40 FR  can make a big difference in MC.",
+   "replies": [
+    "Excellent post!\n\nDark Keeper Uggel is actually right in the next room.  Exit the dark coffer area, turn right and he's 1 or 2 pulls into that cave area.",
+    "\"I still feel the drop is Quest related\" - I just did this on classic and it's not. Did not have the quest before I got the burning essence, although I had the book in my inventory."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-11-24T10:38:37-06:00",
+   "body": "I use mine on my Emberweave Leggings.\n\n35 FR as standard with 20 more.\nPlus some nice Stats.\n17 Agility\n22 Stamina\n12 Intellect (Ok this is useless on Vael but Rag?)\n\nThis allows me to play with other items, retain my standard Fire Res and swap in some DPS gear.\n\n\nThis is also very nice to put onto a Crown of Destruction, if you have the GS set, as part of your FR \"Kit\", or alternatively on your GS Helmet if you have moved up to the Dragonstalker gear.\n\nA tad pricey I personally think though, if it was an enchant people could learn it would cost so much less!  But anything Blizzard put into the game costs a freaking fortune, they should up money drops to keep up.\n\nThe most notourious ingrediant I think is the burning essence.  I have been on many BRD Vault runs for the essence and have seen people come up flat.  Alot of luck hinges on this item, which is a pity.\n\nGood luck to anyone after it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-26T05:02:59-06:00",
+   "body": "Really nice on emberweave leggings ^^\n\nWorth the 100ish gold it costs.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-18T03:21:43-05:00",
+   "body": "Good for Hunters to throw on a GS helm if you got a DS to switch to for DPS",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-10T19:00:22-06:00",
+   "body": "Turned in 2 of these last night.\n\nSolo coffer run into BRD.  Took 3 attempts/resets to get the right dark keeper (I got the one just around the corner in the Hall of Crafting).  Sapped one guard, killed the named, vanished.  re-sapped, grabbed the key and vanished again!  W00t.  2 burning essences and an enchanting recipe out of the dark coffer.  Got my +40 FR!  yay",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-07T10:55:56-05:00",
+   "body": "Got mine, and stuck it on my Dark iron helm today, very happy, 55 fire res on one item :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-23T10:29:25-05:00",
+   "body": "I got 2 burning essences from dark coffer. Is this common? and is there a way to split them so two people can get one?",
+   "replies": [
+    "You can't split these.  Your best bet is to hold onto the remaining one for the next time you use one of these librams.",
+    "If you get the Arcanum you can apply it to somebody else's equipment through the trade window."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-06T07:32:26-05:00",
+   "body": "Repeatable Quest? Yes or No?",
+   "replies": [
+    "Yes, it is repeatable.\n\nI usually farm mats for several of each libram, that way I dont have to return if I decide to replace a piece of armor later."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-14T09:16:05-05:00",
+   "body": "Okay, so the Libram is unique, meaning you can only have one at a time (I checked and it's true). The \"Lesser Arcanum of Resilience\" though is not listed as unique. Does that mean I can have two of em on my char and wait to use em, when I have appropriate endgamegear to use em on? Anyone checked?",
+   "replies": [
+    "havent tried it myself, but i hear you can.",
+    "Yes you can have 2 Arcanums of the same type in yoiur inventory. My Warrior has 2 Arcanums of protection on him for the ZG Enchant quest"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-02T16:45:30-05:00",
+   "body": "will applying the arcanum through a trade window render the armor piece soulbound?\ncan i meet up with the guild blacksmith to enchant say dark iron legs before he gives the legs to the next person, or will the blacksmith be stuck with them?",
+   "replies": [
+    "No, it will not soulbind the item, I gave my twink rogue +8 Agi to Goggles and +100 HP to legs with Arcanums, also I help Guildies out with them as well.",
+    "In the unlikely event they change this so it does bind, you could just meet up with the smith's customer and apply the enchant once they have equipped..."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-01T03:13:26-06:00",
+   "body": "Don't forget this costs 30G as for all the libram enchants you turn in.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-06T14:42:36-05:00",
+   "body": "i paid 80g for 2 of the books (35 and 45) and then 60 for the quests - 140 - then maybe 20 for black diamonds (i might be able to nab these of guildies though)\n\ndamn expensive stuff :)",
+   "replies": [
+    "you paid 80g for 2 of these books?\n\nthey are unique, you must have bought one, used it or stored it with an alt.  you would not be able to collect the second one from the postbox if you had one in your inventory, including the bank.  i am making the point so that people are aware you cant have 2 of anything unique in our inventory at any time.  if you are stuck with the problem of buying 2, sell one to vendor collect second, use or send to alt, then buy back from vendor.  i have had this problem, i wanted to send a second voracity to an alt, but as i had one in my bank, i couldnt collect from ",
+    "Why didn't you just send the one you had in your bank to the alt then grab the one outta the mailbox?"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-26T12:49:50-06:00",
+   "body": "I have no idea what to do with this book. I was hoping someone in here might actually explain the quest but I didn't really find any useful information.\n\nA lot of abbreviations that I don't understand....\n\nI read the book and it doesnt explain anything.\n\nCan anyone explain what I do with this book? Thanks in advance =)",
+   "replies": [
+    "There are a number of other books found around the world. They are \"lost texts\" of the Quel'Thalas High Elves? There are two NPCs that \"collect\" these when you find them. \n\nOne NPC, [url=/npc=9836]Mathredis Firestar[/url], is found in Flame Crest in The Burning Steppes. \nHe only accepts Librams of [url=/quest=4481]Constitution[/url] (100HP), [url=/quest=4483]Resilience[/url] (20FR), [url=/quest=4463]Rumination[/url] (100mana), [url=/quest=4482]Tenacity[/url] (125armor), and [url=/quest=4484]Voracity[/url] (+8 to any stat). \n\nThe other NPC, [url=/npc=14368]Lorekeeper Lydros[/url], can be found "
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-31T18:17:10-06:00",
+   "body": "Did this quest with 2 warlocks (1 was me) and a priest.\n\nMind Control + 2x seduce 4tw",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-12T02:10:13-05:00",
+   "body": "This book is uber. just used it on my Molten helm so now it has 49+ fire res. Pretty neat.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-12T18:24:05-06:00",
+   "body": "150g ++ @ bloodscalp",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-06T15:01:50-05:00",
+   "body": "Guys, but... \"Does not stack with other enchantments etc.\" what does it mean?\nExemplum:\nif i have an armor kit on my cenarion helm, and i put the arcanum on it, what's happen to the armor kit? And with the ZG enchant (Animist' Caress)? Can I have both on the same helm?",
+   "replies": [
+    "How did you get an armor kit for your helm?",
+    "It means it will replace the current enchant. You can only have one permanent enchant on an item at a time, plus one temporary enchant (such as poison, windfury, sharpening stones, etc..)",
+    "exemplum im assuming meaning example, so not necessarily accurate. made sense to me btw...but im kinda strange.."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-06T17:15:03-06:00",
+   "body": "Sweet... \n\nJust a libram og resilience...\n\nGonna put it on my Dark Iron Helm..\n\nMeaning 55 fireress on helmet only...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-09T07:45:47-05:00",
+   "body": "I've got everything but the Crystals. My question is, when I go to the guy, he doesn't give me a quest. Do I only get anything from him aside from his rant when I have all parts of the enchant?",
+   "replies": [
+    "Once you have all the items his \"!\" will pop up and he gives you the quest. So collect all the items and then get the quest.\n\nEdited, Sun Apr  9 13:26:43 2006"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-10T17:04:07-05:00",
+   "body": "Just farmed Blood of the tormented or whatever its called for a friend, this dropped 3 times before we got the blood :> I used these before for the FR enchant on my Molten helm, will have to do FR on legs soon too, and I now got 6 of these in my bank, got every one of them until the blood dropped :D no more BRD crap for me!",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-05T22:18:03-06:00",
+   "body": "stealth running the instance isnt all that simple though, the dogs can see through stealth from a decent distance and taking some of the groups of mobs can be challenging even for a well geared player. having imp sap is definitely a plus",
+   "replies": [
+    "I wish I could stealth run.  But honestly, with a decently geared group, pre T1 the instance is cake and coffer runs can be done in 45minutes to 1hour, easy.  Plus, you get some nice sellables."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-04-18T22:43:19-05:00",
+   "body": "this baby is rather nifty for all them MC and onyx raids.. lovely!",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-05-03T07:31:50-05:00",
+   "body": "What do I do exactly with the Libram of Resilience? Someone told me that they thought it permanently adds mana to your shoulders, or head, or something of that nature. Is this true? The book doesn't really say anything, and it has about 5 pictures in it that I have no idea what they mean.\n\nCan someone clear up what I do with this thing... Please?\n\nThanks in advance.\n\n-Athenaseous the Greek Mage",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-07-08T23:17:26-05:00",
+   "body": "Be aware, that this item is unique and don't do as i did:\ni paid 35g for one of these in an auction, was happy to have it and put it in the bank...\n...later on i was grinding them ghosts in winterspring and found the same kind of libram in a mob...\n\nnow i was standing there hearing \"you can only carry one of there items\"...\n\ni was about to leave it there and keep doing what i was doing when i had the idea to quickly bind in everlook, than have a warlock port me to og where i got the book out of the bank (stupid me, forgot theres a bank in everlook, just now realized it), sent the book to someone else, portet back to everlook, rode my wolf to the corpse and lucky enough it was still there, i picked it up...\n\nnow i just need to put the 40% fire resi on my giantstalker stuff and i'm done ;)\n\nso, keep in mind to always carry the book around with you, to quickliy be able to give it away to pick up another one =)",
+   "replies": [
+    "Easier solution - when you find one of these, mail it to an alt... then don't worry about finding another one and not being able to loot it."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-04-13T06:10:39-05:00",
+   "body": "Finally cashed this bad boy in! I'm pretty happy about it, took alot of work to get the merc group together to hit the coffer.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-07-26T20:09:26-05:00",
+   "body": "Yes, very very very useful in combination with a Dark Iron Helm for example :)\n\nLove this in MC.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2006-04-22T19:34:36-05:00",
+   "body": "this pwns for DI helm :D",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-09-07T05:38:34-05:00",
+   "body": "it seems that in BWL fire resist is even more important than when fighting Rag -_-.....sooo everyone needs 2 of these on helm and pants that have base fire resist....it's insane",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-08-29T23:36:42-05:00",
+   "body": "Lmao, what a waste on Tier 2 items, better use it on Tier 1, as that give you a whopping 30 FR on your headpiece !",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2006-01-24T23:18:46-06:00",
+   "body": "He won't speak to me :S what am I doing wrong?\nGot all required items in my bag",
+   "replies": [
+    "EDIT: Later on, when I was offline I got a mail saying \"Try again later after the maintenance\"\nand...\nit works..\n\ngg bugs\n\nEdited, Wed Jan 25 07:13:47 2006"
+   ]
+  },
+  {
+   "rating": -9,
+   "date": "2005-06-30T22:42:53-05:00",
+   "body": "Of course there is the ridiculous 30g you gotta pay in addition to the mats to get the crystal ... greedy nightelves, what next?",
+   "replies": [
+    "It seems you don`t know much about MC..\nI know  A LOT of people who`d pay 300g++ for an additional 20 fire resistance...",
+    "i really only equip my FR gear about 50% of the time in MC as a tank too. I mainly got my gear for Onyxia and a few MC bosses / dogs and firelords",
+    "its worth paying a mass amount to get extra FR on somethign without taking up a new slot on your items equiped",
+    "He's a blood elf, how did you miss the blond hair?\n"
+   ]
+  },
+  {
+   "rating": -9,
+   "date": "2005-11-06T13:25:43-06:00",
+   "body": "Hmm, someone put one of these on AH for 10/15G. One other was at AH for 175G no buyout. Deal of the week! Black diamond I already had so now it's back to un'goro I guess....",
+   "replies": []
+  },
+  {
+   "rating": -13,
+   "date": "2006-02-27T17:32:39-06:00",
+   "body": "Yay 320 Unbuffed FR FTW!\n\nGotta be the most a druids had. : )",
+   "replies": [
+    "Three points.\n\n1. Pointless Post.\n\n2. 315 is the point where fr is maxed in usefulness in mc.\n\n3. Maybe the other druids stopped at 315 because they did thier homework, or maybe they aren't sub par rogues and know thier role in raids.",
+    "Why do you feel the necessity to knock him down? Are you insecure enough to have to destroy any moment of pride this guy has about his FR? Who cares what you think, he is happy. I am impressed he has 320. Your just a troll.",
+    "320 minus 20 equals 300 so yes, that druid really sucks that his arcanum did not stop at 315. Right. Whatever.",
+    "2nd off, everyones \"role\" as you put it in raids is not cookie cutter;\n\nFor Instance:\n\nPaladin, heal, clenase. think thats it? sadly you are mistaken\n\nas a paladin on raids with my raidgroup i am up there meleeing, keeping up judgement of wisdom most of the time and cleansing when i see somethin up, im not sittin on my ass in the back, thats not what i EXPECT from a paladin, so i do not let myself do it\n"
+   ]
+  },
+  {
+   "rating": -16,
+   "date": "2006-03-03T19:58:24-06:00",
+   "body": "sells for around 200g on Mal'ganis server.\n\nwas lucky enough to get one to drop off a winterfall furbolg.",
+   "replies": []
+  }
+ ]
+}

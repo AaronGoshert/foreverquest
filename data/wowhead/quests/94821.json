@@ -1,0 +1,129 @@
+{
+ "id": 94821,
+ "name": "Confounding Flash",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": -262,
+ "reqclass": 16,
+ "status": "new",
+ "xp": 210,
+ "start": {
+  "type": "npc",
+  "id": 376,
+  "name": "High Priestess Laurena",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    38.4,
+    26.2
+   ],
+   [
+    38.8,
+    26.4
+   ],
+   [
+    38.8,
+    26.6
+   ],
+   [
+    49.6,
+    44.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 258785,
+  "name": "High Priestess Mims",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    24.8,
+    9.4
+   ],
+   [
+    24.8,
+    10
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak to High Priestess Mims in Ironforge.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 258785,
+   "name": "High Priestess Mims",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 376,
+   "name": "High Priestess Laurena",
+   "coord": [
+    38.8,
+    26.4
+   ],
+   "coords": [
+    [
+     38.4,
+     26.2
+    ],
+    [
+     38.8,
+     26.4
+    ],
+    [
+     38.8,
+     26.6
+    ],
+    [
+     49.6,
+     44.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 258785,
+   "name": "High Priestess Mims",
+   "coord": [
+    24.8,
+    10
+   ],
+   "coords": [
+    [
+     24.8,
+     9.4
+    ],
+    [
+     24.8,
+     10
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-20T18:53:24-05:00",
+   "body": "For gnomes:\r\nLocation doesn't show up on the in-game map and tells you to \"head to Stormwind\", but she is a priest trainer in the Mystic Ward of Ironforge.",
+   "replies": []
+  }
+ ]
+}

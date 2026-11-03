@@ -1,0 +1,84 @@
+{
+ "id": 96391,
+ "name": "Underground Map",
+ "level": 15,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1050,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 264936,
+  "name": "Earthseer Farsen",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    64.8,
+    58.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Deliver the Dark Iron Map to Earthseer Farsen in Dun Morogh . Dark Iron Map (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 274268,
+   "name": "Dark Iron Map",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  96391,
+  96393
+ ],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 264936,
+   "name": "Earthseer Farsen",
+   "coord": [
+    64.8,
+    58.4
+   ],
+   "coords": [
+    [
+     64.8,
+     58.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 10,
+   "date": "2026-09-20T08:45:13-05:00",
+   "body": "[item=274268] that drops from [npc=6123] in Dun Morogh starts this quest.\n/way 77 60",
+   "replies": [
+    "I can confirm this information. I am level 20, and I got it after two kills. Don't know if this is normal high drop rate."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2026-09-20T05:24:15-05:00",
+   "body": "This quest is granted through a drop, not given by an NPC.",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2026-09-20T06:45:16-05:00",
+   "body": "Dropped by [npc=6123 domain=forever] I got mine after about 10 kills",
+   "replies": []
+  }
+ ]
+}

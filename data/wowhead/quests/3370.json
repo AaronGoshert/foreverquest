@@ -1,0 +1,283 @@
+{
+ "id": 3370,
+ "name": "In Nightmares",
+ "level": 25,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2000,
+ "start": {
+  "type": "npc",
+  "id": 8418,
+  "name": "Falla Sagewind",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    48.2,
+    32.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4217,
+  "name": "Mathrengyl Bearwalker",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    34.8,
+    7.4
+   ],
+   [
+    35.2,
+    8
+   ],
+   [
+    35.2,
+    8.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring the Nightmare Shard to Mathrengyl Bearwalker in Darnassus. Nightmare Shard (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 10649,
+   "name": "Nightmare Shard",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 8418,
+   "name": "Falla Sagewind",
+   "coord": [
+    48.2,
+    32.8
+   ],
+   "coords": [
+    [
+     48.2,
+     32.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 4217,
+   "name": "Mathrengyl Bearwalker",
+   "coord": [
+    35.2,
+    8
+   ],
+   "coords": [
+    [
+     34.8,
+     7.4
+    ],
+    [
+     35.2,
+     8
+    ],
+    [
+     35.2,
+     8.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 30,
+   "date": "2007-04-05T00:36:21-05:00",
+   "body": "The Talbar Mantle are awesome Twink shoulders for cloth wearers.\r\n\r\n For the Alliance.\r\n\r\nGet someone to Run you through Wailing Caverns.\r\nYou need to kill all serpent lords, and then speak to the Tauren druid at the beginning of the instance itself (rather than the cave).\r\n\r\nThen follow and protect the Tauren.\r\nThen when it goes to the sleeping person, it will begin it's magic.\r\nAnd you need to protect it for 3 waves of enemies.\r\nThe first is Deviate snake thingies\r\nthe second is slime monster thingies\r\nand the third is a giant silver Murloc.\r\nDefeat him, and pick up the glowing shard.\r\n\r\nYou then want to open the quest that the Glowing shard has.\r\nyou need to go to Ratchet and speak with the goblin near to the flight path goblin. he will tell you to take the shard to a Tauren Lady (Falla Sagewind) on top of the mountain that Wailing Caverns is under.\r\n(not the cave room above the entrance to Wailing Caverns)\r\n\r\nSpeak to her, and she will tell you to go and speak with a Night Elf druid trainer Mathrengyl Bearwalker.\r\nand he gives you the reward.\r\n\r\nyay.",
+   "replies": []
+  },
+  {
+   "rating": 22,
+   "date": "2007-03-22T17:45:40-05:00",
+   "body": "confirmed, its just 2000xp for level 19. Was abit nervous too cos i have like 3500xp to ding. took my chances. Just wanted to let the other twinks know so they wont sweat like i did.\n\nP.s: 2000xp is just for IN NIGHTMARES quest only, you get 2650xp when u turn in the glowing shard to the tauren druid on top of the mountain above wailing cavern.",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2006-06-27T21:07:16-05:00",
+   "body": "You get 2000XP from completing this quest, not 200 like its shown above.",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2007-04-17T21:35:10-05:00",
+   "body": "The goblin in Ratcht is Sputtervalve. He is by the flight master and will NOT have a question mark over his head. 63,72",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2007-02-01T21:07:16-06:00",
+   "body": "All quest rewards binds on pickup, so they can't be sold.",
+   "replies": [
+    "not true that ALL quest items are BoP, the pattern for deviate scale belt (also a WC quest) isnt so that you can sell it on the AH.&nbsp; its especially popular on the alliance side since nobody really goes to WC."
+   ]
+  },
+  {
+   "rating": 8,
+   "date": "2007-04-22T03:21:40-05:00",
+   "body": "he's at 35, 8 in darn.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-03-10T09:07:16-06:00",
+   "body": "Hey i know now how to do this..\nThis is for the allaience twinks:\nyou just kill all the spesial mobs in WC \n(the 4 humanoids that you get a quest to kill at the horde side.) then you go back to the start and speak with the druid that gives you MOTW. (druid buff) if you press the talking senates that you now can do he will start to walk. Follow him to the final place in the cave and kill the lv 22 Murlock boss he drops this quest.\nAfter that go to ratched. \nspeak with the person showed on this place \n(or the one next to the fly master)\nthen go to cord: 48.33\nthe last part is to deliver it in Darnassus.\n GL all if you understand it it is very easy!&nbsp; :P",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-03-06T18:51:03-06:00",
+   "body": "Did you all go to Rachet and talk to Sputtervalve before going up the mountain to the Tauren?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-08T21:07:16-05:00",
+   "body": "how much xp do i gain at lvl 19 if i complete this quest?\n\ncus i got 3644xp left until im lvl 20 with my twink :/",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-02-01T21:07:16-06:00",
+   "body": "The trick is for twinks to take a high lvl to clear the palce and you stay waaay back so u dont get any XP at all..I did the whole of bfd for the wand for my priest and got NO XP at all.\n\nUnless somethings changed recently these shoulders/boots are BOP so u cant buy them and you cant sell them, \n\nhappy hunting",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-16T01:26:28-05:00",
+   "body": "and it's a huge long time to get the whole Wailing Caverns done. And you need really empty bags if you're going to do it solo or with only one friend (I did it with one friend both of us hunters)\n\nIt's a long way to get through the caverns, and we were pretty exhausted by the end. I can happily not look at a raptor for the next couple weeks, I think. We took the glowing green shard to Ratchet, then after we were directed back to the druid on the top of the hill. Finally, we got the quest from her. I had tried previously and like others she hadn't spoken to me. After Wailing Caverns, she did.\n\nYou get well paid in greens for your time and effort though. Good AH fodder and nice vendor prices for the soul bound bluestuff. And 250 Darnassus reputation for turning in the druid's quest at the end of it all.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-14T17:02:23-05:00",
+   "body": "my twink warrior, done my research, this is the best twink shoulder out there... but can i do this at 17 to get the shoulder? and where does this start?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-14T17:04:28-05:00",
+   "body": "best twink shoulder at 19 in game.... CAN I DO THIS AT 17? and where does it start?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-08T11:26:39-05:00",
+   "body": "Completed as 18-19 gnome warrior. \n@ Hill top in Barrens received: 2650xp,no rep.\n@ Darnassus for final turn in: 2000 xp, 250 Darnassus Rep.\nBooya!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-29T23:38:26-05:00",
+   "body": "horde can do this too;i got sent to the druid elder in thunderbluff.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-11-28T13:31:26-06:00",
+   "body": "I tried to do this quest. I found her at te top of the mountain at the shrine of the warrior, but she would not communicate. So I could not get the quest. This was on Turalyon. My level is 31 Night Elf.\n\nAre there more Alliance people having this problem?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-12-28T19:58:25-06:00",
+   "body": "My night elf lvl 25 can't do it too.\n\nEdited, Wed Dec 28 14:01:12 2005",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-04-30T08:54:15-05:00",
+   "body": "Just a note: the quest description there is only for alliance. For the horde, I think you need to talk to someone on elder rise in Thunder Bluff. If you don't know where to get the shard, it's like this:\n1. Clear out Wailing Caverns. That means all the bosses plus Verdan the Everling.\n2. Talk to the lv. 30 elite tauren at the start of the instance. He'll say something about awakening some dude.\n3. Escort the tauren through the first section of the caves. You'll pause occasionally to defend him from spawning enemies.\n4. The tauren will turn left into a large alcove. You should see a night elf lying on a pedestal with green fires everywhere.\n5. The tauren will start a spell to awaken his friend. During that time, there will be three waves of enemies that come from the pool. First one is four elite naga things (forgot the names). Second wave is about ten non-elite sludge dudes. The third wave is the biggest murlock you will ever see. It's level 18 I think. Anyway, the shard drops from him.",
+   "replies": [
+    "This quest can be done before level 20.  I have seen level 19 twinks with the talbar mantle."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2007-03-10T09:07:16-06:00",
+   "body": "Hey, i got an �ber lvl 19 twink with 2922 xp to ding. I dont know if i can turn the q in. Is there anybody thats 100% sure that it dosnt give more then 2000xp? Or does it give more? Plz Tell me!",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-03-10T09:07:16-06:00",
+   "body": "Doesen\"t this item drop as a quest at the last boss?\nim wondering!\nI REALY need this for ym twink warrior! hes the best of all!",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-04-16T01:26:28-05:00",
+   "body": "does anyone know where he is in darn?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-05-19T12:00:04-05:00",
+   "body": "Just explore with your main how many quests it takes and what to do, I have it on my LVL 15 twink (in progress).",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-02-21T14:07:58-06:00",
+   "body": "Got the shard, went to the druid she talked to me, and am heading to Darn now, but WoW patching so had to halt there.  When talking to the druid on top of the mountain, ALL The way up there btw... I got 2050 xp at level 25.  I did not see any faction xp though, but I may have missed it in my excitement [:yippee:]",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2007-04-25T04:19:16-05:00",
+   "body": "19900/21300 xp :\\&nbsp; Can i hand in without lvling? :O",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-10-15T09:07:16-05:00",
+   "body": "Guys if you aren't a nightelf and don't have a flying point there yet it's a really long walk I had to go to ratchet to booty bay to stormwind take the train to ironforge then walk from iron forge to habor to catch the boat! If you are human it's a long walk",
+   "replies": [
+    ".... or have a mage portal you there in a second ;)"
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2006-12-27T09:07:16-06:00",
+   "body": "I need to know how much XP this quest gives at lvl 19...im 17000/21000 and i dont want my guy to turn 20 or all the enchants and money go to waste.&nbsp; Help me out",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-05-10T09:07:16-05:00",
+   "body": "I currently have the gem and neeed to take it to Ratchet, I was just wondering if there were a lot more quest after this.",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2005-11-20T21:07:16-06:00",
+   "body": "I am a lvl 27 dwarf priest and can't talk to Falla.. I thought the quest was obtained at lvl 17? Dunno what to do..",
+   "replies": [
+    "Try reading the above replies.&nbsp; Then go to the Wailing Caverns, if you want to do this quest."
+   ]
+  }
+ ]
+}

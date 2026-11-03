@@ -1,0 +1,170 @@
+{
+ "id": 98191,
+ "name": "A Friend of the Family",
+ "level": 25,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 200,
+ "start": {
+  "type": "npc",
+  "id": 1748,
+  "name": "Highlord Bolvar Fordragon",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    77.4,
+    18.4
+   ],
+   [
+    77.4,
+    18.8
+   ],
+   [
+    77.6,
+    18.6
+   ],
+   [
+    78,
+    18
+   ],
+   [
+    80,
+    38.4
+   ],
+   [
+    80,
+    38.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 928,
+  "name": "Lord Grayson Shadowbreaker",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    37.2,
+    33
+   ],
+   [
+    37.6,
+    32.6
+   ],
+   [
+    48.4,
+    50
+   ],
+   [
+    48.6,
+    50
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Bring the Menethil Statuette to Lord Grayson Shadowbreaker in the Cathedral of Light. Menethil Statuette (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 279598,
+   "name": "Menethil Statuette",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  279,
+  281,
+  284,
+  285,
+  286,
+  98189,
+  98190,
+  98191
+ ],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 1748,
+   "name": "Highlord Bolvar Fordragon",
+   "coord": [
+    78,
+    18
+   ],
+   "coords": [
+    [
+     77.4,
+     18.4
+    ],
+    [
+     77.4,
+     18.8
+    ],
+    [
+     77.6,
+     18.6
+    ],
+    [
+     78,
+     18
+    ],
+    [
+     80,
+     38.4
+    ],
+    [
+     80,
+     38.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 928,
+   "name": "Lord Grayson Shadowbreaker",
+   "coord": [
+    37.2,
+    33
+   ],
+   "coords": [
+    [
+     37.2,
+     33
+    ],
+    [
+     37.6,
+     32.6
+    ],
+    [
+     48.4,
+     50
+    ],
+    [
+     48.6,
+     50
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-06T14:22:05-05:00",
+   "body": "[b]This quest only grants 200 XP and no reputation.[/b] The previous part grants nothing. Nifty [b]32s 55c[/b] reward when vendored, but I'd only turn this in if I actually plan on visiting Stormwind City for other reasons.",
+   "replies": []
+  }
+ ]
+}

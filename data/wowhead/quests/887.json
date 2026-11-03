@@ -1,0 +1,331 @@
+{
+ "id": 887,
+ "name": "Southsea Freebooters",
+ "level": 14,
+ "reqlevel": 9,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 740,
+ "start": {
+  "type": "npc",
+  "id": 3391,
+  "name": "Gazlowe",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62.6,
+    36.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3391,
+  "name": "Gazlowe",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62.6,
+    36.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Kill 12 Southsea Brigands and 6 Southsea Cannoneers for Gazlowe in Ratchet.   Southsea Brigand slain  ( 12 )   Southsea Cannoneer slain  ( 6 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3381,
+   "name": "Southsea Brigands",
+   "count": 12,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 3382,
+   "name": "Southsea Cannoneer",
+   "count": 12,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Southsea Brigand slain",
+   "count": 12,
+   "type": "npc",
+   "id": 3381
+  },
+  {
+   "text": "Southsea Cannoneer slain",
+   "count": 6,
+   "type": "npc",
+   "id": 3382
+  }
+ ],
+ "series": [
+  887,
+  890,
+  892,
+  888
+ ],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 3391,
+   "name": "Gazlowe",
+   "coord": [
+    62.6,
+    36.2
+   ],
+   "coords": [
+    [
+     62.6,
+     36.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 3391,
+   "name": "Gazlowe",
+   "coord": [
+    62.6,
+    36.2
+   ],
+   "coords": [
+    [
+     62.6,
+     36.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "requirement",
+   "type": 1,
+   "id": 3381,
+   "name": "Southsea Brigand",
+   "coord": [
+    63.6,
+    49.2
+   ],
+   "coords": [
+    [
+     25.8,
+     23.8
+    ],
+    [
+     62.8,
+     49.8
+    ],
+    [
+     63.4,
+     43.2
+    ],
+    [
+     63.4,
+     45.8
+    ],
+    [
+     63.4,
+     49.2
+    ],
+    [
+     63.6,
+     43.4
+    ],
+    [
+     63.6,
+     46
+    ],
+    [
+     63.6,
+     49.2
+    ],
+    [
+     63.8,
+     44.8
+    ],
+    [
+     63.8,
+     46.8
+    ],
+    [
+     63.8,
+     48.2
+    ],
+    [
+     64.2,
+     43.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "requirement",
+   "type": 1,
+   "id": 3382,
+   "name": "Southsea Cannoneer",
+   "coord": [
+    63.8,
+    43.8
+   ],
+   "coords": [
+    [
+     25.8,
+     23.8
+    ],
+    [
+     62.4,
+     49.4
+    ],
+    [
+     62.8,
+     49.8
+    ],
+    [
+     63,
+     44
+    ],
+    [
+     63.2,
+     49.2
+    ],
+    [
+     63.4,
+     45.8
+    ],
+    [
+     63.6,
+     46
+    ],
+    [
+     63.6,
+     46.8
+    ],
+    [
+     63.6,
+     49.2
+    ],
+    [
+     63.8,
+     43.8
+    ],
+    [
+     64.2,
+     47.8
+    ],
+    [
+     64.6,
+     44
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 26,
+   "date": "2005-10-26T01:16:35-05:00",
+   "body": "64,44",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2006-09-19T13:16:35-05:00",
+   "body": "Okay, so you're on the road that leads into ratchet (the ONLY main road into ratchet). You get to coords 61:37. STOP. Turn right (S.E.). You should see Jazzik's General Goods. Go towards it, now go past it (stay to the left side of the buldings). Go past the tavern. You should see a little \"pass\" looking area (62:39) that you can walk through (don't jump over the fence, just keep going straight).&nbsp; There might even be a bruiser standing at the entrance. You will notice this is a path. Follow it. You'll run right into them and their camp.\n\nAnd in case you forgot where he is, when you're done, turn it in at 62:36.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2007-04-28T05:41:52-05:00",
+   "body": "an easy quest , south of ratchet...63,43 is where the first camp is.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2006-02-12T13:16:35-06:00",
+   "body": "Southsea Freebooters\n\n&nbsp; \n- Southsea Brigand: 0/12&nbsp; &nbsp; - 63,44\n- Southsea Cannoneer: 0/6&nbsp; &nbsp; - 63,44\n \n&nbsp; in this localisations...",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-26T01:16:35-05:00",
+   "body": "just south of Ratchet, follow the path along the coastline",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2019-06-21T14:01:27-05:00",
+   "body": "This quest can be done by both Alliance and Horde.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-03-21T01:16:35-06:00",
+   "body": "Same mobs are there I did it yesterday.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-02-12T13:16:35-06:00",
+   "body": "I searched south of Ratchet, but I couldn't find a single Southsea Brigand nor Southsea Cannoneer.&nbsp; I found Southsea Cutthroats, Southsea Privateers, and something else whose name I can't remember.&nbsp; I was searching where thottbot says the Brigans load.&nbsp; I'm on Bronzebeard, and Thottbot doesn't even list a location on the map for Southsea Privateer.&nbsp; Did they recently change the mobs here or something?&nbsp; What's going on?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-14T01:16:35-05:00",
+   "body": "ok if you found the first ones like that other guy did all you gotta do is walk off the side of the cliff and there you are.\njust right under your nose! kinda like the comericals!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-07T18:18:09-05:00",
+   "body": "There are also 4 or 5 locked strongboxes on the ship docked near the first pack of pirates.  You can access the ship by jumping up the spike sticking out of the prow and running up the face of the decking.  The ship is completely empty, so the boxes are unguarded if you can unlock them.",
+   "replies": [
+    "the boxes are empty... so don't waste your time\nthey are ment for a rouge training quest",
+    "I was able to compleate this quest at level 13 (rogue) and the lock boxes on the ship is the fist stop to increasing your lock picking skill.. I got as far as 155 on theese boxes alone."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-09T16:33:31-05:00",
+   "body": "Very easy with 15th lvl tauren shaman\n64,44 for Cosmos UI users",
+   "replies": [
+    "everything is easy for the shaman",
+    "It's also easy for level 14 tauren druids.\nBeat the quest in under 1/2 hour.",
+    "It's also easy for level 14 tauren druids.\nBeat the quest in under 1/2 hour."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-09T22:08:30-05:00",
+   "body": "To get there all you gotta do is look on your map, and go a little south of the Ratchet along the coastline. You will find plenty of Southsea Brigand's and Southsea Cannoneer's.\n\nI found the quest boringly easy, most likely cause I did it as a 19 Warlock. If your a little lower you might get a challenge, I'm not sure though.\n\n\nBapupa\n\n[i][small]Edited, Apr  9th 2007  9:10pm by Bapupa[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-08-14T01:16:35-05:00",
+   "body": "for the quest Southsea Freebooters, i kill the guys i havta kill but the yellow thing at the top of the screen doesnt pop up and says\" Blah Blah Blah killed 4\\5 \" or wat ev. is it lag? or am i killing tha wrong guys?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-02-12T13:16:35-06:00",
+   "body": "How can I fix to have live a Cordinate to see where them are?",
+   "replies": []
+  }
+ ]
+}

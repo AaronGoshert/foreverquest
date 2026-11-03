@@ -1,0 +1,424 @@
+{
+ "id": 287,
+ "name": "Frostmane Hold",
+ "level": 9,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 590,
+ "start": {
+  "type": "npc",
+  "id": 1252,
+  "name": "Senir Whitebeard",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    46.6,
+    53.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1252,
+  "name": "Senir Whitebeard",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    46.6,
+    53.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Explore Frostmane Hold, and kill 5 Frostmane Headhunters for Senir Whitebeard in Kharanos.   Frostmane Headhunter slain  ( 5 )   Explore Zone  ( 1 )   Fully explore Frostmane Hold  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1123,
+   "name": "Frostmane Headhunters",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Frostmane Headhunter slain",
+   "count": 5,
+   "type": "npc",
+   "id": 1123
+  },
+  {
+   "text": "Explore Zone",
+   "count": 1,
+   "type": "event",
+   "id": null
+  },
+  {
+   "text": "Fully explore Frostmane Hold",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [
+  287,
+  291
+ ],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1252,
+   "name": "Senir Whitebeard",
+   "coord": [
+    46.6,
+    53.8
+   ],
+   "coords": [
+    [
+     46.6,
+     53.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1252,
+   "name": "Senir Whitebeard",
+   "coord": [
+    46.6,
+    53.8
+   ],
+   "coords": [
+    [
+     46.6,
+     53.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "requirement",
+   "type": 1,
+   "id": 1123,
+   "name": "Frostmane Headhunter",
+   "coord": [
+    24.4,
+    50.8
+   ],
+   "coords": [
+    [
+     21,
+     51.6
+    ],
+    [
+     21.2,
+     50.8
+    ],
+    [
+     21.2,
+     54.4
+    ],
+    [
+     21.4,
+     54.6
+    ],
+    [
+     22,
+     50.2
+    ],
+    [
+     22.2,
+     51.4
+    ],
+    [
+     22.4,
+     51.6
+    ],
+    [
+     22.6,
+     51.8
+    ],
+    [
+     22.6,
+     54.6
+    ],
+    [
+     23.2,
+     50.8
+    ],
+    [
+     24,
+     53
+    ],
+    [
+     24.4,
+     50.8
+    ],
+    [
+     25.4,
+     50.4
+    ],
+    [
+     25.4,
+     50.8
+    ],
+    [
+     25.5,
+     51.1
+    ],
+    [
+     26,
+     52.2
+    ],
+    [
+     39.4,
+     35.8
+    ],
+    [
+     40.8,
+     43.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 143,
+   "date": "2006-07-06T13:58:01-05:00",
+   "body": "--Getting There--\nWalk the long way to the middle of Iceflow lake (33,42) and kill all normal animals you may encounter. Once you arrive at the Camp Brewnall Village (29,46) Head south West to the cave \"FrostMane Hold\" (24,50). \n\n--Part 1 (Kill all 5)--\nWhen you start see see trolls slowly pull the outside defenders 1 by 1 and then make it to the cave. just keep pulling them and killing them untill all 5 are slain.\n\n--Part 2--\nFor this i reccomend if you have any items or food that will increace stamina use them now. SImply kill the forst 3-4 in the cave so its safe (carefull not to get mobbed by 2) and then run as fast as possible to the end of the entrace passage. Jump down from there onto the ice and run around that snow/ice mound in the middle and it SHOULD say (Quest Frostmne Hold - Area Discorver) or something and then you will probably die but that doesnt matter because you are under 9 simply talk to the Spirit Healer and walk the 30 feet to the quest hand in and theres 750 exp.\n\n(Please vote and Comment)",
+   "replies": [
+    "You can't pull one at a time from the trolls around the fire. They will all aggro.",
+    "Go straight ahead or right once entering the correct cave.",
+    "Jump to 2021: the “run in to complete and die” meta has been eclipsed by the world buff meta. Run in, destroy all, saunter out, and enjoy :)"
+   ]
+  },
+  {
+   "rating": 51,
+   "date": "2005-10-24T01:58:01-05:00",
+   "body": "Coords are 24,50 (south west of Brewnall village)- it is NOT the cave at shimmer ridge (41,34 - NE Brewnall village / Iceflow lake)",
+   "replies": []
+  },
+  {
+   "rating": 25,
+   "date": "2007-05-03T20:40:56-05:00",
+   "body": "Frostmane Hold is 26,51\r\nThe entrance to the cave is 24,50",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2026-09-21T06:02:54-05:00",
+   "body": "Forever Beta: the new coords for the exploration is 21.2 54.0 . so far for now we will see if the changed coords remains correctly. [b][u]the coords are from the inside of the cave ![/u][/b]",
+   "replies": [
+    "Can confirm the above is correct."
+   ]
+  },
+  {
+   "rating": 13,
+   "date": "2005-11-29T13:58:01-06:00",
+   "body": "You need to get to 21,52 inside the cave at Frostman Hold. It's the one in the valley not the one up in the mountains.",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2006-03-24T18:32:41-06:00",
+   "body": "Only 600 exp for a lvl 9 rogue.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-10-24T01:58:01-05:00",
+   "body": "21,51",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2019-09-12T16:52:20-05:00",
+   "body": "Free Tip: For the 'Fully Explore Frostmane Hold' part once inside the cave go straight ahead and u should see a large open cavern with a drop off. Just go left there a few yards and easy peesy.",
+   "replies": [
+    "Yay, I was able to explore the cave by doing exactly this. Entered the cave and ran straight ahead following the right cave wall. The exact spot where I received the quest completion credit was by the small \"plateau\" in the middle of the open space. Thanks for the clearly-worded advice! // Oh, and another tip for fellow questers: Watch out for the two huts outside of the cave, six or seven Frostmane Trolls standing close together around the fire there."
+   ]
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-24T01:58:01-05:00",
+   "body": "you need to head into the cave behind the huts. enter and head to your right until it says&nbsp; \"Fully Explore Frostmane Hold\" complete.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2004-11-28T18:08:07-06:00",
+   "body": "What's the key to getting this quest to register you have 'explored the hold'?  I've run all around the dungeon twice now (died both times) and it still doesn't register I've been there.  Anyone know?",
+   "replies": [
+    "Same problem here, have talked to others ...there is suppose to be a 'specific' room you have to have passed thru - usally larger than the rest."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2006-08-12T01:58:01-05:00",
+   "body": "A kamakaze dash around the cave is the first time it's made sense to this young Paladin to use devine prot. And if you die the trot back will use up 4/5 of the cooldown!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-10-24T01:58:01-05:00",
+   "body": "is it only one place to go? i thougth it was like 3 difrent places",
+   "replies": [
+    "Most of (like me), have not discovered Frostmane Hold yet. \n[u]Simple Direction[/u]\n\n[ul]\n  [li]Open your map.\n[/li]\n  [li]Locate the road that lead you to Gnomeregan\n[i](there is only one road, it starts from Coldridge Vally and ends at Gnomeregan)[/i]\n[/li]\n  [li]Follow that Road untill it ends\n[/li]\n  [li]Once the road ends, keep on going south along the side of the mountain.\n[/li]\n[/ul]\n[b]There you found Frostmane Hold![/b]\n\nLocation for [b]Frostmane Hold:[/b] \n-WEST of Chillbreeze Vally\n-SOUTH of Gnomeregan\n[Draw a line WEST of Chillbreeze and draw another line South of Gnomeregan.Connec"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2004-12-03T05:16:09-06:00",
+   "body": "I ran into the same problem. Seems to be a bug - which I hope someone fixes!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2004-12-11T14:51:52-06:00",
+   "body": "I finished this tonight after a few deaths.  There is a curved path between the two large rooms.  The midway point of that path was the spot where it gave me exploration compleat.",
+   "replies": [
+    "I still can't get this to complete. And what do you mean \"the two large rooms\"? You mean the platforms? I have wandered every square inch of this stupid ridge.",
+    "You need to explore inside the cave... The trigger point for me was at the small tunnel into the largest room, with a ledge overlooking it."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-10T18:32:06-05:00",
+   "body": "For some reason I have diffuculty taking on more then one Frostmane Headhunter! I dunno why even, I'm a Level 9 Dwarf Warrior, and I can take a decent hit I guess, but they deal out like 9-10 Damage to me. And I've got like over 200 HP so I don't see why I can't finish this quest faster. All I have yet to do is Explore Fully, then I'm done. I'll finish it tonight, its just really annoying dying becuase these few Headhunters practically rape me.... Any tips?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-24T01:58:01-05:00",
+   "body": "Yeah, I experienced the same thing last night on the Durotan server.&nbsp; I thought it was awfully strange when I entered the cave and it changed all my channels to Alterac Mountains and said I had entered Winterax Hold in Alterac Valley.&nbsp; Looked up Alterac Mountains on the map to make sure I wasn't crazy.&nbsp; Same thing happened when I died.&nbsp; I didn't realize there were creatures that had ? for their level.&nbsp; Talk about getting owned.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-12T01:58:01-05:00",
+   "body": "[u][b]25,50[/b][/u]\n\nI don't know why its so hard to get exact cords... Here's the real cords",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-17T13:58:01-05:00",
+   "body": "Possibly to make Map? Usualy play`s on Horde and this is my first Gnome. So can anyone make a map to where it is? (I sawe many said \"to southwest, to north\" and many things liekt hat, but from where?)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-05T01:58:01-06:00",
+   "body": "Unlike other investigates, this one says [b]fully[/b].&nbsp; This means you must go all the way in.&nbsp; Follow the directions as given to the right. Less Mobs that way.&nbsp; You must go all the way to the back where the little plateau is in the middle of the cave.&nbsp; You must venture behind the plateua to get the disco complete.&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-19T01:58:01-05:00",
+   "body": "i cant find it south of gnomeregan all i find is leper gnomes and big cranks",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-07T18:52:02-06:00",
+   "body": "Don't you have to kill 5 headhunters to complete this quest?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-01T23:48:05-06:00",
+   "body": "I'm a lvl 9 hunter and when i try going through the door 2 of them come at me and i die",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-22T22:31:06-06:00",
+   "body": "Just did it today as a Lvl. 8 warlock.\n\nUnless you have other quests to complete out in the area, it might be advantageous to make the Kharanos tavern your 'home', saving you some return travel time when you turn in the quest.\n\nAs mentioned below, correct path will be the second left once entering the cave... (immediately after the first left). You will come to a ledge that looks down on a pathway with two mobs below. Initially, I made the mistake of using a ranged attack, thinking one of mobs would just jump the ledge. Unfortunately, it ran the 'long way around' and ended up dragging 5 or 6 mobs with him. After dying, I came back and jumped down with the 2 mobs before attacking them (looking down from the ledge and to your left there should be enough space so you won't immediately aggro the first mob). After killing the 2 mobs, i followed the path (only 1 direction possible at this point) into the large room, hitting up the chest on the way. Right -before- I entered the main room, I received the 'exploration complete' message, and then hearthed back to the tavern in Kharanos. \n\nEdited, Sun Jan 22 16:40:14 2006",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-10T02:32:35-06:00",
+   "body": "There's a ledge somewhere near the entrance. A chest usually spawns there, I accidentally fell and killed two trolls below. I backed up to the edge because I was low on health, but as soon as I started running into a very open area, the exploration was done.\n\n[b]As soon as you enter, turn left and off the little ledge.[/b]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-02T03:13:23-06:00",
+   "body": "Don't confuse this mission with The Perfect Stout  mission which has you gather Shimmerweeds on Shimmerwood Ridge (or something like that). There is only one Head Hunter there, and he spawns only once every five minutes or something.\n\nFor this mission of Frostmane Hold, make sure you're in Brewnall Village and then go directly southwest and you will run into the trolls and their cave.\n\nI don't think the exploration part is in effect anymore. Just kill at least 5 Head Hunter type trolls and you should be good to go.\n\nEdited, Sat Jan  1 21:14:57 2005",
+   "replies": [
+    "Actually there is an exploration, I went and whomped all over the Headhunters, and that part of the quest is complete, but the exploration part isnt, and I wandered pretty much every inch of that area and nothing.. there must be a bug."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-01T06:02:26-06:00",
+   "body": "You need to enter the very back of the cave to trigger the 'explore the hold'.",
+   "replies": [
+    "Thanks, been missing that"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-28T19:48:37-06:00",
+   "body": "This quest rewards 150 Ironforge reputation and 150 Gnomeregan Exiles reputation as of patch 2.01",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-28T17:55:50-06:00",
+   "body": "This requires you to go to the very southern tip of the cave, to the part that looks like a \"C\" west of the room with the frozen pond in it.",
+   "replies": [
+    "Actually, I just completed it by exploring the westernmost tip of it. :P"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2006-06-15T23:15:56-05:00",
+   "body": "this quest is so easy",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-04-18T18:28:32-05:00",
+   "body": "I went into the cave, and veered a little left (a hard left isn't the way to complete the quest, but there is a chest that paath).\n\nGoing this way, I lept of a ledge, and as previously posted, killed 2 mobs and moved along the tunnel a few feet and got the completion msg.\n\nFor those cosmos ppl like myself, loc is 22,52",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-24T01:58:01-05:00",
+   "body": "Even though you might not have seen the pop-up that says that the quest is complete that doesnt mean anything. I bet that half of you that had actually gone a full circuit from right all around and came out the left, had actually completed the quest and didn't notice it. All of you should check your quest log and see if you had actually completed it or if there really is a bug, because I have done this quest on 3 different occasions with my warrior, rogue, and mage and have never had a problem\n\n>>I am in the Mannoroth Server<<",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2007-03-13T10:05:55-05:00",
+   "body": "Continue Quest Text (from Senir Whitebeard):\r\n\r\n\"You can't find it? My directions were very clear! We don't have much time, you've got to hurry! Don't come back until you've found the cave.\"\r\n\r\nComplete Quest Text (from Senir Whitebeard):\r\n\r\n\"Ah, <name>! I didn't think you'd have much trouble finding the place, my directions are excellent, you know...\r\n\r\n\"Let me just finish up my report then.\"\r\n\r\n<He brings out some paper and scribbles on it momentarily.>\r\n\r\n\"There! Well, haha, now this certainly is funny... I don't suppose, <name>, that you would mind doing one last favor for me?\"",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2019-04-09T17:16:00-05:00",
+   "body": "The prequests for this quest to show up is the following from the Coldridge Valley (Dwarf/Gnome starting area)\r\n\r\n1.\tThe Troll Cave\r\n2.\tThe Stolen Journal\r\n3.\tSenir's Observations\r\n4.\tSenir's Observations\r\n\r\nSome of these quests are missing from wowhead after the cataclysm. I'll fix the formatting so the quests are linkable once classic goes live.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2004-12-09T03:25:51-06:00",
+   "body": "yea i cant find a way to finish this quest either.",
+   "replies": []
+  }
+ ]
+}

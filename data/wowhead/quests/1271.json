@@ -1,0 +1,143 @@
+{
+ "id": 1271,
+ "name": "Feast at the Blue Recluse",
+ "level": 37,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 15,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 1141,
+  "name": "Angus Stern",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    41.2,
+    88.4
+   ],
+   [
+    41.2,
+    89.6
+   ],
+   [
+    41.4,
+    89.2
+   ],
+   [
+    51.6,
+    93.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1141,
+  "name": "Angus Stern",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    41.2,
+    88.4
+   ],
+   [
+    41.2,
+    89.6
+   ],
+   [
+    41.4,
+    89.2
+   ],
+   [
+    51.6,
+    93.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Completion My nephew said you aided him with his research in Dustwallow, and that you helped his associate out of a tight spot.  Well, we Sterns stick together and we don't ignore our friends! So wash your hands, <name>, because we're about to throw a party in your honor!",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 1141,
+   "name": "Angus Stern",
+   "coord": [
+    41.4,
+    89.2
+   ],
+   "coords": [
+    [
+     41.2,
+     88.4
+    ],
+    [
+     41.2,
+     89.6
+    ],
+    [
+     41.4,
+     89.2
+    ],
+    [
+     51.6,
+     93.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 1141,
+   "name": "Angus Stern",
+   "coord": [
+    41.4,
+    89.2
+   ],
+   "coords": [
+    [
+     41.2,
+     88.4
+    ],
+    [
+     41.2,
+     89.6
+    ],
+    [
+     41.4,
+     89.2
+    ],
+    [
+     51.6,
+     93.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 39,
+   "date": "2007-04-30T17:01:13-05:00",
+   "body": "After speaking to and completing the quest with Angus Stern (41,89) don't forget to loot all the food and drinks off the tables they have put out in your honor.",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2020-07-06T00:48:53-05:00",
+   "body": "The list of required quests is incorrect, [quest=1258] is NOT a requirement for this quest.",
+   "replies": []
+  }
+ ]
+}

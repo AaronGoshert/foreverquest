@@ -1,0 +1,187 @@
+{
+ "id": 94449,
+ "name": "Call of Fire",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 420,
+ "start": {
+  "type": "npc",
+  "id": 258098,
+  "name": "Eldrun Stormbreaker",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    46.2,
+    13
+   ],
+   [
+    47.2,
+    12.2
+   ],
+   [
+    47.4,
+    13.4
+   ],
+   [
+    47.4,
+    13.6
+   ],
+   [
+    47.6,
+    13.4
+   ],
+   [
+    47.6,
+    13.6
+   ],
+   [
+    47.8,
+    12.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 257597,
+  "name": "Bruegs Kindleborn",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    87.4,
+    43.6
+   ],
+   [
+    87.6,
+    43.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Find Bruegs Kindleborn in Dun Morogh.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 257597,
+   "name": "Bruegs Kindleborn",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  94449,
+  94465,
+  94466,
+  94467,
+  94468
+ ],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 258098,
+   "name": "Eldrun Stormbreaker",
+   "coord": [
+    47.4,
+    13.6
+   ],
+   "coords": [
+    [
+     46.2,
+     13
+    ],
+    [
+     47.2,
+     12.2
+    ],
+    [
+     47.4,
+     13.4
+    ],
+    [
+     47.4,
+     13.6
+    ],
+    [
+     47.6,
+     13.4
+    ],
+    [
+     47.6,
+     13.6
+    ],
+    [
+     47.8,
+     12.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 258113,
+   "name": "Ingrid Dunwald",
+   "coord": [
+    47.4,
+    52
+   ],
+   "coords": [
+    [
+     47.4,
+     52
+    ],
+    [
+     47.6,
+     52
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 257597,
+   "name": "Bruegs Kindleborn",
+   "coord": [
+    87.6,
+    43.6
+   ],
+   "coords": [
+    [
+     87.4,
+     43.6
+    ],
+    [
+     87.6,
+     43.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-21T20:41:15-05:00",
+   "body": "The trail to get to the quest turn in starts at 86.5/47.2.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-16T03:05:36-05:00",
+   "body": "Go through the tunnel to South Gate Outpost. When you come out of the first tunnel, keep left and go around the tower and Mountaineer Barleybrew (target of a different quest). You'll see the small path going up the mountain at around 86/47.  It is small but shows up on the minimap. It will wind around up the mountain to the cave (89.7/44.6) to turn in the quest and get the next step.",
+   "replies": []
+  }
+ ]
+}

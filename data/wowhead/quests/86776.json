@@ -1,0 +1,104 @@
+{
+ "id": 86776,
+ "name": "Ingredients for the Forge",
+ "level": 30,
+ "reqlevel": 15,
+ "side": 1,
+ "zoneId": 38,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2450,
+ "start": {
+  "type": "npc",
+  "id": 167,
+  "name": "Morhan Coppertongue",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    34,
+    46.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 167,
+  "name": "Morhan Coppertongue",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    34,
+    46.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring 10 Bronze Bars to Morhan Coppertongue . Bronze Bar  ( 10 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 2841,
+   "name": "Bronze Bars",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Bronze Bar",
+   "count": 10,
+   "type": "item",
+   "id": 2841
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 167,
+   "name": "Morhan Coppertongue",
+   "coord": [
+    34,
+    46.6
+   ],
+   "coords": [
+    [
+     34,
+     46.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 167,
+   "name": "Morhan Coppertongue",
+   "coord": [
+    34,
+    46.6
+   ],
+   "coords": [
+    [
+     34,
+     46.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-01T18:45:51-05:00",
+   "body": "I completed this quest as a Miner in Loch Modan. I'm not sure if it requires the profession. The [b]quest giver stands right next to a forge[/b], so you can smelt your ore into bars right then and there.\r\n\r\nThe reward is deceptively massive: [b]25s[/b] is already close to what the Bronze Bars themselves are worth, but you also get [b]2450 XP[/b] from this. The XP reward is about [b]twice[/b] as much as regular level ~15 quests. Since you'll also have way more Copper than Tin, this quest doesn't really put a dent in your Bronze Bar supply as you can use the reward to craft more.",
+   "replies": []
+  }
+ ]
+}

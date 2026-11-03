@@ -1,0 +1,115 @@
+{
+ "id": 91901,
+ "name": "A Sealed Crate",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 0,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 256390,
+  "name": "Marcy Baker",
+  "zone": "Redridge Mountains",
+  "zoneId": 44,
+  "coords": [
+   [
+    9.4,
+    71
+   ],
+   [
+    9.6,
+    71
+   ]
+  ]
+ },
+ "end": null,
+ "patch": "1.60.1.69913",
+ "objectiveText": "Progress Another delivery! Fantastic. Set it over by the pile and we can discuss your compensation. Sealed Expert Crate  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 248767,
+   "name": "Sealed Expert Crate",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Sealed Expert Crate",
+   "count": 1,
+   "type": "item",
+   "id": 248767
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 44,
+   "zone": "Redridge Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 256390,
+   "name": "Marcy Baker",
+   "coord": [
+    9.6,
+    71
+   ],
+   "coords": [
+    [
+     9.4,
+     71
+    ],
+    [
+     9.6,
+     71
+    ]
+   ]
+  },
+  {
+   "zoneId": 44,
+   "zone": "Redridge Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 256390,
+   "name": "Marcy Baker",
+   "coord": [
+    9.6,
+    71
+   ],
+   "coords": [
+    [
+     9.4,
+     71
+    ],
+    [
+     9.6,
+     71
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 256386,
+   "name": "Dokimi",
+   "coord": [
+    50,
+    29.2
+   ],
+   "coords": [
+    [
+     50,
+     29.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

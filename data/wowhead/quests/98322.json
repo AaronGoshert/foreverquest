@@ -1,0 +1,94 @@
+{
+ "id": 98322,
+ "name": "Secure the Mountain",
+ "level": 8,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 70,
+ "start": {
+  "type": "npc",
+  "id": 1252,
+  "name": "Senir Whitebeard",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    46.6,
+    53.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 271546,
+  "name": "Mountaineer Gretchen",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    44,
+    57
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Check in on Mountaineer Gretchen west of Kharanos.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 271546,
+   "name": "Mountaineer Gretchen",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  98322,
+  98319,
+  98323
+ ],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1252,
+   "name": "Senir Whitebeard",
+   "coord": [
+    46.6,
+    53.8
+   ],
+   "coords": [
+    [
+     46.6,
+     53.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 271546,
+   "name": "Mountaineer Gretchen",
+   "coord": [
+    44,
+    57
+   ],
+   "coords": [
+    [
+     44,
+     57
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

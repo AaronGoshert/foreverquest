@@ -1,0 +1,67 @@
+{
+ "id": 78823,
+ "name": "Terror of the Desert Skies",
+ "level": 40,
+ "reqlevel": 26,
+ "side": 3,
+ "zoneId": 3,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 1550,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 715,
+  "name": "Hemet Nesingwary",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    35.6,
+    10.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Bring the Primitive Drawing to Hemet Nesingwary in Stranglethorn Vale. Primitive Drawing  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 211269,
+   "name": "Primitive Drawing",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Primitive Drawing",
+   "count": 1,
+   "type": "item",
+   "id": 211269
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "end",
+   "type": 1,
+   "id": 715,
+   "name": "Hemet Nesingwary",
+   "coord": [
+    35.6,
+    10.8
+   ],
+   "coords": [
+    [
+     35.6,
+     10.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

@@ -1,0 +1,277 @@
+{
+ "id": 92745,
+ "name": "The State of the Mines",
+ "level": 14,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 490,
+ "start": {
+  "type": "npc",
+  "id": 253092,
+  "name": "Alba Fairmoon",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    52.4,
+    53
+   ],
+   [
+    52.6,
+    53.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253092,
+  "name": "Alba Fairmoon",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    52.4,
+    53
+   ],
+   [
+    52.6,
+    53.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Slay 4 Kobold Diggers in the Jangolode Mine and 6 Riverpaw Miners in the Gold Coast Quarry.   Kobold Digger slain  ( 4 )   Riverpaw Miner slain  ( 6 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1236,
+   "name": "Kobold Diggers",
+   "count": 4,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 1426,
+   "name": "Riverpaw Miner",
+   "count": 6,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Kobold Digger slain",
+   "count": 4,
+   "type": "npc",
+   "id": 1236
+  },
+  {
+   "text": "Riverpaw Miner slain",
+   "count": 6,
+   "type": "npc",
+   "id": 1426
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "start",
+   "type": 1,
+   "id": 253092,
+   "name": "Alba Fairmoon",
+   "coord": [
+    52.4,
+    53
+   ],
+   "coords": [
+    [
+     52.4,
+     53
+    ],
+    [
+     52.6,
+     53.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 1,
+   "id": 253092,
+   "name": "Alba Fairmoon",
+   "coord": [
+    52.4,
+    53
+   ],
+   "coords": [
+    [
+     52.4,
+     53
+    ],
+    [
+     52.6,
+     53.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "requirement",
+   "type": 1,
+   "id": 1236,
+   "name": "Kobold Digger",
+   "coord": [
+    44.6,
+    23.4
+   ],
+   "coords": [
+    [
+     44.4,
+     19.6
+    ],
+    [
+     44.4,
+     21.4
+    ],
+    [
+     44.4,
+     23.6
+    ],
+    [
+     44.6,
+     20.2
+    ],
+    [
+     44.6,
+     21
+    ],
+    [
+     44.6,
+     23.4
+    ],
+    [
+     44.6,
+     23.6
+    ],
+    [
+     44.8,
+     22.4
+    ],
+    [
+     45,
+     18.6
+    ],
+    [
+     45.4,
+     18.2
+    ],
+    [
+     45.6,
+     20.4
+    ],
+    [
+     45.8,
+     18.2
+    ],
+    [
+     46,
+     18.6
+    ],
+    [
+     46.6,
+     19.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "requirement",
+   "type": 1,
+   "id": 1426,
+   "name": "Riverpaw Miner",
+   "coord": [
+    30,
+    47.4
+   ],
+   "coords": [
+    [
+     28.8,
+     49.4
+    ],
+    [
+     28.8,
+     49.6
+    ],
+    [
+     29,
+     51
+    ],
+    [
+     29.4,
+     46.2
+    ],
+    [
+     29.6,
+     50.2
+    ],
+    [
+     29.6,
+     50.5
+    ],
+    [
+     30,
+     47.4
+    ],
+    [
+     30.2,
+     45.4
+    ],
+    [
+     30.2,
+     47.6
+    ],
+    [
+     30.4,
+     45.8
+    ],
+    [
+     30.4,
+     49.2
+    ],
+    [
+     30.6,
+     45.8
+    ],
+    [
+     30.6,
+     48
+    ],
+    [
+     30.6,
+     48.6
+    ],
+    [
+     31,
+     45.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-01T17:11:19-05:00",
+   "body": "Combine this quest with [quest=12]. First, target [b]Jangolode Mine[/b] and complete the kobold and Defias objectives there. Upon finishing up there, turn the Defias quest in and pick [quest=13] up before venturing in to the [b]Gold Coast Quarry[/b]. You'll find the next Defias targets there, but prioritize the gnoll miners, as [b]the next part has you picking up items in Moonbrook[/b] where you can finish your kills up for [quest=13].",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,649 @@
+{
+ "id": 92457,
+ "name": "Starving Arcane",
+ "level": 33,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 16544,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3950,
+ "start": {
+  "type": "npc",
+  "id": 269127,
+  "name": "Image of Archmage Modera",
+  "zone": "Silverpine Forest",
+  "zoneId": 130,
+  "coords": [
+   [
+    68.4,
+    45.2
+   ],
+   [
+    68.6,
+    45.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 269127,
+  "name": "Image of Archmage Modera",
+  "zone": "Silverpine Forest",
+  "zoneId": 130,
+  "coords": [
+   [
+    68.4,
+    45.2
+   ],
+   [
+    68.6,
+    45.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Defeat 8 Seeking Remnants , 8 Saturated Remnants , and 8 Mana Echoes inside the City of Dalaran for Archmage Modera outside of Dalaran.   Seeking Remnant slain  ( 8 )   Saturated Remnant slain  ( 8 )   Mana Echo slain  ( 8 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 247003,
+   "name": "Seeking Remnants",
+   "count": 8,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 247001,
+   "name": "Saturated Remnant",
+   "count": 8,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 246600,
+   "name": "Mana Echo",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Seeking Remnant slain",
+   "count": 8,
+   "type": "npc",
+   "id": 247003
+  },
+  {
+   "text": "Saturated Remnant slain",
+   "count": 8,
+   "type": "npc",
+   "id": 247001
+  },
+  {
+   "text": "Mana Echo slain",
+   "count": 8,
+   "type": "npc",
+   "id": 246600
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 130,
+   "zone": "Silverpine Forest",
+   "point": "start",
+   "type": 1,
+   "id": 269127,
+   "name": "Image of Archmage Modera",
+   "coord": [
+    68.6,
+    45.2
+   ],
+   "coords": [
+    [
+     68.4,
+     45.2
+    ],
+    [
+     68.6,
+     45.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 130,
+   "zone": "Silverpine Forest",
+   "point": "end",
+   "type": 1,
+   "id": 269127,
+   "name": "Image of Archmage Modera",
+   "coord": [
+    68.6,
+    45.2
+   ],
+   "coords": [
+    [
+     68.4,
+     45.2
+    ],
+    [
+     68.6,
+     45.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "requirement",
+   "type": 1,
+   "id": 246600,
+   "name": "Mana Echo",
+   "coord": [
+    15.4,
+    73.3
+   ],
+   "coords": [
+    [
+     14.4,
+     68.1
+    ],
+    [
+     14.7,
+     64.7
+    ],
+    [
+     14.7,
+     66.2
+    ],
+    [
+     14.7,
+     69.3
+    ],
+    [
+     14.7,
+     69.7
+    ],
+    [
+     14.8,
+     64.6
+    ],
+    [
+     14.9,
+     73.2
+    ],
+    [
+     15.2,
+     64.2
+    ],
+    [
+     15.4,
+     73.3
+    ],
+    [
+     15.4,
+     73.6
+    ],
+    [
+     15.6,
+     73.3
+    ],
+    [
+     15.6,
+     74.1
+    ],
+    [
+     15.7,
+     73.7
+    ],
+    [
+     15.8,
+     70.5
+    ],
+    [
+     15.9,
+     70.4
+    ],
+    [
+     15.9,
+     72.4
+    ],
+    [
+     16.3,
+     63.4
+    ],
+    [
+     16.4,
+     63.2
+    ],
+    [
+     16.5,
+     63.6
+    ],
+    [
+     16.7,
+     63.2
+    ],
+    [
+     17.3,
+     63.7
+    ],
+    [
+     17.9,
+     64
+    ],
+    [
+     18,
+     64.6
+    ],
+    [
+     18.5,
+     64.2
+    ],
+    [
+     18.8,
+     64.3
+    ],
+    [
+     19,
+     63
+    ],
+    [
+     19,
+     64.7
+    ],
+    [
+     19.3,
+     68.4
+    ],
+    [
+     19.4,
+     68.7
+    ],
+    [
+     19.6,
+     68.5
+    ],
+    [
+     19.8,
+     68.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "requirement",
+   "type": 1,
+   "id": 247001,
+   "name": "Saturated Remnant",
+   "coord": [
+    14.4,
+    57.5
+   ],
+   "coords": [
+    [
+     14.1,
+     69.5
+    ],
+    [
+     14.2,
+     68.3
+    ],
+    [
+     14.2,
+     69.4
+    ],
+    [
+     14.4,
+     57.5
+    ],
+    [
+     14.5,
+     57.7
+    ],
+    [
+     14.5,
+     69.4
+    ],
+    [
+     14.5,
+     69.5
+    ],
+    [
+     14.8,
+     63.6
+    ],
+    [
+     14.9,
+     64.1
+    ],
+    [
+     14.9,
+     64.6
+    ],
+    [
+     15.9,
+     73.4
+    ],
+    [
+     15.9,
+     73.5
+    ],
+    [
+     16.1,
+     73.6
+    ],
+    [
+     16.3,
+     63.3
+    ],
+    [
+     16.7,
+     63.1
+    ],
+    [
+     16.7,
+     74.1
+    ],
+    [
+     16.8,
+     63.5
+    ],
+    [
+     17,
+     74
+    ],
+    [
+     17.4,
+     63.8
+    ],
+    [
+     18.2,
+     64.4
+    ],
+    [
+     18.4,
+     64.6
+    ],
+    [
+     18.5,
+     64.7
+    ],
+    [
+     18.7,
+     64
+    ],
+    [
+     19.1,
+     65.5
+    ],
+    [
+     19.1,
+     66.4
+    ],
+    [
+     19.2,
+     67.1
+    ],
+    [
+     19.3,
+     64.4
+    ],
+    [
+     19.4,
+     64.5
+    ],
+    [
+     19.5,
+     64.4
+    ],
+    [
+     19.6,
+     64.5
+    ],
+    [
+     19.7,
+     73.6
+    ],
+    [
+     20.2,
+     74.1
+    ],
+    [
+     20.3,
+     75
+    ],
+    [
+     20.3,
+     75.1
+    ],
+    [
+     20.7,
+     77.3
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "requirement",
+   "type": 1,
+   "id": 247003,
+   "name": "Seeking Remnant",
+   "coord": [
+    15.4,
+    66.8
+   ],
+   "coords": [
+    [
+     14.3,
+     69.1
+    ],
+    [
+     14.4,
+     68.3
+    ],
+    [
+     14.5,
+     67.4
+    ],
+    [
+     14.5,
+     68
+    ],
+    [
+     14.5,
+     69.5
+    ],
+    [
+     14.7,
+     66.4
+    ],
+    [
+     14.8,
+     64.8
+    ],
+    [
+     14.9,
+     64.6
+    ],
+    [
+     15.2,
+     64.2
+    ],
+    [
+     15.4,
+     66.8
+    ],
+    [
+     15.5,
+     64.2
+    ],
+    [
+     15.5,
+     66.8
+    ],
+    [
+     15.5,
+     73.8
+    ],
+    [
+     15.7,
+     62.4
+    ],
+    [
+     15.7,
+     73.3
+    ],
+    [
+     15.7,
+     73.7
+    ],
+    [
+     15.8,
+     62.6
+    ],
+    [
+     15.8,
+     70.2
+    ],
+    [
+     15.8,
+     73.2
+    ],
+    [
+     16,
+     72.3
+    ],
+    [
+     16.3,
+     71
+    ],
+    [
+     16.7,
+     63.4
+    ],
+    [
+     16.9,
+     63.6
+    ],
+    [
+     17.9,
+     64.2
+    ],
+    [
+     18.1,
+     64.7
+    ],
+    [
+     18.7,
+     76.3
+    ],
+    [
+     18.8,
+     64.5
+    ],
+    [
+     18.8,
+     67.3
+    ],
+    [
+     18.8,
+     77.4
+    ],
+    [
+     18.8,
+     77.7
+    ],
+    [
+     18.9,
+     63.8
+    ],
+    [
+     19,
+     62.9
+    ],
+    [
+     19.1,
+     65.2
+    ],
+    [
+     19.1,
+     65.5
+    ],
+    [
+     19.2,
+     62.2
+    ],
+    [
+     19.4,
+     74.4
+    ],
+    [
+     19.4,
+     74.6
+    ],
+    [
+     19.6,
+     73.3
+    ],
+    [
+     19.6,
+     73.7
+    ],
+    [
+     19.7,
+     75.2
+    ],
+    [
+     20.1,
+     75
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 2,
+   "date": "2026-10-08T20:00:36-05:00",
+   "body": "It seems that there are not enough mobs inside to do this in one run.",
+   "replies": [
+    "I agree. I did two runs and only got 6 Saturated Remnants total. So only 3 per run. I'd need a third run to complete the quest. And the rewards are not even worth it.",
+    "Update: In my third and last run, we found like 7 Saturated Remnants and very few Seeking Remnants. So the spawns vary between runs."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-03T10:21:07-05:00",
+   "body": "Quest: [url=https://www.wowhead.com/forever/quest=92457/starving-arcane]Starving Arcane[/url]\r\nOthers: [url=https://www.wowhead.com/forever/zone=16544/city-of-dalaran#quests]City of Dalaran[/url]\r\nType: Dungeon\r\nReq: Level 24\r\nStart: Alterac Mountains\r\nSharable: Yes\r\nFinal Rewards:\r\n[ul]\r\n[li]\r\n[url=https://www.wowhead.com/forever/item=279837/fallen-guards-pendant]Fallen Guard's Pendant[/url]\r\n[/li]\r\n[li]\r\n[url=https://www.wowhead.com/forever/item=279838/arcane-infused-rod]Arcane Infused Rod[/url]\r\n[/li]\r\n[/ul]\r\nNote: These details are subject to change throughout Forever's development cycle. Accuracy is only guaranteed at the time of this posting.\r\nYou can find my Google Sheets document which is updated more frequently [url=https://docs.google.com/spreadsheets/d/1Hy3tqXAsSic6QvAf8Aew8TEagLj5ohU5bQS-mCbX9H0/edit?usp=sharing]here[/url]. It contains these types of details for all WoW Forever dungeons.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-08T19:43:46-05:00",
+   "body": "Appears to be Alliance only",
+   "replies": [
+    "Alliance here, can't find the quest",
+    "The quest giver is outside of the dungeon entrance. The sewer outside of the city on the northwest corner. There is a breadcrumb quest that leads from Southshore.",
+    "what's the breadcrumb... you gotta give all the details my man.",
+    "The breadcrumb is [quest=92457], given by Emissary Jacques in Southshore.",
+    "The breadcrumb is called [quest=92432] and unlocks both this quest and [quest=92458]. Emissary Jacques is inside the Town Hall in Southshore."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-08T20:58:07-05:00",
+   "body": "I finished this quest just now on Alliance. I’m standing next to Archmage Modera who is supposed to end the quest but unable to interact. Not sure if bugged",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-19T13:39:53-05:00",
+   "body": "If you speak to her as Alliance before picking up [url=https://www.wowhead.com/forever/quest=92432/an-alarming-request]An Alarming Request[/url], the breadcrumb quest, she just says Dalaran is closed. You have to pick it up to get the quest. This is for the final days of beta of WoW Forever.",
+   "replies": []
+  }
+ ]
+}

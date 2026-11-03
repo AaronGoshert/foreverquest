@@ -1,0 +1,372 @@
+{
+ "id": 858,
+ "name": "Ignition",
+ "level": 18,
+ "reqlevel": 13,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1350,
+ "start": {
+  "type": "npc",
+  "id": 3439,
+  "name": "Wizzlecrank's Shredder",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    55.4,
+    7
+   ],
+   [
+    55.4,
+    7.6
+   ],
+   [
+    56.4,
+    7.4
+   ],
+   [
+    56.4,
+    7.6
+   ],
+   [
+    56.6,
+    7.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3439,
+  "name": "Wizzlecrank's Shredder",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    55.4,
+    7
+   ],
+   [
+    55.4,
+    7.6
+   ],
+   [
+    56.4,
+    7.4
+   ],
+   [
+    56.4,
+    7.6
+   ],
+   [
+    56.6,
+    7.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Get the Ignition Key and bring it to Wizzlecrank. Ignition Key  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5050,
+   "name": "Ignition Key",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Ignition Key",
+   "count": 1,
+   "type": "item",
+   "id": 5050
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 3439,
+   "name": "Wizzlecrank's Shredder",
+   "coord": [
+    56.4,
+    7.4
+   ],
+   "coords": [
+    [
+     55.4,
+     7
+    ],
+    [
+     55.4,
+     7.6
+    ],
+    [
+     56.4,
+     7.4
+    ],
+    [
+     56.4,
+     7.6
+    ],
+    [
+     56.6,
+     7.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 3439,
+   "name": "Wizzlecrank's Shredder",
+   "coord": [
+    56.4,
+    7.4
+   ],
+   "coords": [
+    [
+     55.4,
+     7
+    ],
+    [
+     55.4,
+     7.6
+    ],
+    [
+     56.4,
+     7.4
+    ],
+    [
+     56.4,
+     7.6
+    ],
+    [
+     56.6,
+     7.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 3445,
+   "name": "Supervisor Lugwizzle",
+   "coord": [
+    56.2,
+    8.2
+   ],
+   "coords": [
+    [
+     56.2,
+     8.2
+    ],
+    [
+     56.2,
+     8.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 64,
+   "date": "2006-01-16T13:24:03-06:00",
+   "body": "Wizzle crank is at approximatly 56,8, just north of the tower next to another smocking wreck. If he's not there, someone else has just done escape and he'll be back in two minutes.",
+   "replies": [
+    "It's definitely more like a 10 minute wait.",
+    "I timed it now, and it's exactly 10 minutes from someone starts the quest until he respawns."
+   ]
+  },
+  {
+   "rating": 41,
+   "date": "2006-07-18T01:24:03-05:00",
+   "body": "You can pick up this quest at Sludge Fen around 56,8.\nTalk to the guy inside the Shredder. (He is just on the outside of the water's edge)\nGet the key from the little green superviser on the platform in the middle of the water.\nBring it back to the guy in the Shredder.\nEscort him (the Shredder) just up the hill until the machine dies.\nYour last stop is in Ratchet to complete this series of quests.\n\nGood luck",
+   "replies": [
+    "If you are willing to do two corpse runs from the Crossroads, this quest is very easy to complete.\n\nAfter acquiring the quest from the Shredder goblin, unequip all your armor and weapons.&nbsp; Then head to the middle of the lake underneath the tower and let yourself get killed by the first guard.\n\nRun back to the tower but don't immediately res at your body.&nbsp; Instead take your ghost to the very top of the tower (ghosts are locked to only horizontal location on the map), and resurrect inside the control room.\n\nBuff up and wait for the goblin supervisor to enter the control room.&nbsp; Whe",
+    "There is usually a 19 elite (silver) inside the control room, so a bad place to res. Unfortunately most other places around to res there have about three critters on you faster than you can regain mana and health. It's not that hard to fight your way through, just tedious. Half of the time they will run off to the already cleared direction anyway. And you can jump down in the water to avoid fighting your way out."
+   ]
+  },
+  {
+   "rating": 23,
+   "date": "2006-10-11T12:43:46-05:00",
+   "body": "Fairly straight forward. Go up the ramp of the big structure in the water. Be careful of roamers, there's 2-3 of them that go back and forth, so keep an eye out.\r\n\r\nThe key is on Supervisor Lugwizzle. He roams up and down the ramp and around a bit of the shore of the water. He even passes by Wizzlecrank, so if you're lucky, you can finish this quest fairly quickly.",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2004-12-08T19:49:56-06:00",
+   "body": "the key drops off supervisor lugwizzle who is just up the ramp of the tower in the muck pool of the sludge fern where all the venture co miners and mercenaries are.  He is level 18.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2019-09-02T18:31:40-05:00",
+   "body": "Unless by a strange bug or something, this quest does not seem to work for groups. Solo only perhaps? I was in a party prior to accepting this quest, when the NPC spawned, I obtained the quest, however the rest of my party did not, nor was it shareable.\n\nEDIT: There was one other person who was not in our group that also started the quest at the same time I did.",
+   "replies": [
+    "They must have fixed this bug in the new WoW Classic. I did the escort with a 5 man group and we all got credit -- like any other escort."
+   ]
+  },
+  {
+   "rating": 9,
+   "date": "2007-01-10T07:00:50-06:00",
+   "body": "Follow-up: https://www.wowhead.com/forever/quest=863",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-01-27T17:13:07-06:00",
+   "body": "It didnt happen every time but 1 of the 2 times I fought lugwizzle he summoned a mechanical, I think a squirrel who was llv 18. Just a word of caution, also the drop isnt 100%, hence why I killed him twice.\n\nAlso, this quest works like other escort quests in that only one person can do it at a time, if some takes the key to him first he will disapear as part of the following quest and you must wait for it to respawn.\n\nThis is the same area you find the nuts needed to ix the samophlange.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-09-29T01:24:03-05:00",
+   "body": "i found it at (56.8)",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-04-17T16:13:30-05:00",
+   "body": "About 56,7",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-05-06T01:24:03-05:00",
+   "body": "This is the quest from hell. I suggest not bothering. It's marked lvl 18, but I had problems with my lvl 21 Shammy. The guys run when they are only about half health and pull about 3 more and contuine on doing this untill you have no mana and eventually die.... I couldn't make it all the way to the top without dieing, and promptly clicked \"abandon quest\".",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-09-29T01:24:03-05:00",
+   "body": "And ya get another quest from turning in the key - \"The Escape\"\n\nObtained frrom Wizzlecrank's Shredder - Quest is level 18\n\nThe Escape\n&nbsp; Protect Wizzlecrank and the stolen goblin shredder on the way to Sputtervalve in Ratchet.\n\nDescription\n&nbsp; I suppose I'll learn as we go... Couldn't be too hard. Just some buttons here, and a lever or two... Well, are you ready to go?\n\nRewards: 20sp and\nFlaring Baton - Wand - 18-34 Fire Damaeg - 1.90 Speed\nor Greasy Tinker's Pants - Legs - Leather - 65 armor 3 str 3 agi.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2004-12-17T09:13:59-06:00",
+   "body": "Topic says it all.  I just did this quest with a night elf rogue.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-12-11T01:24:03-06:00",
+   "body": "I was going along, doing the quest just fine. When I got disconnected. When I logged back on it said I had failed the quest. Now I can't find the guy anywhere. Is there any way I can get the quest agian. (BTW I'm talking about The escape guest not the ignition)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-12-11T01:24:03-06:00",
+   "body": "i just finished the quest. i escorted him to the top of the hill and it says the quest is completed but there is no where to turn the quest in?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-18T01:24:03-05:00",
+   "body": "Everyone is talking about the escape...\nWhere do I get ignition?\nNot where do I do it - Who [b]gives[/b] it to you?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-03T08:33:50-05:00",
+   "body": "This quest can also be done by Alliance players. Just did it with a lvl 18 Paladin. Funny quest actually :)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2019-06-21T14:09:26-05:00",
+   "body": "This quest is available to Alliance characters as well as Horde.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-15T19:24:30-05:00",
+   "body": "when i went to turn in the quest, i did not find wizzlecrank at the same location i got the quest from, and when i went back i still did not find him.\r\ncan someone tell me where he might be?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T01:24:03-05:00",
+   "body": "Understandably the last note was from beta, but for the sake of completion this is quest indeed functional now.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T01:24:03-05:00",
+   "body": "It does tell you where to turn it it. It says to escort to Ratchet.. TO SPUTTERVALVE. That's the goblin's name in Ratchet!\n\nThis quest is best with a warlock since they can curse humanoids with Curse of Recklessness that prevents them from running away! <3",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-29T01:24:03-05:00",
+   "body": "The named supervisor (can't remember name, but not elite - level 18) wanders around the derrick, so you can wait for him on the bottom level.&nbsp; Spacing is tighter here than on the outside area, so aggro of multiple mobs is almost completely unavoidable.&nbsp; Mobs run early, so earthbind totem is MANDATORY by shamans.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-30T06:16:23-06:00",
+   "body": "56,8 TBLoc \nOn the Ramp of the tower.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-27T16:57:01-05:00",
+   "body": "You need to accept the quest from [b]Wizzlecrank's Shredder[/b] north of the oil platform, if it's not there someone might be on the escort or they finished it and there's a short respawn (5-10min). After you accept the quest you need to then go up the oil platform and kill [b]Supervisor Lugwizzle[/b] for the [b]ignition key[/b]. \r\n\r\nHe will not drop the key unless you have the quest.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-12-11T01:24:03-06:00",
+   "body": "i dont know where to find Wizzlecrank? any help?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-05-06T01:24:03-05:00",
+   "body": "as soon as i exepted the quest 3 npcs spawn: supervisor glibby, venture co. drudger and a rare spawn called sludge beast! wtf",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-29T01:24:03-05:00",
+   "body": "Just did it today, he spawns at the top (cord.58/8).",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-29T01:24:03-05:00",
+   "body": "Did the escape today and the shredder got to the top of the hill, stopped, then the dude just vanished.&nbsp; Says quest completed, but there's nowhere to turn it in at.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2005-09-29T01:24:03-05:00",
+   "body": "ok, can anyone say cosmos coordinate plz? :D",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2006-11-14T07:36:02-06:00",
+   "body": "AAghh I ALSO DONE THE QUEST WITH TWO OF US THIS IS A ONE MAN QUEST ESCORT THATS HOW HOW I LOST WIZZLECRANK? DO IT ON YOUR OWN ESCORTING YES?",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2006-05-06T01:24:03-05:00",
+   "body": "You couldn't complete it as a lvl 21 shammy? I done this quest as a level 18 hunter alone and I never even came close to dieing.",
+   "replies": []
+  }
+ ]
+}

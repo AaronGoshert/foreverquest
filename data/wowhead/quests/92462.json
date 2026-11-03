@@ -1,0 +1,198 @@
+{
+ "id": 92462,
+ "name": "Infestation Investigation",
+ "level": 2,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 170,
+ "start": {
+  "type": "npc",
+  "id": 251368,
+  "name": "Elatrell Featherlight",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    43.4,
+    24.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251368,
+  "name": "Elatrell Featherlight",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    43.4,
+    24.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Slay 8 Pesky Cirrusflies in Thendal Grove.   Pesky Cirrusfly slain  ( 8 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 251169,
+   "name": "Pesky Cirrusflies",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Pesky Cirrusfly slain",
+   "count": 8,
+   "type": "npc",
+   "id": 251169
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 251368,
+   "name": "Elatrell Featherlight",
+   "coord": [
+    43.4,
+    24.8
+   ],
+   "coords": [
+    [
+     43.4,
+     24.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251368,
+   "name": "Elatrell Featherlight",
+   "coord": [
+    43.4,
+    24.8
+   ],
+   "coords": [
+    [
+     43.4,
+     24.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 251169,
+   "name": "Pesky Cirrusfly",
+   "coord": [
+    46,
+    27.9
+   ],
+   "coords": [
+    [
+     43.4,
+     28.4
+    ],
+    [
+     43.6,
+     28.4
+    ],
+    [
+     44.4,
+     26
+    ],
+    [
+     44.4,
+     27.2
+    ],
+    [
+     44.4,
+     28.6
+    ],
+    [
+     44.6,
+     27.4
+    ],
+    [
+     44.6,
+     27.7
+    ],
+    [
+     44.6,
+     28.8
+    ],
+    [
+     44.8,
+     26.4
+    ],
+    [
+     45.2,
+     25.2
+    ],
+    [
+     45.8,
+     25
+    ],
+    [
+     46,
+     27.9
+    ],
+    [
+     46.2,
+     27.2
+    ],
+    [
+     46.2,
+     29.4
+    ],
+    [
+     46.4,
+     26
+    ],
+    [
+     46.6,
+     26.4
+    ],
+    [
+     46.6,
+     28.2
+    ],
+    [
+     47.1,
+     28.8
+    ],
+    [
+     47.3,
+     27.3
+    ],
+    [
+     47.7,
+     26.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-21T00:17:51-05:00",
+   "body": "Don't kill the  Cirrusfly Queens yet. The follow-up quest will be [quest=92463]",
+   "replies": []
+  }
+ ]
+}

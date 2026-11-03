@@ -1,0 +1,122 @@
+{
+ "id": 4119,
+ "name": "Corrupted Night Dragon",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 3,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": {
+  "type": "object",
+  "id": 164885,
+  "name": "Corrupted Night Dragon",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    40.8,
+    78.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 164885,
+  "name": "Corrupted Night Dragon",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    40.8,
+    78.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Progress You have found a sickly, corrupted version of what appears to be a night dragon plant.  The fruits that hang from the plant appear rotten and poisonous.  It desperately needs some sort of attention if it is to be turned back to normal. Cenarion Plant Salve  ( 4 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11516,
+   "name": "Cenarion Plant Salve",
+   "count": 4,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Cenarion Plant Salve",
+   "count": 4,
+   "type": "item",
+   "id": 11516
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 2,
+   "id": 164885,
+   "name": "Corrupted Night Dragon",
+   "coord": [
+    40.8,
+    78.2
+   ],
+   "coords": [
+    [
+     40.8,
+     78.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 2,
+   "id": 164885,
+   "name": "Corrupted Night Dragon",
+   "coord": [
+    40.8,
+    78.2
+   ],
+   "coords": [
+    [
+     40.8,
+     78.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 14,
+   "date": "2007-01-21T15:09:08-06:00",
+   "body": "This quest cleanses the Night Dragon plant and turns it into a Cleansed Night Dragon (https://www.wowhead.com/forever/object=164881) from which you can receive Night Dragon's Breath (https://www.wowhead.com/forever/item=11952).",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2019-11-10T21:38:46-06:00",
+   "body": "Hi, I'm confused. I cleansed it and then tried to loot it, but I didn't get anything. Then a nightelf went up to it and looted it as well. What happened?",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-04-27T12:03:02-05:00",
+   "body": "The Night Dragon in the upper area of Felwood is at 50,30 (Cosmos Map)\n\nThe Night Dragon in the lower area of Felwood is at approx. 40,78 (Cosmos Map)\n\nNote: the only Whipper Root I've seen is at approx. 33,60 (Cosmos Map) in the heart of Jaedenar.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-02T22:25:29-05:00",
+   "body": "How do we get these quest!!!",
+   "replies": []
+  }
+ ]
+}

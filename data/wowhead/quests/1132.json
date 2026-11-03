@@ -1,0 +1,209 @@
+{
+ "id": 1132,
+ "name": "Fiora Longears",
+ "level": 30,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 1200,
+ "start": {
+  "type": "npc",
+  "id": 4455,
+  "name": "Red Jack Flint",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    9.8,
+    57.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4456,
+  "name": "Fiora Longears",
+  "zone": "Dustwallow Marsh",
+  "zoneId": 15,
+  "coords": [
+   [
+    66.4,
+    45.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Speak with Fiora Longears in Theramore.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 4456,
+   "name": "Fiora Longears",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  1132,
+  1133
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 4455,
+   "name": "Red Jack Flint",
+   "coord": [
+    9.8,
+    57.8
+   ],
+   "coords": [
+    [
+     9.8,
+     57.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 15,
+   "zone": "Dustwallow Marsh",
+   "point": "end",
+   "type": 1,
+   "id": 4456,
+   "name": "Fiora Longears",
+   "coord": [
+    66.4,
+    45.2
+   ],
+   "coords": [
+    [
+     66.4,
+     45.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 19,
+   "date": "2005-12-27T09:05:59-06:00",
+   "body": "I'm only posting this because a player on my server was confused about boat routes - there is a boat directly from Menethil to Theramore. It departs Menethil on the dock opposite from the Auberdine boat.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2026-10-02T05:11:05-05:00",
+   "body": "This quest appears to no longer be in the game as of the Forever beta.",
+   "replies": [
+    "Can confirm, I am unable to find Fiora Longears",
+    "There's a level 30 rated version available in the Forever beta. Not sure what the prerequisites are, but I found if after reaching level 30 as I was handing in https://www.wowhead.com/forever/quest=474/defeat-nekrosh and https://www.wowhead.com/forever/quest=98223/old-habits"
+   ]
+  },
+  {
+   "rating": 8,
+   "date": "2005-02-16T00:19:28-06:00",
+   "body": "leads to quest \"Journey to Astranaar\"",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-01-18T06:13:18-06:00",
+   "body": "An NPC named Adam Lind will tell you if you are on the correct dock to Theramore.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-09-30T18:13:18-05:00",
+   "body": "Fiora Longears is in the inn at 66,45",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-03-15T16:23:01-05:00",
+   "body": "She can be in found in the Inn in the northern part of Theramore.\nCoordinates: 66, 45",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2021-08-07T19:54:40-05:00",
+   "body": "NOW in Classic TBC, She is on the pier in Auberdine, I think she was part of a quest chain if you were coming to Kalimdor FROM the Eastern Kingdoms, she would send you on to Astranaar In Ashenvale.\r\n\r\n I as a night elf, finished in Darnassus questing etc, got the boat to Auberdine and ran past her but then stopped and picked up her quest to get the venom sacs from 1000 needles and to take them to (herself in Theramore Inn, Theramore Island in Dustwallow marsh.) As I never took notice of her name at the time it never clicked.\r\n\r\nSo after a long while I eventually got down to 1000 needles and got the venom sacs and took them to Theramore Island, searching and searching I couldnt find her to hand in the quest, thats when i went on line looking and came here, and elsewhere, and found she had been moved to Auberdine.\r\n\r\nSo I thought oh! and flew back to Auberdine and she was there where i picked up the quest with a yellow question mark, so handed it in.\r\n\r\nIt seems she is/was part of a quest chain originally in ordinary WOW, but in classic TBC, becomes a single quest you start and end with her in Auberdine. the PROBLEM is the wording in the quest window about going to Theramore, it should say returm to \"herself\" HERE.\r\n\r\nhope this clears it up for people wondering whats going on... and yes, her wine looks like it has set and stuck in her wineglass..heh! heh!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-03T04:36:19-06:00",
+   "body": "Fiora Longears is in the Theramore Inn.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-28T01:54:33-06:00",
+   "body": "Fiora Longears is located [ Dustwallow Marsh ] 29 , 61\n\nFinshed This Quest with LVL 23 Human Mage, Received:\n\nExperience Gained: 775\nReputation Increased By: 0",
+   "replies": [
+    "The correct coordinates are 66,45 for Fiora Longears."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-18T06:13:18-06:00",
+   "body": "How do u know the coordinates?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-18T06:13:18-06:00",
+   "body": "After installing Cosmos, and each time you get into WoW, you hit 'enter' to bring up the chat dialogue and then type&nbsp; &nbsp; /tloc&nbsp; &nbsp; and press 'enter'... this should bring up map coordinates... note: each time you login, you have to do this.&nbsp; Hope that helps.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-04-01T06:13:18-06:00",
+   "body": "i watched at 66.45 at wetlands but i couldn't find her lol its at the other island",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-06-29T02:28:11-05:00",
+   "body": "and where is thermore ? =)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-17T21:32:31-05:00",
+   "body": "Theramore is on the other contenent, on the east coast in the \"Azshara\" section.",
+   "replies": [
+    "Theramore is located in Dustwallow Marsh, which is definitely not Azshara."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-02-14T06:49:56-06:00",
+   "body": "Theramore is in Dustwallow Marsh, definitely not Azshara.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-02-10T09:40:54-06:00",
+   "body": "The Inn is on the northeren part of Theramore",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-12-18T13:38:46-06:00",
+   "body": "Her location is at  66, 45 \r\n\r\nGood luck ;)",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-06-28T09:37:18-05:00",
+   "body": "where is theramore",
+   "replies": []
+  }
+ ]
+}

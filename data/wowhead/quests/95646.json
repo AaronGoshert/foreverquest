@@ -1,0 +1,151 @@
+{
+ "id": 95646,
+ "name": "Horrors in the Highland",
+ "level": 31,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 16732,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3150,
+ "start": {
+  "type": "npc",
+  "id": 1244,
+  "name": "Rethiel the Greenwarden",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    56.2,
+    40.4
+   ],
+   [
+    56.2,
+    40.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1244,
+  "name": "Rethiel the Greenwarden",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    56.2,
+    40.4
+   ],
+   [
+    56.2,
+    40.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Kill a Highland Horror within Excavation Sites and bring its root core to Rethiel the Greenwarden in the Wetlands. Horrible Rootcore  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1244,
+   "name": "Rethiel the Greenwarden",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 270180,
+   "name": "Horrible Rootcore",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Horrible Rootcore",
+   "count": 1,
+   "type": "item",
+   "id": 270180
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 1244,
+   "name": "Rethiel the Greenwarden",
+   "coord": [
+    56.2,
+    40.4
+   ],
+   "coords": [
+    [
+     56.2,
+     40.4
+    ],
+    [
+     56.2,
+     40.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 1244,
+   "name": "Rethiel the Greenwarden",
+   "coord": [
+    56.2,
+    40.4
+   ],
+   "coords": [
+    [
+     56.2,
+     40.4
+    ],
+    [
+     56.2,
+     40.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16732,
+   "zone": "Excavation Site: Wetlands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 260808,
+   "name": "Highland Horror",
+   "coord": [
+    ""
+   ],
+   "coords": []
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 13,
+   "date": "2026-10-02T14:14:01-05:00",
+   "body": "Prerequisites (Start: [url=https://www.wowhead.com/classic/npc=1239/first-mate-fitzsimmons]First Mate Fitzsimmons[/url]): \r\n1.\t[url=https://www.wowhead.com/classic/quest=463/the-greenwarden]The Greenwarden[/url]\r\n2.\t[url=https://www.wowhead.com/classic/quest=276/tramping-paws]Tramping Paws[/url]\r\n3.\t[url=https://www.wowhead.com/classic/quest=277/fire-taboo]Fire Taboo[/url]\r\n4.\t[url=https://www.wowhead.com/classic/quest=275/blisters-on-the-land]Blisters on The Land[/url]",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2026-10-02T17:25:21-05:00",
+   "body": "Correct, despite the Wowhead guide not pointing it out, you must do the previous 3 quests from the Greenwarden before he offers this one.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2026-10-03T08:51:48-05:00",
+   "body": "Quest: [url=https://www.wowhead.com/forever/quest=95646/horrors-in-the-highland]Horrors in the Highland[/url]\nOthers: [url=https://www.wowhead.com/forever/quests/dungeons/excavation-site-wetlands]Excavation Site: Wetlands[/url]\nType: Dungeon\nReq: Level 24\nStart: Wetlands\nSharable: Yes\nFinal Rewards:\n[ul]\n[li]\n[url=https://www.wowhead.com/forever/item=271667/ironwood-destroyer]Ironwood Destroyer[/url]\n[/li]\n[li]\n[url=https://www.wowhead.com/forever/item=271664/hornbeam-heft]Hornbeam Heft[/url]\n[/li]\n[li]\n[url=https://www.wowhead.com/forever/item=271670/curl-of-life]Curl of Life[/url]\n[/li]\n[/ul]\nNote: These details are subject to change throughout Forever's development cycle. Accuracy is only guaranteed at the time of this posting.\nYou can find my Google Sheets document which is updated more frequently [url=https://docs.google.com/spreadsheets/d/1Hy3tqXAsSic6QvAf8Aew8TEagLj5ohU5bQS-mCbX9H0/edit?usp=sharing]here[/url]. It contains these types of details for all WoW Forever dungeons.",
+   "replies": []
+  }
+ ]
+}

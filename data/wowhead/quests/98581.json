@@ -1,0 +1,90 @@
+{
+ "id": 98581,
+ "name": "Archaic Rune",
+ "level": 1,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 40,
+ "start": {
+  "type": "npc",
+  "id": 658,
+  "name": "Sten Stoutarm",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    29.8,
+    71.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 257446,
+  "name": "Teo Hammerstorm",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    28.7,
+    66.1
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Read the Archaic Rune and speak to Teo Hammerstorm in Anvilmar. Archaic Rune (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 282400,
+   "name": "Archaic Rune",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 658,
+   "name": "Sten Stoutarm",
+   "coord": [
+    29.8,
+    71.2
+   ],
+   "coords": [
+    [
+     29.8,
+     71.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 257446,
+   "name": "Teo Hammerstorm",
+   "coord": [
+    28.7,
+    66.1
+   ],
+   "coords": [
+    [
+     28.7,
+     66.1
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

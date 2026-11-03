@@ -1,0 +1,120 @@
+{
+ "id": 91725,
+ "name": "Stolen Enchanting Supplies",
+ "level": 10,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 630,
+ "start": {
+  "type": "npc",
+  "id": 248248,
+  "name": "Blixie Fitzwink",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    63.2,
+    72.4
+   ],
+   [
+    63.2,
+    72.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 248248,
+  "name": "Blixie Fitzwink",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    63.2,
+    72.4
+   ],
+   [
+    63.2,
+    72.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect 5 Stolen Enchanting Supplies from gnoll camps around Stone Cairn Lake, then return to Blixie Fitzwink near the Tower of Azora. Stolen Enchanting Supplies  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 247805,
+   "name": "Stolen Enchanting Supplies",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Stolen Enchanting Supplies",
+   "count": 5,
+   "type": "item",
+   "id": 247805
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 248248,
+   "name": "Blixie Fitzwink",
+   "coord": [
+    63.2,
+    72.6
+   ],
+   "coords": [
+    [
+     63.2,
+     72.4
+    ],
+    [
+     63.2,
+     72.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 248248,
+   "name": "Blixie Fitzwink",
+   "coord": [
+    63.2,
+    72.6
+   ],
+   "coords": [
+    [
+     63.2,
+     72.4
+    ],
+    [
+     63.2,
+     72.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-26T15:20:55-05:00",
+   "body": "Look for [b]wooden crates[/b] around camps and trees. How this small gnome carried 5 boxes larger than herself I do not know...\r\n\r\nIf you've already visited Westbrook Garrison, this quest can be completed together with [quest=11].",
+   "replies": []
+  }
+ ]
+}

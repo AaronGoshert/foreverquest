@@ -1,0 +1,297 @@
+{
+ "id": 98310,
+ "name": "Gleaning Our Future",
+ "level": 32,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3200,
+ "start": {
+  "type": "npc",
+  "id": 1077,
+  "name": "Prospector Whelgar",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    38.8,
+    52.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1077,
+  "name": "Prospector Whelgar",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    38.8,
+    52.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Use the Goaz Stone near Ados, Modr, Golm, and Neru and bring their hearts back to Prospector Whelgar . Heart of Ados  ( 1 ) Heart of Modr  ( 1 ) Heart of Golm  ( 1 ) Heart of Neru  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 280394,
+   "name": "Goaz Stone",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 280395,
+   "name": "Heart of Ados",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 280396,
+   "name": "Heart of Modr",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 280397,
+   "name": "Heart of Golm",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 280398,
+   "name": "Heart of Neru",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Heart of Ados",
+   "count": 1,
+   "type": "item",
+   "id": 280395
+  },
+  {
+   "text": "Heart of Modr",
+   "count": 1,
+   "type": "item",
+   "id": 280396
+  },
+  {
+   "text": "Heart of Golm",
+   "count": 1,
+   "type": "item",
+   "id": 280397
+  },
+  {
+   "text": "Heart of Neru",
+   "count": 1,
+   "type": "item",
+   "id": 280398
+  }
+ ],
+ "series": [
+  299,
+  98216,
+  98310,
+  98313
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 1077,
+   "name": "Prospector Whelgar",
+   "coord": [
+    38.8,
+    52.2
+   ],
+   "coords": [
+    [
+     38.8,
+     52.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 1077,
+   "name": "Prospector Whelgar",
+   "coord": [
+    38.8,
+    52.2
+   ],
+   "coords": [
+    [
+     38.8,
+     52.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 271338,
+   "name": "Ados",
+   "coord": [
+    77.2,
+    47.4
+   ],
+   "coords": [
+    [
+     77.2,
+     47.4
+    ],
+    [
+     77.6,
+     46.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 271458,
+   "name": "Neru",
+   "coord": [
+    60.9,
+    21.7
+   ],
+   "coords": [
+    [
+     60.2,
+     22.1
+    ],
+    [
+     60.9,
+     21.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 271460,
+   "name": "Modr",
+   "coord": [
+    50.6,
+    18.9
+   ],
+   "coords": [
+    [
+     50.6,
+     18.9
+    ],
+    [
+     50.9,
+     18.4
+    ],
+    [
+     51.2,
+     17.3
+    ],
+    [
+     51.6,
+     17.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 271462,
+   "name": "Golm",
+   "coord": [
+    67.6,
+    71.8
+   ],
+   "coords": [
+    [
+     64.6,
+     51.4
+    ],
+    [
+     65,
+     59.6
+    ],
+    [
+     66.4,
+     67.8
+    ],
+    [
+     66.6,
+     69.2
+    ],
+    [
+     67.4,
+     70
+    ],
+    [
+     67.4,
+     71.4
+    ],
+    [
+     67.4,
+     71.6
+    ],
+    [
+     67.4,
+     72.8
+    ],
+    [
+     67.6,
+     69.4
+    ],
+    [
+     67.6,
+     70.2
+    ],
+    [
+     67.6,
+     71.4
+    ],
+    [
+     67.6,
+     71.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-15T15:33:46-05:00",
+   "body": "Very straightforward quest. Use the [b]Goaz Stone[/b] on the golems to wake them up, then kill and loot them. Reaching most golems is very easy, but [b]Ados[/b] is somewhat surrounded by elite orcs. My group was able to reach him without any extra clearing using [spell=453], but we did end up pulling one anyway despite being careful. I recommend you just [b]clear a path to him[/b], because then you'll also have a clear exit route as well.\r\n\r\n[b]Modr[/b] only deals [b]Physical[/b] damage. He [url=https://www.wowhead.com/forever/spell=8269/enrage][b]enrages[/b][/url].\r\n[b]Neru[/b] uses [b]Frost[/b] damage. I believe you can [b]dispel/purge his Frost Armor[/b]. \r\n[b]Ados[/b] deals [b]Fire[/b] damage. He also absorbs it using [spell=15041], which [b]can[/b] be dispelled.\r\n[b]Golm[/b] does [b]Fire[/b] damage as well, but he mainly [b]does AOE damage[/b]. [spell=16635], [spell=18968] and [spell=11988].\r\n\r\nIf I recall correctly, each golem had [b]6.8k[/b] health, so a bit tougher than your run-of-the-mill elite, but not like a dungeon boss of equal level. Can be finished with just a healer friend if you can't find anyone else.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2026-10-17T11:07:55-05:00",
+   "body": "Solo'd all of them as a feral druid, decent gear but nothing you couldn't have at launch, maybe 1-2 LW pieces. \r\nStick to bear, keep up demo roar, use Bash or Nature's Grasp to pop out and heal.\r\n[b]Modr will enrage at 30% or so[/b], which lasts 2 minutes. Keep him rooted and stay away until it wears off, he did not recast it.\r\nAdos looks like it is alone, but a second after pull I added a [b]stealthed elite orc rogue[/b]. Reset and fight him alone.",
+   "replies": []
+  }
+ ]
+}

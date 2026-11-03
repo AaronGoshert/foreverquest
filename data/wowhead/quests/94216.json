@@ -1,0 +1,88 @@
+{
+ "id": 94216,
+ "name": "Craftsman's Writ: Elixir of Lesser Agility",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 4201,
+  "name": "Ziz Fizziks",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59,
+    62.4
+   ],
+   [
+    59,
+    62.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Elixir of Lesser Agility  ( 1 ) Elixir of Lesser Agility  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264016,
+   "name": "Craftsman's Writ: Elixir of Lesser Agility",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3390,
+   "name": "Elixir of Lesser Agility",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Elixir of Lesser Agility",
+   "count": 1,
+   "type": "item",
+   "id": 264016
+  },
+  {
+   "text": "Elixir of Lesser Agility",
+   "count": 1,
+   "type": "item",
+   "id": 3390
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 4201,
+   "name": "Ziz Fizziks",
+   "coord": [
+    59,
+    62.4
+   ],
+   "coords": [
+    [
+     59,
+     62.4
+    ],
+    [
+     59,
+     62.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

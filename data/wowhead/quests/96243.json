@@ -1,0 +1,165 @@
+{
+ "id": 96243,
+ "name": "Call of Earth",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 420,
+ "start": {
+  "type": "npc",
+  "id": 258098,
+  "name": "Eldrun Stormbreaker",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    46.2,
+    13
+   ],
+   [
+    47.2,
+    12.2
+   ],
+   [
+    47.4,
+    13.4
+   ],
+   [
+    47.4,
+    13.6
+   ],
+   [
+    47.6,
+    13.4
+   ],
+   [
+    47.6,
+    13.6
+   ],
+   [
+    47.8,
+    12.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 257446,
+  "name": "Teo Hammerstorm",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    28.7,
+    66.1
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Find Teo Hammerstorm in Dun Morogh.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 257446,
+   "name": "Teo Hammerstorm",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  96243,
+  94373,
+  94374,
+  94375
+ ],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 258098,
+   "name": "Eldrun Stormbreaker",
+   "coord": [
+    47.4,
+    13.6
+   ],
+   "coords": [
+    [
+     46.2,
+     13
+    ],
+    [
+     47.2,
+     12.2
+    ],
+    [
+     47.4,
+     13.4
+    ],
+    [
+     47.4,
+     13.6
+    ],
+    [
+     47.6,
+     13.4
+    ],
+    [
+     47.6,
+     13.6
+    ],
+    [
+     47.8,
+     12.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 258113,
+   "name": "Ingrid Dunwald",
+   "coord": [
+    47.4,
+    52
+   ],
+   "coords": [
+    [
+     47.4,
+     52
+    ],
+    [
+     47.6,
+     52
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 257446,
+   "name": "Teo Hammerstorm",
+   "coord": [
+    28.7,
+    66.1
+   ],
+   "coords": [
+    [
+     28.7,
+     66.1
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

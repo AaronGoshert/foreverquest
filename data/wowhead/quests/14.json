@@ -1,0 +1,1033 @@
+{
+ "id": 14,
+ "name": "The People's Militia",
+ "level": 17,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 1600,
+ "start": {
+  "type": "npc",
+  "id": 234,
+  "name": "Gryan Stoutmantle",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    56.2,
+    47.4
+   ],
+   [
+    56.2,
+    47.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 234,
+  "name": "Gryan Stoutmantle",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    56.2,
+    47.4
+   ],
+   [
+    56.2,
+    47.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Gryan Stoutmantle wants you to kill 15 Defias Highwaymen, 5 Defias Pathstalkers and 5 Defias Knuckledusters then return to him on Sentinel Hill.   Defias Highwayman slain  ( 15 )   Defias Pathstalker slain  ( 5 )   Defias Knuckleduster slain  ( 5 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 234,
+   "name": "Gryan Stoutmantle",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 449,
+   "name": "Defias Knuckledusters",
+   "count": 15,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 122,
+   "name": "Defias Highwayman",
+   "count": 15,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 121,
+   "name": "Defias Pathstalker",
+   "count": 15,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Defias Highwayman slain",
+   "count": 15,
+   "type": "npc",
+   "id": 122
+  },
+  {
+   "text": "Defias Pathstalker slain",
+   "count": 5,
+   "type": "npc",
+   "id": 121
+  },
+  {
+   "text": "Defias Knuckleduster slain",
+   "count": 5,
+   "type": "npc",
+   "id": 449
+  }
+ ],
+ "series": [
+  12,
+  13,
+  14
+ ],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "start",
+   "type": 1,
+   "id": 234,
+   "name": "Gryan Stoutmantle",
+   "coord": [
+    56.2,
+    47.6
+   ],
+   "coords": [
+    [
+     56.2,
+     47.4
+    ],
+    [
+     56.2,
+     47.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 1,
+   "id": 234,
+   "name": "Gryan Stoutmantle",
+   "coord": [
+    56.2,
+    47.6
+   ],
+   "coords": [
+    [
+     56.2,
+     47.4
+    ],
+    [
+     56.2,
+     47.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "requirement",
+   "type": 1,
+   "id": 121,
+   "name": "Defias Pathstalker",
+   "coord": [
+    46.2,
+    78.8
+   ],
+   "coords": [
+    [
+     36,
+     77.2
+    ],
+    [
+     36.2,
+     74.8
+    ],
+    [
+     36.4,
+     74.4
+    ],
+    [
+     36.4,
+     76
+    ],
+    [
+     36.6,
+     74.4
+    ],
+    [
+     37.4,
+     75.2
+    ],
+    [
+     37.4,
+     76
+    ],
+    [
+     37.4,
+     76.8
+    ],
+    [
+     37.6,
+     72.4
+    ],
+    [
+     37.6,
+     75
+    ],
+    [
+     38.4,
+     57.4
+    ],
+    [
+     38.4,
+     57.6
+    ],
+    [
+     38.4,
+     73.4
+    ],
+    [
+     38.4,
+     73.6
+    ],
+    [
+     38.6,
+     57.4
+    ],
+    [
+     38.6,
+     57.6
+    ],
+    [
+     38.6,
+     73.6
+    ],
+    [
+     38.8,
+     69.8
+    ],
+    [
+     38.8,
+     73.4
+    ],
+    [
+     39,
+     69.4
+    ],
+    [
+     40,
+     69.9
+    ],
+    [
+     40.2,
+     68.4
+    ],
+    [
+     45.4,
+     79.6
+    ],
+    [
+     45.5,
+     79.6
+    ],
+    [
+     46.2,
+     78.8
+    ],
+    [
+     46.4,
+     78.4
+    ],
+    [
+     46.8,
+     78.4
+    ],
+    [
+     46.8,
+     78.6
+    ],
+    [
+     48.4,
+     77.6
+    ],
+    [
+     49,
+     77.4
+    ],
+    [
+     49.4,
+     77.6
+    ],
+    [
+     49.6,
+     76.2
+    ],
+    [
+     49.6,
+     77.4
+    ],
+    [
+     50,
+     78.2
+    ],
+    [
+     50.4,
+     73.7
+    ],
+    [
+     50.4,
+     78.6
+    ],
+    [
+     50.6,
+     74.2
+    ],
+    [
+     50.6,
+     77.2
+    ],
+    [
+     50.6,
+     78.4
+    ],
+    [
+     50.6,
+     78.6
+    ],
+    [
+     51.2,
+     75.6
+    ],
+    [
+     51.4,
+     75.2
+    ],
+    [
+     51.6,
+     75.2
+    ],
+    [
+     51.8,
+     74.2
+    ],
+    [
+     52.2,
+     72.2
+    ],
+    [
+     52.4,
+     73
+    ],
+    [
+     52.5,
+     73.6
+    ],
+    [
+     52.6,
+     73.2
+    ],
+    [
+     53,
+     72.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "requirement",
+   "type": 1,
+   "id": 122,
+   "name": "Defias Highwayman",
+   "coord": [
+    52.4,
+    78.2
+   ],
+   "coords": [
+    [
+     37,
+     82.6
+    ],
+    [
+     37.2,
+     79.4
+    ],
+    [
+     37.2,
+     80.4
+    ],
+    [
+     37.2,
+     82.2
+    ],
+    [
+     37.4,
+     80.6
+    ],
+    [
+     37.6,
+     81.8
+    ],
+    [
+     38,
+     81
+    ],
+    [
+     38.2,
+     79.4
+    ],
+    [
+     38.2,
+     80.4
+    ],
+    [
+     38.8,
+     80.8
+    ],
+    [
+     39,
+     79.4
+    ],
+    [
+     39,
+     79.6
+    ],
+    [
+     39.6,
+     79.8
+    ],
+    [
+     41,
+     79.4
+    ],
+    [
+     41,
+     79.6
+    ],
+    [
+     42,
+     80.4
+    ],
+    [
+     42,
+     80.6
+    ],
+    [
+     42.4,
+     79.4
+    ],
+    [
+     42.6,
+     80.6
+    ],
+    [
+     43,
+     79.6
+    ],
+    [
+     43.2,
+     79.4
+    ],
+    [
+     43.6,
+     79.4
+    ],
+    [
+     43.8,
+     79.6
+    ],
+    [
+     46.4,
+     78
+    ],
+    [
+     46.4,
+     81.2
+    ],
+    [
+     46.6,
+     78.2
+    ],
+    [
+     46.6,
+     80.2
+    ],
+    [
+     46.8,
+     80.8
+    ],
+    [
+     46.9,
+     78.8
+    ],
+    [
+     48.2,
+     77.2
+    ],
+    [
+     48.2,
+     77.6
+    ],
+    [
+     48.8,
+     77.6
+    ],
+    [
+     49.4,
+     76.4
+    ],
+    [
+     49.4,
+     76.8
+    ],
+    [
+     49.4,
+     78.8
+    ],
+    [
+     49.6,
+     76.4
+    ],
+    [
+     49.6,
+     76.6
+    ],
+    [
+     49.6,
+     77.6
+    ],
+    [
+     49.8,
+     78.8
+    ],
+    [
+     50.6,
+     78.6
+    ],
+    [
+     51,
+     78.4
+    ],
+    [
+     51.2,
+     74.6
+    ],
+    [
+     51.2,
+     76
+    ],
+    [
+     51.4,
+     74.4
+    ],
+    [
+     51.4,
+     76.8
+    ],
+    [
+     51.6,
+     77
+    ],
+    [
+     52,
+     72.4
+    ],
+    [
+     52,
+     72.6
+    ],
+    [
+     52,
+     75.2
+    ],
+    [
+     52,
+     75.6
+    ],
+    [
+     52.4,
+     74
+    ],
+    [
+     52.4,
+     78.2
+    ],
+    [
+     52.4,
+     78.6
+    ],
+    [
+     52.5,
+     74.8
+    ],
+    [
+     52.6,
+     72.2
+    ],
+    [
+     52.6,
+     73.4
+    ],
+    [
+     52.6,
+     73.6
+    ],
+    [
+     52.6,
+     78.4
+    ],
+    [
+     52.8,
+     78.6
+    ],
+    [
+     60.4,
+     58.6
+    ],
+    [
+     60.6,
+     58.4
+    ],
+    [
+     60.8,
+     58.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "requirement",
+   "type": 1,
+   "id": 449,
+   "name": "Defias Knuckleduster",
+   "coord": [
+    49.4,
+    78.8
+   ],
+   "coords": [
+    [
+     35,
+     75
+    ],
+    [
+     36,
+     77.2
+    ],
+    [
+     36.2,
+     74.4
+    ],
+    [
+     36.2,
+     75
+    ],
+    [
+     36.2,
+     75.9
+    ],
+    [
+     36.6,
+     74.4
+    ],
+    [
+     37,
+     80.4
+    ],
+    [
+     37.4,
+     75
+    ],
+    [
+     37.4,
+     75.6
+    ],
+    [
+     37.4,
+     76.6
+    ],
+    [
+     37.6,
+     75
+    ],
+    [
+     37.6,
+     80.6
+    ],
+    [
+     38.4,
+     73.4
+    ],
+    [
+     38.4,
+     73.6
+    ],
+    [
+     38.6,
+     73.6
+    ],
+    [
+     38.8,
+     73.4
+    ],
+    [
+     46,
+     79
+    ],
+    [
+     46.4,
+     78
+    ],
+    [
+     46.4,
+     80
+    ],
+    [
+     46.4,
+     81.2
+    ],
+    [
+     46.6,
+     78.2
+    ],
+    [
+     46.6,
+     81
+    ],
+    [
+     46.8,
+     78.6
+    ],
+    [
+     47,
+     80.4
+    ],
+    [
+     48.4,
+     78.2
+    ],
+    [
+     49.2,
+     78.4
+    ],
+    [
+     49.4,
+     77.4
+    ],
+    [
+     49.4,
+     78.8
+    ],
+    [
+     49.6,
+     78.8
+    ],
+    [
+     50.2,
+     78.4
+    ],
+    [
+     50.4,
+     76.2
+    ],
+    [
+     50.4,
+     77.4
+    ],
+    [
+     50.8,
+     75.6
+    ],
+    [
+     50.8,
+     78.6
+    ],
+    [
+     51,
+     75
+    ],
+    [
+     51,
+     78.4
+    ],
+    [
+     51.4,
+     74.4
+    ],
+    [
+     51.4,
+     76.8
+    ],
+    [
+     51.6,
+     74.4
+    ],
+    [
+     51.6,
+     74.6
+    ],
+    [
+     51.6,
+     77.2
+    ],
+    [
+     51.6,
+     77.8
+    ],
+    [
+     51.7,
+     75.8
+    ],
+    [
+     52.4,
+     78.6
+    ],
+    [
+     52.6,
+     78.4
+    ],
+    [
+     52.8,
+     78.6
+    ],
+    [
+     60.4,
+     58.6
+    ],
+    [
+     60.4,
+     59.6
+    ],
+    [
+     60.8,
+     58.4
+    ],
+    [
+     60.8,
+     58.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 32,
+   "date": "2005-09-26T20:17:07-05:00",
+   "body": "The location is SE of Moonbrook, back in a small valley in the hills.\n\nTake along some hops, there's a questgiver there that will ask you to collect 5 hops.",
+   "replies": []
+  },
+  {
+   "rating": 22,
+   "date": "2006-12-14T11:38:53-06:00",
+   "body": "From moonbrook go South East and you can find them on a path in the hills",
+   "replies": [
+    "The hills are called the Dagger Hills I believe."
+   ]
+  },
+  {
+   "rating": 13,
+   "date": "2007-01-14T08:17:07-06:00",
+   "body": "The dagger hills is a perfect place for this quest. You almost get them one by one every time and theres a lot of everyone. Pretty quick respawn if you should need more. Cords are 52,71",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2006-02-19T20:17:07-06:00",
+   "body": "The above are right.\n\nSouthwest..little ways behind moonbrook. There are a few camp sites with mixes of them.\n\nIf your low lvl, take a buddy with ya cause if you aggro too many at once, its a long mist ride back to your body.\n\nIts all part of the chain quests that take FOREVER to do to get Dead Mines.\n\nTake 5 hops (mech's in fields) with ya cause there is a drunk dwarf in a tent in the hills that you pass. This is if you want a barrel of brew. Good for stamina.\n\nI had a few mates AOE the place so i had it easy.",
+   "replies": [
+    "It is a great idea to take the 5 Hops with you, but do not use this brew for stamina, use it for [url=https://www.wowhead.com/forever/quest=116]the quest from Lakeshire[/url], that you can pick up during the early stages of [url=https://www.wowhead.com/forever/quest=65]The Defias Brotherhood[/url] quest chain, which sends you to Lakeshire."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2019-05-12T08:31:37-05:00",
+   "body": "Pins on the map are wrong - they are in the hills south of Moonbrook. Don't forget to bring 5 hops for [url=https://www.wowhead.com/forever/quest=117/thunderbrew-lager]Thunderbrew[/url]",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-03-28T08:17:07-05:00",
+   "body": "ripped threw it as a lvl 21 dwarf hunter took 5 whole minutes. highest levels are 18 so would be easy for ide say 16lvl and up. otherwise bring a bud n get it done fast :)",
+   "replies": [
+    "less speed - more haste"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-19T20:17:07-06:00",
+   "body": "I found them all at the mountains south of moonbrook, you can run up the mountains, just look for a path, and there will probably be a guy there, i was level 12 when i did this quest and i got owned, so dont try it like that unless your a lock or something. i got a 31 rogue to help me out so try to get someone to help you, its easy as anything if you do-NikkoAlexio(12 paladin Undermine)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-09T18:00:13-06:00",
+   "body": "There are a few mobs for this quest stationed around the farm house at 61,57.  They respawn pretty quickly, and the spawns seem to alternate randomly between level 17-18 Highwaymen and level 15-16 Knuckledusters.\n\nIf you head south/southeast from the vendors' carts by Sentinal Hill, get just over the top of those small hills & you should see them right in front of you.  The one between the silo & the farmhouse is an easy ranged-weapon pull from there.\n\nWatch yourself when fighting the Defias mob southwest of (to the right of) the silo...move too far southeast & you risk aggroing the level 17-18 Greater Fleshripper that hangs out there, move too far southwest & you risk aggroing one of the level 17-18 Harvest Watchers in the field.  I managed to aggro both while fighting a level 18 Defias Highwayman (as a level 16 Human Rogue)...managed to sprint out of there seconds before dying.",
+   "replies": [
+    "Just wanted to update my post from yesterday: you can't reach the Defias mob that stands between the house & the silo from the hill...you have to walk to the base of the hill.  You'll still be too far away to aggro the mob, but close enough to pull with a crossbow.  That one will randomly either be a Highwayman or a Knuckleduster, either level 16 or 17.\n\nOnce you're done with that one, there's another one standing in front of the silo.   You can pull this one to the spot between the house & silo pretty easily, as this is a safe place where you won't risk aggroing anything else.  This one's als",
+    "Sometimes it is nice to read a detailed account. Thanks for taking the time to tell us of your experiences. Very cool."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2004-12-01T06:18:04-06:00",
+   "body": "I rated this quest excellent. The rewards are good for the level at which this can be finished (by a group of level 15-18). I did all steps in about two hours with 3 others (/wave Arien, Zex and Datoad!) and those of us who could use the reward were all very happy.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-09T08:17:07-05:00",
+   "body": "There are some Highwaymen by 61,58",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-08-21T08:17:07-05:00",
+   "body": "Soloed this Quest at level 14, to remind you that i am just a Warlock, so if you try you can do it..\n\nTricks and Tips\n\na. I don't go near the camps (there are many defias') i only attacked Defias that is wandering around and they're all Level 16-18.\n\nb. Just be patient...to achieve your goals :)",
+   "replies": [
+    "If you can pull without being an agro #$%^& you'll be fine <:)"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-19T05:24:19-05:00",
+   "body": "In The dagger hills @ 53, 70&nbsp; (Westfall)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-14T08:17:07-06:00",
+   "body": "Look at the map ON THE VERY south of it there some mountains Notice the city moonbrook (if you didn't then you aren't even trying to find it There are mountains directly behind it a strip of land then more mountains you are trying to get to the strip of land",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-21T08:17:07-05:00",
+   "body": "this is easy.\n\ngobehind Moonbrooke, and RAmpage through the mountain range there...\n\ndo it solo, do it in a group... bring a picnic\n\nlvl 16 Lock solo usin' her noggin\n\nCornholia\n\n/tloc 51,76 and west...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-26T20:17:07-05:00",
+   "body": "I found a lot at map coords 53,72",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-05T16:48:38-06:00",
+   "body": "The Dagger Hills (48, 76) \nStraight south of Sentinel Hill.  \nEverything can be found along path.\n\n*Remember to bring your 5 hops to turn in to Grimbooze for the \"thunderbrew Lager\" quest you get from him at (44, 80).",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-19T20:38:36-06:00",
+   "body": "Mob Lvls: 15-18. Soloed this at lvl 17. Pull them one at a time and watch for adds. Their attack speed is very fast. I found them all behind Moonbrooke in the mountains.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-10T14:29:49-05:00",
+   "body": "What about Pathstalker and Knuckledusters?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-14T18:08:05-05:00",
+   "body": "hard for me to kill level 18s, as i am only 15 and they resists 90% of the time :(",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-12T21:59:12-05:00",
+   "body": "I met a level 20 Dwarf hunter as I got to the area, we teamed up and wiped it out in no time.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-18T09:20:28-05:00",
+   "body": "I think this quest is prizeless I had a better wand insted of the quest givin...",
+   "replies": [
+    "I agree prizes are usless if your not a warrior or pally that hasn't managed to buy something better already. on my warrior i got my hads on a approx 19-35 when i was lvl 8. ive run into many quests that gave me usless stuff on that charicter.(oops sp)\n"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-21T13:56:42-06:00",
+   "body": "I did this quest alone as a lvl 15 warlock...don't need no group",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-21T06:21:00-05:00",
+   "body": "I went through as a hunter, though I was higher on the level end, at a 19. It was fairly easy to pick them off one by one. They don't really group all that much, and seem to have a relatively small aggro radius.\n\nEnjoy!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-01T03:28:05-05:00",
+   "body": "Maybe its just me, but I don't see many people posting anything usefull.  I noticed one person did post the location, 52,73, there is a hill, its just south of Sentinel Hill.  Just run up the hill and kill everything, by the top you should have all the kills, there is also a couple of chests up there, one had some nice loot.\n\n[i][small]Edited, Jul 31st  2006 at 11:38pm EDT by maxjohast[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-09-13T00:01:45-05:00",
+   "body": "Highway men can be found to the South of Sentinal Hill in a path along the mountains.",
+   "replies": [
+    "the path starts at 53,72",
+    "I had the help of a level 28 warlock, so I thought that it was pretty easy. (:"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-27T20:24:25-06:00",
+   "body": "This quest rewards 350 Stormwind reputation as of patch 2.01",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-28T08:17:07-05:00",
+   "body": "There's a cut in the mountains where they have a small camp.&nbsp; Happy hunting -",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-09T12:37:42-06:00",
+   "body": "We want the location co-rds not talk about your story about it... Anyway its 52,72 simple has that",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-09-18T21:08:21-05:00",
+   "body": "Um...no not much was posted to help this Quest...\n\nbut it is south of Sentinel Hill and it is up a Hill it was a good fight lol\n\nhee hee",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2005-05-04T11:01:58-05:00",
+   "body": "Ive got better weapons at lvl 14.. the reward is crap.",
+   "replies": []
+  }
+ ]
+}

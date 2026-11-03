@@ -1,0 +1,409 @@
+{
+ "id": 3382,
+ "name": "A Crew Under Fire",
+ "level": 57,
+ "reqlevel": 48,
+ "side": 3,
+ "zoneId": 16,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 600,
+ "start": {
+  "type": "npc",
+  "id": 8380,
+  "name": "Captain Vanessa Beltis",
+  "zone": "Azshara",
+  "zoneId": 16,
+  "coords": [
+   [
+    53,
+    87.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 8380,
+  "name": "Captain Vanessa Beltis",
+  "zone": "Azshara",
+  "zoneId": 16,
+  "coords": [
+   [
+    53,
+    87.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Defend Captain Vanessa Beltis , her crew and the Horizon Scout's passengers against the naga attack. Captain Vanessa Beltis must survive.   Protect Captain Vanessa Beltis from the naga attack  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 8380,
+   "name": "Captain Vanessa Beltis",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Protect Captain Vanessa Beltis from the naga attack",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16,
+   "zone": "Azshara",
+   "point": "start",
+   "type": 1,
+   "id": 8380,
+   "name": "Captain Vanessa Beltis",
+   "coord": [
+    53,
+    87.8
+   ],
+   "coords": [
+    [
+     53,
+     87.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16,
+   "zone": "Azshara",
+   "point": "end",
+   "type": 1,
+   "id": 8380,
+   "name": "Captain Vanessa Beltis",
+   "coord": [
+    53,
+    87.8
+   ],
+   "coords": [
+    [
+     53,
+     87.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 82,
+   "date": "2007-01-17T16:13:00-06:00",
+   "body": "WORST quest ever",
+   "replies": [
+    "You CAN get up to the gnome shack from the water... there's a little bit of a slope that will make it reachable. Just keep trying to find it",
+    "yes.. true there is a way up...\nhead the the end of the cove to the east of the Gnome building... staart jumping first north then west the edge hug and quick jump west towards the buidling ... the soil changes colour.. and it took me several attempt ^^' -\n\nstill a pain to climb\n\nthe more obvious looking path to the west of the building didn't seem to work for me. ^^'\n\nhmm testing another pain .. go to the south point of the outcropping .. there is an easier path up on the west side of it ... jump east then north up.",
+    "This quest is still a one and done (repeatable). Pretty funny.",
+    "start climbing. and jumping, at 45:92"
+   ]
+  },
+  {
+   "rating": 75,
+   "date": "2006-03-31T16:13:00-06:00",
+   "body": "\"Greetings --- I am Game Master ---. This quest is not fully impelemented and more will be added eventually. Please also bear in mind the quest is repeatable so if you wish to do so you can do it again.\"",
+   "replies": [
+    "Still not implemented LOL"
+   ]
+  },
+  {
+   "rating": 51,
+   "date": "2005-12-12T04:13:00-06:00",
+   "body": "After I did this quest and only got 600xp I started it again and let everybody get slaughtered by the Naga -- then I felt better.",
+   "replies": []
+  },
+  {
+   "rating": 42,
+   "date": "2006-06-12T16:13:00-05:00",
+   "body": "STILL unfinished or something. I was doing the Asharite quest when I fell down a gap. I ressed and found this q - thought I would do it for fun and to see what reward I would get. \nHorribly disappointed I didn't get anything at all - 600XP when at level cap = biggest waste of time ever. \nAnd a waste of runecloth ;)\nIf it isn't finished, why can't they just pick some random green weapon and have that as reward or something? Or just junk the quest all together until it is done?\nU can't even loot the naga!",
+   "replies": []
+  },
+  {
+   "rating": 38,
+   "date": "2006-12-17T13:55:46-06:00",
+   "body": "The final wave the crew decided not to help, so I ran far enough away to be out of combat and then went back and waited for the naga to despawn (they just stood around and didn’t attack the crew) as soon as they did I got credit for a complete quest. \r\n\r\nShe mentioned at the end to speak to other crew members (reading the other threads I found out this step is not implemented at the moment) these were the crew members I could find … none of them spoke to me, though \r\n\r\nSecond Mate Shandril – on the island watching over the debris \r\nRoland Geardabbler – In sunken ship \r\nHorizon Scout First Mate – In sunken ship \r\nHorizon Scout Engineer – In sunken ship \r\nHorizon Scout Cook – In sunken ship \r\nHorizon Scout Crewman – 7 one on shore before the valley leading to the Captain and six more at her side. \r\nCaptain Vanessa Beltis \r\nPatrick Mills – Fights beside the captain \r\nAlexandra Blazen – Fights beside the captain \r\nLindros – Fights beside the captain",
+   "replies": []
+  },
+  {
+   "rating": 36,
+   "date": "2019-09-21T06:05:51-05:00",
+   "body": "2019, the relaunch of classic and blizzard decided to keep this broken quest. Still 600xp and nothing. Great bait.",
+   "replies": [
+    "Hey I can see two reasons to do this quest..",
+    "They never finished it because I mean lets be real, its Azhara baby. Supposedly the data for this quest chain was programmed but they never finished/implemented it. I guess it was repeatable so players wouldn't get flagged for completing it once Blizzard (never) finished the quest."
+   ]
+  },
+  {
+   "rating": 34,
+   "date": "2006-12-20T14:08:43-06:00",
+   "body": "I found these guys by accident while exploring the beaches and the quest does the same thing at lvl58. Very, very easy for a mage - just put up mana shield (frost ward helps too, but isn't necessary because they die so fast) and nova them right at the little gate where the crew is hiding behind. About 5 or so arcane explosions was enough to finish off each wave of the naga, so plenty of time between waves to refuel mana. It's disappointing that you can't loot them because soo many corpses. >_>",
+   "replies": []
+  },
+  {
+   "rating": 20,
+   "date": "2006-10-24T00:04:33-05:00",
+   "body": "At this time, this quest is bugged. You cannot loot any of the naga, so you can't grind them for Golden Pearls.",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2007-03-11T05:55:16-05:00",
+   "body": "Nothing, zip, nada after this patch either. The quest is repeatable though, my guess is some broken handle or trigger. That, or they just haven't made the rest of the quests yet.",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2006-03-31T16:13:00-06:00",
+   "body": "iv done it like 5 minutes ago with my 60 lvl character, gained 600 xp, no gold whatsoever and its still repeatable :) but hey , a least the pirates are safe!",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2020-11-21T09:59:39-06:00",
+   "body": "Still as others have said:\r\n\r\nCrew doesn't help fight last wave.\r\n\r\nMinimal XP, no reward.\r\n\r\nRepeatable.\r\n\r\nNo reason to do this unless you're feeling completionist, but even then, it doesn't get marked as completed.",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2006-02-23T04:13:00-06:00",
+   "body": "According to Blizzard GM:\n\nThe issue reported above is not considered to be \"broken\" and should be \nfunctioning normally. If you feel that the functionality should be \ndifferent, then please visit the Suggestion Forum \n(http://forums.worldofwarcraft.com/board.aspx?fn=wow-suggestions) and \npost a suggestion. These forums are regularly monitored by the World of \nWarcraft development team.\n\nIt seems that this quest is functioning normal.&nbsp; It just \"seems\" buggy to everyone but the GM.",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2005-12-12T04:13:00-06:00",
+   "body": "It seems this quest is unfinished. The Captain hints at being able to talk to her crew for further quests once this quest is completed, but none of them have a thing to say. \n\nAnd yes, the quest is repeatable. Very fun quest, too bad it's unfinished and so hard to get to.",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2006-03-31T16:13:00-06:00",
+   "body": "\"Soloed\" this quest at level 50 (with the help of her crew).&nbsp; Too bad, still only 600xp *groan*.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2006-06-12T16:13:00-05:00",
+   "body": "I got lost swimming around the continent and ended up in their camp, I wandered here thinking I had missed something (lvl57 quest only 600Xp) but I guess not. \nDid it twice and didn't notice the crew not helping the first time when I had help from my buddy, second time he was afk and I got stomped when the crew didnt help me (lvl 54 trying to solo 5 lvl 49 Naga). \nRepeatable is ok I guess and if they really dont kill the crew and despawn at the last wave and you still get xp then its even easier because as long as the crew is helping you its easy. Only that last wave when you have to solo is hard.\n\nActual XP Gained: At lvl 54 I was getting 19-20xp for each naga (I was in a group of 2) 4-5 waves of 5 plus the 600 for quest complete, you should get about 1000-1200xp total for about 5-10 minutes of little work. Not too bad but still not great and would be nice if you could loot the naga that attack.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2007-05-16T10:56:12-05:00",
+   "body": "20 May 2007\n\nSoloed with 52 hunter and pet (plus crew).\n\nMinimal mob XP, no completion XP, repeatable.\n\ni.e. No change since April.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2006-12-12T04:13:00-06:00",
+   "body": "Out visting Duke Hydraxis and thought i would check on this quest.&nbsp; You can still do the battle, but none of the passengers on shore or in the wreck respond even now after 2.0 patch.&nbsp; May give xp but not to me at 60.&nbsp; I guess i will check back again after BC comes out.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2007-03-04T11:53:48-06:00",
+   "body": "I soloed this at 50 as a prot-speced Paladin, and I would imagine other classes who can heal would be able to do alright at the lower levels. It's a lot of work for a sum total of about 1k XP, I could just kill three things somewhere else in about a minute and a half to get the same XP, with a lot less risk.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-01-17T16:13:00-06:00",
+   "body": "As others have said, after several waves the crew just start standing there and stop fighting.\n\nAt this point, just stand way back so you don`t get aggro (I had Shadowmeld so I`m not sure if you could do it otherwise).&nbsp; The naga will stop at the crew and just kinda stand there.\n\nA few minutes later they`ll despawn and you`ll get completion credit.\n\nToo bad there`s no rewards.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-07-19T04:13:00-05:00",
+   "body": "best warlocks shard gathering place in the game, shadowbolt->souldrain. let the npc's do the rest.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2021-03-25T22:18:28-05:00",
+   "body": "It's disappointing to learn that the devs haven't fixed this quest. You could probably do it as a 60 of some sort but why would you? Maybe there's an authenticity thing going on. Keep the broken parts because they're part of the original experience? I guess we could make that theoretical argument but how many people would prefer authenticity and \"original design\" to what could have been a tough but possible (and thus more interesting) quest?",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-12-12T04:13:00-06:00",
+   "body": "Everything that comes is a 48-50 non-elite.&nbsp; A 57 would easily solo it, especially since the npc crew helps fight.\n\n...Except the last fight.&nbsp; They don't seem to help as of patch 1.8.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-01-17T16:13:00-06:00",
+   "body": "I dont think blizz expected people to find this quest yet. I just stumbled across these guys after falling off a cliff and dying right next to them. I was hoping for some great reward since it was a quest that wasn't in a normal area and hard to get to, but since im 60 I got nothing except the option to do it again. too bad.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-03-31T20:32:12-05:00",
+   "body": "I did this level 57 quest for Nothing! No reward at all. \"Working Properly\" my ass.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-05-16T10:56:12-05:00",
+   "body": "Okay - as posted above - on their last attack, you will notice that the crew does nothing (some may even have died during an earlier wave).\n\nDo pull way back and only 1 will come in to dispatch at your leisure.&nbsp; However, you will have to kill the rest for the quest to complete.\n\nLocation again is 53,87 - and if you come from shore at 49,91 there is a lone scout there.\n\nAt the end she says: \nI would ask you to speak to any surviving passengers from the Horizon Scout. Some of them had business in the area, and may have a request or two of you if you're willing. \n\nnot true - yet - I thought maybe it had something to do with the 3 other named (Lindros, Patrick Mills, Alexandra Blazen) staying alive.&nbsp; So I did it a second time - the weird thing is that even post BC, I got zero experience from either time at lvl 60.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-12-07T01:59:10-06:00",
+   "body": "Their wreck is not easy to find along the far southern coast of Azshara at @ 45x90.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-02T19:34:47-05:00",
+   "body": "02/04/2007  the quest is still active ...I compleated this one..it is repeatable but not with a blue \"?\" after compleating the quest the gold \"!\" comes back. at lvl 49 only \"19\" xp per kill when i still had bonus xp rested bonus was 8xp  O.O  strange goings on here with this quest!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-05-13T00:14:00-05:00",
+   "body": "Soloed it (51 Mage) and got 600xp. Not worth the time.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-03-07T12:51:24-06:00",
+   "body": "I found this quest as well, and personally use it as a Role-play quest to test small groups of applicants and those in the guild who want to lead patrol groups in role-play.\n\nSince this quest is repetable it works well for that purpose with a small reward for completing it.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-03T21:29:48-05:00",
+   "body": "I did it with my paladin 49 I didn't receive any reward..no exp lol :P\n\nIn my opinion there's a secret on this quets XD",
+   "replies": [
+    "I raised the question via an in-game ticket and received an e-mail.&nbsp; Like you - I was thinking maybe there was a 'right' thing to do.\n\nMaybe all the named sailors have to stay alive? \nMaybe you have to complete the quest 7 times? \nETC.&nbsp; etc.&nbsp; etc.\n\nE-mail response: \n\n[div]We are aware of the situation you reported, and we are currently working on a solution. [/div]\nPretty much Blizzard's standard (automated) response to these things.&nbsp; They've been [b]currently working on[/b] it for a very long time!"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-06-16T22:38:07-05:00",
+   "body": "Now the quest is repeatable...lol.  600 exp what a joke.  Atleast it's easy as hell.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-02-19T22:51:07-06:00",
+   "body": "Only gave me 600xp soloing it ( Rogue 56 ), and immediately let me take the quest again.\n\nGrrrr",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-17T09:29:00-06:00",
+   "body": "probably not worth your time. no followups, nothing accomplished by doing it, and the reward is pretty small if you're high enough to solo it.\n\nwhen you complete it, she says you should talk to the surviving members for more jobs, but none of them have anything to say. probably to be added later.\n\na tip for rogues: you can move up in the valley around the corner, and use distract to stop half the group on their way. so you can just fight half of each wave at a time. I wouldn't recommend sap though, or they all come for you. and it's hard for the crewmen to get them off.\n\nEdited, Thu Mar 17 03:41:56 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-11T17:51:21-05:00",
+   "body": "I was able to do it a few weeks back on my gnome warlock. Since the NPCs are human, it made sense to me. Anyway, the quest is worthless. Barely any exp and you can't loot any of the mobs that spawn for it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-31T13:41:45-06:00",
+   "body": "Not worth doing I did this solo as a lvl 52 Druid got a whole 600 exp points and no follow up.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-10T00:44:33-05:00",
+   "body": "Who knows what Blizzard have been planning for this part of Azshara (not to mention the little stage just offshore). Perhaps this could be an opening for some Maelstrom quests, since that's going to be Naga territory & since the quest text states that the trouble happened offshore?",
+   "replies": [
+    "That little stage offshore is part of another quest from IF, but I can't remember the name of it right now, sorry.",
+    "[52] Arcane Runes ( [quest=3449] )"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-18T16:19:16-05:00",
+   "body": "i dont get a follow up as everyone said, i just get to do it over... weird... ill have to try it...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-15T21:57:51-06:00",
+   "body": "The final wave the crew decided not to help, so I ran far enough away to be out of combat and then went back and waited for the naga to despawn (they just stood around and didn’t attack the crew) as soon as they did I got credit for a complete quest.\n\nShe mentioned at the end to speak to other crew members (reading the other threads I found out this step is not implemented at the moment) these were the crew members I could find … none of them spoke to me, though\n\nSecond Mate Shandril – on the island watching over the debris\nRoland Geardabbler – In sunken ship\nHorizon Scout First Mate – In sunken ship\nHorizon Scout Engineer – In sunken ship\nHorizon Scout Cook – In sunken ship\nHorizon Scout Crewman – 7 one on shore before the valley leading to the Captain and six more at her side.\nCaptain Vanessa Beltis\nPatrick Mills – Fights beside the captain\nAlexandra Blazen – Fights beside the captain\nLindros – Fights beside the captain",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-18T15:58:25-05:00",
+   "body": "i swam out to the wrecked ship and as a hunter, i get 4 blips for humanoid on the ship.  a cook, a mate and engineer and roland geardabbler.\nfound them inside captain's cabin.\nno quests, no dialogue...\n\nEdited, Mon Apr 18 12:07:17 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-06T17:31:33-05:00",
+   "body": "[quote][i][url=http://forums.worldofwarcraft.com/thread-search.aspx?ForumName=wow-bugs&Author=motive&Cluster=Wow]motive[/url][/i]\nThis quest is currently working as intended.\n\nIn the future, there may be more quests added to this area.\n[/quote]\n\nThread: [url=http://forums.worldofwarcraft.com/thread.aspx?fn=wow-bugs&t=46611&tmp=1#post46611]link[/url]\n\nEdited, Wed Jul  6 13:31:58 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-25T02:37:06-05:00",
+   "body": "Just finished this on my level 52 hunter, the trick to make sure you get heals from the npc's as well as the pally devotion armor buff is to turn your pvp flag on! (this also works in ZF doing the stair event with SGT Bly). It was very easy I laid an explosive trap before each wave sent my pet, cast volley, then multi-shot and FD when I had aggro. All NPC's lived & I got 600xp for finishing the quest. The Captain told me to talk to her crew and passengers as they might have request for me to do something for them, but you cannot talk to anyone but her.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-20T08:23:19-06:00",
+   "body": "only gives 700 exp",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-08T22:43:31-05:00",
+   "body": "now, 4 wawes of mobs attacking. You can heal between wawes.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-17T05:56:24-06:00",
+   "body": "Side is alliance also",
+   "replies": [
+    "yeah i am alliance and got it. someone needs to change the marker."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2020-09-17T23:03:24-05:00",
+   "body": "Not only the reward is awful, but at some point for some reason the other crew members just stop fighting and leave you and the captain fighting alone. Just plain garbage quest.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-10T02:44:46-05:00",
+   "body": "Got NO EXP for this as a 52 Warlock. Wasn't getting any from killing the Naga either. What a waste.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-03-11T03:55:42-06:00",
+   "body": "Was bugged when i did it. The 4th wave the crew just stands there. The nagas attack you alone the crew does nothing. Managed to solo an entire wave but nothing just another wave came and killed me. Tried it 3 times same every time.[Black][/Black]",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-09-20T14:23:22-05:00",
+   "body": "pls correct since this quest is available to alliance too.\n\npiece of cake as a lvl 51 druid...just remember to protect the friendly caster.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2005-12-04T02:45:31-06:00",
+   "body": "no faction, 600xp",
+   "replies": []
+  }
+ ]
+}

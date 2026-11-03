@@ -1,0 +1,150 @@
+{
+ "id": 92706,
+ "name": "WANTED: Bruuz",
+ "level": 20,
+ "reqlevel": 15,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1950,
+ "start": {
+  "type": "object",
+  "id": 3972,
+  "name": "WANTED",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62.6,
+    37.5
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3391,
+  "name": "Gazlowe",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62.6,
+    36.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring Bruuz's Dorsal Fin to Gazlowe in Ratchet. Bruuz's Dorsal Fin  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 253710,
+   "name": "Bruuz's Dorsal Fin",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Bruuz's Dorsal Fin",
+   "count": 1,
+   "type": "item",
+   "id": 253710
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 2,
+   "id": 3972,
+   "name": "WANTED",
+   "coord": [
+    62.6,
+    37.5
+   ],
+   "coords": [
+    [
+     62.6,
+     37.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 3391,
+   "name": "Gazlowe",
+   "coord": [
+    62.6,
+    36.2
+   ],
+   "coords": [
+    [
+     62.6,
+     36.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 209797,
+   "name": "Bruuz",
+   "coord": [
+    64.7,
+    39
+   ],
+   "coords": [
+    [
+     64.2,
+     39
+    ],
+    [
+     64.6,
+     39.8
+    ],
+    [
+     64.7,
+     39
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-04T21:52:55-05:00",
+   "body": "Pronounced \"Bruce,\" this is a reference to mechanical shark that was used in Jaws, whose nickname was Bruce.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-11T23:27:39-05:00",
+   "body": "Just soloed it as a level 18 warlock without any help from the guards. www.youtube.com/watch?v=qcPM5tsFRC0",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2026-09-22T14:08:01-05:00",
+   "body": "[Beta]: Solo'd as level 20 prot paladin - kited him back to the dock and got help from a Ratchet Bruiser. Probably could have killed it alone but it would have been close. Did not drop anything besides the quest item. Hit me for 40-50 about every 1.5 sec.",
+   "replies": [
+    "Managed to solo him completley in the water. lvl 20 prot paladin aswell. Had to use bubble and 1 bandage total."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2026-10-03T15:29:41-05:00",
+   "body": "This is also available to members of the Alliance. Soloed as 24 Gnome Priest by kiting near a guard.",
+   "replies": []
+  }
+ ]
+}

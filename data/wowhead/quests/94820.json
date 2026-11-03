@@ -1,0 +1,21 @@
+{
+ "id": 94820,
+ "name": "Contingency Plan",
+ "level": 20,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": -262,
+ "reqclass": 16,
+ "status": "new",
+ "xp": 390,
+ "start": null,
+ "end": null,
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak to High Priestess Mims in Ironforge.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

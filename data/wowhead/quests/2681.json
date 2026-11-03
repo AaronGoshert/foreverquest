@@ -1,0 +1,799 @@
+{
+ "id": 2681,
+ "name": "The Stones That Bind Us",
+ "level": 57,
+ "reqlevel": 45,
+ "side": 3,
+ "zoneId": 4,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 7550,
+ "start": {
+  "type": "npc",
+  "id": 7572,
+  "name": "Fallen Hero of the Horde",
+  "zone": "Swamp of Sorrows",
+  "zoneId": 8,
+  "coords": [
+   [
+    34.2,
+    65.4
+   ],
+   [
+    34.2,
+    66
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7572,
+  "name": "Fallen Hero of the Horde",
+  "zone": "Swamp of Sorrows",
+  "zoneId": 8,
+  "coords": [
+   [
+    34.2,
+    65.4
+   ],
+   [
+    34.2,
+    66
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Free nine Servants of Razelikh , three Servants of Sevine , three Servants of Allistarj , and three Servants of Grol . Return to the Fallen Hero when your task is complete. You must remain within close proximity of the stones or the process will fail.   Servants of Razelikh Freed  ( 9 )   Servants of Grol Freed  ( 3 )   Servants of Allistarj Freed  ( 3 )   Servants of Sevine Freed  ( 3 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 7668,
+   "name": "Servants of Razelikh",
+   "count": 9,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 7669,
+   "name": "Servants of Grol",
+   "count": 3,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 7670,
+   "name": "Servants of Allistarj Freed",
+   "count": 3,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 7671,
+   "name": "Servants of Sevine Freed",
+   "count": 3,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Servants of Razelikh Freed",
+   "count": 9,
+   "type": "npc",
+   "id": 7668
+  },
+  {
+   "text": "Servants of Grol Freed",
+   "count": 3,
+   "type": "npc",
+   "id": 7669
+  },
+  {
+   "text": "Servants of Allistarj Freed",
+   "count": 3,
+   "type": "npc",
+   "id": 7670
+  },
+  {
+   "text": "Servants of Sevine Freed",
+   "count": 3,
+   "type": "npc",
+   "id": 7671
+  }
+ ],
+ "series": [
+  2783,
+  2801,
+  2681,
+  2702,
+  2701
+ ],
+ "points": [
+  {
+   "zoneId": 8,
+   "zone": "Swamp of Sorrows",
+   "point": "start",
+   "type": 1,
+   "id": 7572,
+   "name": "Fallen Hero of the Horde",
+   "coord": [
+    34.2,
+    66
+   ],
+   "coords": [
+    [
+     34.2,
+     65.4
+    ],
+    [
+     34.2,
+     66
+    ]
+   ]
+  },
+  {
+   "zoneId": 8,
+   "zone": "Swamp of Sorrows",
+   "point": "end",
+   "type": 1,
+   "id": 7572,
+   "name": "Fallen Hero of the Horde",
+   "coord": [
+    34.2,
+    66
+   ],
+   "coords": [
+    [
+     34.2,
+     65.4
+    ],
+    [
+     34.2,
+     66
+    ]
+   ]
+  },
+  {
+   "zoneId": 4,
+   "zone": "Blasted Lands",
+   "point": "requirement",
+   "type": 1,
+   "id": 7668,
+   "name": "Servant of Razelikh",
+   "coord": [
+    63.8,
+    55.8
+   ],
+   "coords": [
+    [
+     51.2,
+     57.6
+    ],
+    [
+     51.4,
+     57.4
+    ],
+    [
+     51.8,
+     56.8
+    ],
+    [
+     53.2,
+     58.4
+    ],
+    [
+     53.2,
+     59.4
+    ],
+    [
+     53.2,
+     59.6
+    ],
+    [
+     53.8,
+     53.4
+    ],
+    [
+     53.8,
+     53.6
+    ],
+    [
+     55.2,
+     50.6
+    ],
+    [
+     55.4,
+     50.4
+    ],
+    [
+     55.6,
+     51
+    ],
+    [
+     58,
+     48.4
+    ],
+    [
+     58,
+     49.2
+    ],
+    [
+     58,
+     49.8
+    ],
+    [
+     60,
+     49.8
+    ],
+    [
+     60,
+     50.6
+    ],
+    [
+     61.2,
+     52.2
+    ],
+    [
+     62.2,
+     51.4
+    ],
+    [
+     62.2,
+     51.6
+    ],
+    [
+     63,
+     55.4
+    ],
+    [
+     63,
+     55.6
+    ],
+    [
+     63.2,
+     57.2
+    ],
+    [
+     63.6,
+     55.4
+    ],
+    [
+     63.8,
+     55.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 4,
+   "zone": "Blasted Lands",
+   "point": "requirement",
+   "type": 1,
+   "id": 7669,
+   "name": "Servant of Grol",
+   "coord": [
+    49.8,
+    43.8
+   ],
+   "coords": [
+    [
+     41.2,
+     14
+    ],
+    [
+     41.2,
+     14.6
+    ],
+    [
+     41.4,
+     13
+    ],
+    [
+     41.6,
+     13
+    ],
+    [
+     41.6,
+     14.2
+    ],
+    [
+     41.8,
+     14.6
+    ],
+    [
+     43.2,
+     11
+    ],
+    [
+     43.4,
+     11.8
+    ],
+    [
+     43.6,
+     11
+    ],
+    [
+     43.6,
+     11.8
+    ],
+    [
+     48.4,
+     43
+    ],
+    [
+     49,
+     43.4
+    ],
+    [
+     49.4,
+     43.6
+    ],
+    [
+     49.8,
+     43.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 4,
+   "zone": "Blasted Lands",
+   "point": "requirement",
+   "type": 1,
+   "id": 7670,
+   "name": "Servant of Allistarj",
+   "coord": [
+    64,
+    40.6
+   ],
+   "coords": [
+    [
+     63.4,
+     40.4
+    ],
+    [
+     63.4,
+     40.8
+    ],
+    [
+     64,
+     40.4
+    ],
+    [
+     64,
+     40.6
+    ],
+    [
+     64.2,
+     34.4
+    ],
+    [
+     64.2,
+     46.4
+    ],
+    [
+     64.4,
+     34.6
+    ],
+    [
+     64.4,
+     46.8
+    ],
+    [
+     64.6,
+     46.4
+    ],
+    [
+     64.6,
+     46.6
+    ],
+    [
+     64.8,
+     34.4
+    ],
+    [
+     64.8,
+     34.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 4,
+   "zone": "Blasted Lands",
+   "point": "requirement",
+   "type": 1,
+   "id": 7671,
+   "name": "Servant of Sevine",
+   "coord": [
+    41.2,
+    39.8
+   ],
+   "coords": [
+    [
+     38,
+     33.4
+    ],
+    [
+     38.4,
+     34
+    ],
+    [
+     38.6,
+     34
+    ],
+    [
+     41.2,
+     39.4
+    ],
+    [
+     41.2,
+     39.8
+    ],
+    [
+     41.6,
+     39.4
+    ],
+    [
+     41.6,
+     39.6
+    ],
+    [
+     42.6,
+     41.6
+    ],
+    [
+     42.8,
+     41.4
+    ],
+    [
+     43.4,
+     40.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 125,
+   "date": "2006-12-09T08:45:55-06:00",
+   "body": "Posting for those of you who don't have UIs.\r\n\r\nThe servants of Razelikh are found around the dark portal. Watch out for the Felguard patrol around the portal.\r\n\r\nServants of Allistarj are all found along the eastern wall of the zone, stopping just before Nethergrade Keep.\r\n\r\nServants of Servine are found along the wall north of the entrance to the tainted scar (which is the western wall)\r\n\r\nServants of Grol are the most difficult to find, in my opinion. You can find one in a cave guarded by ogres in the mountain off the path to the tainted scar. Just follow the path until you begin travelling west, then go north and look for a lone mountain, Once you find ogres, you've found the one servant. The other place to find them are Grol's fort, located in the northwest corner of the zone. You'll know you found it because you'll see a tower and a base with horde banners. The servants are in there. To get there, go west along the northern wall from the entrance of the zone.\r\n\r\nA note that the servants will NOT die until you smash the crystal, and the stun effect on them wears off after around 30 seconds. If you're having trouble smashing the crystal, remember that you have to stun it (Drop around 85% of it's health) next to the crystal in order to smash it.\r\n\r\nFor those who want coords, 49.7, 43.8 is where the lone Servant Of Grol is.The dark portal is around 58.8, 51.6. Frydebo provided coords to the other servents, as well as the Grol fort.\r\n\r\nHappy hunting!",
+   "replies": [
+    "I found that the Grol were pretty easy to find. They are on either side of the Dunemaul Tower.   The Grol are tucked within the ogres, so be careful. I killed the two, then waited for the respawn and got the third.",
+    "What level do you suggest doing this level at? as a 50 warrior its a red quest. I think the suggestion it gave me was 57.",
+    "I'm doing it very easily at 55 so far (still working on it) However, I am a warlock.. if that makes any difference ;)  I will say anything around 55 or 56 is pretty easy. The mobs so far, have been about 57th level.  But if you get a small group together you can probably do it rather easily at 50 as well.",
+    "Like Mashby, I could only find two (edit: of the Servants of Grol) and had to wait for the third. It's worth killing the ogres outside while you wait for the respawn as they drop a fair bit of cloth. I also found a chest inside the building, but there were a lot of ogres in there so might be hard to get to at lower levels.",
+    "STEP-BY-STEP GUIDE TO FREE A SERVANT: 1) Find a Servant 2) Find a small floating crystal nearby (aprox. 20-40 yards from the Servant). 3) Kill all mobs close to the crystal (you don't want them to attack you later as they would interrupt your step 7). 4) Engage the Servant. 5) Pull Servant close (aprox. 2 yards) to the crystal. 6) Damage the Servant until he \"bubbles\" himself (around 1% HP). 7) Right-click the crystal a wait until you finish destroying it. 8) Profit."
+   ]
+  },
+  {
+   "rating": 54,
+   "date": "2006-09-14T13:17:10-05:00",
+   "body": "allistarj (64,41)(65,35) \r\nservine (38,33) (41,40) \r\ngrol (41,13)",
+   "replies": []
+  },
+  {
+   "rating": 54,
+   "date": "2007-02-15T04:03:34-06:00",
+   "body": "I noticed a lot of you are reporting this as \"bugged\"... I have went through the same problem and I have a solution for you.\n\n[b]When you kill the Servant[/b], do it [b]CLOSE[/b] to the Stone of Binding. Not love making close. Just a few yards should be fine, and make sure the Servant isn't going to block your cursor from targetting the stone.\n\nI have tried killing servants several times using this method after many attempts that the stones failed to be targettable, and it works every time.\n\nHope this helps.",
+   "replies": [
+    "As of Sept 2020, I tried smashing the Stone of Binding with the Servant right up on it, and it didn't work. The Stone wasn't targetable.",
+    "Update: I was wrong. Get the servant close, get his health down first, and then the stone becomes targetable for smashing."
+   ]
+  },
+  {
+   "rating": 30,
+   "date": "2020-12-22T06:29:21-06:00",
+   "body": "[b]STEP BY STEP GUIDE TO SUCCESSFULLY FREEING A SERVANT.\n\n1) Find a Servant.\n2) Find a [url=https://www.wowhead.com/forever/object=141812/stone-of-binding]small black floating crystal[/url] nearby (aprox. 20-40 yards from the Servant).\n3) Kill all trash mobs close to the crystal (you don't want them to attack you later as they would interrupt your step 7).\n4) Engage the Servant.\n5) Pull Servant close (aprox. 2 yards) to the crystal.\n6) Damage the Servant until he \"bubbles\" himself (around 1% HP).\n7) Right-click the crystal a wait until you finish destroying it.\n8) Profit.[/b]",
+   "replies": []
+  },
+  {
+   "rating": 25,
+   "date": "2005-10-28T16:03:34-05:00",
+   "body": "The Sevine guys are near the alter of Storm, there are 3 spawn spots for them from what I've seen. The one nearest the fire camp is the hardest to get to, because he is linked to a caster. They are level 57 or so.\n\nThe Razelikh guys are near the dark portal. They are all along the upper edge of the cliff. Felguards and hounds wander the area. They are around level 55 or so.\n\nThe Grols are in dreadmaul hold outside of the keep but within the gates. They are around 53 or so.\n\nHaven't figured where the last guys are yet, so good luck finding them. Quest reward is a nice one along with the exp bonus.",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2005-03-11T02:23:18-06:00",
+   "body": "The Servants of Razelikh are on the crest of the crater around the Dark Portal and are by far the fastest to get completed. Just watch out for the numerous and quickly respawning patrols. \n\nServant of Grol is in the cave where the Ogres are. The stone is all the way in the far back in the cave. The ogres respawn moderately quickly. \n\nServant of Sevine are west of the Ogre cave where you find the Servant of Grol. They're in a camp of other humanoids and there's an occasional silver elite that comes through the area too, so be careful. \n\nServant of Allistarj is in the Serpent's Coil area, on the far east side of the valley/ravine, near a cave. There are a lot of other humanoids in the area.",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2019-12-29T20:58:50-06:00",
+   "body": "To finish this quest, you must [b]first locate the [object=141812][/b], which will be nearby any servant, but will not be interactable right away, which means that there will be neither mouseover prompt nor highlighting. Given this and overall color resemblance of these objects and [zone=4]' landscape, this could be proven difficult, but it is crucial to this quest.\r\nAfter the stone located, you must [b]attack [/b]a servant [b]while keeping them around the stone[/b], but you won't be able to kill it yourself: their health will stop draining after around 10% and they will be stunned for about 30 seconds. At this moment [b]Stone of Binding will become interactable[/b], and you'll need to [b]smash it[/b] via pressing RMB as hard as possible, this will help you as it helped me.\r\nIf you fail to do this in time after engaging and stunning a servant, you'll make yourself an invincible enemy since the stun is off but the inv is still on. Also, cleaning but not looting other mobs that are usually party loitering around can help a lot, too.",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2005-10-28T16:03:34-05:00",
+   "body": "you can only break the stone if they are in the green vulnerable form, and if they are near their stone",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2006-01-09T16:03:34-06:00",
+   "body": "These is no bug here,\nyou have to pull the monster next to the stone,\nworks 100% then :)\n\nenjoy ;)\n\n(try to avoid them dieing right on top of it,\nas its then hard to select the stone ;) )",
+   "replies": [
+    "Thats some really useful information. I was wondering why the stones sometimes didn't work."
+   ]
+  },
+  {
+   "rating": 13,
+   "date": "2020-01-22T09:12:49-06:00",
+   "body": "Confirmed that skilling up weapon skills on Servants of Grol is working and is not patching in classic as of this date. \r\n\r\nTwo Servants of Grol can be found North and North West of Dreadmaul Hold.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2007-05-14T00:02:53-05:00",
+   "body": "There is a lot of confusion about what the stones look like, how to find them, how to free the servants.  I just solo'd the whole thing as a level 57 retribution pally, hence no stealth.  If I can do it, anybody can, trust me.  Here's how:\n\nStones: I just uploaded a screenshot of a stone behind a Servant of Allistarj, but if it isn't viewable the stone looks like a amall bronze obelisk, and it floats.  They all look the same, regardless of which servant.\n\nServants:  They're all invincible unless you have this quest.  To free them, you must first whack them until they go into a kind of stasis mode.  They appear to be stunned and fade out, though once I noticed a servant didn't fade out.  They become stunned for a short time when you knock their health down to near nada.  While they're stunned, go after the stone.\n\nDestroying the stones:  While the servant is stunned, roll over the stone until you see the gold wheel, then right-click on it.  If you don't see the wheel re-position yourself and continue to roll-over, with a clear view of the stone.  Eventually you'll see the wheel.  Hopefully the servent won't have revived by then.  Once you activate the wheel, the stone will countdown to self-destruct and the servent will be freed.  You'll whack him once more then loot him.  The loot sucks but the xp is ok.\n\nThe good thing is, you can camp a stone site and get your quota without even hitting the other servant locations.  This is huge.  Servants rez within a few minutes, as noted below.  Stones re-appear first, then the Servant.  \n\nServant of Sevine:  See mob link above.  As you approach the bottom of the hill where the first servant is, across from the Dreadmaul Ogre Servant of Gol, there is a Servant of Sevine surrounded by mobs.  Ignore him.  Sneak up the road that crosses in front of him.  Best if approached from the north.  You only have to knock out 2 or 3 mobs to get to the next Servant, who's on the south side of the road with his stone.  Watch for foot patrols, but they're infrequent.  This Servant made my quota of 3.  The Servant at the bottom of the hill and the one at the top of the road, inside a weird compound, are too well guarded.  The one I described is virtually alone.\n\nServant of Grol:  This was the hardest Servant because he's so densely guarded.  BUT, slip into his cave from the south side, across from the first Servant of Sevine.  You have to knock off about 3 or 4 ogres to get to the mouth of the cave, then sidle along the side of the opening into the cave.  Deal with one guard at the door and the Servant.  Kill the guard first but be careful not to aggro any more around the mouth of the cave.  Draw the Servant inside and stay there.  Free him three times.  He's the only Servant of Grol, it takes about 4 minutes for him and his stone to rez, the stone first.  No ogres enter the cave, so you have plenty of time to prepare for each of his rezzes.  The only Servant of Grol I found was in a cave across the road from the Servant of Razelikh location I describe below.  Also facing the Servant of Sevine.  You will NOT find a Servant of Grol in the ogre compound due west of the keep.  What you will find there is Grol himself, a 58 demon elite.\n\nServant of Razelikh:  This was actually the easiest, though they and their guards are the highest levels.  The trick is, go to the south-most edge of the Dark Portal crater, avoiding demon patrol pairs.  Once against the mountain you can't go farther south, but you can climb up above the Servants.  There are two of them between the crater and the road into the next (highly nasty) region.  Alternate between them, staying on the mountainside above them, until you get quota of 3.  Hit the demon patrols for xp if you want, but the loot isn't great.\n\nServant of Allistarj:  Just clear the mobs around the Servant, you don't have to kill them all.  Engage the Servant as described above, x9.  I used the Servant location just below the keep, slightly to the southeast.  The elite you need to kill for a follow-up quest is also inside the cave at this location, but to get the Servant you don't need to go into the cave.  In fact, DON'T, is my advice.\n\nGood luck!\n\n\n\n\n\n\n\n[i][small]Edited, May 13th 2007  9:03pm by Bretwalda[/small][/i]\n\n[i][small]Edited, May 13th 2007  9:05pm by Bretwalda[/small][/i]\n\n[i][small]Edited, May 13th 2007  9:12pm by Bretwalda[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2005-03-19T19:38:34-06:00",
+   "body": "Very Soloable, fun quest\n\n-57 Gnome Mage",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-10-28T16:03:34-05:00",
+   "body": "For anyone still confused after all above:\nFor alliance characters you pick up this quest from a guy at Nethergarde Keep who tells you to go talk to the Fallen Hero of the Horde. Apparently Horde characters can start directly at the Fallen Hero.&nbsp; The Fallen Hero of the Horde is in Swamp of Sorrows, just before the entrance into Blasted Lands.&nbsp; If you don't know where that is, how the hell did you get to the quest anyhow?\nThe EASIEST WAY to do this quest is just find the FIRST STONE/FIRST SERVANT on your route to the location, camp that and keep killing it as it respawns.&nbsp; They are on a standard respawn timer, about 5 minutes. If you are bored you can practice skills on other enemies in the area, or log out and back in again.&nbsp; The servants do not pull other npcs to them if you attack, but if other npcs are withing aggro range of you, or spawn within aggro range, they attack you of course.&nbsp; Also, these servants spawn WITHIN RANGE of the stone they are tied to!&nbsp; You SHOULD NOT have to worry about \"pulling them to the stone\" if you just fight them where they spawn! Just kill other npcs first, that are between them and their stone!&nbsp; The stones DONT GLOW, but they are obvious stones sticking up from the landscape near the servants.&nbsp; Once you kill a servant you have a set time to destroy the stone, about a minute I'd say.&nbsp; If you don't destroy the stone by then, the servant comes back to life and attacks you again and now you must run away...unless you just wanna practice weapon skills on it, because you will never kill it now until you leave.&nbsp; It will interrupt your destroying the stone, and it wont die until the stone is destroyed...so you have to back away and start again.&nbsp; Once you destroy a stone, the servant automatically dies, you dont need to attack it again.&nbsp; Servants and stones are at the approaches to: Altar of Storms, Dreadmaul Hold, Serpent's Coil, and Dark Portal. You don't have to ENTER any of those locations, just approach them and you should find a stone with servants connected...\n\nMaximius",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-09-22T04:03:34-05:00",
+   "body": "Im currently working on this quest, and I figured i would offer some advice.&nbsp; \n[b]Servant of Razelikh[/b]\nLevel: 57\nCheck down near the dark portal (54,59 is a good rough location) in blasted lands and work your way around the edge.&nbsp; Wail on the servant till he stops attacking, then the crystal near the servant can be attacked (mouse turns to a gear).&nbsp; The servant must die very close to the crystal for it to work, otherwise you will have to run off and let the servant regen.&nbsp; There are some felguard/felhunter patrols in the general area and tend to wander over just as you are almost done finishing with the crystal.&nbsp; Any herbalists will like the sungrass, gromsblood, and couple other random herbs lying around, the felhunters may also drop felcloth which (depending on your server) could be 2-3g per.&nbsp; The servants aren't too hard to take down, at lvl 53 warlock with voidwalker i could take them, only problem was the resisting (insta-cast corruption is your friend for this).\n\n[b]Servant of Servine[/b]\nLevel:54-56\nThere is an altar of storms in the upper left corner of the map, roughly 39, 31.&nbsp; You will find some enforcers and warlock creeps there, they are not too difficult to take out, but there are alot of them, work your way from the south up to the altar and you should get the 3 you need.&nbsp; You can get some runecloth off the enforcers, it dropped about every 3rd enforcer.&nbsp; Shadow priests and warlock: the warlock creeps have a high shadow resistance, so warlocks could use CoS.&nbsp; I dont play a shadow priest so I dont know what to recomend.\nOther servants to follow.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-02-22T01:39:41-06:00",
+   "body": "You don't attack the stones, you right click them to destroy it.  I did the same thing but figured it out.  The quest is working.  I just finished the 9 around Outland portal 2/21/07",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-02-27T08:44:09-06:00",
+   "body": "53 rogue solo'd easy great exp 7550from the quest and 3000 for talking to the guy next to the spirit and 6000 for opening the chest next to him\n\nquest is fine 2-27-07",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2020-07-24T13:21:15-05:00",
+   "body": "The [url=https://www.wowhead.com/forever/object=141812/stone-of-binding]Stones of Bindings[/url] take around 4-5 minutes to 'respawn' once used, with about an extra minute spent waiting for a [url=https://www.wowhead.com/forever/npc=7669/servant-of-grol]Servant of Grol[/url].",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-28T16:03:34-05:00",
+   "body": "When you find one of the brownish/purple floating crystals, then you should also see the Mob. Usually there are alot of Shadow-something humans or Ogres around too. Clear out the mobs, then attack the Servant. I usually drag him within melee range of the crystal. Beat on him till he hits 0, he will get all foggy looking, thats when you target the crystal and attack it. you get a counter bar showing progress. When its dead, the Servant dies, and you can loot him.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2019-12-26T15:14:49-06:00",
+   "body": "This quest seemed rather confusing to me at first. What you need to do:\r\n\r\n1. Kill the named mobs in close proximity to a stone of binding. \r\n2. When the mobs reach low hp they will become immune to damage.\r\n3. Click the stone of binding. The mob will die. \r\n\r\nRepeat until you complete the quest. May have to wait for some respawns. On a positive note the respawns seem quite fast. The stones will not be clickable until you have a mob at low health close to it.\r\n\r\nImportant note: you can only kill ONE mob per stone of binding.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-01-15T06:53:10-06:00",
+   "body": "Where are the stones hat you need to be within?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-11-29T10:58:09-06:00",
+   "body": "Once you find a servant of the kind your hunting, you will notice a floating stone nearby, this stone can only be used properly when you have taken down the sevant to less than 100 HP - when that happens, the mob stands as if would be banished for 30 sec aprox. \n\nWhich is more than enough time to click the stone.\n\nHowever this happened to me a couple of times afore i figured it out, if the mob is too far away from the stone when it drops below 100 HP you WONT be able to click the stone and after the banishment the mob is unkillable, you have to reset the mob by moving out of range when that happens.\n\nAlways make sure that you kill the mob very near its stone and you wont have any problem at all with this.\n\nAlso keep a look out for the dragons, they hit hard as hell and once you get aggro, nothing will save you from their wrath.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-02-25T04:07:56-06:00",
+   "body": "Near a servant there is a small stone usually ontop of a small hill or something, once the Servant enters its \"etherial form\" thingy you go and use the stone.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-26T22:14:14-06:00",
+   "body": "I wouldn't call it an easy quest at 53, the servents are located \n\nServants of Grol : Dreadmaul Hold and Ogre Cave \nServants of Razelikh : Dark Portal \nServants of Sevine : Alter of Storms \nServants of Allstarj : south of Serpents Coil\n\nYou attack the servent and when his health gets down, less than 100, you can attack the stone, your mouse turns to a wheel and you click on it. \n\nFirst time I did it, I couldn't find the stone, helps to locate it before attacking. Also, I had one servent that was far away from the stone and once I got him down to 100 and ran to the stone I was unable to click on it, had to sprint away. Every other time worked as long as the servent was close to the stone when he dropped to less than 100 HP.\n\nThe hardest part is the Razelikh servents, Lvl 57. One was no problem, but multiple in a row was a pain, waiting on cool downs for blade fury, blind, evasion etc. Patrolling demons and high level allies going to the portal did not help either.\n\nTurn the quest in to the Fallen Hero, on the road back to SoS. 16500 XP. Nice.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-10-08T19:34:38-05:00",
+   "body": "You have to kill the servants close to the stones otherwise you won't be allowed to click on it. The servants become incapacitated once they are near 1% HP and you have about a minute before the effect is gone. \r\nAny attacks on you will interrupt the process of breaking the stones so make sure to clear any patrols coming for the stones.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-11-14T14:48:58-06:00",
+   "body": "I tried finishing this one last night. I got 4 of them completed last week, but when I tried yesterday, I can kill them but don't get credit for them. what gives?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-06-27T12:38:00-05:00",
+   "body": "Well, after some thinking time i decided to make it solo. After completeing the 9 Razelikhs i fopund that kiling the other ones was not updated on my quest log, so, after killing a lot, the counter was still to 0.\n\nWhat could it be?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-11-30T21:22:30-06:00",
+   "body": "Razelikh - 57,50\nAllstarj - 1st 64,46  - 2nd 64,40   - 3rd 64,34\nGrol - 1st 49,43 - 2nd 44,11 - 3rd 43,11\nSevine - 1st 42,41 - 2nd 41,39 - 3rd 38,33\n\nHope this helps.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-08-31T18:31:53-05:00",
+   "body": "The stones are little, black obilesk looking things located near the servants. You have to have the quest from the Hero of the Horde before you can defeat them though, otherwise you can not click on the stone to destroy the servant.\n\nAlso, you don't have to kill every servent at each location. You can camp one location and kill on respawn to add to your count. Some of the spawns are easier to get to than others, or have less mobs around them.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-05-02T16:20:01-05:00",
+   "body": "This quest slipped me by and only remembered to do it at Level 59(Hunter). Was fine for me.\n\nThe way people put it that you have to be really close to the stones, thats not true, I had them 5m to 10m away and it was fine.\n\nAll stones are attackable, highest mob you'll face here is the level 57 servants near the Dark Portal.\n\nEdited, Mon May  2 12:20:26 2005",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-05-01T01:15:39-05:00",
+   "body": "When I did this quest, at 55, the only thing that was difficult for me was finding the actual servants.  The thing is, you have to \"kill\" the servants very close to the stones or else it won't work.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-12-14T18:00:43-06:00",
+   "body": "Any got coords for these? =p",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-03T06:48:11-05:00",
+   "body": "Servants of Razelikh: Around the Dark Portal crater\n\nServants of Grol: 1 is in the Ogre cave near middle of zone, 2 are next to the Ogre building in the NW corner of zone (1 on each side of building)\n\nServants of Sevine: There are 2 or more servants all south of the Serpent's Coil cave along the mountain side.\n\nLoads of XP and a decent trinket for this quest and the two very quick quests that follow it.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-04-29T18:27:46-05:00",
+   "body": "I get the Servant down in health to where it says to attack the stone, and I can't attack it, or click it or anything........Is there some kind of order that you have to do this in, or is the quest bugged?",
+   "replies": [
+    "Okay i'm a idiot, I wasn't getting the mob close enough to the stone.  Make sure your very close the stone when fighting the Servants."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-04-30T23:37:42-05:00",
+   "body": "There are 3 servants of Grol that you can kill, so you don't need to just watch the one for respawn. The other two are in the FAR northwest of the zone, just outside of the ogre hold.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2019-12-25T11:22:09-06:00",
+   "body": "Where are the stones in Dreadmaul Hold? I can find the Severans of Grol there easily, but I do not see any stones.",
+   "replies": [
+    "The stones are \"outside\" Dreadmaul Hold around the back left and back right sides."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-01T00:04:25-05:00",
+   "body": "Soloed as a 52 warlock. Servants of Rezelikh were the hardest part for me since they are 57 and still red, but I really didn't have too much trouble. Quest is still red in my log too.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-27T13:02:04-05:00",
+   "body": "My and another 50 hunter had no problem doing this...\n\nOnly problem we had was to continue exploring the areas after we got the servents and kept running into a high level elite in each area.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-25T13:25:34-05:00",
+   "body": "As of 25 March this is still bugged..unable to destroy one of the stones in Dreadmaul Hold.  GM replies that they are working on a fix....",
+   "replies": [
+    "Works fine for me on April 10th, just have to get mob close enough to the stone"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-01T19:12:18-05:00",
+   "body": "Approached Servants of Sevine just now, and there's no stone visible anywhere around, even at a distance.  I looked for the 'glow,' I tried doing a cursor sweep for clickable items, nada.\n\nI'm thinking that at least on the Eredar server, this is bugged.  There is nothing there, and the guy just stands there semi-tangible and unmoving for several minutes while I can try whacking at him or looking for whatever stone is there.\n\nIf there ARE any stones around, could someone who has successfully destroyed them at least offer a screenshot or better description of what one looks like so we'll actually know if it's there to be seen in the first place?  Is it green, blue, glowing or dull, is it usually found just above the ground, hover over their shoulders, what? Would help if I knew what to look for in order to be able to judge if I saw anything like it there.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-18T16:07:18-06:00",
+   "body": "The Dark Portal is 55 53 (Razelikh Servants.)  Ogres are at 48 43, need to keep them cleared and there is a Grol servant in cave. (Only 1, respawn is about 4 minutes or so.)  Servants of Sevine are at 40 40 or a bit SW of that at 45 45 (Did not check that one, sorry.)  Servant of Allistarj is at 64 33, on the right side of cave enterance.  Again, only one, just keep them clerard and will respawn every 4 to 5 minutes.  There are 2 quick follow up quests that take less than 60 seconds (Heroes of old) and give you an additional 9K (at 58) and a trinket that is plus 5 mana and health regen.  (Shard of Afrasa)[item=10659] soloed this one at 58, it was fun and very worthwhile.  Ogres are quick respawn but there was someone else farming there while I did my part so it was easy.  The patrols in Dark Portal area are a pain, I had to sacriface my Voidwalker twice while there.  Good Luck!\n\nEdited, Sun Dec 18 09:15:06 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-28T01:59:01-06:00",
+   "body": "The realikh servant have to be close to the crystals to break to the crystal i found it was for me if your having trouble to break them then try getting them closer to the crystals hope this help \n\n\nSoloed this quest at lvl 54 warlock Had no problems killing servent just the crystals",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-07T12:44:31-06:00",
+   "body": "For me a level 59 hunter, this quest chain gave me 16550 XP.  7550 for the quest, 3000 to turn around and talk to the guy behind me, and 6000 for opening a chest at his feet.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-03T02:04:04-06:00",
+   "body": "I just completed this quest line at lvl 60 <3 bubs from 61> and I received 7550 xp for first part, 3000 xp for second part and 6000 xp for final part...not bad at all :)\n\nThe good part was the servants re-pop so if you are having difficulty finding any of them you can wait and kill one 3 times for the one part.\n\nAyanti\nTwilight Mistwalkers\nSilvermoon",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-04T21:50:46-05:00",
+   "body": "I found these guys to be the easiest kills...there is a small hill at 50.7, 58.6 where both stones and servants res...just pick them off one at a time.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-20T20:27:59-06:00",
+   "body": "Am currently doing this with my 58 hunter. It's easy - but - make sure you get the first hit on the servant before sending the pet in or you can't take out the binding stone. Otherwise? Easy peasy.",
+   "replies": [
+    "with my lock It doesn't matter who hits first...",
+    "It doesnt matter whoi hits 1st as a hunter either.\n"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-22T23:45:21-06:00",
+   "body": "aint working! cant attack the stones",
+   "replies": [
+    "You have to get extremely close, What I did was get right behind the stone while they were attacking me, when the text \"X physical form is weakened. You notice the stone of Binding near the creature is glowing! Attack now!\" flashes, attack the stone. But again you have to be [b]extremely close[/b].",
+    "This is definitely broken again.  I completed everything but Razelikh, but after successfully killing the first servant of Raz, everyone after that I could not click the stone.  I literally danced on top of the dang stones and couldn't click them.",
+    "lol, if you bring the mob literally on top of the stone while you kill it, then you can clcik the stone.  this is different functionality than the other servants, but it works."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2019-10-24T07:27:57-05:00",
+   "body": "Quest \"The Stones That Bind Us\" servants of grol is bugged again either side of the building \"Dreadmaul Hold\" should be a stone. Stone is missing I cannot complete the quest, the relevant character :-the servant of grol is there but is unkillable because of the missing stone. I read in wowhead that this is a common problem ages ago 2007/04/11 (Patch 2.0.12). Co ords 49.7, 43.8",
+   "replies": [
+    "Just found the stones hidden amoungst the wheeled catapult carts right up against the building wall. They are very hard to see."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-28T12:12:15-06:00",
+   "body": "I cant destory the crystals no matter what I do. I get them near the crystal, beat them down till I am instructed to attack the crystal but I cant. I get no attack indicator when I pass over it and I cant look/touch/inspect or anything to the crystals. I have the quest so I should have no problems at all doing this. Its become VERY frustrating,\r\n\r\nVulneratus\r\nNex Latrunculus",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-09-24T01:05:58-05:00",
+   "body": "Solo'd this with my 53 palliden, only had trouble when I got adds on the 57's.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-05-20T04:51:51-05:00",
+   "body": "Servants of Grol : Dreadmaul Hold and Ogre Cave\nServants of Razelikh : Dark Portal\nServants of Sevine : Alter of Storms\nServants of Allstarj : south of Serpents Coil",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-04-25T19:22:55-05:00",
+   "body": "For future reference you have to kill the guys next to the stone to click it.  You do not have to clear the ogres.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-05-24T14:12:52-05:00",
+   "body": "I started this quest at around 53.  But when I got the warrior helm I kinda put it aside until 58.  The quest was still yellow for me at 58.  The mobs were way easier to handle by then even with the occasional misjudged adds that got me running.  Over all xp at my level ended up being 16550 plus the trinket which is a keepsake.  I would recommend doing this at 53 with a friend and 54 solo.  Whoever does this earlier is smoking!",
+   "replies": []
+  },
+  {
+   "rating": -7,
+   "date": "2007-05-15T02:37:22-05:00",
+   "body": "Well guys, I've just finished this quest without any problem...\r\nOnly thing that is bad about it is that u have to wait for the respawn of the servants...    ...still for these 9, u have to circle around the Portal... so gl :)",
+   "replies": []
+  }
+ ]
+}

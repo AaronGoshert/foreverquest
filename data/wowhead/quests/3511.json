@@ -1,0 +1,139 @@
+{
+ "id": 3511,
+ "name": "The Name of the Beast",
+ "level": 58,
+ "reqlevel": 45,
+ "side": 3,
+ "zoneId": 16,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 3100,
+ "start": {
+  "type": "npc",
+  "id": 6134,
+  "name": "Lord Arkkoroc",
+  "zone": "Azshara",
+  "zoneId": 16,
+  "coords": [
+   [
+    77.2,
+    42.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7783,
+  "name": "Loramus Thalipedes",
+  "zone": "Azshara",
+  "zoneId": 16,
+  "coords": [
+   [
+    60.8,
+    66.4
+   ],
+   [
+    60.8,
+    66.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Take the temper back to Loramus Thalipedes . Hetaera's Blood (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 7783,
+   "name": "Loramus Thalipedes",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  2721,
+  2743,
+  2744,
+  3141,
+  3508,
+  3509,
+  3510,
+  3511,
+  3602
+ ],
+ "points": [
+  {
+   "zoneId": 16,
+   "zone": "Azshara",
+   "point": "start",
+   "type": 1,
+   "id": 6134,
+   "name": "Lord Arkkoroc",
+   "coord": [
+    77.2,
+    42.8
+   ],
+   "coords": [
+    [
+     77.2,
+     42.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16,
+   "zone": "Azshara",
+   "point": "end",
+   "type": 1,
+   "id": 7783,
+   "name": "Loramus Thalipedes",
+   "coord": [
+    60.8,
+    66.4
+   ],
+   "coords": [
+    [
+     60.8,
+     66.4
+    ],
+    [
+     60.8,
+     66.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 16,
+   "date": "2005-10-22T09:21:46-05:00",
+   "body": "he is at 60,66",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-22T09:21:46-05:00",
+   "body": "Yes he is in temple Arkkoran NE off coast Big Giant guy 2nd floor..",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-02-21T20:46:37-06:00",
+   "body": "I am at the Hetaera Clutch but i can't seem to find her. I am assumming she is in the dome building but cant find a was in. Any help?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-02-24T06:52:31-06:00",
+   "body": "Found Hetaera on very small island to the north and slightly west of the dome.  Hope this helps!",
+   "replies": []
+  },
+  {
+   "rating": -8,
+   "date": "2005-05-23T14:27:45-05:00",
+   "body": "North of the Dome on the water. \nYou will know the island from the fact is has a small ruin on it.. and seems to alway be a lvl 53 Son of Arkkoroc on there.\n\nNot too hard. 56 priest/55 war killed her without to much stress.",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "id": 94414,
+ "name": "The Anchors of Zephras",
+ "level": 2,
+ "reqlevel": 2,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 85,
+ "start": {
+  "type": "npc",
+  "id": 257554,
+  "name": "Halaan Hawk-Eye",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    43.8,
+    24
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 257554,
+  "name": "Halaan Hawk-Eye",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    43.8,
+    24
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Speak with Halaan Hawk-Eye and borrow his gift to view the anchor pylon in the distance.   View the Anchor Pylon  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 257554,
+   "name": "Halaan Hawk-Eye",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "View the Anchor Pylon",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 257554,
+   "name": "Halaan Hawk-Eye",
+   "coord": [
+    43.8,
+    24
+   ],
+   "coords": [
+    [
+     43.8,
+     24
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 257554,
+   "name": "Halaan Hawk-Eye",
+   "coord": [
+    43.8,
+    24
+   ],
+   "coords": [
+    [
+     43.8,
+     24
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 55,
+   "date": "2026-10-01T23:57:46-05:00",
+   "body": "Doesn't work for me. Nothing happens when I talk to the guy. I guess it could be due to some addon, but even if I disable all of them, it doesn't help.",
+   "replies": [
+    "Looks to be a bug with the last patch.",
+    "I tried just now with zero addons and it won't work for me either. Appears bugged. It worked on release day though on another character...",
+    "Agreed it is not worth it as a level 2 quest if it does work",
+    "Also bugged for me, turned off all addons, abandoned and reaccepted the quest. Nothing happens when you select the dialog option."
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2026-09-21T03:04:59-05:00",
+   "body": "First chance to look from above on the actual anchors and starting area.",
+   "replies": [
+    "This tells me nothing!"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-07T07:57:39-05:00",
+   "body": "Seems to be fixed for me as per October 7, 2026.",
+   "replies": []
+  }
+ ]
+}

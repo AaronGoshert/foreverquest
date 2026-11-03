@@ -1,0 +1,245 @@
+{
+ "id": 6603,
+ "name": "Trouble in Winterspring!",
+ "level": 56,
+ "reqlevel": 52,
+ "side": 3,
+ "zoneId": 618,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 580,
+ "start": {
+  "type": "npc",
+  "id": 11754,
+  "name": "Meggi Peppinrocker",
+  "zone": "Winterspring",
+  "zoneId": 618,
+  "coords": [
+   [
+    60.4,
+    38.2
+   ],
+   [
+    61.2,
+    37.4
+   ],
+   [
+    61.4,
+    38.4
+   ],
+   [
+    61.6,
+    38.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 9298,
+  "name": "Donova Snowden",
+  "zone": "Winterspring",
+  "zoneId": 618,
+  "coords": [
+   [
+    31,
+    45.8
+   ],
+   [
+    31.2,
+    45.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Find Donova Snowden near the hot springs in Winterspring .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 9298,
+   "name": "Donova Snowden",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  6603,
+  5082
+ ],
+ "points": [
+  {
+   "zoneId": 618,
+   "zone": "Winterspring",
+   "point": "start",
+   "type": 1,
+   "id": 11754,
+   "name": "Meggi Peppinrocker",
+   "coord": [
+    61.4,
+    38.4
+   ],
+   "coords": [
+    [
+     60.4,
+     38.2
+    ],
+    [
+     61.2,
+     37.4
+    ],
+    [
+     61.4,
+     38.4
+    ],
+    [
+     61.6,
+     38.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 618,
+   "zone": "Winterspring",
+   "point": "end",
+   "type": 1,
+   "id": 9298,
+   "name": "Donova Snowden",
+   "coord": [
+    31.2,
+    45.2
+   ],
+   "coords": [
+    [
+     31,
+     45.8
+    ],
+    [
+     31.2,
+     45.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 98,
+   "date": "2005-09-24T17:23:04-05:00",
+   "body": "Donova Snowden is at 31,45.",
+   "replies": []
+  },
+  {
+   "rating": 33,
+   "date": "2007-01-12T05:23:04-06:00",
+   "body": "If you already picked up the quest Threat of the Winterfall, before going to Everlook, then you can not get this quest. Just so you don't go running around trying to find this quest if you already accepted the followup.",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2006-09-15T08:43:14-05:00",
+   "body": "Donova Snowden is at 31,45.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-09-24T17:23:04-05:00",
+   "body": "for those of us who don't have it - not really NEAR hotsprings... it is near small lake in SW part - from the springs",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-09-24T17:23:04-05:00",
+   "body": "Just to confirm more recently, 31,45 are still good co-ords for this turn-in.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-01-12T05:23:04-06:00",
+   "body": "Bring up your map of Winterspring. See in the left hand corner of the map (directly South of Timbermaw Hold) a little small pond? That's where you'll find Donova!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-24T17:23:04-05:00",
+   "body": "Anybody else notice this reference to the musical, The Music Man? The quest description uses some of the exact phrases \"cool head, keen eye\" that one of the songs does. Blizzard's references are great!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-11-20T10:15:23-06:00",
+   "body": "575 Exp at lvl 57\nNo rep inc",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-02-17T17:23:04-06:00",
+   "body": "she is directly east of the lamp by the stump that is south of the multy sign that is south of timbermaw tunnel be the tent by a small pond that does not show up on the map!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-04T23:08:40-05:00",
+   "body": "guys there is the main hot spring u probably are searching around while there is a very small pond southwest of that one at the coordinates people are giving, she is there.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-24T17:23:04-05:00",
+   "body": "yes, I don't have cosmos either and it is very helpful to have people say where she is!&nbsp; I've been looking near the hot springs!&nbsp; thanks for the info...i love this area",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-24T17:23:04-05:00",
+   "body": "I click on Meggi and she doesn't even talk to me. Is there any pre-requisite?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-18T13:34:06-05:00",
+   "body": "co ords confirmed.  Just right out of the entrance.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-21T23:25:04-06:00",
+   "body": "shes in the western most part of winterspring, south of the road coming from the cave entrance.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-13T21:20:23-05:00",
+   "body": "31,45 is correct",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-11T03:51:57-06:00",
+   "body": "31,45",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-12-29T21:38:52-06:00",
+   "body": "This quest chain seems to be absent in Classic; could be added in future phases, I suppose.",
+   "replies": [
+    "in 23/04/2020 is not added yet.",
+    "This quest is present, but it is unavailable if you have https://www.wowhead.com/forever/quest=5082/threat-of-the-winterfall the next part. You can cancel it and get the quest."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-12T05:23:04-06:00",
+   "body": "He's at 31, 45 in winterspring. Took me a while to find him.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-04-28T06:27:06-05:00",
+   "body": "possibly also at lv 50.\n\nShe's a [url=/npc=9298]dwarf[/url]!\n\n\nEdited, Fri Nov 25 03:49:15 2005",
+   "replies": [
+    "Not available at 51, so I guess we can safely assume 52 is the min level required"
+   ]
+  }
+ ]
+}

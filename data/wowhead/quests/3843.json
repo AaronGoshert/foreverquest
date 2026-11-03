@@ -1,0 +1,271 @@
+{
+ "id": 3843,
+ "name": "The Newest Member of the Family",
+ "level": 47,
+ "reqlevel": 38,
+ "side": 1,
+ "zoneId": 357,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 4200,
+ "start": {
+  "type": "npc",
+  "id": 9238,
+  "name": "Quentin",
+  "zone": "Thousand Needles",
+  "zoneId": 400,
+  "coords": [
+   [
+    78.4,
+    74.4
+   ],
+   [
+    78.4,
+    74.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 9660,
+  "name": "Agnar Beastamer",
+  "zone": "The Hinterlands",
+  "zoneId": 47,
+  "coords": [
+   [
+    14,
+    43.4
+   ],
+   [
+    14,
+    43.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Take your Fragile Sprite Darter Egg to the Hinterlands and speak to Agnar Beastamer , but hurry, you only have 1 hour to find him before the hatchling within the egg dies. Fragile Sprite Darter Egg (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11471,
+   "name": "Fragile Sprite Darter Egg",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  3843,
+  4297,
+  4298
+ ],
+ "points": [
+  {
+   "zoneId": 400,
+   "zone": "Thousand Needles",
+   "point": "start",
+   "type": 1,
+   "id": 9238,
+   "name": "Quentin",
+   "coord": [
+    78.4,
+    74.8
+   ],
+   "coords": [
+    [
+     78.4,
+     74.4
+    ],
+    [
+     78.4,
+     74.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 47,
+   "zone": "The Hinterlands",
+   "point": "end",
+   "type": 1,
+   "id": 9660,
+   "name": "Agnar Beastamer",
+   "coord": [
+    14,
+    43.6
+   ],
+   "coords": [
+    [
+     14,
+     43.4
+    ],
+    [
+     14,
+     43.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 68,
+   "date": "2005-10-04T12:55:50-05:00",
+   "body": "OK here are the exact steps to get the Sprite Darter since many people seem to be confused on how to actually get it. Just remember you need to be level 38 to qualify for this quest.\n\n1. Go to find Kindal Moonweaver, who gives you a quest called Freedom for all Creatures. She is not easy to locate. Her coordinates are 65,46, and to reach her, you need to walk up a ramp up against a cliff hidden behind a tree behind the Tauren village. Follow the ramp up, and you will see her and another NPC called Jer�Kai Moonweaver overlooking the Tauren village.\n\n2. After the Freedom for all Creatures quest, talk to Jer�Kai. She gives you a quest called Doing Justice. After that quest, she sends you to Darnassaus. \n\n3. After getting your reward at Darnassaus, go back to the Tauren village and talk to Jer�Kai again. She gives you a quest to bring an egg to Quentin at Thousand Needles.\n\n4. Keep doing the link of quests after, and you will eventually get the Sprite Darter pet!",
+   "replies": []
+  },
+  {
+   "rating": 30,
+   "date": "2006-09-22T20:14:53-05:00",
+   "body": "Originally posted by Sakura\n\nOK here are the exact steps to get the Sprite Darter since many people seem to be confused on how to actually get it. Just remember you need to be level 38 to qualify for this quest.\n\n1. Go to find Kindal Moonweaver, who gives you a quest called Freedom for all Creatures. She is not easy to locate. Her coordinates are 65,46, and to reach her, you need to walk up a ramp up against a cliff hidden behind a tree behind the Tauren village. Follow the ramp up, and you will see her and another NPC called Jer%u2019Kai Moonweaver overlooking the Tauren village.\n\n2. After the Freedom for all Creatures quest, talk to Jer%u2019Kai. She gives you a quest called Doing Justice. After that quest, she sends you to Darnassaus.\n\n3. After getting your reward at Darnassaus, go back to the Tauren village and talk to Jer%u2019Kai again. She gives you a quest to bring an egg to Quentin at Thousand Needles.\n\n4. Keep doing the link of quests after, and you will eventually get the Sprite Darter pet!",
+   "replies": []
+  },
+  {
+   "rating": 22,
+   "date": "2005-10-04T12:55:50-05:00",
+   "body": "Agnar Beastamer is inside the Wildhammer Keep, downstairs. (14,43) And Quentin is in Thousand Needles at (78,74)",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2005-03-03T14:24:58-06:00",
+   "body": "At level 49 I got 4200 XP for this. My reputation with Darnassus also increased, as did my reputation with Wildhammer Clan.\n\nEdited, Thu Mar  3 08:38:15 2005",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2006-12-16T12:55:50-06:00",
+   "body": "In case you fail as I did due to disconnection....&nbsp; The time will run out while you are offline.\nSimply abandon the quest and go back to the shimmering flats.&nbsp; The quest will be available again to you and the timer starts over.&nbsp; \nYou do not need more potions.\nYou do not lose your egg when you abandon the quest\n\nAlso, the fastest way to get there is:\n1. Ride Back to Gadget\n2. Fly to Theramore\n3. Take the boat to Menethil, \n4. Fly to Aerie Peak\n\nThe Dwarf you need to speak to is in the lowest part of the Aerie peak keep.&nbsp; Go through the door where the mailbox is.&nbsp; that is the correct building.\n\nEnjoy your little dragon!",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2005-10-04T12:55:50-05:00",
+   "body": "You need to complete the \"Freedom for all creatures\" series first, then return to those NPCs.&nbsp; The downside is that the last part of this series takes you to Darnassus to see Tyrande and she doesn't really indicate that you can now go back there and get a new set of quests :(",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2007-05-21T14:58:24-05:00",
+   "body": "Agnar Beastamer is located at 14.1, 43.6 in the basement of Alliance INN at Aerie Peak in the Hinterlands. \r\n\r\nEnter the INN and make a right or a left. Follow the hallway straight to the back without turning and go down the stairs then down the next set of stairs in the big room. You will see Agnar Beastamer on the bottom level. \r\n\r\nBy Teleporting (or Hearthstone) to IronForge then using the Gryphon to fly to The Hinterlands, I made it to Agnar Beastamer with in 8 minutes. (52 minutes left on timer)",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-06-17T00:55:50-05:00",
+   "body": "Took me forever to find him. To save anyone else the trouble I had, Agnar Beastamer is at 14,44 in the basement of the Wildhammer Keep in the Hinterlands.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-10-04T12:55:50-05:00",
+   "body": "This is a really long chain of quests, the first one is https://www.wowhead.com/forever/quest=2969/freedom-for-all-creatures",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-04T12:55:50-05:00",
+   "body": "after turning in the q to the priestess in darnas, u need to go back to feralas and get another quest from moonwear agin. then she will have u go to thousand needles to see the guy there.&nbsp; on and on .. ok''':)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-04T12:55:50-05:00",
+   "body": "its a very nice quest :) but it is very heavy and confuse ,too^^&nbsp; the little baby dragon is sweet&nbsp; i&nbsp; [u]love[/u]&nbsp; it.&nbsp; ;P",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-04-05T00:55:50-05:00",
+   "body": "ok tough choice. the sprite darter or the praire chicken? Im gnome rogue with pink hair.. \n\nthe chicken q I think might be the most hidden one in game.. try and find that one hehe =p",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-09-17T21:18:28-05:00",
+   "body": "visit The Hinterlands and set your hearthstone there before this step. Stone there when the timer starts. [Yeah, i know you already thought of that.]",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-05T00:55:50-05:00",
+   "body": "4-19-06 it works and i now have my sprite darter",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-22T00:55:50-06:00",
+   "body": "what do you do if after you give the guy the elixirs and you can't talk with him again?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-06-17T00:55:50-05:00",
+   "body": "There are two quests before you get the www.wowhead.com/forever/quest=3841/an-orphan-looking-for-a-home",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-08-29T00:55:50-05:00",
+   "body": "turned in \"a short incubation\" and he won't give me next part. am i missing something?",
+   "replies": [
+    "Same thing here.\nI completed the short incubation just after turn in the An Orphan Looking for a Home.\nSince I had Alchemy and the mats, I immediatly made the potions and turned the short incubation quest. that ended the chain for me. Quentin doesn't have the new quest. Is this quest chain still working in 1.12?"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-04T12:55:50-05:00",
+   "body": "Return to the NE girls that gave the Freedom for All Creatures quest to get Quentin to talk.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-10-04T12:55:50-05:00",
+   "body": "why cant i talk to him to get this quest?",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2006-04-05T00:55:50-05:00",
+   "body": "I dont know if I've done this b4 or not.. I think maybe I have.. anybody know if its repeatable?",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2005-10-04T12:55:50-05:00",
+   "body": "Where is this Freedom For All Creatures quest? I can't find any info about it on Thott, and never heard of it before...",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-04T12:55:50-05:00",
+   "body": "I have completed all of the quests in feathermoon, including a few that start in other places and end in Feathermoon. Ive finished all the quests in ferealas that I found on the side, (homing robot, escorting the absent-minded girl with her bell), and I have also completed all 3 steps of Freedom for all creatures, which finally ends in Darnassus.\n\nNow I am STILL not able to speak with Quentin in 1000 Needles, is this broken/removed? Or is there something I'm missing?\n\nThanks all",
+   "replies": [
+    "to the NE's above the Grimtotem Compound - then you'll get the next step."
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-04T12:55:50-05:00",
+   "body": "Can anyone give cordinants, directions, or general locations of Agnar Beastamer or Quentin?\n\nSpecificly Agnar Beastamer. Thanks.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-02-11T08:22:48-06:00",
+   "body": "i logged out during during the Q, then wen i came back on i had no time to worry about and it didn't say failed, result !\n\nedit: but u cant speak to the guy at the end of the quest so i guess it doesn't work...bak to shimmering flats\n\n\nEdited, Sat Feb 11 01:44:31 2006",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2005-10-04T12:55:50-05:00",
+   "body": "If anyone could post the other quests for this, I'd [i]greatly[/i] appreciate it. This quest interests me&nbsp; a lot.",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2005-10-04T12:55:50-05:00",
+   "body": "By behind the taruen village you mean thunder bluff? or were.",
+   "replies": []
+  }
+ ]
+}

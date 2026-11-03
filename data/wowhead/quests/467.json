@@ -1,0 +1,313 @@
+{
+ "id": 467,
+ "name": "Stonegear's Search",
+ "level": 23,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 460,
+ "start": {
+  "type": "npc",
+  "id": 1340,
+  "name": "Mountaineer Kadrell",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    32.8,
+    49.6
+   ],
+   [
+    33.2,
+    49.2
+   ],
+   [
+    33.6,
+    48.6
+   ],
+   [
+    34,
+    48
+   ],
+   [
+    34.4,
+    47.4
+   ],
+   [
+    34.6,
+    47.2
+   ],
+   [
+    35.6,
+    46.6
+   ],
+   [
+    36,
+    46.4
+   ],
+   [
+    36.6,
+    46.2
+   ],
+   [
+    36.8,
+    42
+   ],
+   [
+    37.2,
+    43.4
+   ],
+   [
+    37.2,
+    44
+   ],
+   [
+    37.2,
+    45.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1377,
+  "name": "Pilot Stonegear",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    49.6,
+    48.4
+   ],
+   [
+    49.6,
+    48.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Speak with Pilot Stonegear .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1377,
+   "name": "Pilot Stonegear",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  467,
+  466
+ ],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 1340,
+   "name": "Mountaineer Kadrell",
+   "coord": [
+    32.8,
+    49.6
+   ],
+   "coords": [
+    [
+     32.8,
+     49.6
+    ],
+    [
+     33.2,
+     49.2
+    ],
+    [
+     33.6,
+     48.6
+    ],
+    [
+     34,
+     48
+    ],
+    [
+     34.4,
+     47.4
+    ],
+    [
+     34.6,
+     47.2
+    ],
+    [
+     35.6,
+     46.6
+    ],
+    [
+     36,
+     46.4
+    ],
+    [
+     36.6,
+     46.2
+    ],
+    [
+     36.8,
+     42
+    ],
+    [
+     37.2,
+     43.4
+    ],
+    [
+     37.2,
+     44
+    ],
+    [
+     37.2,
+     45.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 2092,
+   "name": "Pilot Longbeard",
+   "coord": [
+    72.4,
+    93.6
+   ],
+   "coords": [
+    [
+     72,
+     92.4
+    ],
+    [
+     72.4,
+     93.4
+    ],
+    [
+     72.4,
+     93.6
+    ],
+    [
+     72.6,
+     93.4
+    ],
+    [
+     72.6,
+     93.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1377,
+   "name": "Pilot Stonegear",
+   "coord": [
+    49.6,
+    48.4
+   ],
+   "coords": [
+    [
+     49.6,
+     48.4
+    ],
+    [
+     49.6,
+     48.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 60,
+   "date": "2006-06-21T21:01:30-05:00",
+   "body": "Map: [b]Dun Morogh[/b]\nArea: [b]Steelgrill's Depot[/b] (North-east of Kharanos)\nCoordinates: [b](49.48)[/b]\n\n\"Pilot Stonegear\" stands by a left tank. \n\nThere are two tanks. \nThere are seven Mechanostriders in the right of the tanks.",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2005-10-09T09:01:30-05:00",
+   "body": "49, 48",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-02-23T18:29:41-06:00",
+   "body": "one of my alts just got this quest from one of the guards patrolling back and forth thru Thelsamar in Loch Modan - [url=/npc=1340]Mountaineer Kadrell[/url].  guess the info for this quest needs to be updated...",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-03-05T02:25:25-06:00",
+   "body": "You'll find Pilot Stonegear just south of Ironforge entrance. Coords: 49,48",
+   "replies": [
+    "I can confirm this",
+    "@ Steelgrip Depot which is located right next to Kharanos.  This quest is also given by Pilot Longbeard (https://www.wowhead.com/forever/npc=2092)  in Iron Forge Military Ward if you did not pick it up from Mountaineer Kadrell in Loch Modan."
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2006-03-04T09:01:30-06:00",
+   "body": "I seem to remember Longbeard told me about it...the dwarf in Ironforge military ward, next to the big birdlike tanks.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-05-19T23:28:23-05:00",
+   "body": "ok you must be lvl 20 to get this quest from 1 of 2 NPCs, the guy by the Gates of Ironforge or Mountaineer Kadrell in Thelsamar.  the pilot is at Steelgrill's Depot (you should have helped him out once already to outfit his siege engine).  when you go to Thelgen Rock in the Wetlands you either need to have mining skill lvl tin, or bring a friend that has the skill.  warriors on the Fire Hardened Mail quest can get the fangs from all the spiders in the same place.  it is not too hard of a quest and the XP is decent.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-16T09:01:30-05:00",
+   "body": "Of course, that doesn't mean you can get it twice - when you have picked it up from one of them, the second will no longer offer it. Also, if you've picked up the quest from Stonegear, none of them will offer it. All very logical.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-24T20:24:11-05:00",
+   "body": "Mountaineer Kadrell in Thelsamar does indeed give this quest, as does the Pilot, but as with dual alliance/horde quests that have different starting points Allakhazam only records one of them.  Thottbot suffers from the same flaw.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-29T07:25:05-06:00",
+   "body": "he is at (49, 48), for ctmod/cosmos users, in dun morogh. just follow the gates out of ironforge and he is in the town there",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-31T09:12:51-06:00",
+   "body": "Guys, just to let you kow I've attain this at level 20....",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-21T17:40:20-05:00",
+   "body": "I am 17 lvl paladin and I have 115 skill in mining (yes I know...) and I am going to do it now. I wish I could do it earlier but I didnt know about it till now. On the other hand from what I have read it is really going to boost my skill^^",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-21T17:41:03-05:00",
+   "body": "I am 27 lvl paladin and I have 115 skill in mining (yes I know...) and I am going to do it now. I wish I could do it earlier but I didnt know about it till now. On the other hand from what I have read it is really going to boost my skill^^",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-17T18:22:58-06:00",
+   "body": "does anyone know where stonegear is?",
+   "replies": []
+  }
+ ]
+}

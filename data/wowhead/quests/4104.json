@@ -1,0 +1,117 @@
+{
+ "id": 4104,
+ "name": "Salve via Mining",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 1,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 9528,
+  "name": "Arathandris Silversky",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    54.2,
+    86.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 9528,
+  "name": "Arathandris Silversky",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    54.2,
+    86.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.31727",
+ "objectiveText": "Progress If you possess a Cenarion beacon while mining in Felwood , you will be able to see tainted vitriol that corrupts a vein of raw metal.  I know how to purify that vitriol and turn it into a reagent that goes into making Cenarion plant salve .  You will then use that salve on plants you find in the wild that need saving. If you have collected any tainted vitriol , I'll give you some Cenarion plant salve I have already prepared. Tainted Vitriol  ( 4 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11513,
+   "name": "tainted vitriol",
+   "count": 4,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11516,
+   "name": "Cenarion plant salve",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Tainted Vitriol",
+   "count": 4,
+   "type": "item",
+   "id": 11513
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 1,
+   "id": 9528,
+   "name": "Arathandris Silversky",
+   "coord": [
+    54.2,
+    86.8
+   ],
+   "coords": [
+    [
+     54.2,
+     86.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 1,
+   "id": 9528,
+   "name": "Arathandris Silversky",
+   "coord": [
+    54.2,
+    86.8
+   ],
+   "coords": [
+    [
+     54.2,
+     86.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 4,
+   "date": "2020-04-09T06:47:43-05:00",
+   "body": "The quests in this series is wrong in the infobox.\r\n\r\nActually, [quest=4101] unlocks:\r\n* [quest=5882] -> [quest=4103]\r\n* [quest=5883] -> [quest=4104]\r\n* [quest=5884] -> [quest=4105]\r\n* [quest=5885] -> [quest=4106]\r\n* [quest=5886] -> [quest=4107]",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2020-02-24T00:28:41-06:00",
+   "body": "I'm going to post this on all the Alliance versions of these quests as I have not found anyone commenting on more details about each.\r\n\r\nFrom my in-game experience and online research (checking both WoWPedia and WoWWiki), there is a limit to which of these quests each character will have available to them, based on the professions of said characters. Everyone will have the [Salve via Hunting] quests available while the other four will be determined from the aforementioned professions:\r\n\r\n[ul]\r\n[li]Only herbalists will have [Salve via Gathering] available[/li]\r\n[li]Only miners will have [Salve via Mining] available[/li]\r\n[li]Only skinners will have [Salve via Skinning] available[/li]\r\n[li]It appears only enchanters will have [Salve via Disenchanting] available to them (as the needed item is not BoP unlike the above three, I bought two on the AH and attempted to see if I could do the quest: it was not available to me even after a restart to further check)[/li]\r\n[/ul]\r\n\r\nNote that there are two versions of these quests for each faction: the first will give experience along with the salve and is a one time thing (like standard quests) while the second becomes available after and does not give experience, only the salve and is repeatable.",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "id": 8260,
+ "name": "Arathor Basic Care Package",
+ "level": 34,
+ "reqlevel": 25,
+ "side": 1,
+ "zoneId": 3358,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 15127,
+  "name": "Samuel Hawke",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    46,
+    45.2
+   ],
+   [
+    46,
+    45.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 15127,
+  "name": "Samuel Hawke",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    46,
+    45.2
+   ],
+   [
+    46,
+    45.6
+   ]
+  ]
+ },
+ "patch": "1.13.4.33920",
+ "objectiveText": "Completion You've certainly begun to prove yourself to us, <name>.  As a reward, please take this care package!  Inside it you'll find rations and bandages that are usable only inside Arathi Basin . As you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase.  Rations become available when you are Friendly with us, and bandages when you are Honored.   The League of Arathor  ( Friendly )",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "start",
+   "type": 1,
+   "id": 15127,
+   "name": "Samuel Hawke",
+   "coord": [
+    46,
+    45.2
+   ],
+   "coords": [
+    [
+     46,
+     45.2
+    ],
+    [
+     46,
+     45.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 1,
+   "id": 15127,
+   "name": "Samuel Hawke",
+   "coord": [
+    46,
+    45.2
+   ],
+   "coords": [
+    [
+     46,
+     45.2
+    ],
+    [
+     46,
+     45.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2007-03-10T04:15:11-06:00",
+   "body": "confirmed, you get 270xp on lvl 29. the pack itself has 20 AB only silk bandages and rations... like a couple gold of rations if you bought em yourself. This was recieved for becoming FRIENDLY witht he defilers, i've not yet reached honoured. Also, the WSG group has the same thing and same reward for reaching friendly.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-02T18:17:06-06:00",
+   "body": "i gain 270xp on lvl29",
+   "replies": []
+  }
+ ]
+}

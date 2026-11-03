@@ -1,0 +1,226 @@
+{
+ "id": 3374,
+ "name": "The Essence of Eranikus",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 3,
+ "zoneId": 8,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 560,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 5353,
+  "name": "Itharius",
+  "zone": "Swamp of Sorrows",
+  "zoneId": 8,
+  "coords": [
+   [
+    13.6,
+    71.4
+   ],
+   [
+    13.6,
+    71.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Bring the Oathstone of Ysera's Dragonflight and the Chained Essence of Eranikus to Itharius in the Swamp of Sorrows . It is there that you will make your choice to aid Ysera's Dragonflight or not. Oathstone of Ysera's Dragonflight (Provided)  ( 1 ) Item #10455  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 10589,
+   "name": "Oathstone of Ysera's Dragonflight",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Item #10455",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 8,
+   "zone": "Swamp of Sorrows",
+   "point": "end",
+   "type": 1,
+   "id": 5353,
+   "name": "Itharius",
+   "coord": [
+    13.6,
+    71.6
+   ],
+   "coords": [
+    [
+     13.6,
+     71.4
+    ],
+    [
+     13.6,
+     71.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 41,
+   "date": "2005-10-20T16:18:22-05:00",
+   "body": "\"More will be added to the Eranikus quest chain in a future patch (not sure how far off as of right now). I can't reveal anything further at this time, but from what I've seen it's going to be really cool and fairly rewarding.\" \n\nfrom Eyonix on the official forums (posted 2005-08-30)",
+   "replies": [
+    "I suspect this quest was supposed to be a part of some ZG questline, that was never implemented. Eranikus was later used for the Scepter of the Shifting Sands questline for the opening of the Ahn Qiraji gate. I think parts from that original ZG questline was simply converted to fit the AQ gate one instead. This is speculation on my part though. But the events do line up."
+   ]
+  },
+  {
+   "rating": 28,
+   "date": "2005-10-20T16:18:22-05:00",
+   "body": "After you awaken and defeat the Shade of Eranikus, you loot his essence off of him and use it while you're in there to start a mini-quests. All you have to do for it is \"use\" the brazier in the back of the room you fought him. You recieve the chained essence then. After you leave the temple, go to Itharius' cave and choose the last option you see. That riggers the quest but you lose a decent AoE trinket if you finish the quest. I'm not to sure what the reward of the next step in Winterspring is yet...",
+   "replies": []
+  },
+  {
+   "rating": 26,
+   "date": "2019-11-13T00:39:08-06:00",
+   "body": "For those who missed this quest and already sold theirs [url=https://www.wowhead.com/forever/item=10455/chained-essence-of-eranikus]Chained Essence of Eranikus[/url], you would never ever be able to complete it. I opened a ticket and talked to a GM:\r\n\r\n- Me\r\n\"So, despite the loss, are you telling me there is not a single way, never ever, to complete the quest The Essence of Eranikus (ID 3374)? From all the hundreds or even thousands of quest all around the whole game, 15 years of history, that one quest 3374 is impossible for me to complete? Never ever ever? Is this really how you've designed it? Everything else could be abandoned, retaken, refarmed and so on, except this one?\r\n\r\nPlease confirm for me there is absolutely no way to complete this quest.\"\r\n\r\n- GM\r\n\"I'm afraid that is the case, this is how things were too 15 years ago when this was part of a our newly launched MMORPG as well.\"",
+   "replies": [
+    "This is complete bull%^&* when they say so. Real GMs back then in 2005 would 100% restore the item. They just want to reduce the amount of tickets we send. This triggers me so fking much i want that quest to complete. Restoration tool does not work in my case because i sold it 2 months ago.",
+    "Yeah imma fight them on this. Tried giving me a response like I made the wrong choice when completing the quest and that I will find similar items to use in the future.....lol. It's like they didn't even read my problem. Sometimes it's worth trying more than once.",
+    "\"This is complete bull%^&* when they say so. Real GMs back then in 2005 would 100% restore the item.\" If you read the comments from 2005/6, you'll notice that they are complaining about GMs not restoring the quest item.",
+    "@Amkaha Could you please show me where exactly this comment from 2005/6 where it says GMs didn't restore this trinket back then? I double checked all comments on trinket, on quest where u get this trinket and on quest where you need this trinket. Nowhere people said GM refused to restore it. But there is one comment from 2.0 where guy said he got this trinket restored by GMs. (Mistakenly upvoted u btw, but ur comment is useless)"
+   ]
+  },
+  {
+   "rating": 20,
+   "date": "2020-04-30T21:56:50-05:00",
+   "body": "Sold Trinket Solution!\r\n\r\nFor those people that sold the trinket before taking the quest, i used blizzards Item Restore tool https://us.battle.net/support/en/restoration/. You can restore an item you have sold within the last 30 days, luckily for me this one was there. So i got it sent to my email right away and completed the quest!\r\n\r\nCheers",
+   "replies": [
+    "OMG you are the best! Thanks for this. I LOVE YOU!",
+    "Worked like a charm! Thank you so much for sharing that URL!"
+   ]
+  },
+  {
+   "rating": 19,
+   "date": "2005-02-10T03:28:24-06:00",
+   "body": "If you use this trinket at all don't do this quest for now.  The quests that follow dead end and while you'll get some xp you'll be without the trinket.  You can jump to [url=http://forums.worldofwarcraft.com/thread.aspx?fn=wow-quests&t=14068&tmp=1#post14068]here[/url] to see a GM response.",
+   "replies": [
+    "I followed the link but there is no GM response to see. Broken link or what?"
+   ]
+  },
+  {
+   "rating": 11,
+   "date": "2005-10-20T16:18:22-05:00",
+   "body": "according to a GM response I read, the followup quest to this in Winterspring isn't complete yet, so right now you'd be losing your trinket for nothing. :/",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-05-27T16:18:22-05:00",
+   "body": "people,\n\nwhen you use the gem, eranikus will whisper something like\"mortal, take me to someone of the green dragonflight to stop this\"\n\nis itharius a green dragonflight member at all?\n\nbecasue the quest of itharius appears to be a dead end, BUT:\nsouth-east of the sunken temple of the atal'ai dwels a dragon, the champion of the green dragonflight!\n\nlike eranikus, he is corrupted aswell and will attack you on sight (hes a lvl 62 elite)\n\nmaybe wearing the item or using the essence of eranikus on him may cause a change that makes him neutral or something.\n\ncan anyone try? casue i handed my trinket in to itharius.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-08-08T16:18:22-05:00",
+   "body": "ok same happend to me i sold the damn trinket , what now? what item i was supposed to get with the chain?",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-09-14T04:18:22-05:00",
+   "body": "by completing this quest, you DO loose your Chained Essence of Eranikus. so if ur in love with the chained essence, for whatever reason, i would not reccomend completing this quest",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-08-08T16:18:22-05:00",
+   "body": "is the quest fixed yet?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-09-14T04:18:22-05:00",
+   "body": "o yea and i completed this at lvl 60 i got 55s not much but the next quest you get by completing this one gives u a reward of 2g 52s",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-14T21:40:24-05:00",
+   "body": "Leads to [url=/quest=3512]In Eranikus' Own Words[/url]",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-20T16:18:22-05:00",
+   "body": "The quest starts when you are in the Sunken Temple in Swamp of Sorrows.&nbsp; You find this Gem and turn it in right there, and get a trinket out of it.&nbsp; The trinket is what you turn in to the elf in the cave.\n\nAssuming the quest is fixed.&nbsp; Otherwise don't do it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-09T16:09:27-06:00",
+   "body": "Have they allowed you to reloot yet for those who sold the trinket with out knowing the quest exsisted?",
+   "replies": [
+    "yeah I petitioned a GM and they mailed a new one to me.  but they wouldn't acknowledge the fact that 90% of peopel who get this vendor it making the followup, and very interesting sounding quest chain impossible for most people.  so they \"consumed\" or \"used\" whatever you wanna call it, one of my \"limited\" item restorations.  \n\nWhatever, I'm saving this baby till they complete the quest chain.  Apparently once you hand this in, the elf in the swamp of sorrows cave sends you to Umbrase, a human out in winterspring who wants to help save Eranikus, but says he can not because his most powerful \"to"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-24T15:03:58-05:00",
+   "body": "I turned in my essence but don't remember what he said to do next. I don't recall getting a followup quest from him... whats the next step?\n\nWhat step was added on the test server?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-25T16:09:04-05:00",
+   "body": "Unfortunately I vendored this trinket before I saw this quest. Is it possible to get the trinket back somehow?",
+   "replies": [
+    "I sold mine as well, I figured there was no reason to keep it since I had no use for it and it wasn't labelled as a quest item, if anyone knows if it's possible to get it back please let us know?",
+    "Good thing blizzard throws in random things like this for random items. I better hold onto all my green quest rewards from now on, they might be used in some quest i find a year from now.",
+    "nope :( i sold my chained one as well, and it's always bothered me that I couldn't do what sounds like a really interesting quest chain, so I finally decided to buckle down and run ST again, so that I could kill eranikus, get a new Essence of Eranikus, and turn it into the Chained Essence of Eranikus. turns out, since I've done that once, can't do it again :/\n\nSo if you are like me, and sold the ^&*!ty green before you knew some elf in a cave had a quest for it, you can't get a new chained essence.\n\nI put a GM ticket in and spent the last hour with a GM discussing it, he told me that it will t"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-08T00:56:13-05:00",
+   "body": "how can i get this stone?from outside of the temple or inside?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-01-01T16:18:22-06:00",
+   "body": "Supposing someone didn't know this quest existed, and just DE'd the stupid trinket (it's a dumb trinket)...\nProbably out of luck, eh?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-08-08T16:18:22-05:00",
+   "body": "No, that 62 elite is a dragon that the Horde side kills in their chain quest for the Onyxia key.&nbsp; As far as I can tell, the quest ends in Winterspring.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-11-26T04:18:22-06:00",
+   "body": "I was wondering around the swamp at lvl 60. Decided to explore the cave. After talking to him he gave me this quest. I didn't have any trinket at all from ST so maybe this is fixed....\n\nI haven't done the quest or anything yet cause what do I need xp for if there is no further reward for it than that.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-08-31T10:25:34-05:00",
+   "body": "where abouts is this guy that you give the Chained Essence of Eranikus to? co ord would be helpful if anyone knows>< ty",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-07-05T02:13:40-05:00",
+   "body": "Has this been fixed yet?",
+   "replies": []
+  }
+ ]
+}

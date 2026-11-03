@@ -1,0 +1,143 @@
+{
+ "id": 97234,
+ "name": "Reading Room",
+ "level": 18,
+ "reqlevel": 13,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 680,
+ "start": {
+  "type": "npc",
+  "id": 268568,
+  "name": "Roy Lewells",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    38.4,
+    62
+   ],
+   [
+    38.6,
+    62
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2504,
+  "name": "Donyal Tovald",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    71.6,
+    7.4
+   ],
+   [
+    71.6,
+    7.6
+   ],
+   [
+    75.2,
+    30.2
+   ],
+   [
+    75.2,
+    30.6
+   ],
+   [
+    75.6,
+    29.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring the wrapped reading material to the Stormwind library. Wrapped Reading Material (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 277158,
+   "name": "wrapped reading material",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  97234,
+  97237
+ ],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 268568,
+   "name": "Roy Lewells",
+   "coord": [
+    38.6,
+    62
+   ],
+   "coords": [
+    [
+     38.4,
+     62
+    ],
+    [
+     38.6,
+     62
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 2504,
+   "name": "Donyal Tovald",
+   "coord": [
+    71.6,
+    7.4
+   ],
+   "coords": [
+    [
+     71.6,
+     7.4
+    ],
+    [
+     71.6,
+     7.6
+    ],
+    [
+     75.2,
+     30.2
+    ],
+    [
+     75.2,
+     30.6
+    ],
+    [
+     75.6,
+     29.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-25T21:53:46-05:00",
+   "body": "This new Forever quest can be picked up at [b]The Park[/b] at level 13.\r\n\r\nRun to the Stormwind Library, turn it in, pick the next part and then look around the bookshelves for the [b]4[/b] books and run back to [npc=268568] to turn it in.\r\n\r\nThe 4 book locations for the follow-up are as follows:\r\n[ul][li][item=277196]: [b]scroll[/b] under first row of bookshelves on side of entrance[/li]\r\n[li][item=277194]: [b]green book[/b] on same row of bookshelves from side of entrance[/li]\r\n[li][item=277195]: [b]red book[/b] on second row of bookshelves on same side[/li]\r\n[li][item=277197]: [b]black book[/b] on table north corner[/li][/ul]\r\n\r\n[b]1680[/b] total XP from this one, and a little drink to top it off!",
+   "replies": [
+    "But where is the library",
+    "In Stormwind Keep where it's always been."
+   ]
+  }
+ ]
+}

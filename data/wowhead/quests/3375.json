@@ -1,0 +1,247 @@
+{
+ "id": 3375,
+ "name": "Replacement Phial",
+ "level": 42,
+ "reqlevel": 37,
+ "side": 1,
+ "zoneId": 1337,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 6826,
+  "name": "Talvash del Kissel",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    36,
+    3.4
+   ],
+   [
+    36,
+    4
+   ],
+   [
+    36,
+    5.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 6826,
+  "name": "Talvash del Kissel",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    36,
+    3.4
+   ],
+   [
+    36,
+    4
+   ],
+   [
+    36,
+    5.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Bring a Mana Potion , Coal , and Sweet Nectar to Talvash del Kissel in Ironforge to get a replacement for Talvash's Phial of Scrying . Mana Potion  ( 1 ) Coal  ( 1 ) Sweet Nectar  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 3827,
+   "name": "Mana Potion",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 7667,
+   "name": "Talvash's Phial of Scrying",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3857,
+   "name": "Coal",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 1708,
+   "name": "Sweet Nectar",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Mana Potion",
+   "count": 1,
+   "type": "item",
+   "id": 3827
+  },
+  {
+   "text": "Coal",
+   "count": 1,
+   "type": "item",
+   "id": 3857
+  },
+  {
+   "text": "Sweet Nectar",
+   "count": 1,
+   "type": "item",
+   "id": 1708
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 6826,
+   "name": "Talvash del Kissel",
+   "coord": [
+    36,
+    4
+   ],
+   "coords": [
+    [
+     36,
+     3.4
+    ],
+    [
+     36,
+     4
+    ],
+    [
+     36,
+     5.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 6826,
+   "name": "Talvash del Kissel",
+   "coord": [
+    36,
+    4
+   ],
+   "coords": [
+    [
+     36,
+     3.4
+    ],
+    [
+     36,
+     4
+    ],
+    [
+     36,
+     5.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": [
+  {
+   "rating": 50,
+   "date": "2019-09-11T16:01:12-05:00",
+   "body": "[s]Shown by Questie, but not available in classic :L[/s]\n\nTurns out. Questie is showing this as available too early. You need to complete some prequests first to receive this.\n\n[ol]\n[li][quest=2198][/li]\n[li][quest=2199][/li]\n[li][quest=2200][/li]\n[li][quest=2201][/li]\n[li][quest=3375][/li]\n[li][quest=2204][/li]\n[li][quest=2361][/li]\n[/ol]\n\nThis quest does not provide any reward or experience. When you start [quest=2200] you are given 1 [item=7667]. You use this item to communicate with [npc=6826]. This quests only exist in case you lose the phial.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2006-12-12T11:42:11-06:00",
+   "body": "its a regular mana potion... not lesser, greater, or superior... just \"mana potion\"",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-09-30T11:42:11-05:00",
+   "body": "The quest before this one is called:\n\n\"Back to Uldaman\"",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-09-30T11:42:11-05:00",
+   "body": "Replacement Phial failed stating duplicate item found. Now I can't make bowl and i have the gems.\nwhat do I do now?",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-09-30T11:42:11-05:00",
+   "body": "Ok if you have the item in the bank you have to use it before you can make another. I found it in my bank and i took it out and used it and everything went smooth.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-30T11:42:11-05:00",
+   "body": "when you get the quest to find the dead pally he gives you one of these.&nbsp; You use it after you find the pally.&nbsp; If you destroy it because you don't remember what it's for ::whistles non-challantly:: you can get a replacement with this quest.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-12-12T11:42:11-06:00",
+   "body": "I have the coal, nectar, and mana potion.\nIt reads that I have the coal and nectar\n...but not the Mana pot.\nI've tried every kind(lesser, greater, superior)\n\nAny ideas? >____<",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-14T11:41:17-05:00",
+   "body": "I finished the quest but Talvash starts crying when I go to hand-in. why?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-21T12:30:42-05:00",
+   "body": "wouoldnt give me the replacement one cause i already had 4 charges left on the old one, tried using it again , but nothing happened after the bowl appears.\n\npuzzled",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-06T00:09:53-05:00",
+   "body": "Ok now ive got some, what do i do with it?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-21T12:32:02-05:00",
+   "body": "ok so i threw away the old one, got a new one, no exp and no quest. so what?",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2007-05-11T10:37:24-05:00",
+   "body": "what does this reward do?",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-09-30T11:42:11-05:00",
+   "body": "do you need to do this quest if you already have the phial?",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-09-30T11:42:11-05:00",
+   "body": "so what exactly do i do with this thing? :P\ngot it a while back and got sidetracked on other quests!",
+   "replies": []
+  }
+ ]
+}

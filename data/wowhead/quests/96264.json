@@ -1,0 +1,131 @@
+{
+ "id": 96264,
+ "name": "Elemental Aid",
+ "level": 33,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 2650,
+ "start": {
+  "type": "npc",
+  "id": 259023,
+  "name": "Veyric Thunderhame",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    59.8,
+    27.4
+   ],
+   [
+    59.8,
+    27.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 259023,
+  "name": "Veyric Thunderhame",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    59.8,
+    27.4
+   ],
+   [
+    59.8,
+    27.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Defeat Charlga Razorflank in Razorfen Kraul and collect information on the quilboar's plans. Tattered Note  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 274463,
+   "name": "Tattered Note",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Tattered Note",
+   "count": 1,
+   "type": "item",
+   "id": 274463
+  }
+ ],
+ "series": [
+  94789,
+  96264,
+  79358,
+  96135,
+  96016
+ ],
+ "points": [
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "start",
+   "type": 1,
+   "id": 259023,
+   "name": "Veyric Thunderhame",
+   "coord": [
+    59.8,
+    27.6
+   ],
+   "coords": [
+    [
+     59.8,
+     27.4
+    ],
+    [
+     59.8,
+     27.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 1,
+   "id": 259023,
+   "name": "Veyric Thunderhame",
+   "coord": [
+    59.8,
+    27.6
+   ],
+   "coords": [
+    [
+     59.8,
+     27.4
+    ],
+    [
+     59.8,
+     27.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 491,
+   "zone": "Razorfen Kraul",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 4421,
+   "name": "Charlga Razorflank",
+   "coord": [
+    ""
+   ],
+   "coords": []
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

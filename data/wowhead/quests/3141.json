@@ -1,0 +1,166 @@
+{
+ "id": 3141,
+ "name": "Loramus",
+ "level": 57,
+ "reqlevel": 45,
+ "side": 3,
+ "zoneId": 16,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 600,
+ "start": {
+  "type": "npc",
+  "id": 7783,
+  "name": "Loramus Thalipedes",
+  "zone": "Azshara",
+  "zoneId": 16,
+  "coords": [
+   [
+    60.8,
+    66.4
+   ],
+   [
+    60.8,
+    66.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7783,
+  "name": "Loramus Thalipedes",
+  "zone": "Azshara",
+  "zoneId": 16,
+  "coords": [
+   [
+    60.8,
+    66.4
+   ],
+   [
+    60.8,
+    66.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Listen to Loramus Thalipedes tell his story.   Loramus' Story  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 7783,
+   "name": "Loramus Thalipedes",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Loramus' Story",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [
+  2721,
+  2743,
+  2744,
+  3141,
+  3508,
+  3509,
+  3510,
+  3511,
+  3602
+ ],
+ "points": [
+  {
+   "zoneId": 16,
+   "zone": "Azshara",
+   "point": "start",
+   "type": 1,
+   "id": 7783,
+   "name": "Loramus Thalipedes",
+   "coord": [
+    60.8,
+    66.4
+   ],
+   "coords": [
+    [
+     60.8,
+     66.4
+    ],
+    [
+     60.8,
+     66.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16,
+   "zone": "Azshara",
+   "point": "end",
+   "type": 1,
+   "id": 7783,
+   "name": "Loramus Thalipedes",
+   "coord": [
+    60.8,
+    66.4
+   ],
+   "coords": [
+    [
+     60.8,
+     66.4
+    ],
+    [
+     60.8,
+     66.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 8,
+   "date": "2007-03-02T08:39:50-06:00",
+   "body": "the lower island that looks like an apple",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-12-19T08:39:50-06:00",
+   "body": "There is only a friendly lvl 61 Elite and a lot of sea things!",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-03-02T08:39:50-06:00",
+   "body": "...on which island is he then?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-04-23T13:20:23-05:00",
+   "body": "You can find him with his 3 guardians at 60,66",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-12-19T08:39:50-06:00",
+   "body": "I ve been in that temple everywhere, but he's not there!",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-18T13:23:02-06:00",
+   "body": "You have to go inside The Temple of Arkkoran \r\nThe cords for this Quest is 77,42 inside Temple",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-08-14T19:36:12-05:00",
+   "body": "how do i gain rep so he will give me the quest?",
+   "replies": []
+  }
+ ]
+}

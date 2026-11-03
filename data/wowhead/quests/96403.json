@@ -1,0 +1,190 @@
+{
+ "id": 96403,
+ "name": "Important Heirlooms",
+ "level": 15,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": 16919,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1350,
+ "start": {
+  "type": "npc",
+  "id": 265003,
+  "name": "Thom Filch",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    31.4,
+    45.8
+   ],
+   [
+    31.6,
+    45.6
+   ],
+   [
+    32.4,
+    44.4
+   ],
+   [
+    32.4,
+    44.8
+   ],
+   [
+    32.6,
+    44.4
+   ],
+   [
+    32.6,
+    44.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 265003,
+  "name": "Thom Filch",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    31.4,
+    45.8
+   ],
+   [
+    31.6,
+    45.6
+   ],
+   [
+    32.4,
+    44.4
+   ],
+   [
+    32.4,
+    44.8
+   ],
+   [
+    32.6,
+    44.4
+   ],
+   [
+    32.6,
+    44.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect 8 Dwarven Heirlooms from the Hall of Thanes . Dwarven Heirloom  ( 8 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 274289,
+   "name": "Dwarven Heirlooms",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Dwarven Heirloom",
+   "count": 8,
+   "type": "item",
+   "id": 274289
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 265003,
+   "name": "Thom Filch",
+   "coord": [
+    32.4,
+    44.8
+   ],
+   "coords": [
+    [
+     31.4,
+     45.8
+    ],
+    [
+     31.6,
+     45.6
+    ],
+    [
+     32.4,
+     44.4
+    ],
+    [
+     32.4,
+     44.8
+    ],
+    [
+     32.6,
+     44.4
+    ],
+    [
+     32.6,
+     44.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 265003,
+   "name": "Thom Filch",
+   "coord": [
+    32.4,
+    44.8
+   ],
+   "coords": [
+    [
+     31.4,
+     45.8
+    ],
+    [
+     31.6,
+     45.6
+    ],
+    [
+     32.4,
+     44.4
+    ],
+    [
+     32.4,
+     44.8
+    ],
+    [
+     32.6,
+     44.4
+    ],
+    [
+     32.6,
+     44.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-24T13:40:34-05:00",
+   "body": "From the beta, this quest is acceptable by both the alliance and the horde, as the quest giver belongs to the Gadgetzan faction.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-25T09:36:10-05:00",
+   "body": "These items are sprinkled around throughout the dungeon. They don't all look the same, and they may be difficult to make out at times. Keep looking around the walls, chairs and tables and run your mouse over objects, and you'll start finding them fast. In the final room of the dungeon you may find these at the highest concentration behind Durgan's vaults.",
+   "replies": []
+  }
+ ]
+}

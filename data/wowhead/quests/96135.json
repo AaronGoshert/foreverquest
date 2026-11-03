@@ -1,0 +1,228 @@
+{
+ "id": 96135,
+ "name": "Heed My Call",
+ "level": 40,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 3150,
+ "start": {
+  "type": "npc",
+  "id": 259023,
+  "name": "Veyric Thunderhame",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    59.8,
+    27.4
+   ],
+   [
+    59.8,
+    27.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 259023,
+  "name": "Veyric Thunderhame",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    59.8,
+    27.4
+   ],
+   [
+    59.8,
+    27.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Use the Twisted Totems to put an end to the quilboar ritual. Eye of the Tempest  ( 1 ) Corrupted Totems (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 212792,
+   "name": "Eye of the Tempest",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 268582,
+   "name": "Corrupted Totems",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Eye of the Tempest",
+   "count": 1,
+   "type": "item",
+   "id": 212792
+  }
+ ],
+ "series": [
+  94789,
+  96264,
+  79358,
+  96135,
+  96016
+ ],
+ "points": [
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "start",
+   "type": 1,
+   "id": 259023,
+   "name": "Veyric Thunderhame",
+   "coord": [
+    59.8,
+    27.6
+   ],
+   "coords": [
+    [
+     59.8,
+     27.4
+    ],
+    [
+     59.8,
+     27.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 1,
+   "id": 259023,
+   "name": "Veyric Thunderhame",
+   "coord": [
+    59.8,
+    27.6
+   ],
+   "coords": [
+    [
+     59.8,
+     27.4
+    ],
+    [
+     59.8,
+     27.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 400,
+   "zone": "Thousand Needles",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 216474,
+   "name": "Ravaging Tempest",
+   "coord": [
+    54,
+    41.2
+   ],
+   "coords": [
+    [
+     34.6,
+     42.6
+    ],
+    [
+     35.6,
+     41.6
+    ],
+    [
+     35.8,
+     36.2
+    ],
+    [
+     35.8,
+     44
+    ],
+    [
+     36.4,
+     38
+    ],
+    [
+     36.4,
+     38.6
+    ],
+    [
+     36.4,
+     40.8
+    ],
+    [
+     36.6,
+     41
+    ],
+    [
+     36.6,
+     42.8
+    ],
+    [
+     36.7,
+     39
+    ],
+    [
+     36.8,
+     39.6
+    ],
+    [
+     36.8,
+     41.8
+    ],
+    [
+     36.9,
+     37.9
+    ],
+    [
+     37.8,
+     38.8
+    ],
+    [
+     46.4,
+     46.8
+    ],
+    [
+     53.4,
+     40.8
+    ],
+    [
+     53.8,
+     40.4
+    ],
+    [
+     54,
+     41.2
+    ],
+    [
+     54.4,
+     41.8
+    ],
+    [
+     54.6,
+     41.4
+    ],
+    [
+     54.6,
+     41.8
+    ],
+    [
+     55.8,
+     43.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

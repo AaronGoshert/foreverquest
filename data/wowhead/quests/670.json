@@ -1,0 +1,204 @@
+{
+ "id": 670,
+ "name": "Sunken Treasure",
+ "level": 40,
+ "reqlevel": 35,
+ "side": 3,
+ "zoneId": 45,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 3150,
+ "start": {
+  "type": "npc",
+  "id": 2487,
+  "name": "Fleet Master Seahorn",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    27.2,
+    77
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2610,
+  "name": "Shakes O'Breen",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    32.2,
+    81.4
+   ],
+   [
+    32.2,
+    81.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Deliver Seahorn's Letter to Shakes O'Breen in Arathi Highlands . Seahorn's Sealed Letter (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2610,
+   "name": "Shakes O'Breen",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4494,
+   "name": "Seahorn's Sealed Letter",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  665,
+  666,
+  668,
+  669,
+  670
+ ],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "start",
+   "type": 1,
+   "id": 2487,
+   "name": "Fleet Master Seahorn",
+   "coord": [
+    27.2,
+    77
+   ],
+   "coords": [
+    [
+     27.2,
+     77
+    ]
+   ]
+  },
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 1,
+   "id": 2610,
+   "name": "Shakes O'Breen",
+   "coord": [
+    32.2,
+    81.4
+   ],
+   "coords": [
+    [
+     32.2,
+     81.4
+    ],
+    [
+     32.2,
+     81.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 9,
+   "date": "2006-07-19T05:59:37-05:00",
+   "body": "See [url=https://www.wowhead.com/forever/quest=667]This link to the other quest[/url] for the follow up to this one.&nbsp; Dunno why its not linked.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-11-29T20:39:48-06:00",
+   "body": "Leads to this quest:\r\nhttps://www.wowhead.com/forever/quest=667",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-02-23T05:59:37-06:00",
+   "body": "Forget going to the cannon, stay on the dock.&nbsp; I only had to fight off 3 lvl 41 nagas alongside a ton of NPCs after waiting there for about a minute.\n\nMaybe everyone has different luck with this quest.&nbsp; The ring makes it definitely worth whatever trouble you have.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-05-07T05:59:37-05:00",
+   "body": "At lvl 39 and the Quest red I was hard pressed to think I could do it. But no guts no glory heh. I did what the npc said, Went up to the cannon and as they came up the beach I fired on them. Took all of a minute...&nbsp; quest complete :)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-30T05:59:37-05:00",
+   "body": "were is Shakes O' Breen?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-17T17:59:37-06:00",
+   "body": "I stood by shakes just like everyone said..lol...the 3 nagas came out and we killed them...but both times&nbsp; after a few seconds...4 more came out...i died both times...i was 40 warrior..\n\ni will bring someone next attempt.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-23T05:59:37-06:00",
+   "body": "Do what the quest log says - go up on the ship to the cannon.&nbsp; As soon as you see the first 3 coming down the hill (don't get impatient because it seems to take a minute or so after Shakes shouts out orders), right click on the cannon.&nbsp; \n\nMy first attempt I was like the other sheep here and stood beside him.&nbsp; The guards were able to handle the first 3 - but then about a minute later, here came what looked like 8 nagas.&nbsp; It's a LONG run back. :/\n\nI abandoned the quest and took it again.&nbsp; This time I zimmed right up to the cannon.&nbsp; After the first 3 were dead, it said the quest was complete. \n\nImagine my surprise that more nagas came when I wasn't looking (I was here on thottbot lol) - and killed old shakes.&nbsp; So I came here to post this and when I checked, he had respawned and I was able to talk to him and choose my ring.\n\nOne thing that I don't understand is old Lolo the Lookout (lvl 39) just stands there or strolls around and doesn't help the guards against the nagas.&nbsp; And he's a big ugly ogre!&nbsp; lol\n\nEdit: As info - you CAN get to Faldir's cove from the wetlands also.&nbsp; :)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-30T05:59:37-05:00",
+   "body": "The last part of the quest isn't listed? \nYou get it after delivering the letter, you gotta protect him from some naga's, and you can choose one of two rings, oh well quite easy quest ;p",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-11-05T17:59:37-06:00",
+   "body": "When I accepted the follow up quest it took a minute for the Naga to arrive, but when the arrived they showed up in force.&nbsp; Roughly 10 lvl 41-43 Mobs came out of the water and headed right for the Capitan.&nbsp; Fend them off and the ring is yours.&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-02-23T05:59:37-06:00",
+   "body": "Shakes O'Breen&nbsp; loc 78,40 in Faldir's Cove in Arathi Highlands\n\nThere are other quests in area",
+   "replies": [
+    "the real cords r as follows tloc 34,79"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-12T17:59:37-05:00",
+   "body": "If you wanna finish last part and get ring just stand by him after you take quest!(Don't run to hill like me at first time or else 10 nagas will come out and kill you). After some time 3 nagas will come out. Kill them and quest done. Worked for me ...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-30T05:59:37-05:00",
+   "body": "When i did the quest... i never went up to the cannon or anything, i stood around.\n\n1minute later, the quest was completed... LOL\n\nThe naga never came or anything, easiest quest ever, the 1minute of waiting might be a bit boring though ;)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-05T17:59:37-06:00",
+   "body": "There's definitely a bugged follow up quest. I just waited there, not even at at the cannon, and no Naga attacked. Nice ring :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-27T16:02:29-05:00",
+   "body": "Taking this letter back to Captain Breen earns you 3150 experience and an increase to your Booty Bay reputation by a 100. It leads to a \"Death from Below\" which sends several waves of Nagas at the Captain, who you must defend.\n\nEdited, Thu Apr 27 11:01:21 2006",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2006-01-17T17:59:37-06:00",
+   "body": "Wth? I can't get this quest and I'm level 40! Can someone help? o_O",
+   "replies": []
+  }
+ ]
+}

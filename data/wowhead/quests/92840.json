@@ -1,0 +1,157 @@
+{
+ "id": 92840,
+ "name": "Catching Wind",
+ "level": 11,
+ "reqlevel": 5,
+ "side": 1,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 880,
+ "start": {
+  "type": "npc",
+  "id": 252475,
+  "name": "Elaadrin Evengale",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    66.4,
+    79.8
+   ],
+   [
+    66.6,
+    79.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252475,
+  "name": "Elaadrin Evengale",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    66.4,
+    79.8
+   ],
+   [
+    66.6,
+    79.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Take the Index Esoteria to the Overlook Standing Stones in Shen'dar Highlands and use it on the Windstone Formations in the area to gather data.   Gather Data on Elemental Currents  ( 6 ) Index Esoteria (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 253306,
+   "name": "Gather Data on Elemental Currents",
+   "count": 6,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 254584,
+   "name": "Index Esoteria",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Gather Data on Elemental Currents",
+   "count": 6,
+   "type": "npc",
+   "id": 253306
+  }
+ ],
+ "series": [
+  92849,
+  92850,
+  99260,
+  92840,
+  92834,
+  92860
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252475,
+   "name": "Elaadrin Evengale",
+   "coord": [
+    66.6,
+    79.8
+   ],
+   "coords": [
+    [
+     66.4,
+     79.8
+    ],
+    [
+     66.6,
+     79.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252475,
+   "name": "Elaadrin Evengale",
+   "coord": [
+    66.6,
+    79.8
+   ],
+   "coords": [
+    [
+     66.4,
+     79.8
+    ],
+    [
+     66.6,
+     79.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 253306,
+   "name": "Index Esoteria",
+   "coord": [
+    48,
+    69
+   ],
+   "coords": [
+    [
+     48,
+     69
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-25T11:34:02-05:00",
+   "body": "Was this quest removed? It is not available for me to pickup.",
+   "replies": [
+    "Are you on Horde?",
+    "I'm Alliance and it's not visible for me.",
+    "I cannot find this quest anywhere",
+    "part of a quest chain. stones are at 47,70"
+   ]
+  }
+ ]
+}

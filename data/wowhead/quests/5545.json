@@ -1,0 +1,197 @@
+{
+ "id": 5545,
+ "name": "A Bundle of Trouble",
+ "level": 9,
+ "reqlevel": 5,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 780,
+ "start": {
+  "type": "npc",
+  "id": 10616,
+  "name": "Supervisor Raelen",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    81.4,
+    66
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 10616,
+  "name": "Supervisor Raelen",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    81.4,
+    66
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 8 Bundles of Wood to Raelen at the Eastvale Logging Camp. Bundle of Wood  ( 8 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 13872,
+   "name": "Bundles of Wood",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Bundle of Wood",
+   "count": 8,
+   "type": "item",
+   "id": 13872
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 10616,
+   "name": "Supervisor Raelen",
+   "coord": [
+    81.4,
+    66
+   ],
+   "coords": [
+    [
+     81.4,
+     66
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 10616,
+   "name": "Supervisor Raelen",
+   "coord": [
+    81.4,
+    66
+   ],
+   "coords": [
+    [
+     81.4,
+     66
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 23,
+   "date": "2006-12-10T16:54:30-06:00",
+   "body": "The bundles of wood are easily gathered northwest of the outpost.  Watchout for the prowlers and bears though, they can give you quite the trouble while doing this quest.  If you have the Defend the Frontier quest you can complete that while collecting the wood with ease.",
+   "replies": [
+    "Ravenark is referring to the quest \"Protect the Frontier\" (https://www.wowhead.com/forever/quest=52) and he's exactly right, these two quests do make a great pairing."
+   ]
+  },
+  {
+   "rating": 22,
+   "date": "2019-09-11T18:27:55-05:00",
+   "body": "Update for Classic!\r\n\r\nGuys, the easiest way to do this is go into your graphics settings and turn your GROUND CLUTTER all the way down.  Turn your view distance as high as your PC can handle and BOOM, you shall see these piles from miles away.  No tricks or hassle, just run around killing things for the other quests you have in the area and you'll see tons of these scattered about the trees.",
+   "replies": [
+    "Thank you! I'd managed to only find 3 bundles initially and wondered why I couldn't find a single one more regardless of searching everywhere, but thanks to this the rest showed up like magic. +1 ob",
+    "Wow, it's amazing how much ground clutter there is....."
+   ]
+  },
+  {
+   "rating": 16,
+   "date": "2007-05-14T20:00:43-05:00",
+   "body": "Although the two quests above go together really well. Should you have already completed \"Protect the Frontier\". Take the time to kill the Prowlers. They are pretty good at yielding \"Stringy Wolf Meat\". Which is good for cooking.\r\n\r\nThe Bundles themselves respawn pretty quick. They are really close to each other. So you don't have to go all out looking for these. Making this a really quick quest for 775 XP.\r\n\r\nFor instance. I found them by trees at these coordinates:\r\n\r\n76,62 (2 bundles)\r\n77,60 (Near Murloc Camp - be wary)\r\n77,63\r\n77,64\r\n78,62\r\n79,61\r\n79,63\r\n\r\nYou only need 8 bundles. So as you can see, there isn't that much searching to complete this quest.\r\n\r\n~Lie",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2006-01-28T01:15:55-06:00",
+   "body": "This one is pretty simple, there are world objects next to the trees in the area around there.&nbsp; I tend to look in the trees to the north.",
+   "replies": [
+    "> I tend to look in the trees to the north.\n\nJust like the quest says?&nbsp; Yes, good idea..."
+   ]
+  },
+  {
+   "rating": 8,
+   "date": "2021-03-27T19:06:08-05:00",
+   "body": "If you set your graphics down low to potato, you can find the wood much quicker.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2019-10-15T13:58:47-05:00",
+   "body": "Hi all\r\n\r\nOn This Quest You need to pick up 8 [item=13872] all on north next to trees.\r\n\r\nSee My Video if need it - https://youtu.be/8Y7yanFkw2A\r\n\r\nHope that help You :).",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-28T01:15:55-06:00",
+   "body": "omg im the biggest idiot i was killing the mobs for about 1hour thinking about how bad the drop rate is when the wood is on the floor owell good xp",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-05-17T13:15:55-05:00",
+   "body": "those are coords - and you cant see that unless you get any number of mods available - the best mod imo is cartographer.\n\nnow you have coords, :P",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2004-11-25T08:49:13-06:00",
+   "body": "said this is a really easy quest.  it took me about 5 minutes to do while doing the \"protect the frontier\" quest.  it is like getting bonus money and xp's!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-06-01T02:10:25-05:00",
+   "body": "This is a really easy quest. I just got the logs while killing those wolves.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2004-11-15T21:53:21-06:00",
+   "body": "Raelan's directions may seem a little vague, but go north like she suggests and it will get clearer. Her bundles of wood are lying at the base of trees, just click them to get the quest item. They look like a small trio of stacked logs. Watch out for the wolves and bears though, they're highly aggro! This is a good place to kill two birds with one stone, though, if you're also doing Guard Thomas' \"Protect the Frontier\" quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-29T14:37:43-05:00",
+   "body": "doesn't give reputation...  :(",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-13T16:21:44-05:00",
+   "body": "guys.. coords are all that matter",
+   "replies": [
+    "all around 81,60 (cosmos)"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-07T13:21:56-05:00",
+   "body": "The [url=https://www.wowhead.com/forever/object=176793/bundle-of-wood]Bundle of Wood[/url] you have to loot to complete this quest are located at the base of the trees in the area. The bundles are rather small but if you lower the Ground Clutter in the graphics settings to 1 they become much easier to spot at a distance.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-02-23T20:48:12-06:00",
+   "body": "I got this quest and passed it with ease. Got it in Eastvale loging camp, from that Raelen guy. I rather get my quest items by killing, so i got Bundle of wood x8 from Prowlers and Bears. There is a great XP reward and 3 silver, which is quite much for an one quest if you are below level 10.\n\nMore information :)\nTo get this quest go to goldshire. Then go east by the road until you see Eastvale logging camp. Once you located it, find Supervisor Raelen and speak to him. You can attain this quest probably around lvl 8. Once you have it, you have two options how to pass it. Option one: You can kill the sourounding monsters to get Bundle of wood, and those are Prowlers, Young forest bears and some Murlocs. It is for those that like to kill :). Option two: Find the bundle of wood near the sourounding trees. Open them and inside of it there should be a Bundle of wood.\nHope this guide helped :)\n-------------------------\nEntWarrior - lvl 42 Human warrior\n\n\nEdited, Fri Feb 24 03:24:01 2006",
+   "replies": []
+  }
+ ]
+}

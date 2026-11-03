@@ -1,0 +1,380 @@
+{
+ "id": 1385,
+ "name": "Brutal Politics",
+ "level": 35,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 2050,
+ "start": {
+  "type": "npc",
+  "id": 5396,
+  "name": "Captain Pentigast",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    66.4,
+    10.8
+   ],
+   [
+    66.6,
+    11
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5398,
+  "name": "Warug",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    74.8,
+    68
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Gain a Friendly reputation with the Magram, then speak with Warug .   Magram Clan Centaur  ( Friendly )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 5398,
+   "name": "Warug",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  1385,
+  1386,
+  1369,
+  92743,
+  92841,
+  92846,
+  92847,
+  92873,
+  92894,
+  93066,
+  93072,
+  93188,
+  93196
+ ],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 5396,
+   "name": "Captain Pentigast",
+   "coord": [
+    66.6,
+    11
+   ],
+   "coords": [
+    [
+     66.4,
+     10.8
+    ],
+    [
+     66.6,
+     11
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 5398,
+   "name": "Warug",
+   "coord": [
+    74.8,
+    68
+   ],
+   "coords": [
+    [
+     74.8,
+     68
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 70,
+   "date": "2006-06-11T07:10:50-05:00",
+   "body": "Choose this quest If you need leather armour, and \"strange alliance\" If you need mail armour. check the final rewards.\n\nNUFF SAID",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2006-12-10T19:10:50-06:00",
+   "body": "muhaha... very easy... just hit characterifo buttom... and then under the reputation tab click on the gelkis/Mangram clan centaurs... a little pop up will aprear to the right .... select show as exp bar... bingo!... NOW YOU KNOW HOW MANY YOU MUST KILL.... forget about maths... gelkis camp is as arround 39.80 and magram camp is at about 69.70... GL mates..",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2006-06-11T07:10:50-05:00",
+   "body": "Warun is at 74,68 .\n\nYou need to kill a lot of Geikies (whatever) to gain his advantage !",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2007-01-16T07:10:50-06:00",
+   "body": "Well I found the Gelkis spokesperson relatively easily, but Warug, the Magram spokesperson was a bit harder.\n\nIf you look at Magram Village, there is a small island with tents on it. Looking at the map, draw a straight line north from the island. Warug is North of the island and EAST of the imaginary line you drew. You should see the indicator on your minimap when you get close enough (he's hangin out by a big fire)\n\nHope this helps",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2005-02-22T09:36:53-06:00",
+   "body": "Warug at hill with bonfire, NE of village.",
+   "replies": [
+    "This player has it right.  Found him at 74.68"
+   ]
+  },
+  {
+   "rating": 10,
+   "date": "2007-05-09T00:27:38-05:00",
+   "body": "There is (or used to be) a very very easy (and cheeky) way to do both clan quests at the same time with almost no effort what-so-ever.\n\nGet a friend, doesn't matter what level they are, the higher the better to be honest, and make a group.\n\nLet your friend do all the killing. [b]DO NOT ATTACK ANY MOB YOURSELF[/b]. You will get rep gain with one clan, but you wont lose any with the other.\n\nThis means you can be friendly with both at the same time.\n\nYeah, you don't get any XP for the killing, nor is it a great deal of fun being your friend's shadow for the ~40 minutes (less now since you start as neutral instead of unfriendly) it took to get friendly, but it is easier, and kinda neat to be friendly with both.\n\nThe last time I tried this was pre 2.0.1 and since there was a lot of changes to the rep system in that patch, I have no idea if it works now, and I do believe there are changes in 2.1 which might also affect it, but I'm guessing.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-12-12T13:28:07-06:00",
+   "body": "Think the admins were hinting at what they'd like us to do when they titled the Magram quest \"Brutal Politics\" and the Gelkis quest \"Strange Alliance\". I.E. brutalize the Magram and ally with the Gelkis? \n\nI know we don't have to swing it this way, but I'm going that way just to get it over with. \n\nAnd I also found Warug at 74,68. North of the main village, in the hills by a bonfire. Can't miss it. ;)",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-05-05T19:10:50-05:00",
+   "body": "Warug is northeast of the pool on top of a small hill",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-03-30T07:10:50-06:00",
+   "body": "There are two choices to go with either Magram or Gelkis village. I came here to see if there was a better reason to choose one or the other. xRasmus has stated Gelkis and what he thought but no one has said why to choose Magram other than Gelkis are easier to kill. This leads me to think if Magram are harder to kill then maybe going Gelkis might bring something better in the end. \nI am lvl 50 so doing this is not about xp so much as I missed this zone in my earlier growth and want to do it. I also know that later these factions might matter somewhere though no one is mentioning it. Being a NE I did quest with Centaurs in Ashenvale. Suppose I should have paid closer attention to factions with those to see if it was more than just Darnassus. \nI do know there is a pit of sorts in the Gelkis Village and when I went down there even thou they were not argo they attacked me. Why? Ask in gc but got no reply. Didn't have anything like that happen in the other village at all.",
+   "replies": [
+    "I have been down the in the pit a few times. The last time when I was about lvl 55. I was never attacked there though. I too, never really completed this zone, so would be interested to know if there is a reason to choose one faction over then next. I have, so far, never attacked the Gelkis. I run lowbie Guildies through there all the time. Is a long enough run without having to have to fight through when they wander off.&nbsp; :) If you are on Suramar and know of a reason to choose one over the other PST or Mail Markor...lvl 60 Hunter",
+    "I've done these quest in both directions with a couple characters, and it doesn't really seem to matter either way which one you go with. The relationship you build with one clan just makes a difference as to how easy it'll be to deal with the other one. In the end, it's the faction you get from the final quest that matters for the rest of the game.\n\nBut as a grinding quest, this one is definitely more fun than killing 200 tigers in STV."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2006-08-23T07:10:50-05:00",
+   "body": "Location WARUG is&nbsp; 74.68 is OK",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-08-23T07:10:50-05:00",
+   "body": "Kill&nbsp; Gelkis&nbsp; at 34.90&nbsp;",
+   "replies": [
+    "This clan isn't at 34,90, the coords are 38,80"
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2006-12-01T15:22:15-06:00",
+   "body": "Does anyone have any insight into which of these two clans you should try to build rep with?. It seems each quest is geared to gain the upper hand with one or the other faction Gelkis or Magram. If there is no different please advise. Thanx.",
+   "replies": [
+    "It depends on your class.  Check the last quest of each chain for the rewards and decide which you should work on based on that."
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2006-12-29T05:59:54-06:00",
+   "body": "I got 20rep points for each kill. it took about 20 minutes to gain the friendly rep.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-02-21T19:10:50-06:00",
+   "body": "Does it really matter what clan you go friendly with? i've heard it ends with the same quest with either factions.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-09-28T19:10:50-05:00",
+   "body": "Best reason I can see to choose one over the other is that the path leading from Desolace into Feralas is in Gelkis lands.&nbsp; Now, this isn't a big deal unless you have a reason to get to Mauradon or Mannaroc coven a bit faster than from Nigel's Point.&nbsp; Since I hadn't seen it listed as a reason, thought I'd mention it.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-02-21T19:10:50-06:00",
+   "body": "I think i might have found a way in which BOTH clan quests can be done , im not sure yet if it works but im going to give it ago. What i have come up with so far is even if u have become friendly with one clan side , u can STILL be a war with them if u click on the At War box. So that means once comepleting all the quest with one clan, tick the box to become at war with them and start killing them till the Rep becomes friendly with the other clan...... again im not sure if it will work as im doing it now so i will let you all know :)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-02-21T19:10:50-06:00",
+   "body": "im a lvl 35 warrior and i chose to ally with the gelkis, which is a much better idea than allying with the magram. on the final quest i had my friend help and i got 4300 xp. hihgley recommended chain of quests! plus i got like 10 green items including a lockbox and some really nice armor and gloves",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-07-17T19:10:50-05:00",
+   "body": "how many gelkis guys do you have to kill to get warug to talk to you and complete this quest? i dont know how many i killed but i am hostile with the gelkis and still neutral with the morgrams, how do i get them to friendly ? Must i be hated by the gelkis?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-21T19:10:50-06:00",
+   "body": "Yep it works alright, Complete all the quest u have with ONE clan, then once there all done Click on the box ( At War With ) then start killing them all and ur rep will increast with the OTHER clan group, become friendly with them and u can do all there quests gaining u aload more exp/items. Does take a LONNNNGG time tho but hey its worth it in the long run for Exp.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-09-27T07:14:15-05:00",
+   "body": "In order to start reputation gaining and finding the factions in your reputation section you need to kill one Magram.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2020-01-05T10:39:46-06:00",
+   "body": "[b]My recommendation:[/b]\r\nOnly start on this questline if you are a quest collector or desperately needs XP. And if so, do finish this questline first before you start with the nuking of the filthy Magram clan during the opposite questline starting with [url=https://www.wowhead.com/forever/quest=1382/strange-alliance]Strange Alliance[/url]. It is simply a lot more satisfying giving the Gelkis clan revenge as they actually are a kind clan from the beginning of.\r\n\r\nAnd if you do not collect quests or desperately needs XP, abandon this quest and start on [url=https://www.wowhead.com/forever/quest=1382/strange-alliance]Strange Alliance[/url] instead.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-05T19:10:50-05:00",
+   "body": "It would be fun to do both but it would also take a lot of work to get from hated to friendly with the other.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-11T07:10:50-05:00",
+   "body": "i made a big mistake of being the magram. the gelkis have much more quests and they have a bridge to the cave what do the magrams have?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-28T19:10:50-05:00",
+   "body": "34,90 I s where u kill the Gelkis other Cords r for Warug is at 74,68",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-16T07:10:50-06:00",
+   "body": "At lvl 56 you dont get 20+rep every kill... you get 4-5.. so it took me about 200 kills to do what you do with 50.. quit whining:P",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-15T10:46:14-06:00",
+   "body": "ok basically, if you think this is a lousy quest (for having to get 50 kills) at level 36 (one level above recomended) as a 36 mage, they take little effort to kill, and i can kill about 3-5 before i have to refill mana and health. i'm going to give some after results, but as it is now, i have 14 kills, and with rested, the xp i have receive so far from those 14 kills ammounts to 5236 but i won't be on rested much longer. i'll calculate how much xp the average person should get at 50 kills if they are level 36.  Basically, if you're getting 187xp per kill unrested (like me) you're looking at 10K xp just for the kills in this quest alone. Course you could go out and just grind @#$% for the hell of it. but this way you get a small bonus at the end. have fun.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-14T16:07:52-06:00",
+   "body": "Comos user:  73,66 for Warug",
+   "replies": [
+    "He's Actually at 75,68\n\nEdited, Sun May 29 01:17:56 2005"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-12T09:31:08-05:00",
+   "body": "Ok, after reading all these posts one very important question remains: Exactly [b][i][u][yellow]what[/yellow][/u][/i][/b] are we supposed to kill 50 of?",
+   "replies": [
+    "\"The Magram centaurs war with the Gelkis. If you fight the Gelkis then the Magram might consider an alliance.\"\n\nits in the questlog. Kill Gelkis Centaur to gain rep with Magram, and kill Magram to gain rep with Gelkis."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-02T23:35:09-05:00",
+   "body": "When i kill magram i get -100 reputation but im going to get +100 reputation....why?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-13T01:36:36-05:00",
+   "body": "I think the admins were hinting at what they'd [i]like[/i] us to do when they titled the Magram quest \"[i]Brutal[/i] Politics\" and the Gelkis quest \"Strange [i]Alliance[/i]\". I.E. brutalize the Magram and ally with the Gelkis?\n\nI know we don't have to swing it this way, but I'm going that way just to get it over with.\n\nAnd I also found Warug at 74,68. North of the main village, in the hills by a bonfire. Can't miss it. :-P",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-14T04:31:13-06:00",
+   "body": "Unless you gotta have absolutely something that one of these two camps gives - don't DON'T mess with this or the other quest. \n\njust stay neutral with both.\n\ni had to go 3 kills into hostile to get the quest.  it took 30 kills to get the faction back up to unfriendly (3.01)and lowered this faction down to unfriendly (about 3.78).  what a pain.  if you want to kill tons of centaurs great.  the other camp is by a road to another zone so you really don't want to have problems crossing there.\n\nafter i came in here and read the quests i said - so what.\n\nso - my advice avoid the centaur quests except for the one the corporal hands out and doing the bodyguard for the goblin.\n\nPS:  if you gotta do this - kill at higher than your level, you hit the faction level faster because it goes:  so and so has increased SLIGHTLY and so and so has Decreased - when you complete the kill",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-05T18:57:05-06:00",
+   "body": "on lvl 32 u will get -100 rep. points from the one faction and +20 points to another on every kill.\nsuper quests for 31+ lvls!\n\n\n[i][small]Edited, Feb  5th 2007  4:03pm by astrodmf[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-16T10:43:43-05:00",
+   "body": "this and strange alliance SUCK! I found Uthek (sp) he won't talk. So I go to find the other guy. Never could find him. Bottom line drop the stupid quests and go on with the game. Oh and yes I did end up killing a lot of both and they now both HATE me. YAY! Serves them right for not talking ot me. ;-)",
+   "replies": [
+    "In case you didn't read the quest log (probably not!), you need to be Friendly before either of them will talk to you."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-20T00:40:41-06:00",
+   "body": "I do not make or loose Reputation with either side.\n\nSurely I am suppose to have Reputation Bars now, so I can see my standing,\nI do not have these.\n\nI tried abandoning and retaking both,  then singularly, but nothing.\n\nWhat am I doing wrong?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-19T05:02:24-06:00",
+   "body": "Just found him at 74,68",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-21T05:10:32-05:00",
+   "body": "If you pick a side and get to friendly and the other side is hostile/friendly is there a way to get it back to friendly again?",
+   "replies": [
+    "I'm sure there's a way, it'd just take a *really* long time.",
+    "The verdict is, you can reverse and do the quests for the other faction and, it does take a long time. Oddly enough, the final quest for both factions is identical. So if you plan to do both sides and a second Mouth Piece drops in the final chain, keep it."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-04-05T02:33:58-05:00",
+   "body": "The next quest is Assault on the Kolkar, not listed here.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2020-12-15T12:52:52-06:00",
+   "body": "For those wondering whether it is possible in Classic; you cannot be a ghost form and avoid the negative reputation while a party members kills the centaurs (I believe this was possible in original vanilla).\n\nEDIT: You can still do it on classic era.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-12-23T09:39:28-06:00",
+   "body": "BORING....I had to kill 200+ centaurs of the other clan to get my rep up high enough to finish this quest.  I started at 2200 rep, and had to raise it to 3000. The thing is, I was only getting 5 rep from each kill, and some would only give me 1!  Only start this quest chain if you are a true grinder.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-07-25T21:47:00-05:00",
+   "body": "As a level 36, it appears I am getting +20 rep for the opposing faction, while taking -100 rep for the faction I am killing. You start out at 2000/neutral faction, and you need to get to 3000 to be 'friendly'. So that is a gain of 1000 rep. Consider that you get +20 rep per kill, it will take you 1000/20 or 50 kills in order to gain the proper reputation. This will damage your rep by 50*100=5000 on the other faction. It also appears that you remain neutral until the 2000 drops to zero, which will happen after 20 kills. After that you become 'unfriendly', but you are not kos still at this point. It appears to take another -3000 rep points for that to happen.\n\nSo it takes 20 kills to be unfriendly, 50 kills to be hated, and 50 kills to be friendly to the opposing side.\n\nThe Magrams are in the southeast. They appear to be slightly lower level.. at least the ones I have seen are 32-33ish so far. The Gelkis are in the southwest, and take a lot longer to get to. The Gelkis are also near a path to the next zone.\n\nI chose to attack the Magrams because they are closer to Nigels Point, they can easily be avoided, they appear to be easier to kill, and they don't guard a path to another zone. There are also a lot of high level 30s near the Gelkis, so it might pay off to have a safe place to run to when fighting down there.\n\nThey also drop Centaur ears so you can do Centaur Bounty at the same time.\n\n[i][small]Edited, Jul 25th  2006 at  5:48pm EDT by Seaxouri[/small][/i]\n\n[i][small]Edited, Jul 25th  2006 at  6:14pm EDT by Seaxouri[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2006-01-05T22:43:28-06:00",
+   "body": "I had to kill 750 of them. Being level 45, the gelki only gave me 4 points per kill. 3000 / 45 = 750 and yes I did kill that many and it took a few hours. Now you gotta ask yourself: why? Simply because I felt like it. I like to be thorough, and I've done crazier things like swim from Menethil harbor to Westfall for the water travel form quest.",
+   "replies": [
+    "You want persistance. Persistance is finishing the entire quest line for one faction and then jumping sides.\n\nEdited, Thu Jan  5 22:05:50 2006",
+    "Kill 750 of what? Forgive my puestion...but what or whom do you have to kill?"
+   ]
+  }
+ ]
+}

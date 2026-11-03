@@ -1,0 +1,271 @@
+{
+ "id": 2561,
+ "name": "Druid of the Claw",
+ "level": 10,
+ "reqlevel": 3,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1050,
+ "start": {
+  "type": "npc",
+  "id": 7317,
+  "name": "Oben Rageclaw",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    45,
+    61.4
+   ],
+   [
+    45,
+    61.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7317,
+  "name": "Oben Rageclaw",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    45,
+    61.4
+   ],
+   [
+    45,
+    61.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Oben Rageclaw wants you to kill his soulless body, and then use the Voodoo Charm .   Release Oben Rageclaw's spirit  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 7317,
+   "name": "Oben Rageclaw",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 8149,
+   "name": "Voodoo Charm",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Release Oben Rageclaw's spirit",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [
+  2541,
+  2561
+ ],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 7317,
+   "name": "Oben Rageclaw",
+   "coord": [
+    45,
+    61.4
+   ],
+   "coords": [
+    [
+     45,
+     61.4
+    ],
+    [
+     45,
+     61.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 7317,
+   "name": "Oben Rageclaw",
+   "coord": [
+    45,
+    61.4
+   ],
+   "coords": [
+    [
+     45,
+     61.4
+    ],
+    [
+     45,
+     61.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 32,
+   "date": "2005-11-18T01:51:38-06:00",
+   "body": "he is in bear form&nbsp; you have to kill rage claw the bear and then use the voodoo charm once he is dead",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2006-01-30T01:51:38-06:00",
+   "body": "proceed to Ban'ethil Barrow Den.\ncoordinates: 43,58.\nin there you will find a Rageclaw. kill him and use the Voodoo Charm.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-07-31T13:51:38-05:00",
+   "body": "His spirit was walking around in a circle in human/druid form.&nbsp; When I attacked, he changed into the bear form.&nbsp; The first time I tried to use the claw on him, it didn't work (must not have been holding my mouth right).&nbsp; 2nd time - VOILA!\n\nI still shudder at the memory of the very first toon I did these quests with - if you're low level, you really need a group because the gnarlpines do respawn very quickly.&nbsp; Plus the caves and paths all looked the same to me (heh heh). \n\nThis time with my rogue it was much easier and maybe because of more cave experience, not as confusing to get around. \n\nGood luck to all!",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-04-18T23:37:47-05:00",
+   "body": "He's pretty easy to beat and it doesn't even matter if you are the one who kills him, you just have to use the charm on the corpse.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-05-14T20:56:17-05:00",
+   "body": "There's a nightelf Druid NPC monster. USe the charm on him...once he's dead.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-04-13T01:51:38-05:00",
+   "body": "I already killed the Bear Druid. but I'm looking for the Rageclaw who gave me the quest, I an't find him! Heeeelp",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-11-18T01:51:38-06:00",
+   "body": "I didnt knew RageClaw was the druid. All the time ive been searching for the druid...",
+   "replies": [
+    "He was in druid form when i found him."
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2007-01-30T01:51:38-06:00",
+   "body": "I am lvl 14 now...and came back to finish this quest. No prob finding the druid bear, and killed him, used voodoo thing on him, but after the bar went to full, it said 'invalid target'.\n\nNot sure what's up with that, but I hung around and killed him three times, did not loot, right clicked on voodoo thing, waited while the progress bar did it's thing. Same message \"failed. Invalid target\" Anyone else have this problem?",
+   "replies": [
+    "I had this problem too. You are right clicking (to use) the charm, and then clicking the hand on the body. That doesn't work.\n\nInstead, select the corpse first. Then right click the charm. That will fix your problem.",
+    "there is the purple and gold Raven Claw talisman. That is the wrong one. There is the Voodoo charm. That should be the right one. \n\nAuto loot may interfere with selecting the body.\n\nSean"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-30T01:51:38-06:00",
+   "body": "then return to the guy that give you the quest (he is inside the same cave).",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-05-19T13:51:38-05:00",
+   "body": "if u go to the deepest piece of there u will see him walking around in his normal shape but when u gonna fight him he change in bearform after u defeated him press backpack click ur right mouse button and he will do it automaticlly.\n\ngr roy",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-12-24T13:51:38-06:00",
+   "body": "Also if you get the idea \"Hey I'll attack him from this ledge so he can't get to me\" sometimes it doesn't happen and he'll only evade all the attacks but I've had a couple of times where he's come after me and dragged a good half of the Gnarlpine population with him which being that low level will be your end very fast. The best place for the charm to drop is near the entrance, its the small corridor just inside the den with all the shamans, just camp there and you have the charm in under 5 min",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-30T01:51:38-06:00",
+   "body": "i had the same problem because now i have a new druid and it worked for some reason...have... fun...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-25T01:51:38-05:00",
+   "body": "Does anyone know why Rageclaw won't die?&nbsp; I'm hitting him with everything I've got, but his life bar isn't moving.&nbsp; Is there something I'm not doing, or is it just a game glitch?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-30T01:51:38-06:00",
+   "body": "i dont get it i am new at druis so yea can someone help im lvl 10 but now im lvl 12:(",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-19T13:51:38-05:00",
+   "body": "i don't got the thing to do when he died",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-11-11T17:41:39-06:00",
+   "body": "By the time you get to this quest (meaning after getting the voodoo charm) it's easy as pie, and just an afterthought.  Rageclaw is an average level 10 at best, and doesn't run away like most of the other mobs in the den.  He's often in a crowded area, so if you don't have friends, be prepared to deal with more than one baddy.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-15T17:07:41-06:00",
+   "body": "can someone give me the coordinate?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-21T01:42:08-05:00",
+   "body": "I teamed up with a lvl 9 druid and my lvl 9 hunter made the quest easy as pie till we ran into a lvl 10 bear thing which didn't want to die",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-07T16:04:54-06:00",
+   "body": "ok,\ni almost finished the quest,\nused the charm on the fallen body,\nbut now what should i do?\ni cant find oben anymore.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-11-29T22:33:08-06:00",
+   "body": "Was that Rageclaw that kept attacking me in the circular area down deep and I kept killing him instead of using the Voodoo on him? doh.",
+   "replies": [
+    "yep. kill him then use the charm on him.  It won't let you complete the charm until he is dead."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-11T07:45:01-05:00",
+   "body": "Silly Quest Bugged Out On Me.. Joy",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-13T02:53:22-05:00",
+   "body": "I just killed Rageclaw....twice in fact. Tried to use the charm on him while he was both alive and dead and each time it failed. Not sure if the quest is temporarily broken or not...didn't have this problem before, but it sure is frustrating.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-16T12:06:57-05:00",
+   "body": "I killed him 3 times last night and it never let me use the claw on his body. I am going to try again tonight. I still have to find the 4 of the 3 items you are supposed to gather for the items of wakening quest, so going back in is not a complete waste.",
+   "replies": [
+    "M8, i had the same problem.\n\nI found that you have to select his body first (right click?), and then right-click the charm ...."
+   ]
+  }
+ ]
+}

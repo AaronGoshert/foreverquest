@@ -1,0 +1,96 @@
+{
+ "id": 98398,
+ "name": "The Oracle Tree",
+ "level": 12,
+ "reqlevel": 6,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 90,
+ "start": {
+  "type": "npc",
+  "id": 3519,
+  "name": "Sentinel Arynia Cloudsbreak",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    38.2,
+    34.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 673378,
+  "name": "Oracle Tree Bark",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    37,
+    34.1
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Find the Oracle Tree Bark nearby to receive its message.",
+ "objectives": [
+  {
+   "type": "object",
+   "id": 673378,
+   "name": "Oracle Tree Bark",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  937,
+  98392,
+  98398,
+  940,
+  952
+ ],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 3519,
+   "name": "Sentinel Arynia Cloudsbreak",
+   "coord": [
+    38.2,
+    34.4
+   ],
+   "coords": [
+    [
+     38.2,
+     34.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 2,
+   "id": 673378,
+   "name": "Oracle Tree Bark",
+   "coord": [
+    37,
+    34.1
+   ],
+   "coords": [
+    [
+     37,
+     34.1
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

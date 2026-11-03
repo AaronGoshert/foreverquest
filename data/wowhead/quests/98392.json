@@ -1,0 +1,233 @@
+{
+ "id": 98392,
+ "name": "Darkness in the Glade",
+ "level": 12,
+ "reqlevel": 6,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 910,
+ "start": {
+  "type": "npc",
+  "id": 3519,
+  "name": "Sentinel Arynia Cloudsbreak",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    38.2,
+    34.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3519,
+  "name": "Sentinel Arynia Cloudsbreak",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    38.2,
+    34.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect Hatescreech's Amulet , Windmistress Gaedress' Amulet , and Witchmother Arysa's Amulet for Sentinel Arynia Cloudsbreak in the Oracle Glade. Hatescreech's Amulet  ( 1 ) Windmistress Gaedress' Amulet  ( 1 ) Witchmother Arysa's Amulet  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 280831,
+   "name": "Hatescreech's Amulet",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 3519,
+   "name": "Sentinel Arynia Cloudsbreak",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 280832,
+   "name": "Windmistress Gaedress' Amulet",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 280834,
+   "name": "Witchmother Arysa's Amulet",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Hatescreech's Amulet",
+   "count": 1,
+   "type": "item",
+   "id": 280831
+  },
+  {
+   "text": "Windmistress Gaedress' Amulet",
+   "count": 1,
+   "type": "item",
+   "id": 280832
+  },
+  {
+   "text": "Witchmother Arysa's Amulet",
+   "count": 1,
+   "type": "item",
+   "id": 280834
+  }
+ ],
+ "series": [
+  937,
+  98392,
+  98398,
+  940,
+  952
+ ],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 3519,
+   "name": "Sentinel Arynia Cloudsbreak",
+   "coord": [
+    38.2,
+    34.4
+   ],
+   "coords": [
+    [
+     38.2,
+     34.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 3519,
+   "name": "Sentinel Arynia Cloudsbreak",
+   "coord": [
+    38.2,
+    34.4
+   ],
+   "coords": [
+    [
+     38.2,
+     34.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 272034,
+   "name": "Hatescreech",
+   "coord": [
+    35,
+    39.2
+   ],
+   "coords": [
+    [
+     35,
+     39.2
+    ],
+    [
+     35,
+     39.8
+    ],
+    [
+     35.2,
+     38.4
+    ],
+    [
+     35.6,
+     38.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 272044,
+   "name": "Windmistress Gaedress",
+   "coord": [
+    33.2,
+    36
+   ],
+   "coords": [
+    [
+     33.2,
+     36
+    ],
+    [
+     33.6,
+     35.4
+    ],
+    [
+     33.6,
+     35.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 272046,
+   "name": "Witchmother Arysa",
+   "coord": [
+    34.2,
+    27.9
+   ],
+   "coords": [
+    [
+     34,
+     27.4
+    ],
+    [
+     34.2,
+     27.9
+    ],
+    [
+     34.3,
+     28.9
+    ],
+    [
+     34.5,
+     28.4
+    ],
+    [
+     35,
+     28.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-06T18:28:45-05:00",
+   "body": "Ideally you start with [npc=272046], then [npc=272044] and finish with [npc=272034]. If you kill the mob in the middle first, you're going to be backtracking a lot.\r\n\r\n[ul][li][b]Arysa[/b] heals and casts Lightning Bolts. Save your interrupts for the heal.[/li]\r\n[li][b]Gaedress[/b] casts a 4 second stun, but it can be outranged by simply walking back a few steps.[/li]\r\n[li][b]Hatescreech[/b] uses a berserk-type ability increasing their attack speed by 20%. Burst them down at this stage.[/li][/ul]\r\n\r\nThe [object=6752] near Arysa only starts a [url=https://www.wowhead.com/forever/quest=931/the-shimmering-frond#map]quest[/url] if you've already finished [quest=918] and [quest=919].",
+   "replies": []
+  }
+ ]
+}

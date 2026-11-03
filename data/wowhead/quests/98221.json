@@ -1,0 +1,232 @@
+{
+ "id": 98221,
+ "name": "From the Ashes",
+ "level": 28,
+ "reqlevel": 23,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2300,
+ "start": {
+  "type": "npc",
+  "id": 2104,
+  "name": "Captain Stoutfist",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    9.8,
+    57.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2104,
+  "name": "Captain Stoutfist",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    9.8,
+    57.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Captain Stoutfist in Menethil Keep wants you to destroy the 4 sets of Attack Plans in the Angerfang Encampment.   Attack Plan: Menethil Harbor destroyed  ( 1 )   Attack Plan: Thelsamar destroyed  ( 1 )   Attack Plan: Southshore destroyed  ( 1 )   Attack Plan: Ironforge destroyed  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2104,
+   "name": "Captain Stoutfist",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "object",
+   "id": 671481,
+   "name": "Attack Plan: Menethil Harbor destroyed",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "object",
+   "id": 671486,
+   "name": "Attack Plan: Thelsamar destroyed",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "object",
+   "id": 671483,
+   "name": "Attack Plan: Southshore destroyed",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "object",
+   "id": 671487,
+   "name": "Attack Plan: Ironforge destroyed",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Attack Plan: Menethil Harbor destroyed",
+   "count": 1,
+   "type": "object",
+   "id": 671481
+  },
+  {
+   "text": "Attack Plan: Thelsamar destroyed",
+   "count": 1,
+   "type": "object",
+   "id": 671486
+  },
+  {
+   "text": "Attack Plan: Southshore destroyed",
+   "count": 1,
+   "type": "object",
+   "id": 671483
+  },
+  {
+   "text": "Attack Plan: Ironforge destroyed",
+   "count": 1,
+   "type": "object",
+   "id": 671487
+  }
+ ],
+ "series": [
+  473,
+  464,
+  465,
+  474
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 2104,
+   "name": "Captain Stoutfist",
+   "coord": [
+    9.8,
+    57.4
+   ],
+   "coords": [
+    [
+     9.8,
+     57.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 2104,
+   "name": "Captain Stoutfist",
+   "coord": [
+    9.8,
+    57.4
+   ],
+   "coords": [
+    [
+     9.8,
+     57.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "requirement",
+   "type": 2,
+   "id": 671481,
+   "name": "Attack Plan: Menethil Harbor",
+   "coord": [
+    45.4,
+    42.7
+   ],
+   "coords": [
+    [
+     45.4,
+     42.7
+    ],
+    [
+     45.5,
+     42.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "requirement",
+   "type": 2,
+   "id": 671483,
+   "name": "Attack Plan: Southshore",
+   "coord": [
+    45.5,
+    45.6
+   ],
+   "coords": [
+    [
+     45.3,
+     45.6
+    ],
+    [
+     45.5,
+     45.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "requirement",
+   "type": 2,
+   "id": 671486,
+   "name": "Attack Plan: Thelsamar",
+   "coord": [
+    49.3,
+    46.8
+   ],
+   "coords": [
+    [
+     49.3,
+     46.8
+    ],
+    [
+     49.5,
+     47
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "requirement",
+   "type": 2,
+   "id": 671487,
+   "name": "Attack Plan: Ironforge",
+   "coord": [
+    38.6,
+    46.2
+   ],
+   "coords": [
+    [
+     38.6,
+     46.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

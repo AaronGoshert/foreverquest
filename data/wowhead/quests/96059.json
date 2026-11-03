@@ -1,0 +1,161 @@
+{
+ "id": 96059,
+ "name": "Camping 101: Enchanting",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 11065,
+  "name": "Thonys Pillarstone",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    59,
+    45.2
+   ],
+   [
+    60.4,
+    44.4
+   ],
+   [
+    60.4,
+    45
+   ],
+   [
+    60.6,
+    44.4
+   ],
+   [
+    60.6,
+    44.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11065,
+  "name": "Thonys Pillarstone",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    59,
+    45.2
+   ],
+   [
+    60.4,
+    44.4
+   ],
+   [
+    60.4,
+    45
+   ],
+   [
+    60.6,
+    44.4
+   ],
+   [
+    60.6,
+    44.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Speak with Thonys Pillarstone in Ironforge to learn to craft a camping item for your profession once you have shown proficiency in your skill.   Raise your enchanting skill to 20  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 11065,
+   "name": "Thonys Pillarstone",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Raise your enchanting skill to 20",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 11065,
+   "name": "Thonys Pillarstone",
+   "coord": [
+    60.4,
+    45
+   ],
+   "coords": [
+    [
+     59,
+     45.2
+    ],
+    [
+     60.4,
+     44.4
+    ],
+    [
+     60.4,
+     45
+    ],
+    [
+     60.6,
+     44.4
+    ],
+    [
+     60.6,
+     44.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 11065,
+   "name": "Thonys Pillarstone",
+   "coord": [
+    60.4,
+    45
+   ],
+   "coords": [
+    [
+     59,
+     45.2
+    ],
+    [
+     60.4,
+     44.4
+    ],
+    [
+     60.4,
+     45
+    ],
+    [
+     60.6,
+     44.4
+    ],
+    [
+     60.6,
+     44.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

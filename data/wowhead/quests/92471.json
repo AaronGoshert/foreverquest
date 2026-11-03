@@ -1,0 +1,103 @@
+{
+ "id": 92471,
+ "name": "Aetheen of the Gales",
+ "level": 4,
+ "reqlevel": 4,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 35,
+ "start": {
+  "type": "npc",
+  "id": 251361,
+  "name": "Rorian the Dayseeker",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    42,
+    23.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251366,
+  "name": "Aetheen of the Gales",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    42.6,
+    23.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak with Aetheen of the Gales in Thendal Grove.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 251366,
+   "name": "Aetheen of the Gales",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  92464,
+  92465,
+  92469,
+  92470,
+  92472
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 251361,
+   "name": "Rorian the Dayseeker",
+   "coord": [
+    42,
+    23.4
+   ],
+   "coords": [
+    [
+     42,
+     23.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251366,
+   "name": "Aetheen of the Gales",
+   "coord": [
+    42.6,
+    23.6
+   ],
+   "coords": [
+    [
+     42.6,
+     23.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-21T03:59:31-05:00",
+   "body": "Simple introduction to new NPC.",
+   "replies": []
+  }
+ ]
+}

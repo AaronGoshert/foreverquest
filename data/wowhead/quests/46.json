@@ -1,0 +1,690 @@
+{
+ "id": 46,
+ "name": "Bounty on Murlocs",
+ "level": 10,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 840,
+ "start": {
+  "type": "npc",
+  "id": 261,
+  "name": "Guard Thomas",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    74,
+    72.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 261,
+  "name": "Guard Thomas",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    74,
+    72.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 8 Torn Murloc Fins to Guard Thomas at the east Elwynn bridge. Torn Murloc Fin  ( 8 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 780,
+   "name": "Torn Murloc Fins",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Torn Murloc Fin",
+   "count": 8,
+   "type": "item",
+   "id": 780
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 261,
+   "name": "Guard Thomas",
+   "coord": [
+    74,
+    72.2
+   ],
+   "coords": [
+    [
+     74,
+     72.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 261,
+   "name": "Guard Thomas",
+   "coord": [
+    74,
+    72.2
+   ],
+   "coords": [
+    [
+     74,
+     72.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 46,
+   "name": "Murloc Forager",
+   "coord": [
+    79.8,
+    55.6
+   ],
+   "coords": [
+    [
+     75.2,
+     86
+    ],
+    [
+     75.7,
+     86.5
+    ],
+    [
+     76.2,
+     84.4
+    ],
+    [
+     76.2,
+     84.6
+    ],
+    [
+     76.4,
+     59.2
+    ],
+    [
+     76.4,
+     86.2
+    ],
+    [
+     76.7,
+     82.9
+    ],
+    [
+     77,
+     86
+    ],
+    [
+     77.2,
+     84.6
+    ],
+    [
+     78,
+     57.4
+    ],
+    [
+     78.2,
+     59.8
+    ],
+    [
+     78.9,
+     59.1
+    ],
+    [
+     79.2,
+     57.4
+    ],
+    [
+     79.2,
+     58.2
+    ],
+    [
+     79.4,
+     53.8
+    ],
+    [
+     79.4,
+     55.2
+    ],
+    [
+     79.4,
+     55.6
+    ],
+    [
+     79.5,
+     58.7
+    ],
+    [
+     79.7,
+     57.7
+    ],
+    [
+     79.8,
+     55.4
+    ],
+    [
+     79.8,
+     55.6
+    ],
+    [
+     80,
+     50.4
+    ],
+    [
+     80,
+     53.8
+    ],
+    [
+     80,
+     56.6
+    ],
+    [
+     80.6,
+     55.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 732,
+   "name": "Murloc Lurker",
+   "coord": [
+    79.8,
+    55.6
+   ],
+   "coords": [
+    [
+     75.4,
+     58.1
+    ],
+    [
+     75.8,
+     59.6
+    ],
+    [
+     75.8,
+     83.2
+    ],
+    [
+     75.8,
+     83.6
+    ],
+    [
+     76.2,
+     79.6
+    ],
+    [
+     76.4,
+     59.2
+    ],
+    [
+     76.4,
+     79.4
+    ],
+    [
+     76.4,
+     82
+    ],
+    [
+     76.4,
+     85.2
+    ],
+    [
+     76.4,
+     86.2
+    ],
+    [
+     76.6,
+     79.2
+    ],
+    [
+     76.8,
+     82.6
+    ],
+    [
+     77,
+     58.6
+    ],
+    [
+     77,
+     84
+    ],
+    [
+     77.1,
+     86.7
+    ],
+    [
+     77.2,
+     81.4
+    ],
+    [
+     77.2,
+     84.8
+    ],
+    [
+     77.2,
+     85.8
+    ],
+    [
+     77.4,
+     58
+    ],
+    [
+     77.4,
+     81.8
+    ],
+    [
+     77.6,
+     81
+    ],
+    [
+     77.8,
+     56.4
+    ],
+    [
+     78,
+     57.4
+    ],
+    [
+     78.2,
+     57.8
+    ],
+    [
+     78.2,
+     58.6
+    ],
+    [
+     78.2,
+     59.6
+    ],
+    [
+     78.2,
+     83.6
+    ],
+    [
+     78.3,
+     82.3
+    ],
+    [
+     78.4,
+     83.4
+    ],
+    [
+     78.5,
+     83.4
+    ],
+    [
+     78.6,
+     80.6
+    ],
+    [
+     79,
+     58.6
+    ],
+    [
+     79.1,
+     54.5
+    ],
+    [
+     79.2,
+     54.2
+    ],
+    [
+     79.2,
+     57.2
+    ],
+    [
+     79.2,
+     58.2
+    ],
+    [
+     79.4,
+     55.6
+    ],
+    [
+     79.6,
+     58.2
+    ],
+    [
+     79.8,
+     55.4
+    ],
+    [
+     79.8,
+     55.6
+    ],
+    [
+     80,
+     53.4
+    ],
+    [
+     80,
+     53.8
+    ],
+    [
+     80.2,
+     56.6
+    ],
+    [
+     80.6,
+     55.4
+    ],
+    [
+     80.6,
+     56
+    ],
+    [
+     80.6,
+     56.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 202060,
+   "name": "Frozen Murloc",
+   "coord": [
+    77,
+    51.8
+   ],
+   "coords": [
+    [
+     76.8,
+     51.4
+    ],
+    [
+     77,
+     51.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 248278,
+   "name": "Croaky",
+   "coord": [
+    76.4,
+    86
+   ],
+   "coords": [
+    [
+     75.5,
+     85.4
+    ],
+    [
+     76.4,
+     86
+    ],
+    [
+     76.5,
+     85.1
+    ],
+    [
+     76.5,
+     86
+    ],
+    [
+     76.6,
+     87.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 276180,
+   "name": "Elder Finseer",
+   "coord": [
+    80.2,
+    55.7
+   ],
+   "coords": [
+    [
+     76.6,
+     59.2
+    ],
+    [
+     76.6,
+     59.6
+    ],
+    [
+     77.2,
+     58.4
+    ],
+    [
+     77.8,
+     55.6
+    ],
+    [
+     78.2,
+     44.4
+    ],
+    [
+     78.2,
+     57
+    ],
+    [
+     78.2,
+     58
+    ],
+    [
+     78.4,
+     54.4
+    ],
+    [
+     78.6,
+     49.6
+    ],
+    [
+     78.6,
+     56.2
+    ],
+    [
+     78.6,
+     58
+    ],
+    [
+     78.8,
+     44.8
+    ],
+    [
+     78.8,
+     57
+    ],
+    [
+     79,
+     46.6
+    ],
+    [
+     79,
+     58.6
+    ],
+    [
+     79.2,
+     50.8
+    ],
+    [
+     79.2,
+     52.2
+    ],
+    [
+     79.2,
+     53
+    ],
+    [
+     79.2,
+     54.6
+    ],
+    [
+     79.4,
+     47.8
+    ],
+    [
+     79.4,
+     49.2
+    ],
+    [
+     79.4,
+     54
+    ],
+    [
+     79.6,
+     46.8
+    ],
+    [
+     79.8,
+     54
+    ],
+    [
+     80,
+     48.4
+    ],
+    [
+     80,
+     52.8
+    ],
+    [
+     80.2,
+     49.2
+    ],
+    [
+     80.2,
+     55.7
+    ],
+    [
+     80.3,
+     55.2
+    ],
+    [
+     80.6,
+     55.6
+    ],
+    [
+     81.1,
+     55.1
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 30,
+   "date": "2005-04-16T21:45:53-05:00",
+   "body": "I *think* the pre-req for this quest is Deliver Thomas' Report.",
+   "replies": []
+  },
+  {
+   "rating": 23,
+   "date": "2006-12-13T07:13:01-06:00",
+   "body": "The murlocs are located upstream the river and to the northeast.  They are easily spotted by their island-style huts, and the fins don't take too long to drop but the murlocs are very difficult to face alone at level 10.  Tough quest imho.",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2020-06-28T21:24:49-05:00",
+   "body": "Though not noted in the quest hierarchy/dependencies, this quest is not available from Guard Thomas until you have [url=https://www.wowhead.com/forever/quest=39/deliver-thomas-report]delivered his report[/url] to Marshal Dughan.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2006-06-29T15:39:24-05:00",
+   "body": "Locs: 80,56...79,49 and therabouts.\n\nThe droprates on them are awful. Took quite some time to get the quest finished, but they -do- drop. Slowly.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-17T03:39:24-05:00",
+   "body": "tloc: 80,47",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-06-29T15:39:24-05:00",
+   "body": "when i fight the murlocs the stuff dosnt drop?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-29T17:51:59-05:00",
+   "body": "77,59 will find a lot",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-06T18:08:52-05:00",
+   "body": "possibly the most frustrating quest in the first zone.\n\ndrop rate is about 20%, which means you need to kill forty Murlocs.  the Murlocs are in two areas, one on the west side of the lake and one along the shorline between the pumpkin patch and the landing.  the former is truly awful because the Murlocs are easily aggrod in groups of two, and there is a lot of competition.  so i suggest the shoreline (fewer murlocs but they are not in groups and basically zero competition).\n\nbut most importantly, i suggest skipping this quest altogether.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-17T08:59:43-05:00",
+   "body": "took me all of 10minutes to do, and i'm only a lv 15 mage.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-06-01T03:27:26-05:00",
+   "body": "This quest took a while for me because the fins hardly ever dropped.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2006-12-27T18:19:52-06:00",
+   "body": "This quest rewards 250 Stormwind reputation as of patch 2.01",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2019-10-23T10:30:13-05:00",
+   "body": "Hi all\r\n\r\nOn This Quest you need to drop 8 [item=780] It is drop from Murlocs I farm it at 77 86.\r\n\r\nSee My Video if need it - https://youtu.be/FftuZsQUl3g\r\n\r\nHope that help You  :).",
+   "replies": []
+  },
+  {
+   "rating": -7,
+   "date": "2005-12-16T11:38:37-06:00",
+   "body": "It seems I can't get the quest as a Night Elf. Perhaps it's a human only quest.",
+   "replies": [
+    "indeed, you have to complete the Deliver Thomas' report' first in order to obtain thhis quest."
+   ]
+  },
+  {
+   "rating": -8,
+   "date": "2019-12-03T00:47:56-06:00",
+   "body": "As of today, the drop rate on these fins are STILL woeful....after 16 years jeeez",
+   "replies": []
+  }
+ ]
+}

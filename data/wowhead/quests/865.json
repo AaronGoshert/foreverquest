@@ -1,0 +1,537 @@
+{
+ "id": 865,
+ "name": "Raptor Horns",
+ "level": 18,
+ "reqlevel": 13,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1350,
+ "start": {
+  "type": "npc",
+  "id": 3446,
+  "name": "Mebok Mizzyrix",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62.4,
+    37.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3446,
+  "name": "Mebok Mizzyrix",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62.4,
+    37.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Gather 5 Intact Raptor Horns from Sunscale Scytheclaws, and bring them to Mebok Mizzyrix in Ratchet. Intact Raptor Horn  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5055,
+   "name": "Intact Raptor Horns",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Intact Raptor Horn",
+   "count": 5,
+   "type": "item",
+   "id": 5055
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 3446,
+   "name": "Mebok Mizzyrix",
+   "coord": [
+    62.4,
+    37.6
+   ],
+   "coords": [
+    [
+     62.4,
+     37.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 3446,
+   "name": "Mebok Mizzyrix",
+   "coord": [
+    62.4,
+    37.6
+   ],
+   "coords": [
+    [
+     62.4,
+     37.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 3256,
+   "name": "Sunscale Scytheclaw",
+   "coord": [
+    57.6,
+    53.8
+   ],
+   "coords": [
+    [
+     25.8,
+     23.8
+    ],
+    [
+     43.4,
+     15.2
+    ],
+    [
+     44.2,
+     14.8
+    ],
+    [
+     44.4,
+     14
+    ],
+    [
+     52,
+     46.4
+    ],
+    [
+     52.2,
+     46.6
+    ],
+    [
+     52.6,
+     46
+    ],
+    [
+     52.6,
+     46.6
+    ],
+    [
+     57,
+     51.4
+    ],
+    [
+     57,
+     52.8
+    ],
+    [
+     57.2,
+     52
+    ],
+    [
+     57.4,
+     53.6
+    ],
+    [
+     57.6,
+     53.8
+    ],
+    [
+     57.8,
+     53.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 3257,
+   "name": "Ishamuhale",
+   "coord": [
+    59.8,
+    30.4
+   ],
+   "coords": [
+    [
+     59.8,
+     30.4
+    ],
+    [
+     59.8,
+     30.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 5842,
+   "name": "Takk the Leaper",
+   "coord": [
+    59.8,
+    8
+   ],
+   "coords": [
+    [
+     56.8,
+     9.4
+    ],
+    [
+     57,
+     5.6
+    ],
+    [
+     57.4,
+     6.8
+    ],
+    [
+     58.2,
+     6.4
+    ],
+    [
+     58.2,
+     7.4
+    ],
+    [
+     58.2,
+     7.6
+    ],
+    [
+     58.6,
+     8.6
+    ],
+    [
+     58.8,
+     6
+    ],
+    [
+     59.2,
+     7.2
+    ],
+    [
+     59.4,
+     7.8
+    ],
+    [
+     59.6,
+     7.4
+    ],
+    [
+     59.8,
+     8
+    ],
+    [
+     60.4,
+     9.4
+    ],
+    [
+     60.4,
+     9.6
+    ],
+    [
+     60.4,
+     10.6
+    ],
+    [
+     60.4,
+     12.4
+    ],
+    [
+     60.4,
+     13.4
+    ],
+    [
+     60.6,
+     7.4
+    ],
+    [
+     60.6,
+     7.8
+    ],
+    [
+     60.6,
+     9.4
+    ],
+    [
+     60.6,
+     9.6
+    ],
+    [
+     60.6,
+     15.6
+    ],
+    [
+     60.8,
+     12.4
+    ],
+    [
+     60.8,
+     13.4
+    ],
+    [
+     60.8,
+     13.6
+    ],
+    [
+     61,
+     15.4
+    ],
+    [
+     61.2,
+     10.6
+    ],
+    [
+     61.6,
+     7.4
+    ],
+    [
+     61.6,
+     13.4
+    ],
+    [
+     62.6,
+     10.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 54,
+   "date": "2005-10-08T09:09:58-05:00",
+   "body": "57,52 has more than you need.",
+   "replies": [
+    "only got 1/5 clearing out that area"
+   ]
+  },
+  {
+   "rating": 16,
+   "date": "2006-01-25T21:09:58-06:00",
+   "body": "Theres a little cave like place south of ratchet and north east of northwatch hold called \"raptor grounds\". Tons of scytheclaws there. coords are 57,52.",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2006-01-25T21:09:58-06:00",
+   "body": "The droprate is stupidly low",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2005-10-08T09:09:58-05:00",
+   "body": "I was found at 52.47 52,46",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-10-08T09:09:58-05:00",
+   "body": "57,53 is the BEST spot. Raptors everywhere, I spent about 10 minutes total on this quest",
+   "replies": [
+    "hello,\nits our first time playing WOW. we are getting the hang of it, but we cant understand how to read the numbers on the map. Like 57,52 or some numbers where you find the raptors. Is that like latitude and longitude? Please teach me how to read those...thanks!"
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2019-06-21T14:11:36-05:00",
+   "body": "This quest is available to both Alliance and Horde characters.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2021-03-08T11:13:26-06:00",
+   "body": "[ins][b]This is the worst quest in World of Warcraft classic.[/b][/ins]",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2019-09-01T13:30:22-05:00",
+   "body": "Best spot I've found is on 52,46. There are many raptors around some bones.",
+   "replies": [
+    "Aye. I've run all over the Barrens and this seems to be the best location for spawns."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-08T09:09:58-05:00",
+   "body": "Mebok Mizzyrix is Goblin NPC in Ratchet between 2 houses to the left of the bank. \n\nI'm not all that interested in Raptor Horns but the next quest, Smart Drinks, takes place in Wailing Caverns. Might as well get all the quest you can before you go into a large instance.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-04-08T21:09:58-05:00",
+   "body": "I did this quest wile doing The Stolen Silver quest\nhttps://www.wowhead.com/forever/quest=3281/stolen-silver\n\nDroprate rules, there are loads of raptors, and they spawn really fast.\n\nhope this helps\n\n(look for the link for the coords)",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2019-12-22T18:55:52-06:00",
+   "body": "There is an area called \"Raptor Grounds\" near Northwatch Hold. Coords: 57, 53\r\nMany many raptors in close proximity. Great if you have a whole group.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-04-08T21:09:58-05:00",
+   "body": "This took me a while because I had a very poor drop rate, even when I logged out, then back in.&nbsp; I think I had to kill 10 raptors for each horn that I harvested.\n\nTo find the raptors, follow the Gold Road south out of Crossroads.&nbsp; The raptors will be on the East side of the road.&nbsp; They are mostly found at a distance of about 1/2 to 2/3 of the way south, towards the road junction where you can turn west to Camp Taurajo.\n\nEventually, you will come to a 'Wash' which has a bridge on it, where the gold road crosses it.&nbsp; I think this is the first bridge south of Crossroads, but by the time you reach the bridge, you will already have been passing raptors on the east side of the road, for a little while.&nbsp; There are also raptors around the bridge.\n\nJust a bit before you reach the bridge, there is a 'wash' or chasm that heads east towards Northwatch Hold.&nbsp; If you follow this path east, you will eventually come to a place called 'Raptor Grounds,' located about half way towards Northwatch Hold.&nbsp; You should also be able to find a lot of the Sunscale Scytheclaw Raptors there.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-05-15T09:09:58-05:00",
+   "body": "The raptors are at 58,54\nYou can do Stolen Silver when you are in the Raptor Grounds. Its Protected by 3 Raptors at the same cords.\nDid it with me level 22 Warlock so it&nbsp; was easy;)\n\nGood Luck\n\nBY Demnok. Magtheridon",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-05-10T03:35:38-05:00",
+   "body": "He's in Ratchet, next to the BANK. It's not an auction house. He's on the left if you're looking at it.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-09T01:58:51-05:00",
+   "body": "Just did this quest on my 18 Warlock. It's so easy and the drop rate is good. I killed 6 Raptors and got 5 horns. Didn't even have to goto Raptor grounds either, just went a little south of Thorn Hill and there were plenty of Scytheclaws.\n\n\nBapupa\n\n[i][small]Edited, Apr  9th 2007  5:17am by Bapupa[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-12-20T09:09:58-06:00",
+   "body": "Wait until you get the quest entitled the angry scytheclaws from Segra Darkthorn in XR, you can do this and that at the same time",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-15T09:09:58-05:00",
+   "body": "DAMN\n\ndroprate suck...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-08T09:09:58-05:00",
+   "body": "have look evrywere cant find it,please sombody tell me!",
+   "replies": [
+    "you can find alot of raptors for this quest i n raptor grounds"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-15T09:09:58-05:00",
+   "body": "Not Low drop for me kill 2 and i have one ..15 min done . happy hunting .",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-01T21:09:58-05:00",
+   "body": "There are some raptors atthe borders between ashenvale and The Barrens or to be more precise 47,12",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-08T09:09:58-05:00",
+   "body": "at 49:48 southern barrnens&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-03T09:09:58-06:00",
+   "body": "57,51 by far the best place to find the horns...the place is called Raptor Grounds...that should tell you something =P",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-08T21:09:58-05:00",
+   "body": "i did it solo as a lvl 16 warrior easy easy easy",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-14T07:13:05-06:00",
+   "body": "There is a very nice spawn of raptors at 52,46. Or you could just head off to the raptor grounds :-)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-16T07:21:30-05:00",
+   "body": "at coords 51,46.  There is a mound with those dinos all over the place where they are protecting their eggs.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-08T19:34:45-05:00",
+   "body": "Does ratchet have a bank like Orgrimmar?\n\nContevita scholar says: He's in Ratchet next to the bank \n--\nWanted to know if ratchet has a bank =)",
+   "replies": [
+    "yes, it has a personal bank."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-18T13:47:33-05:00",
+   "body": "57,52 the exact spot for the Raptor Grounds discovery, for me atleast.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-18T22:25:45-05:00",
+   "body": "I went to the raptor grounds and found all the horns i needed for me AND another person with no problem. This quest is cake.\n\nBokashi - Blackrock - Lv. 18 Orc Warrior",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-14T15:55:41-05:00",
+   "body": "The droprate's rough, but there's a large nest of 58.0, 53.3 that's dense with them - a lot better than a lot of the other areas marked on the map where they can potentially spawn. If you're playing on Horde, you can do the [url=https://www.wowhead.com/forever/quest=3281/stolen-silver]Stolen Silver[/url] quest to get the objective while you're at it.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2004-07-26T22:19:17-05:00",
+   "body": "Does anyone remember if Mebok Mizzyrix is in the Barrens or in Ratchet? I've looked in both areas and can't find him to complete my quest. Anyone have any idea?",
+   "replies": [
+    "Ratchet",
+    "He's in Ratchet next to the bank.\n---------\nYou gain 1350 experience.\nYour reputaion with Ratchet has increased.\n"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2007-03-03T09:09:58-06:00",
+   "body": "This quest is easy! Goto 57,53 then hunt like a frenzy! Solo as a lvl 18 hunter.. Piece of @#$%!",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-04-08T21:09:58-05:00",
+   "body": "you know how if you kill something too much lower level thatn you you get no loot?well i get nothing from raptors so how can i do the quest?",
+   "replies": []
+  },
+  {
+   "rating": -12,
+   "date": "2004-12-28T21:55:49-06:00",
+   "body": "where can i find these raptors?",
+   "replies": [
+    "Heading south from Crossroads, towards camp T, you will encounter a bridge over a ravine.  To the left along the ravine you will find the raptors for the quest.  In addition, the birds in that area drop items for another quest.. tho i can't remember which one - but if you have both its nice, because the birds will agro anyway while hunting raptors :)\n\n"
+   ]
+  }
+ ]
+}

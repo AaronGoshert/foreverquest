@@ -1,0 +1,886 @@
+{
+ "id": 896,
+ "name": "Miner's Fortune",
+ "level": 18,
+ "reqlevel": 13,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1700,
+ "start": {
+  "type": "npc",
+  "id": 3453,
+  "name": "Wharfmaster Dizzywig",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    63.2,
+    38.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3453,
+  "name": "Wharfmaster Dizzywig",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    63.2,
+    38.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Retrieve the Cats Eye Emerald from one of the Venture Co. Overseers or Enforcers for Wharfmaster Dizzywig at Ratchet. Cats Eye Emerald  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5097,
+   "name": "Cats Eye Emerald",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Cats Eye Emerald",
+   "count": 1,
+   "type": "item",
+   "id": 5097
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 3453,
+   "name": "Wharfmaster Dizzywig",
+   "coord": [
+    63.2,
+    38.4
+   ],
+   "coords": [
+    [
+     63.2,
+     38.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 3453,
+   "name": "Wharfmaster Dizzywig",
+   "coord": [
+    63.2,
+    38.4
+   ],
+   "coords": [
+    [
+     63.2,
+     38.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 3283,
+   "name": "Venture Co. Enforcer",
+   "coord": [
+    60.8,
+    3.8
+   ],
+   "coords": [
+    [
+     25.8,
+     23.8
+    ],
+    [
+     60,
+     3.2
+    ],
+    [
+     60.4,
+     3.8
+    ],
+    [
+     60.8,
+     3.8
+    ],
+    [
+     61.2,
+     5
+    ],
+    [
+     61.3,
+     3.4
+    ],
+    [
+     61.4,
+     5.6
+    ],
+    [
+     61.8,
+     3.8
+    ],
+    [
+     61.8,
+     5.6
+    ],
+    [
+     62,
+     3.4
+    ],
+    [
+     62,
+     4.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 3286,
+   "name": "Venture Co. Overseer",
+   "coord": [
+    60.6,
+    3.8
+   ],
+   "coords": [
+    [
+     60,
+     3.2
+    ],
+    [
+     60.4,
+     3.8
+    ],
+    [
+     60.6,
+     3.8
+    ],
+    [
+     61.4,
+     5
+    ],
+    [
+     61.4,
+     5.6
+    ],
+    [
+     61.6,
+     3.4
+    ],
+    [
+     61.6,
+     4.8
+    ],
+    [
+     61.8,
+     3.8
+    ],
+    [
+     61.8,
+     5.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 9336,
+   "name": "Boss Copperplug",
+   "coord": [
+    60,
+    4
+   ],
+   "coords": [
+    [
+     59.8,
+     3.4
+    ],
+    [
+     60,
+     4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 47,
+   "date": "2006-10-11T13:24:14-05:00",
+   "body": "The mine entrance is at 60, 3 in the far Northeast corner of the Barrens. The Enforcers and Overseers are in the mine, but also all around the area outside the mine.\r\n\r\nOnly had to kill half a dozen of them or so before the emerald dropped.\r\n\r\nThe reward is some money as well as a 6 slot bag.",
+   "replies": [
+    "Make sure you have completed The Samophlange series quests: (https://www.wowhead.com/forever/search=samophlange#z0zc) up to Samophlange Manual (https://www.wowhead.com/forever/quest=3924) before you start to wipe out the Venture Co. employees for the Emerald... :-)",
+    "co-ords are spot on lol, the drop rate is awefull!, i have killed about 42 mobs (with a freind on FFA looting) and no emerald... we dinged tho so thats a good thing hehe"
+   ]
+  },
+  {
+   "rating": 34,
+   "date": "2005-09-26T20:25:27-05:00",
+   "body": "Let me stress (for I even was stupid enough) that the emerlad can be found at [b]Boulder Lode Mine[/b] and [b]NOT Sludge Fen[/b]. Boulder Lode Mine can be found [b]North East[/b] of Sludge Fen!",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2005-09-26T20:25:27-05:00",
+   "body": "In Durotar, head to 61,5. Simple as that. Kill the Overseers in that area. Yes, it can take forever to get the Gem but it [i]will[/i] drop. I got it five minutes into killing the Overseers. I got it from the Overseer on the stairs of the first big building on the right when you arrive at 61,5.\n\nDon't listen to those who say you can only get it from such and such enemy--it drops from any Overseer. Stick near the entrance if you don't want to wander far into the area.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2005-09-26T20:25:27-05:00",
+   "body": "click on \"cats eye emerald\" and it'll show you the mobs > click on \"map\" next to the mobs names.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-09-26T20:25:27-05:00",
+   "body": "off a green troll at 62,4 on the cliff.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-01-14T08:25:27-06:00",
+   "body": "the first character i ran this quest on, i got the emerald in about 5 or 10 minutes. this time around, i've spent about an hour killing people around the mine and have yet to get the emerald to drop. seems like the drop rate fluctuates here... some people get it almost instantaneously, some people have to work their asses off.\n\noh well, as a previous poster said, the xp is beneficial. i'm soloing it as a lvl 14 mage (heavily buffed through spells and alchemy), so the lvl 18 overseers can cause me some difficulty.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2004-07-13T16:25:28-05:00",
+   "body": "Head straight out the Orgimar Back door (covered bridge leading over the river to the barrens)and up the hill.  YOu will see what looks like a ruined orc watchtower.  This is a Venture Co. mining camp with nothing but Overseers and Enforcers walking arround.  Two of us killed 5 and got 2 Cats Eye Emerald drops.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-01-14T08:25:27-06:00",
+   "body": "It's a random drop with small odds.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-09-26T20:25:27-05:00",
+   "body": "Just my 2 cents.. and I don't mind hitting it for the XP.. keeps high level guys from comming down and camping.. but this is a low drop rate.. I probably killed 150 and no drop so far.. and a couple of us went through the mine.,.. we found no boss.. just a GOD AWFUL respawn of reds spaced close together.. if you die in there, ya may as well just rez.. rez'ing at your body in the mine is suicide..&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2019-09-25T13:22:27-05:00",
+   "body": "Just cleared it. Had to kill 94 mobs before it dropped... :S",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-09-26T20:25:27-05:00",
+   "body": "i picked up emerald off of venture co. overseer...inside cave at loc 60,4",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-15T19:31:44-05:00",
+   "body": "got it from lvl 17 dwarf miner",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-03-08T15:34:35-06:00",
+   "body": "This is available to Alliance as well.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-09-26T20:25:27-05:00",
+   "body": "i went to 61,5, killed the first guy i saw, and he dropped it.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-09-26T20:25:27-05:00",
+   "body": "I killed about 6/7 mobs, it's nice to go into the gave, there is a chest, coords are correct.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-01-14T08:25:27-06:00",
+   "body": "Took a whole barrel of kills for me to get it. Not that bothered - the XP was beneficial. I received 15 silver, 95 copper. I had enough bags, so sold the six slot container (or old moneybag) for 2 silver 50 to a nearby trader.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-02-19T20:25:27-06:00",
+   "body": "4 kills at 61.4",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-03-28T08:25:27-06:00",
+   "body": "I got it from one of the overseers - about the 5th or 6th kill.&nbsp; Lucky me. :D",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-03-28T08:25:27-06:00",
+   "body": "I was killing for about 3 qtr's pf an hr and i finally got the emerald, you dont have to go inside the cave as i first thought,\nhappy killing.\namadeo lvl 17 rogue",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-06-09T08:25:27-05:00",
+   "body": "Listen, ANY overseer has the emerald, i found mine at the broken tower, and a friend just arrived after me and he killed a overseer on the ground and ALSO got the emerald",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-07-15T20:25:27-05:00",
+   "body": "this may be a pain in the ass but you get a decent ammount of money for it! pluss if you're lucky you can do one of the thingimagig manual quest at the same time. (you know what i mean the thing begining with S. i'm not even gonna try and spell it)\n\n15 silver. not too shabby",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-07-15T20:25:27-05:00",
+   "body": "not that hard, just go around the backside, first one i killed dropped it.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-08-21T08:25:27-05:00",
+   "body": "all u gotta do is go NE of sledge fen, i got it off my third kill, u gotta be killing the lvl 17s+",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-01-14T08:25:27-06:00",
+   "body": "It's as far NE as you can go.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-04-03T15:08:39-05:00",
+   "body": "61, 5 These can drop off enforcers also, i spent about 30 mins just killing overseers. nice xp though",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-04-02T08:53:14-06:00",
+   "body": "Some 33 Warrior was killing them all in the area, 1st one I saw was a goblin on the steps of the house....dropped it. Was done in 30 seconds hehe.\n\n*Edit: Also in my bag of coins was a 6-slot bag called old moneybag.\n\nEdited, Sat Apr  2 02:56:34 2005",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-05-27T05:34:52-05:00",
+   "body": "Well I cleaned out the mine twice and then upon exiting, I found a bearded gnome who kindly dropped the emerald for me - I took out 40+ of these guys to find the right one. The consensus is that the dropper will be outside.",
+   "replies": [
+    "Given the siginificant number people who posted before you saying they got inside the mine, what posseses you to think that the consensus is that it will only drop outside?\n\nFor some reason, I have to wonder if you actually know what a consesus is..",
+    "Please ignore Zyphr.  The alla forums sometimes go top to bottom and sometimes go b9ottom to top.  In this case the top of the forum is newer than the bottom and the thus the poster whom Zypher was critiquing posted before anyone posted about getthing the jewel inside the mine."
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2019-10-10T14:43:12-05:00",
+   "body": "At lower levels this is an annoying one, especially if you go alone: corpse run is 2200 yards and ressing inside is a pain because it's very crowded there and respawns are fast.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-06-06T21:31:56-05:00",
+   "body": "Like most Barrens quests that begin in Ratchet, this quest can also be done by the Alliance.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2021-06-09T15:27:30-05:00",
+   "body": "Took about 15 minutes",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-14T08:25:27-06:00",
+   "body": "i did this quest as a lvl 33 mage, just to discover this map. ran in, agroed 7 of them, frost nova'd, used AOE's till they were dead. 1 dropped it. easy!&nbsp; no XP from kills, but meh. i discovered the map. =P\n\n170 xp gained from completion. hahaha",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-03T07:48:10-05:00",
+   "body": "killed about 30 or so enforcers and overseers. i didn't bother to enter the mine. just kept on slaugthering the mobs. \n\nthe quest took longer than expected but i did get alot of wool cloth and a nice 2H sword.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-03T03:59:39-05:00",
+   "body": "Well that's odd... you get 15s from this... and that's 50% of a GIANT EMERALD'S total value of about 30s?\n\nThat guy ripped all of us OFF!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-28T10:41:56-06:00",
+   "body": "Havn't see any coords.. so. if anyone get there ... use that macro and get the coords. \n\n /script local px, py= GetPlayerMapPosition( \"player\" ) DEFAULT_CHAT_FRAME:AddMessage(string.format( \"(%s, %s) %s\", floor(px * 100 + 0.5), floor(py * 100 + 0.5), GetZoneText() ))",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-11-30T04:18:04-06:00",
+   "body": "I cleared the entire place out 3 times, no emerald. I figured oit was bugged and as I was leaving I had to kill the last one to get out. He's the one who dropped it. Go figure.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-13T22:55:31-06:00",
+   "body": "So does the cat's eye emerald only drop from mobs in the actual mine or does it possibly drop from mobs arond the lake area?",
+   "replies": [
+    "I've killed dozens around the polluted lake with a derrick area, with no stone ; the fourth kill around the mine in the mountains produced a stone. D'oh. "
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-11T17:44:59-05:00",
+   "body": "Got mine off one of the little green goblin dudes at the entrance.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-15T12:43:32-06:00",
+   "body": "But where is ?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-24T16:55:28-06:00",
+   "body": "Had to kill about 18 of them before one of them dropped it.  I had to go into the mines",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-11-26T22:52:58-06:00",
+   "body": "killed 2 and got it on the second\n\n16 Dwarf Priest",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-31T12:21:13-06:00",
+   "body": "I cleared out every single overseer in the area- nothing.  Decided to go into the mine then cause everyone posted the emerald dropped outside, but that didn't work for me.  Kill the first ENFORCER just inside of the cave and wamo! got it.  Don't just kill overseers cause it could come from one of the enforcers too.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-22T07:51:55-05:00",
+   "body": "This has got to be one of the worst quests i've ever come in contact with on both the horde and alliance side. Not only have I gained 10 bubbles of exp from the guys around this area(and i'm level 19)but i've died countless times from retarded agro and still haven't gotten the emerald to drop once. I highly advise skipping this quest unless you have a lot of time on your hands.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-07T20:27:05-06:00",
+   "body": "I estimate we killed about 40 mobs before the gem dropped i was in the mine when it finally dropped.  there is also two veins in there for you mining folks as well.  Like the quest info said its just a rare drop.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-13T19:10:08-05:00",
+   "body": "At the cordinates 61.5. is the mine and once you get there you dont have to go in it just search for goblin that is lvl 18 and kill it he will drop the emerald and you are done without dieing.I did it my self beein lvl 17 warrior.\nLoredan/Azaziel",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-21T20:29:47-05:00",
+   "body": "yeah this was easy, the coordinates where on for the mine area, and I only had to kill 4 little goblin guys, a lvl 18 dropped it outside the mine. Maybe won't be the same exactly, but he was around the left edge of the area when you approach from the road by the tower. \n--level 19 warlock, solo'd\n\nEdited, Wed Sep 21 16:45:29 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-27T07:20:52-05:00",
+   "body": "well not sure from you but i got it on my 4th kill so :3\n\nand anyways you kill them and you gain exp money and items sametime so whats so bad if it wont drop right away,you still keep getting money and items :P",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-23T01:53:32-05:00",
+   "body": "I had to kill roughly 15-20 of them before it dropped.\nI got mine off a Venture Co. Enforcer\nOut of the front of the mine on the left side of the path as your coming in.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-11T09:41:14-06:00",
+   "body": "Walked up the hill killed the first guy and BANG, got the cats eye. im guess im lucky?",
+   "replies": [
+    "It was easy for me.  Killed three Overseers and picked up the emerald at the top of the tower just outside the mine."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-03T11:53:20-05:00",
+   "body": "solo'd with lvl 15 rogue.. had to kill about 20 lvl 16-18 mobs",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-26T13:18:42-05:00",
+   "body": "I got it first time therefore it has a 100% drop rate.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-26T14:28:13-05:00",
+   "body": "well ive been looking for the mine for about 2 days now and im guessing i have wrong cordinates.\n\ncan anyone provide me with 100% correct cordinates?\ntnx\n\n\nbtw\nam lvl 23 now, is this quest still worth doing now?",
+   "replies": [
+    "Very NE Corner of The Barrens - "
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-13T14:26:22-05:00",
+   "body": "Got it off the second kill, outside.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-23T01:53:33-06:00",
+   "body": "Player: Ecaz\nServer: Mal'Ganis\n\nYou get the sack of coins its a useable container and theres about 14silver in it as a reward.  I did the quest with a level 15 hunter with one other level 19 mage.",
+   "replies": [
+    "Apparently it is a random drop. I was about to go into the mine yesterday to look for it and the last guy I dropped right before entering the mine had this on him.\n"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-11T15:48:45-06:00",
+   "body": "i recieved the emerald off the overseer. it was like the 3rd guy i killed, still at the frint entrance.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-24T08:35:53-06:00",
+   "body": "coming out of rachet.... go north past the thorn place until you hit the road going to Durator.... but don't cross over to Durator..... follow the road north... and keep going... you should run into the place... drops are pretty good as well...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-15T20:00:29-06:00",
+   "body": "Walked up the road into the 'camp', killed the enforcer that was blocking the road, got the emerald, stroled back to Ogr whistling a merry tune... :D",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-12T23:32:57-05:00",
+   "body": "I got it after the first Venture Co. Overseer I killed at the mine LOL",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-27T01:17:54-06:00",
+   "body": "The easy way is to go to Far watch post and follow the road that goes North from it. Takes you right to the Mine you need to get the Emerald.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-26T05:03:58-06:00",
+   "body": "exactly how much is in the bag",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-06T00:43:28-05:00",
+   "body": "In the time it took me to get the drop, I managed to get 40% of level 18 on my orc hunter. Ok, so it's not a quick drop, but it's all experience, reasonable easy kills and they drop coin.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-24T02:22:43-05:00",
+   "body": "61,5 is where the mine is.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-04T15:28:40-05:00",
+   "body": "lol just got it from the first mob i killed :P",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-28T03:41:36-06:00",
+   "body": "After killing over 60 of these guys, around 30 overseers and 30 enforcers, both inside the mine and outside the mine, I dropped this stupid quest.  No amount of coins is worth that kinda trouble.  Okay, well maybe a bag of gold coins, but that ain't gonna happen.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-09T11:09:41-06:00",
+   "body": "i killed the first dwarf i could lay my eyes on and got it lol",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-14T14:31:26-05:00",
+   "body": "I killed about a dozen mobs outside then got it off the first human I killed.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-09T15:33:08-05:00",
+   "body": "Cave is about 61,5  In the Northeast Corner of zone",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-02T05:25:01-05:00",
+   "body": "61,6 is the entrance to the mine area. killed about 4 and then got the gem",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-13T23:55:58-06:00",
+   "body": "lvl 16 Shaman\nServer: Crushridge\nexp: 1700 xp\n15,93s, and a old money back",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-01-20T19:55:17-06:00",
+   "body": "Can confirm the Cats Eye Emerald drops outside the mine. Killed about 15-20 mobs before it dropped off an Enforcer at the beginning of the trail in the front area. Took about 10 minutes as a level 20 Arms Warrior with a level 20 Holy Priest helping.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-04-07T12:03:15-05:00",
+   "body": "Over 8 characters, I completed the quest with 97 enforcers and 66 overseers killed. Assuming that the mobs share the quest drop, on average I had to kill 20 mobs to get the emerald to drop.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-20T08:41:58-05:00",
+   "body": "Be prepared to grind out half a level at the Boulder Lode Mine.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-30T17:05:45-05:00",
+   "body": "For Pete's Sake, Blizz, this isn't friction it's punishment. 30 mins still no Cat's Eye.",
+   "replies": [
+    "It's the true classic experience"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-14T08:25:27-06:00",
+   "body": "Dropped @ 61,05\n\nCleared out the camp twice. Killed the guy at the gate on the way out as i was giving up and it dropped. Not a hard quest but might take a while.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-14T08:25:27-06:00",
+   "body": "this quest is anoying sooooo i kill everything there(im lvl 37)and responds come n the first respond was my drop-some advice:go in the mine n kill everything u get really good drops.....n theres a guy named boss......i forgot his name..........o n theres 78 chests everywhere here in the barrens. (-:",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-14T08:25:27-06:00",
+   "body": "killed 2 overseers and it dropped.. only thing was that i was looking this at 61,50 but its in 61,5",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-19T20:25:27-06:00",
+   "body": "omg i read all your comments and waited for the massive amount of time i would spend on this quest with the 3% drop rate and FIRST ONE I EVER KILLED GAVE IT TOO ME.....yeew i must be one lucky bugger",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-19T20:25:27-06:00",
+   "body": "Loot it from the troll in the tower! Coor (61,5)",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-19T20:25:27-06:00",
+   "body": "I got the cats eye off an overseer at \n62,6\n\nGood luck with urs",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-28T08:25:27-05:00",
+   "body": "Listen its gonna take a while if your not one of the lucky ones so just Keep wipeing the out side and It will drop / I took out everything out side of the mine and my first spawn droped it and from what ive been reading the majority of people that get the drop arent in the mine so just be patient and youll get it",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-27T22:49:27-05:00",
+   "body": "I went to the mine as other posts recommended...I picked up this quest pretty late as a 33 hunter an mowed through the mobs in the mine....it took me like 15 mins...maybe less, before the emerald dropped. So I guess the mine is a good place to find it...it's an enclosed area so you don't have to wander around looking for specific mobs to kill. I hope this helps.....",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-11T22:42:16-05:00",
+   "body": "I got the eye on kill five or so.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-08-13T10:57:03-05:00",
+   "body": "If you don't get the emrald outside, it is not worth going in the mine for, especially if you are solo.  If you die, It is too long form cross roads, everything will have respawned, and it is too hard to get out of the mine. You will be half life, mobs are close toghere, pats are roaming around, and it is just not worht it. You get about 1700 xp besides the coins you get, and you get a 6 slot bag. Pathethic for this level. Big waist of time.\n\n[i][small]Edited, Aug 13th  2006 at  7:14am EDT by Xajax[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2019-09-12T11:42:43-05:00",
+   "body": "Killed more than 100 inside the mine without having it drop, then I went outside, and got it on my 3rd kill. So probably kill the ones outside.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-05-14T20:02:15-05:00",
+   "body": "Mobs are a bit close together. I'd bring a friend if I was you",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-08T04:14:16-06:00",
+   "body": "I killed the first enforcer by a tower outside and he dropped the emerald. Done in less than 30 seconds. LOL",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-29T10:11:40-06:00",
+   "body": "Killed 'em all, many of them twice, before getting the emerald.  What a bloodbath lol.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-12-09T02:58:53-06:00",
+   "body": "I have killed over 80 of these guys and I finally got it. It is a good place to grind if you are below lvl 19 anyways, though.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-26T12:15:59-06:00",
+   "body": "5th kill, all 5 out side the mine, easy quest :)",
+   "replies": [
+    "Killed every one of them I could find anywhere, many of them twice, before I finally got it.  What a chore, lol!\n\n[i][small]Edited, Jan 29th 2007  5:13am by CyberPotato[/small][/i]"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2007-02-12T06:59:08-06:00",
+   "body": "About 10 kills for me, easy quest.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-11-16T06:26:38-06:00",
+   "body": "got mine off the 3rd kill today as a 17 rogue, got lucky i guess...",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-02-10T22:36:18-06:00",
+   "body": "i got it on my second kill lol",
+   "replies": [
+    "Same here... 2nd kill.. "
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-12-08T15:51:05-06:00",
+   "body": "Did this at level 30 w/my Warlock (gnome).  Took 3 kills to get the emerald.\n\n170exp\n14sp 19cp\nOld Money Bag (6 slot bag)\n350 rep w/Ratchet\n:)\n\n[i][small]Edited, Dec  8th 2006 11:56am by Korynne[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-10-25T14:06:28-05:00",
+   "body": "I've read so many complaints.  I walked up the road, coords 61, 5.  Killed a level 16 Venture Co. Enforcer and it dropped.  So Nice.  The first guy i axed.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-12-04T19:55:31-06:00",
+   "body": "Took me 30 - 40 kills to get mine which was frustrating. I had to be there for another quest though so I guess it wasn't too bad",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-11-10T17:51:08-06:00",
+   "body": "Got mine from the second Enforcer I killed outside as a level 16 hunter :)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-05-03T10:41:52-05:00",
+   "body": "Got it from the third Venture Co. I killed, at (62,5).  Which sucks because when my druid did this quest, I was killing for at least 45 minutes, and was about to give up and do something else, before it dropped.\n\nAnd, looking at the page for the item, sure enough, 2.33% Drop Rate.\n\nNot my favorite quest.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-12-18T14:14:35-06:00",
+   "body": "The drop rate is terrible. I would suggest not to bother too much with this quest unless you really need it.\r\n\r\nI cleaned the entire cave and then cleared everything again on my way out... That's atleast 40 mobs. The item dropped from the last mob I killed. :P",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2007-02-09T21:39:19-06:00",
+   "body": "It dropped for me on my 2nd kill.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2007-03-25T17:37:53-05:00",
+   "body": "Not a hard quest....could be time consuming....I got the drop after killing about 15 of the enforcers/overseers....in fact, behind the mine after I killed an enforcer.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2007-04-03T15:08:39-05:00",
+   "body": "[b]I maybe was lucky but i got it on FIRST kill.[/b]",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2007-01-30T22:01:43-06:00",
+   "body": "[b]As they Say In The Army \"One Shot One Kill\"! THAT IS ALL IT TOOK YOU SORRY SAPS! lol[/b]\n\n[i][small]Edited, Jan 30th 2007  7:02pm by Dualmaster[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2007-04-04T18:33:20-05:00",
+   "body": "very easy q at the bridge to durotar youn turn to left north at the coords 61.5 is camp just kill venture co and lootin i have the eye for 3 kills :))",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2007-02-03T21:27:02-06:00",
+   "body": "Took 8 Kills to get it.  The Loc is 61, 5.  As far north as you can get in the Barrens and a little east.",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2007-04-27T17:49:04-05:00",
+   "body": "I don't know what you guys are talking about, but I got on from the first Mob I killed   :D",
+   "replies": [
+    "and the co-ordinates are 61 , 5"
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2007-04-11T19:27:11-05:00",
+   "body": "i got it my third kill... i guess some ppl are lucky =)",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-04-12T18:45:07-05:00",
+   "body": "Seeing 2 posts mentioning killing a dwarf, I'd initially thought only dwarves drop the emerald.  Got mine off of an ogre.",
+   "replies": []
+  }
+ ]
+}

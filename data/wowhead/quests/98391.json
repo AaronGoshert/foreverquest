@@ -1,0 +1,126 @@
+{
+ "id": 98391,
+ "name": "The Sisterhood of Elune",
+ "level": 10,
+ "reqlevel": 5,
+ "side": 1,
+ "zoneId": 1657,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 85,
+ "start": {
+  "type": "npc",
+  "id": 3600,
+  "name": "Laurna Morninglight",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    55.4,
+    56.8
+   ],
+   [
+    55.6,
+    56.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7316,
+  "name": "Sister Aquinne",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    29,
+    45.4
+   ],
+   [
+    29,
+    45.6
+   ],
+   [
+    29.6,
+    44.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak to Sister Aquinne in Darnassus .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 7316,
+   "name": "Sister Aquinne",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  98391,
+  2519,
+  2518,
+  2520
+ ],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 3600,
+   "name": "Laurna Morninglight",
+   "coord": [
+    55.6,
+    56.8
+   ],
+   "coords": [
+    [
+     55.4,
+     56.8
+    ],
+    [
+     55.6,
+     56.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 7316,
+   "name": "Sister Aquinne",
+   "coord": [
+    29,
+    45.4
+   ],
+   "coords": [
+    [
+     29,
+     45.4
+    ],
+    [
+     29,
+     45.6
+    ],
+    [
+     29.6,
+     44.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-06T17:51:33-05:00",
+   "body": "This is a new [b]breadcrumb quest[/b]. [quest=2519] listed as the second part of this chain is [b]also[/b] a breadcrumb quest. [quest=2518] can be picked up without finishing either of the aforementioned quests, but picking this up closes the two other quests for you. If you finish the third quest, neither breadcrumb will ever be available to you.",
+   "replies": []
+  }
+ ]
+}

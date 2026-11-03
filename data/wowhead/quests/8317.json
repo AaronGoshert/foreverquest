@@ -1,0 +1,293 @@
+{
+ "id": 8317,
+ "name": "Kitchen Assistance",
+ "level": 57,
+ "reqlevel": 54,
+ "side": 3,
+ "zoneId": -304,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 3000,
+ "start": {
+  "type": "npc",
+  "id": 15174,
+  "name": "Calandrath",
+  "zone": "Silithus",
+  "zoneId": 1377,
+  "coords": [
+   [
+    51.8,
+    39
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 15174,
+  "name": "Calandrath",
+  "zone": "Silithus",
+  "zoneId": 1377,
+  "coords": [
+   [
+    51.8,
+    39
+   ]
+  ]
+ },
+ "patch": "1.13.4.33920",
+ "objectiveText": "Calandrath at Cenarion Hold needs a batch of 10 Smoked Desert Dumplings . Smoked Desert Dumplings  ( 10 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 15174,
+   "name": "Calandrath",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 20452,
+   "name": "Smoked Desert Dumplings",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Smoked Desert Dumplings",
+   "count": 10,
+   "type": "item",
+   "id": 20452
+  }
+ ],
+ "series": [
+  8307,
+  8313,
+  8317
+ ],
+ "points": [
+  {
+   "zoneId": 1377,
+   "zone": "Silithus",
+   "point": "start",
+   "type": 1,
+   "id": 15174,
+   "name": "Calandrath",
+   "coord": [
+    51.8,
+    39
+   ],
+   "coords": [
+    [
+     51.8,
+     39
+    ]
+   ]
+  },
+  {
+   "zoneId": 1377,
+   "zone": "Silithus",
+   "point": "end",
+   "type": 1,
+   "id": 15174,
+   "name": "Calandrath",
+   "coord": [
+    51.8,
+    39
+   ],
+   "coords": [
+    [
+     51.8,
+     39
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 46,
+   "date": "2006-12-22T04:28:37-06:00",
+   "body": "There is a trade goods vendor in front of the building near the horde FP. You can buy the spices there. You can cook at any of the flaming braziers located in the area.",
+   "replies": []
+  },
+  {
+   "rating": 38,
+   "date": "2020-07-19T15:32:17-05:00",
+   "body": "on my AH right now, 1 dumpling is 1g 9s buyout\r\n\r\nten Soothing spices are also 14s. So you just get 1.56g for this quest whereas you can easily make 10g from selling these.\r\n\r\n3000 exp is very little as well. screw this quest, no followup, not worth it.",
+   "replies": []
+  },
+  {
+   "rating": 35,
+   "date": "2007-05-08T05:55:01-05:00",
+   "body": "Have to have cooking of 285 to get this quest.",
+   "replies": []
+  },
+  {
+   "rating": 30,
+   "date": "2005-10-10T04:28:37-05:00",
+   "body": "Once you share the recipe with the quest lady, it will be in your cooking book.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2006-05-17T04:28:37-05:00",
+   "body": "You can cook on the braziers - like in IF.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-10T04:28:37-05:00",
+   "body": "50 reputation",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-10T04:28:37-05:00",
+   "body": "I got 3000 XP and about 50 rep points with the Cenarion Circle as well (at lvl 59). I do recommend getting some extra for yourself. :) The drop rate for the sandworm meat seems to be only about 10-20%, so it does take a while.",
+   "replies": [
+    "level 56 - 3000exp, 1g70s & 75 rep with CC.\n\nThe drop rate wasn't that bad - you can pick up the \"Securing the Supply Lines\" quest from Windcaller Proudhorn (out the front of the inn) and do that at the same time. Might even be a good idea to pick up \"Deadly Desert Venom\" from Beetix Ficklespragg (inside inn upstairs) cuz the mobs she wants you to kill spawn in the same area as the sandworms."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2005-12-22T04:28:37-06:00",
+   "body": "Just some 1.9 (when I finally completed the quest) information:\n\nThere is an Ironforge-like brazier in the stronghold now, as well as a general goods vendor that you can buy and cook after you get the sand worm meat.\n\nGetting the sand worm meat itself was the hardest part... *grr*",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2020-04-23T05:41:25-05:00",
+   "body": "Do this quest at the same time as [quest=8280]. The worms you need to kill for that quest will drop all the meat you'll need for this quest.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-27T16:28:37-06:00",
+   "body": "To reiterate, she sells flint/tinder,\n\nBUT if you walk out of the inn and turn left, you will see a \"cooking fire\" that you can cook in.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-27T16:28:37-06:00",
+   "body": "It really wasnt that hard, it took me about 30 minutes to get the sandworm meat, and my cooking was 291 and it brought me up to 301. The money was nice, too bad she couldnt include about 10 of these in the reward too, hehe :)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-11-15T16:28:37-06:00",
+   "body": "she sells flint and tinder as well as simple wood.. so just make your own fire.",
+   "replies": [
+    "There are braziers all over the town, they all work as cooking fires."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-12-22T04:28:37-06:00",
+   "body": "The mats are spices and Sandworm meat, just buy the spices there and the meat is a drop off any worm in Silithus. It's a fairly high drop rate too..",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-05T04:28:37-06:00",
+   "body": "Indeed, this quest is! \nI have 292, and finally i get an amusing way of dragging it up to 300, as making the dumplings is red !\n\nAny1 have tried selling dumpls at AH?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-10T16:28:37-05:00",
+   "body": "what level cooking is needed for this?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-27T16:28:37-06:00",
+   "body": "49, 36 she is just up the hill from the quest giver on the right side of the building as you face it, in front of a wagon.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-05T04:28:37-06:00",
+   "body": "They're also used in the new Cenarion quests, with the Logistic badges.\n\nQuest is called:\n\nDesert Survival Kits\n\nand requires 4 dumplings, among other items.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-10T04:28:37-05:00",
+   "body": "I got the Q at level 60 but my cooking was only 290 so you dint have to be 300 but the recipe took me there. :-)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-22T15:46:42-05:00",
+   "body": "At level 55:\n\n3000 experience\n50 Cenarion Circle reputation (55 for a human)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-30T04:09:21-06:00",
+   "body": "well i kind of completed this quest when i didn`t have the 2ndary skill as cooking , meanwhile i took cooking and as a rogue i really want this recipe !\nany ideea how to get it if i already completed the q before i had cooking ?",
+   "replies": [
+    "You can't even take this quest without cooking, so I'm not sure how you managed to complete it..."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2020-04-15T21:08:56-05:00",
+   "body": "Just got 50 rep (instead of the listed 75) for this quest. lvl 60 Horde 4025/6000 friendly. (yes, I've been grinding the 1 rep kills for awhile already)",
+   "replies": [
+    "Did it take those 10 Smoked Desert Dumplings from you?",
+    "You do not get to keep them",
+    "Honestly, not even worth it to do this quest with how great Desert Dumplings sell on the AH right now."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2021-05-13T16:06:04-05:00",
+   "body": "You can do the cooking at the fire located at /way 50.91 38.84",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-05-17T04:28:37-05:00",
+   "body": "...I don't see it elsewhere.&nbsp; I got 3k exp. for this quest at 57.\n\nNot horrible.\n\nThat is all.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2006-01-27T16:28:37-06:00",
+   "body": "You're better off buying the meat. Took me thirty plus worms, not to mention other mobs that attacked while slapping the worms, to get a whole pieces of sandworm meat. You need ten pieces - stuff that for a joke.",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2005-11-15T16:28:37-06:00",
+   "body": "try back by the entrance from crater. where the first flight path was located",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-10-10T04:28:37-05:00",
+   "body": "where is drap post cord plz",
+   "replies": []
+  },
+  {
+   "rating": -7,
+   "date": "2005-10-17T05:07:52-05:00",
+   "body": "\"That recipe sure will come in handy\" ... WHAT recipe?  I did the quest before this, now I'm supposed to deliver some dumplings, but none of the vendors seem to sell the recipe (of course, if it's a limited supply item the odds of me finding it with the zone packed atm are slim).  I was not given the recipe by the questgiver, and it sure doesn't seem to be laying on the ground anywhere that I've seen, so ... How in the heck do I get the recipe?",
+   "replies": [
+    "\n\nEdited, Mon Oct 17 03:18:27 2005",
+    "You automatically learn the recipe when you steal it from the book. I was confused by this as well, but then I just looked in my list of known recipes and there it was. They really need to add some kind of notification, or if there is one, they need to make it stand out more.",
+    "Although it's not obvious, but when you turn in this quest, you glow exactly as if you have just learned a new recipe by reading it from an item. At that time the combat log (or quest log, can't remember which) says that you have learned a new recipe: Smoked Desert Dumplings. \n\nI'm not sure what else they can do other than to explicitly say something in the quest reward...",
+    "The quest does not appear in your quest log.\n\nYou need to find the dusty recipe book or something close in the twilight camp and take a page from it. It is a quest item, not a recipe.\n\nTHEN the innkeeper will let you complete the quest and you get a recipe put into your cooking recipe list.\n\nTHEN you can make 10 smoked desert dumplings to complete the quest.",
+    "It does say \"You have learned to create a new item: Smoked Desert Dumplings\" in the system spam."
+   ]
+  },
+  {
+   "rating": -9,
+   "date": "2005-11-14T15:07:28-06:00",
+   "body": "which camp plz?",
+   "replies": []
+  }
+ ]
+}

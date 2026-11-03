@@ -1,0 +1,54 @@
+{
+ "id": 6165,
+ "name": "<NYI> <TXT> Archmage Timolain's Remains",
+ "level": 58,
+ "reqlevel": 50,
+ "side": 3,
+ "zoneId": 28,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": null,
+ "end": null,
+ "patch": "1.13.2.30786",
+ "objectiveText": "See if you've already completed this by typing: /run print(C_QuestLog.IsQuestFlaggedCompleted(6165)) Related Contribute Please keep the following in mind when posting a comment: Your comment must be in English or it will be removed. Unsure how to post? Check out our handy guide ! You might want to proof-read your comments before posting them. Please post questions on our forums for quicker reply. Post a Comment You are not logged in. Please log in or register an account to add your comment. Simply browse for your screenshot using the form below. Screenshots containing UI elements are generally",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": [
+  {
+   "rating": 25,
+   "date": "2005-10-17T09:53:48-05:00",
+   "body": "http://forums.worldofwarcraft.com/thread.aspx?fn=wow-general&t=4970408&p=1&tmp=1#post4970408\n\n[quote] For some time now I have casualy been investigating one of the most interesting mysteries in Azeroth.\n\nIt all started when I was exploring a cave in the Western Plague lands long ago and I recived a bizzare item from one of the many silmes there: [Timolain's Phylactery] ([item=15886] a scroll or roll (made of parchment), usually shown unfurled, sometimes containing lettering, signifying the Word of God.\n\nNow this interested me because no one I asked had the slightest clue what this was. The single piece of information I mannaged to gather was that Timolain was an Archmage of some power.\n\nArmed with this information I set out to discover more about Timolain. Considering that I had found the Phylactery in the Plaguelands, that was the place to start looking. A quick stop at the Bulwark for suplies yielded instant results! It seems that there is a Tauren there who has something interesting to say...\nHe talks about an Archmage who worked for the Scarlet Crusade by crafting them magical bows and guns of power. However before any of them were put into service he crated a special weapon of incrdible power for the Scarlet Highlord. Without warning he was killed by the crusade, and nothing more is known of him.\nNow this REALY peaked my intrest as I had also been following the story of Ashbringer.\n\nTimolain > Crafted a powerful weapon for the Scarlet Highlord\nAshbringer > Sword of the Scarlet Highlord\n\nIt seemed that my own investigation was tied to the tale of Ashbringer...\n\nThat had me excited and I made haste to the Scarlet Crudade's stronghold in the Western Plaguelands, Hearthglen, to look for more clues. After much searching the only thing I discovered was a small shack behind the barracks with an alchemy lab and a forge. Knowing that Timolain was an Archmage and a weapon crafter, It seemed logical that this was his home. Unfortunatly there was nothing there that could help me figure out what happened to him.\n\nOut of ideas I returned to where it all started, the cave full of slime to look for anything I may have missed. Imidiatly unpon ariving I noticed something that had been overlooked on my last visit. At the entrance to the cave there was an old overturned mining cart and some tools and skelatons. The tools and cart reminded me of the same ones that I had seen at the mine in Hearhthglen. It would seem that the Crusade had buisness here, dumping Timolain's remains I assumed, yet they had been killed while doing so.\n\nAfter sharing this new information with my friends, one of them mentioned that he had been in the cave before and noticed that the very same slime I recived the Phylactery from was for some strange reason, a caster. This was bizzare as slime are not known for thier magical skills. It was very aperent that Timolain was brought to this cave, and likely fed to the slime to hide his remains. However the slime that absorbed him took more than just his body.\n\nNow it seemed that I had solved the mystery of Timolain's death... however the mystery of what had happened to the weapons he created was still unsolved. Rumaging around the cave some more I remembered a passage from a book I had read, talking about Ashbringer and fishing.\nNow this cave is right next to a river, so I left the cave and went down to the river beside it. I found nothing there. Seeing as how this had all happened a while ago, I thought it might be plausable that anything in the river had been washed down stream by the current. Following the river south I found exactly what I wanted to find: the smashed remains of a wagon and crates agianst a bridge. Could it be that this wagon was carrying the weapons Timolain had created, intending to dump them in the cave with him?\n\nI have spent many days fishing at that river now, hoping to reel in some clue. But my resolve is fading with no results, so I bring this story to you. Perhaps another can carry on where I left off and uncover these weapons, or even the Ashbringer it's self!\n\n[ post edited by Gorath ][/quote]",
+   "replies": [
+    "http://web.archive.org/web/20051110023839/http://forums.worldofwarcraft.com/thread.aspx?FN=wow-general&T=4970408&P=1"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-17T08:26:21-05:00",
+   "body": "what is this quest?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-13T17:24:13-06:00",
+   "body": "[b]<NYI> = NOT YET IMPLEMENTED[/b]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-27T17:51:22-06:00",
+   "body": "starts..? ends..? description plz?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-02-09T18:45:58-06:00",
+   "body": "i don't think this is a horde quest as well, or that the item drops for horde altogether.  I have farmed the cave a lot, and never seen the phylactery drop off that caster sludge.  Makes a lot of sense tho why he would be a caster.  This ashbringer story gets cooler and cooler...",
+   "replies": []
+  }
+ ]
+}

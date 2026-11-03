@@ -1,0 +1,89 @@
+{
+ "id": 92910,
+ "name": "Harvesting the Harvesters",
+ "level": 15,
+ "reqlevel": 8,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 800,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 253395,
+  "name": "Ozwin Ironsprocket",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    51.4,
+    32.2
+   ],
+   [
+    51.6,
+    32.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Bring the Precessive Autocognition Assembly to Ozwin Ironsprocket at Saldean's Farm. Precessive Autocognition Assembly (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 255155,
+   "name": "Precessive Autocognition Assembly",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 1,
+   "id": 253395,
+   "name": "Ozwin Ironsprocket",
+   "coord": [
+    51.6,
+    32.2
+   ],
+   "coords": [
+    [
+     51.4,
+     32.2
+    ],
+    [
+     51.6,
+     32.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 5,
+   "date": "2026-10-03T08:29:02-05:00",
+   "body": "[s]I could not drop this item at all during the beta, spent like 3 hours trying to get it, and it just never dropped. Either it's bugged for some characters (I played human mage) or the droprate is so ridiculously low that there's really no point in trying to get it while leveling. I have reported the issue, so we will see if Blizzard does something, but in case you are leveling after Forever releases and are, for whatever reason, trying to drop this quest item and you can't, I really recommend you to stop and do something else.[/s]\n\nEDIT: Mystery solved, this item ONLY drops if you have Engineering, even though it's not said anywhere. So, if you aren't an Engineer, don't bother trying to get it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-26T15:52:51-05:00",
+   "body": "This item keeps dropping from the golems even after you've finished the quest, but you can't turn it in more than once.\r\n\r\nYou can loot this from almost any golem in the zone [i](apparently the [url=https://www.wowhead.com/forever/npc=573/foe-reaper-4000#map]rare[/url] and the level 17-18 [url=https://www.wowhead.com/forever/npc=115/harvest-reaper#map]reapers[/url] don't drop it)[/i].",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-07T12:45:32-05:00",
+   "body": "#$%^ this drop rate. Was about 4 silver on the AH.",
+   "replies": [
+    "WoWhead shows item is BoP?"
+   ]
+  }
+ ]
+}

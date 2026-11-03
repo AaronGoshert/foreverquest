@@ -1,0 +1,107 @@
+{
+ "id": 94501,
+ "name": "Call of Water",
+ "level": 23,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 460,
+ "start": {
+  "type": "npc",
+  "id": 258203,
+  "name": "Hervdana Saegrund",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    65.6,
+    76.4
+   ],
+   [
+    65.8,
+    76.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 258043,
+  "name": "Norric Lochthane",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    41.8,
+    19
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Bring the Vial of Purest Water to Norric Lochthane in Loch Modan. Vial of Purest Water (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 7810,
+   "name": "Vial of Purest Water",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  94495,
+  94497,
+  94499,
+  94500,
+  94501,
+  94502,
+  94503,
+  94505
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 258203,
+   "name": "Hervdana Saegrund",
+   "coord": [
+    65.6,
+    76.4
+   ],
+   "coords": [
+    [
+     65.6,
+     76.4
+    ],
+    [
+     65.8,
+     76.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 258043,
+   "name": "Norric Lochthane",
+   "coord": [
+    41.8,
+    19
+   ],
+   "coords": [
+    [
+     41.8,
+     19
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

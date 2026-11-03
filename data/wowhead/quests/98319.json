@@ -1,0 +1,111 @@
+{
+ "id": 98319,
+ "name": "Secure the Mountain",
+ "level": 8,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 175,
+ "start": {
+  "type": "npc",
+  "id": 271546,
+  "name": "Mountaineer Gretchen",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    44,
+    57
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 271546,
+  "name": "Mountaineer Gretchen",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    44,
+    57
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Find Mountaineer Cornelius in the Grizzled Den for Mountaineer Gretchen .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 271546,
+   "name": "Mountaineer Gretchen",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  98322,
+  98319,
+  98323
+ ],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 271546,
+   "name": "Mountaineer Gretchen",
+   "coord": [
+    44,
+    57
+   ],
+   "coords": [
+    [
+     44,
+     57
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 271546,
+   "name": "Mountaineer Gretchen",
+   "coord": [
+    44,
+    57
+   ],
+   "coords": [
+    [
+     44,
+     57
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 21,
+   "date": "2026-09-20T06:18:57-05:00",
+   "body": "Cornelius is in the Grizzled Den Cave. Specifically the star shaped room to the right after you enter, he's lying in the middle of the frozen pond surrounded by wendigos.",
+   "replies": [
+    "This is the same cave as https://www.wowhead.com/forever/quest=98326/frosthowl so you can save time by doing both. Frosthowl is at the end of the cave, where the path splits go left and down.",
+    "Cave entrance is at 42.5, 54.4",
+    "completes automatically if you walked near enough"
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2026-09-20T18:51:44-05:00",
+   "body": "@ coordinates 43.0, 49.6 in the Grizzled Den Cave w/ the Wendigo's",
+   "replies": []
+  }
+ ]
+}

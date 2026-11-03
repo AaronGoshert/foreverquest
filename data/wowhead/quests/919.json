@@ -1,0 +1,144 @@
+{
+ "id": 919,
+ "name": "Timberling Sprouts",
+ "level": 7,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 790,
+ "start": {
+  "type": "npc",
+  "id": 2080,
+  "name": "Denalan",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    60.8,
+    68.4
+   ],
+   [
+    60.8,
+    68.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2080,
+  "name": "Denalan",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    60.8,
+    68.4
+   ],
+   [
+    60.8,
+    68.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 12 Timberling Sprouts to Denalan at Lake Al'Ameth. Timberling Sprout  ( 12 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5169,
+   "name": "Timberling Sprouts",
+   "count": 12,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Timberling Sprout",
+   "count": 12,
+   "type": "item",
+   "id": 5169
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 2080,
+   "name": "Denalan",
+   "coord": [
+    60.8,
+    68.4
+   ],
+   "coords": [
+    [
+     60.8,
+     68.4
+    ],
+    [
+     60.8,
+     68.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 2080,
+   "name": "Denalan",
+   "coord": [
+    60.8,
+    68.4
+   ],
+   "coords": [
+    [
+     60.8,
+     68.4
+    ],
+    [
+     60.8,
+     68.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 15,
+   "date": "2006-05-24T15:42:10-05:00",
+   "body": "you kill the Timberlings for the seeds and then open up the spuds for the sprouts .. 60.68",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2007-03-25T00:20:34-05:00",
+   "body": "I found them north of the lake [b]55-60,66[/b] but i believe they all around the lake. The guardians are level 5+ timberlings (yellow-green fellows) whos actually grant u with the other quest item the timberling seeds eventually",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-12-11T18:41:37-06:00",
+   "body": "You can find the Timberling sprouts around the coordinates 60, 68 or just around Lake Al'Ameth.  Open them for their sprouts.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-04-18T03:42:10-05:00",
+   "body": "CORDS PLS!Iam a n00b! :'(",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-26T11:55:31-06:00",
+   "body": "You'll find the timberling sprouts around Lake Al'Ameth on the Timberlings.  Be sure to do the Timberling Seed quest at the same time.\n\nThe quest gave me 800 experience.",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "id": 863,
+ "name": "The Escape",
+ "level": 18,
+ "reqlevel": 13,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1700,
+ "start": {
+  "type": "npc",
+  "id": 3439,
+  "name": "Wizzlecrank's Shredder",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    55.4,
+    7
+   ],
+   [
+    55.4,
+    7.6
+   ],
+   [
+    56.4,
+    7.4
+   ],
+   [
+    56.4,
+    7.6
+   ],
+   [
+    56.6,
+    7.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3442,
+  "name": "Sputtervalve",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    63,
+    37.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Protect Wizzlecrank and the stolen goblin shredder on the way to Sputtervalve in Ratchet.   Escort Wizzlecrank out of the Venture Co. drill site  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3442,
+   "name": "Sputtervalve",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Escort Wizzlecrank out of the Venture Co. drill site",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 3439,
+   "name": "Wizzlecrank's Shredder",
+   "coord": [
+    56.4,
+    7.4
+   ],
+   "coords": [
+    [
+     55.4,
+     7
+    ],
+    [
+     55.4,
+     7.6
+    ],
+    [
+     56.4,
+     7.4
+    ],
+    [
+     56.4,
+     7.6
+    ],
+    [
+     56.6,
+     7.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 3442,
+   "name": "Sputtervalve",
+   "coord": [
+    63,
+    37.2
+   ],
+   "coords": [
+    [
+     63,
+     37.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 46,
+   "date": "2005-11-10T01:26:23-06:00",
+   "body": "U have to return to ratchet to get the reward.\nLook for sputtervalve",
+   "replies": []
+  },
+  {
+   "rating": 23,
+   "date": "2006-10-11T12:54:35-05:00",
+   "body": "Easy escort quest. Make it easier and quicker by clearing out the guys to the West of the shredder so he has to stop less.\r\n\r\nAfter you make it to the top of the ramp, you'll get attacked by two more Venture Company guys. They're no harder than the other ones you just fought, so they should go down quickly.\r\n\r\nThe quest gets turned in at Ratchet, so don't be alarmed when he disappears after you're done.",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2006-03-31T07:16:43-06:00",
+   "body": "Complete \"The Escape\" quest by going to Ratchet and talk to Sputtervalve",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2007-01-04T08:15:16-06:00",
+   "body": "It can't be. I'm a Dwarf Paladin, and I was able to get this quest and complete it within the past 12 hours.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-07-23T13:26:23-05:00",
+   "body": "The hand in is at Ratchet.",
+   "replies": [
+    "Thottbot does tell you that ... when you click on the \"Ends at\", it says Sputtervalve, which is in Ratchet."
+   ]
+  },
+  {
+   "rating": 8,
+   "date": "2007-02-27T13:26:23-06:00",
+   "body": "Its not a hard guest, you kan eather kill all nearly enemies before starting quest or if you can kill the enemies fast, if you want to do it alone.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-02-27T13:26:23-06:00",
+   "body": "As a level 17 fire mage,not really all that hard,just whenever you kill mobs.then just drink conjured water,get your mana back up and continue.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-22T01:26:23-06:00",
+   "body": "if u want to do this quest alone, u need to kill nearly enemies first to accept the quest..\ni did so and i finished the quest alone..(with my voidwalker.. :P)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-01-28T23:00:14-06:00",
+   "body": "I got the quest last night and I guess I didn't read it because I went up to the Boulder Mine to do another quest. When I returned this guy wouldn't follow me any more, so just abandon the quest and get it from him again in order to complete it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-08T15:49:51-05:00",
+   "body": "I dont know if it glitched, but I've done this quest a few times, and when I most recently did it (just a few moments ago) he took a completely different course, and he was running as well, and aggrod pretty much everybody on the structure.  I don't know what happened but it sure wasn't what had happened in the past.  I'm about to reattempt it now, so, be weary of that",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-04T13:26:23-05:00",
+   "body": "I Can't Find the Second Shredder is it in Rachet or Where is&nbsp; it",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-30T07:33:41-06:00",
+   "body": "I thought you had to take him all the way back to ratchet, but you only have to kill the guys and take him up the bank to the west. If you haven't been having trouble with the guards so far, then this should be easy with the shredder to help you.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-18T09:02:49-05:00",
+   "body": "Although Wizzlecrank would ask you to hurry and talk to Sputtervalve, I don't think there really is any urgency (i.e. a time limit). I didn't realise that until too late. I was doing the Nugget Slugs quest at the same time. So instead of running back to Rachet right away, I should have turned in the Nugget Slugs quest to Wenikee Boltbucket first, then on to Orgrimmer to turn in the follow up quest Rilli Greasygob, and then back to Rachet to turn in this quest. I did not plan to do the follow up quest of Rilli Greasygob, Samophlange Manual. But if you do, finish it before returning to Rachet.\n\nHope this will help you save some time on unnecessary travels.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-27T19:32:04-06:00",
+   "body": "I escorted him out and it said completed, but I cant get my reward?  They both vanished, which tells me I completed the quest.  Any idea why I cant collect my reward?  Have I missed something?",
+   "replies": [
+    "You have to go back to Ratchet and speak to Sputtervalve again."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2019-06-21T14:10:33-05:00",
+   "body": "Like the \"Ignition\" quest leading up to it, this quest is available to both Alliance and Horde characters.",
+   "replies": []
+  },
+  {
+   "rating": -7,
+   "date": "2006-12-16T13:26:23-06:00",
+   "body": "The best bet in doing this quest is to go in as a group. its about the only way you can clear a path and protect him through the mission.",
+   "replies": []
+  }
+ ]
+}

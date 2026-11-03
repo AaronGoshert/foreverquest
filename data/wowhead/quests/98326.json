@@ -1,0 +1,186 @@
+{
+ "id": 98326,
+ "name": "Frosthowl",
+ "level": 9,
+ "reqlevel": 5,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 780,
+ "start": {
+  "type": "npc",
+  "id": 8508,
+  "name": "Gretta Ganter",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    31.4,
+    44.6
+   ],
+   [
+    31.6,
+    44.4
+   ],
+   [
+    31.6,
+    44.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 8508,
+  "name": "Gretta Ganter",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    31.4,
+    44.6
+   ],
+   [
+    31.6,
+    44.4
+   ],
+   [
+    31.6,
+    44.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Slay Frosthowl and collect the Sack of Fish for Gretta Ganter in Brewnall Village. Sack of Fish  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 280426,
+   "name": "Sack of Fish",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Sack of Fish",
+   "count": 1,
+   "type": "item",
+   "id": 280426
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 8508,
+   "name": "Gretta Ganter",
+   "coord": [
+    31.4,
+    44.6
+   ],
+   "coords": [
+    [
+     31.4,
+     44.6
+    ],
+    [
+     31.6,
+     44.4
+    ],
+    [
+     31.6,
+     44.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 8508,
+   "name": "Gretta Ganter",
+   "coord": [
+    31.4,
+    44.6
+   ],
+   "coords": [
+    [
+     31.4,
+     44.6
+    ],
+    [
+     31.6,
+     44.4
+    ],
+    [
+     31.6,
+     44.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 271587,
+   "name": "Frosthowl",
+   "coord": [
+    39.6,
+    48.6
+   ],
+   "coords": [
+    [
+     39.4,
+     48.4
+    ],
+    [
+     39.4,
+     48.8
+    ],
+    [
+     39.6,
+     48.6
+    ],
+    [
+     40,
+     48.3
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 34,
+   "date": "2026-09-20T03:15:55-05:00",
+   "body": "he's at the end of the cave directly west from kharanos. coords 42, 54",
+   "replies": [
+    "For clarity, this is the Wendigo cave."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2026-09-23T01:21:20-05:00",
+   "body": "Depending on your level and class choice, you may want to group up for this one. Frosthowl [b]has more health[/b] than the other yetis, he [b]hits harder[/b] and he even [b]Rejuvenates himself[/b]. I found myself going out of mana fighting him, and with no wand, I couldn't finish the kill at level 7.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-23T09:36:03-05:00",
+   "body": "This quest bugged when I looted Sack of Fish and wouldn't award any quest progress. A full relog will fix this. It seems to occur with people in a party where not everyone gets the item to drop on the first kill. Not sure if its intended to be this way or not so have submitted a bug report just in case.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-19T21:13:24-05:00",
+   "body": "I hate the placement of this quest. it would be beneficial to grab this BEFORE hitting up kharanos. Otherwise you end up running through a cave that you've already been through again for 1 quest.",
+   "replies": []
+  }
+ ]
+}

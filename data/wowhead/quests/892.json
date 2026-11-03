@@ -1,0 +1,108 @@
+{
+ "id": 892,
+ "name": "The Missing Shipment",
+ "level": 14,
+ "reqlevel": 9,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 100,
+ "start": {
+  "type": "npc",
+  "id": 3453,
+  "name": "Wharfmaster Dizzywig",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    63.2,
+    38.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3391,
+  "name": "Gazlowe",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62.6,
+    36.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Return Gazlowe's Ledger to Gazlowe in Ratchet. Gazlowe's Ledger (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5080,
+   "name": "Gazlowe's Ledger",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  887,
+  890,
+  892,
+  888
+ ],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 3453,
+   "name": "Wharfmaster Dizzywig",
+   "coord": [
+    63.2,
+    38.4
+   ],
+   "coords": [
+    [
+     63.2,
+     38.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 3391,
+   "name": "Gazlowe",
+   "coord": [
+    62.6,
+    36.2
+   ],
+   "coords": [
+    [
+     62.6,
+     36.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 2,
+   "date": "2019-06-21T14:03:03-05:00",
+   "body": "Can be done by both Alliance and Horde characters.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-20T12:02:17-06:00",
+   "body": "100xp 10rep with Ratchet back to the Guy in the freaky building with the weird telescope again Easy",
+   "replies": []
+  }
+ ]
+}

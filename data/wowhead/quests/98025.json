@@ -1,0 +1,153 @@
+{
+ "id": 98025,
+ "name": "WANTED: Jai'vhanel",
+ "level": 13,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1150,
+ "start": {
+  "type": "object",
+  "id": 175320,
+  "name": "WANTED: Murkdeep!",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    37.2,
+    44.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2930,
+  "name": "Sentinel Glynda Nal'Shea",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    37.6,
+    43.4
+   ],
+   [
+    37.6,
+    43.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Find and slay the owl known as Jai'vhanel and take one of her feathers. The black owl was last seen north of the Ameth'Aran ruins near the mountain base. Report the death of Jai'vhanel to Sentinel Glynda Nal'Shea in Auberdine. Feather of Jai'vhanel  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2930,
+   "name": "Sentinel Glynda Nal'Shea",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 281038,
+   "name": "Feather of Jai'vhanel",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Feather of Jai'vhanel",
+   "count": 1,
+   "type": "item",
+   "id": 281038
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 2,
+   "id": 175320,
+   "name": "WANTED: Murkdeep!",
+   "coord": [
+    37.2,
+    44.2
+   ],
+   "coords": [
+    [
+     37.2,
+     44.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 2930,
+   "name": "Sentinel Glynda Nal'Shea",
+   "coord": [
+    37.6,
+    43.4
+   ],
+   "coords": [
+    [
+     37.6,
+     43.4
+    ],
+    [
+     37.6,
+     43.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 270196,
+   "name": "Jai'vhanel",
+   "coord": [
+    45,
+    58.2
+   ],
+   "coords": [
+    [
+     44.1,
+     59.2
+    ],
+    [
+     44.4,
+     58
+    ],
+    [
+     45,
+     58.2
+    ],
+    [
+     45,
+     58.6
+    ],
+    [
+     45.2,
+     57.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-01T14:31:43-05:00",
+   "body": "[url=https://www.wowhead.com/forever/npc=270196/jaivhanel#map]Jai'vhanel[/url] is a level 12 regular bird with no special abilities located around [b]45, 58[/b]. He's surrounded by neutral mobs and you can easily pick a fight with him [b]solo[/b]. The [b]quest drop is shared[/b] between group members, so grouping up with nearby players still makes sense.\r\n\r\nThe owl's name is apparently Darnassian for [i]\"Swordfeather\"[/i]. The quest states he used to be a sort of guardian for the area. Upon completion, the sentinel wonders as to what could have caused this once-great bird to become corrupted. This mystery is all in line with what we know about Darkshore: it's a zone corrupted by mysterious forces, chief among which is the Red Crystal nearby. The zone is full of sick wildlife, corrupted beasts and hostile furbolgs etc., and it seems this guardian succumbed to the same dark forces that corrupt most of this zone.\r\n\r\nFor Night Elves coming from Teldrassil, the reward isn't anything stellar. [item=281250] from [quest=940] can often be considered superior. The XP reward, however, is substantial: [b]1150[/b] for one of the quickest quests in the zone.\r\n\r\nThis bird is also [b]tameable[/b], and it's the highest level [pet=26] you can find in the general Darkshore/Teldrassil area. Not much data has been recorded on his as a pet, but I believe he comes with [spell=16828] and the new ability [spell=1265054] and he only eats [b]meat[/b].",
+   "replies": []
+  }
+ ]
+}

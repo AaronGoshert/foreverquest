@@ -1,0 +1,21 @@
+{
+ "id": 94778,
+ "name": "Divine Grace",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": -262,
+ "reqclass": 16,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": null,
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak to High Priestess Laurena in Stormwind.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

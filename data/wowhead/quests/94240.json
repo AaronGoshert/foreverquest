@@ -1,0 +1,80 @@
+{
+ "id": 94240,
+ "name": "Craftsman's Writ: Herbalist's Gloves",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 257322,
+  "name": "Murache",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    64.6,
+    80
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Herbalist's Gloves  ( 1 ) Herbalist's Gloves  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264040,
+   "name": "Craftsman's Writ: Herbalist's Gloves",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 7349,
+   "name": "Herbalist's Gloves",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Herbalist's Gloves",
+   "count": 1,
+   "type": "item",
+   "id": 264040
+  },
+  {
+   "text": "Herbalist's Gloves",
+   "count": 1,
+   "type": "item",
+   "id": 7349
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 257322,
+   "name": "Murache",
+   "coord": [
+    64.6,
+    80
+   ],
+   "coords": [
+    [
+     64.6,
+     80
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

@@ -1,0 +1,146 @@
+{
+ "id": 98071,
+ "name": "Brewer's Trade",
+ "level": 27,
+ "reqlevel": 23,
+ "side": 1,
+ "zoneId": 267,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2200,
+ "start": {
+  "type": "npc",
+  "id": 2705,
+  "name": "Brewmeister Bilger",
+  "zone": "Hillsbrad Foothills",
+  "zoneId": 267,
+  "coords": [
+   [
+    52,
+    58.4
+   ],
+   [
+    52,
+    58.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2705,
+  "name": "Brewmeister Bilger",
+  "zone": "Hillsbrad Foothills",
+  "zoneId": 267,
+  "coords": [
+   [
+    52,
+    58.4
+   ],
+   [
+    52,
+    58.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Deliver the bottles of Fallrook Varietal to Dun Garok in southeast Hillsbrad Foothills , and bring back a sack of their Homebrew Hops.   Fallrook Varietal delivered to Dun Garok  ( 1 ) Sack of Homebrew Hops  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 270426,
+   "name": "Fallrook Varietal delivered to Dun Garok",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 279389,
+   "name": "Sack of Homebrew Hops",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 279390,
+   "name": "Case of Fallrook Varietal",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Fallrook Varietal delivered to Dun Garok",
+   "count": 1,
+   "type": "npc",
+   "id": 270426
+  },
+  {
+   "text": "Sack of Homebrew Hops",
+   "count": 1,
+   "type": "item",
+   "id": 279389
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 267,
+   "zone": "Hillsbrad Foothills",
+   "point": "start",
+   "type": 1,
+   "id": 2705,
+   "name": "Brewmeister Bilger",
+   "coord": [
+    52,
+    58.6
+   ],
+   "coords": [
+    [
+     52,
+     58.4
+    ],
+    [
+     52,
+     58.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 267,
+   "zone": "Hillsbrad Foothills",
+   "point": "end",
+   "type": 1,
+   "id": 2705,
+   "name": "Brewmeister Bilger",
+   "coord": [
+    52,
+    58.6
+   ],
+   "coords": [
+    [
+     52,
+     58.4
+    ],
+    [
+     52,
+     58.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 5,
+   "date": "2026-10-05T01:29:39-05:00",
+   "body": "You'll have to go all the way to the bottom floor, use the quest item and loot the sack. I have also added an image where the sack is.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-19T20:47:05-05:00",
+   "body": "When you are looking at the fireplace, turn around. It is between the two staircases.",
+   "replies": []
+  }
+ ]
+}

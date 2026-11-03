@@ -1,0 +1,203 @@
+{
+ "id": 3842,
+ "name": "A Short Incubation",
+ "level": 47,
+ "reqlevel": 38,
+ "side": 1,
+ "zoneId": 357,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 2100,
+ "start": {
+  "type": "npc",
+  "id": 9238,
+  "name": "Quentin",
+  "zone": "Thousand Needles",
+  "zoneId": 400,
+  "coords": [
+   [
+    78.4,
+    74.4
+   ],
+   [
+    78.4,
+    74.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 9238,
+  "name": "Quentin",
+  "zone": "Thousand Needles",
+  "zoneId": 400,
+  "coords": [
+   [
+    78.4,
+    74.4
+   ],
+   [
+    78.4,
+    74.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Bring 2 Elixir of Fortitudes to Quentin in Thousand Needles. Elixir of Lesser Fortitude  ( 2 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 9238,
+   "name": "Quentin",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3825,
+   "name": "Elixir of Lesser Fortitude",
+   "count": 2,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Elixir of Lesser Fortitude",
+   "count": 2,
+   "type": "item",
+   "id": 3825
+  }
+ ],
+ "series": [
+  3841,
+  3842
+ ],
+ "points": [
+  {
+   "zoneId": 400,
+   "zone": "Thousand Needles",
+   "point": "start",
+   "type": 1,
+   "id": 9238,
+   "name": "Quentin",
+   "coord": [
+    78.4,
+    74.8
+   ],
+   "coords": [
+    [
+     78.4,
+     74.4
+    ],
+    [
+     78.4,
+     74.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 400,
+   "zone": "Thousand Needles",
+   "point": "end",
+   "type": 1,
+   "id": 9238,
+   "name": "Quentin",
+   "coord": [
+    78.4,
+    74.8
+   ],
+   "coords": [
+    [
+     78.4,
+     74.4
+    ],
+    [
+     78.4,
+     74.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 23,
+   "date": "2005-09-28T01:58:01-05:00",
+   "body": "After this, is \"The Newest Member of the Family\"",
+   "replies": []
+  },
+  {
+   "rating": 20,
+   "date": "2005-03-03T14:36:14-06:00",
+   "body": "At level 49 I got 2100 XP for this; my reputation with Darnassus slightly increased.",
+   "replies": [
+    "You know the original comment you replied to was from 2005, right?"
+   ]
+  },
+  {
+   "rating": 10,
+   "date": "2007-05-05T01:58:01-05:00",
+   "body": "where can you get the 2 elixers?",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-05-10T11:01:21-05:00",
+   "body": "The next quest after this is \"The Newest Member of the Family\", found https://www.wowhead.com/forever/quest=3843",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-05-01T18:31:19-05:00",
+   "body": "After I handed Quentin the 2 Elixirs of Fortitude, I had to wait 48 hours before he would give me 'The Newest Member of the Family' quest.",
+   "replies": [
+    "That's odd, I had no waiting time at all x_X",
+    "I didn't have to wait, either."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2005-09-28T01:58:01-05:00",
+   "body": "ask your favourite alchimist for this.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2020-01-23T21:43:15-06:00",
+   "body": "i went there after getting the elixirs from the AH, thats an option too :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-01T12:46:23-06:00",
+   "body": "I hate quests that require items made via trade skills that are never on the AH.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-13T19:41:45-06:00",
+   "body": "I have to whait also before i get the folow mup quist.Hmm dont now how long i have to whait but i gues he just dont wanna give me the egg beg:p\n\nGrrr dont like to whait so long",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-12T11:48:10-06:00",
+   "body": "At level 49 I got 2100 XP for this; my reputation with Darnassus slightly increased.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-29T23:59:20-06:00",
+   "body": "This quest grants 75 Darnassus reputation as of patch 2.01",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2005-09-28T01:58:01-05:00",
+   "body": "i'm lvl 49 and i can't get that qst! Quentin just won't speak to me... :(",
+   "replies": [
+    "Thats because you need to complete other quests first"
+   ]
+  }
+ ]
+}

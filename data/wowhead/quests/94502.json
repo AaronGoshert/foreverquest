@@ -1,0 +1,128 @@
+{
+ "id": 94502,
+ "name": "Call of Water",
+ "level": 23,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 1400,
+ "start": {
+  "type": "npc",
+  "id": 258043,
+  "name": "Norric Lochthane",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    41.8,
+    19
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 619896,
+  "name": "Forgotten Shrine",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    45.4,
+    60.1
+   ],
+   [
+    45.6,
+    59.9
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Drink the Water Sapta and Cleanse the corruption at Stendel's Pond in Westfall. Return to Norric in Loch Modan when finished. Corrupt Manifestation's Bracers  ( 1 ) Remaining Drops of Purest Water (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 6637,
+   "name": "Water Sapta",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 7812,
+   "name": "Corrupt Manifestation's Bracers",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 7811,
+   "name": "Remaining Drops of Purest Water",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Corrupt Manifestation's Bracers",
+   "count": 1,
+   "type": "item",
+   "id": 7812
+  }
+ ],
+ "series": [
+  94495,
+  94497,
+  94499,
+  94500,
+  94501,
+  94502,
+  94503,
+  94505
+ ],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 258043,
+   "name": "Norric Lochthane",
+   "coord": [
+    41.8,
+    19
+   ],
+   "coords": [
+    [
+     41.8,
+     19
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 2,
+   "id": 619896,
+   "name": "Forgotten Shrine",
+   "coord": [
+    45.6,
+    59.9
+   ],
+   "coords": [
+    [
+     45.4,
+     60.1
+    ],
+    [
+     45.6,
+     59.9
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

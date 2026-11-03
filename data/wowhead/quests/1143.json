@@ -1,0 +1,344 @@
+{
+ "id": 1143,
+ "name": "The Tower of Althalaxx",
+ "level": 31,
+ "reqlevel": 13,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2500,
+ "start": {
+  "type": "npc",
+  "id": 3661,
+  "name": "Balthule Shadowstrike",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    55,
+    24.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3661,
+  "name": "Balthule Shadowstrike",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    55,
+    24.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30550",
+ "objectiveText": "Kill Athrikus Narassin and bring his head to Balthule Shadowstrike near the Tower of Althalaxx. Athrikus Narassin's Head  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3661,
+   "name": "Balthule Shadowstrike",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5383,
+   "name": "Athrikus Narassin's Head",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Athrikus Narassin's Head",
+   "count": 1,
+   "type": "item",
+   "id": 5383
+  }
+ ],
+ "series": [
+  973,
+  1140,
+  1167,
+  1143,
+  981
+ ],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 3661,
+   "name": "Balthule Shadowstrike",
+   "coord": [
+    55,
+    24.8
+   ],
+   "coords": [
+    [
+     55,
+     24.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 3661,
+   "name": "Balthule Shadowstrike",
+   "coord": [
+    55,
+    24.8
+   ],
+   "coords": [
+    [
+     55,
+     24.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 3660,
+   "name": "Athrikus Narassin",
+   "coord": [
+    56,
+    26
+   ],
+   "coords": [
+    [
+     56,
+     26
+    ],
+    [
+     56.6,
+     26.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 22,
+   "date": "2006-03-10T04:06:06-06:00",
+   "body": "Lvl 33 Druid - solo'd no problem.&nbsp; \n\n2 important keys:\n\n1) Wait for the wandering ones - there's one on each level that goes back and forth between two levels.\n\n2) At the top, pull one side then the other and pull them downstairs just in case they run.&nbsp; When you pull&nbsp; the one closest to Anthrikus you're gonna get him too, pull them way back or down the stairs or you'll get both locks and him - a suicide pull.",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2005-10-15T04:06:06-05:00",
+   "body": "I think the level on this mission is way underated, because this one is tough!&nbsp; Either that or they forgot the \"Elite\" part.&nbsp; I am level 33 now and still have not been able to do this one.\n\nThe problem with this mission is as soon as you go into the tower, half the warlocks and their minions aggro. Even the ones from higher levels of the tower will come down and beat on you. It's not unusual to have 3 or 4 warlocks and their Voidwalkers within a few seconds of me stepping inside the tower. I am going to have to get a group of 3 or 4 together to do this....or wait till I'm level 45 or something like that.\n\nConsider yourself warned.",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2005-12-27T04:06:06-06:00",
+   "body": "One of my favorite alts has done the early stages of this quest and I was debating whether to pass on the last stage, so I went back to catch up on all the comments.\n\nBravo to all of you who completed it! Kudos to those who died several times figuring out how to unstack the odds and report back to us. Many thanks for actually taking the time to tell us about it.\n\nMy problem is that all of us have spent a lot of time and mental energy sorting this out. For what? The XP is too low (at any level) and the rewards are....a blue? A green? How about zilchorama?\n\nI am a big fan of chain quests with a good story and I'll spend four times as much time on them as the usual delivery, escort or extermination quests. But this is one of the worst in terms of bang for the buck, particularly after you've done some of the really good later ones, like the Fallen Hero.\n\nMy point is only this: the early stages of this chain are fun and have reasonable XP and rewards. The last two stages are not worth your time, no matter how much time you have.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2005-12-27T04:06:06-06:00",
+   "body": "I just soloed this with a lvl 29 hunter. However, it took me about 2 hours. The reason it took me so long is the quick respawns, almost had the boss killed a few times but was killed by a respawned lock and pet. \n\nI followed the advice of the 31 pally, except I rezed on the 2nd floor from the top rather than the top floor. Anyway, kill the patrol first that walks between the top and 2nd from the top floors. Then kill the lock sitting at the bottom of the ramp to the top. Proceed to clear out the top floor, working your way out from the ramp to each side. Kill all that you can, except you don't have to kill one of the locks to either side of the boss. Since the boss will run up to you to attack, you can pull him to the opposite side of the room from the last lock left standing. Make sure you keep him slowed by any means necessary since he will try to run around when his health is low. Loot him as soon as you drop him, because there will most likely be respawns bearing down on you. And you must always, always make sure the room is still clear of all locks, except for maybe that one, before you attack the boss.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2019-10-17T14:04:50-05:00",
+   "body": "If I were allowed to get salty on Wowhead the string of blistering curses that I would type when describing this quest would make a drunken sailor blush.  First off, the respawn rate of the warlocks in the tower is insane.  You'd have to be able to do crazy amounts of damage to keep them all dead.  So giving up on that, I decided to allow the lower pathers to respawn and just take on the stationary locks along with the one that paths from the upper floor to the floor below.  Still couldn't do it at lvl 30 (Paladin).  It is difficult if not impossible to fight the locks one at a time as they run around so much while casting that they inevitably cause at least one add and then that add causes adds, etc.  I spent 30 minutes trying what I could think of and dying a few times before deciding to give up on this one, for now.  \r\n\r\nI shall return at some point, and vengeance will be mine!",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-09-08T16:06:06-05:00",
+   "body": "This one was a real challenge.&nbsp; Here are some tips. \n\n1) Always take out the caster first.&nbsp; They have less health and cause far more damage.&nbsp; Then do the Voidwalker (caster's demonic pet). \n\n2) You have to move quickly.&nbsp; The mobs respawn rapidly.&nbsp; Make certain you have a good supply of food, water, bandages, and potions. \n\n3) If you find yourself struggling, buy or make some shadow protection potions.&nbsp; The casters spell damage is shadow.&nbsp; I used one in the final fight.&nbsp; It probably wasn't necessary, but I wanted the insurance. \n\n4) For a Druid or Rogue, use stealth and start with the most damaging attack possible on each caster.&nbsp; You want to eliminate the caster ASAP.&nbsp; The value of melee is it slows their casting rate. \n\n5) The casters move.&nbsp; When they move, chase them down as fast as possible to minimize their casting and to keep your DPS as high as possible. \n\n6) Some of the mobs patrol.&nbsp; Be aware of that so you don't take an add.&nbsp; If you get two, you will probably need to run, and hope you don't get more adds. \n\n7) For the mobs on either side of the boss you will need a distance pull.&nbsp; You don't want to agro the boss, too.&nbsp; Use an instant cast spell when they have moved as far from the boss as possible.&nbsp; Then, run down a level and the caster and pet will follow (line of sight, pull). \n\n8) I found the boss easy, but I used a Shadow Protection potion, and cast Regrowth and Rejuvenation prior to opening up with Starfire & Moonfire, followed by going into cat form, and going all out with DPS. \n\nGood luck.&nbsp; This one wasn't easy for my level 30 Druid. \n\nBy the way, my gear is all greens with one blue from Gnomer.&nbsp; This is not a twinked toon.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-08-03T04:06:06-05:00",
+   "body": "FINALLY I did it:)\n4 times with no luck. The 5th time I used Shadow protection potion.\nSo-I prowled to the second floor. Used the potion-killed few minions-used 2nd potion-killed the rest together with the boss.\nWith that potion its a little bit easier-helped me a lot.\nSo level 31-its doable:)",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-09-08T16:06:06-05:00",
+   "body": "This quest is way underrated, as several people have already pointed out.&nbsp; I went in with a l vel 32 Mage and was killed on the ground floor.&nbsp; I decided to rez and make a run up the ramps, just to see how far I would get.&nbsp; Not past the 2nd floor...\n\nI went back and climbed to the 3rd floor and rezzed right behind Narassin, tossed down one each of an armor, health and mana potion, then (without any time as the mobs were on me immediately) I hit him with one shot from my wand.&nbsp; I died.\n\nI went back again, rezzed just outside the tower (on the west side of it) and killed the nearest cultist.\n\nBeing frustrated at the ridiculously difficult nature of this quest, and not having a dog to kick around, I took it out on a handy lvl 14 Moonstalker kitty.&nbsp; Did I forget to mention I was PO'd?&nbsp; Well, I tried to beat it to death with just my gloves on...Marquis du Queensbury Rules or something.&nbsp; I started with an Unarmed combat skill&nbsp; of 1.&nbsp; When I noticed the kitty wasn't hurting too much (except a few points damage from the Chill effects of my Ice Armor spell as it tried to scratch and bite me to death) I shot it down with my wand.\n\nSo far, the only thing this quest has done is cost me time, some assorted potions, and improved my skill at Urnarmed combat to 47, thanks to the damned cat. :-/\n\nI might as well look for more felines...I'm still annoyed and seem to be making rapid gains toward a Black Belt or something like that.&nbsp; I wonder how many kitties it takes to get to a skill level of 160 in Unarmed?",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-03-10T04:06:06-06:00",
+   "body": "After several failed attempts with another player, I completed this solo with my level 31 Bal/rest Druid without dying. (Leveled to 32 during the quest) The first three times I attempted this was with a lvl29 hunter, but it seemed her pet or the fact that there were just more of us aggroed large numbers of locks and voids and I got results similar to many of the postings above.&nbsp; I saw the prowl/stealth technique above but I hate dying to achieve a quest - so I went back alone a little later.&nbsp; The trick is just to be careful - but I will give a step by step in case it proves useful.\n\nFirst I think it is better to go into the tower when it is at full strength - no one has been there recently.&nbsp; Going in a few minutes after someone else has been there makes the respawns difficult to predict and can lead to trouble.&nbsp; Once you have killed the rogue guards outside, go up the steps to the tower and wait.&nbsp; Through the opening you will see the first lock/void - but there is a patrol that comes through here as well.&nbsp; If you wait you will see the patrol pass right in front of the entrance way - wait a few seconds after it has passed and attack the lock stationed in the room (it is best to take out the lock first as they do more damage - this is easy if you're a caster/ranged - if not it might be easier to take the void first as the locks movie around a lot - its also better to bring them out to you) I used a combo of starfire/moonfire/insect swarm followed by a couple of wraths with a regen thrown in there somewhere - I then would switch to cat form to finish off the void, occasionally moonfiring him first for good measure. After that, walk in to the tower wait and finish off the patrol in the same fashion as they come down the stairs.\n\nGo up the stairs to the mid level- there is another pair standing by another staircase - repeat.&nbsp; (don't forget to stop by the chest on the way up tho these guys) Continue up to the library level just below the top level - proceed carefully as there is a patrol that circles from the top level down to this one.&nbsp; If patrol is not there - wait until they come down from top level - repeat as before.&nbsp; Next proceed carefully about two thirds of the way up the final stair case - this is the trickiest part.&nbsp; There is a pair to the right of the stairs and a pair to the left - it is very easy to aggro both of them if you're not careful.&nbsp; The one to the right seems impossible to attack from the stairs because of ridiculous \"line of sight\" problems - however the one on the left's void can be targeted when he is near the railing.&nbsp; Moonfire or draw him however you will and back down the stairs a little so as not to draw the other pair (be careful not to fall off).&nbsp; In this case I finished off the void before the lock because of line of sight issues - just a regen then into cat - did have to come out to cast regrowth before I finished off lock.&nbsp; Again I found it easier to finish lock with casting - they run around a lot if you melee which increases risk of aggroing others - make them come to you or stay still. \n\nThe rest is pretty easy just back up to the top kill the pair on the right wihout running around and then the two pair on either side of the named guy - they are easty to pull as long as you're careful.&nbsp; By the time I had done all this the patrol had popped back.&nbsp; I just stayed out of the way (prowl can help here) waited for them to go downstairs, followed them and killed them.&nbsp; Run back up attack the named guy quick before any other respawns - he's easy, but he will try to run when low.&nbsp; You could fight your way out in the same fashion or stealth out, but it was late so I just hearthstoned back - got my reward later. \n\nAlso If you're doing a lot of casting like me, be sure to bring a good supply of sweet nectar or whatever you're drinking these days so as to reduce you're time between attacks - this is key. Hope this helps someone - I found it very rewarding to do this way.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-11-20T16:06:06-06:00",
+   "body": "I did solo this last night with my 34 (then 33) druid. Used catform, sneaked all the way to the top of the tower, decloaked and killed him suicidal. Ran back, ressed, looted the corpse, died. Ran back again, ressed just outside the tower, got the loot and got to the guy with the head. The annoying part was when I discovered that upon completion of the last step, to speak with Delgren at Maestra's Post, I was left with 14 xp to level to 34. 14! That's not even 0.01% of the total exp, and I'm in the middle of a grey area! /cry... But then I did the escort quest with his friend, killed all the level 24's and got 575 exp, which was sufficient for me to level. So now I'm 34 ^^. And yes, the quest IS difficult, took me 3 failed tried before I came up with the above \"solution\"... but good luck peeps. Probably not easily soloed by any other class than rogue and druid in catform, and darn difficult to get to the end of... but give it a try. Would recommend getting help though ^^.\n\nHope this helped.\n\nand oh, the journal page... it's just a recount of his ideas and motives for doing the whole cult-thingy. Quite interesting to read, but nothing else to it. Just sell or chuck (or keep it if you like ^^)",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-11-20T16:06:06-06:00",
+   "body": "I soloed this at 31 rogue.\nNotes:\n* Sap the warlock, kill voidwalker, kill warlock\n* use mind-numbing poison + crippling poison - The mindnumbing poison will cause the warlock to have slow cast times on their shadowbolts and the cripling poison will make them run slow.\n* For get killing the mobs on the lower level \n\n1) Sneak up to the level under the last floor and kill the wandering gaurd and the other mob (this should remove the wandering gaurd from coming up and agro'ing)\n2) kill the 2 near the stairs\n3) kill the one on the right hand of him (you can do this without drawing aggro)\n4) you will have the warlock on the left and your target. Sap the warlock and kill your target. \n5) Vanish or run like hell.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-08-03T04:06:06-05:00",
+   "body": "One reason this is an easy quest for Rogues is because it's almost exactly like the lvl 20-25 poison quest we had to do.&nbsp; Also because it's a classic assassination.&nbsp; Stealth to the top of the tower, time your attack so you don't draw attention to yourself, then Vanish (using flash powder) after you finish the assassination/looting.\n\nToo bad the quest rewards suck for a rogue (a two hand sword we can't use and a cloth armor that's useless for us), but it's worth it for the XP and rep...",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-09-08T16:06:06-05:00",
+   "body": "Its a pain in the ass , that's my comment..:'(",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-05-16T06:30:06-05:00",
+   "body": "Yay..i did it!\nIt's a tough one...only druids have real chances at a low level.\nI finished this quest at 29 being a night elf druid and using my alchemy skill using some potions of Strength and Armor while fighting in Bear form..and to be honest 4 deaths.\n\nStrategy was:\nsneak to the top of tower and pull each pair of Warlocks, Void one by one. Start in Bear and when you finish Warlock or Void use Bear stun to get a free heal from Regrowth and fight to the end.\n\nA tip: if warlock runs to depart from you dont follow it cus will returns to your position . Probably many followed them and aggroed other Npc too.\n\nP.S you also need a good equipment to resist the damage. :P",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-05-09T04:52:59-05:00",
+   "body": "Can be found at 56,26",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-15T04:06:06-05:00",
+   "body": "After 10+ attempts to solo this quest with my 31 warrior and not making it anywhere close to the top of the tower, I was just about ready to dump it when a level 50 druid came in and cleared the tower out for me.\n\nAs a warrior, its difficult to pull the warlocks since they will just sit there and spam shadow bolts on you over and over for around 150 dmg a pop...very painful if not dealt with quickly.&nbsp; They also like to run away from you to setup their casts which can cause problems since there are plenty of other mobs walking around above you that will agro.&nbsp; You need to take your time to assure no adds, but these mobs spawn so fast that you can't move too slow.\n\nNo idea why they put a 30+ quest out in darkshore...since its difficult to find anyone in the area to help within this level range...",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-03-10T04:06:06-06:00",
+   "body": "I just defeated the leader of Dark Strand cult and claimed his head.\nWe were me Druid lv24 and priest lv 30.\nIt wasn't exactly a piece of cake but it was satisfying to complete.\nWhen trying to clear the top floor is really hard to pull them one by one... 3 warlocks with their minions came. I went bear tanking most of the mobs and when health was low used an item called Light of Elune that made me immune for 10 secs,&nbsp; fully healed and bear again until all died.\n\nAlso was scary that once we killed the leader some of the warlocks were respawning already :x",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-15T04:06:06-05:00",
+   "body": "this quest is defitnly not a lvl 31 quest!\nno matter what everybody says it is for most classes impossible to do exept for rogues maybe\nand the spawnrate of the casters is insane....\ni killed the 2 in the hall went up the stairs and killed the 3th when the first one from the hall attacked me, i run outside and all the low lvl's where back...this simply stinks...do this when your at least 4 lvls above the 31",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-03-10T04:06:06-06:00",
+   "body": "I was helping 2 lvl21's and a 27 do the quest the other day.&nbsp; Every time we would engage one, the entire floor would agro from the stairwell.&nbsp; However, if they stayed down a floor and I went up just myself(lvl 33), I could get only one a time.&nbsp; From that experiment, I'd say don't bother at lvls lower than 30 unless you can stealth or have a group capable of taking the entire floor at once.&nbsp; At >lvl30, its pretty easy as you should be able to just fight one at a time.&nbsp; Another hint is dont chase the casters, they'll only run about 5 or 10 yds from you to cast the spells, chasing lets them keep running in that direction and agro's more.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-06-27T16:06:06-05:00",
+   "body": "i did this on my own, first try, as a warlock. its all a matter of taking everything slowly, and one at a time. it was easy with a pet, because you can send the pets after the voidwalker, and take on the warlock. like the tortise and the hare says, slow and steady wins the race.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-09-08T16:06:06-05:00",
+   "body": "Managed to solo quite easily as a lvl 34 priest (shadow-spec). Just pulled the warlocks carefully one at a time and did that the whole way up. Cleared the top floor in the same way before attacking the boss one on one. Came only close to dying once on the way out when I got attacked from one of the wanderers while fighting another warlock.\nHappy questing!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-03-10T04:06:06-06:00",
+   "body": "Solo'd as a lv34 warrior.&nbsp; Died a couple times when I got too much \"attention\", but otherwise got to the pansy upstairs (who didn't cast anything...) and killed him.\n\nMade my way up by being clever and avoided like 3 locks (smaller aggro bubble from lv diff probably helped).&nbsp; The gang up top took a couple deaths and fast running to get rid of... :)\n\nGetting out was easy - jump!&nbsp; The minions won't really get you and you'll only take a couple bolts.&nbsp; Then run like hell.&nbsp; :)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-15T16:06:06-05:00",
+   "body": "When you went inside tower, pull if possible 1 on 1. Use shadow protection for the tower.\nKill casters first, they do high damage. Then voidwalkers.\nIf you reach the top floor, there are 4 casters who can walk around.\nThus its better to pull them 1 on 1 and always walk downstairs! That method works better.\nIf you see cast reaction message (with SCT mod) run now downstairs.\n\nThen there is one mob which you can kill more easier without casters around :)\n\nBut if you're finished, the bottom layers of tower is already filled with respawned casters. You have two choices: fight or run.\nBecause the respawn goes fast, the option to run is better. You can jump quicker down and run away. Don't follow all stairs. Before you know, there are already casters behind you!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-15T14:53:49-05:00",
+   "body": "I done this as a level 32 hunter after the patch for all the new pet abilities and made it up top and killed him no problem, just take out the casters first and let frost trap slow their pets.\nWhen you get to the top you might end up having 2 casters and Athrikus on you so be careful, it happened to me and i still managed to take them all down.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-12T19:14:07-05:00",
+   "body": "Did this way too easily as a Level 32 Rogue.  Stealthed up to the top of the tower.  Had mind numbing poison on my main dagger and deadly poison on my off hand dagger.  Went right behind Arthrikus and hit with Ambush followed by Gouge.  His health was already over 1/3 gone I'd say, so the rest was just a standard pummeling.  Only agro'd one Warlock and Pet near him when he was about two hits shy of dying, so it was no problem handling the adds once I'd grabbed Artie's head.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-28T03:20:31-06:00",
+   "body": "For those of you who are annoyed with the running around of the warlocks, I can recommend using a fixating spell/skill while you deal with their minions. For rogues I can recommend Sap.\n\nA dirt cheap trick, should you die, is to take advantage of the fact that WoW doesn't look at the altitude of your spirit when dead. Which means you can basically go all the way to the top of the tower & respawn. Each warlock/minion can be dealt with one by one, just be careful that they don't aggro the warlock on the spiral staircase.",
+   "replies": [
+    "\nWhile technically true WoW doesn't seem to take Z-distance (altitude) into account, so if you die in a (non-instanced) cave you may be able to rez just by standing above ground directly over your corpse.   The WoW engine only appears to take a \"raw\" point-to-point distance into account.  So lets say, if the rez distance is 100 yards, you can stand 100 yards directly above your body.  But if the cave (or water) is too deep, then, its spiirt healer time.\n\n(I discovered this when I fell through some scenary and ended up on the bottom of the universe :)  Also, any cave that is too deep undergroun",
+    "As a druid you could prowl all the way up too.. :)",
+    "Yep, that's how I did it at Level 33. I was even able to kill Narassin without aggroing the warlocks on either side of him.",
+    "It's tough to solo aggro Narassin, b/c both warlocks on either side of him move, and he also flees at low hp. But it's doable.\n\nEdited, Wed Jan  4 12:05:20 2006"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-22T06:35:20-05:00",
+   "body": "We tried it yesterday, i was in a group of 5\n1 lvl 20 guy\none 23\n2 27's\none 29\n\nand we hardly even made it into the tower...\nis it just us being to weak, or are we doing something wrong",
+   "replies": [
+    "You are probably still a little weak. I tried to solo it just now and made my way pretty well as long as I could take out a caster and his helper separately. At some point it wasn't possible and I had to deal with four mobs and died.\nSpawning at the top didn't help much either because you can't kill Narassin fast enough before all the mobs jump on you.\nI'm sure with a group of two (plus my pet) it wouldn't be such a big deal tho.\n\nRainhold & Mushikater\nlvl 32 hunter"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-05T19:59:28-05:00",
+   "body": "I did this yesterday with a 34 Priest as a 32 Warlock.  It took us a couple tries, but we finally made it to the top.\n\nOur strategy was to take on the casters one at a time.  I would banish the voidwalkers and then we could take out the caster no problem.  The patrols were kind of tricky, but once we were at the top we could take out the helpers one at a time.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-03T12:52:20-06:00",
+   "body": "Completed as a 30 rogue. Died 3 times in total but could probably have done it without dying if I thought it through more. Anyway, I find sapping the warlocks, killing the pet then dealing with the warlock works well. An add usually means I have to vanish. I could probably have sapped the warlock on one side of Arithkus, which would have aggroed him over and killed him before vanishing.\n\nHe spawns back very fast however.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-26T02:45:19-06:00",
+   "body": "soloed this as a 29 warlock, banish + succubus did the trick, either i banished the add and took down the caster 1st or the other way around, be careful about pulling and if you can pull 1 lvl lower of the top floor you can even fear the add there when u cleared it without having to worry bout adds.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-30T14:13:08-06:00",
+   "body": "idk how easy this quest is for everyone else, but as a hunter is really hard solo.  i'm lvl 30 and the warlocks and minions aren't that hard except that you can't ever aim at them properly.  there usually isn't a clear line of sight because of all the levels and the tower is really small.  it wouldn't be so hard, except for the confinement.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-15T05:14:21-05:00",
+   "body": "Very easy as a lvl 32 druid.\n\nI just stealthed in, killed a couple of minions on the way up just for a laugh. At the top, I stayed in catform, took out the minion, and the spell caster at the top. They were pretty easy as a cat, and didn't aggro Arthikus. I had plently of time to heal up, and stealth over and take out Arthikus in just a few good strikes.\n\nHe runs around a bit though, but if you keep the pressure on him he doesn't get time to really cast much in the way of damage on you. He hardly even touched me at all.\n\n^_^",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-08T20:21:46-06:00",
+   "body": "Yeah what are you supposed to do with the journal page you find?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-19T20:13:31-05:00",
+   "body": "wat do we do with the notes?",
+   "replies": []
+  }
+ ]
+}

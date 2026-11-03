@@ -1,0 +1,93 @@
+{
+ "id": 79229,
+ "name": "Highway Robbery",
+ "level": 40,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 1550,
+ "start": {
+  "type": "object",
+  "id": 417353,
+  "name": "Extinguished Campfire",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    47.4,
+    54.6
+   ],
+   [
+    47.5,
+    54.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11438,
+  "name": "Bibbly F'utzbuckle",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    62.2,
+    38.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Find someone in Desolace who knows about the pillaged campsite.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [
+  79229,
+  79235
+ ],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 2,
+   "id": 417353,
+   "name": "Extinguished Campfire",
+   "coord": [
+    47.5,
+    54.6
+   ],
+   "coords": [
+    [
+     47.4,
+     54.6
+    ],
+    [
+     47.5,
+     54.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 11438,
+   "name": "Bibbly F'utzbuckle",
+   "coord": [
+    62.2,
+    38.8
+   ],
+   "coords": [
+    [
+     62.2,
+     38.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

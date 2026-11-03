@@ -1,0 +1,151 @@
+{
+ "id": 94413,
+ "name": "A Magical Affront",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 540,
+ "start": {
+  "type": "npc",
+  "id": 251903,
+  "name": "Rathiril Sunlance",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    45,
+    46.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251903,
+  "name": "Rathiril Sunlance",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    45,
+    46.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Slay 6 Windshaper Novice Seers in Shen'dar Highlands.   Windshaper Novice Seer defeated  ( 6 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 257532,
+   "name": "Windshaper Novice Seers",
+   "count": 6,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Windshaper Novice Seer defeated",
+   "count": 6,
+   "type": "npc",
+   "id": 257532
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 251903,
+   "name": "Rathiril Sunlance",
+   "coord": [
+    45,
+    46.4
+   ],
+   "coords": [
+    [
+     45,
+     46.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251903,
+   "name": "Rathiril Sunlance",
+   "coord": [
+    45,
+    46.4
+   ],
+   "coords": [
+    [
+     45,
+     46.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 257532,
+   "name": "Windshaper Novice Seer",
+   "coord": [
+    38.8,
+    47.6
+   ],
+   "coords": [
+    [
+     38.2,
+     46.3
+    ],
+    [
+     38.2,
+     47.5
+    ],
+    [
+     38.4,
+     47.2
+    ],
+    [
+     38.4,
+     48.6
+    ],
+    [
+     38.8,
+     47.6
+    ],
+    [
+     38.8,
+     48.5
+    ],
+    [
+     39,
+     47.4
+    ],
+    [
+     39.3,
+     46.4
+    ],
+    [
+     39.7,
+     46.4
+    ],
+    [
+     39.7,
+     46.7
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

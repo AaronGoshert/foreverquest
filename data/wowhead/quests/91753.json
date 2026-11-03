@@ -1,0 +1,127 @@
+{
+ "id": 91753,
+ "name": "An Enchanting Lesson",
+ "level": 7,
+ "reqlevel": 5,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 475,
+ "start": {
+  "type": "npc",
+  "id": 11072,
+  "name": "Kitta Firewind",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    64.8,
+    70.4
+   ],
+   [
+    64.8,
+    70.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11072,
+  "name": "Kitta Firewind",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    64.8,
+    70.4
+   ],
+   [
+    64.8,
+    70.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Kitta Firewind in the Tower of Azora wants you to collect 3 Luminous Residue . Luminous Residue can be obtained by disenchanting Crude Wax Effigies dropped by Kobold Geomancers. Luminous Residue  ( 3 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 11072,
+   "name": "Kitta Firewind",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 247884,
+   "name": "Luminous Residue",
+   "count": 3,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Luminous Residue",
+   "count": 3,
+   "type": "item",
+   "id": 247884
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 11072,
+   "name": "Kitta Firewind",
+   "coord": [
+    64.8,
+    70.6
+   ],
+   "coords": [
+    [
+     64.8,
+     70.4
+    ],
+    [
+     64.8,
+     70.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 11072,
+   "name": "Kitta Firewind",
+   "coord": [
+    64.8,
+    70.6
+   ],
+   "coords": [
+    [
+     64.8,
+     70.4
+    ],
+    [
+     64.8,
+     70.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-09T08:57:45-05:00",
+   "body": "This quest is available for Enchanters only.",
+   "replies": []
+  }
+ ]
+}

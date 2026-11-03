@@ -1,0 +1,282 @@
+{
+ "id": 92693,
+ "name": "Standing Our Ground",
+ "level": 9,
+ "reqlevel": 5,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 195,
+ "start": {
+  "type": "npc",
+  "id": 252800,
+  "name": "Aamelia Windfield",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    46.6,
+    81.8
+   ],
+   [
+    47,
+    81.2
+   ],
+   [
+    47.2,
+    80
+   ],
+   [
+    47.4,
+    78.4
+   ],
+   [
+    47.4,
+    78.6
+   ],
+   [
+    47.6,
+    78.4
+   ],
+   [
+    47.6,
+    78.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252800,
+  "name": "Aamelia Windfield",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    46.6,
+    81.8
+   ],
+   [
+    47,
+    81.2
+   ],
+   [
+    47.2,
+    80
+   ],
+   [
+    47.4,
+    78.4
+   ],
+   [
+    47.4,
+    78.6
+   ],
+   [
+    47.6,
+    78.4
+   ],
+   [
+    47.6,
+    78.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Speak with Aamelia Windfield when you are ready to confront the bandit leader.   Speak with Aamelia Windfield  ( 1 )   Follow Aamelia and make your final stand  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 252800,
+   "name": "Aamelia Windfield",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 252863,
+   "name": "Follow Aamelia and make your final stand",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Speak with Aamelia Windfield",
+   "count": 1,
+   "type": "npc",
+   "id": 252800
+  },
+  {
+   "text": "Follow Aamelia and make your final stand",
+   "count": 1,
+   "type": "npc",
+   "id": 252863
+  }
+ ],
+ "series": [
+  92693,
+  92703
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252800,
+   "name": "Aamelia Windfield",
+   "coord": [
+    46.6,
+    81.8
+   ],
+   "coords": [
+    [
+     46.6,
+     81.8
+    ],
+    [
+     47,
+     81.2
+    ],
+    [
+     47.2,
+     80
+    ],
+    [
+     47.4,
+     78.4
+    ],
+    [
+     47.4,
+     78.6
+    ],
+    [
+     47.6,
+     78.4
+    ],
+    [
+     47.6,
+     78.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252800,
+   "name": "Aamelia Windfield",
+   "coord": [
+    46.6,
+    81.8
+   ],
+   "coords": [
+    [
+     46.6,
+     81.8
+    ],
+    [
+     47,
+     81.2
+    ],
+    [
+     47.2,
+     80
+    ],
+    [
+     47.4,
+     78.4
+    ],
+    [
+     47.4,
+     78.6
+    ],
+    [
+     47.6,
+     78.4
+    ],
+    [
+     47.6,
+     78.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 252800,
+   "name": "Aamelia Windfield",
+   "coord": [
+    46.6,
+    81.8
+   ],
+   "coords": [
+    [
+     46.6,
+     81.8
+    ],
+    [
+     47,
+     81.2
+    ],
+    [
+     47.2,
+     80
+    ],
+    [
+     47.4,
+     78.4
+    ],
+    [
+     47.4,
+     78.6
+    ],
+    [
+     47.6,
+     78.4
+    ],
+    [
+     47.6,
+     78.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 252863,
+   "name": "Ferauu the Bludgeon",
+   "coord": [
+    47.6,
+    78
+   ],
+   "coords": [
+    [
+     47.6,
+     78
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-03T00:54:38-05:00",
+   "body": "If someone else is on this quest and talks to Aamelia before you, the NPC will run up the path and you won't get credit. Just wait for Aamelia to come back to her normal position in front of the house and try again. This does work in a party so if one person talks to her all party members will get credit.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-10T09:21:39-05:00",
+   "body": "THREAT DETECTED.\r\n\r\nADMINISTERING VIOLENCE.",
+   "replies": []
+  }
+ ]
+}

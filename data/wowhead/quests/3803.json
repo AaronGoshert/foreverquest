@@ -1,0 +1,195 @@
+{
+ "id": 3803,
+ "name": "Morrowgrain to Darnassus",
+ "level": 55,
+ "reqlevel": 47,
+ "side": 1,
+ "zoneId": 1657,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": {
+  "type": "npc",
+  "id": 4217,
+  "name": "Mathrengyl Bearwalker",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    34.8,
+    7.4
+   ],
+   [
+    35.2,
+    8
+   ],
+   [
+    35.2,
+    8.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4217,
+  "name": "Mathrengyl Bearwalker",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    34.8,
+    7.4
+   ],
+   [
+    35.2,
+    8
+   ],
+   [
+    35.2,
+    8.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Progress The Arch Druid is always looking for additional morrowgrain for the Cenarion Circle's continued research.  We take them in increments of ten, and award you with a cache of goods you should find useful.  When you have ten, let me know and I will reward you accordingly. Morrowgrain  ( 10 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11040,
+   "name": "morrowgrain",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Morrowgrain",
+   "count": 10,
+   "type": "item",
+   "id": 11040
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "start",
+   "type": 1,
+   "id": 4217,
+   "name": "Mathrengyl Bearwalker",
+   "coord": [
+    35.2,
+    8
+   ],
+   "coords": [
+    [
+     34.8,
+     7.4
+    ],
+    [
+     35.2,
+     8
+    ],
+    [
+     35.2,
+     8.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 4217,
+   "name": "Mathrengyl Bearwalker",
+   "coord": [
+    35.2,
+    8
+   ],
+   "coords": [
+    [
+     34.8,
+     7.4
+    ],
+    [
+     35.2,
+     8
+    ],
+    [
+     35.2,
+     8.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 21,
+   "date": "2007-02-07T08:00:55-06:00",
+   "body": "Based on drop rates and reagents needed..\n\nfor Revered to Exalted you need 21000 rep\n21000 / 75 = 280 turn-ins\n280 turn-ins = 2800 Morrowgrain\n\nMorrowgrain drops approx 37.9% of the time according to wowhead stats, but drops 1 - 5 morrowgrain each time it does.\nat 2.5 morrowgrain per drop, 37.9% of the time - you will need roughly 425 Evergreen Herb Casings.\n\nCasings are made from 2x Un'Goro Soil and 1x Packet of Tharlendris Seeds, so this means 850 soil and 425 seeds.\nThe seeds are sold by a vendor in Darnassus for 10s each (is this affected by rep?) therefore the seeds will cost you 42.5g\n\nUn'Goro Soil drops most in Un'Goro Crater from the Gorishi bug things, roughly 1/3 of the time, maybe a bit more. This means you will need to kill around 2500 of these mobs to get your soil, assuming you don't pick any soil up from the ground. If anyone can estimate how long you'd be killing mobs to get that done and how often you'd come across a pile of soil that'd be wonderful.\n\nLast on the list is the 10 minute cooldown on cultivate seeds, this means that once you have spent your 42.5g to buy packets of seeds, and killed your 2500 Gorishi mobs to collect 850 bits of soil, you need to spend 70 hours and 50 minutes cultivating them. I suggest you do it while you grind tbh.",
+   "replies": [
+    "Shot, its 3 per drop and not 2.5",
+    "I think Shot was using an average, which is more accurate, since I get as many 1x Morrowgrain as I get 3x in an herb casing.  That said, I don't really see the calcs done as being accurate to the truth either. When grinding, I can gather a couple stacks of Un'goro soil in a couple days, buy the seeds, and then run off to grind up some decent cloth for turn ins as well, generating the herbs while grinding for both. This is more of a supplement to the normal cloth/quest rep grind, than something that should be used as your main source of rep.",
+    "4-5 seems to be for herbalists only, as a non-herbalist, I get 1-3. So, let's say 1.5 on average.",
+    "If it's 1-3, then it's 2 average.",
+    "How the hell does 425 Evergreen Herb Casings add up to 2800 Morrowgrain?"
+   ]
+  },
+  {
+   "rating": 14,
+   "date": "2006-12-12T13:29:47-06:00",
+   "body": "The reason it is repeatable is because if your not a NE then you can do this quest over and over and over and over and over and over (you get the idea) again to get exalted status with Darnassus so you can get a sabre. There ya go!",
+   "replies": [
+    "If you are a Night Elf, then you can also do this quest over and over and over and over and over and over (you get the idea) again to get exalted status with Darnassus so you can get a discount for a sabre.There ya go!",
+    "But you already get the discount on honored, so getting exalted for that is a waste of a \"There ya go!\""
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-12T13:58:21-05:00",
+   "body": "And save yourself some time and trouble. Herbalism bumps the chance and # of morrowgrain you'll get out of these things. My 310 Herbalist (with gloves and enchant) averages 5-7 morrowgrain per package. I only my other toons when I want to get Grom's Blood or some other high level herbs.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-02-08T17:25:00-06:00",
+   "body": "Bear in mind that this quest is repeatable, which is useful if you intend to raise your faction with the Night Elves (attached to Morrowgrain to Feathermoon)\n\nEdited, Tue Feb  8 11:25:11 2005",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-11-17T00:57:36-06:00",
+   "body": "The cache is completely random.  Just give to guild friends or others what you do not use.  Many times has a friend been in need of mana and that unused Moonberry Juice comes in handy.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-08-31T14:56:52-05:00",
+   "body": "Here is the link of my post.\n\n[quest=3791]",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2005-09-30T14:44:34-05:00",
+   "body": "As an alchemist I would recommend taking your morrowgrain to Feathermoon in stead. You get 10 seeds for turning in 5 morrowgrain. You'll gain 16 rep points apparently and even if you do not intend to use the seeds, they sell pretty well.\nOk, collecting the soil is tedious work but while in Un'Goro one can pick up herbs for Major Healing potions as well.\n\nFeathermoon quest: [url=/quest=3792][/url]",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2006-02-07T22:20:49-06:00",
+   "body": "The reason it is repeatable is because if your not a NE then you can do this quest over and over and over and over and over and over (you get the idea) again to get exalted status with Darnassus so you can get a sabre. There ya go!",
+   "replies": []
+  },
+  {
+   "rating": -10,
+   "date": "2005-02-05T10:15:01-06:00",
+   "body": "So my warrior completes this quest, which is kinda a pain in the ass, and what does the cache contain? \n\n1x Cats eye elixer \n1x Elixer of greater intellect \n1x Greater Mana potion \n4x Moonberry juice \n1x Restorative elixer \n1x Fine aged chedder \n\nAll and all quite a let down.  Especially since the only thing I didn't immediatly vendor back was the cats eye elixer. I don't know exactly what I was expecting from this quest, but was quite let down. The quest IS repeatable, but why bother? \n\nPerhalps if the satchel didn't have a 10 minute cooldown every time to use it, this quest wouldn't have been so ornery. If you are doing this quest, I wouldn't recomend paying for the soil in the AH. Just do the quest as you get the soil. Even then, If you aren't a mana user, I wouldn't waste my time doing it again.",
+   "replies": [
+    "Seems to be random what you get. The one time I got the cache it contained major healing potions, elixer of giant strength, elixer of mongoose, and some other things. Second time I did it I got another assortment of potions which were somewhat useful to me too."
+   ]
+  }
+ ]
+}

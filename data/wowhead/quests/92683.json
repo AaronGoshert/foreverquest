@@ -1,0 +1,215 @@
+{
+ "id": 92683,
+ "name": "Flutterfly Dust",
+ "level": 9,
+ "reqlevel": 5,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 590,
+ "start": {
+  "type": "npc",
+  "id": 252800,
+  "name": "Aamelia Windfield",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    46.6,
+    81.8
+   ],
+   [
+    47,
+    81.2
+   ],
+   [
+    47.2,
+    80
+   ],
+   [
+    47.4,
+    78.4
+   ],
+   [
+    47.4,
+    78.6
+   ],
+   [
+    47.6,
+    78.4
+   ],
+   [
+    47.6,
+    78.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252800,
+  "name": "Aamelia Windfield",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    46.6,
+    81.8
+   ],
+   [
+    47,
+    81.2
+   ],
+   [
+    47.2,
+    80
+   ],
+   [
+    47.4,
+    78.4
+   ],
+   [
+    47.4,
+    78.6
+   ],
+   [
+    47.6,
+    78.4
+   ],
+   [
+    47.6,
+    78.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Gather 5 Flutterfly Dust from the Flutterflies around the Gustberry Lowlands. Flutterfly Dust  ( 5 ) Flutterfly Swatter (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 253595,
+   "name": "Flutterfly Dust",
+   "count": 5,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 253666,
+   "name": "Flutterfly Swatter",
+   "count": 5,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Flutterfly Dust",
+   "count": 5,
+   "type": "item",
+   "id": 253595
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252800,
+   "name": "Aamelia Windfield",
+   "coord": [
+    46.6,
+    81.8
+   ],
+   "coords": [
+    [
+     46.6,
+     81.8
+    ],
+    [
+     47,
+     81.2
+    ],
+    [
+     47.2,
+     80
+    ],
+    [
+     47.4,
+     78.4
+    ],
+    [
+     47.4,
+     78.6
+    ],
+    [
+     47.6,
+     78.4
+    ],
+    [
+     47.6,
+     78.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252800,
+   "name": "Aamelia Windfield",
+   "coord": [
+    46.6,
+    81.8
+   ],
+   "coords": [
+    [
+     46.6,
+     81.8
+    ],
+    [
+     47,
+     81.2
+    ],
+    [
+     47.2,
+     80
+    ],
+    [
+     47.4,
+     78.4
+    ],
+    [
+     47.4,
+     78.6
+    ],
+    [
+     47.6,
+     78.4
+    ],
+    [
+     47.6,
+     78.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2026-09-25T17:32:36-05:00",
+   "body": "You have to use the quest item on the mobs before combat. If it doesn't run away, the dust will be on the ground to pick up, NOT on the mob's corpse after it dies.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2026-10-01T09:09:09-05:00",
+   "body": "Flutterfly Dust doesn’t always drop directly from the mobs (though occasionally it does!). Sometimes, after you use the quest item on them, it drops onto the ground as a little white “disc” that you have to pick up manually.\r\n\r\nI can’t even count how many of those I must have missed because I thought the item just had a really low drop rate when looting the dead flutterflies.",
+   "replies": [
+    "If they do attack you after swatting them, you can sometimes get a second disk"
+   ]
+  }
+ ]
+}

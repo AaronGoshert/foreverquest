@@ -1,0 +1,120 @@
+{
+ "id": 98223,
+ "name": "Old Habits",
+ "level": 31,
+ "reqlevel": 23,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1250,
+ "start": {
+  "type": "object",
+  "id": 671518,
+  "name": "Tattered Spellbook",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    53.4,
+    54.5
+   ],
+   [
+    53.5,
+    54.4
+   ],
+   [
+    53.5,
+    54.5
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2104,
+  "name": "Captain Stoutfist",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    9.8,
+    57.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Bring the Tattered Spellbook to Captain Stoutfist in Menethil Harbor. Tattered Spellbook (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2104,
+   "name": "Captain Stoutfist",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 280042,
+   "name": "Tattered Spellbook",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 2,
+   "id": 671518,
+   "name": "Tattered Spellbook",
+   "coord": [
+    53.5,
+    54.5
+   ],
+   "coords": [
+    [
+     53.4,
+     54.5
+    ],
+    [
+     53.5,
+     54.4
+    ],
+    [
+     53.5,
+     54.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 2104,
+   "name": "Captain Stoutfist",
+   "coord": [
+    9.8,
+    57.4
+   ],
+   "coords": [
+    [
+     9.8,
+     57.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-14T01:22:51-05:00",
+   "body": "'Stopping the Cycle' Questchain:\n\n[ol]\n[li][url=https://www.wowhead.com/forever/quest=98223/]Old Habits[/url]: This quest starts from a book next to [url=https://www.wowhead.com/forever/npc=2091/chieftain-nekrosh]Chieftian Nek'rosh[/url] (naturally found while completing [url=https://www.wowhead.com/forever/quest=474/defeat-nekrosh]Defeat Nek'rosh[/url]) and picking up the book.[/li]\n[li](These may be completed independently from the proper quest chain, but must be marked as completed to continue.)[/li]\n[ul]\n[li][li][url=https://www.wowhead.com/forever/quest=98245/razormaw-needling]Razormaw Needling[/url] [/li][/li]\n[li][li][url=https://www.wowhead.com/forever/quest=98246/trying-times]Trying Times[/url][/li][/li]\n[/ul]\n[li][url=https://www.wowhead.com/forever/quest=98230/this-land-was-their-land]This Land Was Their Land[/url][/li]\n[li][url=https://www.wowhead.com/forever/quest=98291/death-to-the-dragonmaw]Death to the Dragonmaw[/url][/li]\n[li][url=https://www.wowhead.com/forever/quest=98297/stopping-the-cycle]Stopping The Cycle[/url]: Rewards, pick one of  the following: [url=https://www.wowhead.com/forever/item=281313/trusty-sword]Trusty Sword[/url], [url=https://www.wowhead.com/forever/item=281312/fallen-dragons-scepter]Fallen Dragons Scepter[/url], [url=https://www.wowhead.com/forever/item=281314/subdued-dragons-fang]Subdued Dragons Fang[/url][/li]\n[li][url=https://www.wowhead.com/forever/quest=98300/word-to-ironforge]Word To Ironforge[/url][/li]\n[/ol]",
+   "replies": []
+  }
+ ]
+}

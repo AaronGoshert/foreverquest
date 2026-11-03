@@ -1,0 +1,21 @@
+{
+ "id": 1162,
+ "name": "<NYI> <TXT> speak to hamuul runetotem",
+ "level": 58,
+ "reqlevel": 55,
+ "side": 3,
+ "zoneId": 1377,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": null,
+ "end": null,
+ "patch": "1.13.2.30786",
+ "objectiveText": "x",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

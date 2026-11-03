@@ -1,0 +1,122 @@
+{
+ "id": 91745,
+ "name": "Mining Consultant",
+ "level": 3,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 25,
+ "start": {
+  "type": "npc",
+  "id": 951,
+  "name": "Brother Paxton",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    49.4,
+    40.4
+   ],
+   [
+    49.6,
+    40.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 247226,
+  "name": "Kelsey Fargo",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    47.2,
+    32.2
+   ],
+   [
+    47.2,
+    32.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Talk to Kelsey Fargo outside the Echo Ridge Mine in Northshire Valley.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 247226,
+   "name": "Kelsey Fargo",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  91741,
+  91743,
+  91745,
+  91752,
+  91758,
+  91772,
+  91775,
+  91777
+ ],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 951,
+   "name": "Brother Paxton",
+   "coord": [
+    49.4,
+    40.4
+   ],
+   "coords": [
+    [
+     49.4,
+     40.4
+    ],
+    [
+     49.6,
+     40.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 247226,
+   "name": "Kelsey Fargo",
+   "coord": [
+    47.2,
+    32.2
+   ],
+   "coords": [
+    [
+     47.2,
+     32.2
+    ],
+    [
+     47.2,
+     32.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-25T23:09:04-05:00",
+   "body": "Kelsey is located [b]in front of the kobold cave[/b].\r\n\r\nThe next part involves killing a [url=https://www.wowhead.com/forever/npc=248362/shinyfinder-narf#map]level 3 elite kobold[/url] inside the cave, but he shouldn't present you with any real problems. He uses Fireball and Frost Armor.\r\n\r\nThe [url=https://www.wowhead.com/forever/quest=91777/rare-books]final part[/url] of this new quest chain rewards you with green quality weapons.",
+   "replies": []
+  }
+ ]
+}

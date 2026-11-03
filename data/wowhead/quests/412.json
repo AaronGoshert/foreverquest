@@ -1,0 +1,435 @@
+{
+ "id": 412,
+ "name": "Operation Recombobulation",
+ "level": 10,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 840,
+ "start": {
+  "type": "npc",
+  "id": 1269,
+  "name": "Razzle Sprysprocket",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    45.8,
+    49.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1269,
+  "name": "Razzle Sprysprocket",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    45.8,
+    49.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring Razzle Sprysprocket in Kharanos 8 Restabilization Cogs and 8 Gyromechanic Gears . Restabilization Cog  ( 8 ) Gyromechanic Gear  ( 8 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1269,
+   "name": "Razzle Sprysprocket",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3083,
+   "name": "Restabilization Cog",
+   "count": 8,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3084,
+   "name": "Gyromechanic Gear",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Restabilization Cog",
+   "count": 8,
+   "type": "item",
+   "id": 3083
+  },
+  {
+   "text": "Gyromechanic Gear",
+   "count": 8,
+   "type": "item",
+   "id": 3084
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1269,
+   "name": "Razzle Sprysprocket",
+   "coord": [
+    45.8,
+    49.2
+   ],
+   "coords": [
+    [
+     45.8,
+     49.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1269,
+   "name": "Razzle Sprysprocket",
+   "coord": [
+    45.8,
+    49.2
+   ],
+   "coords": [
+    [
+     45.8,
+     49.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1211,
+   "name": "Leper Gnome",
+   "coord": [
+    24.4,
+    39.8
+   ],
+   "coords": [
+    [
+     24.4,
+     39.8
+    ],
+    [
+     24.4,
+     40.6
+    ],
+    [
+     24.4,
+     43
+    ],
+    [
+     24.4,
+     43.6
+    ],
+    [
+     24.6,
+     39.4
+    ],
+    [
+     24.8,
+     43.4
+    ],
+    [
+     24.8,
+     43.6
+    ],
+    [
+     25.2,
+     39.8
+    ],
+    [
+     25.4,
+     41.8
+    ],
+    [
+     25.4,
+     44.6
+    ],
+    [
+     25.4,
+     45.6
+    ],
+    [
+     25.6,
+     40
+    ],
+    [
+     25.6,
+     44.6
+    ],
+    [
+     25.6,
+     45.6
+    ],
+    [
+     26,
+     40.6
+    ],
+    [
+     26,
+     41.8
+    ],
+    [
+     26,
+     42.8
+    ],
+    [
+     26,
+     43.6
+    ],
+    [
+     26.2,
+     36.8
+    ],
+    [
+     26.4,
+     35.8
+    ],
+    [
+     26.6,
+     40.8
+    ],
+    [
+     26.6,
+     41.8
+    ],
+    [
+     26.6,
+     42.8
+    ],
+    [
+     26.6,
+     43.8
+    ],
+    [
+     27,
+     36.4
+    ],
+    [
+     27.2,
+     37
+    ],
+    [
+     27.4,
+     37.6
+    ],
+    [
+     27.6,
+     36.4
+    ],
+    [
+     27.6,
+     37
+    ],
+    [
+     27.8,
+     37.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 8503,
+   "name": "Gibblewilt",
+   "coord": [
+    24.2,
+    43.6
+   ],
+   "coords": [
+    [
+     24,
+     43.4
+    ],
+    [
+     24.2,
+     43.6
+    ],
+    [
+     24.6,
+     45.6
+    ],
+    [
+     25,
+     44.6
+    ],
+    [
+     25.2,
+     44.4
+    ],
+    [
+     26.4,
+     36.2
+    ],
+    [
+     26.4,
+     36.6
+    ],
+    [
+     27.2,
+     36.2
+    ],
+    [
+     27.2,
+     36.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 21,
+   "date": "2005-01-27T14:53:03-06:00",
+   "body": "Hi, I've attempted to do this quest, I collected both sets of 8 parts, the restabilization cogs and the gyromechanic gears.  I ran back to Razzle and there's no mark over his head and he doesn't respond to clicks.  Is this quest currently working?  Thanks ahead of time for help and information.",
+   "replies": [
+    "I just finished it as well, and he won't talk to me either.  Submitting a GM ticket for this one...like that'll do any good.",
+    "very easy quest... i'm a lvl 12 warlock and took me a whole 4 mins to do this quest lol\n\nkill the mobs near the brewnall village you can't miss the mobs needed for this quest look for all the yucky green smoke  most are lvl 10 mobs lol\n\n",
+    "I believe this quest is bugged at the moment. I have just finished doing it and have encountered the same problem. ::sighs:: So, anyway, no, I do not think this mission is currently operational. Man, Blizz really screwed up with this last patch.",
+    "I did this quest several times in December, went horde for a while and came back to make some more newbies.  The quest NPC no longer gives the quest.\n\nIt is either bugged or removed.",
+    "Update:  This quest is working normally again."
+   ]
+  },
+  {
+   "rating": 19,
+   "date": "2007-01-28T09:30:09-06:00",
+   "body": "From Brewnall Village, you'll find them just a hint North West from there. Almost due West of the lake.\r\n\r\nThe Leper Gnomes like to run, which will typically mean that they come back with a friend, so do what you can to kill them before they get too far. Also, they like to hit you with \"Decayed Strength\", which reduces your strength by 2.\r\n\r\nFor those with Cosmos, or Titan Panel and like coordinates, I started finding Leper Gnomes around 26,43 approaching from the South.\r\n\r\nAfter you complete the quest, be sure to stand back and watch Razzle Sprysprocket's invention kick into action. It's pretty funny.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2004-11-16T23:37:06-06:00",
+   "body": "Leave it to Blizzard to make the end of this quest involve chickens and gnomes!\n\n\nclassic!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2004-11-22T15:40:00-06:00",
+   "body": "Lol they are indeed.  If you are new, don't go charging into Gnomeran...  Unless you love funerals.  The mobs there are ? to level 16's.  It's a much higher adventure, and everything you willl need for lower levels is outside it to my knowledge.",
+   "replies": [
+    "I think they have made Dun Morogh's mobs cap at lvl 10. So this is a lvl 10 dungeon.",
+    "the further you go in the higher they get\n\nat the bottom of the ramp heading into gnomer the mobs are late teens to early twenties,down the lift they're more low to mid 20's,some of which are elite"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-24T01:21:26-05:00",
+   "body": "Actually the gnome who gives the quest has been known not to be very compliant, the GM's are working on it though.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-24T01:21:26-05:00",
+   "body": "Is this a engineer-only quest? I've gotten it with my mage eng. but not my hunter. And the prolonging of me getting to lvl 10 and getting a pet makes the latter quests much more difficult. Help!",
+   "replies": [
+    "the quest is near gnomregan and the mobs uotside gnomregan is lvl 7-11 but its easy the mobs outside gnomregan is them yor going to kill ok :)"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-15T22:02:11-05:00",
+   "body": "this quest was working a few days ago, but now it is broken.  some problem as in previous posts.",
+   "replies": [
+    "same problem."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-22T19:23:17-05:00",
+   "body": "I got this quest a couple weeks ago.  I was able to share it with a group-mate, and we were able to collect all the cogs and what-not.  Our quest logs both show \"(completed)\" but the stupid gnome wont talk to us.\n\nLong story short:  As of May 22, 2005  it's still BROKE.\n\nIf you get a chance, try reporting to Blizz.  Maybe if enough of us do it, it will get fixed.  Not that the reward is the best ever, but its a funny and cool little quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-24T07:52:21-05:00",
+   "body": "It is still broken.\n\nHave submitted a ticket to the GM. They have been useful and responsive in the past.\n\nEdited, Sat Sep 24 03:59:19 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-23T20:37:16-05:00",
+   "body": "This quest starts at 29,43 you can see where the leper gnomes live and the smoke rising.  Its right behind Evershine village.  The parts are dropped for the gnomes.  Easy at lvl9.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-01T03:13:37-06:00",
+   "body": "Don't know when this was fixed, but it worked fine for me tonight.  Drops were quite fast, often both bits dropped off one gnome and most gnomes had at least one of them.\n\nEdited, Tue Feb 28 21:16:09 2006",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-07T20:41:03-06:00",
+   "body": "Green Gnomes located in Gnomeregan, follow the path north. Their around level 8-10 If you go inside the real Gnomeregan, their level 20+. You can't miss them.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-28T19:51:09-06:00",
+   "body": "This quest rewards 250 Ironforge reputation and 250 Gnomeregan Exiles reputation as of patch 2.01",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-10-05T21:52:13-05:00",
+   "body": "Well it's October 5th -2005 on Aleria server this quest is still broke.  I collect the required items and the green jerkk face wont talk to me.  Oh well.  Got to kill tons of little green guys while I did it.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-07-29T04:42:31-05:00",
+   "body": "Level 9 and it's not coming up for me.  Not even a silver !  I dunno, looks like the quest is down completely again...",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-11-29T13:21:26-06:00",
+   "body": "it seems lots of people have the same problem. it occurs lots more when you complete the quest at a higher level (when you complete the other gnomeregan quests as well). i understand not everyone has the problem. i suggest to abandon the quest, get it again and try to deliver goods again. worked for me...",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-05T01:21:26-06:00",
+   "body": "You must be at least lvl 7 I believe.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-11-05T20:52:40-06:00",
+   "body": "sry to be the one to say it but all this is a alot of rubbish , give co-ordinates and details on what to do not how you blitzed it lol i couldnt give a crap about how or who you did the quest with just were the hell i can do the quest .\n\n\nplz in future post co-ordinates first and instructions , not gobldygook",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-24T01:21:26-05:00",
+   "body": "Has anyone spoke to a GM about this?&nbsp; Had the same problem on Earthen Ring today.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-04-24T13:21:26-05:00",
+   "body": "Good drop rate, easy done with lvl 9 warlock ^^",
+   "replies": []
+  }
+ ]
+}

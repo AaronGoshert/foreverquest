@@ -1,0 +1,125 @@
+{
+ "id": 99046,
+ "name": "The Lost Runner",
+ "level": 9,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 80,
+ "start": {
+  "type": "npc",
+  "id": 2081,
+  "name": "Sentinel Kyra Starsong",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    56,
+    59.4
+   ],
+   [
+    56,
+    59.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 275683,
+  "name": "Sentinel Eralya Leafshadow",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    37.4,
+    36.8
+   ],
+   [
+    37.6,
+    36.4
+   ],
+   [
+    37.6,
+    36.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Search for Sentinel Eralya Leafshadow on the road leading to the Oracle Glade.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 275683,
+   "name": "Sentinel Eralya Leafshadow",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  99046,
+  99047,
+  99050
+ ],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 2081,
+   "name": "Sentinel Kyra Starsong",
+   "coord": [
+    56,
+    59.4
+   ],
+   "coords": [
+    [
+     56,
+     59.4
+    ],
+    [
+     56,
+     59.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 275683,
+   "name": "Sentinel Eralya Leafshadow",
+   "coord": [
+    37.6,
+    36.8
+   ],
+   "coords": [
+    [
+     37.4,
+     36.8
+    ],
+    [
+     37.6,
+     36.4
+    ],
+    [
+     37.6,
+     36.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-06T18:37:13-05:00",
+   "body": "The start of a new quest chain. The first 2 dialogue parts only give 80 XP, but the third one grants a nice [b]840[/b]. [b]Eralya[/b] is smack dab in the middle of the road and you won't pull anything running to her. Can be completed by all Alliance races.",
+   "replies": []
+  }
+ ]
+}

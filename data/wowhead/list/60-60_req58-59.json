@@ -1,0 +1,5785 @@
+[
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8908,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22088,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": -200000,
+  "name": "An Earnest Proposition",
+  "reprewards": [],
+  "reqclass": 2,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 112
+ },
+ {
+  "category": 2557,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8949,
+  "itemchoices": [
+   [
+    22150,
+    1
+   ],
+   [
+    22149,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Falrin's Vendetta",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 98
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 9002,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22091,
+    1
+   ],
+   [
+    22089,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Saving the Best for Last",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 1650,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 84
+ },
+ {
+  "category": 15,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8970,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "I See Alcaz Island In Your Future...",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 78
+ },
+ {
+  "category": 1583,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8995,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Mea Culpa, Lord Valthalak",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 71
+ },
+ {
+  "category": 25,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8961,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Three Kings of Flame",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 70
+ },
+ {
+  "category": 2557,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8950,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "The Instigator's Enchantment",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 69
+ },
+ {
+  "category": 2017,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8945,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22137,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Dead Man's Plea",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 8300,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: no longer Argent Dawn +399 reputation"
+   ],
+   "notShown": [
+    "Rewards: no longer Argent Dawn +399 reputation"
+   ]
+  },
+  "popularity": 66
+ },
+ {
+  "category": 1377,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8308,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    20723,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Brann Bronzebeard's Lost Letter",
+  "reprewards": [
+   [
+    609,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 8300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 64
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 9004,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22005,
+    1
+   ],
+   [
+    22009,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Saving the Best for Last",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 1650,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 64
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8954,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22087,
+    1
+   ],
+   [
+    22092,
+    1
+   ],
+   [
+    22093,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Anthion's Parting Words",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 63
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8951,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22107,
+    1
+   ],
+   [
+    22111,
+    1
+   ],
+   [
+    22112,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Anthion's Parting Words",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 60
+ },
+ {
+  "category": 1377,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8378,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    20703,
+    1
+   ],
+   [
+    20715,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Armaments of War",
+  "reprewards": [
+   [
+    609,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 59
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 9006,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    21999,
+    1
+   ],
+   [
+    21997,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Saving the Best for Last",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 1650,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 57
+ },
+ {
+  "category": 1584,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 9015,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "The Challenge",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 56
+ },
+ {
+  "category": 1637,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 9019,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22084,
+    1
+   ],
+   [
+    22085,
+    1
+   ],
+   [
+    22082,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Anthion's Parting Words",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 56
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 9000,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22013,
+    1
+   ],
+   [
+    22060,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Saving the Best for Last",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 1650,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "faction_changed"
+   ],
+   "lines": [
+    "Side Alliance instead of none"
+   ],
+   "notShown": [
+    "Side Alliance instead of none"
+   ]
+  },
+  "popularity": 55
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8905,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22108,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": -200000,
+  "name": "An Earnest Proposition",
+  "reprewards": [],
+  "reqclass": 1024,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 54
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8953,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22064,
+    1
+   ],
+   [
+    22067,
+    1
+   ],
+   [
+    22068,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Anthion's Parting Words",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 54
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8958,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22076,
+    1
+   ],
+   [
+    22072,
+    1
+   ],
+   [
+    22073,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Anthion's Parting Words",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 53
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8959,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    21995,
+    1
+   ],
+   [
+    22000,
+    1
+   ],
+   [
+    22001,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Anthion's Parting Words",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 53
+ },
+ {
+  "category": 139,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8946,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Proof of Life",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 52
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8952,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22061,
+    1
+   ],
+   [
+    22017,
+    1
+   ],
+   [
+    22016,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Anthion's Parting Words",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 52
+ },
+ {
+  "category": 2557,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8967,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "The Left Piece of Lord Valthalak's Amulet",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 8300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 52
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8926,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22106,
+    1
+   ],
+   [
+    22110,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Just Compensation",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 51
+ },
+ {
+  "category": 25,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8960,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Bodley's Unfortunate Fate",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1650,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 51
+ },
+ {
+  "category": 1583,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8966,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "The Left Piece of Lord Valthalak's Amulet",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 8300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 51
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8931,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22010,
+    1
+   ],
+   [
+    22015,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Just Compensation",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 50
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8955,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22084,
+    1
+   ],
+   [
+    22085,
+    1
+   ],
+   [
+    22082,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Anthion's Parting Words",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 50
+ },
+ {
+  "category": 25,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8985,
+  "itemchoices": [
+   [
+    22192,
+    3
+   ],
+   [
+    22193,
+    3
+   ]
+  ],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "More Components of Importance",
+  "reprewards": [],
+  "reqclass": 9,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 50
+ },
+ {
+  "category": 440,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8928,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "A Shifty Merchant",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 3300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 49
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8936,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22070,
+    1
+   ],
+   [
+    22077,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Just Compensation",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 49
+ },
+ {
+  "category": 139,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8947,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Anthion's Strange Request",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 49
+ },
+ {
+  "category": 25,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8996,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22057,
+    1
+   ],
+   [
+    22344,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Return to Bodley",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 660,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 49
+ },
+ {
+  "category": 1377,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8306,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    20724,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 27000,
+  "name": "Into The Maw of Madness",
+  "reprewards": [
+   [
+    609,
+    200
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 48
+ },
+ {
+  "category": 440,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8922,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "A Supernatural Device",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 48
+ },
+ {
+  "category": 1583,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8989,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "The Right Piece of Lord Valthalak's Amulet",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 8300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 48
+ },
+ {
+  "category": 25,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8964,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Components of Importance",
+  "reprewards": [],
+  "reqclass": 12,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 47
+ },
+ {
+  "category": 2017,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8968,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "The Left Piece of Lord Valthalak's Amulet",
+  "reprewards": [],
+  "reqclass": 12,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 8300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 47
+ },
+ {
+  "category": 1377,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8304,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Dearest Natalia",
+  "reprewards": [
+   [
+    609,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 46
+ },
+ {
+  "category": 440,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8924,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 9000,
+  "name": "Hunting for Ectoplasm",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 46
+ },
+ {
+  "category": 139,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8929,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "In Search of Anthion",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 46
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8932,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22062,
+    1
+   ],
+   [
+    22066,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Just Compensation",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 46
+ },
+ {
+  "category": 2057,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8969,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "The Left Piece of Lord Valthalak's Amulet",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 8300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 46
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8999,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22109,
+    1
+   ],
+   [
+    22113,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Saving the Best for Last",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 1650,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 46
+ },
+ {
+  "category": 1377,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8316,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    20699,
+    1
+   ],
+   [
+    20710,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Armaments of War",
+  "reprewards": [
+   [
+    609,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 45
+ },
+ {
+  "category": 2557,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8948,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Anthion's Old Friend",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 45
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8956,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22003,
+    1
+   ],
+   [
+    22007,
+    1
+   ],
+   [
+    22008,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Anthion's Parting Words",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 45
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 9003,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22080,
+    1
+   ],
+   [
+    22083,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Saving the Best for Last",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 1650,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 45
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8183,
+  "itemchoices": [
+   [
+    19948,
+    1
+   ],
+   [
+    19950,
+    1
+   ],
+   [
+    19949,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "The Heart of Hakkar",
+  "reprewards": [
+   [
+    270,
+    200
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 44
+ },
+ {
+  "category": 1377,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8381,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    20705,
+    1
+   ],
+   [
+    20716,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Armaments of War",
+  "reprewards": [
+   [
+    609,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 44
+ },
+ {
+  "category": 25,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8962,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Components of Importance",
+  "reprewards": [],
+  "reqclass": 129,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 44
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 9001,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22065,
+    1
+   ],
+   [
+    22069,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Saving the Best for Last",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 1650,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 44
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8077,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    20033,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Demoniac's Robes",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 256,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 43
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8201,
+  "itemchoices": [
+   [
+    20213,
+    1
+   ],
+   [
+    20215,
+    1
+   ],
+   [
+    20216,
+    1
+   ],
+   [
+    20217,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 60,
+  "money": 27000,
+  "name": "A Collection of Heads",
+  "reprewards": [
+   [
+    270,
+    200
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 43
+ },
+ {
+  "category": 1377,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8377,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    20702,
+    1
+   ],
+   [
+    20713,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Armaments of War",
+  "reprewards": [
+   [
+    609,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 43
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8907,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22063,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": -200000,
+  "name": "An Earnest Proposition",
+  "reprewards": [],
+  "reqclass": 128,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 43
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8933,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22086,
+    1
+   ],
+   [
+    22090,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Just Compensation",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 43
+ },
+ {
+  "category": 2557,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8990,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "The Right Piece of Lord Valthalak's Amulet",
+  "reprewards": [],
+  "reqclass": 9,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 8300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 43
+ },
+ {
+  "category": 2017,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8991,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "The Right Piece of Lord Valthalak's Amulet",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 8300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 43
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 9005,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22074,
+    1
+   ],
+   [
+    22075,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Saving the Best for Last",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 1650,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 43
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8054,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19826,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Freethinker's Belt",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 2,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 42
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8059,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19848,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Demoniac's Wraps",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 256,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 42
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8069,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    20034,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Illusionist's Robes",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 128,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 42
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8113,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19613,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Pristine Enchanted South Seas Kelp",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 42
+ },
+ {
+  "category": 1377,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8382,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    20704,
+    1
+   ],
+   [
+    20714,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Armaments of War",
+  "reprewards": [
+   [
+    609,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 42
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8906,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22011,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": -200000,
+  "name": "An Earnest Proposition",
+  "reprewards": [],
+  "reqclass": 4,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 42
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8934,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22078,
+    1
+   ],
+   [
+    22081,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Just Compensation",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 42
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8935,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22002,
+    1
+   ],
+   [
+    22006,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Just Compensation",
+  "reprewards": [],
+  "reqclass": 8,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 42
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8937,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    21994,
+    1
+   ],
+   [
+    21998,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Just Compensation",
+  "reprewards": [],
+  "reqclass": 1,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 42
+ },
+ {
+  "category": 25,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8994,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Final Preparations",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 42
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8049,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19591,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Eye of Zuldazar",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 41
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8053,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19827,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Freethinker's Armguards",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 2,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 41
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8062,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19833,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Predator's Bracers",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 4,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 41
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8072,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19835,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Madcap's Mantle",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 8,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 41
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8078,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19823,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Vindicator's Belt",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 1,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 41
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8101,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19598,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Pebble of Kajaro",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 41
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8106,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19602,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Kezan's Taint",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 41
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8141,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19614,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Zandalarian Shadow Talisman",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 41
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8145,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19618,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Maelstrom's Tendril",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 41
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8910,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22004,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": -200000,
+  "name": "An Earnest Proposition",
+  "reprewards": [],
+  "reqclass": 8,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 41
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8142,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19615,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Zandalarian Shadow Talisman",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 40
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8147,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19620,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Maelstrom's Tendril",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 40
+ },
+ {
+  "category": 1377,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8315,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "The Calling",
+  "reprewards": [
+   [
+    609,
+    200
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 9950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 40
+ },
+ {
+  "category": 25,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8965,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Components of Importance",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 40
+ },
+ {
+  "category": 2057,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8992,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "The Right Piece of Lord Valthalak's Amulet",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 8300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 40
+ },
+ {
+  "category": 1377,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11306,
+  "icon": "quest-start",
+  "id": 9248,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22725,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "A Humble Offering",
+  "reprewards": [
+   [
+    609,
+    200
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 40
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8044,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19577,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Rage of Mugamba",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11303,
+  "icon": "quest-start",
+  "id": 8057,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19840,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Haruspex's Bracers",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 1024,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8058,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19824,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Vindicator's Armguards",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 1,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8067,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19831,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Predator's Mantle",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 4,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8108,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19604,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Kezan's Taint",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8143,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19616,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Zandalarian Shadow Talisman",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8144,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19617,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Zandalarian Shadow Mastery Talisman",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8146,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19619,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Maelstrom's Tendril",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8227,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Nat's Measuring Tape",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 660,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": 1377,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8379,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    20707,
+    1
+   ],
+   [
+    20717,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Armaments of War",
+  "reprewards": [
+   [
+    609,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": 440,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8921,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22320,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": -400000,
+  "name": "The Ectoplasmic Distiller",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8042,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19575,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Strength of Mount Mugamba",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 38
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8046,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19585,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Heathen's Brand",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 38
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11303,
+  "icon": "quest-start",
+  "id": 8065,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19838,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Haruspex's Tunic",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 1024,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 38
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8073,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19834,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Madcap's Tunic",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 8,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 38
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8079,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19822,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Vindicator's Breastplate",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 1,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 38
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8109,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19605,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Kezan's Unstoppable Taint",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 38
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8112,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19612,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Enchanted South Seas Kelp",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 38
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8243,
+  "itemchoices": [
+   [
+    20080,
+    1
+   ],
+   [
+    20079,
+    1
+   ],
+   [
+    20081,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Zanza's Potent Potables",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 38
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8050,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19592,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Eye of Zuldazar",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8051,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19593,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Eye of Zuldazar",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8055,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19825,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Freethinker's Breastplate",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 2,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8063,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19836,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Madcap's Bracers",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 8,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11303,
+  "icon": "quest-start",
+  "id": 8064,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19839,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Haruspex's Belt",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 1024,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8068,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19845,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Illusionist's Mantle",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 128,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8103,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19600,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Pebble of Kajaro",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8104,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19601,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Jewel of Kajaro",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8107,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19603,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Kezan's Taint",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8110,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19610,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Enchanted South Seas Kelp",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8148,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19621,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Maelstrom's Wrath",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 1377,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8376,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    20700,
+    1
+   ],
+   [
+    20711,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Armaments of War",
+  "reprewards": [
+   [
+    609,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8911,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22071,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": -200000,
+  "name": "An Earnest Proposition",
+  "reprewards": [],
+  "reqclass": 256,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 440,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8925,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 9000,
+  "name": "A Portable Power Source",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 25,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8963,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Components of Importance",
+  "reprewards": [],
+  "reqclass": 1280,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8997,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Back to the Beginning",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 660,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8043,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19576,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Strength of Mount Mugamba",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 36
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8047,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19586,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Heathen's Brand",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 36
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8076,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19849,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Demoniac's Mantle",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 256,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 36
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8111,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19611,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Enchanted South Seas Kelp",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 36
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8240,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19858,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 18000,
+  "name": "A Bijou for Zanza",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 36
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8977,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Return to Deliana",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 36
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8041,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19574,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Strength of Mount Mugamba",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 35
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8048,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19588,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Hero's Brand",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 35
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8052,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19594,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The All-Seeing Eye of Zuldazar",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 35
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8195,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19858,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Zulian, Razzashi, and Hakkari Coins",
+  "reprewards": [
+   [
+    270,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 660,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 35
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8239,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19858,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Sandfury, Skullsplitter, and Bloodscalp Coins",
+  "reprewards": [
+   [
+    270,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 660,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 35
+ },
+ {
+  "category": 1377,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8310,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 27000,
+  "name": "Breaking the Code",
+  "reprewards": [
+   [
+    609,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 8300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 35
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8912,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    21996,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": -200000,
+  "name": "An Earnest Proposition",
+  "reprewards": [],
+  "reqclass": 1,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 35
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8045,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19579,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Heathen's Brand",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 34
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8060,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19846,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Illusionist's Wraps",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 128,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 34
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8066,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19832,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Predator's Belt",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 4,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 34
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8071,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19841,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Confessor's Mantle",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 16,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 34
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8102,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19599,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Pebble of Kajaro",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 34
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8185,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19783,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Syncretist's Sigil",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 34
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8061,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19843,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Confessor's Wraps",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 16,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 33
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8070,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19842,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Paragons of Power: The Confessor's Bindings",
+  "reprewards": [
+   [
+    270,
+    150
+   ]
+  ],
+  "reqclass": 16,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 33
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8238,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19858,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Gurubashi, Vilebranch, and Witherbark Coins",
+  "reprewards": [
+   [
+    270,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 660,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 33
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8246,
+  "itemchoices": [
+   [
+    20077,
+    1
+   ],
+   [
+    20076,
+    1
+   ],
+   [
+    20078,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Signets of the Zandalar",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 33
+ },
+ {
+  "category": 1377,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8309,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 27000,
+  "name": "Glyph Chasing",
+  "reprewards": [
+   [
+    609,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 8300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 33
+ },
+ {
+  "category": 1377,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8314,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Unraveling the Mystery",
+  "reprewards": [
+   [
+    609,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 4950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 33
+ },
+ {
+  "category": 25,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8988,
+  "itemchoices": [
+   [
+    22192,
+    3
+   ],
+   [
+    22193,
+    3
+   ]
+  ],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "More Components of Importance",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 33
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11306,
+  "icon": "quest-start",
+  "id": 9208,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22635,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Savage Guard - Arcanum of Protection",
+  "reprewards": [
+   [
+    270,
+    200
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 33
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8187,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19785,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Falcon's Call",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 32
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11306,
+  "icon": "quest-start",
+  "id": 9210,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22635,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Savage Guard - Arcanum of Focus",
+  "reprewards": [
+   [
+    270,
+    200
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 32
+ },
+ {
+  "category": 618,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5201,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Winterfall Intrusion",
+  "reprewards": [
+   [
+    589,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 31
+ },
+ {
+  "category": 618,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5981,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Rampaging Giants",
+  "reprewards": [
+   [
+    589,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 31
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8189,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19787,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Presence of Sight",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 31
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8909,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22079,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": -200000,
+  "name": "An Earnest Proposition",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 31
+ },
+ {
+  "category": 25,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8986,
+  "itemchoices": [
+   [
+    22192,
+    3
+   ],
+   [
+    22193,
+    3
+   ]
+  ],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "More Components of Importance",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 31
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8184,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19782,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Presence of Might",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 30
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8196,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    20031,
+    10
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Essence Mangoes",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 30
+ },
+ {
+  "category": 618,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 4970,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "Frostsaber Provisions",
+  "reprewards": [
+   [
+    589,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 29
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8186,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19784,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Death's Embrace",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 29
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8191,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19789,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Prophetic Aura",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 29
+ },
+ {
+  "category": 25,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11305,
+  "icon": "quest-start",
+  "id": 8987,
+  "itemchoices": [
+   [
+    22192,
+    3
+   ],
+   [
+    22193,
+    3
+   ]
+  ],
+  "itemrewards": [],
+  "level": 60,
+  "money": 0,
+  "name": "More Components of Importance",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 6600,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 29
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8190,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19788,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Hoodoo Hex",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 27
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8192,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19790,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "Animist's Caress",
+  "reprewards": [
+   [
+    270,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 27
+ },
+ {
+  "category": 1977,
+  "category2": 3,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11306,
+  "icon": "quest-start",
+  "id": 9209,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    22635,
+    1
+   ]
+  ],
+  "level": 60,
+  "money": 0,
+  "name": "The Savage Guard - Arcanum of Rapidity",
+  "reprewards": [
+   [
+    270,
+    200
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 58,
+  "side": 3,
+  "titlereward": 0,
+  "type": 62,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 24
+ }
+]

@@ -1,0 +1,123 @@
+{
+ "id": 93949,
+ "name": "Bugged",
+ "level": 8,
+ "reqlevel": 6,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 700,
+ "start": {
+  "type": "npc",
+  "id": 252383,
+  "name": "Valennia Stormfist",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    66.2,
+    76.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252383,
+  "name": "Valennia Stormfist",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    66.2,
+    76.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Kill Skyhoppers in Valanaar until you've eliminated 8 Enchanted Skyhoppers .   Enchanted Skyhopper Exterminated  ( 8 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 257066,
+   "name": "Skyhoppers",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Enchanted Skyhopper Exterminated",
+   "count": 8,
+   "type": "npc",
+   "id": 257066
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252383,
+   "name": "Valennia Stormfist",
+   "coord": [
+    66.2,
+    76.6
+   ],
+   "coords": [
+    [
+     66.2,
+     76.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252383,
+   "name": "Valennia Stormfist",
+   "coord": [
+    66.2,
+    76.6
+   ],
+   "coords": [
+    [
+     66.2,
+     76.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 4,
+   "date": "2026-09-25T14:06:23-05:00",
+   "body": "Helpful macro :)\r\n\r\n/target skyhopper\r\n/tm 1",
+   "replies": [
+    "Awesome, thank you! The target marking really helped a lot. I also sent my pet to attack if I still couldn't see it."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2026-09-21T14:39:26-05:00",
+   "body": "These are not random. Look for skyhoppers near areas listening to people. Such as the tower or the inn, it will always be enchanted.",
+   "replies": [
+    "I cannot find these. I have found 2 in the last 20 minutes.",
+    "I was just killing everyone, killed about 20 until I found the 8 needed for the quest.",
+    "It's all random. Just go around and kill Skyhoppers",
+    "Yeah I don't think this is true. I killed one in the inn with no credit, and one in a field that gave credit. I think it is random."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-03T23:08:23-05:00",
+   "body": "If you're an idiot like me and couldn't figure out what Skyhoppers were, no, they are not anything akin to helicopters (so don't look for them in the sky... give me a break, ok). They are little bugs (like grasshoppers) that are all over the town. Yes, the macro /target Skyhopper is very useful!",
+   "replies": []
+  }
+ ]
+}

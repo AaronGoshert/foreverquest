@@ -1,0 +1,98 @@
+{
+ "id": 94822,
+ "name": "Confounding Flash",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": -262,
+ "reqclass": 16,
+ "status": "new",
+ "xp": 210,
+ "start": {
+  "type": "npc",
+  "id": 377,
+  "name": "Priestess Josetta",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    43.4,
+    65.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 258785,
+  "name": "High Priestess Mims",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    24.8,
+    9.4
+   ],
+   [
+    24.8,
+    10
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak to High Priestess Mims in Ironforge.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 258785,
+   "name": "High Priestess Mims",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 377,
+   "name": "Priestess Josetta",
+   "coord": [
+    43.4,
+    65.6
+   ],
+   "coords": [
+    [
+     43.4,
+     65.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 258785,
+   "name": "High Priestess Mims",
+   "coord": [
+    24.8,
+    10
+   ],
+   "coords": [
+    [
+     24.8,
+     9.4
+    ],
+    [
+     24.8,
+     10
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

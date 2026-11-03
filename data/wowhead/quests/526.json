@@ -1,0 +1,405 @@
+{
+ "id": 526,
+ "name": "Lightforge Ingots",
+ "level": 29,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": 10,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1750,
+ "start": {
+  "type": "npc",
+  "id": 1217,
+  "name": "Glorin Steelbrow",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    10.6,
+    60.4
+   ],
+   [
+    10.6,
+    60.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1217,
+  "name": "Glorin Steelbrow",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    10.6,
+    60.4
+   ],
+   [
+    10.6,
+    60.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Gather 5 lightforge ingots , then return to Glorin Steelbrow in the Wetlands. Lightforge Ingot  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 2702,
+   "name": "lightforge ingots",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Lightforge Ingot",
+   "count": 5,
+   "type": "item",
+   "id": 2702
+  }
+ ],
+ "series": [
+  95,
+  230,
+  262,
+  265,
+  266,
+  453,
+  268,
+  323,
+  269,
+  270,
+  321,
+  324,
+  322,
+  325,
+  55
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 1217,
+   "name": "Glorin Steelbrow",
+   "coord": [
+    10.6,
+    60.4
+   ],
+   "coords": [
+    [
+     10.6,
+     60.4
+    ],
+    [
+     10.6,
+     60.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 1217,
+   "name": "Glorin Steelbrow",
+   "coord": [
+    10.6,
+    60.4
+   ],
+   "coords": [
+    [
+     10.6,
+     60.4
+    ],
+    [
+     10.6,
+     60.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1418,
+   "name": "Bluegill Raider",
+   "coord": [
+    11.8,
+    64.2
+   ],
+   "coords": [
+    [
+     6.2,
+     73.6
+    ],
+    [
+     6.4,
+     72.4
+    ],
+    [
+     6.4,
+     72.6
+    ],
+    [
+     7,
+     71.4
+    ],
+    [
+     7,
+     72.4
+    ],
+    [
+     7.2,
+     72.6
+    ],
+    [
+     7.8,
+     71.4
+    ],
+    [
+     7.8,
+     72.4
+    ],
+    [
+     8,
+     70.2
+    ],
+    [
+     8,
+     72.6
+    ],
+    [
+     8.6,
+     72.4
+    ],
+    [
+     8.8,
+     67.8
+    ],
+    [
+     9.4,
+     66.4
+    ],
+    [
+     9.4,
+     66.6
+    ],
+    [
+     9.4,
+     68.8
+    ],
+    [
+     9.4,
+     70
+    ],
+    [
+     9.4,
+     71.4
+    ],
+    [
+     9.4,
+     72.6
+    ],
+    [
+     9.6,
+     66.4
+    ],
+    [
+     9.6,
+     67.4
+    ],
+    [
+     9.6,
+     67.6
+    ],
+    [
+     9.6,
+     72.4
+    ],
+    [
+     9.6,
+     72.6
+    ],
+    [
+     9.8,
+     68.6
+    ],
+    [
+     10.2,
+     70
+    ],
+    [
+     10.2,
+     71
+    ],
+    [
+     10.8,
+     71.4
+    ],
+    [
+     11.2,
+     65.2
+    ],
+    [
+     11.2,
+     65.6
+    ],
+    [
+     11.8,
+     63.2
+    ],
+    [
+     11.8,
+     64.2
+    ],
+    [
+     12,
+     66.6
+    ],
+    [
+     12.4,
+     65.2
+    ],
+    [
+     12.4,
+     66.2
+    ],
+    [
+     12.6,
+     65.2
+    ],
+    [
+     13,
+     63.4
+    ],
+    [
+     13.4,
+     64.2
+    ],
+    [
+     13.6,
+     64.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2006-09-28T19:14:46-05:00",
+   "body": "Heres how I think it works. Either:\n\nA-Kill about 30-50 Bluegill Raiders near the sunken shipwreck,\n\nOr\n\nB-Go as far away as you can, (south, near another camp of them), witch takes a [b]while[/b], but has a quicker DR of 10-30 Ingots.\n \nThat's how it worksed for me, considering I had two of my toons do it those different ways. I could be wrong, but eh.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-09-28T19:14:46-05:00",
+   "body": "Which should be the name of the quest. I also must have killed about 25-30 to get all the ingots. I was lucky(?) and found the first ingot on one of the two murlocs on the shipwreck, then nothing for about the next 10. Resigned myself to some grinding (and the occasional silver) but slowly the other ingots turned up. There didn't seem to be any pattern that I could see except that I killed the same one in the shipwreck twice (I was there long enough for them all to respawn) and each time he had an ingot.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-01-16T07:14:46-06:00",
+   "body": "I got all 4/5(forget how many) extra ingots in 6 murloc kills, all not even near the boat.. It took me 3 breaths to do it.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-03-30T07:14:46-05:00",
+   "body": "ok the bluegill by the actual boat dont drop a thing. i cleared them twice and i only had the 1 from the chest. go south 2 the other camp its soooooo much faster",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-28T19:14:46-05:00",
+   "body": "1. Find the box: 12,64\n2. Then kill the Bluegill Raiders for drops.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-16T07:14:46-06:00",
+   "body": "I agree with the rest of you, slowest quest ever.\n\nThe Bluegill tribe is going to need some more raiders...",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-05-05T19:14:46-05:00",
+   "body": "I really did it fast... I killed 8 murlocs to get 4 more ingots... I think its just a matter of lucky",
+   "replies": [
+    "Iam usually patient with grinding, but the drop rate of these ingots nearly drove me to despair"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-25T22:47:47-06:00",
+   "body": "Im allmost like this guy...i fought all murlocs in the area (even out of area) and still..NOT EVEN 1... this dude should be happy (he got 1) .. i GIVE UP ! no way im spending 1hour or more just to finish 1 quest...im to busy with other quests :)\nYou should listen to me...dont do it , there are 10000 other quest waiting for you...you'll just waste your time (trust me, i tried).Its soo boring to fight around 1 plase , fighting few same creatures... -the choise is up to you- ... \ntake care..  \n\n  PS: wow rulez !",
+   "replies": [
+    "is this quest broken? ",
+    "i did it in under 15 minutes, killed about  10 murlocs and got all my ingots"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-28T19:14:46-05:00",
+   "body": "The dwarf doesn't have any quests for me.\nIs there any quest I have to do first?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-28T19:14:46-05:00",
+   "body": "sorry for being rude with the title but im really frustrated right now... is this quest bugged or do i just have bad luck? ive been killin' more than 30 of these bluegill raiders near the shipwreck and i havent gotten a single ingot cept for the one that you starts this quest...",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-12-10T19:14:46-06:00",
+   "body": "I found those ingots very easy, though i didnt find the right place in the beginning. I found ingots a little further from the skip where the murloc is camped^^",
+   "replies": [
+    "Yeah, I did get one from the guy on the ship, and after killing 3 respawns of the murlocs nearby, not a single ingot dropped. Then I went farther away from the ship (kinda southeast) and there was another camp. Got ingots one after another there. Not sure if it was a coincidence, or if the farther away murlocs have better droprate. *shrugs*"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-16T07:14:46-06:00",
+   "body": "I camped their camp for quite a while, seemed I was getting drop rates that were very low.&nbsp; I took FOREVER to get the first one... but I did.&nbsp; So... quest not bugged, just sloooow.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-16T07:14:46-06:00",
+   "body": "I killed about 20 raiders to get the 5",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-30T07:14:46-06:00",
+   "body": "It tooked me about 1 hour to complete the quest.. The murlocs have a very small droppchance on this one=P",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-02-21T19:14:46-06:00",
+   "body": "I did this as a level 26 Hunter. I had my pet attack, then I did so.&nbsp; Be very careful while in the areas in which there are many Murlocs, as if you Aggro more than one, you can be in for quite a hasty death.&nbsp; Also, I found the ones slightly South of the Ship in the Water had the fastest drops, but this is just speculation.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-25T11:39:50-06:00",
+   "body": "This is actually part of the Sven series and is double posted.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-18T02:47:16-05:00",
+   "body": "Anyone else having trouble collecting ingots?  I must have killed 60 of the murlocs in the area and they only dropped one ingot.  I finally gave up.",
+   "replies": []
+  }
+ ]
+}

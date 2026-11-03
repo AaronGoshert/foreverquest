@@ -1,0 +1,144 @@
+{
+ "id": 94912,
+ "name": "Child of Nature",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": -263,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 840,
+ "start": {
+  "type": "npc",
+  "id": 2543,
+  "name": "Archmage Ansirem Runeweaver",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    14.2,
+    59.8
+   ],
+   [
+    18.8,
+    78.4
+   ],
+   [
+    18.8,
+    78.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5504,
+  "name": "Sheldras Moontree",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    21,
+    55.4
+   ],
+   [
+    21,
+    55.6
+   ],
+   [
+    36,
+    67.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak with Sheldras Moontree in Stormwind.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 5504,
+   "name": "Sheldras Moontree",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 2543,
+   "name": "Archmage Ansirem Runeweaver",
+   "coord": [
+    18.8,
+    78.6
+   ],
+   "coords": [
+    [
+     14.2,
+     59.8
+    ],
+    [
+     18.8,
+     78.4
+    ],
+    [
+     18.8,
+     78.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 270459,
+   "name": "Alfina Nightgaze",
+   "coord": [
+    11.8,
+    56.6
+   ],
+   "coords": [
+    [
+     11.8,
+     56.4
+    ],
+    [
+     11.8,
+     56.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 5504,
+   "name": "Sheldras Moontree",
+   "coord": [
+    21,
+    55.4
+   ],
+   "coords": [
+    [
+     21,
+     55.4
+    ],
+    [
+     21,
+     55.6
+    ],
+    [
+     36,
+     67.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

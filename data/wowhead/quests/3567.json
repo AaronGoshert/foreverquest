@@ -1,0 +1,190 @@
+{
+ "id": 3567,
+ "name": "To the Top",
+ "level": 25,
+ "reqlevel": 25,
+ "side": 3,
+ "zoneId": 357,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 7773,
+  "name": "Marli Wishrunner",
+  "zone": "Feralas",
+  "zoneId": 357,
+  "coords": [
+   [
+    45.8,
+    16.4
+   ],
+   [
+    45.8,
+    16.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7773,
+  "name": "Marli Wishrunner",
+  "zone": "Feralas",
+  "zoneId": 357,
+  "coords": [
+   [
+    45.8,
+    16.4
+   ],
+   [
+    45.8,
+    16.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Completion Would you like to see the view atop one of the twin colossals? I can send you there, <race>. Do consider how you will get down, though. This is a one way trip only.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 357,
+   "zone": "Feralas",
+   "point": "start",
+   "type": 1,
+   "id": 7773,
+   "name": "Marli Wishrunner",
+   "coord": [
+    45.8,
+    16.4
+   ],
+   "coords": [
+    [
+     45.8,
+     16.4
+    ],
+    [
+     45.8,
+     16.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 357,
+   "zone": "Feralas",
+   "point": "end",
+   "type": 1,
+   "id": 7773,
+   "name": "Marli Wishrunner",
+   "coord": [
+    45.8,
+    16.4
+   ],
+   "coords": [
+    [
+     45.8,
+     16.4
+    ],
+    [
+     45.8,
+     16.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 26,
+   "date": "2007-05-19T01:29:55-05:00",
+   "body": "How To:\r\n1) bring 20s\r\n2) find Marli Wishrunner 45,16 as your running up the the road going north she is on the left, midlle of the mountain and like two feet off the road\r\n3) get parachute from guy at top of mountain, he is near the middle right next to the lake on top cost is 20s\r\n4) pick your direction i chose south becouse there is a lake to the south to fall into\r\n4a) its a becouse i just rember you should do this, open your bag and put the parachute on your bar\r\n5) read the whole next part till the end then continue\r\n6) JUMP OFF (i did this in travel form and then shapshifted out)\r\n7) count to 5, not 1 missisppi 2,  but 1 2 3 4 5, normal speed like\r\n8) click the parachute, you could wait longger in fact i opened mine to fast couse i dropped like three feet to the water  but if i was over land at the time i would not have died the thing is wait till you think your close to the ground then hit it it stops you instantly",
+   "replies": []
+  },
+  {
+   "rating": 20,
+   "date": "2006-12-22T17:06:07-06:00",
+   "body": "never try to perform this jump mounted...\r\nand dont try to jump to the north. you'll prolly land near some dragonkin lvl 60 or so... they killed my shammy lvl 54 with 2 hits O.o",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2020-01-29T02:18:44-06:00",
+   "body": "You know how a 4 second counterspell/stun seems to last an eternity? A 10 second slow fall is really, really quick.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2019-09-25T06:54:54-05:00",
+   "body": "The most important thing here, that no one seems to mention, is that IF YOU DO IT, JUMP DOWN, AND DIE, there is no friggin way to get back to your corpse!",
+   "replies": [
+    "You will learn the hard way, as I did, that the nearest Spirit Healer is at Dire Maul Graveyard 54.80 47.78"
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2019-10-09T11:37:40-05:00",
+   "body": "Nice little pond up top to fish in peace with a great view!",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-02-21T08:49:21-06:00",
+   "body": "Does this quest give any experience or faction?  Or is it just for the thrill of virtual sky diving?",
+   "replies": [
+    "No experience and no reputation. It is also available at level 25, which is a level much lower than Feralas itself (45-50)."
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2005-07-23T21:35:22-05:00",
+   "body": "This is fun.  You can get some AWESOME screenshots from the top.  You get teleported to the top of the east tower.  There is a small pool up there and a vendor who sells parachutes for 20s each.  \n\nA suggestion, open the parachute closer to the ground rather than farther, because 10 seconds isn't that far when you're gliding, (I went *SQUISH* the first time).\n\nAn alternative to the parachutes is the wonderful Noggenfogger Elixir.  I haven't tried it with Noggenfogger yet, but you may be able to get all the way down if you put the effect on at the top.\n\nEdited, Sat Jul 23 17:34:50 2005",
+   "replies": [
+    "[quote]A suggestion, open the parachute closer to the ground rather than farther, because 10 seconds isn't that far when you're gliding, (I went *SQUISH* the first time).[/quote]\n\nAnd don't bother trying to run back to your body if you do SPLATTTTTTT coz your body is half way to the sky and well out of range for resurrection",
+    "How did you die half way down?\n\nAnyone who hasn't tried this quest yet: Try aiming for the middle of the small lake down there. If it's deep enough, it will save your ass. I missed it and landed at the side where it's shallow, and died.\n\nToo bad you can only have 1 parachute at a time, they would probably sell at the AH:p"
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2019-11-11T10:35:24-06:00",
+   "body": "Don't open your parachute too early - it has only 10 second duration. If you use it too early - you'll fall from high and die.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-01-30T07:22:00-06:00",
+   "body": "If you're a skydiver or BASE jumper -- go for it!\n\nDefinately worth the price just to give it a shot.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-19T05:11:41-05:00",
+   "body": "pallies could simply use divine protection/blessing of protection; preferably the latter if they have it already, coz it lasts 2 sec longer, just in case.\r\n\r\nbtw, while doing this, if you lag - tough luck, you'll probably land with your buff gone and you'll die all the same.\r\n\r\nhappened couple o' times when i tried jumping off a zep, this wouldnt be an exception.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-27T11:36:02-05:00",
+   "body": "Go see Marli Wishrunner:\n\n[quote=Moonsing]\nThere is an npc near the road at the base of the western colossal (tloc 45, 16) who can teleport you to the top of the eastern one.\n\nThe npc at the top of the eastern colossal sells a parachute for 20sp to make your way down. The slowfall effect last for 10 seconds. The best jump spot is from the waterfall on the south side, so that you can make a splash landing in the lake without killing yourself when the parachute dies.[/quote]\n\nnpc at the top is Kalin Windflight.\n\n[i][small]Edited, Oct 27th  2006 at  7:39am PDT by Luqu[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-17T05:35:39-05:00",
+   "body": "This freakin' kicks-ass. I am a gnomish cliff diver from way back to the cliffs of westfall. I bought the parachute for an emergency but did not use it, summoned mount and ran toward waterfall jumping while still mounted on way down dismount and landed in the lower pool of waterfall taking no damage. I will definatley be doing this everytime Im in feralas.... Also great view, you are above many of the huge trees that are here.\n\nEdited, Mon Apr 17 00:33:19 2006",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-13T15:49:12-05:00",
+   "body": "I advise lower-levels to not jump off the NE corner - there's 60-62 elite mobs roaming around up there.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-22T23:28:58-05:00",
+   "body": "I went to the left side of the waterfall, slipped into the stream, and I fell safely to the pool below where I hopped down to the forest floor into another pool. No need for fancy gnomish or goblin gadgets or magic.",
+   "replies": []
+  }
+ ]
+}

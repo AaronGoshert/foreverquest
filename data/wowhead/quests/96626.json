@@ -1,0 +1,104 @@
+{
+ "id": 96626,
+ "name": "Camping 101: Cooking",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 263399,
+  "name": "Sam Sarsaparilla",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    44.8,
+    63.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1430,
+  "name": "Tomas",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    44.2,
+    66
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Speak with Tomas in Goldshire to learn to become a cook.   Learn cooking from Tomas in Goldshire  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1430,
+   "name": "Tomas",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Learn cooking from Tomas in Goldshire",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 263399,
+   "name": "Sam Sarsaparilla",
+   "coord": [
+    44.8,
+    63.2
+   ],
+   "coords": [
+    [
+     44.8,
+     63.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 1430,
+   "name": "Tomas",
+   "coord": [
+    44.2,
+    66
+   ],
+   "coords": [
+    [
+     44.2,
+     66
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-25T15:18:20-05:00",
+   "body": "Very easy to level if you pair with fishing and use the fish with recipe from [npc=66].",
+   "replies": []
+  }
+ ]
+}

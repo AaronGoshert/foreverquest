@@ -1,0 +1,356 @@
+{
+ "id": 5821,
+ "name": "Bodyguard for Hire",
+ "level": 35,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2750,
+ "start": {
+  "type": "npc",
+  "id": 11625,
+  "name": "Cork Gizelton",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    40.4,
+    79.2
+   ],
+   [
+    40.6,
+    79.2
+   ],
+   [
+    45.4,
+    75.2
+   ],
+   [
+    45.6,
+    75.2
+   ],
+   [
+    60.4,
+    38
+   ],
+   [
+    66.4,
+    37.4
+   ],
+   [
+    66.4,
+    37.6
+   ],
+   [
+    66.6,
+    37.4
+   ],
+   [
+    66.6,
+    37.6
+   ],
+   [
+    67.2,
+    39.2
+   ],
+   [
+    67.8,
+    41.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11596,
+  "name": "Smeed Scrabblescrew",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    60.8,
+    61.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Escort the Gizelton Caravan past the Kolkar Centaur village. Talk with Smeed at Scrabblescrew's Camp for your reward.   Escort Gizelton Caravan past Kolkar Centaur Village  ( 1 )",
+ "objectives": [],
+ "objectiveRows": [
+  {
+   "text": "Escort Gizelton Caravan past Kolkar Centaur Village",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 11625,
+   "name": "Cork Gizelton",
+   "coord": [
+    60.4,
+    38
+   ],
+   "coords": [
+    [
+     40.4,
+     79.2
+    ],
+    [
+     40.6,
+     79.2
+    ],
+    [
+     45.4,
+     75.2
+    ],
+    [
+     45.6,
+     75.2
+    ],
+    [
+     60.4,
+     38
+    ],
+    [
+     66.4,
+     37.4
+    ],
+    [
+     66.4,
+     37.6
+    ],
+    [
+     66.6,
+     37.4
+    ],
+    [
+     66.6,
+     37.6
+    ],
+    [
+     67.2,
+     39.2
+    ],
+    [
+     67.8,
+     41.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 11596,
+   "name": "Smeed Scrabblescrew",
+   "coord": [
+    60.8,
+    61.8
+   ],
+   "coords": [
+    [
+     60.8,
+     61.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 387,
+   "date": "2019-09-08T17:00:36-05:00",
+   "body": "[ol]\n[li]At the south end (40,79) they leave 18 minutes after arriving. While they wait at the south end, the NPC Vendor [npc=12246] is spawned.[/li]\n[li]He yells when he reaches (45,76), just before Mannoroc Coven, and offers [quest=5943].[/li]\n[li]They take 12 minutes after leaving the south end to reach the north end (61,38).[/li]\n[li]They then wait another 18 minutes and leave to head south. While they wait at the north end, the NPC Vendor [npc=12245] is spawned.[/li]\n[li]He yells when he reaches (67,37), just before Kolkar village, and offers [quest=5821].[/li]\n[li]They take 14 minutes after leaving the north end to reach the south end.[/li]\n[/ol]\n\nDuring the \"escort\" leg of the trip both direction, they move more slowly. Otherwise they move at run speed.\nTimed 09/08/2019.",
+   "replies": [
+    "Me love you long time. Just saw that you TIMED this YESTERDAY! AAK, the most accurate information available to classic.",
+    "This is INCREDIBLE information. The greatest and most condensed explanation I've seen on the Gizelton caravan. Thank you.",
+    "They have only waited 11 minutes after arriving on the south end when I was following them.",
+    "Only waited 10 minutes at north end (step 4)",
+    "I've just confirmed on northern- and southern end. Both places they waited -less- than 18 minutes. At the northern part, they waited less than 14 minutes :)"
+   ]
+  },
+  {
+   "rating": 42,
+   "date": "2019-09-12T05:32:22-05:00",
+   "body": "This is one of a pair of caravan escort quests, the other being [quest=5943].  The caravan in question patrols back and forth between Kormek's Hut and the junction just north of Gelkis Village in the south, following the eastern road past Kolkar Village, then along the road that passes through Mannoroc Coven.\n\nThis quest is done on the southward journey.\n\nRough timeline is as follows:\n\n[ul]\n[li]00:00: Caravan arrives from it's previous northward journey.  [npc=12245] spawns.[/li]\n[li]10:00: [npc=11625] says: \"[i]So sorry to leave a customer but we have places to go and people to swindle. We will be back sometime later today. Good-bye![/i]\".  Vendor-Tron 1000 despawns.  Caravan sets off eastwards.[/li]\n[li]11:32: Caravan halts on eastern road.  Cork Gizelton yells zonewide \"[i]I am looking for some bodyguards that would like to protect the Gizelton Caravan. We are stopped on the road east of Kormek's Hut, north of Kolkar Centaur Village.[/i]\"  This quest then becomes available from him.[/li]\n[/ul]\n\nOnce the quest is accepted, the caravan proceeds at a walking pace southwards along the road.\n\nThere are three ambushes by Kolkar centaur, each ambush consisting of two [npc=12976] and two [npc=12977].\n\nAfter the third ambush, the caravan continues a little further then halts briefly, where the quest objective is completed.  The caravan then continues on at normal pace to the far end of its route.\n\n[ul]\n[li]~23:00: Caravan arrives at destination (time dependant on ambush delays).[/li]\n[/ul]\n\nYou don't need to stay with the caravan after the quest objective is completed and can go hand in the quest at Scrabblescrew's Camp (where the Kodo Collection quest is done).",
+   "replies": []
+  },
+  {
+   "rating": 31,
+   "date": "2019-12-23T04:05:36-06:00",
+   "body": "Just a heads up. If you are using Questie add-on as I am with the newer Classic WoW. The location on the Map shown is INCORRECT. The location to wait for this Quest to begin is at 61.0 38.0 (<----If you also use Tom-Tom type in these cords) The Vendor Tron 1000 will spawn EVERY hour on the hour at approx 00:36 minutes after and will begin the quest shortly after. (If you have Cooking I recommend purchasing every recipe that he sells.) Not too worry when the Caravan begins to move up the road. You will have the chance to pick up the Escort quest when they stop a little bit up the road @ 67.0 37.0 (00:42 past each hour). (Just a heads up I was lucky to get the Gun drop Ironweaver ([item=13137 domain=classic]) on one of the spawns that the Caravan stopped to fight. I solo's this Escort Quest as a 38 BM Hunter with NO issues. The entire Caravan (even the Kodos) fight with you during the journey.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-06-20T01:02:37-05:00",
+   "body": "this quest start north of the Kolkar Village along the road.\n3 sets of Kolkar Ambushes. not too hard since the caravan fights too.\none of two escort quests for the caravan. this is the&nbsp; easier of the two.\nthe other is https://www.wowhead.com/forever/quest=5943/gizelton-caravan",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2021-02-21T07:39:45-06:00",
+   "body": "Interesting...  The giant attacked the caravan while we were under attack  by the centaur.  We did not attack the giant because of our level, so the caravan quest failed and I believe the entire caravan wiped.\r\n\r\nBut.. So we headed back North.  When we reached Kormek's Hut to pick up the other quest available, the caravan was there!  Meaning it did not continue its way South and it was back to where it started.  Lucky for us!",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-05-09T16:20:59-05:00",
+   "body": "did it with my level 34 paladin yesterday. there will be 3 ambushes when the caravan stops and 4 centaurs will show up. I did not encountered the giant elite, but I saw him later on the road :)",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2020-01-23T12:20:57-06:00",
+   "body": "Just did this quest as lvl 43 druid.\n\nStarts approx at 68,42\n3 groups of 4 centaurs spawn - 2 Kolkar Waylayer and 2 Kolkar Ambusher, lvl 33-35.\nEnds approx at 68,53",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-01-25T01:02:37-06:00",
+   "body": "simple, unless of course.. like me, you happen to meet a level 38 giant in the middle of a centaur attack.. not pretty. Im sure it was an unforseen conisidence but be on the look out",
+   "replies": [
+    "Where do you get this quest ? it doesn't tell you and what level do you have to be to get thos ring?"
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2006-04-08T01:02:37-05:00",
+   "body": "I was with a friend and escorted the caravan. He got the completion message but I didn't :(. This is not fair.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-06-20T01:02:37-05:00",
+   "body": "I got 2750xp on my level 36 priest. Doesn't mention that in this, thought I'd comment :).",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-08T01:02:37-05:00",
+   "body": "did it at [b]lvl 31[/b] just do dots on everyone then sacri VW + healthstone when you need",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-11-22T22:42:07-06:00",
+   "body": "He stops at around 66,36. So wait there.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-18T03:20:29-05:00",
+   "body": "Aye - he stops at the location mentioned in the previous post on his trip south. He does not have the quest at the northern rest point near Kormek's hut. If you are close enough when he stops, you will hear him yell out for assistance.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-21T23:09:53-05:00",
+   "body": "Well this guy was stuck for me, I made a report in game and the GM whispered me saying that these mobs get regularly reset in case they get stuck so I should check back later, I was a bit miffed i couldn't get my ring sooner but meh",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-02T13:31:25-05:00",
+   "body": "Completed the quest as a level 32 warrior. Cutting a little close due to always having the casters on me, but it worked out.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-23T15:44:49-05:00",
+   "body": "Tried this today with a party of two others, all mid 30s. We start nicely but then the elite Deepstrider Giant comes walking across the road and kills off the caravan. We almost kill him but then get ganked by some Alliance who decided we were easy targets, who then kill the Giant who has almost no life left. Failed quest, no Giant loot and one very pissed off group, priceless.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-09T23:30:24-06:00",
+   "body": "I completed this quest today and Smeed didn't recognize the completed quest.  H didn't have a question Mark over his head :(  No ring!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-25T20:27:36-05:00",
+   "body": "How often does this guy spawn? I have waited for ever.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-08T23:32:00-05:00",
+   "body": "In the second ambush the Giant decided to show up and absolutely destroy the entire caravan.  Better than being ganked by alliance I guess.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2019-06-08T16:25:49-05:00",
+   "body": "The start and finish icons on your map are incorrect. They are the start and end places for the level 38 escort through Mannoroc",
+   "replies": [
+    "could this possibly be caused by one of your addons?"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2019-12-02T18:24:02-06:00",
+   "body": "Forget looting!\r\n\r\nEven if you kill all the attackers, if the caravan gets just a little ahead of you, the quest fails and then you have to wait half hour for the next shot at it.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-04-08T01:02:37-05:00",
+   "body": "That freakin Giant walked in on my run too :(",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-03-25T09:52:35-06:00",
+   "body": "where is it Located ? coordinates pls",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-03-25T09:53:10-06:00",
+   "body": "[b]where is it Located[/b] ? coordinates pls",
+   "replies": [
+    "[npc=11596]"
+   ]
+  },
+  {
+   "rating": -4,
+   "date": "2006-08-17T10:32:26-05:00",
+   "body": "Couldn't get the quest from him. He only talks about his invention. Maybe cuz I tried with a lvl 41 warlock?",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-12-13T06:30:09-06:00",
+   "body": "Tried this today with a party of two others, all mid 30s. We start nicely but then the elite Deepstrider Giant comes walking across the road and kills off the caravan. We almost kill him but then get ganked by some Alliance who decided we were easy targets, who then kill the Giant who has almost no life left. Failed quest, no Giant loot and one very pissed off group, priceless.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-02-02T23:19:00-06:00",
+   "body": "We had the exactly opposite thing happen to us - ie with hordes ganking our group but without the giant ... still managed to finish it afterwards though.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-09-01T01:02:37-05:00",
+   "body": "Are they supposed to follow you or something? I accepted and nothing happens. I tried abandoning and accepting over and over again.\n\nAny ideas?",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-09-01T01:02:37-05:00",
+   "body": "i cant get this quest.. i tried it once and failed and now i cant get the quest again. everytime i talk to the guy he just tells me to talk to his vendor robot to buy something. any clues?",
+   "replies": []
+  }
+ ]
+}

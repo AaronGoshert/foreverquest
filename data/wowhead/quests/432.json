@@ -1,0 +1,246 @@
+{
+ "id": 432,
+ "name": "Those Blasted Troggs!",
+ "level": 9,
+ "reqlevel": 5,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 590,
+ "start": {
+  "type": "npc",
+  "id": 1254,
+  "name": "Foreman Stonebrow",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    69,
+    56.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1254,
+  "name": "Foreman Stonebrow",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    69,
+    56.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Kill 6 Rockjaw Skullthumpers for Foreman Stonebrow at the Gol'Bolar quarry.   Rockjaw Skullthumper slain  ( 6 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1115,
+   "name": "Rockjaw Skullthumpers",
+   "count": 6,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Rockjaw Skullthumper slain",
+   "count": 6,
+   "type": "npc",
+   "id": 1115
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1254,
+   "name": "Foreman Stonebrow",
+   "coord": [
+    69,
+    56.2
+   ],
+   "coords": [
+    [
+     69,
+     56.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1254,
+   "name": "Foreman Stonebrow",
+   "coord": [
+    69,
+    56.2
+   ],
+   "coords": [
+    [
+     69,
+     56.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "requirement",
+   "type": 1,
+   "id": 1115,
+   "name": "Rockjaw Skullthumper",
+   "coord": [
+    70.8,
+    56
+   ],
+   "coords": [
+    [
+     67.2,
+     58.6
+    ],
+    [
+     67.4,
+     58.4
+    ],
+    [
+     67.6,
+     59.2
+    ],
+    [
+     68,
+     60.6
+    ],
+    [
+     68.2,
+     57.8
+    ],
+    [
+     68.2,
+     60.4
+    ],
+    [
+     68.6,
+     58
+    ],
+    [
+     69.2,
+     59
+    ],
+    [
+     69.4,
+     56.8
+    ],
+    [
+     69.6,
+     57.2
+    ],
+    [
+     69.8,
+     57.6
+    ],
+    [
+     70.4,
+     52.2
+    ],
+    [
+     70.4,
+     53.2
+    ],
+    [
+     70.4,
+     55.4
+    ],
+    [
+     70.6,
+     52.4
+    ],
+    [
+     70.6,
+     56.6
+    ],
+    [
+     70.6,
+     58
+    ],
+    [
+     70.6,
+     59.2
+    ],
+    [
+     70.8,
+     52.6
+    ],
+    [
+     70.8,
+     54.8
+    ],
+    [
+     70.8,
+     56
+    ],
+    [
+     71,
+     54
+    ],
+    [
+     71.4,
+     50.4
+    ],
+    [
+     71.4,
+     51.4
+    ],
+    [
+     71.6,
+     50.4
+    ],
+    [
+     71.6,
+     51.2
+    ],
+    [
+     71.8,
+     52.6
+    ],
+    [
+     72.4,
+     51.6
+    ],
+    [
+     72.6,
+     52.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 2,
+   "date": "2007-03-13T10:16:00-05:00",
+   "body": "Continue Quest Text (from Foreman Stonebrow):\r\n\r\n\"It makes me so mad! Grrr...\"\r\n\r\nComplete Quest Text (from Foreman Stonebrow):\r\n\r\n\"Well, that makes me feel a little better...\r\n\r\n\"But I won't be happy until they're all dead! All of them!\"",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-28T20:13:09-06:00",
+   "body": "This quest rewards 150 Ironforge reputation and 150 Gnomeregan Exiles reputation as of patch 2.01",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-29T17:05:06-05:00",
+   "body": "He is at 67, 59.",
+   "replies": []
+  }
+ ]
+}

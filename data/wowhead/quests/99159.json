@@ -1,0 +1,138 @@
+{
+ "id": 99159,
+ "name": "Finding Warmth",
+ "level": 8,
+ "reqlevel": 5,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 700,
+ "start": {
+  "type": "npc",
+  "id": 1253,
+  "name": "Father Gavin",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    57.4,
+    44.8
+   ],
+   [
+    57.6,
+    44.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1253,
+  "name": "Father Gavin",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    57.4,
+    44.8
+   ],
+   [
+    57.6,
+    44.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect 14 pieces of firewood. Mostly Dry Firewood  ( 14 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 286339,
+   "name": "Mostly Dry Firewood",
+   "count": 14,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Mostly Dry Firewood",
+   "count": 14,
+   "type": "item",
+   "id": 286339
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1253,
+   "name": "Father Gavin",
+   "coord": [
+    57.6,
+    44.8
+   ],
+   "coords": [
+    [
+     57.4,
+     44.8
+    ],
+    [
+     57.6,
+     44.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1253,
+   "name": "Father Gavin",
+   "coord": [
+    57.6,
+    44.8
+   ],
+   "coords": [
+    [
+     57.4,
+     44.8
+    ],
+    [
+     57.6,
+     44.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 11,
+   "date": "2026-09-20T16:51:57-05:00",
+   "body": "Large white trunks on the ground next to trees. Some nodes contained [b]2[/b], so collecting all 14 is surprisingly fast.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2026-09-22T17:40:08-05:00",
+   "body": "I found it a bit tedious to run around and look for these boughs on the ground, and was questioning if the XP was worth the time investment, but the follow up quests were quick and worth doing.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-23T08:06:25-05:00",
+   "body": "Was a few others, saw 2-3 there when I did it, respawn time is terrible and spawns are sparse.\nWould not think this is worth doing if there are any others there, since you have no other quest in the area either.\n\nEdit: got 2x wood 3 times out of 11.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-01T04:49:56-05:00",
+   "body": "I found a lot of them at 56.0, 53.0! There are easily 6 or 7 of them there.",
+   "replies": []
+  }
+ ]
+}

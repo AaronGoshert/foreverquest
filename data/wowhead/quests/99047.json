@@ -1,0 +1,110 @@
+{
+ "id": 99047,
+ "name": "Not Dead Yet",
+ "level": 9,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 80,
+ "start": {
+  "type": "npc",
+  "id": 275683,
+  "name": "Sentinel Eralya Leafshadow",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    37.4,
+    36.8
+   ],
+   [
+    37.6,
+    36.4
+   ],
+   [
+    37.6,
+    36.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 6094,
+  "name": "Byancie",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    55.2,
+    56.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Seek aid from Byancie in Dolanaar for Sentinel Eralya Leafshadow .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 6094,
+   "name": "Byancie",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  99046,
+  99047,
+  99050
+ ],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 275683,
+   "name": "Sentinel Eralya Leafshadow",
+   "coord": [
+    37.6,
+    36.8
+   ],
+   "coords": [
+    [
+     37.4,
+     36.8
+    ],
+    [
+     37.6,
+     36.4
+    ],
+    [
+     37.6,
+     36.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 6094,
+   "name": "Byancie",
+   "coord": [
+    55.2,
+    56.8
+   ],
+   "coords": [
+    [
+     55.2,
+     56.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

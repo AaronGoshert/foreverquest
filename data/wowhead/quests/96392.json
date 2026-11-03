@@ -1,0 +1,126 @@
+{
+ "id": 96392,
+ "name": "Farsen's Watch",
+ "level": 13,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 680,
+ "start": {
+  "type": "npc",
+  "id": 264936,
+  "name": "Earthseer Farsen",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    64.8,
+    58.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 264936,
+  "name": "Earthseer Farsen",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    64.8,
+    58.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Speak with Earthseer Farsen and ask him to lend you his far sight to observe the Dark Iron threat.   Use Farsen's Far Sight  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 264936,
+   "name": "Earthseer Farsen",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Use Farsen's Far Sight",
+   "count": 1,
+   "type": "npc",
+   "id": 264936
+  }
+ ],
+ "series": [
+  96408,
+  96392,
+  96390
+ ],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 264936,
+   "name": "Earthseer Farsen",
+   "coord": [
+    64.8,
+    58.4
+   ],
+   "coords": [
+    [
+     64.8,
+     58.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 264936,
+   "name": "Earthseer Farsen",
+   "coord": [
+    64.8,
+    58.4
+   ],
+   "coords": [
+    [
+     64.8,
+     58.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "requirement",
+   "type": 1,
+   "id": 264936,
+   "name": "Earthseer Farsen",
+   "coord": [
+    64.8,
+    58.4
+   ],
+   "coords": [
+    [
+     64.8,
+     58.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-20T16:27:19-05:00",
+   "body": "Talk to Farsen and click the [b]dialogue option[/b]. To cancel the farsight effect, simply move or hit Esc and the quest is complete.\r\n\r\nThe area you were viewing is where the next part of this quest chain takes place. Around this general area you can also complete the quests [quest=95212] and [quest=95214] fairly effectively, as well as pick the [item=274268] up for an extra 1050 XP.",
+   "replies": []
+  }
+ ]
+}

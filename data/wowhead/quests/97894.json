@@ -1,0 +1,153 @@
+{
+ "id": 97894,
+ "name": "Business in Auberdine",
+ "level": 17,
+ "reqlevel": 13,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 7232,
+  "name": "Borgus Steelhand",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    51.4,
+    12.4
+   ],
+   [
+    51.4,
+    12.6
+   ],
+   [
+    51.6,
+    12.4
+   ],
+   [
+    51.6,
+    12.6
+   ],
+   [
+    59.4,
+    34.2
+   ],
+   [
+    59.6,
+    34.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 6301,
+  "name": "Gorbold Steelhand",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    38,
+    41.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Check on Gorbold Steelhand in Auberdine in Darkshore . Borgus mentioned a boat on the southern-most dock in Stormwind Harbor that can take you there.   Take the boat to Auberdine and find Gorbold Steelhand.  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 6301,
+   "name": "Gorbold Steelhand",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Take the boat to Auberdine and find Gorbold Steelhand.",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [
+  97894,
+  982
+ ],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 7232,
+   "name": "Borgus Steelhand",
+   "coord": [
+    51.4,
+    12.6
+   ],
+   "coords": [
+    [
+     51.4,
+     12.4
+    ],
+    [
+     51.4,
+     12.6
+    ],
+    [
+     51.6,
+     12.4
+    ],
+    [
+     51.6,
+     12.6
+    ],
+    [
+     59.4,
+     34.2
+    ],
+    [
+     59.6,
+     34.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 6301,
+   "name": "Gorbold Steelhand",
+   "coord": [
+    38,
+    41.2
+   ],
+   "coords": [
+    [
+     38,
+     41.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-14T21:34:44-05:00",
+   "body": "Breadcrumb to have you visit Auberdine.\r\n\r\nUnlike other breadcrumb quests, gives 0 XP. Kind of odd and possibly an oversight. But can be skipped with no consequence.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2026-10-06T14:02:48-05:00",
+   "body": "This is a new breadcrumb quest giving you information on how to travel to Auberdine from Stormwind. It grants [b]0 XP, reputation or silver[/b], and you can start [quest=982] without completing this one. You may abandon this one and go straight to [url=https://www.wowhead.com/forever/npc=6301/gorbold-steelhand#map]Gorbold[/url] if you plan on doing his quest to keep your quest log clean.",
+   "replies": []
+  }
+ ]
+}

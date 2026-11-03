@@ -1,0 +1,90 @@
+{
+ "id": 96628,
+ "name": "The Adventurer",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 405,
+ "start": {
+  "type": "npc",
+  "id": 1965,
+  "name": "Mountaineer Thalos",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    33.4,
+    71.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 265813,
+  "name": "Eric Brighthammer",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    46.6,
+    53.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Deliver the Supply Bundle to Eric Brighthammer near Kharanos. Supply Bundle (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 275019,
+   "name": "Supply Bundle",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1965,
+   "name": "Mountaineer Thalos",
+   "coord": [
+    33.4,
+    71.8
+   ],
+   "coords": [
+    [
+     33.4,
+     71.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 265813,
+   "name": "Eric Brighthammer",
+   "coord": [
+    46.6,
+    53.8
+   ],
+   "coords": [
+    [
+     46.6,
+     53.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

@@ -1,0 +1,469 @@
+{
+ "id": 92516,
+ "name": "Hippogryph Harassment",
+ "level": 7,
+ "reqlevel": 4,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 630,
+ "start": {
+  "type": "npc",
+  "id": 251906,
+  "name": "Teeri Wellwind",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    44.4,
+    45
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251906,
+  "name": "Teeri Wellwind",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    44.4,
+    45
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Slay 8 Hippogryph Youths , 6 Hippogryph Protectors and a Hippogryph Matriarch in the Shen'dar Highlands.   Hippogryph Youth slain  ( 8 )   Hippogryph Protector slain  ( 6 )   Hippogryph Matriarch slain  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 251291,
+   "name": "Hippogryph Youths",
+   "count": 8,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 251284,
+   "name": "Hippogryph Protector",
+   "count": 8,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 251261,
+   "name": "Hippogryph Matriarch",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Hippogryph Youth slain",
+   "count": 8,
+   "type": "npc",
+   "id": 251291
+  },
+  {
+   "text": "Hippogryph Protector slain",
+   "count": 6,
+   "type": "npc",
+   "id": 251284
+  },
+  {
+   "text": "Hippogryph Matriarch slain",
+   "count": 1,
+   "type": "npc",
+   "id": 251261
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 251906,
+   "name": "Teeri Wellwind",
+   "coord": [
+    44.4,
+    45
+   ],
+   "coords": [
+    [
+     44.4,
+     45
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251906,
+   "name": "Teeri Wellwind",
+   "coord": [
+    44.4,
+    45
+   ],
+   "coords": [
+    [
+     44.4,
+     45
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 251261,
+   "name": "Hippogryph Matriarch",
+   "coord": [
+    34.9,
+    52
+   ],
+   "coords": [
+    [
+     33.4,
+     54
+    ],
+    [
+     33.4,
+     54.6
+    ],
+    [
+     33.6,
+     54.4
+    ],
+    [
+     33.6,
+     54.6
+    ],
+    [
+     34.2,
+     51.4
+    ],
+    [
+     34.2,
+     52.8
+    ],
+    [
+     34.4,
+     51.6
+    ],
+    [
+     34.6,
+     51
+    ],
+    [
+     34.9,
+     52
+    ],
+    [
+     35,
+     54
+    ],
+    [
+     35.4,
+     53.4
+    ],
+    [
+     35.6,
+     54.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 251284,
+   "name": "Hippogryph Protector",
+   "coord": [
+    35,
+    51.8
+   ],
+   "coords": [
+    [
+     33.4,
+     54.2
+    ],
+    [
+     33.8,
+     53.9
+    ],
+    [
+     34,
+     53.2
+    ],
+    [
+     34,
+     55.2
+    ],
+    [
+     34.4,
+     51.4
+    ],
+    [
+     34.4,
+     55.6
+    ],
+    [
+     34.5,
+     53.7
+    ],
+    [
+     34.9,
+     50.9
+    ],
+    [
+     35,
+     51.8
+    ],
+    [
+     35.4,
+     53.3
+    ],
+    [
+     35.4,
+     55.4
+    ],
+    [
+     35.4,
+     55.7
+    ],
+    [
+     35.6,
+     53
+    ],
+    [
+     35.6,
+     55.5
+    ],
+    [
+     36,
+     52
+    ],
+    [
+     36,
+     54.4
+    ],
+    [
+     36.2,
+     50.8
+    ],
+    [
+     36.2,
+     55.2
+    ],
+    [
+     36.5,
+     56.2
+    ],
+    [
+     36.8,
+     52.2
+    ],
+    [
+     36.9,
+     50.5
+    ],
+    [
+     37,
+     53.2
+    ],
+    [
+     37.2,
+     50.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 251291,
+   "name": "Hippogryph Youth",
+   "coord": [
+    37.8,
+    51
+   ],
+   "coords": [
+    [
+     35,
+     57
+    ],
+    [
+     35,
+     57.8
+    ],
+    [
+     35.2,
+     56.4
+    ],
+    [
+     35.8,
+     56.2
+    ],
+    [
+     35.8,
+     58
+    ],
+    [
+     36,
+     57.2
+    ],
+    [
+     36.2,
+     50.4
+    ],
+    [
+     36.4,
+     50.6
+    ],
+    [
+     36.8,
+     57.6
+    ],
+    [
+     36.8,
+     58.6
+    ],
+    [
+     37,
+     51
+    ],
+    [
+     37.2,
+     50.2
+    ],
+    [
+     37.2,
+     57.4
+    ],
+    [
+     37.4,
+     51.6
+    ],
+    [
+     37.4,
+     54.2
+    ],
+    [
+     37.4,
+     54.6
+    ],
+    [
+     37.4,
+     56.2
+    ],
+    [
+     37.6,
+     49.4
+    ],
+    [
+     37.6,
+     49.6
+    ],
+    [
+     37.6,
+     58.2
+    ],
+    [
+     37.8,
+     51
+    ],
+    [
+     37.8,
+     53.2
+    ],
+    [
+     38,
+     53.8
+    ],
+    [
+     38,
+     57
+    ],
+    [
+     38.2,
+     55
+    ],
+    [
+     38.4,
+     51.8
+    ],
+    [
+     38.4,
+     55.6
+    ],
+    [
+     38.6,
+     51.8
+    ],
+    [
+     38.6,
+     53
+    ],
+    [
+     38.6,
+     56.8
+    ],
+    [
+     38.8,
+     50.4
+    ],
+    [
+     38.8,
+     51.2
+    ],
+    [
+     38.8,
+     54
+    ],
+    [
+     38.8,
+     54.6
+    ],
+    [
+     39.4,
+     55.6
+    ],
+    [
+     39.6,
+     57
+    ],
+    [
+     39.8,
+     51.4
+    ],
+    [
+     39.8,
+     51.6
+    ],
+    [
+     39.8,
+     53.8
+    ],
+    [
+     40,
+     53.2
+    ],
+    [
+     40.2,
+     57.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

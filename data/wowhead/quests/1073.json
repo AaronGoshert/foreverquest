@@ -1,0 +1,299 @@
+{
+ "id": 1073,
+ "name": "Ineptitude + Chemicals = Fun",
+ "level": 21,
+ "reqlevel": 17,
+ "side": 1,
+ "zoneId": 406,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1650,
+ "start": {
+  "type": "npc",
+  "id": 4081,
+  "name": "Lomac Gearstrip",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    71.2,
+    50.6
+   ],
+   [
+    71.2,
+    52.8
+   ],
+   [
+    71.4,
+    50.4
+   ],
+   [
+    71.4,
+    52.2
+   ],
+   [
+    71.8,
+    50
+   ],
+   [
+    71.8,
+    51.4
+   ],
+   [
+    71.8,
+    51.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4081,
+  "name": "Lomac Gearstrip",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    71.2,
+    50.6
+   ],
+   [
+    71.2,
+    52.8
+   ],
+   [
+    71.4,
+    50.4
+   ],
+   [
+    71.4,
+    52.2
+   ],
+   [
+    71.8,
+    50
+   ],
+   [
+    71.8,
+    51.4
+   ],
+   [
+    71.8,
+    51.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 4 Minor Mana Potions and 2 Elixirs of Minor Fortitude to Lomac Gearstrip in Ironforge. Minor Mana Potion  ( 4 ) Elixir of Minor Fortitude  ( 2 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 2455,
+   "name": "Minor Mana Potions",
+   "count": 4,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 2458,
+   "name": "Elixir of Minor Fortitude",
+   "count": 2,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Minor Mana Potion",
+   "count": 4,
+   "type": "item",
+   "id": 2455
+  },
+  {
+   "text": "Elixir of Minor Fortitude",
+   "count": 2,
+   "type": "item",
+   "id": 2458
+  }
+ ],
+ "series": [
+  1072,
+  1073,
+  1074
+ ],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 4081,
+   "name": "Lomac Gearstrip",
+   "coord": [
+    71.8,
+    51.6
+   ],
+   "coords": [
+    [
+     71.2,
+     50.6
+    ],
+    [
+     71.2,
+     52.8
+    ],
+    [
+     71.4,
+     50.4
+    ],
+    [
+     71.4,
+     52.2
+    ],
+    [
+     71.8,
+     50
+    ],
+    [
+     71.8,
+     51.4
+    ],
+    [
+     71.8,
+     51.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 4081,
+   "name": "Lomac Gearstrip",
+   "coord": [
+    71.8,
+    51.6
+   ],
+   "coords": [
+    [
+     71.2,
+     50.6
+    ],
+    [
+     71.2,
+     52.8
+    ],
+    [
+     71.4,
+     50.4
+    ],
+    [
+     71.4,
+     52.2
+    ],
+    [
+     71.8,
+     50
+    ],
+    [
+     71.8,
+     51.4
+    ],
+    [
+     71.8,
+     51.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 16,
+   "date": "2004-12-17T14:00:36-06:00",
+   "body": "Isn't there a filter to prevent spamming the forum?\n\nThese are random drops off mobs.  You can always try to buy or become an alchemist and make them yourself.\n\nI got pretty lucky, I already had these items on me when I got this quest so only had to turn it back in.",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2007-01-31T05:49:35-06:00",
+   "body": "The confusion on this quest is that the potion of fortitude required is the MINOR potion of fortitude, not the more difficult to aquire (Regular) Potion of Fortitude.    The minor potion is cheap, the regular is considerably more expensive.  I hope this helps.",
+   "replies": [
+    "As Weebles also said below, there is a basic contradiction in the quest text which has still not been corrected (in Classic)."
+   ]
+  },
+  {
+   "rating": 13,
+   "date": "2005-10-05T04:49:25-05:00",
+   "body": "Ask an Alchemist to supply you these potions.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-12-17T04:49:25-06:00",
+   "body": "beomce a Alchemist&nbsp; and make them your self, or as the guy said just buy them in&nbsp; the auction house.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2019-09-04T16:08:59-05:00",
+   "body": "The quest text says \"Elixir of Fortitude\", but the actual tracked items are \"Elixir of Minor Fortitude\". Don't spend money on the large ones..",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-08-29T16:49:25-05:00",
+   "body": "just farm these offa humanoids for the mana potions u get 1 every 10-15 guys i found also the other potion is easily gotten from a guild alch",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-07-24T04:49:25-05:00",
+   "body": "Well, on my server no1 has neither of those up in the AH, and I'm sure not givin up herb and mining.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-28T04:49:25-06:00",
+   "body": "hey, u ever hear of an alt? most of us doing these quests are an alt",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-31T20:52:01-06:00",
+   "body": "Yeah these are very low level alchemy spells.  Not hard to get ur hands on them.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-13T13:51:20-06:00",
+   "body": "I'm finding that the Elixirs of Fortitude are 1G each in the Auction House.  That seems really steep to me.  I'm holding out for the moment, but I don't have a plan for acquiring them...",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-05T04:49:25-05:00",
+   "body": "No it doesn't\ni just got the minor ones and it worked,",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-05T04:49:25-05:00",
+   "body": "The south of the Barrens near the Razorfen Kraul is Blackthorn Ridge...there is small camp with an elite mob (lvl26) and in the camp is a chest. I found 4 minor mana potions in the chest...I kill all mobs but didnt find Elixir of Minor Fortitude...",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-07-24T04:49:25-05:00",
+   "body": "The prices at the auction are outrageous,(at least for the fortitude potion) Does somebody know what kind of mobs drop the elixer of fortitude?",
+   "replies": []
+  },
+  {
+   "rating": -89,
+   "date": "2004-12-07T19:15:19-06:00",
+   "body": "anybody know where I can find these things?",
+   "replies": [
+    "i bought these ones in auction, so go and check the auction house.\n\nIf not try finding an Alchemist that make it for you."
+   ]
+  }
+ ]
+}

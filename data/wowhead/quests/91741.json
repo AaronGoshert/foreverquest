@@ -1,0 +1,90 @@
+{
+ "id": 91741,
+ "name": "Nibbled-On Book",
+ "level": 2,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 85,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 951,
+  "name": "Brother Paxton",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    49.4,
+    40.4
+   ],
+   [
+    49.6,
+    40.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Return the book to Brother Paxton . Nibbled-On Book (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 951,
+   "name": "Brother Paxton",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  91741,
+  91743,
+  91745,
+  91752,
+  91758,
+  91772,
+  91775,
+  91777
+ ],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 951,
+   "name": "Brother Paxton",
+   "coord": [
+    49.4,
+    40.4
+   ],
+   "coords": [
+    [
+     49.4,
+     40.4
+    ],
+    [
+     49.6,
+     40.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-25T22:59:40-05:00",
+   "body": "You will find this book doing the kobold quest chain in Northshire Valley. This quest's next part will allow you to learn [b]Skinning, Herbalism or Mining[/b] and/or gain skill points for any of these professions. Ultimately this chain will also reward you with a [b]green weapon[/b] of your choice.\n\nFinish all the kobold slaying quests [i](10 vermin, 10 workers, 12 laborers -- that's a lot of mobs in total to drop these books!)[/i] and you'll most likely find all 8 [url=https://www.wowhead.com/forever/item=247839/stolen-book]Stolen Books[/url] without having to farm for them separately.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-08T05:39:34-05:00",
+   "body": "This questline is heavily influenced by [url=https://en.wikipedia.org/wiki/Bugs_Bunny]Bugs Bunny[/url] cartoons. I'll add more details in each section.",
+   "replies": []
+  }
+ ]
+}

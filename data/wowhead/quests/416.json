@@ -1,0 +1,1367 @@
+{
+ "id": 416,
+ "name": "Rat Catching",
+ "level": 11,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": 38,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 880,
+ "start": {
+  "type": "npc",
+  "id": 1340,
+  "name": "Mountaineer Kadrell",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    32.8,
+    49.6
+   ],
+   [
+    33.2,
+    49.2
+   ],
+   [
+    33.6,
+    48.6
+   ],
+   [
+    34,
+    48
+   ],
+   [
+    34.4,
+    47.4
+   ],
+   [
+    34.6,
+    47.2
+   ],
+   [
+    35.6,
+    46.6
+   ],
+   [
+    36,
+    46.4
+   ],
+   [
+    36.6,
+    46.2
+   ],
+   [
+    36.8,
+    42
+   ],
+   [
+    37.2,
+    43.4
+   ],
+   [
+    37.2,
+    44
+   ],
+   [
+    37.2,
+    45.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1340,
+  "name": "Mountaineer Kadrell",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    32.8,
+    49.6
+   ],
+   [
+    33.2,
+    49.2
+   ],
+   [
+    33.6,
+    48.6
+   ],
+   [
+    34,
+    48
+   ],
+   [
+    34.4,
+    47.4
+   ],
+   [
+    34.6,
+    47.2
+   ],
+   [
+    35.6,
+    46.6
+   ],
+   [
+    36,
+    46.4
+   ],
+   [
+    36.6,
+    46.2
+   ],
+   [
+    36.8,
+    42
+   ],
+   [
+    37.2,
+    43.4
+   ],
+   [
+    37.2,
+    44
+   ],
+   [
+    37.2,
+    45.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 12 Tunnel Rat Ears to Mountaineer Kadrell in Thelsamar. Tunnel Rat Ear  ( 12 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 3110,
+   "name": "Tunnel Rat Ears",
+   "count": 12,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Tunnel Rat Ear",
+   "count": 12,
+   "type": "item",
+   "id": 3110
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 1340,
+   "name": "Mountaineer Kadrell",
+   "coord": [
+    32.8,
+    49.6
+   ],
+   "coords": [
+    [
+     32.8,
+     49.6
+    ],
+    [
+     33.2,
+     49.2
+    ],
+    [
+     33.6,
+     48.6
+    ],
+    [
+     34,
+     48
+    ],
+    [
+     34.4,
+     47.4
+    ],
+    [
+     34.6,
+     47.2
+    ],
+    [
+     35.6,
+     46.6
+    ],
+    [
+     36,
+     46.4
+    ],
+    [
+     36.6,
+     46.2
+    ],
+    [
+     36.8,
+     42
+    ],
+    [
+     37.2,
+     43.4
+    ],
+    [
+     37.2,
+     44
+    ],
+    [
+     37.2,
+     45.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 1340,
+   "name": "Mountaineer Kadrell",
+   "coord": [
+    32.8,
+    49.6
+   ],
+   "coords": [
+    [
+     32.8,
+     49.6
+    ],
+    [
+     33.2,
+     49.2
+    ],
+    [
+     33.6,
+     48.6
+    ],
+    [
+     34,
+     48
+    ],
+    [
+     34.4,
+     47.4
+    ],
+    [
+     34.6,
+     47.2
+    ],
+    [
+     35.6,
+     46.6
+    ],
+    [
+     36,
+     46.4
+    ],
+    [
+     36.6,
+     46.2
+    ],
+    [
+     36.8,
+     42
+    ],
+    [
+     37.2,
+     43.4
+    ],
+    [
+     37.2,
+     44
+    ],
+    [
+     37.2,
+     45.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1172,
+   "name": "Tunnel Rat Vermin",
+   "coord": [
+    34,
+    17.2
+   ],
+   "coords": [
+    [
+     22.4,
+     29
+    ],
+    [
+     22.6,
+     29
+    ],
+    [
+     23.4,
+     30
+    ],
+    [
+     23.6,
+     30.4
+    ],
+    [
+     23.8,
+     26.4
+    ],
+    [
+     23.8,
+     26.8
+    ],
+    [
+     23.8,
+     28.8
+    ],
+    [
+     24,
+     27.6
+    ],
+    [
+     24,
+     34.2
+    ],
+    [
+     24,
+     34.6
+    ],
+    [
+     24.4,
+     31.4
+    ],
+    [
+     24.4,
+     31.6
+    ],
+    [
+     24.8,
+     28.4
+    ],
+    [
+     24.8,
+     29.4
+    ],
+    [
+     24.8,
+     32.4
+    ],
+    [
+     24.8,
+     32.8
+    ],
+    [
+     24.8,
+     34.8
+    ],
+    [
+     25.2,
+     30.4
+    ],
+    [
+     25.4,
+     30.6
+    ],
+    [
+     25.8,
+     31.2
+    ],
+    [
+     26.2,
+     27.2
+    ],
+    [
+     26.2,
+     31.6
+    ],
+    [
+     26.2,
+     34.2
+    ],
+    [
+     26.2,
+     34.6
+    ],
+    [
+     26.2,
+     41.8
+    ],
+    [
+     26.4,
+     41
+    ],
+    [
+     27.4,
+     41.6
+    ],
+    [
+     27.4,
+     43.2
+    ],
+    [
+     27.4,
+     43.6
+    ],
+    [
+     27.4,
+     45
+    ],
+    [
+     28.4,
+     45
+    ],
+    [
+     28.8,
+     45.4
+    ],
+    [
+     33.2,
+     12.4
+    ],
+    [
+     33.2,
+     12.6
+    ],
+    [
+     33.4,
+     17.2
+    ],
+    [
+     33.4,
+     18
+    ],
+    [
+     34,
+     17.2
+    ],
+    [
+     34.4,
+     10.6
+    ],
+    [
+     34.4,
+     17.8
+    ],
+    [
+     34.6,
+     10.6
+    ],
+    [
+     34.6,
+     17.4
+    ],
+    [
+     34.8,
+     18
+    ],
+    [
+     35.2,
+     15.6
+    ],
+    [
+     35.4,
+     15.2
+    ],
+    [
+     35.4,
+     18.6
+    ],
+    [
+     35.6,
+     14.8
+    ],
+    [
+     35.8,
+     14.4
+    ],
+    [
+     35.8,
+     26.4
+    ],
+    [
+     35.8,
+     27
+    ],
+    [
+     36.2,
+     18.4
+    ],
+    [
+     36.4,
+     12
+    ],
+    [
+     36.6,
+     13.6
+    ],
+    [
+     36.8,
+     12
+    ],
+    [
+     36.8,
+     12.6
+    ],
+    [
+     36.8,
+     18
+    ],
+    [
+     36.8,
+     27.6
+    ],
+    [
+     37,
+     27.2
+    ],
+    [
+     37.2,
+     10.4
+    ],
+    [
+     37.2,
+     10.6
+    ],
+    [
+     37.2,
+     18.6
+    ],
+    [
+     37.2,
+     29
+    ],
+    [
+     38,
+     22.2
+    ],
+    [
+     38,
+     23.6
+    ],
+    [
+     38,
+     25.6
+    ],
+    [
+     38.2,
+     12.4
+    ],
+    [
+     38.2,
+     12.6
+    ],
+    [
+     38.2,
+     14.4
+    ],
+    [
+     38.2,
+     16
+    ],
+    [
+     38.2,
+     17.4
+    ],
+    [
+     38.2,
+     17.8
+    ],
+    [
+     38.2,
+     23
+    ],
+    [
+     38.2,
+     25.4
+    ],
+    [
+     38.4,
+     14.6
+    ],
+    [
+     38.4,
+     19.4
+    ],
+    [
+     38.4,
+     19.6
+    ],
+    [
+     38.4,
+     27.4
+    ],
+    [
+     38.6,
+     14
+    ],
+    [
+     38.6,
+     15.4
+    ],
+    [
+     38.6,
+     16.2
+    ],
+    [
+     38.6,
+     19.4
+    ],
+    [
+     38.6,
+     20.2
+    ],
+    [
+     38.6,
+     27
+    ],
+    [
+     39.2,
+     11
+    ],
+    [
+     39.4,
+     17.8
+    ],
+    [
+     39.4,
+     21.4
+    ],
+    [
+     39.4,
+     21.6
+    ],
+    [
+     39.4,
+     25
+    ],
+    [
+     39.6,
+     10.6
+    ],
+    [
+     39.6,
+     17.4
+    ],
+    [
+     39.6,
+     17.8
+    ],
+    [
+     39.6,
+     21.4
+    ],
+    [
+     39.6,
+     21.6
+    ],
+    [
+     39.6,
+     24.4
+    ],
+    [
+     39.6,
+     24.8
+    ],
+    [
+     40.4,
+     19.8
+    ],
+    [
+     40.4,
+     23.4
+    ],
+    [
+     40.6,
+     9.8
+    ],
+    [
+     40.6,
+     20
+    ],
+    [
+     40.6,
+     23
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1173,
+   "name": "Tunnel Rat Scout",
+   "coord": [
+    28.6,
+    45.1
+   ],
+   "coords": [
+    [
+     23.6,
+     30.4
+    ],
+    [
+     23.8,
+     26.8
+    ],
+    [
+     24,
+     34.4
+    ],
+    [
+     24.6,
+     30
+    ],
+    [
+     25,
+     28.6
+    ],
+    [
+     25,
+     32.4
+    ],
+    [
+     26,
+     31.4
+    ],
+    [
+     26.2,
+     40.7
+    ],
+    [
+     26.7,
+     41.8
+    ],
+    [
+     27.4,
+     42.6
+    ],
+    [
+     27.4,
+     45
+    ],
+    [
+     27.7,
+     45.3
+    ],
+    [
+     27.9,
+     42.9
+    ],
+    [
+     28.6,
+     45.1
+    ],
+    [
+     35,
+     18
+    ],
+    [
+     35.8,
+     18.4
+    ],
+    [
+     36.8,
+     25
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1174,
+   "name": "Tunnel Rat Geomancer",
+   "coord": [
+    35,
+    23.4
+   ],
+   "coords": [
+    [
+     34.3,
+     27
+    ],
+    [
+     35,
+     23.4
+    ],
+    [
+     35.2,
+     23.8
+    ],
+    [
+     35.2,
+     24.8
+    ],
+    [
+     35.4,
+     18.4
+    ],
+    [
+     35.4,
+     19
+    ],
+    [
+     35.4,
+     19.6
+    ],
+    [
+     35.4,
+     21.4
+    ],
+    [
+     35.4,
+     21.8
+    ],
+    [
+     35.4,
+     27.8
+    ],
+    [
+     35.6,
+     19.4
+    ],
+    [
+     35.6,
+     20
+    ],
+    [
+     35.6,
+     20.6
+    ],
+    [
+     35.6,
+     22.2
+    ],
+    [
+     35.8,
+     24.4
+    ],
+    [
+     35.8,
+     27.6
+    ],
+    [
+     36.2,
+     23.2
+    ],
+    [
+     36.2,
+     26.6
+    ],
+    [
+     36.4,
+     24.6
+    ],
+    [
+     36.4,
+     26
+    ],
+    [
+     36.6,
+     25.4
+    ],
+    [
+     36.6,
+     25.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1175,
+   "name": "Tunnel Rat Digger",
+   "coord": [
+    36.2,
+    23.4
+   ],
+   "coords": [
+    [
+     34.3,
+     26.7
+    ],
+    [
+     35,
+     23.4
+    ],
+    [
+     35,
+     27.4
+    ],
+    [
+     35.2,
+     23.6
+    ],
+    [
+     35.4,
+     18.4
+    ],
+    [
+     35.4,
+     19
+    ],
+    [
+     35.4,
+     19.6
+    ],
+    [
+     35.4,
+     21.4
+    ],
+    [
+     35.4,
+     21.8
+    ],
+    [
+     35.4,
+     24.6
+    ],
+    [
+     35.4,
+     27.8
+    ],
+    [
+     35.6,
+     19.4
+    ],
+    [
+     35.6,
+     20
+    ],
+    [
+     35.6,
+     20.6
+    ],
+    [
+     35.8,
+     22.2
+    ],
+    [
+     35.8,
+     24.4
+    ],
+    [
+     35.8,
+     27.6
+    ],
+    [
+     36.2,
+     23.4
+    ],
+    [
+     36.2,
+     26.6
+    ],
+    [
+     36.4,
+     24.8
+    ],
+    [
+     36.4,
+     26
+    ],
+    [
+     36.6,
+     25
+    ],
+    [
+     36.6,
+     25.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1176,
+   "name": "Tunnel Rat Forager",
+   "coord": [
+    25.7,
+    44.1
+   ],
+   "coords": [
+    [
+     25.7,
+     44.1
+    ],
+    [
+     26.2,
+     42
+    ],
+    [
+     26.2,
+     42.6
+    ],
+    [
+     26.6,
+     42.2
+    ],
+    [
+     26.6,
+     44
+    ],
+    [
+     27,
+     43.1
+    ],
+    [
+     27.2,
+     44.6
+    ],
+    [
+     27.7,
+     44.2
+    ],
+    [
+     34.2,
+     17.2
+    ],
+    [
+     35.2,
+     14.8
+    ],
+    [
+     35.2,
+     15.9
+    ],
+    [
+     35.4,
+     17.4
+    ],
+    [
+     35.4,
+     17.6
+    ],
+    [
+     35.5,
+     17.7
+    ],
+    [
+     35.6,
+     16.8
+    ],
+    [
+     36.3,
+     23.4
+    ],
+    [
+     36.4,
+     23.6
+    ],
+    [
+     36.6,
+     23.8
+    ],
+    [
+     37.2,
+     25.2
+    ],
+    [
+     37.2,
+     26
+    ],
+    [
+     37.6,
+     16.2
+    ],
+    [
+     37.6,
+     25.4
+    ],
+    [
+     37.6,
+     26
+    ],
+    [
+     39.8,
+     12.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1177,
+   "name": "Tunnel Rat Surveyor",
+   "coord": [
+    35.2,
+    27.6
+   ],
+   "coords": [
+    [
+     34.4,
+     26.8
+    ],
+    [
+     34.8,
+     26.4
+    ],
+    [
+     35,
+     27.4
+    ],
+    [
+     35.2,
+     27.6
+    ],
+    [
+     35.6,
+     27.8
+    ],
+    [
+     35.8,
+     27.4
+    ],
+    [
+     36.6,
+     25.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1202,
+   "name": "Tunnel Rat Kobold",
+   "coord": [
+    26.2,
+    43.4
+   ],
+   "coords": [
+    [
+     26.2,
+     43.4
+    ],
+    [
+     26.2,
+     43.8
+    ],
+    [
+     26.4,
+     41.4
+    ],
+    [
+     26.6,
+     42.4
+    ],
+    [
+     26.9,
+     44.2
+    ],
+    [
+     27,
+     43.1
+    ],
+    [
+     27.7,
+     44.4
+    ],
+    [
+     33.4,
+     17.2
+    ],
+    [
+     34.2,
+     17.2
+    ],
+    [
+     35.4,
+     17
+    ],
+    [
+     35.4,
+     17.6
+    ],
+    [
+     35.6,
+     17
+    ],
+    [
+     35.6,
+     17.6
+    ],
+    [
+     36.3,
+     23.3
+    ],
+    [
+     36.4,
+     23.6
+    ],
+    [
+     36.9,
+     24.4
+    ],
+    [
+     37.1,
+     25.6
+    ],
+    [
+     37.2,
+     24.8
+    ],
+    [
+     37.6,
+     25.6
+    ],
+    [
+     37.7,
+     18.3
+    ],
+    [
+     39.3,
+     13.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 32,
+   "date": "2006-06-07T14:38:22-05:00",
+   "body": "A camp of them can be found at:\n\n24, 31\n\nMake a macro with this:\n\n/script px,py=GetPlayerMapPosition(\"player\")\n/script DEFAULT_CHAT_FRAME:AddMessage(format(\"[ %s ] %i , %i\",GetZoneText(),px*100,py*100)); \n\nIt will tell you your cords without having a mod installed.",
+   "replies": [
+    "great co-ords",
+    "very nice macro"
+   ]
+  },
+  {
+   "rating": 9,
+   "date": "2007-05-01T06:59:50-05:00",
+   "body": "found a large group at 37, 27",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-09-25T02:38:22-05:00",
+   "body": "location is 25,25\n\nPeace",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-12-07T02:38:22-06:00",
+   "body": "Found some around 27,44",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-05-02T02:38:22-05:00",
+   "body": "Drop rate is horrible for me, this quest might take a while (took me an hour)&nbsp; Also the quest gives 875XP not 90XP",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-09-25T02:38:22-05:00",
+   "body": "35,19 in the caved. Drop rate almost 100% inside.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-02-18T02:38:22-06:00",
+   "body": "?\n\nThat's not that far, and they are there.&nbsp; It's not east, it's on the western side man.&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2004-12-01T19:35:17-06:00",
+   "body": "Or you can go west out of thelsmar (sp) and hit that little camp about 30 seconds out of town. They spread out a bit and are closer to the town in case you die",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-12-17T14:44:28-06:00",
+   "body": "The drop rate for ears by higher level Tunnel Rats (Digger, Geomancer and Surveyor) are significantly lower.  So, stick with the low end Tunnel Rats (Tunnel Rat Scouts appear to have the highest drop rate).\n\nIn addition to the places mentioned below, Tunnel Rat camps on the western side of the road are also good places to hunt for the ears.\n\nEdited, Sat Dec 17 07:50:10 2005",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-14T02:38:22-05:00",
+   "body": "a good place to do it is at (25,31)... that place took me about 10 mins to get all 12 ears.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-14T02:38:22-05:00",
+   "body": "I did this one as a lvl 19 pally just for the heck of it, and it still took me a good half hour and about 40-50 kills for me to get all 12 ears.&nbsp; If your interested in a little bit more of a challenge, I'd say head over to Silver Stream Mine.&nbsp; You can also do another quest in here so you can knock out two for one.....",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-16T08:47:32-06:00",
+   "body": "Yellow quest gave 875 experience.\nThere is a hut they roam around about 27, 38.  Very short walk North West of Thelsamar.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-06T08:34:16-06:00",
+   "body": "I killed about two dozen near town and got no ears, killed 4 by the dam and got 2 ears.",
+   "replies": [
+    "Well it took a while, but I got all my ears right next to Theslamar (sp?). \n\nBunnyfufu Lvl 14 Gnome Warrior on Bloodscalp\n\nand.."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-29T14:48:34-05:00",
+   "body": "Went just west of Thelsmar and then North.  Every rat I killed dropped ears, so i'm either lucky or everyone else was looking in the wrong spot.  Human Warrior Lvl 21, completed this in approx 2 minutes. :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-14T08:13:00-05:00",
+   "body": "The droprate on the ears is friggin low, don't know how much time i have to spend killing the mobs until i get all of them.\nKilled almost 20 so far on my mage and got 1!",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-08T19:56:23-06:00",
+   "body": "They are really kobolds and can be found north of Thelsamer. Their defense is pretty high and they will run away.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-27T21:16:31-05:00",
+   "body": "This is one of the suckiest quest there is.  Drop rate is patheticly low, something around 1 in 5.",
+   "replies": [
+    "even less. I've killed 11 no drop"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2006-05-02T02:38:22-05:00",
+   "body": "875 also.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-12T14:38:22-06:00",
+   "body": "Anyone who says they got great drop rates on this quest is either extremely lucky or just lying. Perhaps 1 in 4 drops an ear, so prepare to grind on these for awhile.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2004-09-10T00:42:30-05:00",
+   "body": "The best place to hunt these rats are in the northwest next to the dam.  They are pretty spread out and easy to eat one single.",
+   "replies": []
+  }
+ ]
+}

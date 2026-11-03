@@ -1,0 +1,371 @@
+{
+ "id": 64,
+ "name": "The Forgotten Heirloom",
+ "level": 12,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 910,
+ "start": {
+  "type": "npc",
+  "id": 237,
+  "name": "Farmer Furlbrow",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    59.8,
+    19.6
+   ],
+   [
+    60,
+    19.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 237,
+  "name": "Farmer Furlbrow",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    59.8,
+    19.6
+   ],
+   [
+    60,
+    19.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Farmer Furlbrow wants you to retrieve his pocket watch from the wardrobe in his farmhouse at the pumpkin farm to the West. Furlbrow's Pocket Watch  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 237,
+   "name": "Farmer Furlbrow",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 841,
+   "name": "Furlbrow's Pocket Watch",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Furlbrow's Pocket Watch",
+   "count": 1,
+   "type": "item",
+   "id": 841
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "start",
+   "type": 1,
+   "id": 237,
+   "name": "Farmer Furlbrow",
+   "coord": [
+    60,
+    19.4
+   ],
+   "coords": [
+    [
+     59.8,
+     19.6
+    ],
+    [
+     60,
+     19.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 1,
+   "id": 237,
+   "name": "Farmer Furlbrow",
+   "coord": [
+    60,
+    19.4
+   ],
+   "coords": [
+    [
+     59.8,
+     19.6
+    ],
+    [
+     60,
+     19.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 43,
+   "date": "2006-09-01T04:50:12-05:00",
+   "body": "Hey thanks for the awesomely useless picture",
+   "replies": []
+  },
+  {
+   "rating": 37,
+   "date": "2005-10-07T16:50:12-05:00",
+   "body": "the correct location of the watch is 49,19",
+   "replies": []
+  },
+  {
+   "rating": 33,
+   "date": "2006-12-18T15:49:17-06:00",
+   "body": "Coordinate: 49,19\r\n\r\nThe pocket watch is inside a cupboard that you can interact with. The cupboard itself is inside a small house that has 2 guards. One is a level 12 and another is a level 15 named. They are connected to each other, meaning that if you pull either of them, you will pull both. \r\n\r\nBe extra careful especially if you are below level 15. My advice would be to kill the lower level first and then run away and heal up. And then come again to kill the other one.",
+   "replies": []
+  },
+  {
+   "rating": 26,
+   "date": "2006-10-07T16:50:12-05:00",
+   "body": "You can find the watch at:\n49,19\n[If you run on the road south away from the man you took the quest from, keep right.&nbsp; It's the first farm to your right named Furlbrow's Pumpkin Patch.&nbsp; You'll see a barn to the left and a house on the right, in front of all that is a large field.&nbsp; The watch is inside the house, inside a dresser.]\n\nThere are two guards inside the building--level 12ish humanoids.\n\nRewards: \n10x Freshly Baked Bread\n10x Ice Cold Milk\n\nTurn in (or take) the quest at:\n60,19\n[Without coords: Running from Elwynn Forest into Westfall, the guy greets you just after the bridge when you first enter Westfall.]",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2007-01-23T03:12:38-06:00",
+   "body": "this quest is fairly easy, you can complete it without even killing anything, just go to the outside of the house and find where the pointer turns to gear. you should be able to pick the watch from the outside.(its the right wall as you face the door)",
+   "replies": [
+    "Above comment confirmed. If you're outside the house and facing the doorway, go around to the left side of it and get close to the wall. You won't be able to click on the wardrobe through the side wall, but if you position the camera correctly, you can click on it through the front wall, the one with the door on it.  I'll submit a screenshot of this to make it easier to understand.",
+    "Thanks for the screen - really helped."
+   ]
+  },
+  {
+   "rating": 15,
+   "date": "2005-10-07T16:50:12-05:00",
+   "body": "you do not have to get in the house to finish the quest. when you're looking at the front door go to the left side of the building. get very close to the wall and you can open the locker through the wall.",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2005-07-13T07:45:09-05:00",
+   "body": "You dont actually have to enter the house, just go to the left side of it (Side closest tot he barn) and approach the window.  You can target the wardrobe from outside and get the watch",
+   "replies": [
+    "i soloed at 12 with this little trick. run around the back of the barn and sneak it through the window. note: window is closed, but you can still mouse over the wardrobe and access it."
+   ]
+  },
+  {
+   "rating": 8,
+   "date": "2006-04-08T04:50:12-05:00",
+   "body": "For anyone not using co-ordinates its the field to the east of Jangolode Mine, in a small hut next a barn (north of the field).\n\nIf you're doing it straight from the quest-giver, head due west...it's that field :)",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2004-12-17T16:50:19-06:00",
+   "body": "Reward for this quest is 10 Freshly Baked Bread and 10 Ice Cold Milk",
+   "replies": [
+    "were do you take it when you finished?\n"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2020-04-18T18:52:24-05:00",
+   "body": "The click outside no longer seems to work in WOW classic. The place is covered with lightning fast spawning MOBs. The trappers will trap you, while others run off and attract more. They can even go out and get harvest watchers to add to the fun. Easy quest at level 30. The Fullbrows get murdered by Vanessa VanCleef soon, what do they need a stupid pocket watch for?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2020-06-11T21:48:12-05:00",
+   "body": "Level 13 Paladin, here.\r\n\r\nI started by clearing the immediate area around the house. Then I pulled the two mobs from inside the building. I started by stunning Benny Blaanco, so that got me a bit of a head start on the Trapper mob that was accompanying him. Downed her first. I had to bubble up and heal, because ol' Benny had recovered from the stun and obviously wasn't having any of it. Unfortunately I didn't have any potions on me, so by the time my HP was sufficiently up, I was low on mana. Didn’t have the juice to finish him, so I died in agony. Ran back to my corpse as quickly as my spirit legs would carry me. Got my health up and managed to kill Benny without the other mob respawning. I was then able to loot the item from the wardrobe.\r\n\r\nNot great, not terrible. 2/5",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-07T16:50:12-05:00",
+   "body": "There is a Grenn Wardrobe in the smalest house try to search at that one butt be care full it's an ivl 15 inside there.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-13T04:50:12-06:00",
+   "body": "if you dont feel like facing the two lvl 11, and the lvl 15 defias, u can loot the closet from outside the house. just go near the outside wall until the looting \"mark\" turns yellow :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-19T16:50:12-06:00",
+   "body": "49,19 is write , go in to the house and open the box !",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-22T22:12:29-06:00",
+   "body": "In Westfall in Furlbrow's Pumpkin Farm\n\nLocation: 49, 19",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-11T20:12:07-05:00",
+   "body": "Still able to loot this from outside the building with a very touchy camera angle.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-27T20:00:31-06:00",
+   "body": "This quest rewards 250 Stormwind reputation as of patch 2.01",
+   "replies": [
+    "250 reputation - confirmed"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-10-07T16:50:12-05:00",
+   "body": "Verified. You do in fact get 10 fresh baked bread and 10 milk.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-25T04:50:12-06:00",
+   "body": "49,19 \nsolo 13 hunter",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-08T04:50:12-05:00",
+   "body": "but yeah just get someone to clean out the place.. it was easy lol",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-28T13:32:49-06:00",
+   "body": "Easy trick for any lvl:\n\nGo next to the wall and grab the watch through the wall. Always handy!",
+   "replies": [
+    "I've always done it this way, but when I went to do it today with an alt it didn't seem to work... Have Blizzard stopped this now? I hope I was doing it wrong somehow (though I've done it enough times, hahah)."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-07-26T16:50:12-05:00",
+   "body": "as long as you know what wall the wardrobe is on you don't actually need to go inside the house to get item can loot it from outside saves alot of time and unneccessary deaths too easy quest using this method",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-12-19T16:50:12-06:00",
+   "body": "I just tried opening the wardrobe from outside...I think they fixed it so dont waste time trying to open it from the outside....but there are a lvl 15 and lvl 11 inside.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-25T04:50:12-06:00",
+   "body": "Well as of Jan 30, 2007 I got his quest on my new Draenei Shaman and go figure Blizz fixed the glich.&nbsp; Fix the bad gliches plz, not the good ones!&nbsp; lol&nbsp; Oh well.&nbsp; You'll have to kill the mobs outside of the house and the 2 mobs inside of the house to get the watch now.&nbsp; Those mobs can add sometimes.&nbsp; The house is North on the pumpkin farm in between the Jangalode Mine and the Jansen Stead.&nbsp; Good luck.\n\n~Fatalkiss, Draenei Shaman, Blackhand server",
+   "replies": [
+    "49, 20 is a good place to stand.\n\nEssentially stand on the side of the house that has the dresser.&nbsp; If you're looking at the door, it's on the left side.&nbsp; Position yourself against the side of the house so that you can whip the camera around and look into the house.&nbsp; The gear will turn gold when you hover over the dresser.&nbsp; Click and be happy.&nbsp; =)\n\nI was 13 when I did this and actually did have to fight 1 mob.&nbsp; A wandering trapper decided to pick a fight with me.&nbsp; But at least you won't have to fight the ones inside.&nbsp; \n\nHave fun!"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2007-04-08T04:50:12-05:00",
+   "body": "If you look at the map it's the house north of the field directly east of the Jangolode mine (or the second one from the right of the map). There's a level 15 mob and another mob in the house which will probably kill you. If you stand outside of the house you can loot the wardrobe without being attacked.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-01-04T17:59:54-06:00",
+   "body": "I am a lvl 13 gnome mage, and tried this twice. The enemy is Benny Blaanco a lvl 15 elite Defias. So if you plan on attempting this mission and are below said lvl, get some help.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-07-03T10:52:52-05:00",
+   "body": "Remember to go to the farm house to the west, not to be confused with the house closest to the farmer.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-03-08T19:32:41-06:00",
+   "body": "A nice quest with 3 or 4 peeps who are 11 or 12ish.   We, Pally, Priest, and Warlock, pulled everything from the front and west side of house, and the Golems near the house, just to avoid adds. I think you get 3 from the house itself.   If you can, keep fearing Benny until his buddies are  dead, then deal with him.  He is not too tough.  Once clear, everyone just open the wardrobe and grab the bit.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-05-23T08:16:21-05:00",
+   "body": "Solo'ed at lvl 15 rogue",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-06-23T15:13:04-05:00",
+   "body": "I soloed at 14.  There are two mobs in the house.  Pick the one in line of sight and fear.  While he is running send your minion after mob #2.  Since the mobs are now occupied go to the wardrobe and get the watch - then run :)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-04-06T11:17:00-05:00",
+   "body": "Solo this at 16 mage",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-21T09:18:38-06:00",
+   "body": "At 49,19 - get the stuff from outside the house to avoid the hassle\n\nEdited, Sat Jan 21 02:20:10 2006",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-10-07T01:29:38-05:00",
+   "body": "Make it easy on yourself.  Somehow die beforehand and then ressurect in front of the wardrobe",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-06-20T04:50:12-05:00",
+   "body": "A friend shared the quest with me and nowi dont know where the farmer is from the farm, i dont have co-ordinate mod.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-09-01T04:50:12-05:00",
+   "body": "If you dont want to go to Westfall at all Thottbot says its DE'd from a rain-spotted cape :)",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-04-08T04:50:12-05:00",
+   "body": "Took about 20 mins to get it done but now i've got my Quest done.\n\nWhat the hell does that picture have to do with this quest!\n\n\"Alt + f4 to get thottbot mini on\":)",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-04-08T04:50:12-05:00",
+   "body": "I tried going through the wall 3 times and all that happened was that i couldnt see the damned curser change and i went to the front and tried to kill them (polymorph the 15 and kill the 12) but all that did was kill me!",
+   "replies": [
+    "You actually can. I did it, made a screenshot of it and posted it (it's the one with the bald guy). It worked really well too.",
+    "No, you cannot, i tried for 10 minutes, this is bull$%^&."
+   ]
+  },
+  {
+   "rating": -9,
+   "date": "2005-12-06T00:33:54-06:00",
+   "body": "why do it they suck!",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2005-06-05T12:33:50-05:00",
+   "body": "i'm lvl 14 human warlock and they were pre killed so i just had to walk in and get it =]",
+   "replies": []
+  }
+ ]
+}

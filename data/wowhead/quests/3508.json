@@ -1,0 +1,133 @@
+{
+ "id": 3508,
+ "name": "Breaking the Ward",
+ "level": 58,
+ "reqlevel": 45,
+ "side": 3,
+ "zoneId": 16,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 3100,
+ "start": {
+  "type": "npc",
+  "id": 7783,
+  "name": "Loramus Thalipedes",
+  "zone": "Azshara",
+  "zoneId": 16,
+  "coords": [
+   [
+    60.8,
+    66.4
+   ],
+   [
+    60.8,
+    66.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7783,
+  "name": "Loramus Thalipedes",
+  "zone": "Azshara",
+  "zoneId": 16,
+  "coords": [
+   [
+    60.8,
+    66.4
+   ],
+   [
+    60.8,
+    66.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Wait for Loramus to complete the enlightenment spell.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [
+  2721,
+  2743,
+  2744,
+  3141,
+  3508,
+  3509,
+  3510,
+  3511,
+  3602
+ ],
+ "points": [
+  {
+   "zoneId": 16,
+   "zone": "Azshara",
+   "point": "start",
+   "type": 1,
+   "id": 7783,
+   "name": "Loramus Thalipedes",
+   "coord": [
+    60.8,
+    66.4
+   ],
+   "coords": [
+    [
+     60.8,
+     66.4
+    ],
+    [
+     60.8,
+     66.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16,
+   "zone": "Azshara",
+   "point": "end",
+   "type": 1,
+   "id": 7783,
+   "name": "Loramus Thalipedes",
+   "coord": [
+    60.8,
+    66.4
+   ],
+   "coords": [
+    [
+     60.8,
+     66.4
+    ],
+    [
+     60.8,
+     66.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 2,
+   "date": "2006-05-08T01:03:37-05:00",
+   "body": "At 60 I got about 6g for talking to him and completing from finding him to completing this part of the chain, inclusive.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-08T01:03:37-05:00",
+   "body": "This q line is not long. It just looks long, but a lot of the qs are just listening bla bla bla.&nbsp; First 5 (the first you get from the fallen hero) done in 20 min (alone). Now heading over to ashara to see what�s up there with Loramus.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-10-01T01:03:37-05:00",
+   "body": "I can't get any quest from this NPC. Do I have to do other quests before I talk to him? Level 56 Dwarf Rouge.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-10-01T01:03:37-05:00",
+   "body": "Same here. I can't get this quest off of him either (57 Orc Hunter). :(",
+   "replies": []
+  }
+ ]
+}

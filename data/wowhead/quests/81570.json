@@ -1,0 +1,89 @@
+{
+ "id": 81570,
+ "name": "Jarl Needs a Blade",
+ "level": 35,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": 15,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 3450,
+ "start": {
+  "type": "npc",
+  "id": 4792,
+  "name": "\"Swamp Eye\" Jarl",
+  "zone": "Dustwallow Marsh",
+  "zoneId": 15,
+  "coords": [
+   [
+    55.4,
+    26.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4792,
+  "name": "\"Swamp Eye\" Jarl",
+  "zone": "Dustwallow Marsh",
+  "zoneId": 15,
+  "coords": [
+   [
+    55.4,
+    26.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.70338",
+ "objectiveText": "Bring a Moonsteel Broadsword to Jarl in Dustwallow Marsh . Item #217281  ( 1 )",
+ "objectives": [],
+ "objectiveRows": [
+  {
+   "text": "Item #217281",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 15,
+   "zone": "Dustwallow Marsh",
+   "point": "start",
+   "type": 1,
+   "id": 4792,
+   "name": "\"Swamp Eye\" Jarl",
+   "coord": [
+    55.4,
+    26.2
+   ],
+   "coords": [
+    [
+     55.4,
+     26.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 15,
+   "zone": "Dustwallow Marsh",
+   "point": "end",
+   "type": 1,
+   "id": 4792,
+   "name": "\"Swamp Eye\" Jarl",
+   "coord": [
+    55.4,
+    26.2
+   ],
+   "coords": [
+    [
+     55.4,
+     26.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

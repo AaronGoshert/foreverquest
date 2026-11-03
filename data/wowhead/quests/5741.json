@@ -1,0 +1,372 @@
+{
+ "id": 5741,
+ "name": "Sceptre of Light",
+ "level": 33,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2650,
+ "start": {
+  "type": "npc",
+  "id": 11863,
+  "name": "Azore Aldamort",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    38.8,
+    27.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11863,
+  "name": "Azore Aldamort",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    38.8,
+    27.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Get the Sceptre of Light and then return it to Azore Aldamort at the tower in Ethel Rethor. Sceptre of Light  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 15750,
+   "name": "Sceptre of Light",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Sceptre of Light",
+   "count": 1,
+   "type": "item",
+   "id": 15750
+  }
+ ],
+ "series": [
+  5741,
+  6027
+ ],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 11863,
+   "name": "Azore Aldamort",
+   "coord": [
+    38.8,
+    27.2
+   ],
+   "coords": [
+    [
+     38.8,
+     27.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 11863,
+   "name": "Azore Aldamort",
+   "coord": [
+    38.8,
+    27.2
+   ],
+   "coords": [
+    [
+     38.8,
+     27.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 13019,
+   "name": "Burning Blade Seer",
+   "coord": [
+    55.2,
+    30
+   ],
+   "coords": [
+    [
+     55.2,
+     30
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 76,
+   "date": "2006-12-04T13:48:26-06:00",
+   "body": "When you walk through the gates of Thunder Axe Fortress, there's a watchtower immediately to your left. The seer is in the room at the top of the tower.",
+   "replies": []
+  },
+  {
+   "rating": 41,
+   "date": "2007-02-03T00:47:29-06:00",
+   "body": "55,30 in a top looktower",
+   "replies": []
+  },
+  {
+   "rating": 33,
+   "date": "2005-10-21T10:21:20-05:00",
+   "body": "the seer who drops the sceptre is on top of the watchtower, inside the walled compound, just left of the gate.",
+   "replies": [
+    "(55,30), Desolace, Thunder Axe Fortress.\n\n |-------- Watchtower @ 55,30, Desolace\n&nbsp; |&nbsp; \n&nbsp; v\n......_._\n..._/###\\_\n....._|_|_&nbsp; &nbsp; <---- Top Floor, lvl 33 Seer & 3Guards\n.....|__\\|&nbsp; &nbsp; <---- Second Floor, Guard\n.....|/__|&nbsp; &nbsp; <---- First Floor, Guard\n..../..I.I..\\&nbsp; <---- Ground, Guard \n\nShe is in the top of Watchtower. \nIts inside the fence.\n\nThe \"opening/door\" on the top of the watch tower is in the Northern direction.\n\n//I had nothing to do....",
+    "The seer spawns fairly slowly.&nbsp; If you get there and s/he's not there just wait a bit.&nbsp; You may have to harvest a few adapts while you wait."
+   ]
+  },
+  {
+   "rating": 17,
+   "date": "2006-01-02T10:21:20-06:00",
+   "body": "quest giver...39 27\nburning blade seer...55 30 (if he is not there...he will be soon...just wait for spawn)",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2007-02-05T23:27:26-06:00",
+   "body": "1.  Enter main gate at 56, 30\n2.  make a left\n3.  Go up free standing tower killing mobs on the way\n4.  When you get to the top, solo pull the outter two guards if any\n5.  Go through the opening of the tower on top and kill the seer and his buddy\n6.  Loot the seer\n\nNote - this quest causes confusion because you can't see the guys in the top of the tower.  Anotherwords you can't target through them, so many don't realize they are actually in there.",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2006-11-01T17:05:29-06:00",
+   "body": "You get this quest from Azore Aldamort, 38, 27 in Desolace.\n\nGo to Thunder Axe Fortress in Desolace to get the sceptre.\nEnter the fort and go left. DO NOT go into the main building.  \nGo up the left watch tower (open, stick-built structure).  There was an Augur at the base, a Felsworn on the 2nd level, and two Felsworns on the edge of the top level. Then inside there was an Augur with the Seer. \n\nMy main problem was I didn't go up the tower far enough.  Once you go up one level, there is a ramp on the outside of the structure that will allow you to go up to the top.  Keep climbing until you find the seer.  Seer is always there and always drops the sceptre.",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2005-06-09T16:10:30-05:00",
+   "body": "For all the nubs who cant post...\n\nGuys, the tower is inside the fort. Its the 1st tower on your left.\n\nIts easy saying \"he is on the top of the tower\", considering the place is full of them.\n\nIf your gona help, then please do it propely",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-10-21T10:21:20-05:00",
+   "body": "I had trouble finding him so going give directions...\n\nin Ethel Rethor (NW desolace) go 1/2 way over the bridge to the closed tower then jump off to the side. where you land go north then west and he is standing in a clearing.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-02-07T22:21:20-06:00",
+   "body": "ok to make it even easier ill tell u instead of coordinates.\n\nok the scepture is heald by a guy named Seer over by the Thunder Axe Fortress. You straight in then to the left there is a tower. NOT THE BUILDS. there will one gaurd on the ground. Then another on the next floor. On the final floor Seer is inside with a gaurd while teo others stand outside. Seer is lvl 33 and guards are all 31.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-04-21T22:21:20-05:00",
+   "body": "the seer is found at the Thunder Axe Fortress.. When you enter the main compound via the front gate, the watch tower is directly LEFT of you.. all the way to the top.. careful as you get near the top.. clear them one by one, but in room at the top there are 2 of them..",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-21T10:21:20-05:00",
+   "body": "I also found the seer at the top of the tower just inside the wall to the left.&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-07-03T22:21:20-05:00",
+   "body": "+100 Argent Dawn Rep for this quest.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-21T10:21:20-05:00",
+   "body": "folks hes talking about the quest giver.&nbsp; not the seer",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-21T10:21:20-05:00",
+   "body": "Goto the fortress wooden fence(palisade), look for the attack tower directly to the left. /tloc is uselss due to the small area.\n\nClimb up and up and around, he's on the inside of the structure.&nbsp; Usually 2-3 other casters with him, so you may need a friend to help out.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-21T10:21:20-05:00",
+   "body": "Burning Blade Seer is not in 52,28. She is in a watchtower that in 55,30. There is a small room on the top of the tower.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-21T10:21:20-05:00",
+   "body": "Tloc confirmed ^^ 55,30 he's in the tower up the top",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-21T10:21:20-05:00",
+   "body": "for those without tloc, approach thunder axe from the south\nto the left of the entrance, just inside the fortress is a tower\nhe's at the top\ndon't worry about attacking the ogres, you wont go PVP",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-01-02T10:21:20-06:00",
+   "body": "how long does it take for the seer to respawn?",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-08-04T20:18:12-05:00",
+   "body": "Enter the fort. Swing left, you'll see a watch tower. Dont get the watch tower confused with the adjacent building-NOT the building. Usually there's an Augur at the base, a Felsworn on the second level, and two Felsworns on the edge of the top level. Inside there's usually an Augur accompanying the Seer, so expect two.\n\nI did this with my 33 Priest. I Mind Controlled the Augur (2 lvls below the seer), and pumped out as many spells as i could before it wore off, rinse and repeat until the Seer almost killed Augur. Finished Augur with Smite, two Mind Blasts later Seer was dead too.\n\nCase anyone was wondering, in the adjacent building theres a lvl 36 Burning Blade Night Elf, named like Tyranis or somethin. Believe hes used in a quest here.",
+   "replies": [
+    "Tyranis is part of a quest called Search for Tyranis, which is part of a chain of quests starting with Vahlarriel's Search, which you can pick up from Vahlarriel Demonslayer at Nijel's Point.  This quest is only for the Alliance."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-21T10:21:20-05:00",
+   "body": "he's at loc 38,27",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-21T10:21:20-05:00",
+   "body": "He's at 39,27\n\nStand on the center of the stone bridge that leads to the closed tower.&nbsp; If you look down to the right, you'll see a path directly under the bridge.&nbsp; This path leads to Azore Aldamort, who is on the right side of the mountain that the closed tower sits on.\n\nJump off the bridge and follow the path to the ruins that are next to / below the base of the tower's right side.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-02-22T15:24:45-06:00",
+   "body": "Where's the NPC that gives that and is it a Horde quest?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-01-08T12:42:38-06:00",
+   "body": "The seer is located at the very top of the watchtower located inside the Thunder Axe fortress.",
+   "replies": [
+    "I have been to all the watchtowers in the fortress and cannot locate the seer.  Does anyone know which one he spawns at and if he is a random spawn?"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2005-03-01T21:12:54-06:00",
+   "body": "the npc that gives it is azore aldamort.. he's is ethel rethor, on the west side of the zone near where the nags's on the beach are.  he's argent dawn, and he gave me the quest (ne dru).\n\nyou need to kill the seer ook mentioned.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-05-29T16:29:30-05:00",
+   "body": "The first time I did this the seer didn't drop the item two times, then I abadoned and took the quest again and he dropped it. Unbugged chance is 100% I believe.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-08-01T16:39:29-05:00",
+   "body": "[npc=11863] the North side (outside) of the Big Building, go under the little bridge and go northwest a little.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-03-29T12:05:17-06:00",
+   "body": "For the Alliance its the tower on your left. Not the one infront of you.. Walk all the way to the top.. Seer is lvl 33 and \"guard\" is 30.. Pretty easy at lvl 37 + chest in there..",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-04-15T17:41:28-05:00",
+   "body": "Is there any reason why I would not be able to get this quest?  I'm a 33 Undead Mage....and a friend of mine was able to get it with no problem.  Instead of the speech bubble icon, when I hovered over the NPC i got the sword attack icon.  I'm puzzled - anyone else have this happen?",
+   "replies": [
+    "This is just a guess, but it may be because you're undead. The Argent Dawn don't like Undead much, and the quest giver is a member of the Argent Dawn",
+    "1. Your at war with them. Hit U to change that.\n\n2. You pissed off the Argent Dawn somehow.",
+    "No, I'm undead and the Argent Dawn never had a Problem with me...\n\nProbably they want us to do all the dirty work, before they burn us to ashes... - Or they realized, (unlike maaany Players) that the Forsaken are NOT the Scourge.\n"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2019-10-24T03:37:00-05:00",
+   "body": "[Classic] The Seer at the top of the watchtower has a long respawn time and does not seem effected by the dynamic spawning mechanic. I'd approximate it at about 10 minutes.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-21T10:21:20-05:00",
+   "body": "Yep, coords confirmed: 55, 30. Make sure you follow the path all the way around. I got up to the top, saw a felsworn and left, since I saw no seer immediately. The seer is actually inside the tower, rather than on the platforms outside.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-21T10:21:20-05:00",
+   "body": "This guest was pretty easy with lvl 33 rogue, just stealthing into [b]55,30[/b] top of the tower, killing the mobs outside it (3 pieces of lvl 30-32), then inside of it there is one lvl 33 (the seer) and other mob which is lvl 30. Seer dropped it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-07T22:21:20-06:00",
+   "body": "It's the Orc compound in Desolice that's near the border of Stonetalon.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-29T21:15:33-06:00",
+   "body": "druids to kill seer , best bet is to mark fot he wild and thorns , and bear in take seer , heal , then kill augur",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-06T19:33:48-05:00",
+   "body": "You need to enter the fortress through the main gate (56,30).\nSceptre of Light drops of a Seer on top of the 1st watch tower to the left past the gates.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-16T22:53:32-05:00",
+   "body": "Enter Ethel Rethor, in northwestern Desolace. Walk up to the big tower. Take a look off the ledge to your right and you'll see another ledge, with a table and some little columns at its end. Jump down there and Azore Aldamort is there.\n\nJumping isn't necessary, but I can't really describe how to find the path up to him - not enough landmarks. Take note of how to get there without jumping, once you get there.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-16T02:40:32-06:00",
+   "body": "Im new to desolace",
+   "replies": [
+    "55,30"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2019-10-27T14:41:15-05:00",
+   "body": "Got 44 rep on level 41",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-06-28T04:03:00-05:00",
+   "body": "11 rep at lvl 60 as human.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-01T06:19:16-06:00",
+   "body": "It says that Azore Aldamort is friendly to HORDE but not ALLIANCE can you still get this quest and the next?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2019-09-16T13:48:53-05:00",
+   "body": "Came as they just killed him... waited 10 minutes for respawn",
+   "replies": []
+  }
+ ]
+}

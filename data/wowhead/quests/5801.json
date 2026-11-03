@@ -1,0 +1,631 @@
+{
+ "id": 5801,
+ "name": "Fire Plume Forged",
+ "level": 57,
+ "reqlevel": 55,
+ "side": 1,
+ "zoneId": 440,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 4500,
+ "start": {
+  "type": "npc",
+  "id": 5411,
+  "name": "Krinkle Goodsteel",
+  "zone": "Tanaris",
+  "zoneId": 440,
+  "coords": [
+   [
+    51.4,
+    28.8
+   ],
+   [
+    51.6,
+    28.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11056,
+  "name": "Alchemist Arbington",
+  "zone": "Western Plaguelands",
+  "zoneId": 28,
+  "coords": [
+   [
+    42.6,
+    83.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Take the Skeleton Key Mold and 2 Thorium Bars to the top of Fire Plume Ridge in Un'Goro Crater. Use the Skeleton Key Mold by the lava lake to forge the Unfinished Skeleton Key . Bring the Unfinished Skeleton Key to Alchemist Arbington at Chillwind Point, Western Plaguelands. Unfinished Skeleton Key  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 14644,
+   "name": "Skeleton Key Mold",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 14645,
+   "name": "Unfinished Skeleton Key",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Unfinished Skeleton Key",
+   "count": 1,
+   "type": "item",
+   "id": 14645
+  }
+ ],
+ "series": [
+  5533,
+  5537,
+  5538,
+  5801,
+  5803
+ ],
+ "points": [
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "start",
+   "type": 1,
+   "id": 5411,
+   "name": "Krinkle Goodsteel",
+   "coord": [
+    51.4,
+    28.8
+   ],
+   "coords": [
+    [
+     51.4,
+     28.8
+    ],
+    [
+     51.6,
+     28.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 28,
+   "zone": "Western Plaguelands",
+   "point": "end",
+   "type": 1,
+   "id": 11056,
+   "name": "Alchemist Arbington",
+   "coord": [
+    42.6,
+    83.8
+   ],
+   "coords": [
+    [
+     42.6,
+     83.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 4,
+   "zone": "Blasted Lands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 223544,
+   "name": "Fel Interloper",
+   "coord": [
+    62.2,
+    39
+   ],
+   "coords": [
+    [
+     34.8,
+     56.2
+    ],
+    [
+     35,
+     55
+    ],
+    [
+     41.2,
+     33.4
+    ],
+    [
+     41.2,
+     33.6
+    ],
+    [
+     43.6,
+     25.2
+    ],
+    [
+     46.2,
+     39.4
+    ],
+    [
+     46.6,
+     39.2
+    ],
+    [
+     48.8,
+     48.2
+    ],
+    [
+     49.2,
+     48.6
+    ],
+    [
+     56.2,
+     36.4
+    ],
+    [
+     56.2,
+     36.6
+    ],
+    [
+     56.6,
+     36.6
+    ],
+    [
+     58.8,
+     41.2
+    ],
+    [
+     59.2,
+     40.2
+    ],
+    [
+     59.8,
+     42.4
+    ],
+    [
+     60.2,
+     46.6
+    ],
+    [
+     60.4,
+     46.4
+    ],
+    [
+     60.6,
+     39
+    ],
+    [
+     60.6,
+     44.8
+    ],
+    [
+     61.8,
+     38.4
+    ],
+    [
+     62.2,
+     39
+    ]
+   ]
+  },
+  {
+   "zoneId": 16,
+   "zone": "Azshara",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 223544,
+   "name": "Fel Interloper",
+   "coord": [
+    30.2,
+    79.8
+   ],
+   "coords": [
+    [
+     16.4,
+     51
+    ],
+    [
+     17.6,
+     58.8
+    ],
+    [
+     21.2,
+     54
+    ],
+    [
+     24.8,
+     47.4
+    ],
+    [
+     24.8,
+     47.6
+    ],
+    [
+     25,
+     81.4
+    ],
+    [
+     25,
+     81.6
+    ],
+    [
+     30.2,
+     79.8
+    ],
+    [
+     33,
+     81.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 357,
+   "zone": "Feralas",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 223544,
+   "name": "Fel Interloper",
+   "coord": [
+    74.2,
+    50.6
+   ],
+   "coords": [
+    [
+     68.2,
+     58.8
+    ],
+    [
+     70.6,
+     62.6
+    ],
+    [
+     72.4,
+     63.6
+    ],
+    [
+     72.6,
+     63.8
+    ],
+    [
+     73.2,
+     54.2
+    ],
+    [
+     74.2,
+     50.6
+    ],
+    [
+     74.2,
+     56.8
+    ],
+    [
+     74.2,
+     60
+    ],
+    [
+     76.2,
+     56.4
+    ],
+    [
+     76.2,
+     56.6
+    ],
+    [
+     76.6,
+     63.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 230146,
+   "name": "Fel Interloper",
+   "coord": [
+    60,
+    65
+   ],
+   "coords": [
+    [
+     20.6,
+     43.2
+    ],
+    [
+     22.4,
+     52.4
+    ],
+    [
+     22.4,
+     52.6
+    ],
+    [
+     24.2,
+     64.2
+    ],
+    [
+     24.2,
+     64.6
+    ],
+    [
+     29.4,
+     43.6
+    ],
+    [
+     36,
+     60
+    ],
+    [
+     36,
+     61.6
+    ],
+    [
+     36.6,
+     61.8
+    ],
+    [
+     37.4,
+     41.8
+    ],
+    [
+     37.6,
+     42
+    ],
+    [
+     57.6,
+     45.2
+    ],
+    [
+     57.6,
+     45.6
+    ],
+    [
+     60,
+     65
+    ],
+    [
+     60.8,
+     64.6
+    ],
+    [
+     69,
+     26.6
+    ],
+    [
+     69.2,
+     26.2
+    ],
+    [
+     71.6,
+     31.2
+    ],
+    [
+     72,
+     30.2
+    ],
+    [
+     72,
+     32
+    ],
+    [
+     85.4,
+     43.6
+    ],
+    [
+     93.4,
+     59
+    ],
+    [
+     93.6,
+     59.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 139,
+   "zone": "Eastern Plaguelands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 230146,
+   "name": "Fel Interloper",
+   "coord": [
+    31.8,
+    30.6
+   ],
+   "coords": [
+    [
+     24.8,
+     20
+    ],
+    [
+     28.8,
+     44
+    ],
+    [
+     31.6,
+     30.4
+    ],
+    [
+     31.8,
+     30.6
+    ],
+    [
+     38,
+     16.4
+    ],
+    [
+     82,
+     36.4
+    ],
+    [
+     82.4,
+     36.8
+    ],
+    [
+     82.6,
+     37
+    ],
+    [
+     82.8,
+     40.4
+    ],
+    [
+     82.8,
+     40.6
+    ],
+    [
+     83.4,
+     46
+    ],
+    [
+     83.4,
+     46.6
+    ],
+    [
+     83.6,
+     46.2
+    ],
+    [
+     84.2,
+     43.2
+    ],
+    [
+     87,
+     42.4
+    ],
+    [
+     87.2,
+     42.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 53,
+   "date": "2005-10-09T00:51:41-05:00",
+   "body": "Head to the Auction House and purchase your 2 thorium bars. (if you're already a miner, skip this step)\n\nThen head to Un'goro Crater. In the center of the crater is the ugly Fire Plume Ridge where you can find many farmers farming the fire elementals. \n\nFind the bridge on the NORTH side of the mountain, follow it all the way up - to your right you should see the lava lake. Then stand in the little nook facing NORTH (when facing NORTH you should be facing the lava) - get as close as you can and use the mold.\n\nBada bing - quest finished.",
+   "replies": []
+  },
+  {
+   "rating": 36,
+   "date": "2006-11-08T07:55:59-06:00",
+   "body": "You have to stand near the lava lake, on the north 'shore', where Blazerunner is. Don't stand in the lake (it will kill you) or on the other side of the lake (it won't work).",
+   "replies": [
+    "While I was in this zone I did a little grinding on the fire elementals at the ridge since they have an acceptable droprate for essence of fire. Getting an essence can offset the price of buying the mold.    Someday I'll be in a position to gouge a goblin over the price of something... someday.",
+    "This is more like the south shore of the lake. I stood at 48.60 48.42 and it worked",
+    "This is true. Took me forever to find the spot"
+   ]
+  },
+  {
+   "rating": 27,
+   "date": "2006-12-18T12:46:32-06:00",
+   "body": "Both locations of 52,42 for the ramp up the mountain and 48,48 as to where to stand for the lake were of great help. Solo'd as a 56 hunter which was very easy to do. Took all of 5 minutes.",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2005-07-16T02:22:37-05:00",
+   "body": "I stood RIGHT on the edge of the lava for this; 48, 48",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-05-11T13:58:56-05:00",
+   "body": "if go to 48,48 there is a \"off\" colored patch near the lava, stand on that patch and create key",
+   "replies": [
+    "Northwest shore, 48.14, 47.34"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-09T00:51:41-05:00",
+   "body": "You will need to kill him again, because if you dont have *that* quest when you kill him, he doesn't drop *that* quest item :) So hold off on doing Alas, Andorhal till you decide to do this quest, get everything in one shot.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-10-28T17:44:17-05:00",
+   "body": "48.48 is the correct co-ordinates.\n\nI had an issue with 2 evading mobs that were bugged out in the actual lava pit. Every time I got up to the edge and clicked on the mould it would stop and say \"in combat\" - The workaround for me was to just wait 5 seconds (standing still at the edge) until the mob reset and then try again. \n\nWasted a few mins before I figured it out so thought it might help someone else!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-26T12:51:41-06:00",
+   "body": "I second the guy above that said \"use the bridge\".&nbsp; This is way easier than trying to follow the lava trail which just didn't work for me.&nbsp; The bridge entrance is on the N side at 53,42.&nbsp; Just look for the huge tree with the fallen tree bridge next to it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-09T00:51:41-05:00",
+   "body": "If you're a Rogue and near 300 lockpicking, skip this and save yourself 15g. Just get to 300 :) \n\nAnd FYI, only one person in your group or raid needs to be able to open the door to the instance.",
+   "replies": [
+    "While this sounds like good advice,consider that rogues might do this quest for the XP, in their levelling process. That said, i agree. if you're doing this for the key, as a rogue, just don't."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-28T00:51:41-05:00",
+   "body": "when u get to un'goro crater, head directly south. when you get to fireplume ridge, look for a wooden bridge on the northern side. just go up to the very top, hop into the lake of fire (i used divine protection) get the key, hop out, head back to chillwind camp. you will prolly have to fight a few lvl 55 range fire elementals, so be ready, unless someone is there farming them.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-20T16:28:49-05:00",
+   "body": "Just be careful, there is a 56 Elite Fire elemental up there, knocked me into the lake.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-20T17:21:08-05:00",
+   "body": "Both locations of 52,42 for the ramp up the mountain and 48,48 as to where to stand for the lake were of great help.  Solo'd as a 56 hunter which was very easy to do.  Took all of 5 minutes.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-20T12:56:55-06:00",
+   "body": "Buy first in AH the two bars of thorium",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-18T03:16:46-06:00",
+   "body": "The easiest way to get to the top is to start climbing from the north side of the Fire Plume Ridge (coordinates are 52, 42).\n\nOnce you get to the Lava Lake, as others have said, go down right next to it (but not into it) and use the Skeleton Key Mold in your inventory.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-30T17:47:24-05:00",
+   "body": "As deadline as stated look out for the 56 elite Blazerunner who knocks back. Agroed him by accident and knocked me close to the lava.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-27T03:18:18-05:00",
+   "body": "Once you have reached the ridge, you have to make your way to the south side of the lake near the overflow to the southeast. You will be able to forge the unfinished skeleton key. Good Luck.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-10-09T00:51:41-05:00",
+   "body": "stood right to the lava pool and it worked...\n\nguess some ppl just like to inflict unnecessary pain on themselves....",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-10-09T00:51:41-05:00",
+   "body": "his instructions worked great! but watch out for the 56 elite blazerunner he smoked me.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-05-15T12:51:44-05:00",
+   "body": "Its the lake on top of the mountain. Dont go into the lake, stay at the edge.",
+   "replies": []
+  }
+ ]
+}

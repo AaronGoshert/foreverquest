@@ -1,0 +1,76 @@
+{
+ "id": 78916,
+ "name": "The Heart of the Void",
+ "level": 25,
+ "reqlevel": 25,
+ "side": 1,
+ "zoneId": 719,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 4783,
+  "name": "Dawnwatcher Selgorm",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    55.4,
+    23.6
+   ],
+   [
+    55.8,
+    24.2
+   ],
+   [
+    56,
+    24.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Bring the Blackfathom Pearl to Dawnwatcher Selgorm in Darnassus. Item #209693 (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 4783,
+   "name": "Dawnwatcher Selgorm",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 4783,
+   "name": "Dawnwatcher Selgorm",
+   "coord": [
+    55.8,
+    24.2
+   ],
+   "coords": [
+    [
+     55.4,
+     23.6
+    ],
+    [
+     55.8,
+     24.2
+    ],
+    [
+     56,
+     24.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

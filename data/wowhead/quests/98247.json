@@ -1,0 +1,82 @@
+{
+ "id": 98247,
+ "name": "Shipping Label",
+ "level": 60,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": 44,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 660,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 256390,
+  "name": "Marcy Baker",
+  "zone": "Redridge Mountains",
+  "zoneId": 44,
+  "coords": [
+   [
+    9.4,
+    71
+   ],
+   [
+    9.6,
+    71
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Deliver the Shipping Label to someone at the Azeroth Commerce Authority trade hub in Redridge Mountains . Shipping Label  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 280179,
+   "name": "Shipping Label",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Shipping Label",
+   "count": 1,
+   "type": "item",
+   "id": 280179
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 44,
+   "zone": "Redridge Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 256390,
+   "name": "Marcy Baker",
+   "coord": [
+    9.6,
+    71
+   ],
+   "coords": [
+    [
+     9.4,
+     71
+    ],
+    [
+     9.6,
+     71
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 5,
+   "date": "2026-10-01T17:41:18-05:00",
+   "body": "You get this quest from the first [b]Waylaid Crate[/b] you fill. Turn it in, get some [currency=3402] and check the nearby vendors out who accept it as a currency.",
+   "replies": []
+  }
+ ]
+}

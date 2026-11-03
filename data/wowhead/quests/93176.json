@@ -1,0 +1,169 @@
+{
+ "id": 93176,
+ "name": "My Little Friends",
+ "level": 35,
+ "reqlevel": 25,
+ "side": 3,
+ "zoneId": 8,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2750,
+ "start": {
+  "type": "npc",
+  "id": 217412,
+  "name": "Amaryllis Webb",
+  "zone": "Swamp of Sorrows",
+  "zoneId": 8,
+  "coords": [
+   [
+    25,
+    53.4
+   ],
+   [
+    25,
+    54.2
+   ],
+   [
+    25.2,
+    54.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 217412,
+  "name": "Amaryllis Webb",
+  "zone": "Swamp of Sorrows",
+  "zoneId": 8,
+  "coords": [
+   [
+    25,
+    53.4
+   ],
+   [
+    25,
+    54.2
+   ],
+   [
+    25.2,
+    54.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Use the items contained in the Entomology Starter Kit to find and catch an Arbor Tarantula, Hay Weevil Specimen , and a Flesh Picker. Arbor Tarantula Specimen  ( 1 ) Hay Weevil Specimen  ( 1 ) Flesh Picker Specimen  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 213565,
+   "name": "Entomology Starter Kit",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 213566,
+   "name": "Arbor Tarantula Specimen",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 213568,
+   "name": "Hay Weevil Specimen",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 213567,
+   "name": "Flesh Picker Specimen",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Arbor Tarantula Specimen",
+   "count": 1,
+   "type": "item",
+   "id": 213566
+  },
+  {
+   "text": "Hay Weevil Specimen",
+   "count": 1,
+   "type": "item",
+   "id": 213568
+  },
+  {
+   "text": "Flesh Picker Specimen",
+   "count": 1,
+   "type": "item",
+   "id": 213567
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 8,
+   "zone": "Swamp of Sorrows",
+   "point": "start",
+   "type": 1,
+   "id": 217412,
+   "name": "Amaryllis Webb",
+   "coord": [
+    25,
+    54.2
+   ],
+   "coords": [
+    [
+     25,
+     53.4
+    ],
+    [
+     25,
+     54.2
+    ],
+    [
+     25.2,
+     54.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 8,
+   "zone": "Swamp of Sorrows",
+   "point": "end",
+   "type": 1,
+   "id": 217412,
+   "name": "Amaryllis Webb",
+   "coord": [
+    25,
+    54.2
+   ],
+   "coords": [
+    [
+     25,
+     53.4
+    ],
+    [
+     25,
+     54.2
+    ],
+    [
+     25.2,
+     54.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-03T15:07:10-05:00",
+   "body": "This quest is the exact same that druids and hunters had to do in SoD to get one of their runes. Requires a fair bit of traveling:\n[quote]/way #1434 45.5, 19.6 Arbor Tarantula\n/way #1417 32.4, 28.5 Hay Weevil\n/way #1443 53.3, 58.3 Flesh Picker[/quote]",
+   "replies": []
+  }
+ ]
+}

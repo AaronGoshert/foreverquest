@@ -1,0 +1,36 @@
+{
+ "id": 95786,
+ "name": "An Acquaintance in Southshore",
+ "level": 40,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3150,
+ "start": null,
+ "end": null,
+ "patch": "1.60.1.70338",
+ "objectiveText": "Find Loremaster Dibbs in Southshore and bring him the Savage Coast Report Bundle .",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 270340,
+   "name": "Savage Coast Report Bundle",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Savage Coast Report Bundle",
+   "count": 1,
+   "type": "item",
+   "id": 270340
+  }
+ ],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

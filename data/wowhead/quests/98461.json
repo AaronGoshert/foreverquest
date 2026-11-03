@@ -1,0 +1,113 @@
+{
+ "id": 98461,
+ "name": "Unrequited Love",
+ "level": 21,
+ "reqlevel": 18,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 165,
+ "start": {
+  "type": "npc",
+  "id": 2913,
+  "name": "Archaeologist Hollee",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    37.4,
+    41.8
+   ],
+   [
+    37.6,
+    41.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2096,
+  "name": "Tarrel Rockweaver",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    11.4,
+    52.2
+   ],
+   [
+    11.6,
+    52.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Deliver Hollee's Note to Tarrel Rockweaver near Menethil Harbor in the Wetlands . Hollee's Note (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 281243,
+   "name": "Hollee's Note",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 2913,
+   "name": "Archaeologist Hollee",
+   "coord": [
+    37.4,
+    41.8
+   ],
+   "coords": [
+    [
+     37.4,
+     41.8
+    ],
+    [
+     37.6,
+     41.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 2096,
+   "name": "Tarrel Rockweaver",
+   "coord": [
+    11.4,
+    52.2
+   ],
+   "coords": [
+    [
+     11.4,
+     52.2
+    ],
+    [
+     11.6,
+     52.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-06T17:31:21-05:00",
+   "body": "Just a new breadcrumb quest pointing new players towards Menethil Harbor as a quest hub. A tiny bit of XP and silver.\r\n\r\n[url=https://www.wowhead.com/forever/npc=2096/tarrel-rockweaver#map]Tarrel[/url] is on the bridge exiting Menethil Harbor.",
+   "replies": []
+  }
+ ]
+}

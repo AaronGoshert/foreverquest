@@ -1,0 +1,7 @@
+reference/
+__pycache__/
+*.pyc
+data/wowhead/raw/
+data/wowhead/raw_samples/
+ForeverQuest_Personal/
+data/wowhead/raw_items/

@@ -1,0 +1,95 @@
+{
+ "id": 94247,
+ "name": "Craftsman's Writ: Lesser Wizard's Robe",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 257282,
+  "name": "Alan Sneeks",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    30.4,
+    61.2
+   ],
+   [
+    30.6,
+    61
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Lesser Wizard's Robe  ( 1 ) Lesser Wizard's Robe  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264047,
+   "name": "Craftsman's Writ: Lesser Wizard's Robe",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5766,
+   "name": "Lesser Wizard's Robe",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Lesser Wizard's Robe",
+   "count": 1,
+   "type": "item",
+   "id": 264047
+  },
+  {
+   "text": "Lesser Wizard's Robe",
+   "count": 1,
+   "type": "item",
+   "id": 5766
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 257282,
+   "name": "Alan Sneeks",
+   "coord": [
+    30.6,
+    61
+   ],
+   "coords": [
+    [
+     30.4,
+     61.2
+    ],
+    [
+     30.6,
+     61
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-02T15:33:02-05:00",
+   "body": "He was up in Alterac surrounded by level 31+ yetis, quick walk right from Dalaran. I got 25s out of it.",
+   "replies": []
+  }
+ ]
+}

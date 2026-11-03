@@ -1,0 +1,36 @@
+{
+ "id": 95788,
+ "name": "Magics of the Drowned City",
+ "level": 40,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 16550,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3150,
+ "start": null,
+ "end": null,
+ "patch": "1.60.1.70338",
+ "objectiveText": "Collect 5 I'lalai Fetishes from trolls in the Drowned City. I'lalai Fetish  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 270343,
+   "name": "I'lalai Fetishes",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "I'lalai Fetish",
+   "count": 5,
+   "type": "item",
+   "id": 270343
+  }
+ ],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

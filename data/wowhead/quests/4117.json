@@ -1,0 +1,112 @@
+{
+ "id": 4117,
+ "name": "Corrupted Whipper Root",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 3,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": {
+  "type": "object",
+  "id": 164888,
+  "name": "Corrupted Whipper Root",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    40.2,
+    85.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 164888,
+  "name": "Corrupted Whipper Root",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    40.2,
+    85.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Progress You have found a sickly, corrupted version of what appears to be a whipper root plant.  The visible roots of the plant appear tough and leathery, and a slimy film hangs from the plant.  It desperately needs some sort of attention if it is to be turned back to normal. Cenarion Plant Salve  ( 3 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11516,
+   "name": "Cenarion Plant Salve",
+   "count": 3,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Cenarion Plant Salve",
+   "count": 3,
+   "type": "item",
+   "id": 11516
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 2,
+   "id": 164888,
+   "name": "Corrupted Whipper Root",
+   "coord": [
+    40.2,
+    85.2
+   ],
+   "coords": [
+    [
+     40.2,
+     85.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 2,
+   "id": 164888,
+   "name": "Corrupted Whipper Root",
+   "coord": [
+    40.2,
+    85.2
+   ],
+   "coords": [
+    [
+     40.2,
+     85.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2019-12-01T01:02:13-06:00",
+   "body": "Using a [url=https://www.wowhead.com/forever/item=11516/cenarion-plant-salve]salve[/url] on this will spawn a [url=https://www.wowhead.com/forever/object=164883/cleansed-whipper-root]cleansed version[/url] that, when opened provides [url=https://www.wowhead.com/forever/item=11951/whipper-root-tuber]this[/url]",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-03-19T14:54:11-05:00",
+   "body": "gives a carrot that heals you for 800 odd damage, its on a seperate CD to a healing potion, so can be used with the pot at the same time",
+   "replies": [
+    "The cool down is also shared with health stones, so using this over a health stone is not advisable but if you font have any health stones it's all gravy ;D"
+   ]
+  }
+ ]
+}

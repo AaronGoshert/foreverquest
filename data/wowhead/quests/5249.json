@@ -1,0 +1,192 @@
+{
+ "id": 5249,
+ "name": "To Winterspring!",
+ "level": 56,
+ "reqlevel": 53,
+ "side": 1,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 580,
+ "start": {
+  "type": "npc",
+  "id": 10924,
+  "name": "Ivy Leafrunner",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    50.8,
+    81.4
+   ],
+   [
+    50.8,
+    81.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11079,
+  "name": "Wynd Nightchaser",
+  "zone": "Winterspring",
+  "zoneId": 618,
+  "coords": [
+   [
+    52,
+    30.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Find Starfall Village in Winterspring and speak with Wynd Nightchaser .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 11079,
+   "name": "Wynd Nightchaser",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  5250,
+  5244,
+  5245,
+  5246,
+  5247
+ ],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 1,
+   "id": 10924,
+   "name": "Ivy Leafrunner",
+   "coord": [
+    50.8,
+    81.6
+   ],
+   "coords": [
+    [
+     50.8,
+     81.4
+    ],
+    [
+     50.8,
+     81.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 618,
+   "zone": "Winterspring",
+   "point": "end",
+   "type": 1,
+   "id": 11079,
+   "name": "Wynd Nightchaser",
+   "coord": [
+    52,
+    30.2
+   ],
+   "coords": [
+    [
+     52,
+     30.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 31,
+   "date": "2006-03-27T21:26:52-06:00",
+   "body": "WinterSpring&nbsp; 51,30&nbsp; to complete the quest",
+   "replies": [
+    "The place is called Starfall Village. Just follow the&nbsp; road and the signs when you exit tunnel from Felwood/Moonglade"
+   ]
+  },
+  {
+   "rating": 12,
+   "date": "2006-05-03T09:26:52-05:00",
+   "body": "If you look, there are two quests that start the series. If you have [Starfall] then you cant get [Into Winterspring] and vice versa.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2019-12-09T20:20:39-06:00",
+   "body": "Quest is shared with \"Starfall\" [quest=5250 domain=classic] quest that starts in Darnasus, so if you have one you cant take other.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-26T09:26:52-05:00",
+   "body": "Yeah get the Quest called \"Collection of the Corrupt Water\" in Felwood located 51,82 at the Emerald Sanctuary. Hand it in and you will get \"To Winterspring\".",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-26T09:26:52-05:00",
+   "body": "i'm not able to get the quest. i sent a ticket to a GM thinking about a bug, but the GM said that i have to do something in order to get the quest.\n\nany idea?\n\nall my mate got this quest with no problem. what am i missing?\n\nthx",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-28T13:46:04-05:00",
+   "body": "how do i get into winterspring?",
+   "replies": [
+    "Through Timbermaw hold at the north end of the zone. If you have done enough TImbermaw quests, they won't be aggro, but I have successfully gotten a level 48 mage through there, even with the aggro ... liberal use of Blink. My hunter, at about the same level, died twice, but still got to the other side.\n\nIf you ever plan to make nice with the Timbermaw, you do not want to fight them if they aggro on you. It's an ugly faction grind as it is without taking steps backwards.",
+    "There is a guy outside the entrance to Timbermaw Hold that offers a quest.  You can take that, kill a bunch of guys near by and get and get your reputation up to unfriendly pretty quickly, then they won't attack."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-25T22:52:46-06:00",
+   "body": "I saw the quest at lvl 53, did not get the quest. At lvl 55 i tried to get the quest and she is not offering it. Maybe you can only get this at lvl 53 or 54.\nIf this helps, i did all the quests in Fellwood. \nThis quest starts a chain in Winterspring :/",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-14T03:35:53-06:00",
+   "body": "Wynd Nightchaser (npc you need to speak to) is located at 51.30",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-03-13T05:04:53-06:00",
+   "body": "I am level 56 and for some reason she won't give me the quest. I have done all the other quests in felwood except the escort the ancient one.",
+   "replies": [
+    "I can't either. I'm a rogue level 60. ",
+    "I'm a hunter lvl 53 and she gave me the quest on the first time I tried.\nI think it's a bug because I had on other quests problems but other players have there no problems.\nSometimes everything is working and sometimes not ;-)\nTry again later, perhaps then she gives the quest to you",
+    "you've probably already completed the quest in winterspring that this leads to, therefore they won't give you this."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-13T21:26:52-06:00",
+   "body": "Most likely it's more the level of your character. I did not complete the before-mentioned quest, but got the quest right away, at about lvl 54.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2007-02-19T09:26:52-06:00",
+   "body": "Ok, I'm using QuestHistory and noticed that I had abandoned this quest at some point -- so dropped by to see Daryn Lightwind (Teldrassil:55,92) when passing through Rut'theran.\n\nUnfortunately, she ain't giving it up.&nbsp; No exclamation mark(!)... no comment bubble.&nbsp; Nothing.\n\nHowever, I figure I may no longer be eligible for the quest since I've already been to Winterspring -- at some point after abandoning the original quest, but before now.\n\nNow to head back to Winterspring, and see if I can get the next leg in the chain, from Wynd Nightchaser in Starfall.&nbsp; Fingers crossed.\n\n* * Indeed * * I'm already on to the third leg of the chain (Troubled Spirits of Kel'Theril), though I haven't completed this one.&nbsp; Looks like this first leg isn't mandatory to get the remainder of the chain. (?)",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-06-08T21:26:52-05:00",
+   "body": "I Can't get the Quest Starfall and I have already done that quest with the currupted water...\n\nam I missing something? \n\n(I'm lvl 56)",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2006-05-03T09:26:52-05:00",
+   "body": "Is this quest soloable as a Level 53 Hunter?",
+   "replies": []
+  }
+ ]
+}

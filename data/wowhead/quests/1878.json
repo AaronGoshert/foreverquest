@@ -1,0 +1,896 @@
+{
+ "id": 1878,
+ "name": "Water Pouch Bounty",
+ "level": 44,
+ "reqlevel": 40,
+ "side": 3,
+ "zoneId": 440,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 375,
+ "start": {
+  "type": "npc",
+  "id": 7408,
+  "name": "Spigot Operator Luglunket",
+  "zone": "Tanaris",
+  "zoneId": 440,
+  "coords": [
+   [
+    52.4,
+    28.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7408,
+  "name": "Spigot Operator Luglunket",
+  "zone": "Tanaris",
+  "zoneId": 440,
+  "coords": [
+   [
+    52.4,
+    28.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Progress Back again, <name>?  If you have five more Wastewander water pouches, then I have a care package with your name on it! Wastewander Water Pouch  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 8483,
+   "name": "Wastewander Water Pouch",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Wastewander Water Pouch",
+   "count": 5,
+   "type": "item",
+   "id": 8483
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "start",
+   "type": 1,
+   "id": 7408,
+   "name": "Spigot Operator Luglunket",
+   "coord": [
+    52.4,
+    28.4
+   ],
+   "coords": [
+    [
+     52.4,
+     28.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "end",
+   "type": 1,
+   "id": 7408,
+   "name": "Spigot Operator Luglunket",
+   "coord": [
+    52.4,
+    28.4
+   ],
+   "coords": [
+    [
+     52.4,
+     28.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 5615,
+   "name": "Wastewander Rogue",
+   "coord": [
+    58.8,
+    39.2
+   ],
+   "coords": [
+    [
+     58.4,
+     36.4
+    ],
+    [
+     58.4,
+     37.2
+    ],
+    [
+     58.4,
+     38.4
+    ],
+    [
+     58.4,
+     38.6
+    ],
+    [
+     58.4,
+     39.6
+    ],
+    [
+     58.8,
+     36.4
+    ],
+    [
+     58.8,
+     36.6
+    ],
+    [
+     58.8,
+     38.4
+    ],
+    [
+     58.8,
+     39.2
+    ],
+    [
+     58.8,
+     40
+    ],
+    [
+     60,
+     37
+    ],
+    [
+     60.2,
+     37.6
+    ],
+    [
+     60.4,
+     32.4
+    ],
+    [
+     60.4,
+     32.8
+    ],
+    [
+     60.4,
+     33.6
+    ],
+    [
+     60.4,
+     39.2
+    ],
+    [
+     60.6,
+     36.6
+    ],
+    [
+     60.6,
+     39
+    ],
+    [
+     60.8,
+     32.2
+    ],
+    [
+     60.8,
+     32.8
+    ],
+    [
+     60.8,
+     33.6
+    ],
+    [
+     60.8,
+     38.4
+    ],
+    [
+     61,
+     39.6
+    ],
+    [
+     61.4,
+     34.8
+    ],
+    [
+     61.4,
+     35.6
+    ],
+    [
+     61.8,
+     34.2
+    ],
+    [
+     61.8,
+     35.4
+    ],
+    [
+     61.8,
+     35.6
+    ],
+    [
+     63.4,
+     37.4
+    ],
+    [
+     63.4,
+     38
+    ],
+    [
+     63.4,
+     39.2
+    ],
+    [
+     63.4,
+     39.8
+    ],
+    [
+     63.6,
+     37.4
+    ],
+    [
+     63.6,
+     38
+    ],
+    [
+     63.6,
+     39.2
+    ],
+    [
+     63.6,
+     40.6
+    ],
+    [
+     63.8,
+     39.8
+    ],
+    [
+     65,
+     39.8
+    ],
+    [
+     65.2,
+     37
+    ],
+    [
+     65.2,
+     39.2
+    ],
+    [
+     65.4,
+     36.2
+    ],
+    [
+     65.6,
+     36.2
+    ],
+    [
+     65.6,
+     37.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 5616,
+   "name": "Wastewander Thief",
+   "coord": [
+    62.8,
+    30.4
+   ],
+   "coords": [
+    [
+     58.8,
+     23.4
+    ],
+    [
+     58.8,
+     23.6
+    ],
+    [
+     59.4,
+     24.8
+    ],
+    [
+     59.8,
+     23.8
+    ],
+    [
+     60.2,
+     22.4
+    ],
+    [
+     60.2,
+     22.6
+    ],
+    [
+     60.4,
+     24.6
+    ],
+    [
+     60.6,
+     23.4
+    ],
+    [
+     60.6,
+     24.6
+    ],
+    [
+     60.8,
+     24.2
+    ],
+    [
+     62.8,
+     30.4
+    ],
+    [
+     62.8,
+     30.6
+    ],
+    [
+     63.2,
+     32.4
+    ],
+    [
+     63.2,
+     32.6
+    ],
+    [
+     63.2,
+     34
+    ],
+    [
+     63.4,
+     29.4
+    ],
+    [
+     63.6,
+     29.6
+    ],
+    [
+     63.6,
+     32.8
+    ],
+    [
+     63.6,
+     34
+    ],
+    [
+     63.8,
+     31
+    ],
+    [
+     63.8,
+     31.6
+    ],
+    [
+     64,
+     29.2
+    ],
+    [
+     65.2,
+     32.8
+    ],
+    [
+     65.2,
+     33.6
+    ],
+    [
+     65.4,
+     32.2
+    ],
+    [
+     65.6,
+     32.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 5617,
+   "name": "Wastewander Shadow Mage",
+   "coord": [
+    66.2,
+    35
+   ],
+   "coords": [
+    [
+     58.4,
+     37.2
+    ],
+    [
+     58.4,
+     38.4
+    ],
+    [
+     58.4,
+     38.6
+    ],
+    [
+     58.8,
+     36.4
+    ],
+    [
+     58.8,
+     37.2
+    ],
+    [
+     58.8,
+     38.4
+    ],
+    [
+     58.8,
+     39.2
+    ],
+    [
+     58.8,
+     40
+    ],
+    [
+     60,
+     37
+    ],
+    [
+     60.4,
+     32.8
+    ],
+    [
+     60.4,
+     39.2
+    ],
+    [
+     60.8,
+     32
+    ],
+    [
+     60.8,
+     33.4
+    ],
+    [
+     60.8,
+     33.6
+    ],
+    [
+     60.8,
+     38.4
+    ],
+    [
+     60.8,
+     38.6
+    ],
+    [
+     61.8,
+     34.2
+    ],
+    [
+     61.8,
+     35
+    ],
+    [
+     61.8,
+     35.6
+    ],
+    [
+     62.8,
+     30.6
+    ],
+    [
+     63.2,
+     37.4
+    ],
+    [
+     63.4,
+     38
+    ],
+    [
+     63.4,
+     39.8
+    ],
+    [
+     63.6,
+     37.4
+    ],
+    [
+     63.6,
+     38
+    ],
+    [
+     63.6,
+     39.2
+    ],
+    [
+     63.6,
+     40.6
+    ],
+    [
+     63.8,
+     31
+    ],
+    [
+     63.8,
+     39.8
+    ],
+    [
+     64.6,
+     39.2
+    ],
+    [
+     65.2,
+     37
+    ],
+    [
+     65.2,
+     40
+    ],
+    [
+     65.4,
+     36.2
+    ],
+    [
+     65.6,
+     36
+    ],
+    [
+     65.6,
+     37.2
+    ],
+    [
+     66.2,
+     35
+    ]
+   ]
+  },
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 5618,
+   "name": "Wastewander Bandit",
+   "coord": [
+    62.8,
+    30.4
+   ],
+   "coords": [
+    [
+     58.8,
+     23.4
+    ],
+    [
+     58.8,
+     23.6
+    ],
+    [
+     59.4,
+     24.8
+    ],
+    [
+     59.8,
+     23.8
+    ],
+    [
+     60.2,
+     22.4
+    ],
+    [
+     60.2,
+     22.6
+    ],
+    [
+     60.4,
+     24.6
+    ],
+    [
+     60.6,
+     23.4
+    ],
+    [
+     60.6,
+     24.6
+    ],
+    [
+     60.8,
+     24.2
+    ],
+    [
+     62.4,
+     33.2
+    ],
+    [
+     62.8,
+     30.4
+    ],
+    [
+     62.8,
+     30.6
+    ],
+    [
+     63.2,
+     32.4
+    ],
+    [
+     63.2,
+     32.6
+    ],
+    [
+     63.2,
+     34
+    ],
+    [
+     63.4,
+     29.4
+    ],
+    [
+     63.6,
+     29.6
+    ],
+    [
+     63.6,
+     31.2
+    ],
+    [
+     63.6,
+     31.6
+    ],
+    [
+     63.6,
+     32.8
+    ],
+    [
+     63.6,
+     34
+    ],
+    [
+     63.8,
+     29.2
+    ],
+    [
+     65.2,
+     32.6
+    ],
+    [
+     65.2,
+     33.6
+    ],
+    [
+     65.4,
+     32.2
+    ],
+    [
+     65.6,
+     32.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 5623,
+   "name": "Wastewander Assassin",
+   "coord": [
+    66.2,
+    35
+   ],
+   "coords": [
+    [
+     58.4,
+     37
+    ],
+    [
+     58.4,
+     38.4
+    ],
+    [
+     58.4,
+     38.6
+    ],
+    [
+     58.8,
+     36.4
+    ],
+    [
+     58.8,
+     36.6
+    ],
+    [
+     58.8,
+     38.4
+    ],
+    [
+     58.8,
+     39.2
+    ],
+    [
+     59.8,
+     37
+    ],
+    [
+     60.2,
+     37.6
+    ],
+    [
+     60.4,
+     32.8
+    ],
+    [
+     60.4,
+     39.2
+    ],
+    [
+     60.6,
+     39
+    ],
+    [
+     60.8,
+     32.2
+    ],
+    [
+     60.8,
+     32.8
+    ],
+    [
+     60.8,
+     33.6
+    ],
+    [
+     61.8,
+     34.2
+    ],
+    [
+     61.8,
+     35
+    ],
+    [
+     61.8,
+     35.6
+    ],
+    [
+     63.4,
+     37.4
+    ],
+    [
+     63.4,
+     38
+    ],
+    [
+     63.6,
+     38
+    ],
+    [
+     63.6,
+     39.2
+    ],
+    [
+     63.8,
+     39.8
+    ],
+    [
+     65,
+     39.6
+    ],
+    [
+     65.2,
+     39.4
+    ],
+    [
+     65.4,
+     36.2
+    ],
+    [
+     65.6,
+     36.4
+    ],
+    [
+     66,
+     36.8
+    ],
+    [
+     66.2,
+     35
+    ]
+   ]
+  },
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7805,
+   "name": "Wastewander Scofflaw",
+   "coord": [
+    66.2,
+    35
+   ],
+   "coords": [
+    [
+     66.2,
+     34.4
+    ],
+    [
+     66.2,
+     35
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2007-03-27T12:06:39-05:00",
+   "body": "This quest is just a repeatable version of this one: https://www.wowhead.com/forever/quest=1707\nWhen I completed this quest, I didn't get any experience - only the 10 reputation with Gadgetzan and the care package, but it's still a great side quest to be doing while you're doing the Wastewander Justice and More Wastewander Justice quests (https://www.wowhead.com/forever/quest=1690 and https://www.wowhead.com/forever/quest=1691), since some of the Wastewanders you kill there will drop the water pouches needed for this quest.\n\nOh, and this quest is also a nice way of grinding a bit of reputation with Gadgetzan while you're in the mid-fourties since every Wastewander you kill will earn you 5 reputation and this quest earns you 10 reputation with Gadgetzan.",
+   "replies": [
+    "actually gives 380xp (if anyone is still reading this in classic)"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2020-07-19T17:27:34-05:00",
+   "body": "The quest does give 380 XP. \r\n\r\nAt ~6 silver per pouch, depending on server and availability of course, this converts to 1267 xp/g, and that's completely disregarding the consumables you get back.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-02-09T18:39:49-06:00",
+   "body": "This is a great way to stock up on pots. The GOOD ones. I have found grinding on the camps in this area to be lucrative. Cloth, coin, Good Drops, Recipes,xp, and these pouches. I have easily turned in 100+ AND HAVE A GREAT STOCK OF Healing, and Mana pots from the rewards.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-08T20:59:39-05:00",
+   "body": "dont know why this quest is on search twice but\n\ni have been doing this quest regularly because its breeze and it gets you the good food/water/potions for FREE. the water is common drop. after first time you'll only get 400xp from reward, but you can do it as many times as you want. he always gives 1-3 food, 1-3 water, sometimes a supperior hp/mana potion, and rare, but sometimes a random scroll. I just did this quest twice today, he gave me food/water and an hp potion, second time he gave me scroll of intell3. this quest is great to farm for some good food/water, its fast and free. take you maybe 10-20mins to get 5water drops. this is the easiest and fastest acess to the good food/water for as early as it can be done. after doing this quest only around 8 times maybe, i have over stack of food/water, and bunch of potions, and it took very little time. you no longer have to save your food/water for the most usefull times. the bonus is that you can do this quest while you are doing the other quests that involve killing the bandits, the named bandits, and getting back a guys stolen something in fort, by time you get those done you'll have around 10+ water drops.\n\nbut watch out for the one named bandit SE of town, he has 2 stealthed bodyguards and wanders around. if theyaggro while you fight you get 3 adds, and hes lvl 46.(everything else is 42ish)",
+   "replies": [
+    "the first search result is for the first time you do the quest and get 2800 xp. the second search result is for the repeat version where you get less xp."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-17T14:44:55-05:00",
+   "body": "quest is listed twice because the first time you do it, it gives you full quest xp (like 3900) and then each subsequent 5 water pouches give you only 380ish. so, its 2 different quests",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-29T22:59:49-05:00",
+   "body": "According to my information this quest is a way to build repeatable repuation with Gadgetzhan. Is there any definitive answer on whether I am correct in this...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-27T14:02:07-06:00",
+   "body": "Yes, this quest just for get reputation with Gadgetzan. It's repeatable, so you may take it until you get revered reputation.\nOnly one little question remains ... what for that reputation, what it does? Maybe there's special items sold by Gadgetzanians?",
+   "replies": [
+    "I would imagine once your rep gets high enough you'd get discount prices from vendors..Thats how it works with other rep.. If you can buy something special from the goblins I havent heard that you can...Hope this helps..\n"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-02T12:24:22-06:00",
+   "body": "i handed in 15 out of 17 of them, and i got a total of 9 moonberry jucies, 6 moon harvest pumpkin, 3 superior mana pot and 2 hp pot. perfect. love this quest. though i didn't really see the xp though. lvl 45",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-04-05T10:09:42-05:00",
+   "body": "I've been only getting food and drink from these. no pots...\n\nthen again, i can make my own :P",
+   "replies": [
+    "it still gives potions, but they arent common. i wouldnt do this quest if i was solely after the potions and not the food, they arent common enough to be worth the time."
+   ]
+  }
+ ]
+}

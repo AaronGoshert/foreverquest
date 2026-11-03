@@ -1,0 +1,389 @@
+{
+ "id": 1375,
+ "name": "Khan Shaka",
+ "level": 37,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2850,
+ "start": {
+  "type": "npc",
+  "id": 5398,
+  "name": "Warug",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    74.8,
+    68
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5398,
+  "name": "Warug",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    74.8,
+    68
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Maintain your reputation with the Magram, and bring the Head of Khan Shaka to Warug in the Magram Village in Desolace . Khan Shaka's Head  ( 1 )   Magram Clan Centaur  ( Friendly )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 5398,
+   "name": "Warug",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 6073,
+   "name": "Khan Shaka's Head",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Khan Shaka's Head",
+   "count": 1,
+   "type": "item",
+   "id": 6073
+  }
+ ],
+ "series": [
+  1375,
+  1381
+ ],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 5398,
+   "name": "Warug",
+   "coord": [
+    74.8,
+    68
+   ],
+   "coords": [
+    [
+     74.8,
+     68
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 5398,
+   "name": "Warug",
+   "coord": [
+    74.8,
+    68
+   ],
+   "coords": [
+    [
+     74.8,
+     68
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 5602,
+   "name": "Khan Shaka",
+   "coord": [
+    40.2,
+    95.4
+   ],
+   "coords": [
+    [
+     39.4,
+     94.8
+    ],
+    [
+     40.2,
+     95.4
+    ],
+    [
+     40.2,
+     95.6
+    ],
+    [
+     40.6,
+     95.4
+    ],
+    [
+     40.6,
+     95.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 24,
+   "date": "2007-01-30T13:42:32-06:00",
+   "body": "Found him in the back of the cave where you found the broken tears.  Once your inside follow the cave till it splits.  Here there are 2 ways to go, you must go straight behind the tent.  The way right leads to a dead end, but if you do go right you can jump down to the path that leads to the Khan.  The Khan has 2 level 36 body guards who agro with him.  I managed to get him and his two buddies to agro without the rest of the room.  The cave entrance is at loc 38, 90",
+   "replies": []
+  },
+  {
+   "rating": 23,
+   "date": "2005-10-17T15:30:25-05:00",
+   "body": "his cords are 40,96",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2005-01-06T01:02:07-06:00",
+   "body": "He in cave where you did Tear Broken quest early. He lv 37 with 2 lv 35 guard. ALL are normal quest. Can solo at lv 40.",
+   "replies": [
+    "I solo'ed this as a 36 rogue.",
+    "But it was usefull! That way i know i can solo it as a 37 hunter! =)",
+    "pretty easy to solo as a 36 rogue, ambush and kill him fast and then vanish :o"
+   ]
+  },
+  {
+   "rating": 11,
+   "date": "2005-11-23T03:30:25-06:00",
+   "body": "Hug the right-hand wall of the cave, you'll find him.",
+   "replies": [
+    "If you follow right side of the wall you will find yourself above him.\n\nNow if you are a warlock like me and you jump down there your minnion will then go the long way around and bring about 20 baddies with him right to you. (Not good)\nI should have known better. \nAnyway now you know.\nWOW should make minnions actually FOLLOW their masters and this crap wouldn't happen!",
+    "you will get there faster if you follow the left side\n\ni followed the right side and dropped down, but then had to fight up a hill whereas the left side is up a slope and then your in his room.\n\nonly advantage is on the right side there is a small outcropping where a chest can spawn\n\nsolo'd it 35 undead warlock - died 4 times :("
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2006-02-04T03:30:25-06:00",
+   "body": "Soloed at lvl 36 Warrior. Not a prob at all. Just kill the guy, and loot, then your out. And for warriors: Use Intimidating Shout, it will fear the guard away, and you can kill him easy and loot:)\n\nAnd then run out like a maniac (you might die^^)",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-04-09T04:56:49-05:00",
+   "body": "&nbsp; &nbsp; &nbsp; At first, killed a bunch of Gelkis around the outside camp and the lower area before going into the cave. The cave [b](where you previously collected Theradras' Tears)[/b] is huge, but stick to the right, as others have said. At first, I went left...but here's only a small camp there.\n&nbsp; &nbsp; &nbsp; Went right, up a curving ramp in the cave killing my way through. I'm a hunter (lvl 35) so when I jumped my pet brought spawns by going the long way. [b]DISMISS your pet/minion before jumping down![/b] When you're down there, look out for an Earthcaller/Minion PAT and kill your way to the Khan.\n&nbsp; &nbsp; &nbsp; When you start killing, take down Khan at all costs. Ignore the two guard centaur. After I brought Khan down, I died, but looted just before I did. With the head in my bags, I rezzed at the Graveyard and moved on to Warug. It seemed the most painless way to do it.\n&nbsp; &nbsp; &nbsp; Was harder for me because right before I got to the Khan I ran out of arrows and food and bandages. [b](PS: Be warned, the centaur spawn QUICKLY...get in, get out!)[/b]",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-02-19T20:45:55-06:00",
+   "body": "He's in a tent in the Southeastern corner of the cave",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-03-12T15:30:25-05:00",
+   "body": "ok as a 37 hunter I found this easy, I walked in the cave right to him and killed him and his bodygaurds no problem, there really is no need to go around and then jump down to him",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-03-18T22:13:37-05:00",
+   "body": "Somehow I've managed to keep my rep with the Gelkis at unfriendly.&nbsp; This means they won't instantly aggro onto me.&nbsp; At Level 34 as a Retribution spec Paladin, I walked into the cave and followed the directions.&nbsp; I killed Khan Shaka (only required Divine Shield for healing), looted him, then let the other two kill me.&nbsp; Still Unfriendly, but that means I can walk out.&nbsp; Little bit of armor damage, but no problem at all.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-02-04T03:30:25-06:00",
+   "body": "Lvl 35 Rogue, did what the guy said&nbsp; once i was in the cave i kept to the right wall then i jumped down when i could, then i killed of the wanders, so that left Khan and his two guards i saped one and i sololy attacked Khan droped him, looted him and vanished. went back and saped one of them again and killed them both off.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-04T03:30:25-06:00",
+   "body": "I've found Shaka in 2 different spots.&nbsp; The first time I went through I stuck to the left and found him at the end of that path.&nbsp; Since I was a dummy and I forgot to loot the head I had to go back in again.&nbsp; This time as you go in you get to an area on your left with a few mobs and a tent structure. From this location going hard left will take you down the path I took the first time. If you clear this tent area and go to the backside toward the right there will be a ramp that will take you up to where I found him the second time.\n\nThe first spawn area I went to didn't have all the guards like the second one does.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-03-15T21:16:01-05:00",
+   "body": "i hope this advice is usefull as i im goin 2 do it now as a human warrior lvl 38 shud be no prob xD",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-03T03:01:37-05:00",
+   "body": "Dismiss your minion when you jump\nNot hard.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-09-15T12:54:24-05:00",
+   "body": "This is Magram quest chain ([quest=1367]), the previous quest is [quest=1371].",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-12-29T15:30:25-06:00",
+   "body": "Soloed as a L35 hunter. He's pretty easy to kill, the only problem is that he is protected by two body guards. I managed to kill him, but had to use fein death and sacrafice my pet.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-12-29T15:30:25-06:00",
+   "body": "I did this one by myself at lvl 43.&nbsp; Not hard as long as you keep in grps of 2-3.&nbsp; He is in the bottom of the cave if you drop down. Not that hard at all.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-02-04T03:30:25-06:00",
+   "body": "I did this easy as a lvl 37 druid.\nIf you have cords he is at 40,95 inside the cave, following the right side, jump down. Then you should find him. \n\nStaind",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-30T03:30:25-05:00",
+   "body": "Managed to solo it as a level 35 mage.&nbsp; Died...a lot, but finally managed to down him.&nbsp; Getting to him is not the hard part, simply hug the right wall for a bit untill you come to the tent-like thingy.&nbsp; Go up the small ramp behind and you can save yourself some time.&nbsp; I'm not sure which way is easier though; either works.&nbsp; \nIf you're soloing it though, the most important thing (especially for cloth-wearers like myself) is to CONCENTRATE ON SHAKA.&nbsp; Take out anyone else who might interfere one at a time, untill you're left with Shaka and his guards.&nbsp; Mages, sheep a guard if you want, I prefer to simply blast him with a pyro and just keep pounding away 'till he goes down.&nbsp; Loot him QUICKLY, while the guards are still hitting you.&nbsp; If you die, you die; it saves you the hassle of trying to kill the guards and running all the way back to Magram, just rez with the head.&nbsp; \nBest done in parties, but you CAN solo it at 34 or less depending on class.&nbsp; Good Luck!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-12T15:30:25-06:00",
+   "body": "Did this solo as a LVL 35 Mage worked fine as they said stay to the right",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-18T03:30:25-05:00",
+   "body": "as a lvl 36 druid i foud that the easy way was to prowl in and stand behind him, back against the wall then pull him with starfire, ferie fire and starfire, then just hit KHAN with staf and only use mana for healing my self ... when he is dead, heal yourself and auto-loot (shift-rightklik),&nbsp; then run for it.\n\nDONT USE ENERGY TRYING TO FIGHT OFF THE GUARDS, KONCENTRETE ON KHAN SHAKA",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-30T03:30:25-05:00",
+   "body": "i soloed it with my lvl 36 priest.. died after and died again ... :(",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-04T03:30:25-06:00",
+   "body": "I went right, took the chest, and dropped down. Demonology has the solution for jumping down holes like this, for warlocks atleast: Dismiss the minion, jump down, throw fel domination, summon Voidwalker,&nbsp; 1/2 sec cast, banish the first elemental, take out the caster, then remove the elemental, and you can take a breather.\n\nI did note that going right makes it a lot harder to thin out the guards before getting to Khan. And even at lvl 39, handling 5 lvl 35 centaurs at once isn't possible. So anyhow, killed Khan, had my minion distract the nearby guards, grabbed the head, and ran. When 50% dead, I sacrificed the minion, and ran up the ramp. Right before the bubble wore off, I ate my healthstone, and just kept running. A healing potion stretched the health a bit longer, but not quite long enough to get to the exit. I did die, but with a soulstone it was instant resurrection. Pulled up another voidwalker, ran for the exit, same strategy: sacrifice, enjoy your bubble, and run.\n\nProbably could've fought all the way out easily, just couldn't be bothered.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-11T05:55:32-05:00",
+   "body": "did this at level 38 warrior solo and just cleared the area. I just then used charge and mocking blow and killed him and grabbed the head before dying. Then just rezed and fought my way out. Just forget about the body guards if your solo and you only need to die once.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-13T05:58:01-05:00",
+   "body": "I killed this guy three times in a row and he never dropped the head. What gives?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-04T17:04:30-05:00",
+   "body": "soloed as 36 warrior but be careful as you have to fight him and his 2 35 guards at the same time\n\nEdited, Sat Jun  4 13:17:30 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-22T07:30:36-05:00",
+   "body": "Somehow I solo'd him (lvl 37), one lvl 36 guard and one lvl 35 guard as a lvl 34 mage. Used pyroblast then fire blast on him, frost nova'd him and the guards when they got to me, ran off a bit and fireballed and fire blasted him to finish him.  \n\nThen poly'd one of the guards, killed the other one, re-poly'd the last guard and used a bandage and evocation.. then easily finished the 3rd one off. I got a little lucky as nothing was resisted.. if a couple of those spells do, I am dead :)\n\nIt can be tough to find him inside the cave though. i made a couple of wrong turns and wasted some time.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-17T23:47:53-06:00",
+   "body": "i killed this guy twice already and his head hasn't dropped? what is wrong with this guy and not dropping the quest item? can someone tell me what happened with this quest?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-28T16:51:28-06:00",
+   "body": "i did it solo whit my 34 hunter, i didn't died but my pet does =P its an easy quest",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-24T22:59:55-06:00",
+   "body": "Soloed as a 34 rogue, so as said. Its no problem.\nWell, as classes without stealth you can always die your way in and then ress behind him without him aggroing and rest up and then kill.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-30T16:28:37-05:00",
+   "body": "Hehe, pretty funny for these quests IMO.\n\nCentaur are so special...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-23T11:41:17-05:00",
+   "body": "loc 40.96",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-06-19T12:49:20-05:00",
+   "body": "AINT NOBODY!",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-08-05T15:30:25-05:00",
+   "body": "About \"concentrating on Shaka\", it isn't the best strategy for druids and other self-healing classes out there. It's just the opposite: get rid of any weaker enemy, so you can heal yourself without getting much interference during the casting time.\n\nI started with the lv35 bg. Sneaked behind him, ravage, two claw, switched to NS form to spam moonfire before he could call for help. Heal, cat form, attack the lv36 bg, rinse, repeat. Then, you can focus on Shaka, since you've now mana and some tranquility.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-12-29T15:30:25-06:00",
+   "body": "Again, just like the last crystal quest - if you just STOP KILLING them the second you ding friendly, you will still be on good terms with the Gelkis!&nbsp; You can walk through the cave without being attacked at all.\n\n150/3000 Unfriendly = attackable, but won't aggro to you at all.\n\nKill the boss, and guess what? 25/3000 - you can still walk out - but you either have to have a break-aggro ability like rogue vanish or hunter feign death, or let yourself die after looting - the guards will still be on you. DO NOT KILL THE GUARDS - or you will have to fight your way out!&nbsp; Just drop combat or let them kill you. Rez or whatever now that you are not in combat, and walk away.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-04-16T06:34:09-05:00",
+   "body": "Agreed, I easily solo'd as a 37 rogue. I just ambushed and killed him quickly. Then I followed with vanish and walked out.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-04-22T21:00:18-05:00",
+   "body": "I have the mouthpiece, but where is the horn? I have no idea how to get it.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-04-18T03:30:25-05:00",
+   "body": "STAY TO THE LEFT ONES YOU ARE IN THE CAVE>.. U SHOULD BE FINE... SOLOD.. IT as a 35 HUNTER",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-08-05T15:30:25-05:00",
+   "body": "I don't know how you are doing it. I'm a lv 37 paddy and only get a short way in the cave can kill the 1st 2 lev 33 guys then a level 34 with pet comes then shortly i have 2 to 3 lev 33-34 windchasher on me casting spell from afar.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-08-05T15:30:25-05:00",
+   "body": "I soloed as a lvl 38 druid.&nbsp; Stealth to the khan area.&nbsp; Kill off the ez solo mobs.&nbsp; Got ganked and died once with a runner that got away. :(\n\nThen stealth up near the khan and his guards.&nbsp; Cat form on the lvl 35, kill him, then switch to caster, heal, rejuv, moonfire the 36 and go bear, kill him.&nbsp; Then kill Khan at leisure.&nbsp; Did use one heal pot just to be safe.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-10-17T15:30:25-05:00",
+   "body": "soloed it with my level 33 troll hunter....it was long...hard...and my pet died so many times from stupid pats and the crazy respawn rate -.-",
+   "replies": []
+  }
+ ]
+}

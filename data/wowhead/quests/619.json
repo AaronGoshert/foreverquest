@@ -1,0 +1,151 @@
+{
+ "id": 619,
+ "name": "Enticing Negolash",
+ "level": 52,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "object",
+  "id": 2289,
+  "name": "Ruined Lifeboat",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    32.4,
+    81.9
+   ],
+   [
+    32.5,
+    81.9
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 2289,
+  "name": "Ruined Lifeboat",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    32.4,
+    81.9
+   ],
+   [
+    32.5,
+    81.9
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Progress This is an abandoned lifeboat.  Printed along its side in scratched, faded paint are the words: \"Smotts' Revenge\" Barbecued Buzzard Wing  ( 10 ) Junglevine Wine  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 4457,
+   "name": "Barbecued Buzzard Wing",
+   "count": 10,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4595,
+   "name": "Junglevine Wine",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Barbecued Buzzard Wing",
+   "count": 10,
+   "type": "item",
+   "id": 4457
+  },
+  {
+   "text": "Junglevine Wine",
+   "count": 5,
+   "type": "item",
+   "id": 4595
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "start",
+   "type": 2,
+   "id": 2289,
+   "name": "Ruined Lifeboat",
+   "coord": [
+    32.5,
+    81.9
+   ],
+   "coords": [
+    [
+     32.4,
+     81.9
+    ],
+    [
+     32.5,
+     81.9
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "end",
+   "type": 2,
+   "id": 2289,
+   "name": "Ruined Lifeboat",
+   "coord": [
+    32.5,
+    81.9
+   ],
+   "coords": [
+    [
+     32.4,
+     81.9
+    ],
+    [
+     32.5,
+     81.9
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 15,
+   "date": "2007-04-09T15:08:26-05:00",
+   "body": "Kodo graveyard seemed to be the easiest to farm the buzzard wings in Desolace.&nbsp; The drink is purchased from the inn in Booty Bay.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-09-16T14:12:03-05:00",
+   "body": "The Buzzard Wings can be found from the birds in Badlands and you need a cook to make the Barbecued Buzzard Wings.\n\nThe Junglevine wine can be bought from the food and drink vendor at the inn at booty bay,",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-09T15:08:26-05:00",
+   "body": "Theres a lot of Birds that drop the wings near Khagard in Badlands, and all around the map too.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2020-12-10T12:00:20-06:00",
+   "body": "December 2020\r\n\r\nRun up through the skeletons in Tanaris.\r\nCouple loops, plenty of wings.",
+   "replies": []
+  }
+ ]
+}

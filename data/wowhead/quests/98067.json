@@ -1,0 +1,379 @@
+{
+ "id": 98067,
+ "name": "Eyes of the Sentinels",
+ "level": 11,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 1657,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 660,
+ "start": {
+  "type": "npc",
+  "id": 8396,
+  "name": "Sentinel Dalia Sunblade",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    39.4,
+    88.2
+   ],
+   [
+    39.4,
+    89.2
+   ],
+   [
+    39.4,
+    89.6
+   ],
+   [
+    39.6,
+    89.8
+   ],
+   [
+    39.8,
+    88.2
+   ],
+   [
+    39.8,
+    89.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 8396,
+  "name": "Sentinel Dalia Sunblade",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    39.4,
+    88.2
+   ],
+   [
+    39.4,
+    89.2
+   ],
+   [
+    39.4,
+    89.6
+   ],
+   [
+    39.6,
+    89.8
+   ],
+   [
+    39.8,
+    88.2
+   ],
+   [
+    39.8,
+    89.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Place Sentinel Owls at the entrance to the Cenarion Hold depths, the Darnassus Bank, the Craftsman's Terrace Inn, and the City Gate for Sentinel Dalia Sunblade in the Temple of the Moon in Darnassus .   Cenarion Hold depths entrance  ( 1 )   Darnassus Bank  ( 1 )   Craftsman's Terrace Inn  ( 1 )   City Gate  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 8396,
+   "name": "Sentinel Dalia Sunblade",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 270418,
+   "name": "Cenarion Hold depths entrance",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 270419,
+   "name": "Darnassus Bank",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 270420,
+   "name": "Craftsman's Terrace Inn",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 270421,
+   "name": "City Gate",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 279378,
+   "name": "Lunar Pendant",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Cenarion Hold depths entrance",
+   "count": 1,
+   "type": "npc",
+   "id": 270418
+  },
+  {
+   "text": "Darnassus Bank",
+   "count": 1,
+   "type": "npc",
+   "id": 270419
+  },
+  {
+   "text": "Craftsman's Terrace Inn",
+   "count": 1,
+   "type": "npc",
+   "id": 270420
+  },
+  {
+   "text": "City Gate",
+   "count": 1,
+   "type": "npc",
+   "id": 270421
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "start",
+   "type": 1,
+   "id": 8396,
+   "name": "Sentinel Dalia Sunblade",
+   "coord": [
+    39.8,
+    89.2
+   ],
+   "coords": [
+    [
+     39.4,
+     88.2
+    ],
+    [
+     39.4,
+     89.2
+    ],
+    [
+     39.4,
+     89.6
+    ],
+    [
+     39.6,
+     89.8
+    ],
+    [
+     39.8,
+     88.2
+    ],
+    [
+     39.8,
+     89.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 8396,
+   "name": "Sentinel Dalia Sunblade",
+   "coord": [
+    39.8,
+    89.2
+   ],
+   "coords": [
+    [
+     39.4,
+     88.2
+    ],
+    [
+     39.4,
+     89.2
+    ],
+    [
+     39.4,
+     89.6
+    ],
+    [
+     39.6,
+     89.8
+    ],
+    [
+     39.8,
+     88.2
+    ],
+    [
+     39.8,
+     89.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "requirement",
+   "type": 1,
+   "id": 270418,
+   "name": "Credit",
+   "coord": [
+    33.8,
+    15.8
+   ],
+   "coords": [
+    [
+     33.2,
+     16
+    ],
+    [
+     33.6,
+     17.6
+    ],
+    [
+     33.8,
+     15.8
+    ],
+    [
+     34.2,
+     16.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "requirement",
+   "type": 1,
+   "id": 270419,
+   "name": "Credit",
+   "coord": [
+    40.8,
+    43.6
+   ],
+   "coords": [
+    [
+     40.4,
+     42.4
+    ],
+    [
+     40.4,
+     44.4
+    ],
+    [
+     40.6,
+     42.6
+    ],
+    [
+     40.6,
+     44.6
+    ],
+    [
+     40.8,
+     43.6
+    ],
+    [
+     41.2,
+     42.2
+    ],
+    [
+     41.6,
+     43.2
+    ],
+    [
+     41.6,
+     43.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "requirement",
+   "type": 1,
+   "id": 270420,
+   "name": "Credit",
+   "coord": [
+    66.4,
+    15.4
+   ],
+   "coords": [
+    [
+     65.8,
+     15.8
+    ],
+    [
+     66.4,
+     15.4
+    ],
+    [
+     66.8,
+     15.6
+    ],
+    [
+     67.2,
+     15.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "requirement",
+   "type": 1,
+   "id": 270421,
+   "name": "Credit",
+   "coord": [
+    88.6,
+    35.6
+   ],
+   "coords": [
+    [
+     88.6,
+     35.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "requirement",
+   "type": 1,
+   "id": 270421,
+   "name": "Credit",
+   "coord": [
+    35.8,
+    54.2
+   ],
+   "coords": [
+    [
+     35.8,
+     54.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-06T17:46:48-05:00",
+   "body": "Cool new quest that actually grants a deceptively large amount of XP to new players. You can complete this at level [b]1[/b], and this quest alone will be more than enough to ding you directly to [b]2[/b]. If you want to play a Night Elf but level in a different zone, do this on your way through Darnassus!\r\n\r\n[b]Run to the locations listed in the quest and click the pendant[/b].",
+   "replies": []
+  }
+ ]
+}

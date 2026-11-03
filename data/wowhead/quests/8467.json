@@ -1,0 +1,1069 @@
+{
+ "id": 8467,
+ "name": "Feathers for Nafien",
+ "level": 55,
+ "reqlevel": 45,
+ "side": 3,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": {
+  "type": "npc",
+  "id": 15395,
+  "name": "Nafien",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    64.8,
+    8.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 15395,
+  "name": "Nafien",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    64.8,
+    8.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Progress While you have proven yourself to me, you may need to continue to work toward proving yourself to the suspicious brethren of my tribe.  To that end, I may be able to continue assisting you. Some of the Deadwood furbolgs wear a distinctive headdress that may be used as a means of proof in thinning their numbers.  Bring me a feather from any headdresses you acquire; for every set of five you bring me, you will earn recognition amongst the Timbermaw. Deadwood Headdress Feather  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 21377,
+   "name": "Deadwood Headdress Feather",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Deadwood Headdress Feather",
+   "count": 5,
+   "type": "item",
+   "id": 21377
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 1,
+   "id": 15395,
+   "name": "Nafien",
+   "coord": [
+    64.8,
+    8.2
+   ],
+   "coords": [
+    [
+     64.8,
+     8.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 1,
+   "id": 15395,
+   "name": "Nafien",
+   "coord": [
+    64.8,
+    8.2
+   ],
+   "coords": [
+    [
+     64.8,
+     8.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7153,
+   "name": "Deadwood Warrior",
+   "coord": [
+    48.8,
+    90.4
+   ],
+   "coords": [
+    [
+     46.2,
+     89.2
+    ],
+    [
+     46.2,
+     89.8
+    ],
+    [
+     46.4,
+     88.4
+    ],
+    [
+     46.4,
+     90.6
+    ],
+    [
+     46.6,
+     88.4
+    ],
+    [
+     46.6,
+     88.6
+    ],
+    [
+     46.6,
+     90.4
+    ],
+    [
+     46.6,
+     90.8
+    ],
+    [
+     46.8,
+     91.8
+    ],
+    [
+     47.4,
+     92.6
+    ],
+    [
+     47.6,
+     88.4
+    ],
+    [
+     48,
+     93.4
+    ],
+    [
+     48.2,
+     89.2
+    ],
+    [
+     48.2,
+     93.6
+    ],
+    [
+     48.4,
+     89.6
+    ],
+    [
+     48.4,
+     91.2
+    ],
+    [
+     48.4,
+     92
+    ],
+    [
+     48.6,
+     93.8
+    ],
+    [
+     48.8,
+     90.4
+    ],
+    [
+     48.8,
+     90.6
+    ],
+    [
+     48.8,
+     92.6
+    ],
+    [
+     49,
+     89.2
+    ],
+    [
+     49,
+     91.6
+    ],
+    [
+     49.4,
+     88.4
+    ],
+    [
+     49.6,
+     88.4
+    ],
+    [
+     49.6,
+     88.6
+    ],
+    [
+     49.6,
+     91.4
+    ],
+    [
+     49.6,
+     91.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7154,
+   "name": "Deadwood Gardener",
+   "coord": [
+    48.4,
+    89.4
+   ],
+   "coords": [
+    [
+     46.2,
+     89.4
+    ],
+    [
+     46.2,
+     89.8
+    ],
+    [
+     46.4,
+     88.4
+    ],
+    [
+     46.4,
+     90.6
+    ],
+    [
+     46.6,
+     88.4
+    ],
+    [
+     46.6,
+     88.6
+    ],
+    [
+     46.6,
+     90.4
+    ],
+    [
+     46.6,
+     90.8
+    ],
+    [
+     46.8,
+     91.8
+    ],
+    [
+     47.4,
+     92.6
+    ],
+    [
+     48.2,
+     94
+    ],
+    [
+     48.4,
+     89.4
+    ],
+    [
+     48.4,
+     89.6
+    ],
+    [
+     48.4,
+     91.4
+    ],
+    [
+     48.4,
+     91.6
+    ],
+    [
+     48.4,
+     92.6
+    ],
+    [
+     48.6,
+     89.4
+    ],
+    [
+     48.8,
+     90.4
+    ],
+    [
+     48.8,
+     92.6
+    ],
+    [
+     49.2,
+     91.4
+    ],
+    [
+     49.2,
+     91.6
+    ],
+    [
+     49.4,
+     88.4
+    ],
+    [
+     49.6,
+     88.4
+    ],
+    [
+     49.6,
+     88.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7155,
+   "name": "Deadwood Pathfinder",
+   "coord": [
+    48.4,
+    89.4
+   ],
+   "coords": [
+    [
+     46.4,
+     88.8
+    ],
+    [
+     46.4,
+     90
+    ],
+    [
+     46.6,
+     88.4
+    ],
+    [
+     46.6,
+     90.4
+    ],
+    [
+     46.6,
+     90.6
+    ],
+    [
+     48.2,
+     93.2
+    ],
+    [
+     48.2,
+     94
+    ],
+    [
+     48.4,
+     89.4
+    ],
+    [
+     48.4,
+     89.6
+    ],
+    [
+     48.4,
+     91.4
+    ],
+    [
+     48.4,
+     92
+    ],
+    [
+     48.6,
+     89.2
+    ],
+    [
+     48.6,
+     92.6
+    ],
+    [
+     48.8,
+     90.4
+    ],
+    [
+     49,
+     91.4
+    ],
+    [
+     49.2,
+     91.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7156,
+   "name": "Deadwood Den Watcher",
+   "coord": [
+    62.6,
+    10.2
+   ],
+   "coords": [
+    [
+     60,
+     6.6
+    ],
+    [
+     60.2,
+     6
+    ],
+    [
+     60.2,
+     8.2
+    ],
+    [
+     60.4,
+     8.6
+    ],
+    [
+     60.8,
+     5.8
+    ],
+    [
+     61,
+     9
+    ],
+    [
+     61.2,
+     10.8
+    ],
+    [
+     61.4,
+     7.4
+    ],
+    [
+     61.4,
+     7.6
+    ],
+    [
+     61.4,
+     10
+    ],
+    [
+     61.6,
+     6.2
+    ],
+    [
+     61.6,
+     7.4
+    ],
+    [
+     61.6,
+     11
+    ],
+    [
+     62.4,
+     7.6
+    ],
+    [
+     62.4,
+     9
+    ],
+    [
+     62.4,
+     10.4
+    ],
+    [
+     62.4,
+     12.4
+    ],
+    [
+     62.4,
+     12.6
+    ],
+    [
+     62.6,
+     6.4
+    ],
+    [
+     62.6,
+     7.4
+    ],
+    [
+     62.6,
+     7.8
+    ],
+    [
+     62.6,
+     10.2
+    ],
+    [
+     62.6,
+     10.6
+    ],
+    [
+     62.6,
+     11.8
+    ],
+    [
+     62.6,
+     12.6
+    ],
+    [
+     63,
+     9
+    ],
+    [
+     63.6,
+     6
+    ],
+    [
+     63.6,
+     6.6
+    ],
+    [
+     63.6,
+     8.4
+    ],
+    [
+     63.6,
+     9
+    ],
+    [
+     63.6,
+     11.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7157,
+   "name": "Deadwood Avenger",
+   "coord": [
+    62.6,
+    10.2
+   ],
+   "coords": [
+    [
+     60,
+     6.6
+    ],
+    [
+     60.2,
+     6
+    ],
+    [
+     60.2,
+     8.2
+    ],
+    [
+     60.4,
+     8.6
+    ],
+    [
+     60.8,
+     5.8
+    ],
+    [
+     61,
+     9
+    ],
+    [
+     61.2,
+     10.8
+    ],
+    [
+     61.4,
+     7.4
+    ],
+    [
+     61.4,
+     7.6
+    ],
+    [
+     61.4,
+     10
+    ],
+    [
+     61.6,
+     6.2
+    ],
+    [
+     61.6,
+     7.4
+    ],
+    [
+     61.6,
+     11
+    ],
+    [
+     62.4,
+     7.6
+    ],
+    [
+     62.4,
+     9
+    ],
+    [
+     62.4,
+     10.4
+    ],
+    [
+     62.4,
+     12.4
+    ],
+    [
+     62.4,
+     12.6
+    ],
+    [
+     62.6,
+     6.4
+    ],
+    [
+     62.6,
+     7.4
+    ],
+    [
+     62.6,
+     7.6
+    ],
+    [
+     62.6,
+     10.2
+    ],
+    [
+     62.6,
+     11.2
+    ],
+    [
+     62.6,
+     11.8
+    ],
+    [
+     62.6,
+     12.6
+    ],
+    [
+     63,
+     9
+    ],
+    [
+     63.6,
+     6.4
+    ],
+    [
+     63.6,
+     6.6
+    ],
+    [
+     63.6,
+     8.2
+    ],
+    [
+     63.6,
+     9
+    ],
+    [
+     63.6,
+     11.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7158,
+   "name": "Deadwood Shaman",
+   "coord": [
+    62.6,
+    7.6
+   ],
+   "coords": [
+    [
+     60.2,
+     6
+    ],
+    [
+     60.2,
+     7.4
+    ],
+    [
+     60.2,
+     8.2
+    ],
+    [
+     60.4,
+     8.6
+    ],
+    [
+     60.8,
+     5.8
+    ],
+    [
+     61,
+     8.2
+    ],
+    [
+     61,
+     9
+    ],
+    [
+     61.2,
+     10.8
+    ],
+    [
+     61.4,
+     7.4
+    ],
+    [
+     61.4,
+     10
+    ],
+    [
+     61.6,
+     6.2
+    ],
+    [
+     61.6,
+     7.4
+    ],
+    [
+     62.4,
+     7.6
+    ],
+    [
+     62.4,
+     9.2
+    ],
+    [
+     62.4,
+     10.4
+    ],
+    [
+     62.4,
+     10.6
+    ],
+    [
+     62.4,
+     12.4
+    ],
+    [
+     62.4,
+     12.6
+    ],
+    [
+     62.6,
+     6.4
+    ],
+    [
+     62.6,
+     7.4
+    ],
+    [
+     62.6,
+     7.6
+    ],
+    [
+     62.6,
+     10.2
+    ],
+    [
+     62.6,
+     11.2
+    ],
+    [
+     62.6,
+     12.6
+    ],
+    [
+     63,
+     9
+    ],
+    [
+     63.4,
+     11.6
+    ],
+    [
+     63.6,
+     5.8
+    ],
+    [
+     63.6,
+     6.6
+    ],
+    [
+     63.6,
+     8.2
+    ],
+    [
+     63.6,
+     9
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 9462,
+   "name": "Chieftain Bloodmaw",
+   "coord": [
+    62.6,
+    7.6
+   ],
+   "coords": [
+    [
+     62.4,
+     7.4
+    ],
+    [
+     62.4,
+     7.6
+    ],
+    [
+     62.4,
+     8.6
+    ],
+    [
+     62.6,
+     7.4
+    ],
+    [
+     62.6,
+     7.6
+    ],
+    [
+     62.6,
+     8.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 9464,
+   "name": "Overlord Ror",
+   "coord": [
+    48.2,
+    94
+   ],
+   "coords": [
+    [
+     47.4,
+     93.2
+    ],
+    [
+     47.4,
+     94
+    ],
+    [
+     48,
+     94.8
+    ],
+    [
+     48.2,
+     93.4
+    ],
+    [
+     48.2,
+     94
+    ],
+    [
+     48.4,
+     92.4
+    ],
+    [
+     48.6,
+     92.4
+    ],
+    [
+     48.6,
+     93.4
+    ],
+    [
+     48.6,
+     93.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 14342,
+   "name": "Ragepaw",
+   "coord": [
+    48.2,
+    92.2
+   ],
+   "coords": [
+    [
+     46.6,
+     91
+    ],
+    [
+     47.4,
+     92.4
+    ],
+    [
+     47.4,
+     93.4
+    ],
+    [
+     47.8,
+     93.8
+    ],
+    [
+     48.2,
+     92.2
+    ],
+    [
+     48.2,
+     92.6
+    ],
+    [
+     48.4,
+     91.4
+    ],
+    [
+     48.6,
+     91.4
+    ],
+    [
+     48.6,
+     92.4
+    ],
+    [
+     48.6,
+     92.8
+    ],
+    [
+     49.8,
+     89.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 2,
+   "id": 164882,
+   "name": "Cleansed Songflower",
+   "coord": [
+    40.2,
+    56.5
+   ],
+   "coords": [
+    [
+     40.2,
+     44.3
+    ],
+    [
+     40.2,
+     56.5
+    ],
+    [
+     45.9,
+     85.1
+    ],
+    [
+     52.8,
+     87.9
+    ],
+    [
+     55.8,
+     10.4
+    ],
+    [
+     63.9,
+     6.1
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 15,
+   "date": "2007-05-05T14:52:03-05:00",
+   "body": "Ok everyone the feathers are real just do what i say and you'll complete this quest...&nbsp; ok u dont get the quest..&nbsp; If u look it is a blue ? over his head ok&nbsp; (which means that it is repetable)&nbsp; ok still with me...&nbsp; which means you get the feathers and just come back and complete it...&nbsp; all right now pick up Deadwood of the North quest..&nbsp; ok then goto 62, 9 and around that area..&nbsp; do the Deadwood of the North quest and you should at least pick up 7 feathers...&nbsp; ok now you know how to do this quest and get the other one...&nbsp; Happy Hunting\n\nThenoob",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2021-01-21T02:04:49-06:00",
+   "body": "Step 1: Go into your keybindings and set a key for \"Interact with Target\"\r\nStep 2: Create this macro\r\n[code]/script SelectGossipAvailableQuest(1) \r\n/script AcceptQuest(1)\r\n/script CompleteQuest() \r\n/script GetQuestReward() \r\n[/code]\r\n\r\nWith Nafien targeted, hit your key for Interact, then hit your key for the macro. You may have to hit the macro key for each step of the quest dialog.  Still faster than clicking.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-04-08T01:25:39-05:00",
+   "body": "According to the game, they are just 2 meters down from the questgiver^^\nBut... i'm 49 and he doesn't lend me the quest... Do i need some rep with the faction be4 having the q?\nWith my main i've famed a lot of time ago, so i don't remeber^^",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-03-02T13:25:39-06:00",
+   "body": "You get the feathers off the dudes in the valley just to the west.&nbsp; Slow drop rate.&nbsp; Anyone know of a faster way to increase reputation with them?",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-05-17T18:42:27-05:00",
+   "body": "The drop rate is mediochre...&nbsp; they are there, keep killing",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-07-26T11:44:17-05:00",
+   "body": "Repeatable quest.\n\n5 feathers = 50 reputation and 550 XP.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-12-27T17:05:27-06:00",
+   "body": "2019 Classic does not require Timbermaw Ally, instead Deadwood of the North is required.",
+   "replies": [
+    "Well spotted. Wowhead have changed it now.",
+    "I did Deadwood a while back, I'm now back in the area trying to do this quest and Nafien isn't there at all...to turn anything into"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-02T13:25:39-06:00",
+   "body": "well according to thottbots npc lists, deadwood furbolgs do not exist",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-14T17:44:51-05:00",
+   "body": "ok. i did the deadwood to the north quest and i didn't get any feathers. So it's a terrible poor droprate. So you say i find seven doing the quest? i got none!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-02T18:38:28-06:00",
+   "body": "Where and who is this quest giver? And can ya get this quest with an unfriendly or worse rep with the Timbermaws?",
+   "replies": []
+  }
+ ]
+}

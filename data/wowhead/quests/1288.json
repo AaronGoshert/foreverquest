@@ -1,0 +1,70 @@
+{
+ "id": 1288,
+ "name": "Vimes's Report",
+ "level": 38,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": 15,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 285,
+ "start": null,
+ "end": null,
+ "patch": "1.13.2.31727",
+ "objectiveText": "Bring Vimes's Report to Lady Jaina Proudmoore in Theramore. Vimes's Report (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 6075,
+   "name": "Vimes's Report",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  1288
+ ],
+ "points": [],
+ "missingPoints": null,
+ "comments": [
+  {
+   "rating": 4,
+   "date": "2006-03-17T16:42:43-06:00",
+   "body": "This quest looks like it's a dud.  The report object was deprecated in a previous patch.\n\nA lot of the Theramore quests have an unfinished feel to them.  I'm pretty certain there were a lot of partially finished quests that weren't completed in time for release and were ripped out.  Blizard, being lazy, never put them back in.  This quest is one that just wasn't ripped out properly at the beginning and had to be taken out in a patch.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-04T21:57:05-06:00",
+   "body": "Do you get the report from him in the first place? I told him about things I found in the Shady rest Inn, footprints, shield, etc, but nothing I do ever leads to me getting a report. I tell him what I find, he says thanks, and thats it. Doesn't talk to me anymore. SUggestions?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-27T07:17:15-06:00",
+   "body": "Why are there so many quests that start in Dustwallow Marsh but are lsited as starting in Durotar?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-16T05:01:08-06:00",
+   "body": "Isn't there a series with the Deserters? I think maybe you have to do that as well, not sure, the whole area in Dustwallow seems to be rather... incomplete.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-25T17:28:17-05:00",
+   "body": "There's another quest, the orc report, or something like that. This friggin quest is such a pain.\n\nEdited, Mon Apr 25 14:15:06 2005",
+   "replies": [
+    "This report can be found in the little garden beside Swamp Eye Jarl's hut in Dustwallow Marsh. \n\n56,26 <--stolen from thottbot, tried it and cant find it, just the orc report, which doesnt lead to it -_-\n\nEdited, Mon Apr 25 14:30:39 2005"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-04-18T01:35:20-05:00",
+   "body": "I've completed all the quests I know of, that originate from the Shady Rest Inn. This includes the badge (Lieutenant Pavel Reethe, Daelin's Men, and The Deserters), the shield (The Black Shield), and the hoofprints (Suspicious Hoofprints). I've completed all three of this series to the best of my knowledge, and Vimes will not give me the \"Vime's Report\" quest. I'd very much like to know if anyone has gotten this quest, and how.",
+   "replies": []
+  }
+ ]
+}

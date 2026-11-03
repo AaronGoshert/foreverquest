@@ -1,0 +1,7 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Include file="ScrollBarTemplate.xml" />
+    <Include file="Core.lua" />
+    <Include file="AuctionHouse.lua" />
+    <Include file="GuideConfigurator.lua" />
+    <Include file="GuideImporter.lua" />
+</Ui>

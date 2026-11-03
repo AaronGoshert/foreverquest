@@ -1,0 +1,106 @@
+{
+ "id": 92479,
+ "name": "A Scribbled Letter",
+ "level": 1,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": -81,
+ "reqclass": 1,
+ "status": "new",
+ "xp": 40,
+ "start": {
+  "type": "npc",
+  "id": 197,
+  "name": "Marshal McBride",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    48.8,
+    41.4
+   ],
+   [
+    48.8,
+    41.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 248415,
+  "name": "Tordrin Sternblade",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    51,
+    40.4
+   ],
+   [
+    51.2,
+    40.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Read the Scribbled Letter and speak to Tordrin Stemblade in Northshire Abbey. Scribbled Letter (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 251941,
+   "name": "Scribbled Letter",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 197,
+   "name": "Marshal McBride",
+   "coord": [
+    48.8,
+    41.6
+   ],
+   "coords": [
+    [
+     48.8,
+     41.4
+    ],
+    [
+     48.8,
+     41.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 248415,
+   "name": "Tordrin Sternblade",
+   "coord": [
+    51.2,
+    40.8
+   ],
+   "coords": [
+    [
+     51,
+     40.4
+    ],
+    [
+     51.2,
+     40.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

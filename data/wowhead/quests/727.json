@@ -1,0 +1,205 @@
+{
+ "id": 727,
+ "name": "To Ironforge for Yagyin's Digest",
+ "level": 40,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 3,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 780,
+ "start": {
+  "type": "npc",
+  "id": 2785,
+  "name": "Theldurin the Lost",
+  "zone": "Badlands",
+  "zoneId": 3,
+  "coords": [
+   [
+    51.4,
+    76.4
+   ],
+   [
+    51.4,
+    76.8
+   ],
+   [
+    51.6,
+    76.4
+   ],
+   [
+    51.6,
+    76.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2786,
+  "name": "Gerrig Bonegrip",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    50.2,
+    7
+   ],
+   [
+    50.4,
+    5.4
+   ],
+   [
+    50.4,
+    6
+   ],
+   [
+    50.6,
+    5.4
+   ],
+   [
+    50.6,
+    6.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Give the Sigil of the Hammer to Gerrig Bonegrip in the Forlorn Cavern of Ironforge. Sigil of the Hammer (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 4648,
+   "name": "Sigil of the Hammer",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  727,
+  736,
+  737
+ ],
+ "points": [
+  {
+   "zoneId": 3,
+   "zone": "Badlands",
+   "point": "start",
+   "type": 1,
+   "id": 2785,
+   "name": "Theldurin the Lost",
+   "coord": [
+    51.4,
+    76.8
+   ],
+   "coords": [
+    [
+     51.4,
+     76.4
+    ],
+    [
+     51.4,
+     76.8
+    ],
+    [
+     51.6,
+     76.4
+    ],
+    [
+     51.6,
+     76.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 2786,
+   "name": "Gerrig Bonegrip",
+   "coord": [
+    50.4,
+    6
+   ],
+   "coords": [
+    [
+     50.2,
+     7
+    ],
+    [
+     50.4,
+     5.4
+    ],
+    [
+     50.4,
+     6
+    ],
+    [
+     50.6,
+     5.4
+    ],
+    [
+     50.6,
+     6.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 22,
+   "date": "2006-09-21T04:32:44-05:00",
+   "body": "Incorrect COORDS : 51,60 in Ironforge \n\nRight one is 51,10",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2007-03-04T20:31:00-06:00",
+   "body": "This quest follows the quest Solution to Doom (https://www.wowhead.com/forever/quest=709), which Theldurin should give to anyone of the appropriate level.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2005-12-03T04:32:44-06:00",
+   "body": "you do indeed need to complete solution to doom quest first, b4 getting this quest.&nbsp; \nI just completed solution to doom, and this quest was not offered prior",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-10-27T16:32:44-05:00",
+   "body": "i indeed could only get this quest after completing solution to doom",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-27T16:32:44-05:00",
+   "body": "do you have to complete [url=https://www.wowhead.com/forever/quest=940/teldrassil]solution to doom[/url] before receiving this quest? i was just looking for quests to do in badlands and came across this one, i found the guy but he only offered solution to doom. guess i'll find out when i complete that one",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-12-14T10:43:45-06:00",
+   "body": "He's located at 50,6 in Ironforge in the Forlorn Cavern.  This quest is one of the simpler ones in the chain, but don't get the wrong view of this chain.  It's pretty simple, but the reward for the quest is amazing :).",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-15T16:32:44-05:00",
+   "body": "what are the coordinates",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-04T17:12:06-06:00",
+   "body": "I cant get this quest from him>< Hes only giving me a quest for Uldaman.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-31T18:50:09-06:00",
+   "body": "I cant take the Quest either. Im level 42, and i only get the Quest for Solution to Doom.\r\n\r\nAnyone know why?",
+   "replies": []
+  }
+ ]
+}

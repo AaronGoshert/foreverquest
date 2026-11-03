@@ -1,0 +1,1133 @@
+{
+ "id": 1712,
+ "name": "Cyclonian",
+ "level": 40,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": -81,
+ "reqclass": 1,
+ "status": "unchanged",
+ "xp": 2350,
+ "start": {
+  "type": "npc",
+  "id": 6176,
+  "name": "Bath'rah the Windwatcher",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    80.2,
+    62.6
+   ],
+   [
+    80.4,
+    66.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 6176,
+  "name": "Bath'rah the Windwatcher",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    80.2,
+    62.6
+   ],
+   [
+    80.4,
+    66.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring the items on Bath'rah's Parchment to Bath'rah the Windwatcher in Alterac. Liferoot  ( 8 ) Bloodscalp Tusk  ( 30 ) Essence of the Exile  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 6929,
+   "name": "Bath'rah's Parchment",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3357,
+   "name": "Liferoot",
+   "count": 8,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3901,
+   "name": "Bloodscalp Tusk",
+   "count": 30,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 6851,
+   "name": "Essence of the Exile",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Liferoot",
+   "count": 8,
+   "type": "item",
+   "id": 3357
+  },
+  {
+   "text": "Bloodscalp Tusk",
+   "count": 30,
+   "type": "item",
+   "id": 3901
+  },
+  {
+   "text": "Essence of the Exile",
+   "count": 1,
+   "type": "item",
+   "id": 6851
+  }
+ ],
+ "series": [
+  1791,
+  1712,
+  1713
+ ],
+ "points": [
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 6176,
+   "name": "Bath'rah the Windwatcher",
+   "coord": [
+    80.4,
+    66.8
+   ],
+   "coords": [
+    [
+     80.2,
+     62.6
+    ],
+    [
+     80.4,
+     66.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 6176,
+   "name": "Bath'rah the Windwatcher",
+   "coord": [
+    80.4,
+    66.8
+   ],
+   "coords": [
+    [
+     80.2,
+     62.6
+    ],
+    [
+     80.4,
+     66.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 13217,
+   "name": "Thanthaldis Snowgleam",
+   "coord": [
+    39.4,
+    81.6
+   ],
+   "coords": [
+    [
+     39.4,
+     81.4
+    ],
+    [
+     39.4,
+     81.6
+    ],
+    [
+     39.6,
+     81.4
+    ],
+    [
+     39.6,
+     81.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 247016,
+   "name": "Suffused Treant",
+   "coord": [
+    16.7,
+    63.5
+   ],
+   "coords": [
+    [
+     15.7,
+     73.3
+    ],
+    [
+     15.8,
+     73.5
+    ],
+    [
+     16,
+     72.4
+    ],
+    [
+     16.1,
+     70.4
+    ],
+    [
+     16.1,
+     70.5
+    ],
+    [
+     16.1,
+     70.6
+    ],
+    [
+     16.3,
+     70.2
+    ],
+    [
+     16.5,
+     70.4
+    ],
+    [
+     16.7,
+     63.5
+    ],
+    [
+     16.8,
+     63.4
+    ],
+    [
+     16.8,
+     70.8
+    ],
+    [
+     17,
+     70.9
+    ],
+    [
+     17.1,
+     66.2
+    ],
+    [
+     17.2,
+     65.3
+    ],
+    [
+     17.3,
+     64.6
+    ],
+    [
+     17.4,
+     64.4
+    ],
+    [
+     17.5,
+     64.5
+    ],
+    [
+     17.6,
+     71
+    ],
+    [
+     17.6,
+     71.1
+    ],
+    [
+     18.2,
+     64.5
+    ],
+    [
+     18.5,
+     69.2
+    ],
+    [
+     18.8,
+     68.1
+    ],
+    [
+     18.8,
+     69.1
+    ],
+    [
+     18.9,
+     68.3
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "sourcerequirement",
+   "type": 2,
+   "id": 2855,
+   "name": "Solid Chest",
+   "coord": [
+    59.9,
+    43.4
+   ],
+   "coords": [
+    [
+     38.6,
+     47.1
+    ],
+    [
+     39.8,
+     52.9
+    ],
+    [
+     41.4,
+     40
+    ],
+    [
+     42.4,
+     48
+    ],
+    [
+     42.5,
+     47.8
+    ],
+    [
+     47.4,
+     34.9
+    ],
+    [
+     47.5,
+     34.9
+    ],
+    [
+     59.9,
+     43.4
+    ],
+    [
+     59.9,
+     43.5
+    ],
+    [
+     61.1,
+     43.9
+    ],
+    [
+     61.3,
+     43.1
+    ],
+    [
+     61.6,
+     40.4
+    ],
+    [
+     61.6,
+     40.5
+    ],
+    [
+     61.6,
+     45.7
+    ],
+    [
+     62.7,
+     40.6
+    ],
+    [
+     63.1,
+     43.4
+    ],
+    [
+     63.3,
+     44.1
+    ],
+    [
+     63.4,
+     45.2
+    ],
+    [
+     63.5,
+     45.2
+    ],
+    [
+     63.6,
+     43.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "sourcerequirement",
+   "type": 2,
+   "id": 2857,
+   "name": "Solid Chest",
+   "coord": [
+    39.5,
+    15.2
+   ],
+   "coords": [
+    [
+     35.2,
+     53.4
+    ],
+    [
+     35.3,
+     54
+    ],
+    [
+     35.5,
+     53
+    ],
+    [
+     35.5,
+     54.2
+    ],
+    [
+     35.8,
+     55.7
+    ],
+    [
+     36.2,
+     55.1
+    ],
+    [
+     37.4,
+     15.3
+    ],
+    [
+     37.5,
+     15.3
+    ],
+    [
+     38.7,
+     14.9
+    ],
+    [
+     39.5,
+     15.2
+    ],
+    [
+     40.3,
+     20.4
+    ],
+    [
+     40.4,
+     20.5
+    ],
+    [
+     47.5,
+     17.1
+    ],
+    [
+     53.6,
+     21.1
+    ],
+    [
+     56.3,
+     27.1
+    ],
+    [
+     56.5,
+     27
+    ],
+    [
+     58.4,
+     30.4
+    ],
+    [
+     58.4,
+     30.5
+    ],
+    [
+     58.5,
+     30.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "sourcerequirement",
+   "type": 2,
+   "id": 105570,
+   "name": "Alliance Strongbox",
+   "coord": [
+    18,
+    77.2
+   ],
+   "coords": [
+    [
+     14.9,
+     75.3
+    ],
+    [
+     17.7,
+     56.5
+    ],
+    [
+     18,
+     77.2
+    ],
+    [
+     20,
+     57.3
+    ],
+    [
+     21.7,
+     59.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "sourcerequirement",
+   "type": 2,
+   "id": 105579,
+   "name": "Alliance Chest",
+   "coord": [
+    14.9,
+    75.3
+   ],
+   "coords": [
+    [
+     11.7,
+     73.9
+    ],
+    [
+     12.4,
+     79.4
+    ],
+    [
+     12.5,
+     79.3
+    ],
+    [
+     12.5,
+     79.5
+    ],
+    [
+     14.9,
+     75.3
+    ],
+    [
+     17.7,
+     56.4
+    ],
+    [
+     17.7,
+     56.5
+    ],
+    [
+     18,
+     77.1
+    ],
+    [
+     19.9,
+     57.6
+    ],
+    [
+     20,
+     57.4
+    ],
+    [
+     21.4,
+     62.3
+    ],
+    [
+     21.4,
+     62.5
+    ],
+    [
+     21.5,
+     62.4
+    ],
+    [
+     21.7,
+     59.4
+    ],
+    [
+     21.7,
+     59.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 119,
+   "date": "2006-10-28T13:51:40-05:00",
+   "body": "You create the Essence of the Exile by collecting these items from elementals in Arathi Highlands:\r\n\r\nhttps://www.wowhead.com/forever/item=4479 - Burning Charm (8)\r\nhttps://www.wowhead.com/forever/item=4481 - Cresting Charm (8)\r\nhttps://www.wowhead.com/forever/item=4480 - Thundering Charm (8).\r\n\r\nOnce you have them, right click the cauldron near Bath'Rah, and you will receive the Essence of the Exile.",
+   "replies": [
+    "Thanks, this is the info I came for and you presented it very well."
+   ]
+  },
+  {
+   "rating": 43,
+   "date": "2005-10-26T07:11:39-05:00",
+   "body": "[b]Circle of West Binding[/b]\n25,31\n\n[b]Circle of Outer Binding[/b]\n52,51\n\n[b]Circle of East Binding[/b]\n62,34",
+   "replies": [
+    "62,34 is the /tloc for the quest \"Princess Trapped\".\n66,30 is the /tloc for the East Circle of Binding."
+   ]
+  },
+  {
+   "rating": 41,
+   "date": "2005-06-27T18:13:10-05:00",
+   "body": "The elementals needed are found in Arathi Highlands as mentioned. There are 3 different druid rings, or stonehenges for that matter, that you need to go to.\n\nThe 4th, and southmost, contains earth elementals that you do NOT NEED. Go to the others and get the burning, crescent and thundering charms of the elementals. Need 8 of each !\n\nThis part of the quest is NOT soloable at 30 or the low 30's. The elementals are pretty tough even when you're equal level with them. Get a friend to help or use an alt char. thats 40+ to farm them easily.\n\nThe Bloodscalp tusks you find at the Bal'lal ruins north of Grom'gol (sp?) (Horde outpost in Stranglethorne anyways). Follow the beach north out of the camp, and swim around any crocs to get there safely.\n\nI tried this part myself at 30 and found it very difficult and slow going. You need 30 tusks and the drop rate is rather crappy, so takes quite a few trolls to get them all. I left out of boredom and getting killed a bit too often, then returned at 32 and killed them relatively easy. Short break to get health up between each kill. Best way to get the tusks is to NOT pull the ones inside the ruins (if you are solo anyhow) but follow around the outskirt of the ruins. There are trolls located all the way around the ruins, and these are all single-pulls and lvl 33-34, mix of shaman, axe throwers and warrios. Shamans being the beotch of the three with their flame blast ~_~\n\nAnyhow, hope this helps... I'm off to turn in the quest and try for the last part... probably die, but hey, thats what warriors do best.. right?\n\nGood luck and have fun !\n\nKarzumk, Freelancing Warrior of 32 levels (and rising !) ~Aszune Server~",
+   "replies": []
+  },
+  {
+   "rating": 28,
+   "date": "2005-10-26T07:11:39-05:00",
+   "body": "Tricky, but can be done starting in the mid-30's.\n\nThe trolls you need to harvest the tusks from are only Level 33 and 34, but they are hard to pull from each other. The drop rate was low, took roughly an hour and a half to get the 30 tusks required (probably about 200 kills). The Shaman are very nasty and almost brought me down as a Level 36 several times just soloing.\n\nThe crests can either be harvested in Arathi Highlands via an alternate, or purchased at the AH.&nbsp; They aren't necessarily a quest item, so they aren't soulbound. Burning Exiles located at the West Circle of Binding, Cresting (Water) Exiles at the one to the North-northeast of Refuge Point, and Thundering Exiles east of Refuge. Make sure you don't accidentally use the charms on the other exiles. Save them.\n\nLiferoot can be found on the Kurzen Medicine Men (Level 33, Caster/Paladin type mobs) located just east after entering STV from the north. You can also purchase it very cheaply at the AH.\n\n[i]Pilot, Elysian Conclave, Lightbringer[/i]",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2019-11-04T21:27:49-06:00",
+   "body": "[b]Items you will need for your Whirlwind Weapon:\r\n[ul]\r\n[li]8 x [url=item/4479]Burning Charms[/url] Auction House or Arathi Highlands | 26,26[/li]\r\n[li]8 x [url=item/4481]Cresting Charms[/url] Auction House or Arathi Highlands | 67,30[/li]\r\n[li]8 x [url=item/4480]Thundering Charms[/url] Auction House or Arathi Highlands | 50,53[/li]\r\n[li]8 x [url=item/3357]Liferoot[/url] Auction House / Herbalism[/li]\r\n[li]30 x [url=item/3901]Bloodscalp Tusks[/url] Stranglethorn Vale | 25,10[/li][/b]\r\n[/ul]",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2006-01-07T07:11:39-06:00",
+   "body": "This quest really gave me a headache but it was worth it and i had fun\n\nFirst Find The Guy: The guy that gives you this quest really easy to find just jump into the main big river there that heads north up to chillpoint then hes in the ruins on the left hes a troll under a tent hes easy to spot. The Cor. are 80,67 not acurate but thats more of a area hes really close from there you have to take the river to swim all the way up to Alterac Mountains so yeh\n\nSecond Collecting Items: First I decided to get the charms which makes the Essence of the Exile, first from the three elements fire, water, and thunder theres one more element but u dont need to get anything from them and thats earth. FIRE is in the Circle of west binding just a lil farther from the wall into the Highlands the things that drop for the Essence of the Exile is called Burning Charm and these charms dont drop so easy so it might take you a little while. THUNDER is near the refuge pointe just east of it same thing with fire these dont drop easy. WATER is a little north east from Darbyries Farmstead. All the creatures u kill for the charms are lvl 38 or 39 just have some friends help you that will be alot faster. Now I got the Tusks this was the worst/ funest part of the quest they drop from any bloodscalp such as warrior,shaman, or axe thrower these dont drop each kill so u have to kill a few most gayest part of this quest is that theres a bunch of horde there so watch out i got them with 2 lvl 60's one to protect and one to kill the bloodscalp died alot there -.- well yeh. The Liferoot is the easiest you just buy them at AH you can buythe charms there too but i rather get the exp just to say. Finally to Make the Essence of the Exile you go where the guy who gave u the quest and he has a little pot where you go to and you just put the charms in like if u where collecting any other items on a quest then it makes the Essence of Exiles \n\nThird Killing The Whind Person: Next part make sure u get some help to kill this lvl 40 elite because im not sure if u have to recollect all these items again -.- so becareful i tryed to look for someone in IF to help but no one did so i decided to look for some help closer to there so i went to southshore and i find a lvl 55 and he gladly helped and when we got done we found a lvl 50 horde i was thinking hell yes a way to test this axe out damn that #$%^ can deal damage he was a shammy and he cept using the polls to slow us down but i hamstringed him and then charged at him again so yeh then the lvl 55 pally used his throwable axe and tjhats the quest :D\n\nHappy Owning\n\n(sorry i had to edit this again it was really sketchy cuz i was in a rush last time so sorry and hope this helps a lil better",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2005-01-29T01:20:54-06:00",
+   "body": "i would reccomend either getting a friend with herbalism to hook you up with the liferoots or buy them.  I killed a bunch of them to no avail and According to this site they have a less then 1 percent drop rate off the withervines.",
+   "replies": [
+    "I know I can get the Liferoot at a vendor close to where I am, unless the information is wrong.  I have  8 of the Bloodscalp Tusks.  I am not sure where to get the Essence of the Exile.  Do you create this yourself at the cauldron where the recipe is or what?  I have 8 of each of the charms.  \n\nI really want to get the Whirlwind Axe.  I have a cruddy 20.3 DPS axe now.  there are no others available.  The only two chances I had at getting a better one (Corpsemaker) were stolen by mages.  So, instead of running RFK for the umm-teenth time, I find it easier to get these items and pay soem high le",
+    "Liferoots drop from the medicine men at Kurzen's Compound in STV.  Had other quests there, and they dropped these pretty often.  Good way of killing two birds with one axe."
+   ]
+  },
+  {
+   "rating": 8,
+   "date": "2005-10-26T07:11:39-05:00",
+   "body": "You can pick up another quest called Bloodscalp Ears from Kebok in Booty Bay. You have to collect 15 ears from the same mobs that give you the tusks. It makes it more worthwhile when you can do 2 quests at the same time. Gives about 2000 xp.\n\nCharms are usually available at the AH. Don't select a catagory, just type in \"charm\" and search. Usually a few will come up for around 25-50s each. Might take several visits to get them all.\n\nAs previously mentioned, liferoot is readily available at the AH. It is also all around where the quest is given, so if you can get a hold of an herbalist, he can pick up 4 or 5 in a few minutes right along the river bank.",
+   "replies": [
+    "I'm adding directions for finding Kebok because it took me so much time to find him.&nbsp; From the Griffin Stop, go down the stairs in the Griffin building, come out the door and make an immediate left (you can't see the path until you get near the edge because it's such a steep descent).&nbsp; Follow the path and you'll bump into him when you enter the building (there are no other options as long as you don't jump over the side)"
+   ]
+  },
+  {
+   "rating": 8,
+   "date": "2021-04-12T09:08:21-05:00",
+   "body": "Incredible easy to do with [item=6052]. As a lvl 38 arms, grabbed a coupe of potions (use one before summoning to reset cd), then let the troll summon Cyclonian while you build up charge with a nearby turtle.\n\nJust keep spamming [spell=15502] then [spell=78]. When your first pot runs out (around ~50% or so) use the other one and finish him. Try to face him with your back agains a wall or something for the push ability.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-08-14T07:11:39-05:00",
+   "body": "I made the mistake of waiting. I was level 37 when i got it and i still kept it tilll level 43. If you hurry up and get it done in your low 30s, you have a weapon that willl be good until after you have your mount. DONT WAIT! do almost anything you can to get some help. A level 60 helped me, but just get help any way you can. I also suggest checking the AH any time you can. I bought everything I could from AH np and i had very little money. Just make sure you DO NOT WAIT! No matter what you think, that its a waste of time, that its not going to be worth it, but it is NOT a waste of time and it IS worth it. I still regret it. Do anything you can like offering to pay people to help you and stuff. DONT WAIT! GET IT DONE!",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-01-27T13:26:45-06:00",
+   "body": "....if you die fighting the cyclonian you dont have to start over. Just abandon the summoning quest and go back to the hut and you can do it again.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-26T07:11:39-05:00",
+   "body": "You Get Liferoot from AH, or if your herbalist go around and look for it.\nYou get Tusks from STV around the Runes\nand get The Crests from Arathi :).",
+   "replies": [
+    "From three of the circles ... Circle of West Binding, Circle of East Binding and Circle of Outer Binding. \n\nAll three circles are North of the East/West road.\n\nThere is a fourth Circle located south of the road, Circle of Inner Binding with the Earth Elementals, gives you nothing for this quest."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-26T07:11:39-05:00",
+   "body": "I beat up on the withervine beasts in Dustwallow marsh for an hour and not a single liferoot dropped.&nbsp; I even saw liferoot growing in the area.&nbsp; I accidentally found the similarly looking beast in northwest Swamp of Sorrows dropped liferoot.&nbsp; I got all I needed there.&nbsp; \"Withervine beast\" is a bit of a misnomer.&nbsp; There are several 'swamp beasts' with 'withervine' in the front of their name.&nbsp; None of them dropped liferoot for me.\n\nBloodscalp tusks are obtained from the trolls of that name in the northwest corner of Stranglethorn Vale.&nbsp; Head northwest of Nesingwary's Encampment.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-02-12T19:11:39-06:00",
+   "body": "Guys, if you want to take down the trolls go to stranglethorn vale, northeast of Grom Gol base camp just west of Nestingwarrys Expd. you will find a nice grouping of level 33-34 Trolls. The drop rate is like 1-2.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2019-09-03T20:30:20-05:00",
+   "body": "The hard part is naturally the charm farming. 8 of each are needed, [item=4480], [item=4479] and [item=4481].\n\nI was able to [i]solo farm[/i] the mobs needed for the charms at level 36, as Arms warrior, but it was tight. You will almost die on every single one, so bring lots of food.\nBuffs of different kinds are highly recommended if you want to attempt to solo them at that level. You can probably do it at level 35 as well if you only go after the level 38 mobs.\n\nSome solo thoughts:\nEach mob has their own difficulty. [npc=2761] will slow you and your attack speed, [npc=2762] is also a caster so you can't run away as easily, and [npc=2760] just does a lot of damage. They are not affected by bleeds so [spell=772] is out. [spell=1160] is highly recommended. As an escape you always have [spell=26141], so use that and run if you need to reset. I just used simple [spell=25710] spam while keeping buffs/debuff up, as I found that using [spell=12862] worked poorly due to channeling pushback.\n\nIf you can group for them then do so. The other person(s) can take the various elemental parts they drop as rewards, as those can fetch a nice price on the AH.",
+   "replies": [
+    "Can confirm. Possible to solo. Was there as lvl 35 and killed a few until my guildmates joined. Ask for help. If you are 2-5 Players you can even do this at Level 30+, right when you get the quest. There is always lots of players at the spawn place for the Boss as well, that can help to kill him. Just go there and wait for someone who also needs the quest."
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-26T07:11:39-05:00",
+   "body": "The quest is given at lvl 30 but is not doable alone untill 40ish. The elementals are pretty hard at lvl 38-39 not to mention the 40 elite creature you have to kill for the heart. I finnished the quest at lvl 38 with the help of another 38 warrior + a healer for the elite (not neaded though). \n\nHowever, you are able to use the weapon you recieve from the quest at the time you get it (30). You should therefor get a highlvl friend to help you collect the tusks and see if u can buy the charms at AH (or your friends help you with that as well) Then kill the elite and have a weapon as good as any lvl 44 green one at lvl 30. U will kick ass! \n\nI just hope they get a quest like this one at lvl 50 where you get the arcanite champion or another great sword.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-02-12T19:11:39-06:00",
+   "body": "If you have the time and/or the money, this is easy. \nSure, there's no buying the tusks, but you can make it go faster. I went to the Zuuldaia Ruins, just South of the Zul'Kunda Ruins. There were some good 36+ trolls there. An hour and a half, 30 tusks. Combined with the quest Bloodscalp Ears from Booty Bay, and you have yourself a good time with even more xp.\n\nFor the Liferoot, I was walking in the Darkmoon Faire, and one of the ladies was selling two. I picked 'em up immediately. Then I bought a stack of Liferoot from the Auction House, picked what I needed, and sold the rest back.\n\nThe charms were a bit harder. The Thundering Exiles and the Burning Exiles were easy to kill with a Priest by me, but solo at lower than 35, and you might have some trouble. Bring a friend.\n\n[b] My advice: Buy the Cresting Charms. They are rare, and I am not patient. [/b]\n\nMore good tips:\n\nCombine this with other quests, such as the Singing Blue Shards and Bloodscalp Ears, or the Haunted Isle/Water Elementals. Kill many birds with one stone. \n\nWatch out for Horde if you are an Alliance on a PVP server. It is close to Grom'Gol and there are usually level 60's running around.\n\nSoloing is usually the best for the tusks unless they are too high for you. Good xp, plus some cloth.\n\nLiferoot grows along the river banks near the quest giver.\n\nThey respawn quickly (Bloodscalps). Watch out.\n\nHave fun, \nKaydaa.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-06-02T07:11:39-05:00",
+   "body": "u can get all the liferoot in AH\n\nu can get the charms in AH or off the elementlesin arathi highlands\n\nand last u can get the blood scalp tusks in STV of the bloodscalp shamans,warriors,and the other ones.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2019-12-02T15:57:29-06:00",
+   "body": "Burning charms are impossible to farm on classic atm. The burning charm area is like a warzone on its own, always horde and alliance 60s fightning over Elemental Fire drops, atm they go for 7.5g each and have decent drop chance so all elementals get spawn killed by your own faction's 60s even if you don't get killed by the other faction's 60s. I've been trying to farm the burning charms for a couple days with no luck, even at kinda \"dead\" hours the area is always contested. Just go to your auction house and pray that they're decently priced (got them at ~60 silver).",
+   "replies": [
+    "they are actually the easiest since all you have to do is ask the guy who is farming them to give them to you :)"
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2020-02-16T12:09:34-06:00",
+   "body": "Bath'rah's Cauldron is at 79, 66",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-03-21T07:11:39-06:00",
+   "body": "My lvl 37 warrior tried to solo cyclonian, because I was dumb and didn't check here first to see that he is elite.&nbsp; Anyway, I wiped and went to go abandon the quest . . . but it wasn't in the log.&nbsp; Freak out ensues.&nbsp; \"What!&nbsp; I'm gonna have to collect all those items again!&nbsp; What a pain in the <bleep>!\"\n\nWell, I have the cosmos/khaos addons and was looking in that PartyQuest log.&nbsp; When I just looked at the regular log by clicking on the quest log tab at the bottom of my screen, it was there and I could abandon it.&nbsp; Yippee!\n\nJust wanted to put that out there in case any of you freak about having to re-try the last part of the quest.&nbsp; You can abandon and re-do without having to get all that stuff again.&nbsp; Just avoid the khaos version of the quest log since that is currently bugged on the failed quests.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-26T07:11:39-05:00",
+   "body": "The Lore Tauren (the one with the doggy) in Freewond post will occasionally sell you liferoot.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-12-01T19:11:39-06:00",
+   "body": "There is one point that can't be made enough here... while it may be possible to purchase these charms; use and ALT or friend to acquire them or even other means; the grind gets you two things:\n\n- XP\n\n- Elemental Fire, Water and Air\n\nEven if you don't need these items, there are plenty of Alchemist, Herbalists and Enchanters who do.\n\nIf you need the cash, this is a great way to get it; and to validate my point... you'll find plenty of folks doing the grind on nearly any elemental area. Good luck!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-21T07:11:39-06:00",
+   "body": "this quest is BS if you are alliance on a pvp server without a high lvl escort, everywhere I turned horde 10+ lvl above me would gank me. I died at least 40 times at the hands of horde that were skulls to me while trying to do this.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-08T19:11:39-05:00",
+   "body": "So I got the liferoot from a guildie and easily solo'd the bloodscalp guys (I accidentally stumbled upon their area omw to nessingwary's camp, just go south of Grom'Gol). But I'm having trouble with the charms. I tried to solo them but kept getting wiped. I eventually got help from a 41 mage and It still took us 2 hours to get 8 cresting charms. I think this is just ridiculous. Is there an easier way to get the charms at lvl 34 without having to buy them at AH?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-10-26T07:11:39-05:00",
+   "body": "I'm a 39 undead warrior on Mug'thol, been trying to get the burning charms. I've got one, but there's always some lvl 60 Ally there, and it's a long-ass walk from Hammerfall. I wonder if it's actually closer to Tarren Mill? How much do these go for at the AH?\n\nAlso, before killing the Bloodscalp trolls in STV, pickup the Bloodscalp Ear quest from Kebok in Booty Bay:\n\nhttps://www.wowhead.com/forever/quest=189/bloodscalp-ears",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-01-17T01:57:23-06:00",
+   "body": "Lower Level for this as well. I believe my wife's warrior got this at 30, but we did not complete the whole quest till we were both 37.\n\nEdited, Sun Jan 16 20:03:44 2005",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-10-10T05:57:26-05:00",
+   "body": "So the short version should be.\n\nArathi Highlands: Monster lvl 38-39\nCresting Charms x8, Circle of East Binding 62,34.\nThundering Charms x8, Circle of Outer Binding 52,51.\nBurning Charms x8, Circle of West Binding 25,31.\nAfter you get all the Charms head back from where you get the quest. There is a small pot, use this and you will get the Essence of the Exile.\n\nStranglethorn Vale: STV - North of Booty Bay, Easten Kingdoms.\n-Liferoots, medicine men at Kurzen's Compound 47,9. lvl 32-34.\nBeware the droprate are very very low 1 of 10-15.\n-The Bloodscalp tusks, Bal'lal ruins north of Grom'gol.\nBloodscalp Shamans have the highest droprate. Trolls lvl 34-35.\nTook me about 2H, the droprate are 1 of 5-10.\n\nAfter all readings from the contributions and from my own experience.\n\nMade the charms part easily with some extra help from a Hunter lvl 36 and a druid lvl 35 including myself Warrior lvl 34.\n\n[i][small]Edited, Oct 12th  2006 at 12:01am PDT by Pinguz[/small][/i]",
+   "replies": [
+    "Ok, maybe a dumb question, maybe not - how am I supposed to know that Essence of Exile = all those charms?  How did you all figure that out?  If I didn't come here out of desperation, I never would have known this.  Or is it plain as day and I'm just not seeing it?\n\nJanelleorama",
+    "When you accept the quest you're given an item called \"Bath'rah's Parchment\".  If you read that it explains exactly what you need to do.\n",
+    "D'OH!  I never did read it.  I read the first page and didn't see the \"next\" button at the top to turn the page.  Thank you so much!  ",
+    "D'OH!  I never did read it.  I read the first page and didn't see the \"next\" button at the top to turn the page.  Thank you so much!  ",
+    "What are the monsters to kill, the yeti?"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-05T14:54:48-05:00",
+   "body": "This quest could span over a week or so because  even at lvl 40, it can be hard.  So far, I've collect the liferoots by buying them from an herbalist for 20s (ask around, because the AH will be very expensive, around 2g), then a great lvl 60 friend helped me kill the elementals for the charms.  The tusks aren't as hard as people make them seem, even a level 33 could probably solo this part fine.  The tusks are actually not a bad drop rate (maybe 1 in 3 kills), but it seems like a bad drop rate because you need 30 of them.  This part could easily take about an hour and hour and a half, but not very long.\n\nI would also recommend getting a lvl 60 to help you kill Cyclonian (should be easy to find one because it only takes a second).\n\n-Level 32 Night Elf Warrior (FIRETREE)\n\nEdited, Mon Sep  5 23:38:17 2005",
+   "replies": [
+    "I was able to solo the Trolls at lvl 30 and dinged to 31. (Dwarf)Expect to die lots, Horde and Alliance roam just as free in these parts. \n\nPiece of advise though, Break every rule and if you don't want to be ganked (as often), it can pay to help the opposite facton kill a mob. Buy's you a bit of respect and questing time... Well it worked for me, especially when I was surrounded by 3, x2 Shaman and a rouge. "
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-02T16:27:25-05:00",
+   "body": "Did this last night....\n\nI bought a stack of liferoots at the AH for not TOO much.  Then i got thetusks in STV with a level 34 guildie.  Then for me i just had a level 60 warrior help me with the crests and to kill the Cyclonian.\n\neasy with help =)\n\ndid at level 30, and got the Axe....looks awesome might i Ad",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-23T00:10:16-06:00",
+   "body": "the bloodscalp tusks are the hardest part cuz it takes so long to gather them unless ur with ahigh lvl then they jus drop dead.\n\nso jus ask around for help it will come eventually\n\nima lvl 31 warrior i got all of the charms all the life root and 20 tusks away.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-07T06:36:21-05:00",
+   "body": "Have all the stuff necessary, but cant create an essence of exile.\nwhere do i find this damn cauldron?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-27T13:24:36-06:00",
+   "body": "2 things should be noted about this quest if you choose to solo it. (1)I completed it at lvl 37 and found the fire elementals, from which you get the burning charms, are not soloable cause of the constant fire damage they do.  The other elementals can be soloed.(2) The Cyclonian was a lvl 40 elite air elemental much like the thunderwings...but Much tougher.  I was unable to solo it...a lvl 43 warrior helped me. I my opinion everything else can be soloed.  Good luck.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-17T10:32:00-05:00",
+   "body": "Be sure to pick the right circles: The circle of inner binding DOES NOT drop any of the charms. I made the mistake of standing there for an hours swearing about the lack of drops until my thinkheaded skull realised it was no use :-)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-31T06:07:14-06:00",
+   "body": "The cresting charms are in Arathi Highlands.  You must go to each circle and there will be three different kinds of elemental exiles. The cresting exiles drop the cresting charm, thundering ex drop thun charm, and burning ex drop burning charm. The burning exiles are a little tough to solo, but I did just fine.  Just keep bandages on hand.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-31T13:01:27-05:00",
+   "body": "As you can imagine, being on a PvP-server takes this quest up a notch. \n\nThe Charms are easy, I bought 8 Burning Charms and 3 Cresting Charms at AH and got the rest with a lv59 Priest guildsmate. The elementals are lv37-39 if I remember correctly.\n\nThe Liferoots you can buy at AH, or as a herbalist just collect then by the river at Hillsbrand.\n\nThe Bloodscalp Tusks... I hated that. It was just pure hell. First I went there with a lv38 warrior guildy, but we got only a few because this same lv40 human rogue was corpsecamp/ganking us, so we called it quits for a while and I went offline.\nRound 2. We got more reinforcements from our guild, a lv41 mage and a lv47 warrior. At this point it was easy: The lv41 and lv47 kept the area clear from alliance while me and the lv38 gathered the tusks.\nBe warned, these tusks AREN'T what you'd call a common drop. We got them like one per five trolls, and for the last one we had to kill 10-15 of them.\n\nDid this at lv30, I might add.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-27T04:20:46-06:00",
+   "body": "I soloed the whole quest at lvl 38 with no problems except the elite cyclonian in the end.  It took me 3 tries, but I did it solo.  The most difficult part was the elite and you need at least two healing potions to get you through him.  Just hamstring him and haul butt until the two min cooldown has worn off. good luck.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-03T13:07:18-05:00",
+   "body": "I just finished the Troll Tusks in about an hour. I went to the ruins just south of Nessingwary's Camp. I remember this tactic from my other warrior. Eat at the edges (outside the ruins) and you can almost get into a patern of hitting the respawns perfectly. I was lucky as i was doing this at 4am, so very little annoyances from the alliance. I also picked up another quest in Booty Bay Bloodscalp Ears (goblin in top story of inn near the Flight Station [b]For The Horde[/b]) as well as Investigate the camp (gob next to him). Sometimes the ears and tusks both dropped off the same trolls.\n\nI already had some of the charms saved and got the herbs off of the AH.\n\nOne last note, i found the southern ruins more difficult, just because of the higher level mobs there so thats why i figured the northen ruins, much easier.\n\nHope this helps.\n\nEviscera\nlvl 38 warrior\nlightbringer",
+   "replies": [
+    "The next day i went and got the thundering charms doing a circular pattern. Luckily i had gotten a +10 nature resistance hammer which helped. Took about 30 minutes to get 8 of them, though they didnt drop much at first.\n\nI read a post on this quest and decided to try and solo it at lvl 38. Nature resistance potions x2, 1 greater agility, one defense, on ogre's strength, one stamina II scroll, well fed, and just for kicks dragonbreath chili.\n\nI used a 2H lvl 37 Hammer with +20 strength and the +10 nature resistance as well as +5 dmg enchant.\n\nI finished him with maybe 20% life left. I realise t",
+    "Just a nature protection potion makes all the difference. Getting the troll tusks and charms aside (these will be difficult below mid-30s), it makes killing Cyclonian much easier!\n\nWithout rest and not wanting to waste a bunch of ag, str, defense and trolls blood potions, I thought I'd try with my 41 warrior (getting the prereqs were not much problem, started that much earlier) just with a +12 food and +15 drink stam buff, and nearly pulled it off solo...he had 1% health left when I died...unlucky I guess. Then someone suggested I could stand in the middle of the river and shoot him while he h"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-14T02:13:20-05:00",
+   "body": "I picked up all the charms how do you cash in for Exile?",
+   "replies": [
+    "The parchment that tells you what to get says to place the charms in his cauldron and the essence will form."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-08T14:06:45-05:00",
+   "body": "Cresting Charms can be found at the Circle of East Binding just west of Hammerfall(the water charms dropped very fast for me).\nThundering Charms can be found at the Circle of Outer Binding just south of Dabyrie's Farmstead/east of Refuge Point(the thundering charms dropped a little slower).\nBurning Charms can be found at the Circle of West Binding just west of Northfold Manor/east of the main gate of Thoradin's Wall(drop rates for the burning charm was just horrible for me).  All charms drop in Arathi Highlands.\n\n\n\n\n\nEdited, Mon Aug  8 10:07:43 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-05T22:49:10-06:00",
+   "body": "Charms have low drop rate, but u can buy them at ah for a small ammount of gold. Liferoot 2, but bloodscalps are toughest part, but u just need a palla/shaman or mage to do that with u!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-19T15:45:17-05:00",
+   "body": "i got killed by him.. and now he is gone.. what do i do?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-28T23:50:07-05:00",
+   "body": "How on earth do you go about grinding tusks?",
+   "replies": [
+    "You dont \"grind\" them. You pick them up from Trolls NorthWest of Booty Bay. Grind is a reference to killing something over and over to get a item.\n\n\n\n[i][small]Edited, Mar 29th 2007 12:40pm by Sartree[/small][/i]"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-19T10:30:52-06:00",
+   "body": "This quest leads to The Summoning, which leads to Whirlwind weapons.\n\nThe mob in the Summoning was not elite, however.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-13T11:37:44-05:00",
+   "body": "Where did I look for the trol who gove the Quist\n\"Essence of the Exile\"",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-16T00:02:18-06:00",
+   "body": "You wont solo the Cyclonian if your in mid-forties you might\nlol\n\nP.S.\nBloodscalp Shamans have the highest drop rate of dropping Bloodscalp tusks\n\nBuy the Liferoot\n\nand Essence of exile get\nCresting Charm x8\nThundering Charm x8\nBurning Charm x8\n\nyou get them from the elementals of each ruin except for the inner binding circle ruin.\n\npeace\n\n\nEdited, Tue Nov 15 18:14:16 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-29T04:25:24-05:00",
+   "body": "Anyone know the co-ordinates off the 3 circles that have the charms? i am looking and i am not just finding.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-16T07:10:00-06:00",
+   "body": "how many bloodscalp tusk do i need?[Black][/Black]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-15T14:21:40-06:00",
+   "body": "Just a heads up to Warriors who were looking to combine this quest with the STV quest Hunt for Yenniku (which also needs tusks) (as well as the other semi-related quests from Kebok in Booty Bay to get Bloodscalp ears and Bloodtooth necklaces antoher troll in Grom'gol) The two quests do not stack, but rather over lap, so when you think you have enough tusks for Cyclonian and you do the quest turn in the Hunt for Yenniku, you have to go back to get 9 more.  So do one or the other but not both unless you have the time.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-17T20:33:49-06:00",
+   "body": "Bank extra charms you get, you'll find them very useful later for dismissing the MANY adds that Mizrael spawns at the end of Summoning the Princess quest line.  You'll thanks yourself for having a Bunch of these!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-27T08:26:42-06:00",
+   "body": "I went to the trols with lvl 60 rouge and me (lvl 33 warrior)\nwe killed like 40 trolls but i haven't got any tusk.....why/ according this site i killed the right trolls (shaman)\n\nsomeone help",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-26T10:49:55-06:00",
+   "body": "Is there anyone will to help me out on this quest ? if you wouldlike to help please add me to your friends and send me a message when you get online my name on the game is Disciples or you can ask a member of my giuld for my name giuld name is Disciples Of Blood\n\nif you help me i will pay for your help thx alot \n\n\nDisciples",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-08T16:55:02-05:00",
+   "body": "does anyone know how to complete the quest after getting killed by the cyclonian? there doesn't seem a clear way of re-summoning him.  is my only option to hang around the area and wait for someone to re-summon him and join their party to complete the quest?",
+   "replies": [
+    "drop quest, pick it up again..."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-16T19:19:31-06:00",
+   "body": "I just finished this, got 39 when I got the axe. Good quest, very long. Thanks for the nature potion advice, it was worth it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-14T15:37:25-05:00",
+   "body": "Excuse a stupid question: the Charms are not the same as Elemental Fire, Water and Air are they?\n\nI have not seen any in the auction house so I assume that the are a quest item only.\n\nBurning Charm = Elemental Fire\nCresting Charm = Elemental Water\nThundering Charm = Elementatl Air\n\nAnyone comments, please?\n\nAlfieboy - lvl 32 Warrior (DarkSorrow)",
+   "replies": [
+    "wrong, the ames are exactly as u first said, Burning, cresting and thundering",
+    "The charms aren't quest items.\nThey can be acquired by anyone and can be sold on the AH."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-25T10:57:56-05:00",
+   "body": "STV = Stranglethorn Vale\nJust North of Booty Bay, Easten Kingdoms",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-27T17:05:14-06:00",
+   "body": "I completed this quest last night, and the weapon options were nice.  Axe/Sword/Mace (all 2H), pick one.  If I can get wowreader to work I can link to the weapon I picked, the sword.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-05T20:19:59-05:00",
+   "body": "I was lucky enough to have an alt rogue (lvl 44) who is also an alchemist/herbalist.  In the space of an hour or so he had all the crests, and the liferoot in the mail to me.  He can wipe each camp before respawn, netting about 4 crests per camp.  Horse ride to the next while the first was respawning.\n\nMy warrior just turned 31 and is just able to scrape by solo killing the bloodscalps near the hunters camp.  After about 10 have not had any tusk drops.  Does anyone know if they drop from the scavengers? Or do I need to go hunt in the main ruins a bit further over?",
+   "replies": [
+    "I got all of mine from the axe-wielders and warriors who walk the areas surrounding their two main camps. They're spread far enough apart that aggro isn't really much of an issue."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-26T10:58:33-06:00",
+   "body": "O ya and if anyone could tell me where to downlaod the coordinates mod deal for the game whould help alot thx\n\no ya and for my last post im a lvl 34 war",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-27T04:21:57-06:00",
+   "body": "You find the tusks in STV ruins.  Just kill the trolls.",
+   "replies": [
+    "where are the cresting charms?  there are no cresting exiles - since rumbling exiles are the only ones leftover, i started with them but after ten kills, still no drop.  any advice?",
+    "The cresting (water) exiles are actually a little northeast of the east circle (northwest of Hammerfell), up a small hill. 65,31 if you have a coordinates mod installed."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2021-05-23T15:35:02-05:00",
+   "body": "Cyclonian only does nature damage. According to Details Damage Meter:\r\n\r\nCyclonian   5.7K (53dps)\r\nDlucah      5.2K(51dps)\r\n\r\nAs someone stated previously then two nature potions will mitigate about half the to 3/4 of the 5.7k damage. \r\nYou need to be able to do 5.2k damage. \r\n\r\nAs the previous posted said, I took two Nature Protection potions and tanked it with my back against the wall. \r\nI was about 1/4 health when it finished.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-07T18:56:59-06:00",
+   "body": "These things are kind of hard to do if you dont want to be level 38 to get the stuff, find a level 60 friend to help you, because this thing can get tough. The worst ones, i found, are the whirlwind ones.  They shoot lightning and they hit hard, so have your 60 friend attack them from far away, or if they are a rogue or warrior, get them to stun them or get their attention.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-10T17:35:12-06:00",
+   "body": "I did this quest at level 30. At the end of the quest chain you get a Whirlwind Axe! https://www.wowhead.com/forever/item=6975. Which is a great axe for that level.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-06-16T12:33:02-05:00",
+   "body": "I don't know why you guys say that u can't solo this quest , because I did !I did it with my lvl 38 Tauren warrior. The Fire elementals are indeed the hardest to defeat but with a little bit of structure in the fight you can easely kill them.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-03-19T09:43:42-06:00",
+   "body": "I'm not getting any Tusks dropped from the bloodscalp, Is there a type of Bloodscalp you have to kill?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-06-21T09:29:13-05:00",
+   "body": "my guild mate is helping me tonight",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-06-23T19:39:06-05:00",
+   "body": "You can do this at lvl 30.\n\n Charms and roots can be bought in AH. Its not easy but I soloed the lvl 33-34 bloodscalps for the tusks and when you face Cyclonian just have a high lvl guildie to help you out.\n\n Bingo- a lvl 40 weapon at lvl 30 :)\n\n Edit: if you cant find the charms in AH you will need to be lvl 34-35 to get them all yourself or have a high lvl char farm em for you as they are tradable.\n\n\nEdited, Thu Jun 23 16:20:00 2005",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-17T10:28:56-05:00",
+   "body": "Many people like to say how they are great for doing this. It is not an easy quest. The STV part and Liferoot part is easy. The burning part was no problem nor was the cresting. The thundering I had major problems with. But get it done take it up the river and turn it in. As in previous notes if by chance you die you can resummon by abandoning and its there again. \n\nI fought as a lvl 40 warrior (in battle mode) and would have had him if I had more potion (only 1). I ran away across the river and got wailed by a huge dragon. Got my friend (level 42 Palladin) and we killed him no sweat.\n\nI got not great experience but the two handed sword is awesome. Plus you get reputation which helps if you can't afford a horse like me.\n\nGood luck\n_______________________________\n\nDeathmaker - Level 40 Human Warrior - Shadow Council - Go the Alliance!",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-01-29T00:05:25-06:00",
+   "body": "err I soloed all the elementals at 36, whoever said you cant solo the fires, you are wrong :/",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-03-22T09:06:51-06:00",
+   "body": "Where can i find the bloodscalps?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-05-01T15:45:23-05:00",
+   "body": "Is there some kind of level requirement...or can a lvl 25 lets say do this quest with a couple 60's and get the axe early?",
+   "replies": [
+    "level 30 to start the quest series"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2007-03-28T23:48:57-05:00",
+   "body": "How the !@#%^&^*&(   do you grind the tusks?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-01-06T08:07:22-06:00",
+   "body": "Since I am no herbalist, I had to purchase the liferoot. However, I could only get my hands on a stack of 20, which costed 2 gold on the AH... hope I can re-sell them.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2005-08-10T08:55:06-05:00",
+   "body": "Dumb question time...\nWhere is STV?",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2007-05-04T20:29:00-05:00",
+   "body": "where is the cauldren",
+   "replies": [
+    "By Bath'Rah in Chillwind Point in Alterac"
+   ]
+  },
+  {
+   "rating": -3,
+   "date": "2007-03-29T18:36:01-05:00",
+   "body": "Does anyone have coordinates for the bloodscalp's with the highest drop rate? or any for that matter ?",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2007-04-10T08:48:20-05:00",
+   "body": "I play on the lightning blade and im wondering where is the exact location of the quest Cyclone all the locations plz \n\nps: if i could do the bunny thing i would",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-04-10T18:24:06-05:00",
+   "body": "Just finished this 2 boxing with my 50 druid and 30 warrior - the weapon looks awesome and totally blows away my dual wielded weapons or sword / shield combination. Took around 3 hours getting the charms and tusks due to competition for the mobs but the final fight was easy (it shouldn't be too hard with a level 50 after all) - Loaded the druid and warrior with nature resistance potion and the druid handled all the aggro, just taking one knock-back but retained aggro.\n\nAt level 30 this is gonna rock :)",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-05-08T08:42:37-05:00",
+   "body": "Little tip about this quest. No need to kill mobs for LifeRoot. Life root can be bayed from Flower Shop in stormwind city canals. It cost only 3 silver per piece and it's worth it all. You spare a lot of time. all other items are perfectly explained in other posts. \n\n[i][small]Edited, May  8th 2007  1:45pm by Eldrazil[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-05-14T12:37:14-05:00",
+   "body": "There do i get the essence of the exile",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2020-03-26T09:46:47-05:00",
+   "body": "[b]Here's my honest advice: do not bother.[/b] The weapon is only cutting edge for 5 levels, and you may not even [i]get[/i] to Chillwind Point until you are level 31. That has definitely been the case for the last two warriors that I have leveled (both in Classic)... so that's already one utility level gone. Even with the help of a 60, [i]you're going to waste a solid 90 minutes to 2 hours [/i]flying around doing the various parts - in some cases, depending on how lucky you are with your elemental drops, it may be much longer (the elementals in Arathi are a) heavily farmed, and b) have a long [5-10+ minute] respawn rate).\n\nAnd, of course, this assumes that you have a 60 buddy or two that is willing to contribute that kind of time and effort for a quest with such fleeting returns. If you're thinking of doing this legit - like solo - you might as well just refuse the breadcrumb on Fray Island, because you won't have a prayer of finishing until 38 or 39, at which point the entire exercise is meaningless (unless, of course, you feel that this is a necessary part of your 'warrior experience' [I do not]).\n\nQuests in vanilla/classic that circle-jerk you around the world map should be dropped from the outset. The designers of the original game intended questing to be a facilitator to mob grinding (that is why so many quests have an obnoxiously long and frustrating random component) - the quest experience itself is intended to merely be a cherry on top, not the meat and potatoes of the leveling experience. When you add a 'world tour' on top of that grind, you're just hurting your progress towards 60. \n\nNow, as I said, maybe that's an experience that you feel like you [b]must[/b] have. But it's definitely not on the menu for me.\n\n*Edit* Something else to consider is that you may be looking at the slow speed of these weapons and thinking \"oh, man, BUT THAT'S TOO GOOD TO MISS!\" Except, warriors don't even get their first true instant - whirlwind - until level 36 (overpower is an instant, but it's also unpredictable - and if you're fury [and, at this point, lacking tactical mastery] you're probably spending most of your time in berserker and not even using overpower) - so weapon speed doesn't really matter all that much until 36 and 40 (40 being when you should pick up your level 31 talent skill of arms or fury).\n\nThis means that the slow speed of these weapons isn't really as advantageous as it seems. In fact, when you are still incredibly reliant on heroic strike and cleave for the majority of your damage output, slow speed can actually HURT YOU (because it makes misses more costly, and rage generation less predictable). [b]Thus, the weapons themselves are overrated for the realities that a level 30-35 warrior is facing in terms of skills available. [/b]",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2007-05-11T15:11:23-05:00",
+   "body": "No one has mentioned the drop rate on those tusks.... i'm having a friend help me with this quest. He's killed at least 20 bloodscalps... and not ONE tusk. His brother said it took him two days (playing 4 hours a day) to get all of them... \r\n\r\nBut if you have a friend helping the other items are easy... well in my case I have a lvl 69 helping :) \r\n\r\nBe prepared for lots of running around though, lol... and make sure to pick up the fp in Booty Bay while you're there ;)",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2006-03-16T00:28:25-06:00",
+   "body": "Binding cords are.\nCircle of West Binding\n25,31\n\nCircle of Outer Binding\n52,51\n\nCircle of East Binding\n62,34\n\nNow Bloodscalp's are North of Grom'Gol in ruins.\nBuy liferoot.\nAnd as for the Charms. Charms drop of the elemental that they hail from. Burning is obvious Thundering is obvious and Cresting is wind.\nHope that helps.\n\n\nEdited, Thu Mar 16 18:16:54 2006",
+   "replies": [
+    "Cresting is water, not wind.  They come off the Cresting Exiles near Hammerfall."
+   ]
+  },
+  {
+   "rating": -17,
+   "date": "2007-03-08T05:32:13-06:00",
+   "body": "Extremely low drop rate (actually, the Thunder Exiles drop very little at all period)...\n\nAveraged 1/15.\n\nThey also seem to do the most damage too.  :o",
+   "replies": []
+  }
+ ]
+}

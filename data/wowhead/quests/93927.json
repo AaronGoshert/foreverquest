@@ -1,0 +1,193 @@
+{
+ "id": 93927,
+ "name": "A Last Request",
+ "level": 8,
+ "reqlevel": 5,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 530,
+ "start": {
+  "type": "npc",
+  "id": 252155,
+  "name": "Peacekeeper Vaaniel",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    42.4,
+    62
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251523,
+  "name": "Constable Aonda",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    45.4,
+    45.4
+   ],
+   [
+    45.6,
+    45.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect the note you found near the dead peacekeeper and read it to determine your next steps. Bloody Note  ( 1 )   Skypriest Aanders slain  ( 1 ) Raani's Lucky Feather  ( 1 ) Shadowsong Family Signet  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 254871,
+   "name": "Bloody Note",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 256966,
+   "name": "Skypriest Aanders",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 263415,
+   "name": "Raani's Lucky Feather",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 263418,
+   "name": "Shadowsong Family Signet",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Bloody Note",
+   "count": 1,
+   "type": "item",
+   "id": 254871
+  },
+  {
+   "text": "Skypriest Aanders slain",
+   "count": 1,
+   "type": "npc",
+   "id": 256966
+  },
+  {
+   "text": "Raani's Lucky Feather",
+   "count": 1,
+   "type": "item",
+   "id": 263415
+  },
+  {
+   "text": "Shadowsong Family Signet",
+   "count": 1,
+   "type": "item",
+   "id": 263418
+  }
+ ],
+ "series": [
+  93926,
+  93927
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252155,
+   "name": "Peacekeeper Vaaniel",
+   "coord": [
+    42.4,
+    62
+   ],
+   "coords": [
+    [
+     42.4,
+     62
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251523,
+   "name": "Constable Aonda",
+   "coord": [
+    45.6,
+    45.4
+   ],
+   "coords": [
+    [
+     45.4,
+     45.4
+    ],
+    [
+     45.6,
+     45.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 256966,
+   "name": "Skypriest Aanders",
+   "coord": [
+    41,
+    64.3
+   ],
+   "coords": [
+    [
+     41,
+     64.3
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2026-09-27T15:08:25-05:00",
+   "body": "To start with, after you get the quest, grab the paper by the quest giver. Then, go inside the west pylon watchtower, and loot the two bodies on the floor. Go upstairs, kill the guy at the very top, and you're done. GG!",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2026-09-23T20:48:40-05:00",
+   "body": "Check the bodies at the bottom of tower for feather and ring",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2026-10-03T12:26:54-05:00",
+   "body": "This quest is bugged for me. Can't pick up signet",
+   "replies": [
+    "I was able to pick it up as of 2 hours ago. It's now fixed!",
+    "Nope still doesnt work 'I cant loot that right now'"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-11T16:01:25-05:00",
+   "body": "If you can't loot a body due to \"you can't loot that right now\" error a relog fixes it.",
+   "replies": []
+  }
+ ]
+}

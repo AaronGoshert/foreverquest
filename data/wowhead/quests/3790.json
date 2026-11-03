@@ -1,0 +1,222 @@
+{
+ "id": 3790,
+ "name": "Assisting Arch Druid Staghelm",
+ "level": 50,
+ "reqlevel": 47,
+ "side": 1,
+ "zoneId": 1537,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 470,
+ "start": {
+  "type": "npc",
+  "id": 5111,
+  "name": "Innkeeper Firebrew",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    18.4,
+    51.4
+   ],
+   [
+    18.4,
+    51.6
+   ],
+   [
+    18.6,
+    51.4
+   ],
+   [
+    18.6,
+    51.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3516,
+  "name": "Arch Druid Fandral Staghelm",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    34.4,
+    8.4
+   ],
+   [
+    34.4,
+    8.6
+   ],
+   [
+    34.6,
+    8.4
+   ],
+   [
+    34.8,
+    8.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Speak with Arch Druid Fandral Staghelm in Darnassus.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3516,
+   "name": "Arch Druid Fandral Staghelm",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  3763,
+  3764
+ ],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 5111,
+   "name": "Innkeeper Firebrew",
+   "coord": [
+    18.6,
+    51.4
+   ],
+   "coords": [
+    [
+     18.4,
+     51.4
+    ],
+    [
+     18.4,
+     51.6
+    ],
+    [
+     18.6,
+     51.4
+    ],
+    [
+     18.6,
+     51.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 3516,
+   "name": "Arch Druid Fandral Staghelm",
+   "coord": [
+    34.8,
+    8.8
+   ],
+   "coords": [
+    [
+     34.4,
+     8.4
+    ],
+    [
+     34.4,
+     8.6
+    ],
+    [
+     34.6,
+     8.4
+    ],
+    [
+     34.8,
+     8.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 11,
+   "date": "2006-05-07T11:42:21-05:00",
+   "body": "You found the archdruid, a boss in Darnassus, in IF? :) maybe you found a QUESTgiver.\n\nHow to get to Darnassus for newbies:\n1. take the boat from menethil harbor to auberdine.\n2. Take the boat from auberdine to Ruth eran village (and get the FP).\n3. Port into Darnassus.\n\nI got this Q from the SW inkeeper at lvl 47. Druid ^^\nAnd to you who can't find him:\n1. The quest clearly states that he's in the cenarion enclave in Darnassus.\n2. Use your damn map. u_u\n3. Once you \"enter\" cenarion enclave, the yellow dot will appear on your minimap.\n(btw; once you reach what you might think is the top; go left and keep going up. :) )",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2007-05-01T14:06:21-05:00",
+   "body": "you just gotta go all the way to the top. go out the little door when you get to the trainer and go up the spiral thing a little more. hes chillin up there",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-09-30T11:42:21-05:00",
+   "body": "34, 9 At the top of the cetner tower in the Cenarion Enclave",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-30T11:42:21-05:00",
+   "body": "35,8, yes center tower ... for those without cosmos, the top part of the map called Cenarion Enclave.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-30T11:42:21-05:00",
+   "body": "I don't think it has anything to do with the hearthstone. I picked the quest 3 times (deleted it twice cause of a full log) - once in Darnassus, once in SW and once in IF. My hearthstone, btw, leads to Gadgetzan. ;)",
+   "replies": [
+    "nvm he was in the center tower top floor i was lagging and couldnt see any ppl"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-30T11:42:21-05:00",
+   "body": "Where the heck is this guy?&nbsp; Not on any maps, and all the references to him in thott are hosed.&nbsp; Anyone find him?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-30T11:42:21-05:00",
+   "body": "I got this quest at Lvl 47 in ironforge",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-30T11:42:21-05:00",
+   "body": "I know that it's possible to get this in Darnassus (got it there with my Paladin) and Ironforge (got it there with my Priest)\n\nnext character in the late 40ier will check if its available in stormwind or \"common\" inns \n\nnyah",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-06T15:57:17-05:00",
+   "body": "Any Herbalists who are this level should definitely start this quest chain!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-01T15:30:01-05:00",
+   "body": "Took me a while to find Arch Druid Fandral Staghelm. Coord 34, 8 in Darnassus.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-25T15:00:01-05:00",
+   "body": "470 XP at level 47",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-30T11:42:21-05:00",
+   "body": "I got this quest from inn keeper in Darnassus at level 48",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2007-01-17T23:42:21-06:00",
+   "body": "Read the thottbot quests.. It states that the quest can be given by 3 persons.. Each of the Innkeepers in the major citys.. So therefor.. Take your pick.. Any one of them can give the quest.. And for you, who cant find him.. Get a freakin' grip.. As said above.. The quest log clearly states he is in \"[b]Cenarion Enclave[/b]\".. And if you take a look at your map, theres only one place called \"[b]Cenarion Enclave[/b]\".. Simply go there, and the yellow dot will show you the way.. How hard can it be?",
+   "replies": []
+  }
+ ]
+}

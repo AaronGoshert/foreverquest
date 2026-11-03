@@ -1,0 +1,97 @@
+{
+ "id": 96629,
+ "name": "Camping 101: Cooking",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 265813,
+  "name": "Eric Brighthammer",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    46.6,
+    53.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1699,
+  "name": "Gremlock Pilsnor",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    47.6,
+    52.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Speak with Gremlock Pilsnor in Kharanos to learn to become a cook.   Learn cooking from Gremlock Pilsnor in Kharanos  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1699,
+   "name": "Gremlock Pilsnor",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Learn cooking from Gremlock Pilsnor in Kharanos",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 265813,
+   "name": "Eric Brighthammer",
+   "coord": [
+    46.6,
+    53.8
+   ],
+   "coords": [
+    [
+     46.6,
+     53.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1699,
+   "name": "Gremlock Pilsnor",
+   "coord": [
+    47.6,
+    52.4
+   ],
+   "coords": [
+    [
+     47.6,
+     52.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

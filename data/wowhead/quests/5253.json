@@ -1,0 +1,317 @@
+{
+ "id": 5253,
+ "name": "The Crystal of Zin-Malor",
+ "level": 58,
+ "reqlevel": 53,
+ "side": 1,
+ "zoneId": 618,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 6200,
+ "start": {
+  "type": "npc",
+  "id": 11079,
+  "name": "Wynd Nightchaser",
+  "zone": "Winterspring",
+  "zoneId": 618,
+  "coords": [
+   [
+    52,
+    30.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3516,
+  "name": "Arch Druid Fandral Staghelm",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    34.4,
+    8.4
+   ],
+   [
+    34.4,
+    8.6
+   ],
+   [
+    34.6,
+    8.4
+   ],
+   [
+    34.8,
+    8.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.31727",
+ "objectiveText": "Deliver the Crystal of Zin-Malor to Arch Druid Fandral Staghelm in Darnassus. Crystal of Zin-Malor (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 13347,
+   "name": "Crystal of Zin-Malor",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  5248,
+  5252,
+  5253
+ ],
+ "points": [
+  {
+   "zoneId": 618,
+   "zone": "Winterspring",
+   "point": "start",
+   "type": 1,
+   "id": 11079,
+   "name": "Wynd Nightchaser",
+   "coord": [
+    52,
+    30.2
+   ],
+   "coords": [
+    [
+     52,
+     30.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 3516,
+   "name": "Arch Druid Fandral Staghelm",
+   "coord": [
+    34.8,
+    8.8
+   ],
+   "coords": [
+    [
+     34.4,
+     8.4
+    ],
+    [
+     34.4,
+     8.6
+    ],
+    [
+     34.6,
+     8.4
+    ],
+    [
+     34.8,
+     8.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 56,
+   "date": "2006-09-18T18:29:54-05:00",
+   "body": "Though this is a quest item, it's one a player is able to use.\r\n\r\nIf you equip this item in your trinket slot, it will drain both your mana and your hp until you either remove the item or you die. The number it drains both by is random, so sometimes it will only drain a low amount of hp/mana every second (100 of each), or it will drain a large amount of hp/mana (500 of each). Usually the numbers will fall inbetween the two extremes.\r\n\r\nAlthough you are technically supposed to turn this in to complete the questline it is involved with, you might want to hold onto it for it's special lethal properties\r\n\r\nWhen a character is killed by equipping this item, that character will not suffer any armor damage. This is useful if one needs to kill themself in order to speak with ghost characters, such as the ghost in BRD in order to get the Shadowforge Key quest.\r\n\r\nAlso, if you get stuck in a location that you cannot easily get out of and your hearthstone's cooldown is not up yet, you can use this item to kill yourself so that you can be sent to the nearest graveyard.\r\n\r\nPersonally, if you are not going to be benefited by any of the rewards, experience, or money, you might want to hold onto this unique, suicidal item instead of turning it in.",
+   "replies": [
+    "Another thing I've seen this used for is to make oneself immune to polymorphing, freezing and other effects that break when the victim takes damage. I'd much prefer taking 100 damage from this item to getting pyroblasted in the face while sheeped. Especially useful for high-level warriors who have a lot of hps already.",
+    "How are you going to equip this trinket if you are in combat, which you would be if you are polymorphed?",
+    "You use it before you are in combat, (dueling, battlegrounds)."
+   ]
+  },
+  {
+   "rating": 36,
+   "date": "2005-09-28T17:27:43-05:00",
+   "body": "Quest lines are there, there are millions of them...just because the reward isn't good that doesn't mean it isn't worth attempting, but again it's up to you.There are MANY other chains that will offer you items of your liking I'm sure. I'm also sure instead of complaining on thott youd be better off yelling at GM's instead lol. Atleast thott is here to warn you ahead of time, but it won't change anything ingame. :)\n\nAnd it's not always about item rewards..as a 60 I love collecting the rep from these. (edit: after doing this on my third alt, I thought I'd add that it's [b]25 reputation to all alliance factions per turn in of each section of the chain which by the end turns into about 200rep for IF,Darn + SW![/b] not too bad if your not collecting exp and if you are, even better!\n\n~Byrony LaughingSkull",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2005-11-23T17:52:27-06:00",
+   "body": "The rewards seem pretty weak for so much running around",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2020-03-29T11:20:47-05:00",
+   "body": "So you're saying I have to spend money and go through dire maul\r\nI'll most likely be level 60 so I don't need the exp\r\nall for a choice from three worthless green items that immediately get vendored?",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-01-16T05:27:43-06:00",
+   "body": "Think about it.....if u go to scholo and no one got the key and no rogue in grp.......and its 2 am no friends and guildees r online. the best way to get in there is this crystal.\n\nIts hard to kill oneself. but this crystal helps",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-06-29T10:44:53-05:00",
+   "body": "shoulders are worth most, 1g 41s 54c, if you are going to sell reward",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-03-26T16:57:09-06:00",
+   "body": "My advice would be to keep the crystal, don't do the last quest in the chain.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-02-21T17:27:43-06:00",
+   "body": "Handed this in on my lv57 rogue; the exp is nice enough all along the quest line, considering there's nothing to kill else than a handful of highborne spirits and the random collateral mobs; the reward is, well, useless, as 90% of non-elite/non-dungeon quest rewards are.\n\nOne thing tho, all along the quest line, for most steps, you gain 100 rep with all 4 major factions of the side you're on (110 for humans).\n\nConcerning the lack of good rogue rewards in game, I fully agree. Most leather rewards are for druids, not for rogues; I'm tired of this too, but as someone stated above, you can get better green items on your server's AH anyway.\n\nPicked the leather shoulders, vendored them, got some 1.4g for them; end of story.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-16T05:27:43-06:00",
+   "body": "Teleport. Run. Reputation. Gold.\n\nIt cost me just some minutes and already good rep and some money. But you lost trinket if you want damage yourself for some reasons.\n\nAdvice: if you don't want lost much dura, take off many as possible from your body and put it in your bags. That keeps the dura loss low and thus low repair costs.\nIf done, selfmurder yourself to run into the mobs. But it's bad idea if you're in party/raid and no one want also aggro at themselves.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-07-22T01:55:49-05:00",
+   "body": "The rewards suck for this, Im keeping the crystal for fun when im in IF and i just cant take it anymore =) EMO FOREVER *uses suicide crystal* hahahaha fun fun.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-28T17:27:43-05:00",
+   "body": "Got 6200 EXP for handing this in at level 58.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-28T17:27:43-05:00",
+   "body": "I'm Level 60, going back to finish old quests, but the Quest reward for this seem pretty useless. (I'm a Rogue.)\n\nDoes anyone know if this quest follows on from here, or is that it?\n\nIf that's all I get, I won't bother doing it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-16T05:27:43-06:00",
+   "body": "Lvl 58 Druid - I used the crystal..accidently.&nbsp; Boy what a mistake! I just kept dying dying dying.&nbsp; It keep draining my HP like crazy.&nbsp; Good xp quest though",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-06T20:56:15-05:00",
+   "body": "Any faction reward for this one?",
+   "replies": [
+    "Yes!  Reputation with Alliance is increased."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-03T21:57:36-05:00",
+   "body": "at level 60 each step reward was at least 2.5 gold and 25 alliance reputation",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-05T19:35:26-06:00",
+   "body": "Where can i fint The crystal of Zin'Malor?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-05T15:30:42-06:00",
+   "body": "the total quest line gives u over 25k in ex points, if you have 2 hours to kill doing basically running around then...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-06T04:28:59-05:00",
+   "body": "The end reward sucks.  Is there any reason I should continue doing this quest chain at 60?",
+   "replies": [
+    "A little bit of faction and something to do while waiting on BG queues? DE the gloves into 3 small brilliant shards and sold them for 25g on AH, best quest reward yet."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-09-28T17:27:43-05:00",
+   "body": "The arch druid is in the top room in the middle(?) building in the centurion enclave.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-03-30T05:27:43-06:00",
+   "body": "So in other words.. if I am level 60, not NE and not looking for rep and also have better items.. this is indeed entirely useless to do. I dont see why you all jumped his bones for asking a simple question.",
+   "replies": [
+    "I am doing all the solo quests I can, and having some fun with them.&nbsp; I like getting rep for no real reason, but at 60, I'm getting a nice bit of coin out of them.&nbsp; The rewards are useless, but after questing all day on this, I have the same money I started with after having to spend 40g on the 0.5 upgrade quests."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-06-16T23:35:14-05:00",
+   "body": "Once again they leave out the Mail classes like they do in most quests. /sigh",
+   "replies": [
+    "Actually they usaly leaves out plate, good to see a decent reward for one times sake"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-05-05T17:27:43-05:00",
+   "body": "if youa re a lvl 60 like me just take the Plow Wood Spaulders ou will get 1g + while the others awards are few silvers :) hehe",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-05-05T17:27:43-05:00",
+   "body": "nowadays it's really worth it if you already ahd the thorium and stuff laying around..\n\nexp->gold conversion ftw!^^D plus rep =) nice q line",
+   "replies": [
+    "Yeah, same, the gold conversion is really nice."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-09-27T08:37:41-05:00",
+   "body": "Anybody point me in the right direction for the pool?",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2006-02-21T17:27:43-06:00",
+   "body": "Okay so this chain takes forever and ends here.\nI don't see why people are complaining, I didn't get anything I could use either (the stuff was lower than what I already have) and it was easily solo'd as a 55 pally.\nThe XP isn't bad and it was kind of fun.\nI got a lot of XP just killing mobs on the way.\nLighten up, sheesh.",
+   "replies": [
+    "dont turn in this quest use the trinket as a death if u get stuck or somthing like that"
+   ]
+  },
+  {
+   "rating": -4,
+   "date": "2007-05-21T02:34:55-05:00",
+   "body": "I did it lvl 54 pally got 6200 xp.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-01-16T05:27:43-06:00",
+   "body": "Has anyone tried just using the crystal themselves? Or are we \"not worthy\"? :D",
+   "replies": [
+    "I put the crystal on when i first got it thinking, I'm worthy. A plaguebat came near and I started running. 301 damage per second, and I couldn't take it off because I was in combat. Luckily there was no equipment damage because I killed MYSELF. But Don't put it on... you will regret it.\n\nAlotta\n57 Rogue\nDragonblight"
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2006-05-05T17:27:43-05:00",
+   "body": "Since those rewards are pieces of junk to most of us, do u have to give off that suicide device to complete this quest? Otherwise I'd like keep that one.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-05-05T17:27:43-05:00",
+   "body": "If they can make rewards for 3 of the 4 classes of armor for a quest...why not the fourth as well?\n\nIt's simply illogical to only do things half-ass.",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2006-03-30T05:27:43-06:00",
+   "body": "Solo'd with level 55 Rogue - really easy good mob xp - come on you lot stop moaning",
+   "replies": []
+  }
+ ]
+}

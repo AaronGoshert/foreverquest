@@ -1,0 +1,90 @@
+{
+ "id": 94472,
+ "name": "Earth Sapta",
+ "level": 4,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 257446,
+  "name": "Teo Hammerstorm",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    28.7,
+    66.1
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 257446,
+  "name": "Teo Hammerstorm",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    28.7,
+    66.1
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak to Teo Hammerstorm for another Earth Sapta .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 257446,
+   "name": "Teo Hammerstorm",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 257446,
+   "name": "Teo Hammerstorm",
+   "coord": [
+    28.7,
+    66.1
+   ],
+   "coords": [
+    [
+     28.7,
+     66.1
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 257446,
+   "name": "Teo Hammerstorm",
+   "coord": [
+    28.7,
+    66.1
+   ],
+   "coords": [
+    [
+     28.7,
+     66.1
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

@@ -1,0 +1,172 @@
+{
+ "id": 97277,
+ "name": "Grund and Gozwin",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 77,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 405,
+ "start": {
+  "type": "npc",
+  "id": 2756,
+  "name": "Grund Drokda",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    28.6,
+    67.4
+   ],
+   [
+    28.6,
+    67.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2756,
+  "name": "Grund Drokda",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    28.6,
+    67.4
+   ],
+   [
+    28.6,
+    67.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Find Grund and Gozwin's camp in the hills to the northwest. Recover Gozwin's Mechanic's Log and kill the Snow Leopard Prowler . Gozwin's Mechanic's Log  ( 1 )   Snow Leopard Prowler slain  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 277976,
+   "name": "Gozwin's Mechanic's Log",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 269075,
+   "name": "Snow Leopard Prowler",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Gozwin's Mechanic's Log",
+   "count": 1,
+   "type": "item",
+   "id": 277976
+  },
+  {
+   "text": "Snow Leopard Prowler slain",
+   "count": 1,
+   "type": "npc",
+   "id": 269075
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 2756,
+   "name": "Grund Drokda",
+   "coord": [
+    28.6,
+    67.4
+   ],
+   "coords": [
+    [
+     28.6,
+     67.4
+    ],
+    [
+     28.6,
+     67.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 2756,
+   "name": "Grund Drokda",
+   "coord": [
+    28.6,
+    67.4
+   ],
+   "coords": [
+    [
+     28.6,
+     67.4
+    ],
+    [
+     28.6,
+     67.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "requirement",
+   "type": 1,
+   "id": 269075,
+   "name": "Snow Leopard Prowler",
+   "coord": [
+    27.4,
+    62.8
+   ],
+   "coords": [
+    [
+     27.2,
+     62.4
+    ],
+    [
+     27.4,
+     62.8
+    ],
+    [
+     27.4,
+     63.6
+    ],
+    [
+     27.6,
+     62.8
+    ],
+    [
+     27.6,
+     63.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 20,
+   "date": "2026-09-20T20:05:34-05:00",
+   "body": "There is a faint trail going up the mountain on the right side of the road leading left from Anvilmar's front door (same road for mail delivery quest).  Follow the snowy trail past the first tree, and you'll see crates along the path. That path is steep, but climbable.  Go over the ridge, and the camp is in front of you. Kill the cat, find the book on the ground, and reverse your path out.",
+   "replies": [
+    "Thanks, man, I couldn't find it myself either.",
+    "The loc is 26.6, 68.5. Go out of the Anvilmar's door then follow the road on the right hand side.",
+    "You can also walk a bit further down the road until you see a rock wall. Turn right at the wall and climb. You will see the planks on the slope above you.",
+    "/way 25.6 70.0 is the trail head"
+   ]
+  }
+ ]
+}

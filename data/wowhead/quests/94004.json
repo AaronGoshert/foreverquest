@@ -1,0 +1,93 @@
+{
+ "id": 94004,
+ "name": "Craftsman's Writ: Elixir of Ogre's Strength",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 257281,
+  "name": "Sos'mol",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    38.4,
+    61.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Elixir of Ogre's Strength  ( 1 ) Elixir of Ogre Strength  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264011,
+   "name": "Craftsman's Writ: Elixir of Ogre's Strength",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3391,
+   "name": "Elixir of Ogre Strength",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Elixir of Ogre's Strength",
+   "count": 1,
+   "type": "item",
+   "id": 264011
+  },
+  {
+   "text": "Elixir of Ogre Strength",
+   "count": 1,
+   "type": "item",
+   "id": 3391
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 257281,
+   "name": "Sos'mol",
+   "coord": [
+    38.4,
+    61.2
+   ],
+   "coords": [
+    [
+     38.4,
+     61.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-30T18:46:11-05:00",
+   "body": "40.1 62.8 in Alterac, you need a friendly ogre that stands on top of the wall. \r\nOn beta you can try to run to it from yeti side, die under the wall and release on top next to the NPC",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2026-10-07T14:43:57-05:00",
+   "body": "In addition to the rep. Got a Coin Pouch as a reward that had 24 Silver and 12 Copper in it. No experience.",
+   "replies": []
+  }
+ ]
+}

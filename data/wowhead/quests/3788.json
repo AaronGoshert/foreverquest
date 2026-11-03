@@ -1,0 +1,128 @@
+{
+ "id": 3788,
+ "name": "Jonespyre's Request",
+ "level": 50,
+ "reqlevel": 47,
+ "side": 1,
+ "zoneId": 1657,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 470,
+ "start": {
+  "type": "npc",
+  "id": 7736,
+  "name": "Innkeeper Shyria",
+  "zone": "Feralas",
+  "zoneId": 357,
+  "coords": [
+   [
+    31,
+    43.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7879,
+  "name": "Quintis Jonespyre",
+  "zone": "Feralas",
+  "zoneId": 357,
+  "coords": [
+   [
+    32.4,
+    43.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Speak with Quintis Jonespyre in Feathermoon Stronghold.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 7879,
+   "name": "Quintis Jonespyre",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  3787,
+  3791
+ ],
+ "points": [
+  {
+   "zoneId": 357,
+   "zone": "Feralas",
+   "point": "start",
+   "type": 1,
+   "id": 7736,
+   "name": "Innkeeper Shyria",
+   "coord": [
+    31,
+    43.4
+   ],
+   "coords": [
+    [
+     31,
+     43.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 357,
+   "zone": "Feralas",
+   "point": "end",
+   "type": 1,
+   "id": 7879,
+   "name": "Quintis Jonespyre",
+   "coord": [
+    32.4,
+    43.8
+   ],
+   "coords": [
+    [
+     32.4,
+     43.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 4,
+   "date": "2007-04-07T14:25:22-05:00",
+   "body": "Is there a trick to getting this quest? I'm level 48, exalted with Darnassus, and cannot get this one nor the one from Tannysa, nor does Quintis offer his quest...",
+   "replies": [
+    "Ok the prereq for this quest is to do [url=http://wow.allakhazam.com/db/quest.html?source=live;wquest=3764]Un'Goro Soil[/url] first; then Tannysa or Shyria will offer the quest to talk to Quintis."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2019-09-27T17:50:13-05:00",
+   "body": "Becomes available once [quest=3785 domain=classic] is completed.",
+   "replies": [
+    "Cannot be the complete truth. Morrowgrain Research is completed but this quest is still not available."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-13T21:30:01-06:00",
+   "body": "Well, the description of this 30 second quest segment seems wrong to me.  I picked this up from the Innkeeper (Shyria) right in Feathermoon.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-18T16:13:55-05:00",
+   "body": "This all seems right, I picked it up from \tTannysa in Stormwind.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-12T18:30:17-06:00",
+   "body": "The Mystery of Morrowgrain.",
+   "replies": []
+  }
+ ]
+}

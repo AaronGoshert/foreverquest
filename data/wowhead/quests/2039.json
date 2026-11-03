@@ -1,0 +1,312 @@
+{
+ "id": 2039,
+ "name": "Find Bingles",
+ "level": 15,
+ "reqlevel": 12,
+ "side": 1,
+ "zoneId": 1537,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 6569,
+  "name": "Gnoarn",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    69.4,
+    50.4
+   ],
+   [
+    69.4,
+    50.6
+   ],
+   [
+    69.6,
+    50.4
+   ],
+   [
+    69.6,
+    50.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 6577,
+  "name": "Bingles Blastenheimer",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    63.4,
+    47.4
+   ],
+   [
+    63.4,
+    47.8
+   ],
+   [
+    63.6,
+    47.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Find Bingles Blastenheimer in Loch Modan.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 6577,
+   "name": "Bingles Blastenheimer",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  2039,
+  2038
+ ],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 6569,
+   "name": "Gnoarn",
+   "coord": [
+    69.4,
+    50.6
+   ],
+   "coords": [
+    [
+     69.4,
+     50.4
+    ],
+    [
+     69.4,
+     50.6
+    ],
+    [
+     69.6,
+     50.4
+    ],
+    [
+     69.6,
+     50.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 6577,
+   "name": "Bingles Blastenheimer",
+   "coord": [
+    63.4,
+    47.8
+   ],
+   "coords": [
+    [
+     63.4,
+     47.4
+    ],
+    [
+     63.4,
+     47.8
+    ],
+    [
+     63.6,
+     47.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 39,
+   "date": "2005-09-28T11:22:50-05:00",
+   "body": "Found him at 63,48.",
+   "replies": []
+  },
+  {
+   "rating": 36,
+   "date": "2007-01-30T20:18:23-06:00",
+   "body": "Bingles is on the Eastern side of the Loch in Loch Modan. If you're looking at the map, he's just about even with the lettering \"Loch\".\r\n\r\nIf you have add-ons like Cosmos, or Titan Panel, his coordinates are 63,47.",
+   "replies": []
+  },
+  {
+   "rating": 21,
+   "date": "2005-09-28T11:22:50-05:00",
+   "body": "I found Bingles at 63,47.\n\nHis crashed vehicle is in the water, so as long as you follow the east coast of the lake you will run into him.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2006-01-15T23:22:50-06:00",
+   "body": "I just found Bingles about 25 ft. from his crashed plane.&nbsp; The plane is located on the east side of The Loch where the water goes the farthest inland...",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2004-09-10T00:39:05-05:00",
+   "body": "Go east from Thelsamar and run along the shore of the big lake and you will run into Bingles.  You will see smoke from the crashed gyrocopter.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-01-15T23:22:50-06:00",
+   "body": "Confirmed loc 63,48 - he wanders around a tiny bit.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-06-10T23:22:50-05:00",
+   "body": "Watch out for the [u]lvl 22 rare crocolisk[/u] on the western banks of the Loch, you don't wanna confront him at lvl 14. He'll tear you to pieces!\nOw, and the croc's got a very original name: Large Loch Crocolisk :-P",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-09-28T11:22:50-05:00",
+   "body": "At 63,47 in Loch Modan.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-06-10T23:22:50-05:00",
+   "body": "64,48 :D",
+   "replies": [
+    "download coordinates stuffs?"
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2006-08-22T23:22:50-05:00",
+   "body": "found him at 63,48. See screen shot",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2004-11-27T23:27:31-06:00",
+   "body": "The Bingles are on the southeast shore of the lake that is just east of Thelsamar.  Quickest way there is just to swim all the way acrossed.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-02-21T11:22:50-06:00",
+   "body": "Found the wrench at 48,30 - Screwdriver 48,20 - Hammer at 51,24 - Blastencapper at 54,26",
+   "replies": [
+    "These items are not related to the Find Bingles quest"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-28T11:22:50-05:00",
+   "body": "at loch inbeetween the 2 lower islands at the esat side of the loch there you will see a plane there you will find bingles",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2019-08-29T16:27:45-05:00",
+   "body": "This quest is started in Ironforge, not Dun Morogh like Questie says",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-21T11:22:50-06:00",
+   "body": "If you drew a straight line East (right)across the bottom of Thelsamar you would find Bingles, beware of (20) dinos in the water.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-05T11:22:50-05:00",
+   "body": "Never trust still water.... XD crocodiles at the shore, and Dinos in da water =p, beware.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-22T23:22:50-05:00",
+   "body": "I didn't know where to find it, so I looked around this page...\n\nLo and behold a downloads link... Wonder what happens if I click on it...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-15T23:22:50-06:00",
+   "body": "Being quite new to [b]WoW[/b] - all this help is MUCH appreciated !\n\nThanx to all !",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-21T11:22:50-06:00",
+   "body": "I can't seem to get the quest... eventhough it said obtained at lvl 7 i can't get it. im lvl 11 right now. Warlock class Gnome. Can someone tell me what is the ACTUAL requirement before i can get this quest?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-29T23:22:50-05:00",
+   "body": "You pick it up just outside of the tram in IF guy in the left.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-14T19:58:24-05:00",
+   "body": "Swimming staright across works fine",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-09T04:30:45-05:00",
+   "body": "loc 63,47",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-14T15:18:03-05:00",
+   "body": "Also be careful about not swimming too directly east.  Aside from the crocs, on the far shore directly east there are some high level MOBs.  Additionally, you probably don't want to run into that Loch Ness monster thing, so try to keep an eye underwater instead of only seeing above the surface.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-15T14:03:32-05:00",
+   "body": "Just swim across the loch, he's close to islands in the middle. Beware of lvl20 monsters though and the croksick island, they gain up on you really quickly.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-29T00:37:45-06:00",
+   "body": "63,48",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-19T07:03:58-06:00",
+   "body": "found him at 63.47 (Bingles Blastenheimer)\n\nEdited, Sun Feb 19 00:03:47 2006",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-03T15:50:41-06:00",
+   "body": "He is stood on the East shore of the loch at coordinates X:63 Y:48",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-12T05:56:55-05:00",
+   "body": "He's on the SE corner of the Loch.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-09-28T11:22:50-05:00",
+   "body": "Dudes, do you know right from left? West from east? Bingles is on the east side of the Loch, not far north of the Ironwhatever Excavation Site, along the shore. NOT ON THE WEST!",
+   "replies": []
+  }
+ ]
+}

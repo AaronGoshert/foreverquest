@@ -1,0 +1,560 @@
+{
+ "id": 348,
+ "name": "Stranglethorn Fever",
+ "level": 45,
+ "reqlevel": 40,
+ "side": 3,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 5850,
+ "start": {
+  "type": "npc",
+  "id": 2486,
+  "name": "Fin Fizracket",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    27.6,
+    76.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2486,
+  "name": "Fin Fizracket",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    27.6,
+    76.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Seek out Witch Doctor Unbagwa and have him summon Mokk the Savage. Bring the Heart of Mokk to Fin Fizracket . Heart of Mokk  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 2797,
+   "name": "Heart of Mokk",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Heart of Mokk",
+   "count": 1,
+   "type": "item",
+   "id": 2797
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "start",
+   "type": 1,
+   "id": 2486,
+   "name": "Fin Fizracket",
+   "coord": [
+    27.6,
+    76.8
+   ],
+   "coords": [
+    [
+     27.6,
+     76.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "end",
+   "type": 1,
+   "id": 2486,
+   "name": "Fin Fizracket",
+   "coord": [
+    27.6,
+    76.8
+   ],
+   "coords": [
+    [
+     27.6,
+     76.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1514,
+   "name": "Mokk the Savage",
+   "coord": [
+    35.2,
+    60.4
+   ],
+   "coords": [
+    [
+     34.4,
+     62.8
+    ],
+    [
+     34.6,
+     61.8
+    ],
+    [
+     34.6,
+     62.6
+    ],
+    [
+     34.8,
+     61.2
+    ],
+    [
+     35.2,
+     60.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 87,
+   "date": "2004-12-25T13:39:41-06:00",
+   "body": "This quest can be started at level 40. You will find Fin Fizracket lying on the ground on the lowest level of Booty Bay. He is under an upturned, broken in half boat. He'll request the \"Heart of Mokk\", and will lead you to speak with Witch Doctor Unbagwa in Stranglethorn. \n\nIf you haven't done the \"Scaring Shaky\" quest yet, get it from \"Sea Wolf\" McKinley in Booty Bay, because that quest requires you to collect \"Mistvale Giblets\" from the Elder Mistvale Gorillas in the area. You will also need to collect 10 Gorilla Fangs for *Each* attempt you make at the Stranglethorn Fever quest. SO, its a good idea to stock up and kill a lot of these gorillas for the giblets and gorilla fangs. \n\nTo find these gorillas, head north from booty bay along the trail. Not far from the entrance, on the east side of the road, you should see some of the elder gorillas running around in a field. This is your home for the quest. Slaughter gorillas until you get the required number of Fangs (and giblets if you're doing that quest). \n\nIf you have a group for this quest, you only need one person to have the 10 fangs and follow the quest. The only point for everyone in the group is to get the heart of Mokk, and the only way to spawn him is to go through this veritable \"gauntlet\". \n\nWitch Doctor Unbagwa can be found in a cave to the northeast of \"Mistvale Valley\", the place where you fight the elder gorillas. Once you click the \"complete quest\" button in the quest entry box, Unbagwa will begin spawning gorillas that will run up the hill at you. The first wave is 3 enraged gorillas (level 42), the second wave is 4 enraged gorillas and a named gorilla (level 43). The third, and final wave, is 5 enraged gorillas and Mokk himself (level 44). Kill Mokk the Savage, loot the heart, and you're done. Well, you'll have to kill his buddies too, but the important part is killing him and looting the heart. If you die after looting, you still win =o)\n\nThe reward for the quest is 5850 XP (at level 40-43), and a 30 armor, 4 stamina, 9 spirit cloak, called \"Medicine Blanket\".",
+   "replies": [
+    "Awesome post.\n\nThis quest is hard.  The wife and I managed to do it at lvl 40 (druid/rogue), though we ate a lot of deaths in the attempts.\n\nIt is purely an endurance run, and unless you have a lot of AE (i.e. a mage) in your group, be prepared for a serious fight.\n\nWe finally finished it when we saw a lvl 47 pali that had tried to solo it, fail.  So, we invited him to join us, and the 3 of us did it easily."
+   ]
+  },
+  {
+   "rating": 33,
+   "date": "2006-12-09T18:04:23-06:00",
+   "body": "You only need to kill and loot Mokk to complete the quest, so make sure to focus your fire on him for the final wave since you can still complete the quest if you die after killing him.\n\nBetween waves you have a couple seconds in which you can eat and drink.  If you have a pet or ally, you can send him out to attack to give you a bit of extra time as all the gorillas will turn to attack them.",
+   "replies": []
+  },
+  {
+   "rating": 28,
+   "date": "2006-06-29T20:31:58-05:00",
+   "body": "After several failed attempts, I managed to complete this quest solo as a level 48 hunter.&nbsp; It was not easy, but I'll share some tips that I have learned (the hard way...)\n\nI went with my wolf pet.&nbsp; His dps is a bit less than an offense-centric pet, but he seems to hold focus better, as bite only fires once every 10 seconds.&nbsp; This seems to give him more focus available for the all-vital growl.&nbsp; He has a few more HP and AC than my cat, so I thought that he might hold up a bit better on this quest.&nbsp; \n\nFirst, and perhaps key to the quest, is that you [b]HAVE[/b] to keep the witch doctor alive and chanting through TWO waves of gorillas.&nbsp; It is on the [b]third[/b] wave that Mokk spawns.&nbsp; There is a named gorilla in the second wave, but the heart is dropped on the third phase.&nbsp; You do [b]NOT[/b] need an alive-and-well witchdoctor after Mokk spawns.&nbsp; All you need to do is loot the heart for the completion of the quest.\n\nThe first wave wasn't too bad.&nbsp; They spawn outside the cave and come rushing in.&nbsp; I put my pet on them as soon as they appeared, trying to make sure he pulled as much aggro as possible.&nbsp; I kept assisting him until he needed to be healed.&nbsp; That, of course, produced some aggro on to me which was handled via feign death.&nbsp; I managed to clear the first wave with a healthy pet, but almost no mana remaining. \n\nFortunately, there is a small pause before the second wave, and it spawns at a slightly greater distance from the cave than the first wave. This gave me time to drink part of a mana drink.&nbsp; I went with moonberry juice, which actually recharges my mana fairly quickly (I don't need to remain seated for the entire drink phase).\n\nI dropped the pet on the named one in the second wave.&nbsp; I don't know if he was the highest level or not, but he was the first one that I targeted. I got FIVE gorillas on the second phase, and even though they were 5 levels less than me on average, that is still quite a challenge.&nbsp; Again, the issue was managing mana and pet health, and taking agro when needed.&nbsp; Even with decent gear, etc, my pet almost died during this round, and I was fairly beat up as well.&nbsp; \n\nThat brought on the third round, which included our named friend and his all-valuable heart.&nbsp; Because I no longer needed the witch-doctor's services for chanting, I went with a change of plans... (He didn't realize it, I'm sure, but he was going to help in the fight).\n\nA quick mana potion gave me enough to heal my pet to full.&nbsp; I let them come all the way into the cave, then dropped my pet on the named dude.&nbsp; I then got far enough away to pepper him with arrows.&nbsp; One feign was necessary to make sure I didn't have any aggro.&nbsp; Once the named one fell, I hit Aspect of Cheetah, put the pet on passive, and ran!&nbsp; The whole lot chased us for a while, then went back to beat-up the poor witch doctor...\n\nThis gave me enough time to re-group, heal my pet, and return to the fray.&nbsp; I think the good doctor took one of them out, because there were only three left, and the doc was wailing on one of them.&nbsp; I put my pet on the remaining ones long enough for me to loot and scamper.&nbsp; \n\nThis was my fourth try at this darn quest, which is WAY under-rated in terms of level as far as I'm concerned.",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2007-02-28T05:45:46-06:00",
+   "body": "just so you know if you are 2 or more doing this quest.  You do NOT need 1 fang each. It is enough that one person in the group hand in 1 fang. Then the quest begins.",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2005-02-20T04:45:29-06:00",
+   "body": "5850 XP at level 46, My Booty Bay reputation also \"greatly increased\".",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2006-04-17T20:31:58-05:00",
+   "body": "[b]The CORDINATES ARE[/b]&nbsp; \n[pad][div align=center][b]~~~ 34 , 61 ~~~[/b][/div][pad]\nI did solo it... but I was lvl 50. Be en garde.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2019-09-20T14:32:04-05:00",
+   "body": "This is pretty tough to solo, but I accidentally discovered something that makes it easier. After handling the first two waves, I was out of mana and nearly dead, so I ran away from the third wave with Mokk in it. Once I was out of combat, I drank and ate to full, then went back to start the event over and try again. Turns out, Mokk and his friends were still there beating on Unbagwa. They were all still hurt from my initial damage, and it was easy to AoE them down. It would have been even easier to single-target Mokk. Being able to leave combat and recuperate while the event is still going makes it much easier.",
+   "replies": [
+    "If Unbagwa doesn't die while you're gone. Then it's 10 more fangs and more fighting."
+   ]
+  },
+  {
+   "rating": 9,
+   "date": "2020-05-17T08:27:57-05:00",
+   "body": "As a 46 rogue, I did have a couple issues staying alive for the second and third waves.  However, death is not the end of this quest.  During the second wave I was down to one gorilla before I was finished off.  As soon as I died, I ran back to the cave in ghost form and got back in time to see Unbagwa still fighting that same gorilla.  I resurrected and finished it off, and tried getting ready for the third wave.\r\n\r\nThird wave comes in and I get killed off with four gorillas left, unable to kill Mokk before I died.  As the first death, I quickly ran my way back to the cave in ghost form.  This time, Unbagwa was killed by the gorillas, but they were still in that cave.  So I resurrected, quickly bandaged myself, and went right after Mokk.  I looted the heart and bolted from the cave.\r\n\r\nSo if you're having issues soloing this quest, just remember that if you die, it's not necessarily over.  Just make haste back to the cave and continue the fight if the gorillas have not despawned.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2019-10-12T23:52:40-05:00",
+   "body": "If Unbagwa dies, he'll respawn after a while, but you will need another 10 Gorilla Fangs to summon the waves again.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-02-03T20:31:58-06:00",
+   "body": "oh, and the coordinated for the cave with the witch doctor in it is 35, 60",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-17T08:31:58-05:00",
+   "body": "i dont have coords but u can find it by going north from booty bay. then looking for the area where the elder mistvale gorillas are hanging out. then fight your way to mountain range.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-09-23T04:29:22-05:00",
+   "body": "You need to visit Witch Doctor Unbagwa (https://www.wowhead.com/forever/npc=1449). He is in the cave just north of Booty Bay. You need to turn in 10 Gorilla Fangs to him and he will begin the summon. Waves of Enraged Silverback Gorillas appear and you need to protect him. The 1st wave is 3 gorillas, the second wave is 5 or 6. (I believe there are 4 waves, as of this posting, I have not yet completed it.)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-05-24T08:31:58-05:00",
+   "body": "If you're in a group, only one person needs to talk to the witch doctor.&nbsp; After the waves of gorillas attack, everyone can loot the heart from the last wave of gorillas.\n\nBuff up first, then let one person talk to the witchdoctor.&nbsp; After the last wave is done, DON'T talk to the witch doctor.&nbsp; Loot first, then return to Booty Bay.&nbsp; If someone talkes to the witchdoctor before they loot, the waves of gorillas come again.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-09-10T20:31:58-05:00",
+   "body": "For those who need it, path up to the cave can be found at 34, 62\n\nFor info, I just completed the quest solo with a 45 paladin (although I died during the last wave, but collected the heart before doing so!). So it is possible to solo, just quite difficult!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-03-12T08:31:58-05:00",
+   "body": "43 paladin here. paladins, if you are protection specced this is an easy quest. I solo'ed it, no death.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-11-10T11:06:00-06:00",
+   "body": "The troll won't activate the quest...any ideas",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-11-10T11:03:21-06:00",
+   "body": "For some reason, this quest will not initiate when I click on the troll in the cave.  What's the deal?.\n\nLvl 45 Hunter is confused.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-03-14T19:01:12-05:00",
+   "body": "It seems that it does not matter who starts the quest, only who kills Mokk the Savage and is able to loot his heart.\n\nI was taking a friend (mage) to the cave to start the quest (I had farmed the gorilla fangs before she came on) and an Undead warlock was already there talking to the witchdoctor (we're both human). \n\nI thought, \"oh well, we'll just wait until this person is done\". But then the first wave of gorillas washes over us. I cast Blessing of Protection on her and tell her to run and let this guy do the quest, but she just starts nuking as soon as the bubble is off. I was unhappy to say the least (thinking that we were basically doing the quest for someone else, a Horde no less) but hung in there to keep her alive (I'm a paladin). I have to heal her alot because she's pulling the whole group on her every time she casts. I get in my licks and consecrate alot to get the whole group, all the time thinking this is a waste of time because we were not the ones to start the quest. \n\nWell, we get to the end of the last wave and my friend is able to loot the heart off Mokk. I didn't know you could do that (if you were not the one to start the quest). I don't know if the Undead could loot it or not (his pet was in there fighting but I didn't see him cast a single spell). I specifically did not engage Mokk because I didn't want it to look like I was KS'ing his quest target (really I was just trying to not get killed or let my friend get killed).\n\nSo I guess it doesn't matter who starts the quest, even an opposing faction member or someone not in your group. \n\nSeems to me Blizz should make it so that only the person who starts the quest and their group should be able to loot the heart. Just seems fair.",
+   "replies": [
+    "Yeah, it doesn't matter. But I garentee you the warlock who started the quest was pissed off at you. Your friend, the mage, must have agroed Mokk. Meaning the warlock didn't get the heart.. I know I'd be pissed if someone did that to me.\n\n[i][small]Edited, Mar 23rd 2007  4:44pm by Enstan[/small][/i]"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2007-03-28T02:58:15-05:00",
+   "body": "Solo'd with a 49 frost mage. First wave not too hard, 2nd wave was the worst, 3rd wave was just frost nova/blizzard and burn down mokk. Used evoc after 2nd wave and burnt a mana citrine and 2 healing pots for it.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-21T14:47:32-05:00",
+   "body": "Just solo'd with my 44 fury warrior, i found out some neat tricks that might help out.\r\n\r\non the first wave try to kill as many monkeys as you can before you get low on health once you do run away and deaggro all the monkeys that are left they will run back and start attacking the witch doctor bandage/eat&drink while he fights them for a while (he can take quite a bit) once you get your hp/mana back up go back and kill the rest of the monkeys\r\n\r\non the second wave stand back a bit and let him pick up the aggro on some right away kill what you can then run a bit then come back and kill the rest and bandage/eat&drink up before the final wave\r\n\r\non the last wave stand back and let him aggro as many as possible get the aggro on mokk and kill him fast loot his heart and run (or kill the rest if you can/want to)\r\n\r\nHope this helps anyone trying to do this quest :)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-17T08:31:58-05:00",
+   "body": "You can go over the hill tops towards the sea to kill the silverback gorillas there. They have a high drop rate for the fangs.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-10-19T11:25:15-05:00",
+   "body": "Solo'd as lvl 43 mage. FN and flamestrike are your friends here, second wave was definately the hardest. Used a health pot and mana gem, killed Mokk then looted and legged. Not too hard considering the xp.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2020-04-27T11:05:48-05:00",
+   "body": "Easily solo'd as a 45 enh shaman. The next wave doesn't spawn until the current wave is all dead, so what you can do is just kill all the gorillas except one, and just leave that one alive while you regen mana / heal. With 1h + shield, Mail armor and Stoneskin totem, they don't hit very hard at all. Once the last wave comes, burst down Mokk as fast as you can, then just Earthbind the rest of the gorillas and run away with ghost wolf. Ez clap",
+   "replies": [
+    "That's a great idea but it's not all that easy. As soon as you tag one of the gorillas in a wave, the other gorillas will all attack and not stop until they're all dead. You can't pull one out of the group. Unbagwa may be tough but he won't out-aggro anybody killing multiple gorillas. So you'll need to be able to run away from the last gorilla in each group. It took my frostie awhile (and a death) to work through that, but it's definitely doable for mages. Bring lots and lots of potions. An expensive quest and the reward is worthless but 5,800 XP is very good at that level."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-23T17:00:36-05:00",
+   "body": "Hardest non group non elite yellow quest to do ever.  You need a group of at least 2 to do it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-05T20:23:45-05:00",
+   "body": "I highly recommend a group to kill the waves faster. I got all 10 gorilla fangs (took forever) then I slowly solo'd the first and second wave until Horde came in and ganked me... now I have to go retrieve 10 more gorilla fangs.\r\n\r\nDid I learn a lesson? Uh, no... not really. Good luck!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-29T17:49:10-06:00",
+   "body": "done it with a lvl 45 warlock ( im a lvl 40 warrior ) \n\nits hard to with 2 :P",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-13T14:14:15-06:00",
+   "body": "i tried this quest as a lvl 42 druid,a lvl 40 rouge n sum stupid lvl 47 druid...i couldnt complete it cuz both of them ran like chikens n left me 2 die...we took out 1st wave,but wen da 2nd wave came they killed 1 n ran..i killed all the gorillas + konga...but had like half life left by then...they beat me up n i died.can ne1 help...? \n\nim at Vek' Nilash server...STRANGLETHORN VALE\n\nlvl 42 druid(mauricio)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-20T06:11:59-05:00",
+   "body": "Me (Lvl 43 Pally) and 45 Hunter completed this.\n\nThe location is correct: just past Booty Bay entrance where mistvale gorillas are. Grab 10 Gorilla Fangs (you will need them) that drop from the gorillas to summon Mokk at the cave.\n\nBuff and get ready because the waves come fast.\nI basically hung on for dear life. I expended most  mana doing AOE dmg while the hunter and pet chiseled away at Mokk. Paced through it (to conserve mana) by drinking health potion during second wave. I'm also an engineer so I used bombs for stun and AOE during each wave. Each time I did, I aggro'd them so I used Pally tricks for personal Shield. AOE, pacing mana consumption, and  every last trick in the book, helped me endure this onslaught.\n\nGood luck and God Speed!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-11T06:13:12-06:00",
+   "body": "i revere all info, i prefer coords, but most of the BS is useful",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-16T08:38:09-05:00",
+   "body": "Killing the first 2 waves with no problem with 60 Mage, but the 3rd wave never shows up, have done it 3 or 4 times now with same results.  This quest must be bugged atm.",
+   "replies": [
+    "Killing the first 2 waves with no problem with 60 Mage, but the 3rd wave never shows up, have done it 3 or 4 times now with same results. This quest must be bugged atm.\n"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-29T21:08:09-06:00",
+   "body": "I did this at lvl 43 (rogue) and I had a lvl 43 warlock with me\n\nWe just managed to kill Mokk and just looted and ran  and left the Troll alone.\n\nReally hard",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-06T05:18:12-05:00",
+   "body": "The cave itself is at 34,61.  If you don't have coordinates in-game, then that puts it south of Gurubashi Arena, east of the road, right in the northern section of mistvale.\n\nPlease take note, that when you get the 10 teeth and he starts casting, or whatever, you will deal with 3 waves of gorillas.  The first wave is easy-ish, with 3-4 40-41 mobs (no elites in any waves).  The second wave includes a mini-boss in the 5 gorillas, named Konda, and he (I think) is a 42 (not elite).  The third wave is very difficult - you get the non-elite boss Mokk the Savage, along with 5 friends - Mokk is 42-44, the friends are similar.\n\nAt this point, I'd say screw protecting the guy, kill Mokk, loot, and run.  You finish the quest just fine that way.\n\nRan it solo as a 47 Paladin.  Got 5850 XP.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-11T14:03:23-05:00",
+   "body": "where is exactly?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-01T20:22:22-05:00",
+   "body": "This quest should be an elite.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-22T01:29:00-06:00",
+   "body": "The cave is at 34, 61, as previously stated. Three waves of 40+ gorillas. Hard.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-30T19:41:04-06:00",
+   "body": "Here's a trick if you're a mage trying this.\n\nFirst wave.  Stay behind the Witch Doctor.  When they start on him, get close and Flamestrike.\nCone of Cold, then back off to the wall.\nIf you have IAE or Blastwave hit that now.\nFrost Nova to lock them in place and run past them toward the entrance.  Flamestrike again, and let them run at you.  Pick the nearest and poly him (the most important part) now back up again and you should be able to CoC again, by this time the first wave is dead or close to it, except for the one that was poly'd.  Kill the rest, leave your sheep alone.\n\nBandage if you need to, and re-sheep the last gorilla from wave one when it breaks.  Let your mana regen, DON'T use a pot or gem yet, just let it come back on it's own.  You're still in combat, so you can't drink.\n\nAfter you feel you have enough mana back, fireball or icebolt the sheep and kill the last gorilla.\n\nRinse and repeat with the 2nd wave, you might need to burn a pot or gem.  If you do, take the time to wait out your cooldowns for the pot.\n\nRepeat until Mokk appears, then nuke his a$$ to death, concentrating only on him.  FN and Blink away from the others, run until they give up, then run back and loot Mokk as they are pounding on the Witch Doctor.  You can help if you want, but it doesn't make a difference after you've looted the Heart.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-04T14:06:07-06:00",
+   "body": "I went into this as a lvl 42 druid and was a bit hesitant until I did what everyone should do and hollered for any help. Low and behold a lvl 70 hunter offered up and it was a wipe.....for them! Dont afraid to ask and be sure to offer yourself for later down the road. Makes the game all that better.\nThanks Aaers on Greymane!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-29T17:49:09-06:00",
+   "body": "done it with a lvl 45 warlock ( im a lvl 40 warrior ) \n\nits hard to with 2 :P",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-23T18:03:28-06:00",
+   "body": "Bad drop rate. \nMany xp: 5850 lvl 44",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-02T14:13:34-05:00",
+   "body": "This was tough.  First time I tried at about 42, I got crushed in the 2nd wave, so I had to re-collect the fangs and go again.  This time I made it, although I did die in the 3rd wave.  Key is to kill Mokk first and loot him before you die.  I went back to rez and the 5 cronies were still there, so I never looted any of the other gorillas, but who cares.  I found that the waves were only 5-8 seconds apart, so not a huge amt. of time to drink/eat. . .",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-19T15:01:23-06:00",
+   "body": "Did this at 50 (Warrior) and it was rough. The easiest time I had was w/ a 43 Priest and I was able to stay in Battle Stance for the entire time 2H it. There really is only about 8 sec of \"rest\" between the waves of Gorillas - pretty rough.\n\n@ lvl 50 \n5850 xp\n550 BB rep\n-500 Bloodsail Buccaneers rep\n\n[i][small]Edited, Feb 19th 2007 12:05pm by Dobrhaltar[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-11T20:37:08-05:00",
+   "body": "It was a close one because I tend to draw aggro and do a good deal of threat. And no, I don't give a hoot if you disapprove of a gazeteer, because it might be helpful to rational players.\n\nI did this because I had the requisite Gorilla fangs from Un-Goro Crater (the gotillas sit on about three mineral nodes, tending to run to Small Thorium). So I found the witch doctor easily enough (as you leave Booty Bay, stick to the road and look to the right before the Arena-- where the Elder Mistvale Gorillas congregate).\n\nI buffed with scrolls and Crystal Spire, had an axe with Beastslaying that was sharpened, and had my Dog Trainer Gloves on (+20 Beast slaying). The first wave was a pushover: I did a Blood Rage going into it so I could Thunderclap. After the wave I had time to eat and almost healed up.\n\nSecond wave had a Konga, and knocked me down to about 25% Health. I had use a Superior Healing Potion so was unable to drink for the next fight. The wave with Mokk almost did me in. I sprang Retaliation and killed the big guy first, using everything from Rend to Mortal Strike (and keeping up the all-important Battle Shout, Demoralizing Shout, and Thunderclap on all of them). I did grab his heart, just in case I died. I was down to about 10 Health when the last gorilla was still swinging, so I hightailed it out of there. Good ol' Unbagwa finished him off.\n\nThe reward turned out to be slightly less good than the cape I was already wearing, so I vended it, but the Booty Bay reputation reward btought me to Honored. Can't beat that!",
+   "replies": [
+    "Just soloed w/ a lev 45 draenei hunter (love that Gift of the Naaru!).  Anyway, tried it a couple of times.  The annoying part is getting the damn gorilla fangs before u can trigger the NPC.  I wound up buying 20 on the AH just in case and it was a good thing cause I had to use all of them. \n\nI set a frost trap just down the incline right after the NPC summoned the 1st wave and sicked my cat on them.  No problem but both me and the pet took damage.  I was able to heal mostly before the second wave (that black gorilla sucks!) and at one point, had to feign death and booked it down the hill.  My"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-04T10:36:45-05:00",
+   "body": "Managed to solo this at a 43 Blood Elf Paladin\nTook 2 bubbles, lay on hands, greater health potion, jade owl trinket, dense healing stone and food/drink between fights.\nOn the final wave I just focused on the boss mob, looted him then died to the minions.\nYou still get the Quest Complete message once you lot the boss regardless of if you kill the rest of the monsters.\n\n[i][small]Edited, Apr  4th 2007  9:38am by Saigan[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-03T12:04:27-06:00",
+   "body": "LOL managed to solo this as a 43 Hunter. Collected the 10 gorilla fangs then went to the cave to see the bloke. Managed the first wave of 3 lvl 41 gorillas, but with 20% and 30% mana and health left. 2nd wave came, 3 lvl 41 gorillas and konga lvl 42. Dead after taking one out. Went back for corpse and they still in cave even tho the guy is dead. Took out konga and I'm dead again. Went back, this time 5 gorillas including mok. Pet and ranged Mok, looted him, cast thunderstomp and got out alive. Pet didnt make it....",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-26T18:30:54-05:00",
+   "body": "I just completed this quest as a LVL 48 lock.... reputation with Booty Bay greatly increased and got got 5850 xp",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-08T20:20:06-06:00",
+   "body": "I managed to solo most of this as a 43 pally with some decent gear. Used LoH and 1 major health pot. Got to last wave killed Mokk and then wiped from the ones that were left. But hey I held my own and got his heart!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-16T06:56:32-05:00",
+   "body": "Hey, I just beat this at 44 on my hunter.\n\nSome key things about the waves that assault you. \n\nWave 1\n3 lvl 42 Gorillas, enrage right before they die.\n\nAs soon as I beat the first wave, the next came. Either it is on a timer or it is triggered by beating the first wave. \n\nWave 2 \n4 Lvl 41 Gorillas and a 43 named Gorilla\n\nThis one was hectic. I had to use everything I had and In the end, I beat this wave with about 13 health left and my pet about the same.\n\nWhen this wave fell, there was about a 15 second pause so I sat and ate/drank.\n\nWave 3 \n\nMokk the Savage, 44 Gorilla and 5 lvl 41 Gorilla buddies\n\nI killed Mokk as the other 5 gorillas beat on the witchdoctor and eventually killed him. Grabbed the heart, and zoom!\n\nThis is a hard quest, if you can't take out 8ish mobs 40+ in almost back to back waves, then get help. Peace.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-05T01:53:32-05:00",
+   "body": "Killed the waves 3 times now, but i cant loot Mok or wtf his name is. = No heart!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-09T13:59:38-06:00",
+   "body": "where to deliver his head?\n\nlvl 45 mage",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-04T19:11:22-05:00",
+   "body": "i did this easily as a 42 hunter along with a 45 hunter. we collected the gorilla fangs and summoned the gorilas. first wave has like 3 gorillas lvl 41. second has like 5 or 6. then the next wave has about another 5 and mokk. coordinates were good, at 34, 61. overall easy for a couple pple to do",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-29T06:27:24-05:00",
+   "body": "HOW ABOUT LESS CRAP AND MORE COORDS ?\nCAVE @ 34,61",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-06T14:26:15-05:00",
+   "body": "Did it with a 42 war and me (43 priest) no problems. Getting the fangs was the only annoying bit. Well worth it for the xp and cloak!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2021-04-15T14:57:20-05:00",
+   "body": "Soloed with 44 Undead Frost mage on second pull. Survived with 28hp after killing only Mokk in 3rd wave...during 2nd wave one gorilla evaded and went fighting Unbagwa. This probably saved me",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-30T17:22:04-06:00",
+   "body": "I just ried to solo this with my Druid, I got the the 2nd wave, but then the Witch docter died >.> So Now I gotta do it again. Had very few problems as a Feral Spec Druid soloing it up to there at 42.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-31T19:32:34-06:00",
+   "body": "Easy as a hunter if you got Beast mastery build .. well might be easy with other builds aswell but I was using pure beast mastery talents and I had no problem doing this quest.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-04-21T18:06:27-05:00",
+   "body": "Question of the day: \n\nHas anyone tamed him yet?\n\nI am looking at doing this, I suppose it would be easiest with a mage and have him poly'd first then get rid of his group, then tame him. I think a mage and a healer would be good that way the healer could heal you as he beat on you...hmm...",
+   "replies": [
+    "I don't know if you tried taming already or not, but you have to count only on you :) As i know if someone heals you (druid, priest...) the tamable creature attacks the healer and your taming cancels. I think its because creature already gets in combat mode. The same can happen if a mage or warlock bans him first. I'm not sure if I'm right because these are just my observations of my attempts to tame a named tiger (Sin'Dal); he kept stunning me so I had to start taming over and over and on the 3rd time already needed a healing. "
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2007-02-13T19:41:53-06:00",
+   "body": "For a hunter specifically, you get the second wave done at minimum.  For the third wave, if you think you can't make it then FD  at the outside of cave.  The third wave group still remains inside the cave.  So you can wake up outside, res your pet, refresh and kill them all.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-03-28T16:19:18-05:00",
+   "body": "as of march 28 2007\r\nit is soloable by a 40\r\n\r\nsolod as a 40 prot pally, i was pretty well geared but it was a relativly easy fight past the 2 waves all i did was let reckoning proc as i used seal of light after i judged seal of light to keep myself healed the whole fight, didnt lose health past 90% past 2 waves, and 3rd wave i just burned omokk down first and used lay on hands once i got low and ran... ez",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-07T14:26:59-06:00",
+   "body": "Im not interested in whether or not you did the quest, Im looking for tactics, locations useful info.  Keep the useless posts to yourself",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2020-06-22T14:06:04-05:00",
+   "body": "even as a mage GL with this since you have no time to eat for mana",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-11-01T02:19:35-06:00",
+   "body": "There are 2 - two - waves. The first wave is 3 apes, the second one is 5 apes, including Mokk, who's heart you have to loot for the quest.",
+   "replies": [
+    "Second wave has a bloke called Konda in it."
+   ]
+  },
+  {
+   "rating": -4,
+   "date": "2007-03-08T15:21:21-06:00",
+   "body": "Soloed as a 43 prot pally. Got close at the end so I made sure on the 3rd wave to kill mokk first and loot him just in case I died.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-05-10T00:38:30-05:00",
+   "body": "Soloed as a 43 prot-speced paladin, no aggro tricks or outside buffs, no cooldowns blown, no potions. Judgement of Light/Seal of Light on all mobs, a single Consecration on the last wave, and everything was cake.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-05-19T16:15:05-05:00",
+   "body": "soloed as a ret-speced paladin, same as above, used judgement of light/seal of light on all mobs, and a lot more than one consecration... had retribution aura going, and had to use lay on hands.. but i soloed it and didnt die",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2007-03-27T20:10:33-05:00",
+   "body": "I can't talk to the witch doctor.  Is there a reason?",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2007-04-08T04:46:01-05:00",
+   "body": "incredably easy to solo with lock ... did this lvl 41(full affliction) and had no problems.\n\nFirst wave is easy void on one target fear other dot all up and kill them one by one.\n\nNext wave (5 mobs /4 lvl 41 1 lvl 43) sent my void in used suffering dottet the 43 up , feared One  run in howl of terror dotting them one by one life tap dark pact  and nuking them one by one keeping one feared. at the end when there was only one mob left i bandaged life tap so i had some more hp mana had nothing left... \n\nIn the break before last wave drink and health  only managed to get mana up to 40 % before they spawned. sent my void on mokh suffering, dot dot dot, howl of terror, nuke him totaly loot his corpse  sacrefice void and run tha hell out of there.. \n\nTotaly easy job for a lock",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2005-04-20T15:23:45-05:00",
+   "body": "LOL, this one is easy. Did this with a lvl 43 priest as a lvl 42 druid. Turned to dire bearform and took them out one by one while the priest healed. Had half the life left when all was done. Good xp and award.",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2005-06-09T04:34:36-05:00",
+   "body": "No one felt like mentioning that summoning this bugger also summons waves and waves of enraged goillias? Can we maybe try and add good information to these areas.. too much to ask for i know..",
+   "replies": [
+    "You dont read to good do you...",
+    "I just wanted to mention that this quest cracked me up. \n\nAnd before anyone asks, I read perfectly well, too well, it seems. ",
+    "Heh. i meant post, not quest. that's what i get, I guess... :)"
+   ]
+  }
+ ]
+}

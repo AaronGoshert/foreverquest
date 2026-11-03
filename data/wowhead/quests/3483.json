@@ -1,0 +1,162 @@
+{
+ "id": 3483,
+ "name": "Signal for Pickup",
+ "level": 52,
+ "reqlevel": 45,
+ "side": 1,
+ "zoneId": 1537,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 8517,
+  "name": "Xiggs Fuselighter",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    70,
+    93.2
+   ],
+   [
+    71,
+    92.8
+   ],
+   [
+    71,
+    94.2
+   ],
+   [
+    71,
+    94.6
+   ],
+   [
+    71.6,
+    93
+   ],
+   [
+    71.8,
+    93.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 8517,
+  "name": "Xiggs Fuselighter",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    70,
+    93.2
+   ],
+   [
+    71,
+    92.8
+   ],
+   [
+    71,
+    94.2
+   ],
+   [
+    71,
+    94.6
+   ],
+   [
+    71.6,
+    93
+   ],
+   [
+    71.8,
+    93.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Completion Ah, another flare gun, huh? That I can do. And don't forget, southern tip of Azshara. It's a small little island that's been turned into a landing pad. You can't miss it if you're in the right spot.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 8517,
+   "name": "Xiggs Fuselighter",
+   "coord": [
+    71,
+    94.2
+   ],
+   "coords": [
+    [
+     70,
+     93.2
+    ],
+    [
+     71,
+     92.8
+    ],
+    [
+     71,
+     94.2
+    ],
+    [
+     71,
+     94.6
+    ],
+    [
+     71.6,
+     93
+    ],
+    [
+     71.8,
+     93.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 8517,
+   "name": "Xiggs Fuselighter",
+   "coord": [
+    71,
+    94.2
+   ],
+   "coords": [
+    [
+     70,
+     93.2
+    ],
+    [
+     71,
+     92.8
+    ],
+    [
+     71,
+     94.2
+    ],
+    [
+     71,
+     94.6
+    ],
+    [
+     71.6,
+     93
+    ],
+    [
+     71.8,
+     93.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

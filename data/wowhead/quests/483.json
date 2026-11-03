@@ -1,0 +1,505 @@
+{
+ "id": 483,
+ "name": "The Relics of Wakening",
+ "level": 9,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 780,
+ "start": {
+  "type": "npc",
+  "id": 2078,
+  "name": "Athridas Bearmantle",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    56,
+    57.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2078,
+  "name": "Athridas Bearmantle",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    56,
+    57.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Retrieve the Relics of Wakening and bring them to Athridas Bearmantle in Dolanaar. Raven Claw Talisman  ( 1 ) Black Feather Quill  ( 1 ) Sapphire of Sky  ( 1 ) Rune of Nesting  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2078,
+   "name": "Athridas Bearmantle",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3405,
+   "name": "Raven Claw Talisman",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3406,
+   "name": "Black Feather Quill",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3407,
+   "name": "Sapphire of Sky",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3408,
+   "name": "Rune of Nesting",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Raven Claw Talisman",
+   "count": 1,
+   "type": "item",
+   "id": 3405
+  },
+  {
+   "text": "Black Feather Quill",
+   "count": 1,
+   "type": "item",
+   "id": 3406
+  },
+  {
+   "text": "Sapphire of Sky",
+   "count": 1,
+   "type": "item",
+   "id": 3407
+  },
+  {
+   "text": "Rune of Nesting",
+   "count": 1,
+   "type": "item",
+   "id": 3408
+  }
+ ],
+ "series": [
+  475,
+  476,
+  483,
+  486
+ ],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 2078,
+   "name": "Athridas Bearmantle",
+   "coord": [
+    56,
+    57.4
+   ],
+   "coords": [
+    [
+     56,
+     57.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 2078,
+   "name": "Athridas Bearmantle",
+   "coord": [
+    56,
+    57.4
+   ],
+   "coords": [
+    [
+     56,
+     57.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 4,
+ "comments": [
+  {
+   "rating": 61,
+   "date": "2005-10-12T22:45:02-05:00",
+   "body": "#1 thing is to be careful of where you fight them.&nbsp; give them running room.&nbsp; pull them back (watch respawns to your rear).\n\n#2 keep moving. do your bathroom break and telephone calls before this.&nbsp; you dont want respawns to catch you.\n\nwhen you walk in, you see two bridges.&nbsp; one item at each end.&nbsp; \n\ngo down and take a left.&nbsp; go straight when you come to the crossing and loop around up to the left to get the talisman.\n\nnow, walk down the stairs and to the right... head south.&nbsp; next open room you'll find Oben Rageclaw up to the left, and he gives a simple quest.\n\neventually, you will find your nemesis: Greenpaw.\n\ni died the first fight, but i took him out in time.&nbsp; cleaning up the guard was easy when i spawned.\n\nsapphire is right next to greenpaw.",
+   "replies": []
+  },
+  {
+   "rating": 56,
+   "date": "2006-09-06T10:45:02-05:00",
+   "body": "You'll find Ban'ethil Barrow Den at 45.55\nGet inside the house and follow the road down.\nTake the right bridge and get '[b]black feather Quill[/b]'.\nTake the left bridge and get '[b]rune of nesting[/b]'.\nGo down, and then left. \nGo over the bridge and through the small corridor. (watch out, two lvl 9 mobs). Get '[b]raven claw talisman[/b]'.\nTo get the last item it might be best to get back to the beginning and take right instead of left when you 'go down'. \nFollow the road. and get DOWN. The last item is inside the small room. \nA lvl 10 and 9 mob is guarding it. There is a food create next to them too.\n\npiece a cake, if you remember to bring your luck.\nI died four times before getting the last item. At least i soloed the whole quest ;)\n\n/edenvin - lvl 9 priest",
+   "replies": []
+  },
+  {
+   "rating": 31,
+   "date": "2006-07-31T22:45:02-05:00",
+   "body": "Most people, as one of the posts I'd read, say that you need this kind of group if you're this kind of lvl.\nPersonally, I've found that a good lvl to do this quest solo would probably be above 12...Though, that's a pain trying to lvl, right?\nMostly, I simply waited till I was about lvl [b]9ish[/b] or so. I grouped with anyone else who needed to do this quest also.\nI've gone through this quest on my rogue, hunter, priest, and druid.\nAll you have to do is be [b]lvl 8+.[/b] Otherwise...good luck with aggro..\n\n[pad][div align=center][b]::A suggestion::[/b][/div][pad]\n\n[ul]\n  [li][b]--[/b]If you're lvl 9, try grouping with 2 other people. Or one. I was able to group with one other person on all my chars when I was lvl 9 and we didn't die once. BUT - You have to know what you're doing! Don't run into the guys - they're quick to respawn. \n[/li]\n  [li][b]--[/b][i]If you want to be safe, try grouping with 2 ppl.[/i] With a group of [b]3[/b], you should have no problem...so long as you guys are [b]alert and watching[/b] for those evil respawns.[/li]\n[/ul]\nI have inlcuded a map to where the den is.[url=http://i39.photobucket.com/albums/e193/Syncotm/teldrassilDEN2.jpg]Clicky[/url] (might be tiny...but it will show you where it is lol)\n\n[ul]\n  [li][b]--[/b]The first two relics are found when you walk in. Follow the little tunnel till you come to an opening with two bridges infront of you. At the end of both bridges are little caves with the chests that hold the relics. Careful: There are usually two guys within the caves and there's one (that's possibly on both) that patrols the bridge to your left.\n[/li]\n  [li][b]--[/b]After that, keep following the tunnel. There will be a place to go infront of you, and tunnel leading off to the right that looks like it \"spiral's\" down. Follow the spiral tunnel. You will eventually come to another bridge that you may cross. There is no relic inside this cave, but a quest. Its up to you if you want to get it. The guy's name is Rageclaw, if I recall correctly...\n[b]**If you do go straight ahead, this will take you to a platform.[/b]\n[/li]\n  [li][b]--[/b]Now, on that plat form, there's usually a guy standing in the middle, and one that patrols the bridge leading to the platform and another patrolling the little bridge that leads you down, along with another that walks on the other bridge straight ahead (or almost) of you. That's where you want to go. It's like a cave - when you first walk in there's approx. 2 guys in that little 'bubble'. There's a tunnel to your right which you want to take. That takes you to another 'bubble' in which there's approx. 2 more guys. Once you kill them, turn to the right and there's your chest with one of the relics sitting out on a 'deck' (looks like one, as it has a railing...).\n[b]**If you didn't go straight ahead, don't worry.[/b]\n[/li]\n  [li][b]--[/b]If you get the quest, that's alright. Now, there's going to be another opening straight ahead, and once more, another that spirals down. Take the spiral first - There's another relic down there. This one is by that beloved Greenpaw dude...whatever his name is...Anyways, there's him (usually lvl 10ish or so) along with a lvl 8, 7, or 9. Once you're done there, move back up the spiral and take the opening on your right. Follow that. You'll come to a little arena-like area. There'll be a large pillar of stone in the middle, with guys walking around it. There IS a little cave bubble down there, but it [i]HAS NO RELIC[/i]. This is where rageclaw's body lurks, so he might attack you. He patrols around the pillar. Now, there should be a little pathway to your left, taking you up to the platform. Kill the guys there. (I've describe approx. how many guys are there in the lil dot thing above this one.) You're going to want to take the bridge to your right, leading you into The cave bubble. Kill the guys there and take the one to your left to the next bubble, kill those guys. To your right is the 'deck' with your relic.[/li]\n[/ul]\n[pad][div align=center]I believe that is all...\nGood luck with the quest.[/div][pad]",
+   "replies": []
+  },
+  {
+   "rating": 28,
+   "date": "2006-12-09T11:43:40-06:00",
+   "body": "Loc on this is 43, 59.",
+   "replies": []
+  },
+  {
+   "rating": 23,
+   "date": "2005-10-04T21:28:35-05:00",
+   "body": "After the intial tunnel into the place, there will be a set of rooms with bridges. Check these rooms for pieces.\n\nAfter you have 2 pieces, keep going down. You'll see another set of bridges. Carefully inch your way until you can see who is in the rooms at the ends of the bridges. Run your mouse until you see the Druid spirit for a quest. Clear the room, and trigger the quest. \n\nBelow the Druid, in a cave, is a named Furlbog who will have the Sapphire. Or the Sapphire will be in a chest.\n\nNow, if you stand at the top, facing the room with the Druid spirit, there's a tunnel on the left. Take the left tunnel, and you'll see a bunch of Furlbogs wandering around, and then you'll see the Druid body you need to kill.\n\nKill it. and remember to use the totem. I suggest turning in the quest right away.\n\nReturn to that room and take a tunnel. I don't remember it well. If you descend more, there is another set of bridges. Take the one to the right, and kill the things in the cave. It might have a barrel of water in there.\n\nKeep following the path ( do not double back ) and you'll enter another room that has the chest with the Raven piece.\n\nI tried this so many times, died a lot. The first 2 pieces were easy to find. It was the last 2 that were a pain.\n\nThis may not be accurate, but I tried my best.\n\nGood luck. Hopefully, you can hearth out of the burrow when you're done. Either that, or suicide and spirit res outside. It's not worth fighting your way out.\n\nEdited, Wed Oct 19 16:15:22 2005",
+   "replies": []
+  },
+  {
+   "rating": 22,
+   "date": "2019-10-08T07:57:50-05:00",
+   "body": "The most challenging solo quest for a hunter all the way from 1-60 if you do it without a pet. Extreme difficulty.",
+   "replies": []
+  },
+  {
+   "rating": 20,
+   "date": "2007-05-14T07:12:19-05:00",
+   "body": "This quest is a hell for hunters without a pet. Don't even try this.\r\nTerrain and bridges make u loose 'line of sight', so u are able to fire up to 2 arrows before u get crushed by 2-3 furblog warriors in melee no way to survive the pull... no way to run due to the rapid respawn",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2019-08-27T05:16:56-05:00",
+   "body": "To complete the quest you need to retreive four relics.\r\nYou need to go to [b]Ban'ethil Barrow Den[/b] entrance, its west of Dolanaar, coordinates are [b]44.40 57.75[/b]\r\nGet inside and move through the corridor until you reach two bridges and a path to the left. Check both rooms across the bridges.\r\nThere you'll find chests contain [b][item=3406][/b] and [b][item=3408][/b]. Now jump down and take right corridor.\r\nAfter passing through you'll reach the similiar hall as the first one was, just with the single bridge. There's a small room under the bridge ([b][npc=1993][/b] may be there).\r\nCheck the room for [b][item=3407][/b]. Continue your way through the corridors until large hall with lots of bridges.\r\n[b][item=3405][/b] is in the chest on the balcony, use bridges to reach it and loot.\r\n[quote]TomTom coordinates:\r\n/way 44.40 57.75 [b]Ban'ethil Barrow Den[/b] entrance[/quote]\r\n[b][quest=483][/b] - www.youtube.com/watch?v=WP9ZiQQwk7Q",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2007-05-19T22:45:02-05:00",
+   "body": "If your a hunter, do the quest to get your pet before this! It makes this quest sooooo much easier",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2020-09-13T05:43:53-05:00",
+   "body": "This is still one of the most hardcore and difficult quests ever, relative to the power of your character at the time of doing it.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2005-10-12T22:45:02-05:00",
+   "body": "Just a tip: the Sapphire of the Sky is beside the named furbolg greenpaw. Had a hard time finding it for some reason.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-10-12T22:45:02-05:00",
+   "body": "actually the /tloc 43,59..If you read the map right",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-06-18T07:21:27-05:00",
+   "body": "Just don't loot the small stuff like an apple or one copper.  The corpse will sit there.  One of those pain-to-navigate quests, but when you leave unlooted corpses it's kinda like leaving bread-crumbs so that you know where you HAVE been.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2019-09-06T06:28:39-05:00",
+   "body": "This is a hard quest for the level you get it at. \r\n\r\nI came back as level 11 druid and teamed with a level 9 hunter and it took a long time, due to the confusing layout of the tunnels, and the sheer quantity of mobs and their quick respawn rate.\r\n\r\nI stuck with it because the quest reward staff was far greater than anything else i found up to that point.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2020-11-01T05:22:50-06:00",
+   "body": "Don't even bother with this quest without a pet. I abandoned it. Too many mobs together.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-01-30T10:45:02-06:00",
+   "body": "This quest seems designed to be the final level 9 quest before hitting the road from Dolanaar to Darnassus, where my character would then hit level 10 and get druid training, bear quests, fishing, etc.&nbsp; If this quest didn't hit level 10, the other 2 sending my character to Darnassus would do it. I meant to finish it and call it a night. Instead, I got through the first 2 quest items solo, then died twice trying to move on, recovered my body, and hearthed out. Should have stayed with the priest and warrior who grouped with me on the previous cave quest, where it really was possible to solo.\n\nGoing in, I thought this quest (and maybe the Fel Rock cave quest) seemed to be designed to encourage newbies to learn to group, so they'll be ready for harder quests and instances a few levels later.&nbsp; As a solo druid, it seemed to take just the right timing to get one of the self-healing shamans down to where one wrath would kill them without their self-healing. After getting those first two quest items, it seemed like there was always a shaman and a warrior or two, so when the shaman didn't go down, it left my druid nearly out of mana to heal or to fight effectively, and one or two warrior adds. Thus the deaths.\n\nI can see leveling up, training, and coming back with the bear form, but I think I'd like to get a small group together, 2 or 3 people, to get this one done before moving on to Darnassus. It may be do-able solo, but at level 9 most of us are just learning our class, and it's hard.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-01-27T10:39:37-06:00",
+   "body": "Don't bother with this one if you can't manage crowd control.  I soloed it with a level 10 hunter; though the place was littered with corpses indicating some classes will struggle here.\n\nFor an extra bonus, don't miss the Sleeping Druid and Druid of the Claw quests found inside; they're worth an extra 1750 awarded exp points.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-07-13T07:31:02-05:00",
+   "body": "Assuming you know how to look at your in-game maps and access the WoW maps, you will see two little cave-mouth map symbols east of Darnasses and south of the road. One appears to be just below the road on a curve a bit east of the road that goes north to Wellspring. \n\nLet's call the easy to find cave that is just below the road the fake den. It contains three Gnarlpines, and they fill up the small space. However, standing in the mouth of the fake den looking out, you can see a faint trail leading up the hill a bit to the right (call it 2 on the face of a clock). \n\nI am a level 17 rogue, but my level 8 mage received the quest. After reading what others have said here, I thought I better check this out. \n\nWhat folks say is true! The maze has many levels and bridges, the map changes with levels, and the place is very easy to become lost in. Also the Gnarlpines are densely packed. I was able to stealth past them all, but I am more than double their level. I figured I would probably attract about six if I showed myself. \n\nThis is not for little ones to solo, especially non-rogues. I recommend soliciting or accepting any help you can drum up for this one. The alternative is to wait until you are a bit more grown up than level 8!\n\nI hope my directions someday help someone. Keep in mind, maps are your friends. :)\n\nRoe",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-30T10:45:02-06:00",
+   "body": "I did this quest when I was a level 9 Rogue, and I leveled to 10 in it.&nbsp; It took incredibly long, though, even with a druid that was my level.&nbsp; Killing the monsters was no problem, it's just that there were so MANY of them, it was crazy.&nbsp; On top of that the whole place is a friggin Labyrinth for people without Cosmos, it was a nightmare.&nbsp; I finally pulled it off, though, and felt pretty good afterwards.&nbsp; By the way, to the person who said a level 7-8-9 rogue should use two daggers, they don't get Dual Weld until level 10.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-12-03T18:00:12-06:00",
+   "body": "The quest is actually quite easy when you exactly know the locations of the 4 items. I soloed it as a lvl 9 druid and died not even once; what's more, I even had to heal myself only once. First time I did the quest though and had no idea where the items were I struggled hard with my lvl 12 priest and died again and again. I did not do Rageclaw though with my lvl 9 druid; I will return for that at a higher level.\nAnd here are the locations:\nChest of Black Feather Quill: 43,61\nChest of the Sky: 44,62\nChest of the Ravenclaw: 45,57\nChest of Nesting: 44,60\n\n[i][small]Edited, Dec  3rd 2006  3:25pm by BaldJean[/small][/i]\n\n[i][small]Edited, Dec  3rd 2006  3:27pm by BaldJean[/small][/i]\n\n[i][small]Edited, Nov 23rd 2008  5:53pm by BaldJean[/small][/i]\n\n[i][small]Edited, Nov 23rd 2008  5:54pm by BaldJean[/small][/i]",
+   "replies": [
+    "CORRECTION TO Coordinates above:\n\nChest of Nesting: 44,[b]60[/b]\n\nPlease check your typing gang - saves a bunch of heartache"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2004-12-09T08:09:05-06:00",
+   "body": "This one gets the tag of: \"Should have been ELITE\"",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-05-14T10:29:24-05:00",
+   "body": "Does anybody know where the Raven Claw Talisman is? I've been through that place a couple of times and I can't find it. I've got everything else. Can anybody help? Thanks.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-01-27T17:19:21-06:00",
+   "body": "Yeah, what everyone else said; this is a tough quest!\n\nI've been trying to do it since lvl 8, and I still can't with my lvl 10 warrior solo.\n\nTo make it tougher is the respawn rate is insane!  In some cases less then 1 minute.\n\nIn addition, several parts of the cave look similiar so it's hard to tell where you have been.  Becaue of the respawn rate, you can't use dead bodies as markers.\n\nAlso, since a lot of the passways are narrow and twisty, hit V to turn on NPC health bars.  You can see these through walls, so it's a way of seeing what is around the next corner.\n\nI think this cave is also part of a higher level quest.  While exploring it, I ran across a lvl 40 Gnarlpine that killed me in a single hit.",
+   "replies": [
+    "I finished this quest and when I am tired of getting ganked by the Horde in other zones I come here to help others with this quest and announce it in the chat.  What surprises me is that no one usually takes me up on it and I stand in the cave and watch ppl try and go through and get snuffed by these aggroing mobs when I can group with them and easily take them through it and help them powerlevel up. When a higher lvl character helps someone they dont take away from the ppl they are helping, they actually dodnt get anything from this except for a few copper coins which we can earn much more in"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-30T10:45:02-06:00",
+   "body": "Yep, went well with a group. I took along another druid who's a good player, plus a warrior and then a third druid we met along the way. The two extras were newbies who did some sub-optimal stuff, like racing ahead and bringing back 4 \"friends\", but the two of us never came close to dying and we got all the items as described above. We did fine as two level 9 druids alone for much of it (one of the extras decided to take a shower, and the warrior kind of ran off to another area for half the quest), but when it was a level 11 warrior and 2 level 9 druids against one or two mobs, it went quickly enough that adds could usually be dispensed with easily.\n\nGood chance to practice grouping skills if you're new, and good place to teach them if you're doing this as an alt - I don't think there was any green loot, but there are chests to roll for, and basic ideas like staying together and not racing in to aggro a half dozen mobs are things that came up for us. Was also a good chance to practice healing.&nbsp; It's a long quest, and the cave is quite the labyrinth, but I think it's a really well-designed low-level quest that helps get you ready for stuff like Deadmines in another 10 levels.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2021-01-07T15:56:43-06:00",
+   "body": "Entrance (a more precise coordinate)\r\n/way 44.41, 57.84",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-11T02:01:45-06:00",
+   "body": "WHERE is the den/cave located?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-10T07:08:19-05:00",
+   "body": "I spent about an hour here tonight and got everything except for the quill. It was challenging at times, but for the most part steamrolled through courtesy of my bear. It gets maddening with all of the similar corners, different confusing levels etc. I'm going back in, so hopefully I'll get it tonight.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-21T02:19:27-05:00",
+   "body": "I am doing this quest currently as a lvl 13 gnome mage in fact i just started it today. On thing that helped me was the fact that there were like 20 other people int the dungeon with me.\n\nIt also doesn't hurt that if i get agroed i just freeze them in place and then pick the off. All in all not that hard provided the dungeon is crowded. Will have to see what this is like deserted. :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-19T13:21:39-05:00",
+   "body": "Take the road west from Dolanar. It's south a ways off of the road before you reach Darnassus. There are actually two caves in that area, and you want the southerly one.\n\nI did this solo this morning in half an hour with a level 11 hunter and a level 11 stalker for a pet, and it was pretty easy.  Neither me nor Rex died at all, though he sometimes got down to 33% hp.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-31T00:49:48-06:00",
+   "body": "I found all the peices easily. It might not be the fastest, but it always works. Pick a wall (right or left) and follow it. I just followed the right hand wall and found all 4 peices. Keep following it and you'll get back out again. Oldest trick in the book for dungeon diving.",
+   "replies": [
+    "You obviously know very little about labyrinthology, else you wouldn't say that. The trick you mention is not for reaching every location in the labyrinth, but for finding an exit. Their could be circular structures inside the labyrinth which you will never reach that way."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-03T12:29:44-06:00",
+   "body": "Could anyone tell me where the Den is?  I have been searching for it for a while.\n\nThanks",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-12T00:42:46-06:00",
+   "body": "The idea to leave behind unlooted kills does not work anymore.After a certain time anyone can now loot them. There needs to be someway to mark on a map wher you have been so you do not have to go back there. I have been running around trying to find the Black Feather Quill for 8 hours ! Still have not fuond it!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-08T08:58:49-05:00",
+   "body": "Soloed as a lvl 11 Rogue using directions here :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-19T07:03:06-05:00",
+   "body": "It's my second day on wow, i just did this as a lvl 11 hunter, didnt die at all, i eventually found all 4 items (i dont know how to use them co-ordinates on here lol).  It also helped my first aid a fair bit ^^",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-03T16:46:59-06:00",
+   "body": "This quest is kicking my butt. I get down to the lower levels and end up dying.  Anyone got any hints besides \"get bigger\" or \"party up\"?",
+   "replies": [
+    "There's no doubt this was a tough quest to complete. The mine is really dark with a number of mobs, turns, and falls. I managed to finish it at level 8 only because I had three other druids with me -- one of whom had already done it. Can't give much specific advice because we sort of rampaged through it. I had a hard enough time keeping pace and not getting lost. \n\nWith tough quests like this I usually hang out near the entrance and watch for other people coming up to do the quest. Most people don't mind an extra hand. Good luck!",
+    "Just did this... I was a lvl 10 druid when I started in.  I'm not sure I could have solo'd both Greenclaw and Rageclaw (they've got a couple of mobs on the side).  As a druid anyway, it feels like WoW is subtly encouraging teaming by throwing a few tightly-packed mob groups in important quests.  But it's nowhere near the team-fest that, say, CoH or Lineage II are.\n\nAnyway, specific tips: remember which box has what relic in it when you take the relic.  That'll save you from fighting your way back to the same box.  Also, keep a moderate pace and keep moving so the spawns don't catch up with you",
+    "I agree...At the level that this is suppose to be accomplished at. You need a group of about 3. That is what I did it with. Or like was said above. Just wait for a group to go by and let them help you keep the respawns down.But I think without help, or levels, you will have trouble taking down the named.",
+    "Where is the den at?",
+    "Agreed - twisty and difficult - but maybe fun once you've got some firepower, or sneaky techniques. I waited til my rogue was 13 before trying solo this time, tho probably 11 or 12 would have been ok. Could've just worked thru all the (highly numerous) mobs, but stealthed a lot to save effort/time. Did one room with a relic by stealthing in, sapping one guy, killing the other, then moving back to the still sapped guy. Real use of strategy and combining skills, which is why I love playing druids, rogues or hunters. \n\nWhen i do it next as a hunter, a team of 2 or 3, w 1 healer will be a must for"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-27T12:33:41-05:00",
+   "body": "this was  a pain in the ass. the guy that said he did it at level 9 when he only healed once.. was straight talking out his ass.  I am the same, a level 9 druid and it's a pain.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-13T19:57:03-06:00",
+   "body": "Being a rogue made this is easy for me - stealthing around, and planning it more carefully. I didn't think it was that difficult (though it took quite a while, and I probably did die once or twice)...\n\nBut I have played other classes, and I can see how it would be seen as tough when you've got to actually get through all the monsters.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-01T23:27:58-06:00",
+   "body": "This was really quite easy at level 10 with rogue. Sap one of pair then kill the other and return. 8000XP with the two quests inside brought me to level 11. Nice. Oh, I had just upgraded daggers, but nothin special.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-19T14:53:47-05:00",
+   "body": "where are they can anyone tell me?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-26T16:10:56-05:00",
+   "body": "Cords: 44,58 all in the Barrow Den cave in chests.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-29T23:06:24-06:00",
+   "body": "I soloed half of this one as a lvl 9 warrior. At the very beginning, I had a lvl 7 priest with me, but we both died and went our own ways before even entering the cave. The path was pretty clear, but I did have to fight. I got the first two, then died when trying to get the third. I had help getting the last one with a druid (not sure of the lvl). It was hard, and I suggest going with a group. Make sure you have a teleporter for when you are done - you get stuck far deep inside the den.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-16T10:26:11-05:00",
+   "body": "I was able to solo this as a level 9-10 rogue, had to die once to get to one of the relics but other than that it was pretty easy (with the help of health potions). The respawn rate was increadibly annoying though, as was finding all the relics. \n\nFirst 2 relics were guarded by two lvl 7-8 guys over the two bridges right after the long hall. Another one you'll have to face 2 level 9 augers at once and another lvl 8 (it's in the connected rooms on a balcony), the last one is guarded by a level 10 healer (named greatpaw or something like that) and a level 8/9 auger, that room is kind of hidden at the bottom of a ramp.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-26T10:24:29-05:00",
+   "body": "43,58",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-12T10:09:20-05:00",
+   "body": "Just finished this quest as a lv 7 war, but was lv 8 by the end.\nLet's just say it was difficult, I'm out of potions, and I died five times, but I somehow managed to pull all of it off... until Greenclaw. What a &*!@#. I had to call in a guildie to take him out. The rest was challenging but possible with decent newbie equipment and a functioning brain.\nThe one chest that's on the balcony was the toughest, aside from Greenclaw. I ended up having to rush through the Augur-filled area, die and respawn around the corner out of sight of them, then take careful steps within range of the chest to loot it. It helps to make sure that one patroller is as far away from you as he wanders to avoid STILL being aggro'd.\n\nAll in all, I would recommend being at least level 10 before soloing this, and 12 before soloing it without a few potions and a lot of determination. Definitely an underconned quest, as there are several groups of 10 9 9s and 10 8s and 9 9 8s that no lv 9 could take alone. The respawn rate was a #$%^&, but they never caught up with me because of bandages (which are teh pwn).\n\nGOOD GAME SIR!\nI SAID GOOD GAME SIR!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-30T16:32:34-05:00",
+   "body": "Had the advantage of being a level 12 hunter with a level 11 pet, so soloed it easily. Struggled to find the black quill, but carried on looking and found it eventually.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-30T23:30:57-05:00",
+   "body": "1 hour and a half it took me! lol. i was a level 8 hunter at the start but soon turned level 9, i was in a group witha lv 9 warrior (otherwise task would be very hard!) we found the first three items very quicky but we couldn't find the ravenclaw talisman anywhere. so my other group member went to check on the web and soon came back with the co-ordinates, then i had to go to breakfast lol(because my dad was getting very angry cuz i was ignoring him cuz to involved in task) anyway came bak upstairs and was getting chased by two shamans whilst my member had just died. so we met again checked everywhere and finally found a big circular room with lots of bridges and a terrace and we found the talisman lol!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-10-03T04:54:20-05:00",
+   "body": "Some coordinates to go with all the already great directions here:\r\n\r\n[code]/way Teldrassil 43.71 61.22 Black Feather Quill\r\n/way Teldrassil 44.40 60.66 Rune of Nesting\r\n/way Teldrassil 45.66 57.43 Raven Claw Talisman\r\n/way Teldrassil 44.70 62.44 Sapphire of Sky[/code]",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-04-02T03:57:48-05:00",
+   "body": "I solo'd this quest as a level 9 druid (leveled up to 11 doing it) without dying even once. I did have to fight two furbolgs at once several times. The shamans will heal self once and may heal another once as well.  The respawn rate is very fast.\n\nI found the quill and the rune in the first two rooms across the first two bridges as described by madelyn.\n\nI then continued down (a bit left then curving around to the right under the bridges.. past that furlbog hiding around the corner).\n\nI came down to an opening with a bridge going up [which leads to a room with a Druid that gives a quest (The Sleeping Druid, [quest=2541] I had to fight two Augors to talk to him (and every other time I visited him... they spawn fast.)]\n\nI then went down, going left from the bridge then curving around right under it, down to Greenpaw ( [npc=1993] ). I killed Greenpaw and found the Sapphire in a chest in the same room.\n\nFacing the bridge up to the druid's room, I went left and then down the tunnel to the left. Eventually it opened out to a circular multilevel room [with the druid's evil body walking around it].\n\nI went up the stairs to the left and up and over a bridge to the middle upper area. Then I went over the bridge to the right to a room with a passage to another room and terrace to the left. On the terrace I found the final item, the talisman.\n\n(I killed many Shaman without getting the voodoo charm that the druid wants, and ended up finding his body and the final item before I even finished the first part of his quest. I went all the way through the place killing everything and none of the shamans dropped the item.. I started going around again until I was so aggravated that I paged a GM complaining.. you know.. should I just abandon the quest, abandon it and start over, is it broken or what? I killed a few more shaman without any drop and then gave up and logged off. When I came back several hours later I had an email from Blizzard saying that I should move all of my quest items to my main back pack (from  my other quests) and abandon the quest and log off and back on, then get the quest again.\n\nI did what the email suggested, then fought my way back to the druid, got the quest again, and the item dropped from the first shaman I fought after that.)\n\n\n\nEdited, Sat Apr  1 23:09:42 2006",
+   "replies": [
+    "Awesome directions thanks champ."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-09-03T00:31:48-05:00",
+   "body": "worst starter quest ever ><\n\n[i][small]Edited, Sep  2nd  2006 at  8:32pm EDT by Akrysha[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-12-04T01:32:44-06:00",
+   "body": "D:! Can someone just tell me were around they are? like, a bit near such-town or just a little east of thisplace?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-04-02T19:28:04-05:00",
+   "body": "ive done it on my rogue lvl 9 soloed it, dont know what u guys complaining about...",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-02-24T14:28:03-06:00",
+   "body": "this quest is easy. i soloed it as a 58 lock. :P  (getting darnassian rep) but finding some of these werent easy",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-11-21T10:09:13-06:00",
+   "body": "Is this a JOKE? This should be a lvl 30 Q ...",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2007-02-16T14:17:00-06:00",
+   "body": "Cords: 44,58 all in the Barrow Den cave in chests. just find it",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-12-05T10:46:32-06:00",
+   "body": "Ya ya ya, this quest is so hard. NOT! i did this at level 7 (Now level 8) without much trouble. Just remember that patience is a vurtue (In other word so what if it takes a long time to go 1v1?)",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-04-20T14:17:02-05:00",
+   "body": "its impossible solo :/",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-05-21T16:24:45-05:00",
+   "body": "Soloed by lvl 8 druid. Quest is easy, just be careful and dont fight with more than 1-2 mobs at a time.",
+   "replies": []
+  }
+ ]
+}

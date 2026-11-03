@@ -1,0 +1,753 @@
+{
+ "id": 6131,
+ "name": "Timbermaw Ally",
+ "level": 48,
+ "reqlevel": 45,
+ "side": 3,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": null,
+ "end": null,
+ "patch": "1.13.2.30786",
+ "objectiveText": "Grazle wants you to prove yourself by killing 5 Deadwood Warriors , 5 Deadwood Pathfinders , and 5 Deadwood Gardeners .   Deadwood Warrior slain  ( 5 )   Deadwood Pathfinder slain  ( 5 )   Deadwood Gardener slain  ( 5 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 7153,
+   "name": "Deadwood Warriors",
+   "count": 5,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 7155,
+   "name": "Deadwood Pathfinder",
+   "count": 5,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 7154,
+   "name": "Deadwood Gardener",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Deadwood Warrior slain",
+   "count": 5,
+   "type": "npc",
+   "id": 7153
+  },
+  {
+   "text": "Deadwood Pathfinder slain",
+   "count": 5,
+   "type": "npc",
+   "id": 7155
+  },
+  {
+   "text": "Deadwood Gardener slain",
+   "count": 5,
+   "type": "npc",
+   "id": 7154
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "requirement",
+   "type": 1,
+   "id": 7153,
+   "name": "Deadwood Warrior",
+   "coord": [
+    48.8,
+    90.4
+   ],
+   "coords": [
+    [
+     46.2,
+     89.2
+    ],
+    [
+     46.2,
+     89.8
+    ],
+    [
+     46.4,
+     88.4
+    ],
+    [
+     46.4,
+     90.6
+    ],
+    [
+     46.6,
+     88.4
+    ],
+    [
+     46.6,
+     88.6
+    ],
+    [
+     46.6,
+     90.4
+    ],
+    [
+     46.6,
+     90.8
+    ],
+    [
+     46.8,
+     91.8
+    ],
+    [
+     47.4,
+     92.6
+    ],
+    [
+     47.6,
+     88.4
+    ],
+    [
+     48,
+     93.4
+    ],
+    [
+     48.2,
+     89.2
+    ],
+    [
+     48.2,
+     93.6
+    ],
+    [
+     48.4,
+     89.6
+    ],
+    [
+     48.4,
+     91.2
+    ],
+    [
+     48.4,
+     92
+    ],
+    [
+     48.6,
+     93.8
+    ],
+    [
+     48.8,
+     90.4
+    ],
+    [
+     48.8,
+     90.6
+    ],
+    [
+     48.8,
+     92.6
+    ],
+    [
+     49,
+     89.2
+    ],
+    [
+     49,
+     91.6
+    ],
+    [
+     49.4,
+     88.4
+    ],
+    [
+     49.6,
+     88.4
+    ],
+    [
+     49.6,
+     88.6
+    ],
+    [
+     49.6,
+     91.4
+    ],
+    [
+     49.6,
+     91.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "requirement",
+   "type": 1,
+   "id": 7154,
+   "name": "Deadwood Gardener",
+   "coord": [
+    48.4,
+    89.4
+   ],
+   "coords": [
+    [
+     46.2,
+     89.4
+    ],
+    [
+     46.2,
+     89.8
+    ],
+    [
+     46.4,
+     88.4
+    ],
+    [
+     46.4,
+     90.6
+    ],
+    [
+     46.6,
+     88.4
+    ],
+    [
+     46.6,
+     88.6
+    ],
+    [
+     46.6,
+     90.4
+    ],
+    [
+     46.6,
+     90.8
+    ],
+    [
+     46.8,
+     91.8
+    ],
+    [
+     47.4,
+     92.6
+    ],
+    [
+     48.2,
+     94
+    ],
+    [
+     48.4,
+     89.4
+    ],
+    [
+     48.4,
+     89.6
+    ],
+    [
+     48.4,
+     91.4
+    ],
+    [
+     48.4,
+     91.6
+    ],
+    [
+     48.4,
+     92.6
+    ],
+    [
+     48.6,
+     89.4
+    ],
+    [
+     48.8,
+     90.4
+    ],
+    [
+     48.8,
+     92.6
+    ],
+    [
+     49.2,
+     91.4
+    ],
+    [
+     49.2,
+     91.6
+    ],
+    [
+     49.4,
+     88.4
+    ],
+    [
+     49.6,
+     88.4
+    ],
+    [
+     49.6,
+     88.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "requirement",
+   "type": 1,
+   "id": 7155,
+   "name": "Deadwood Pathfinder",
+   "coord": [
+    48.4,
+    89.4
+   ],
+   "coords": [
+    [
+     46.4,
+     88.8
+    ],
+    [
+     46.4,
+     90
+    ],
+    [
+     46.6,
+     88.4
+    ],
+    [
+     46.6,
+     90.4
+    ],
+    [
+     46.6,
+     90.6
+    ],
+    [
+     48.2,
+     93.2
+    ],
+    [
+     48.2,
+     94
+    ],
+    [
+     48.4,
+     89.4
+    ],
+    [
+     48.4,
+     89.6
+    ],
+    [
+     48.4,
+     91.4
+    ],
+    [
+     48.4,
+     92
+    ],
+    [
+     48.6,
+     89.2
+    ],
+    [
+     48.6,
+     92.6
+    ],
+    [
+     48.8,
+     90.4
+    ],
+    [
+     49,
+     91.4
+    ],
+    [
+     49.2,
+     91.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 38,
+   "date": "2005-09-29T03:28:37-05:00",
+   "body": "Deadwood guys are at 48,91, far south",
+   "replies": []
+  },
+  {
+   "rating": 30,
+   "date": "2005-09-29T03:28:37-05:00",
+   "body": ":) 56.60",
+   "replies": [
+    "wow maybe u guys should post about the quest like this guy did instead of ^&*!@ing about faction rewards"
+   ]
+  },
+  {
+   "rating": 19,
+   "date": "2005-11-15T17:35:53-06:00",
+   "body": "This post has a lot of information. A lot of good information, some bad information, and some \"questionable\" information. It is up to you to seperate the fact from the fiction. I'm going to throw in my two cents about this subject, because I am a compasionate sympathiser with the Timbermaw Furbolgs. I carry around my Dartol's Rod of Transformation everywhere I go.\n\nFirst of all, let me explain that there are two tribes of Furbolgs. The Timbermaw (good) and the Deadwood (bad). The Timbermaw Furbolgs are a faction, the Deadwood are not. You gain positive faction rating with the Timbermaw faction by killing the Deadwood, and gain negative faction by killing the Timbermaw.\n\nYou start out by having 2500 / 3000 reputation hostile with Timbermaw. They do not have a bar in your reputation until you interact with either the Timbermaw or the Deadwood. To begin with, you can kill any Furbolg, whether it is one with the Timbermaw tribe or the Deadwood tribe. Once you make your first kill, the bar shows up along with the rest of your factions. Depending on what you kill, it will either go up or down.\n\nSome people don't care at all about thier faction ratings, some people care very little, and some people care a lot. I am someone who cares a lot about faction, so this post is biased. After you reach lvl 60, have all the uber elite gear, have maxed out every profession, have learned every recipe, have completed every quest in the game, have your epic mount .... faction is the only thing left in the game that matters.\n\nIt is very easy to become unfriendly with the Timbermaw Furbolgs, and this should be your first goal. It sounds strange to become \"unfriendly\" but it is the next better reputation above \"hostile\". Once you become unfriendly, you can safely pass through the tunnel to Winterspring without being attacked by the Timbermaw.\n\nRegardless of whether or not you accept this quest, the way to achieve this is to kill Deadwood Furbolgs. The easiest ones to kill are in the south of Felwood and give you 5 points of faction rating each, with some exceptions. The Pathfinders give 6 and Ror gives 25. Warriors and Gardeners give 5. Once you kill your first Deadwood Furbolg, for example let's say a Deadwood Warrior, you will now notice your faction repution will be at 2505 / 3000 hostile with Timbermaw Furbolgs. This is a good thing. The number goes up and you are are becoming less hostile.\n\nTaking your faction above the 3000 mark equates to killing exactly 50 Warriors and 50 Gardeners, but you will inevitably kill Pathfinders, which brings down your kill count. If you kill Ror 8 times, you will only need to kill 20 Warriors, 20 Gardeners, and 16 Pathfinders to gain the next higher faction rating of unfriendly. If you don't want to bother killing Ror, you can kill 35 warriors, 35 gardeners, and 25 path finders. Do the math anyway you want, but you want 500 points to take 2500 past 3000.\n\nYou can group in a party to make this go faster, but there is something about this that is important for you to understand. In order for you to get faction increase, you must affect (for example damage) each mob that dies. This is different from gaining experience or credit for the kill. Two party members working at two different nearby camps will share experience and credit for the kill, but NOT faction increase. So, for example, three mages could get together, stay close to each other, round up a few furbolgs in a cluster, and all use arcane explosion to wipe them out in a matter of seconds.\n\nOnce you reach \"unfriendly\" you are allowed safe passage through the tunnel by the Timbermaw, and you can continue to kill Deadwood to gain more faction. The next higher rating is nuetral. Once this happens, you will no longer be able to kill Timbermaw Furbolgs, even by accident, because when you mouse over them, the dagger icon to fight is not there. The only way you can change that is by opening your faction console and putting a check box for \"AT WAR\" next to the bar. Don't do that. For every Timbermaw you kill you will have to kill 3 Deadwoods to earn back what you have lost.\n\nOnce you are nuetral with them, it will be very obvious which ones are the good guys and which ones are the bad guys and you won't accidentally kill members of the \"wrong\" tribe. There is a villiage of Timbermaw (good guys) in Azshera, two villages of Deadwood (bad guys) in Felwood, and two villages of Deadwood in Winterspring. It will now be clear to you as to which ones to kill to continue to gain favor with the Timbermaw. After nuetral comes friendly and after friendly comes honored.\n\nOnce friendly with the Timbermaw you are eligible to do additional quests, one of which is designed for a tailor to learn the pattern to make mooncloth boots. Once you gain higher reputation status, you can buy other stuff from the Timbermaw that cannot be bought any other way. These include recipes that bind on pickup.\n\nHaving said all this, let me ask and answer some questions:\n\nQ: Is it necessary to do this quest to get to Winterspring?\nA: No, but it's a good idea to do it at least once.\n\nQ: Is it necessary to kill Deadwood furbolgs to get into Winterspring?\nA: No, but it is the best way and I highly recommend it.\n\nQ: Is it necessary to become at least unfriendly with Timbermaw to gain\n   access through the tunnel that leads to Winterspring?\nA: No, but it is highly recommended.\n\nQ: Why can't I just kill my way through the tunnel?\nA: You can, with negative consequences.\n\nQ: Why can't I just stealth through the tunnel, get the flight path to\n   WS and never have to bother with the tunnel again?\nA: You can, with negative consequences.\n\nQ: Can I kill Timbermaw in Azshara ... I want to farm them for mageweave?\nA: Yes, go right ahead, but understand the consequences of doing so.\n\nSuppose you are a blacksmith and do not consider not being able to make Heavy Timbermaw Boots a negative consequence, or being a tailor and don't consider not being able to make Mooncloth Boots a negative consequence. Okay, then let's just call it a \"consequence\" and not a \"negative\" consequence.\n\nFinally, a note about the Furbolg in Azshera. The chances are, if you see someone killing the Timbermaw Furbolg in Azshara, they probably don't know any better, or don't care. The only logical reason that I can think of at this point in time would be the fact that these furbolg have very little competition. On a PvP server, this can come into play since the Deadwood Camps in Felwood can be an ugly place to be. Azshera is more peaceful. Both horde players and alliance players that are already nuetral or better faction rating with the Timbermaw will not be killing them. Even on a non PvP server, the Felwood camps can be highly competitive. However, this argument is debatable becasue there are better ways to farm for mageweave besides killing Timbermaw Furbolg. But most importantly, killing them is like burning bridges that you may one day like to cross.",
+   "replies": [
+    "hmph, shame on me.  I wish I had read this before I got nearly all the way past hated to what? whatever is past that.  \n\nSo, now the mending period.  Sounds like I have my work cut out for me.\n\nThanks for the insight, 20/20 perhaps, but still . . .\n\nedit:  \n\nI have noticed that my reputation continues to worsen on HATED with Timbermaw.  Am I lost to the cause or is my status redeemable?  Anyone else out there with a similar experience?\n\nBlizzard states that this a permenant status, but I've read elsewhere that people assume they can increase their faction from hated.  \n\n[i][small]Edited, Sep 2"
+   ]
+  },
+  {
+   "rating": 10,
+   "date": "2006-01-16T15:28:37-06:00",
+   "body": "Well they moved the npc for this quest x,y is 50,84",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2007-05-07T10:58:42-05:00",
+   "body": "Coords are 48,90",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-09-29T03:28:37-05:00",
+   "body": "Yes -- grinding these things is to give away 10+ hours of your life.&nbsp; I ground for at least 2 levels.&nbsp; And I did it alone.\n\nBUT, once you raise to \"unfriendly\" -- it is SO nice to walk through that tunnel untouched ... and especially so to walk past other people trying to fight their ways through.&nbsp; It also makes a nice retreat for PvP -- sure, chase me in HERE!\n\nI did this all for the Moon Cloth boots pattern.&nbsp; Once you get \"friendly,\" you get 2 quests -- the first giving an item, the second the pattern.&nbsp; And the boots are sweet.&nbsp; The cash and drops as you grind are Ok -- mostly cash and fabric ... with the occasional cool drop.\n\nIs it worth it?&nbsp; Probably not.&nbsp; Am I happy with the results?&nbsp; You bet.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-04-10T14:45:42-05:00",
+   "body": "The guys you need to kill for this easy quest are located in Deadwood village which is located southwest of Emerald Sanctuary or as you head into Felwood from the south (Ashenvale) it is on your left or west side of the road. \n\nNOTE: YOU SHOULD GET \"A HUSBAND'S LAST BATTLE\" BEFORE YOU DO THIS BECAUSE \"ROR\" is also there. To get to Ror you will kill the bunch that you need for the timebermaw ally quest, so if you want to be efficient, do both at the same time! It's easy.",
+   "replies": [
+    "(Husband's Last Battle is a Horde only quest, just FYI for those reading.)"
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2005-01-04T02:44:32-06:00",
+   "body": "Did this quest once, so far, solo: No xp, and I studied my Timbermaw faction before the killing, after killing and before turn-in, and after turn-in, and I don't see where it's moved at all.  Don't know if the quest is bugged, or it takes a full group just repeatedly cleaning out the Deadwood Village to see any faction change.  (I have Moof, a 47th Shaman on Malygos.)",
+   "replies": [
+    "It does definitely go up, just very slowly.  Comparing it to the reputation above it, it started out slightly lower and now is just about even.  That's maybe 3-5 pixels, and I've killed about 2/3rds of the mobs for the quest so far.\n\nI've heard but cannot confirm that you need to do the quest 3 times to get out of hostile.",
+    "did 3 times already and still hostile, guess i gonna try one more time.\n\n\nGemino 40ish GnomeLock",
+    "It took me two repetitions of the quest to get to unfriendly.  However, I had to kill some extra mobs to get the ones the quest needed.\n\nEdit: Updated info.  The quest itself gives 25 reputation points, and gives less at higher levels.  Killing deadwood or winterfall furbolgs gives 5 reputation points each.  Killing the named deadwood or winterfall furbolgs gives 25 points each.  Reputation points from mobs don't vary with level.\n\nIn short: it's much faster to just kill the mobs rather than running across Felwood to repeat the quest.\n\n(The reputation numbers are from the quite handy [url=http:",
+    "Here is the latest info on the quest vs killing.  I don't know if it is my level or if the quest has been changed.  As of Sunday May 24, 2005, for a Level 48 Dwarf Priest, I got [Yellow]100[/Yellow] reputation for turning in the quest.\n\nFor me, that is worth the run back north to turn in the quest.\n\nI was careful to note my rep with Timbermaw Furbolgs at the start of this and it was 500 until unfriendly.  You have to kill 7 of each of 3 types for the quest which gives you 105 rep and the quest turnin gives you 100 for a total of 205.  Doing this twice is 410 which is 90 shy of the goal.  That "
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2006-06-11T15:28:37-05:00",
+   "body": "Felwood 48,94",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-02-23T13:01:30-06:00",
+   "body": "I've done the quest 5 times now, and I agree that faction changes faster it seems if I just keep killing them.  A friend of mine however, a druid, did the quest twice and is non KOS.  It is entirely possible that either Night Elves or Druids (or both) gain more faction from doing the quest, or that they begin less hostile than most other race/class combos.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2021-03-27T09:51:44-05:00",
+   "body": "This quest is repeatable.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T03:28:37-05:00",
+   "body": "I searched a lot about faction rewards, that i found:\n\nTimbermaw Furbolgs \nKnown Faction related bonuses: \nAt Hostile you can get the Quest �Timbermaw Ally� from Grazle. \nAt Unfriendly they are no longer flagged to \"kill on sight\". \nAt Neutral you can get the Quest �Deadwood of the North� from Grazle. \nAt Friendly you can get a quest for the Mooncloth Boots recipe, Meilosh gives two more nice quests, Meilosh sells warbear receipes (chest and pants) and earth to water receipe. \nAt Honored Gorn One Eye will sell to you some crap.\nrevered unknown\nexhalted unknown",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-05T21:36:01-05:00",
+   "body": "If all you wnat to do is get thru the tunnel, Unfriendly faction means they will not attack you first.\n\nI did this quest just TWO times and got out of the automatic attack mode.  I will worry about more faction for purchasing as I get it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-10T16:51:13-05:00",
+   "body": "Did this quest twice... now they are at the exact point where they let me in... I did it at 50",
+   "replies": [
+    "I killed alot of there cousins in Azshara, near Valormok and Timbermaw Hold.\n\nWell, I had to kill Deadwoods guys for a very long time but at least I got lots of experience. \n\nI never really cared about faction until this quest, and I only learn while doing this quest how the faction bar works. For some reason I was thinking I had to empty out the faction bubble to reduce their hate. But it actually works just like experience. Fill the bubble with faction, to get to the next Lower hate level.\n\nWhile you are doing this quest, also simo these quests to maximize your exp.\n\n[b]A Husband's Last Batt"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-19T20:02:16-05:00",
+   "body": "put a day aside and just do aoe on em with friends, you'll be honoured in no time :P\n\ngl",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-17T05:33:28-06:00",
+   "body": "You can find all of these mobs in the southern glade, just south-west of the Emerald Sanctuary. If you are horde, suggest doing this quest with \"A Husband's Last Battle\": https://www.wowhead.com/forever/quest=6162\r\n\r\nThis quest makes a great start to gaining Timbermaw Rep",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-01-16T15:28:37-06:00",
+   "body": "Reputation for Timbermaw is earned by killing DEADWOOD NPC's. its +5 rep for each kill but there are certain cheiftans that give +15 that are significantly harder.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-03-30T15:28:37-06:00",
+   "body": "The quest giver Grazle is directly opposite the Emerald Sanctuary [51,85] in southern Felwood --- not as the map may suggest in the far north near the tunnel to Winterspring --- the first quest objectives are nearby.&nbsp; If you want to travel to the north for the lvl55 quests (and I don't know why you'd do that now) or for the flight path nearby (Ashenvale is almost as close to this quest) --- you're welcome to ... but the odds are you'll aggro lvl48-50+ bears, wolves and ooze.&nbsp; BTW the feathers that the Deadwoods drop enhance your reputation with the Timbermaw.&nbsp; I remember the first time I did the first quest, I seem to have enough of a reputation (merely unfriendly rather than hostile) to allow access to the tunnel --- it'll take forever for them to talk to you or trade with you --- but who needs them? LOL",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-22T03:28:37-06:00",
+   "body": "Just want to add that this quest awards 350 rep. If you're just looking for passage through the Hold, this is well worth it for the time invested. Took me about an hour at 53. The mobs you kill for this quest are 48-50, so you could easily do it even earlier.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-02T21:14:13-05:00",
+   "body": "Honestly this is a great quest to do the 50's in.&nbsp; Humanoid (I'm a tailor), seen a decent drop rate, maybe the hps are a little high for the level but darn close.&nbsp; It's definitely a viable alternative to WPL IMO.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-29T03:28:37-05:00",
+   "body": "It takes a bunch of kills to get the status changed so they won't attack.&nbsp; Doing the quest furthers that little.&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-16T15:28:37-06:00",
+   "body": "wheres the q giver ive looked everywhere?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-02-22T03:28:37-06:00",
+   "body": "Try 48, 89...middle of their camp",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-03-27T19:19:01-05:00",
+   "body": "this took you an hour? I did this quest in 20 or so minutes at lvl 48, and got 4400 exp and 350 rep with the timbermaw. \n\nI read through all the comments before i did it just to make sure i wasnt wasting my time, and it didnt seem like a good idea to bother with it, but i went ahead anyway for a quick route to winterspring from moonglade, and i was surprised to see that half the comments are incorrect 0_o\n\ncourse it may be because i havent so much as touched a timbermaw furbolg, much less attacked one.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-08-20T20:29:02-05:00",
+   "body": "I got this quest from Nafien, not Grazle",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-02-03T00:01:42-06:00",
+   "body": "Ok, so I have done the 21 Woolies involved in the first leg of this quest 4 times. I am now at unfriendly...does this allow me to travel into the camps, or into the passageway leading to Winterspring? I am trying to complete a quest started in Un'Goro a few nights back, and have met up with this snag.\n\nThe first time I THOUGHT I was safe (after first pass of killing 21) I got chased the heck out of tunnel by Grazle lookalike. Don't want to chance pissing them off and losing what little ground gained.......",
+   "replies": [
+    "My faction is currently half way through Unfriendly and I was able to go through the tunnel without being agroed and make sure you don't have a check mark on \"At War\" under reputation for the Timbermaw, if you do then they'll agro you.  I'd say just keep killing deadwoods until you get to unfriendly, no need to keep getting the quest."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-05-06T15:46:52-05:00",
+   "body": "Info from a level 51:\n\nThe amount of reputation increase for killing Gardeners and Warriors was 5 points.  Pathfinders netted me 6 points, and Ror gave 25 points.  At level 51, turning in the quest to Grazle gave me 110 reputation points.\n\nI got this information by checking my Combat Log feature in the game.  It took me almost an entire experience level to gain neutral standing.",
+   "replies": [
+    "I have been reading this thread for quite some time before heading off for the quest and some points were vague.\n\nLet me put things straight.\n\ni) There is no XP gain from handing in the Quest\n\nii) Although the guy has no Blue question mark it is a repetitive quest and you can hand it in, and take in, 1 trillion times\n\niii) If you are lvl 48-53 I would say to go and kill the one on the south since they are lvl 48-50, and have a named boss as well that give more faction points. At this point the up and down to hand in the quest is not worth it, just stay there killing.\n\niv) For lvl of 53+ Just k",
+    "both the deadwood in the north and south give 5 points per kill, and all 3 of the named mobs give 25, so really its better to grind in the south, unless you are also farming for runecloth\n\nEdited, Thu Jul  7 16:07:09 2005",
+    "For tailor/enchanters, I can recommend the southern Deadwood's, as they tend to give out Mageweave cloth  which, when used to create Black Mageweave Shoulders have a good chance at giving either Greater Nether Essence or Dream Dust - both of which sells for pretty good prices on my server (Ravencrest, EU).",
+    "The quest as all repeat rep quests does give XP ---> the first and only the first time you complete it... After that you are doing it just for rep\n\n"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-06-17T19:14:33-05:00",
+   "body": "Trying to get to Friendly (maybe Honored even).  Since I started counting turned the quest in 12 times (5 times since neutral for sure).  I read that you seem to get more for your time by just keeping killing, ok so I've been wasting a bit of time riding.  Now I no longer have the kill 7/7/7 quest.  I get a 6/6/6 quest to kill the ones in the North...  Is this because I've turned it in so many times, my level hasn't gone up recently (still a 50)?  It's titled Deadwood of the North.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-01-09T17:34:50-06:00",
+   "body": "If you just read the description, it's the same description for finishing the quest as it is for killing the guys.   I suggest just killing a lot of deadwood guys to raise faction and forget the quest, not worth it since the guy is on the opposite end of the zone.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-02-23T00:46:06-06:00",
+   "body": "Lucky ones who ported to Moonglade during Moonshine Festival ;)\nGet Flight Point, its as easy as that!\n\nNothing to say about getting to Winterspring....\n\nEdited, Wed Feb 22 17:44:55 2006",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-11-23T09:58:24-06:00",
+   "body": "As a 54 druid I just prowled trough the tunnel with no problem.\nNow at lvl 57 a quest is available in Winterspring invilving the Timbermaw so its is only now after I have established a flight path and have done several quests in Wintersping I made the decision to go ahead and make posititive the faction with the Timermaw.\nSo it is best to just get it out of the way in the long run.\n;)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-03-13T03:09:44-06:00",
+   "body": "Using Reputation Mod, the quest now rewards 50 faction points.  I can get more just by killing the mobs (at 5 pts each)in the time it takes to turn the quest in but I keep a current copy of the quest going in case I happen to be in the northern part of the zone or I just need to break up the monotony of killing these guys over and over.\n\n600 deadmaw to go all the way through unfriendly and 600 more to go from neutral to friendly.\n\nFaction does not divide in a group (like experience does.)  You get full reward as long as you end up on the mobs hate list, so work together with someone else farming faction and it'll go much faster.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-07-09T18:19:25-05:00",
+   "body": "Before I knew about this quest, a friend and I spent an enjoyable afternoon in Azshara killing Timbermaw furbolgs.\n\nConsequently, I had to run this quest a few hundred (?) times to get back in the Timbermaw's good graces.\n\n(On a later trip through Azshara, I attempted to explain this fact to a paladin on a furbolg-killing frenzy, but was told by them to mind my own business. (not in quite those terms, however))",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-01-17T02:34:27-06:00",
+   "body": "Quest gives a little faction\n\nyou have to kill a ton of mobs that give this faction to get any where\n\nI have done a couple of 5 hour sessions and I'm about halfway trough unfriendly\n\nYou get more faction just killing the mobs than completing the quest imo\n\nand mobs that give you faction range all of the way up to level 58 in Winterspring, so just kill the mobs that give you the best loot exp coin rather than worrying about just killing these 3 mobs over and over again",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-03-21T17:33:03-06:00",
+   "body": "Just some info from Cosmos:\nDeadwoods = .0016666 faction increase\ndoesn't matter if it's a 47 Gardener or 55 Avenger\nOverlord Ror = .0083333 faction increase\nclear his whole camp and it's worth .0166666\n\nThis quest gives you .1666667 faction increase\n\nIf you can kill nonstop, faction would be quicker. Level 48-49 will probablly want to do the quest!",
+   "replies": [
+    "I am currently honored with the Timbermaw.  So far I can purchase 2 tribal leatherworking patterns, an offhand that is +10 sta and use: 100 health per 1 sec.  Took me about 12 hours playtime to get this.  Roughly 3 hours per level of faction.  This is pulling northen camps with an AE group.  Doing this, the spawns barely keep up.  Anyone know where there may be some other timbermaw merchants?",
+    "Why don't you go Azshara?\nThere is the Timbermaw' fortress in north area.\nI think you can get other things.\nand I'm waiting for your reply.\nI'm going to get honor.\n\nP.S.: I'm playing in Korean Server. So, It may be not fortress...:)"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-06T16:06:00-06:00",
+   "body": "I came to grind on some deadwood and ran across a large number of alliance on a killing spree.  I soon found out that they were all in on a 40-man raid grinding together on the deadwood.  I made nearly 18,000 rep in only a couple hours and went from friendly to revered.  Unfortunately, once you hit revered the rep stops.  You can only earn rep towards exalted status by collecting feathers in the northern camp or collecting necklaces at the timbermaw post in winterspring.  I'm not sure about winterspring quests though as I haven't done much of them after getting revered.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-04-30T11:53:35-05:00",
+   "body": "I recommend doing this at about level 50 since the amount decreases if you are significantly higher level. I got only 10 rep  at lv 58 and only very few points (maybe 2) for the southern deadwoods. So I need the northern ones (higher level) and the winterfall furbolgs for 5 rep each and no quest to boost me up.\nKilling timbermaws will decrease your reputation so don't fight them and you should get unfriendly quite soon. Grouping up is effective aswell since reputation doesn't split and you will kill at lot faster.\nA quest for the northern furbolgs (Deadwood of the North) becomes available after friendly.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-11-05T00:08:20-06:00",
+   "body": "Don't think anyone has mentioned this yet. If you are going to try and just run through like I did you will cross a bridge not far from the start of the tunnel. At this point you have two choices, continue straight ahead and go to winterspring or go down to the right and pass back under the bridge to end up in moonglade.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2007-05-11T05:27:03-05:00",
+   "body": "The coords are around: 48,90. For people without any coords,\r\nDreadwood Village is where you can find the furblogs. SW of the Emerald Sanctuary.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-09-29T03:28:37-05:00",
+   "body": "Opening chests in Azshara in the Timbermaw camps isn't a good idea, even if you're \"unfriendly\" (being not Kill'able On Sight - KOS); they attack you immediately and they're strong (running for not to get worse reputation points)...\n\nI had to try that one. ;)\n(As mentioned suggestion some posts above.)",
+   "replies": [
+    "noticed that if in a group u don't get rep deduction... as stated above.&nbsp; the best way to gain rep is to grab a couple of mages. (im 1 myself)&nbsp; and AOE the MOFU's&nbsp; &nbsp; was taking out roughly 25 creeps at a time. 1 would run 1 way, i and some1 else would run someplace else close by, and meet in the middle.... BOOM!\n\nwith 3 mages its easy, with 2 its harder (would maybe need a healer)&nbsp; managed to get 3K rep in 2 hours\n\nis still slow, but beats the hellouta 1v1"
+   ]
+  },
+  {
+   "rating": -3,
+   "date": "2005-09-29T03:28:37-05:00",
+   "body": "I had a full hostile bar that wouldnt come down and at war was locked in.&nbsp; I sent a complaint to Blizz via help window and instantly recieved unfriendly status.&nbsp; I think there may be some sort of problem because my rep bar did go the wrong way even though I was killing the deadwood furbogs.&nbsp; So my recomendation is file a complaint, get unfriendly status, and go from there.&nbsp; dated 9-1-05",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-09-29T03:28:37-05:00",
+   "body": "i know that it is counter-intuitive, but your reputation is going up when the hostile bar increases (left-to-right).&nbsp; that means you are going to be promoted to \"unfriendly,\" the next level of reputation.&nbsp; then you will have to work through unfriendly to get to neutral and so on.\n\nit isn't bugged...it just looks like you are going in the wrong direction.&nbsp; (now kill 1 million more furbolgs to get those lw-ing patterns!)",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-11-04T15:28:37-06:00",
+   "body": "as well as some other guildies of mine and cant figure out why were arent gaining rank anymore. Anyone else experiencing this menace. BTW took me 2 hours before i noticed so you can imagine how thoroughly pissed I am at this point.\n\nis this a bug?\n\nthanks in advance.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-12-11T03:28:37-06:00",
+   "body": "where are the warrior, pathfinder and gardner pls cant find em :) :(",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-03-14T23:08:23-06:00",
+   "body": "Screw faction.  Take a group, run through the tunnel by any means necessary and get the flight path.  I guarantee you won't regret it.",
+   "replies": [
+    "The path through the tunnel is quite short. I had to kill 8-10 mobs of lvl 54-55, just follow the tunnel straight through. Most of them can be pulled alone, sometimes there is two of them.\n\nThey are humanoids and I had no problems to solo as a Warlock lvl 53 with succubus and her seduction.\n\nRogues can sneak through using stealth.\n\nAfter you go to the goblin city and get the flight path you don't have to pass the tunnel again.\n\nEdited, Mon Jul 25 16:30:17 2005"
+   ]
+  },
+  {
+   "rating": -3,
+   "date": "2005-07-12T03:16:15-05:00",
+   "body": "As a lvl 60 paladin it would be most effecient if i just grind deadwoods to the south to increase my faction?",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-11-18T00:56:13-06:00",
+   "body": "I have killed timbermaw in Aszhara and i have at war checked cause the timbermaw rep to me is hostile how can i change this. Cause when i kill deadwood it adds to my rep 2530 hostile and then i turn in the timbermaw quest and it lowers it again like a vicious cycle. what can i do",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-07-26T12:49:10-05:00",
+   "body": "I have gone from level 56 to level 59 killing these and I am still only half way neutral.  Alright, so it was all rested XP but its getting silly now.  \n\nManaged to farm a lot of Runecloth and the growth potion though :)",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-07-26T14:05:41-05:00",
+   "body": "im a lvl 58 orc hunter. spent lots of time doing this.  LOTS of time.  killing a furbolg gets you 5 rep, the named ones equals 25, and the quests give so little rep they arent worth it for the run to hand in.  The southern slaughter quest is REALLY not worth it, the northern one is semi-worth it, depending on your level.  Once you are unfriendly, you can pass thru the tunnel without being attacked.  Half way thru neutral exactly is actually when that northern slaughter quest becomes available, however since the quests are not worth it usually, I just kept farming the south because they were easier to kill.  The north is good tho if you can get a few mages to run in and AoE with you cause there are three named furbolgs up there and they make it go by fast!  Once you are friendly with the timbermaw, you can shop from a secret vendor in the tunnel at that room where all three paths meet, who is also a tailor trainer.  Once you are honored, you can shop from a 'older-looking' furbolg who obviously has been in the racist furbolg culture for many more years and thus requires honored to be shoppable.  He sells a cool-tho i dont know if its useful-offhander that is something like restores HP and Mana over time, and a use that is like Restore HP and Mana faster for 10 seconds.  His name is Gorn one eye if you want to look it up.  And there is a third quest the furbolg give you to kill deranged furbolgs that I think most people don't know about.  I don't konw when it becomes available, but either at half way thru neutral or friendly, as I am currently friendly and just noticed this quest.  Go thru the tunnel from FW to WS, and outside the tunnel in WS is a furbolg that gives a quest to kill the evil furbolg of WS.  Same deal as the last two, its like 6/6/6, but this quest gives like 75 rep when we are at higher lvls,  lvls that would have made the last quests yield like 15 rep!  So this quest is the money maker, that most people don't find.  It is worth it to get friendly with these guys i think, because in Aszhara, there is a area loaded with them and there is an ally quest to farm the furbolgs in Aszhara so....get friendly then go farm the farmers in Aszhara.  I love killing pallys who have a bunch on them then /cheer and /victory with my buddies the furbolgs.  There is also a massive gate that appears to be part of an as of yet unfinished instance, called Timbermaw Hold in Aszhara.  Looks cool, hope it opens soon, and being friendly with them makes getting into this, if and when it opens, much easier.  Hope all this info helps!",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-02-27T08:10:51-06:00",
+   "body": "I found that killing the overlord kor gives a little bit more of a faction boost.  I got unfriendly after 1 quest and killing about 70 of these guys (and Kor 10+ times).  Killing these when you can pick up Corrupted Soul Shards is a very good idea too.  They drop a lot of them, I'm up to 25 and i've only been doing this for an hour.\n\nEdited, Sun Feb 27 02:16:44 2005",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-10-13T23:54:46-05:00",
+   "body": "As a level 54 Paladin it took only two repeats of the southern (near Ashenvale) quest (need to slay 7 Deadwood Gardners [priest or shaman], 7 Warriors and 7 Pathfinders [hunter?, used bows at range], and roughly 10+/- more random kills (those I needed to wade through to get to the ones I needed to complete the 7/7/7) as well as one slaying of Kor (southern named) to earn Unfriendly. \n\nBeware that Kor does fear you, and often. \n\nThe quest giver, Grazle, does not have a blue ? (as noted before) but if you open dialog with him you will get the quest over and over.\n\nThere is no experience for turning in the quest (as noted before) nor do you earn any other prize.  It's all about earning reputation.\n\nThe 7/7/7 types drop mageweave and coin.  Kor dropped coin and a mithril lockbox for me.  They are not skinnable.  They randomly spawn in the several camps SW of the Emerald Sanctuary - across the path.  Wolves and bears wander near the outskirts of the furbolg camps as do neutral aligned birds.\n\nI did all of the above before reading this post so will do the third iteration of the quest (since I logged at the Emerald Santuary after the second turn in and accepted the third) and slay as many furbies as I can before boredom sets in too far (but I can use the mageweave to skill up first aid too) then I will get to Winterspring to complete some Ironforge quests.  \n\nI suppose I'll slay some along my travels to eventually earn friendly/honorable and to gather mageweave and runecloth (from the northern group) but I can't see doing the quests many many times in succession.  Too boring and there are usually a lot of others there working the quest or gathering cloth too.\n\n\nEdited, Tue Oct 18 22:11:30 2005",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-02-20T03:19:55-06:00",
+   "body": "Data from level 54.\n\nIt takes exactly 600 deadwood kills to raise faction a full level of hostile.  i.e. To go from fully hostile to the lowest level of unfriendly, you would have to kill 600 of them.  Killing the lower level ones in the south or the higher level ones in the north yielded the same exact faction benefit.  (luckily you start out only a little bit hostile though... unfortunately I don't have the number I started at available anymore.)\n\nTurning in the Timbermaw Ally quest from killing the deadwoods in the south gives the same faction reward as killing 8 deadwoods.  DEFINITELY not worth the run, considering the time, effort, and lack of experience, versus the difficulty of killing 8 more deadwoods at the southern camp.  \n\n\n\nEdited, Sat Feb 19 21:36:48 2005",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-12-15T11:44:49-06:00",
+   "body": "[b]30 posts and nothing helpful for ppl that would still like to do the quest... how about some co-ords for these \"Deadwoods\" that the quest wants you to kill....[/b]",
+   "replies": [
+    "The lvl 48-53 Deadwoods are down in southern Felwood. The 54-58 Furlbogs are almost straight across from the FP up north.  "
+   ]
+  },
+  {
+   "rating": -3,
+   "date": "2005-12-21T11:16:49-06:00",
+   "body": "Well, my Priest tailor had 1.5 hours to kill until the Mooncloth popped, so I took my 60 mage along and figured I'd grind faction while I waited.\n\nBut, apparently you can only go up to Honored 6000/12000 by killing, after that killing South or North Felwood camps give no more faction!\n\nI'm assuming I now need to take some more quests but im not really sure about that (I did read a reference to a Timbermaw quest giver in Winterspring).\n\nSo, if you're crusing along after getting honored, grinding up toward revered, you might want to keep an eye on your faction numbers because it will screech to a halt and your kills will be worthless, hehe.\n\n\nI don't know if I have to will power to go all the way to exalted, my Priest is a Tailor/Enchanter and wants (but doesn't NEED) the Timbermaw shoulder pattern. \n\nBut, I have heard that the 1.9 patch adds some sort of Timbermaw quest that requires exalted. Ugh.",
+   "replies": [
+    "Day 2:\n\nLike it wasn't hard enough and a huge timesink to get to Honored, Blizzard has to go and get cute halfway through Honored level.\n\n\nBefore: At 5 faction per kill, I could get about 1-1.5k of reputation in 2 hours or so by two boxing a 60 mage and a 60 priest to AE as the mobs in the north Felwood camp. Competition with other faction grinders was sometimes pretty brisk, though. Even if you kill just 1 mob, you knew you were 5 points closer to finishing.\n\n\nNow: with the quest-based faction system at 6000/12000 Honored, I was lucky to get about 750 faction in the same time I could do 1-1.5"
+   ]
+  },
+  {
+   "rating": -3,
+   "date": "2006-01-04T20:48:46-06:00",
+   "body": "Changed in 1.9, Grazle is now just south of Emerald Circle (at 51, 85) as well as only requiring 5 of each type. However, I am currently unfriendly with Timbermaws and had it left over from 1.8. After turning it in, I wasn't offered it again, but considering the text of the \"Feathers for ...\" quest saying I already proved myself to him, I think it's now just to get up to Unfriendly. Got 66 (60 + human bonus) at level 55, quest was green.\n\nEdited, Wed Jan  4 14:21:01 2006",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-10-25T07:06:07-05:00",
+   "body": "I did the quest once and still had about 2735 faction points to get out of hostile - which equated to 500+ kills.  I couldn't be bothered, so decided to run through Timbermaw Hold, and it was fine.  To get to Winterspring, you can pull them one at a time pretty much - the most I pulled was 2 at once, all levels 52-55 (I'm level 54).  Getting to Moonglade is harder as there's one bit where you have no choice but to pull about 6 of them at once.  Unless you're in a group I recommend doing what I did - just run through them, pull them all and keep running up the tunnel until you die.  When you go back to get your corpse you'll be far enough away that you won't pull any of them back on to you.  There's then just a couple more to pull on their own before you're out the other side and can get the flight path.  \n\nObviously if you wanted to go to those vendors in there it wouldn't work, but otherwise, totally worth it as I did the whole thing in half an hour, rather than three days grinding Deadwoods.",
+   "replies": [
+    "One thing that is perhaps not quite clear (at least it wasn't for me at first): When you first make contact, your reputation will be 2500 of 3000 Hostile. This does not mean you have to reduce this number to 0 to get Unfriendly, you need to increase it to 3000, which would take about 100 kills of 5 rep per kill. More rep per kill means less kills, of course. \n\nThere are two quests you can get to increase your reputation, this one, and one from a Timbermaw Furbolg at the entrance of the tunnel through Timbermaw Hold. Both will give you repeateable turn-in quests afterwards."
+   ]
+  },
+  {
+   "rating": -4,
+   "date": "2007-05-17T21:20:41-05:00",
+   "body": "At what level can I get this quest? I'm Friendly at L41, and this took [i]lots[/i] of help and about 8 hours of killing.",
+   "replies": []
+  }
+ ]
+}

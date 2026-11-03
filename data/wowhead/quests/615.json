@@ -1,0 +1,55 @@
+{
+ "id": 615,
+ "name": "The Captain's Cutlass",
+ "level": 50,
+ "reqlevel": 35,
+ "side": 3,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 470,
+ "start": null,
+ "end": null,
+ "patch": "1.13.2.31882",
+ "objectiveText": "Speak with Sprogger.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [
+  8553,
+  8554
+ ],
+ "points": [],
+ "missingPoints": null,
+ "comments": [
+  {
+   "rating": 12,
+   "date": "2005-11-23T01:20:32-06:00",
+   "body": "There's a prereq quest 'The Monogrammed Sash'. It's a drop off a very long respawn time giant named Mok'rash. He spawns at the little island close to booty bay with the giant goblin statue.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-06-30T01:20:32-05:00",
+   "body": "is sprogger in booty bay?",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-03-12T13:20:32-06:00",
+   "body": "https://www.wowhead.com/forever/quest=618/facing-negolash\n\nBe aware that the next step of this quest is broken. It's listed in their 'general issues' sticky of the Bug Forum, but unfortunately without a 'Future Patch' tag, so I don't personally expect a fix in 1.10",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-03-03T20:44:06-06:00",
+   "body": "The prereq for this quest is \"The Monogrammed Sash\"",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-17T13:20:32-05:00",
+   "body": "Is there a prerequisitie for this quest line?",
+   "replies": []
+  }
+ ]
+}

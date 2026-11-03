@@ -1,0 +1,149 @@
+{
+ "id": 3626,
+ "name": "Return to the Blasted Lands",
+ "level": 58,
+ "reqlevel": 45,
+ "side": 3,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1550,
+ "start": {
+  "type": "npc",
+  "id": 7802,
+  "name": "Galvan the Ancient",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    50.4,
+    20.4
+   ],
+   [
+    50.4,
+    20.6
+   ],
+   [
+    50.6,
+    20.4
+   ],
+   [
+    50.6,
+    20.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7572,
+  "name": "Fallen Hero of the Horde",
+  "zone": "Swamp of Sorrows",
+  "zoneId": 8,
+  "coords": [
+   [
+    34.2,
+    65.4
+   ],
+   [
+    34.2,
+    66
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Return to the Fallen Hero of the Horde .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 7572,
+   "name": "Fallen Hero of the Horde",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  3621,
+  3625,
+  3626,
+  3627,
+  3628
+ ],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "start",
+   "type": 1,
+   "id": 7802,
+   "name": "Galvan the Ancient",
+   "coord": [
+    50.6,
+    20.4
+   ],
+   "coords": [
+    [
+     50.4,
+     20.4
+    ],
+    [
+     50.4,
+     20.6
+    ],
+    [
+     50.6,
+     20.4
+    ],
+    [
+     50.6,
+     20.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 8,
+   "zone": "Swamp of Sorrows",
+   "point": "end",
+   "type": 1,
+   "id": 7572,
+   "name": "Fallen Hero of the Horde",
+   "coord": [
+    34.2,
+    66
+   ],
+   "coords": [
+    [
+     34.2,
+     65.4
+    ],
+    [
+     34.2,
+     66
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 11,
+   "date": "2005-09-28T11:24:16-05:00",
+   "body": "This is part of a very long series of quests. Please read my comments under the quest \"The Disgraced One\" quest for complete quest line.",
+   "replies": [
+    "Someone did the same thing but with links to all in \"Fall From Grace\" Link: https://www.wowhead.com/forever/quest=2784/fall-from-grace"
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2020-01-11T17:43:50-06:00",
+   "body": "heyhey\r\n\r\nWhen you're doing the 5-part chainquest from Azshara [quest=3621]  \r\nyou will in the 2nd Quest [quest=3625] need to choose between 3 weapons, a dagger, staff or a sword.\r\n\r\nif u either choose wrong or maybe like i did, sold the item to vendor without noticing that it should be used for the 4th Quest\r\n\r\n\r\nFEAR NOT ! :D\r\n\r\ngo to Swamp of Sorrows, talk to [npc=7572] again, and he will give you the option to get a [item=11582] instead.\r\n\r\nThis way you will still be able to complete the quest, without having to wait for a mate or someone in trade, to have that specific quest.\r\n\r\ngood luck.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-05T11:24:16-05:00",
+   "body": "I did the 2nd step (got the weapon from blacksmith), but this smith-guy don't want to give follow-up. What wrong?",
+   "replies": []
+  }
+ ]
+}

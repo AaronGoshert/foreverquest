@@ -1,0 +1,281 @@
+{
+ "id": 99267,
+ "name": "An Unfortunate End",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 0,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 271866,
+  "name": "Night Watch Guard",
+  "zone": "Duskwood",
+  "zoneId": 10,
+  "coords": [
+   [
+    17,
+    54.8
+   ],
+   [
+    17.2,
+    54.4
+   ],
+   [
+    23.4,
+    33.4
+   ],
+   [
+    23.6,
+    33.2
+   ],
+   [
+    45.4,
+    79
+   ],
+   [
+    45.4,
+    79.6
+   ],
+   [
+    45.6,
+    79
+   ],
+   [
+    47.4,
+    59.8
+   ],
+   [
+    47.6,
+    59.4
+   ],
+   [
+    47.6,
+    59.6
+   ],
+   [
+    66,
+    33.8
+   ],
+   [
+    68.8,
+    69.2
+   ],
+   [
+    68.8,
+    69.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 271866,
+  "name": "Night Watch Guard",
+  "zone": "Duskwood",
+  "zoneId": 10,
+  "coords": [
+   [
+    17,
+    54.8
+   ],
+   [
+    17.2,
+    54.4
+   ],
+   [
+    23.4,
+    33.4
+   ],
+   [
+    23.6,
+    33.2
+   ],
+   [
+    45.4,
+    79
+   ],
+   [
+    45.4,
+    79.6
+   ],
+   [
+    45.6,
+    79
+   ],
+   [
+    47.4,
+    59.8
+   ],
+   [
+    47.6,
+    59.4
+   ],
+   [
+    47.6,
+    59.6
+   ],
+   [
+    66,
+    33.8
+   ],
+   [
+    68.8,
+    69.2
+   ],
+   [
+    68.8,
+    69.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70009",
+ "objectiveText": "Completion The deceased Night Watchman lying before you is covered in deep gashes and cuts. It's clear to see that he was mauled by some sort of large beast. You notice that the corpse still has an unlit torch in his hand. You must not have taken it earlier after all. You reach down and pry it from his stiff fingers. This could be useful in your travels through Duskwood and beyond to reveal things hidden by darkness.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "start",
+   "type": 1,
+   "id": 271866,
+   "name": "Night Watch Guard",
+   "coord": [
+    17,
+    54.8
+   ],
+   "coords": [
+    [
+     17,
+     54.8
+    ],
+    [
+     17.2,
+     54.4
+    ],
+    [
+     23.4,
+     33.4
+    ],
+    [
+     23.6,
+     33.2
+    ],
+    [
+     45.4,
+     79
+    ],
+    [
+     45.4,
+     79.6
+    ],
+    [
+     45.6,
+     79
+    ],
+    [
+     47.4,
+     59.8
+    ],
+    [
+     47.6,
+     59.4
+    ],
+    [
+     47.6,
+     59.6
+    ],
+    [
+     66,
+     33.8
+    ],
+    [
+     68.8,
+     69.2
+    ],
+    [
+     68.8,
+     69.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "end",
+   "type": 1,
+   "id": 271866,
+   "name": "Night Watch Guard",
+   "coord": [
+    17,
+    54.8
+   ],
+   "coords": [
+    [
+     17,
+     54.8
+    ],
+    [
+     17.2,
+     54.4
+    ],
+    [
+     23.4,
+     33.4
+    ],
+    [
+     23.6,
+     33.2
+    ],
+    [
+     45.4,
+     79
+    ],
+    [
+     45.4,
+     79.6
+    ],
+    [
+     45.6,
+     79
+    ],
+    [
+     47.4,
+     59.8
+    ],
+    [
+     47.6,
+     59.4
+    ],
+    [
+     47.6,
+     59.6
+    ],
+    [
+     66,
+     33.8
+    ],
+    [
+     68.8,
+     69.2
+    ],
+    [
+     68.8,
+     69.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-28T21:06:11-05:00",
+   "body": "Found at 47 59 in Duskwood on the road leading up to Emerald Dragons",
+   "replies": []
+  }
+ ]
+}

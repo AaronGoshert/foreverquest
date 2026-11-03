@@ -1,0 +1,209 @@
+{
+ "id": 3841,
+ "name": "An Orphan Looking For a Home",
+ "level": 47,
+ "reqlevel": 38,
+ "side": 1,
+ "zoneId": 357,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1050,
+ "start": {
+  "type": "npc",
+  "id": 7956,
+  "name": "Kindal Moonweaver",
+  "zone": "Feralas",
+  "zoneId": 357,
+  "coords": [
+   [
+    65.8,
+    45.6
+   ],
+   [
+    66.6,
+    46.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 9238,
+  "name": "Quentin",
+  "zone": "Thousand Needles",
+  "zoneId": 400,
+  "coords": [
+   [
+    78.4,
+    74.4
+   ],
+   [
+    78.4,
+    74.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Speak to Quentin in Thousand Needles. Unhatched Sprite Darter Egg (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 9238,
+   "name": "Quentin",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11102,
+   "name": "Unhatched Sprite Darter Egg",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  3841,
+  3842
+ ],
+ "points": [
+  {
+   "zoneId": 357,
+   "zone": "Feralas",
+   "point": "start",
+   "type": 1,
+   "id": 7956,
+   "name": "Kindal Moonweaver",
+   "coord": [
+    65.8,
+    45.6
+   ],
+   "coords": [
+    [
+     65.8,
+     45.6
+    ],
+    [
+     66.6,
+     46.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 400,
+   "zone": "Thousand Needles",
+   "point": "end",
+   "type": 1,
+   "id": 9238,
+   "name": "Quentin",
+   "coord": [
+    78.4,
+    74.8
+   ],
+   "coords": [
+    [
+     78.4,
+     74.4
+    ],
+    [
+     78.4,
+     74.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 50,
+   "date": "2006-12-12T11:48:49-06:00",
+   "body": "If you go do this quest, you might wanna bring 2 Elixirs of Fortitude right away. Quentin will ask for those for the next part.",
+   "replies": []
+  },
+  {
+   "rating": 26,
+   "date": "2005-03-03T03:45:05-06:00",
+   "body": "At level 49, this got me 1050 XP and a slight increase in Darnassus reputation.",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2006-12-12T01:36:29-06:00",
+   "body": "You need to complete the quest Freedom for All Creatures (https://www.wowhead.com/forever/quest=2969) to start this quest.",
+   "replies": [
+    "Just an addittion, when you do the Freedom for All Creatures quest, it leads to Doling Justice quest chain, Once that is completed you need to return to feralas and speak with kindal once more to get this quest started  Also I would recommend getting the flight paths to theramore frm gadgetzan, then from menethil to Airie Peak for the timed portion later on prior to starting this"
+   ]
+  },
+  {
+   "rating": 18,
+   "date": "2005-10-29T09:05:39-05:00",
+   "body": "You need to finish \"Doling Justice\" before you can do this.",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2006-01-10T09:05:39-06:00",
+   "body": "The night elf in question is in Feralas, not Azshara.",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2005-10-29T09:05:39-05:00",
+   "body": "Quentin is at [b]78,75[/b] [i]/thousand needles[/i]",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-08-10T22:24:38-05:00",
+   "body": "If you go do this quest, you might wanna bring 2 Elixirs of Fortitude right away. Quentin will ask for those for the next part.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-05T09:05:39-05:00",
+   "body": "78,75 is the racetrack in 1k needles",
+   "replies": [
+    "shows him as being - Shimmering Flats I guess is part of Thousand Needles, eh?"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-10T09:05:39-06:00",
+   "body": "when you are looking up at her....head off to the left a bit.&nbsp; You'll see (if you look closely) a place you can climb up above where they are standing...NOT all the way at the top, but just a few feet above their heads.&nbsp; Walk up there and just drop down....",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-18T14:41:05-05:00",
+   "body": "I'm lvl 47 and did all Prequests but didn't get this one. What's wrong?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-11T12:16:30-05:00",
+   "body": "so with this part of the quest, do i just go to thousand needles to get orphan or do i go back to the sisters and they send me there?   any help is greatly appreciated",
+   "replies": [
+    "You need to talk to the sisters again after you visit Tyrande."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-22T09:14:09-05:00",
+   "body": "just to complete:\nit was Kindal Moonweaver who had the quest\n\nEdited, Sun May 22 05:36:00 2005",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-12-04T21:05:39-06:00",
+   "body": "Can some1 pls tell me how can i get to her? .... she is on the mountain cliff and I saw her....but only way to come to her is that I need to jump over higher mountain to the cliff where she's standing! some1 pls tell me exaclty way how did he get to her ....\n THX",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-01-10T09:05:39-06:00",
+   "body": "alright i went and finihsed teh quest she gave me wich was to free a certain amount of sprite darters from the cage but now she won't give me any other quests....please help",
+   "replies": [
+    "free the drags, kill the mobs, deliver in drana, head back and then u cna get the quest"
+   ]
+  }
+ ]
+}

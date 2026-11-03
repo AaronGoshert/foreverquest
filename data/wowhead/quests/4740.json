@@ -1,0 +1,468 @@
+{
+ "id": 4740,
+ "name": "WANTED: Murkdeep!",
+ "level": 18,
+ "reqlevel": 15,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1700,
+ "start": {
+  "type": "object",
+  "id": 175320,
+  "name": "WANTED: Murkdeep!",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    37.2,
+    44.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2930,
+  "name": "Sentinel Glynda Nal'Shea",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    37.6,
+    43.4
+   ],
+   [
+    37.6,
+    43.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Find and slay the murloc known as Murkdeep . The creature is thought to be defending the murloc huts south of Auberdine along the water. Report the death of Murkdeep to Sentinel Glynda Nal'Shea in Auberdine.   Murkdeep slain  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 10323,
+   "name": "Murkdeep",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Murkdeep slain",
+   "count": 1,
+   "type": "npc",
+   "id": 10323
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 2,
+   "id": 175320,
+   "name": "WANTED: Murkdeep!",
+   "coord": [
+    37.2,
+    44.2
+   ],
+   "coords": [
+    [
+     37.2,
+     44.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 2930,
+   "name": "Sentinel Glynda Nal'Shea",
+   "coord": [
+    37.6,
+    43.4
+   ],
+   "coords": [
+    [
+     37.6,
+     43.4
+    ],
+    [
+     37.6,
+     43.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "requirement",
+   "type": 1,
+   "id": 10323,
+   "name": "Murkdeep",
+   "coord": [
+    36.2,
+    76.4
+   ],
+   "coords": [
+    [
+     35.4,
+     76.4
+    ],
+    [
+     36.2,
+     75
+    ],
+    [
+     36.2,
+     76.4
+    ],
+    [
+     36.2,
+     76.6
+    ],
+    [
+     36.2,
+     77.6
+    ],
+    [
+     36.6,
+     76.2
+    ],
+    [
+     36.6,
+     76.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 67,
+   "date": "2006-09-17T15:18:41-05:00",
+   "body": "First of all you must kill the 6 Murloc Warriors and Hunters that are by the town with 3 huts.\n\nThat spawns 3 lv 13 Coastrunners.\n\nTake them out to spawn 2 lv 15 Warriors.\n\nTake them out to spawn Murkdeep (lv 19) and a Warrior (lv 15).\n\nMy alt, being a rogue, sapped Murkdeep and murdered the Warrior. I healed myself with a bandage in time for Murkdeep to come to his senses. A Gouge, Backstab, Sinister Strike, and an Eviscerate later Murkdeep was dead.",
+   "replies": [
+    "Twice recently I have been lucky enough to find Murkdeep wading in the water for me. Quick and easy."
+   ]
+  },
+  {
+   "rating": 38,
+   "date": "2007-03-23T15:06:01-05:00",
+   "body": "Spent some time analyzing this last night.\n\nSteps in detail:\n\nFind the camp - it is the only one with huts in Darkshore.\nClear all mob spawn.\n**Stand near the camp fire in the middle** - For those people who have repeatedly cleared the camp, this step is what you were missing.\nClear adds from water.\nClear adds from water again.\nTake Murkdeep's life.\nProfit.\n\nAlso note that the camp itself repops pretty fast so be quick.",
+   "replies": []
+  },
+  {
+   "rating": 21,
+   "date": "2005-10-24T03:18:41-05:00",
+   "body": "He's at roughly 35,74.",
+   "replies": [
+    "Just head south on the road until you get to Wildbend river and then go straight west to the coast.\n(tloc = 36,77)\n\nLook around the beach for 3 huts, you'll probably see a few warriors there.&nbsp; KILL THEM ALL.&nbsp; Once they're all dead, some Coast runners will run up from out of the water, KILL THEM ALL, once you kill them, two more warriors will come... KILL THEM ALL (getting the theme here?), once you kill them all, Murkdeep will come with a body guard and you can take him out easily."
+   ]
+  },
+  {
+   "rating": 16,
+   "date": "2006-11-11T10:02:11-06:00",
+   "body": "Murkdeep can be found at 36, 76 (https://www.wowhead.com/forever/npc=10323) on the shore, surrounded by Murloc hunters, warriors, and coastrunners in a small camp.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-04-28T10:31:19-05:00",
+   "body": "[Shaman 15]\r\n\r\nFor those of you that do not know, advice from hunters should only be tried by hunters (and maybe warlocks). For a very long time now, hunters have been known as the \"solo class\" because they really have two players: the hunter and a meat shield (pet).\r\n\r\nNote This!! - Any time a hunter says it can be done and you are not a hunter, it is a totaly different game.\r\n\r\nThis said, I did complete the quest as a level 15 Shaman. Here's how..\r\n\r\nAs said above, pulling the mobs in singles or smaller groups is correct. The problem is when facing Murkdeep. Several quests in the game will require you to kill a \"named\" NPC and he/she will almost always have \"bodyguards\". This one is no exception. A hunter above states \"easy to solo lvl 12hunter LOL kiting ftw :D\" and he's full of it. Post the video friend. I would bet he completed the quest in the same way or very similar to the other hunters, sending in pet on a few pulled mobs and letting his \"meat shield\" take the damage. Kiting is not easy and with the new daze mechanics, I would bet all my gold that he did not \"kite\" the mobs (probably doesen't know what kiting is).\r\n\r\nIf you have any ranged abilities, start off with those on Murkdeep. I used Lightning after placing a Stoneclaw totem about half way in my cast range. Draenei have a racial HoT (heal over time) that I used after a nice big Nuke on the Murkdeep and I plop a Fire Nova and after plop a Flamtoung. At this point I was at a bit more than half health, my HoT was gone and the bodyguards were about to rush me. I self heal to fill my bar.\r\n\r\nMurkdeep is now at 1/4th health, but it's not over yet. I've not done any damage to the guards, so new totems would be toast and Claw tot is on cooldown. I don't have much mana, so I Flame shock, recharge my shield and plop a Stoneskin. The entire time I'm backing up to make distance between me and the guards, I had to be careful not to evade the mobs (another reason kiting is hard here), but being on the brink of evading mobs can be a good thing. A final Earth Shock kills Murkdeep, I now have only 14% health and the guards are wicked pissed. I drop my Earthbind and turn-tail, running further away from the mobs origional spawn point. Sure enough, they evade.\r\n\r\nI run up to the corpse of Murkdeep, grab my loot and eat/drink atop his fallen body. Success!\r\n\r\nGood Luck and Death to Murkdeep!",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-10-24T03:18:41-05:00",
+   "body": "wow, this was a cool little quest.&nbsp; i thought he was not spawned also, but cleared the camp, then little waves came running out of the ocean to the camp, and the 3rd wave was murdaloc and a friend!&nbsp; kewl quest",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2021-05-14T08:37:58-05:00",
+   "body": "And yes, in 2021 in Classic, you still have numbnuts who just run and in tag him when you did all the work spawning him. \r\n\r\nSo, take note: if you see him in the camp, look around or ask if someone has spawned him, don't just go \"yay\" and kill him.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-12-08T22:20:11-06:00",
+   "body": "Not going to be able to solo this at level 15, will need a party.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-24T03:18:41-05:00",
+   "body": "Find the the 3 cane huts down the beach, head south passed the washed up monsters.\n\nStand on the hill over looking the huys and attack from there. This helps spot him coming from the sea and helps targeting.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-07-06T15:18:41-05:00",
+   "body": "You have to kill everyone at the 3 huts. Then 2 little weak murlocs appear in the hut... kill them 2, then in about 10 secs 2 lvl 15 warriors will pop up in the hut. Now get rdy, kill them both and then Murkdeep will come out of the water just like the other guys said. Murkdeep will never spawn himself u hav to kill his murlocs first many times.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-24T03:18:41-05:00",
+   "body": "I had the same experience as one of the others here. I had to wipe the others out, before he came running. (He comes in the third wave).\n\nI found him north of the washed up sea creatures. (closer to astranaar than the sea creatures)",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-07-31T12:10:45-05:00",
+   "body": "The location of the camp is 36,77",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-22T09:24:08-05:00",
+   "body": "Soloed as a lvl 18 druid. Very easy. Murkdeeps spawn when you kill 3 groups of murlocs in  36.76.  First there are hunters and warriors murlocs then 3 coastrunner on very low lvl then a small group of hunter or something. After that murkdeep spawn with one guard.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-24T03:18:41-05:00",
+   "body": "Be very careful with this quest. I tried it at lvl 19 with my lvl 17 pet and died at least 4 times. This is an extremly hard one. Oh and you have to kill the first spawns, then more will run out of the water, kill those, and then some more will run out with Murkdeep. Have fun",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-11-29T15:18:41-06:00",
+   "body": "I have soloed this quest every time I've done it, most recently with a level 19 warrior. I've also done it around the same level with a druid and mage. I didn't pay attention to my first two characters, but with the warrior I found that the above statements seemed to apply to my event. I cleared the camp, then three coastrunners popped (level 13 I think they were). I fought them off then two level 16 greymist warriors came out; killed them then Murkdeep spawned with a level 16 greymist hunter attached.&nbsp; As long as you rest between fights, it's a sinch.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-03-19T03:18:41-06:00",
+   "body": "its a really easy quest...soloed it with 17 druid go south from auberdine and stay near the coast....u will see 3huts...kill one by one all greymist Hunters and Warriors....when u kill the last one run away from sea(as they come from there) and w8 some secs...3more will come(lvl 13)kill em all(together as u can't kill one by one)and again stay away from sea ...2more will come...lvl 15...kill em(u have to stay away from sea) and w8..after some secs the boss will apear...w8 till one monster only is near him...then attack him(if u can sheep or sap the other one to make it easier)..if u are lvl 17+ u can easily slay him and take the bounty...(1st time i add comment...sorry for mistakes)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-24T15:18:41-05:00",
+   "body": "I just soloed the quest at lev 19.\nI'm a retribution pally.\nI actually died once, close to twice.\nBut you'll live, just as long as you are prepared for the reinforcements.\nI actually one-hitted Murkdeep himself.\nJudge of the Crusader + Seal of Command + Stun + Judge of Command ^^",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-24T15:18:41-05:00",
+   "body": "To confirm a previous observation, you need to get fairly close to the camp to trigger the script, it seems.\n\nI died once whilst trying to kill Murkdeep; came back, and he'd despawned.&nbsp; So I cleared the camp from a distance, and - nothing; just sat around drumming my fingers for a few minutes.&nbsp; It wasn't until another player ran into the camp that the waves of Murlock restarted, ending in Murkdeep.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-07-15T03:32:50-05:00",
+   "body": "it is out side the inn",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-12-08T23:11:45-06:00",
+   "body": "I did this with me (a lvl 16 mage) and a priest (level 15). We successfully killed him but the murlocs surrounded him was a pain. DO NOT SOLO THIS. We died about 3 times.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-12-11T04:24:20-06:00",
+   "body": "Easily solo'd this quest at level 16, with a lvl 15 pet.  Just don't stand next to the water so you can rest between waves.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-23T15:47:38-05:00",
+   "body": "If you save this until level 20 as a druid, it can be a snap. Once Murkdeep spawns, root the additional murloc that accompanies him, then run as far as you can get before he leashes - this will ensure that you will have enough time to kill Murkdeep before entangling roots releases and you have another add to deal with. If you can put a dot up on Murkdeep (Moonfire, etc), it will be helpful since it will have a chance to kill him while he flees so you don't have to deal with two mobs if he decided to run back while you are engaged with the rooted one. I used kitty form to kill him, but you can probably also use bear or humanoid form just as well. Good luck =)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-24T03:18:41-05:00",
+   "body": "Read Pekky's comment with some amusement. My single biggest complaint (and one of only a few) about the quests is that Blizzard chooses (that's right, they've discussed it at length, and even explained their choice in an email to me) NOT to separately designate solo quests from group quests, except in a few specific cases. Discovering which quest is soloable and which can only be done by a group (at the appropriate level) is part of the fun. Don't want those Spirit Healers to get too lonely!\n\nI can see their point to a certain extent: they want us to ask other players about the quests and maybe get a little assistance.\n\nOf course you could always go to Thottbot....",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-02-10T15:18:41-06:00",
+   "body": "I start attacking one and i am far away from the other ones and all run against me :O. I am level 17 and can kill 2-3 against me easy but when 7 is against me it impossible. Give some tips pls :P",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-02-10T15:18:41-06:00",
+   "body": "Lvl to do it -\nThis quest was very easily soloed at lvl 18 by me a hunter my pet is lvl 18 too. this quest is probaly doable at earlier levels and by all classes. unless you have a pet or a friend i sggest minimum lvl 17, 16 if u have good gear.\n\nHow to do it-\nHead down south on the shore from auberdine and at 36,78 you will find 3 murloc huts gaurded by some murlocs. Clear this camp by single pulls, and as soon as you clear the camp, back away from it, 3 lvl 14 or so murlocs will come out of the water and guard the camp. kill these easily and back up out of the camp and heal/drink whatever u wanna do, then the booss should come out of the water&nbsp; kill him and your done easy as pie",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-19T03:18:41-06:00",
+   "body": "Died twice going after Murkdeep. Kept going back to my corpse. Third time, Murkdeep was hanging out near the water by himself. Me and my pet took him out without any of the other greymist's coming after us. \n\nI guess the best strategy to soloing this is hangout and wait from him to wander off.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-08-12T03:18:41-05:00",
+   "body": "Well, if u clear the camp and they dont come out, i know y. I waited around the camp for a minute after clearing then i hit the fire in the middle and the first of Murkdeep's mob came",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-17T15:18:41-05:00",
+   "body": "I have just done this as a lvl 31 pally all the times I've been here and never seen the poster.\n\nThe last comment about the fire rings true for me. Village with 3 huts I cleared before taking out ever Murloc further down. I then headed back to the 3 hut village and started killing them when I ran over the campfire to kill one sudenly Murcdeep and a warrior were behind me.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-17T15:18:41-05:00",
+   "body": "I must confess i did this one at lvl&nbsp; 19 cos i read the respawn stuff and tought would be harder and didnt see the coords b4 so cba to look for it. But then i decided to do the quest, got the coords for the hut (36,78) and went there. I didnt even had to kill any of the creatures. I aimed at the sea and murkdeep was there with his friends. Used the rifle to draw his attention and killed him fast while his bud was spearing me. killed him and ran away. end of history.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-05T03:18:41-06:00",
+   "body": "I did this quest solo no problem. Cleared camp.\n\n3 level 13 adds\n\n2 level 16 adds\n\nThen the 19 boss came with a 17 hunter add.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-11T19:20:23-06:00",
+   "body": "After the first time you have \"cleanised\" the little village of its residents, you must approach the village's bonfire, and a couple of tiderunnders will \"spawn\" out of the ocean to check on the village's situation. Kill them go near the bonfire again, and a new set of \"task force\"(level 14-15 warriors) will appear to check on the village. After killing this set wait for a bit to see if Murkdeep appears. If it doesn't go near the bonfire, and quickly retreat, and Murkdeep will appear with his body guard(I faced a level 17 Greymist Hunter). You know the rest.\n\nEdited, Sat Dec 11 13:25:37 2004",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-30T19:12:04-06:00",
+   "body": "I did it quite easily , Druid lvl 18. U have to watch out cause he have some little friend around, but once u are 1 on 1 with with, he's a dead mob. \n\nGood reward, good Xp.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-16T17:07:34-05:00",
+   "body": "I think they changed something as Murkdeep is in the camp and if you attack one of the other murlocs, several will run to attack as well as Murkdeep.  So you've got at least 4 lvl 17 on you at one time.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-06T18:46:01-06:00",
+   "body": "Where does this mission start?  Or do you just kill him?",
+   "replies": [
+    "I think there is a sign to read posted near the Inn in Auberdine.\n",
+    "There's a wanted poster outside the inn at Auberdine.  It's on the wall, facing the well.",
+    "it is right out side the inn\n"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-24T14:19:50-06:00",
+   "body": "I solo'd this as a 17 Druid. Not impossible by any means, but pretty hard.\n\nAt (36,77) I started at the north end of the camp and killed a couple of the 17's at that end of the camp. You don't have to empty the camp, but you do have to kill some of them.\n\nThen a group of about 3 lvl 12's and a 16 appeared in the center. What I did was stand far away, blast one of the weak ones as fast as i could until it died, then ran away before the rest of the group killed me. Then go back and repeat against the smaller group.\n\nWhen that group dies, another group of about 3 16-17's appear. I did the same thing. stand far away, blast one as fast as i could until it died, then ran away. Repeat until that group is dead.\n\nThen Murkdeep appears with a bodyguard. Did the same thing to his bodyguard, then came back and got Murkdeep.\n\nIf you want to be on the safeside, bring a potion or two, and some food/drink always helps.\n\nIn case anyone was wondering, I didn't really have to deal with any of the original guys respawning (possibly only 1). After all i didn't wipe out the whole camp or anything.  This whole thing probably took about 10 minutes. (I know it sounds longer, but it's not that bad.)\n\n[i][small]Edited, Nov 26th 2006 10:59am by Ryanar[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-31T19:50:33-06:00",
+   "body": "I did this quest as a lvl. 18 Hunter. When I got to the village, I was the only character there. I couldn't see Murkdeep, so I killed just 2 Murlocs, then ran along the shore - I just happened to catch a glimpse of something in the water... and there he was! Sitting just under the surface just off-shore! Alone! As soon as I attacked him, a Murloc Hunter appeared, but my pet took the bodyguard down and I took Murkdeep down easily. So before you set about wiping out the village, just check that the little bugger isn't sitting in the water all along!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-07T09:17:02-06:00",
+   "body": "1700 XP\n150 Rep with Darnassus.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-14T12:20:55-06:00",
+   "body": "I've killed Murkdeep about four times now, and it keeps saying that he's not slain; so, I don't know what to do! Any suggestions?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-19T14:08:27-05:00",
+   "body": "Murkdeep is no longer sitting in the camp, as now you must kill all of the murlocs already inside the camp, then kill a wave of 3 lvl 11-12 Murlocs, then 2 lvl 15-16 ones, then Murkdeep comes with a lvl 16-17 Murloc Hunter. Easy.",
+   "replies": [
+    "You don't have to kill all the mobs in this camp to start. just a few\n\n[i][small]Edited, Nov 26th 2006 10:59am by Ryanar[/small][/i]"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-25T19:19:28-06:00",
+   "body": "At 1700 XP, this quest gives an enormous amount of experience for the level. It was fairly easy to do, I started clearing the camp at 18 and died by doing something stupid.\n\nWhen I came back I saw someone running along the coast and asked them to give me a hand for a sec to complete the quest. They had the quest in their log too and since we were grouped we could both complete the quest.\n\nIt took us about 3 minutes to complete the quest with another partner.\n\nAnd the quest starts by reading a sign in front of the auberdine inn.\n\nThis would be a super great quest for a couple of level 12-14 characters grouped.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-07T08:55:30-05:00",
+   "body": "Did the quest really easily! Found the camp at [Red]36,77[/Red] just following the beach south. Found a level 19 warrior and asked him if he needed the quest too, he said no but he offered to help me. So we partied and killed a few murlocks, and then Murkdeep came out of nowhere and attacked the warrior. Killed him easily, and quest done :)\n\nAlso, the beached sea turtles are all along the beach so if you need them aswell there's some further on than the murloc camp ;)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-21T09:10:37-06:00",
+   "body": "Well, I have started a new Alt (NE Warrior) and wanted to kill Murkdeep because he is so easy...... HE AINT THERE ANYMORE! i have pillaged and ravaged and slain all murlocs there! At the camp and at those turtle corpses, however after waiting for 4 more respawns of his whole gang and killed 'em all again and again he did not appear! more people complained and i ticketed the GM's. But they say (as always) the quest works fine..... well waiting an hour for a respawn of 1 mob is a bit much no?\n\nanyway, haven't killed him yet 'cause he ain't there..... beter luck next time?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-30T06:01:17-05:00",
+   "body": "If you are level 16 hunter you can just do it.. Just use the \"die and go back\" method.. :P But you need a good pet, and try to pull him out as fast as possible, because when the others respawn, you are in \"deepmurk\" !@#$ :P\n\nIf you need cordinates, here:  36,76\n\nEdited, Fri Sep 30 02:32:08 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-09T16:59:47-06:00",
+   "body": "Where it is?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-07T20:43:47-06:00",
+   "body": "Murkdeep is far to the south along the beach.  Past the remains of the turtle.  You'll find a village of Murlocs, but you won't see Murkdeep.  You apparently have to kill off the entire village for him to appear.",
+   "replies": [
+    "You do not have to kill off the entire village. Just kill a few murlocs, and some smaller ones should appear and attack you. Keep killing the ones that come (from the ocean i think), and he will eventually show up."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-19T19:30:25-06:00",
+   "body": "44 Mage working Darny faction, cleared the camp six times over an hour or so (leaving after three clears for 40-some minutes to do other quests, then stopped back for two more clearings, then more quests, then came back again). Sixth time I cleared it, then killed the coastrunner along the shore to the north, then ran to the water to see if perhaps he had spawned but just wasn't coming cause he was scared, but didn't see him... ran back to the camp and two murlocs were there, killed them and looked to the water, and lo and behold here comes Murkdeep and his buddy!\n\nIf it doesn't work the first five times.. keep trying :) and kill the coastrunner too, it might help.\n\n385 Darnassus Rep gain (with the Human rep bonus and all)",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-17T08:48:21-06:00",
+   "body": "Did this solo as a level 18 hunter, but it wasn't easy. I could pull away the surrounding murlocks except for two. Those two stuck with Murkdeep, so bear that in mind. When you attack Murkdeep, you're going to be taking on 3 level 17-18 murlocks.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-02T08:08:11-05:00",
+   "body": "Just solo'd as a level 17 druid w/out my 18 skills. easy as long as you could kill the adds before fighting him.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-20T07:53:04-05:00",
+   "body": "easy to solo lvl 12hunter LOL kiting ftw :D",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-27T16:12:18-05:00",
+   "body": "Waited to level 20 to do this as a Draenai Paladin. Murkdeep appeared during first attempt but  i gacked and some *person* stood there, watched them kill me and then took murkdeep after I died...second attempt I was able to get this done and made 1700xp on the turn in. The location of the camp is 36,77",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-04-19T01:48:53-05:00",
+   "body": "ARE DRANEI CAPABLE OF GETTN THIS QST?",
+   "replies": [
+    "if any 1 knows the races that can log this listm plz im goin for darn rep on my drae sha but cant seem to log this "
+   ]
+  }
+ ]
+}

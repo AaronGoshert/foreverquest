@@ -1,0 +1,111 @@
+{
+ "id": 98293,
+ "name": "Forced Disarmament",
+ "level": 30,
+ "reqlevel": 22,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2450,
+ "start": {
+  "type": "object",
+  "id": 672330,
+  "name": "Dragonmaw Armaments",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    58.8,
+    45.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2104,
+  "name": "Captain Stoutfist",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    9.8,
+    57.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Collect 30 Dragonmaw Armaments in Dragonmaw Retreat, then bring them to Captain Stoutfist in Menethil Keep. Dragonmaw Armaments  ( 30 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2104,
+   "name": "Captain Stoutfist",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 280369,
+   "name": "Dragonmaw Armaments",
+   "count": 30,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Dragonmaw Armaments",
+   "count": 30,
+   "type": "item",
+   "id": 280369
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 2,
+   "id": 672330,
+   "name": "Dragonmaw Armaments",
+   "coord": [
+    58.8,
+    45.2
+   ],
+   "coords": [
+    [
+     58.8,
+     45.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 2104,
+   "name": "Captain Stoutfist",
+   "coord": [
+    9.8,
+    57.4
+   ],
+   "coords": [
+    [
+     9.8,
+     57.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-05T15:29:22-05:00",
+   "body": "Quest starts at a box spawn around 59,44 at the start of the path where you also complete [url=https://www.wowhead.com/forever/quest=98291/death-to-the-dragonmaw]Death to the Dragonmaw[/url]\r\n\r\nEach box contains 3-5 armaments, you can sneak loot a few but with some friends this quest still took a while, boxes respawn after a number of minutes.",
+   "replies": []
+  }
+ ]
+}

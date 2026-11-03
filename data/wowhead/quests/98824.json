@@ -1,0 +1,176 @@
+{
+ "id": 98824,
+ "name": "Prehistoric Prism",
+ "level": 31,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 16732,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3150,
+ "start": {
+  "type": "npc",
+  "id": 1077,
+  "name": "Prospector Whelgar",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    38.8,
+    52.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5387,
+  "name": "High Explorer Magellas",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    69,
+    19.6
+   ],
+   [
+    69.4,
+    18.4
+   ],
+   [
+    69.4,
+    18.6
+   ],
+   [
+    69.6,
+    18.6
+   ],
+   [
+    69.8,
+    18.4
+   ],
+   [
+    70.4,
+    17
+   ],
+   [
+    70.8,
+    17.4
+   ],
+   [
+    70.8,
+    17.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Bring the Titan Relic to High Explorer Magellas in Ironforge's Hall of Explorers. Titan Relic (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 287959,
+   "name": "Titan Relic",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  95810,
+  98824
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 1077,
+   "name": "Prospector Whelgar",
+   "coord": [
+    38.8,
+    52.2
+   ],
+   "coords": [
+    [
+     38.8,
+     52.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 5387,
+   "name": "High Explorer Magellas",
+   "coord": [
+    69.6,
+    18.6
+   ],
+   "coords": [
+    [
+     69,
+     19.6
+    ],
+    [
+     69.4,
+     18.4
+    ],
+    [
+     69.4,
+     18.6
+    ],
+    [
+     69.6,
+     18.6
+    ],
+    [
+     69.8,
+     18.4
+    ],
+    [
+     70.4,
+     17
+    ],
+    [
+     70.8,
+     17.4
+    ],
+    [
+     70.8,
+     17.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 13,
+   "date": "2026-10-02T12:39:43-05:00",
+   "body": "Believe this might be bugged as of 10/1 - 10/2.. Turned in first part of quest and lost my Titan Relic. High Explorer Magellas needs the Titan Relic to complete quest.\n\nAs of 10/6/26 this was fixed by blizz. Abandon the quest and go get it again for the relic.",
+   "replies": [
+    "still bugged for me",
+    "Confirmed bugged. Same happened to me. Relogging/abondoning and reaccepting did not help. Tried rekilling the Titan boss and also did not work.",
+    "Same happened to me. My titan relic disappeared and I couldn't turn in the follow-up. Tried killing the boss again and it dropped nothing.",
+    "Same thing happened to me as well",
+    "bugged, is there any way to get it back?"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2026-10-03T19:45:05-05:00",
+   "body": "Quest has been fixed. You can abandon and get a new Titan Relic if you already have the Quest.",
+   "replies": [
+    "Can confirm it works, if you've handed it in to Whelgar, you can abandon and retake quest for the relic."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-20T07:06:33-05:00",
+   "body": "This questline is confusing.\r\n\r\nFirst you get a relic from the Elite at the digsite. You turn that in at same site adn the questgiver takes it.\r\nSo you think the quest for the blue gear is bugged since you have nothing to turn in at Ironforge.\r\nBut it's the wrong relic. When you do the excavation dungeon you get another titan relic from a boss inside.\r\nWhen you turn that bossdrop relic in at the digsite, then you get the quest to Ironforge for the blues.",
+   "replies": []
+  }
+ ]
+}

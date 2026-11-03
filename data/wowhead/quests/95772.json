@@ -1,0 +1,99 @@
+{
+ "id": 95772,
+ "name": "Songblade Search",
+ "level": 31,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 16732,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3150,
+ "start": {
+  "type": "npc",
+  "id": 956,
+  "name": "Dorin Songblade",
+  "zone": "Redridge Mountains",
+  "zoneId": 44,
+  "coords": [
+   [
+    25.6,
+    46.4
+   ],
+   [
+    25.6,
+    46.6
+   ],
+   [
+    30.8,
+    46.4
+   ],
+   [
+    30.8,
+    46.6
+   ]
+  ]
+ },
+ "end": null,
+ "patch": "1.60.1.70170",
+ "objectiveText": "Look for Dorin Songblade 's brother, Daewyn, in Whelgar's Excavation Site.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 956,
+   "name": "Dorin Songblade",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 44,
+   "zone": "Redridge Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 956,
+   "name": "Dorin Songblade",
+   "coord": [
+    30.8,
+    46.6
+   ],
+   "coords": [
+    [
+     25.6,
+     46.4
+    ],
+    [
+     25.6,
+     46.6
+    ],
+    [
+     30.8,
+     46.4
+    ],
+    [
+     30.8,
+     46.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-02T17:08:10-05:00",
+   "body": "Hes in the stables, left hand side when you cross the bridge from the flight master.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-03T08:58:56-05:00",
+   "body": "Quest: [url=https://www.wowhead.com/forever/quest=95772/songblade-search]Songblade Search[/url]\r\nOthers: [url=https://www.wowhead.com/forever/quests/dungeons/excavation-site-wetlands]Excavation Site: Wetlands[/url]\r\nType: Dungeon\r\nReq: Level 24\r\nStart: Redridge\r\nSharable: Yes\r\nFinal Rewards:\r\n[ul]\r\n[li]\r\n[url=https://www.wowhead.com/forever/item=271769/daewyns-girdle]Daewyn's Girdle[/url]\r\n[/li]\r\n[li]\r\n[url=https://www.wowhead.com/forever/item=271768/songblade-stabilizer]Songblade Stabilizer[/url]\r\n[/li]\r\n[/ul]\r\nNote: These details are subject to change throughout Forever's development cycle. Accuracy is only guaranteed at the time of this posting.\r\nYou can find my Google Sheets document which is updated more frequently [url=https://docs.google.com/spreadsheets/d/1Hy3tqXAsSic6QvAf8Aew8TEagLj5ohU5bQS-mCbX9H0/edit?usp=sharing]here[/url]. It contains these types of details for all WoW Forever dungeons.",
+   "replies": [
+    "Thank you so much for this!"
+   ]
+  }
+ ]
+}

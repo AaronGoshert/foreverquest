@@ -1,0 +1,121 @@
+{
+ "id": 92752,
+ "name": "Explosive Consultation",
+ "level": 16,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 580,
+ "start": {
+  "type": "npc",
+  "id": 11026,
+  "name": "Sprite Jumpsprocket",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    54.6,
+    8
+   ],
+   [
+    54.8,
+    8.8
+   ],
+   [
+    61.8,
+    30.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253092,
+  "name": "Alba Fairmoon",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    52.4,
+    53
+   ],
+   [
+    52.6,
+    53.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Return to Alba Fairmoon in Westfall . Extra-Destructive Explosives (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 253092,
+   "name": "Alba Fairmoon",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 254553,
+   "name": "Extra-Destructive Explosives",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 11026,
+   "name": "Sprite Jumpsprocket",
+   "coord": [
+    54.6,
+    8
+   ],
+   "coords": [
+    [
+     54.6,
+     8
+    ],
+    [
+     54.8,
+     8.8
+    ],
+    [
+     61.8,
+     30.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 1,
+   "id": 253092,
+   "name": "Alba Fairmoon",
+   "coord": [
+    52.4,
+    53
+   ],
+   "coords": [
+    [
+     52.4,
+     53
+    ],
+    [
+     52.6,
+     53.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

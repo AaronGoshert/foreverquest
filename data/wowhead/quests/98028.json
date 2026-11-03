@@ -1,0 +1,81 @@
+{
+ "id": 98028,
+ "name": "Baron Marinous",
+ "level": 21,
+ "reqlevel": 17,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1650,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 3616,
+  "name": "Onu",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    43.4,
+    76.2
+   ],
+   [
+    43.6,
+    76.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Bring the Clouded Water Globe to Onu at the Grove of the Ancients in Darkshore . Clouded Water Globe (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 279275,
+   "name": "Clouded Water Globe",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 3616,
+   "name": "Onu",
+   "coord": [
+    43.6,
+    76.4
+   ],
+   "coords": [
+    [
+     43.4,
+     76.2
+    ],
+    [
+     43.6,
+     76.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-01T14:39:46-05:00",
+   "body": "Kill nagas and collect [b]20[/b] [item=279276]. No prior quests are required. Use the fragments at [object=669236] at around [b]59, 22[/b][i] (same structure type as BFD entrance)[/i]. This spawns an elite elemental named [npc=270294]. They can be soloed by going behind the pillars as he's about to cast, and then coming out to use your ranged attacks. Turn in to [url=https://www.wowhead.com/forever/npc=3616/onu#map]Onu[/url] at the Grove of Ancients down south and enjoy the rewards.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-09T00:39:14-05:00",
+   "body": "Collect [b]20[/b] [url=https://www.wowhead.com/forever/item=279276/mathystral-amulet-fragment]Mathystral Amulet Fragment[/url] and combine them at the [url=https://www.wowhead.com/forever/object=669236/fathom-stone]Fathom Stone[/url] at the bottom of the spiral staircase at 59:23 in the Ruins of Mathystra. Use the [url=https://www.wowhead.com/forever/item=279277/mathystral-amulet]Mathystral Amulet[/url] immediately to summon [url=https://www.wowhead.com/forever/npc=270294/baron-marinous]Baron Marinous[/url], a level 21 gold elite. The elite drops the [url=https://www.wowhead.com/forever/item=279275/clouded-water-globe]Clouded Water Globe[/url] which starts the quest [url=https://www.wowhead.com/forever/quest=98028/baron-marinous]Baron Marinous[/url] that you can turn in to [url=https://www.wowhead.com/forever/npc=3616/onu]Onu[/url] in the Grove of the Ancients for one of two blue items: [url=https://www.wowhead.com/forever/item=281291/mathystra-channeling-orb]Mathystra Channeling Orb[/url] (Off-hand, +5 Int, +3 Stam) or [url=https://www.wowhead.com/forever/item=281292/onus-patience]Onu's Patience[/url] (Off-hand, +3 Stam, +5 Spirit).\r\n[b][i]Pro Tip![/i] - The fragments are [u]unique[/u] but they are not [u]soulbound![/u] Group up and have one person collect all of the fragments.[/b] Only one person needs to summon him for everyone to get the quest item. Plus, grouping makes the killing go by faster. [i]Good luck, and happy hunting![/i] [small]:)[/small]",
+   "replies": []
+  }
+ ]
+}

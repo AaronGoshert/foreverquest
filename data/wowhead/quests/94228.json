@@ -1,0 +1,87 @@
+{
+ "id": 94228,
+ "name": "Craftsman's Writ: Green Iron Boots",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 8305,
+  "name": "Kixxle",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    50.2,
+    37.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Green Iron Boots  ( 1 ) Green Iron Boots  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264028,
+   "name": "Craftsman's Writ: Green Iron Boots",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3484,
+   "name": "Green Iron Boots",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Green Iron Boots",
+   "count": 1,
+   "type": "item",
+   "id": 264028
+  },
+  {
+   "text": "Green Iron Boots",
+   "count": 1,
+   "type": "item",
+   "id": 3484
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 8305,
+   "name": "Kixxle",
+   "coord": [
+    50.2,
+    37.8
+   ],
+   "coords": [
+    [
+     50.2,
+     37.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-18T20:38:21-05:00",
+   "body": "Rewarded 75 reputation and a Coin Pouch which contained 35s 4c.",
+   "replies": []
+  }
+ ]
+}

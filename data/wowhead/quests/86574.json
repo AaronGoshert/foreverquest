@@ -1,0 +1,129 @@
+{
+ "id": 86574,
+ "name": "Stonetalon Supply Run",
+ "level": 24,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": 406,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1950,
+ "start": {
+  "type": "npc",
+  "id": 268925,
+  "name": "Night Elf Courier",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    48.6,
+    39.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 16458,
+  "name": "Innkeeper Faralia",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    35.6,
+    5.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Collect 6 Stonetalon Supplies from Pridewing Wyverns and deliver them to Innkeeper Faralia . Stonetalon Supply Bundle  ( 6 ) Stonetalon Supply Satchel (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 16458,
+   "name": "Innkeeper Faralia",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 277915,
+   "name": "Stonetalon Supply Satchel",
+   "count": 6,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Stonetalon Supply Bundle",
+   "count": 6,
+   "type": "item",
+   "id": 277917
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 268925,
+   "name": "Night Elf Courier",
+   "coord": [
+    48.6,
+    39.8
+   ],
+   "coords": [
+    [
+     48.6,
+     39.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 16458,
+   "name": "Innkeeper Faralia",
+   "coord": [
+    35.6,
+    5.8
+   ],
+   "coords": [
+    [
+     35.6,
+     5.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 400,
+   "zone": "Thousand Needles",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 216854,
+   "name": "Freewind Post Wyvern",
+   "coord": [
+    53.2,
+    41
+   ],
+   "coords": [
+    [
+     53.2,
+     41
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-04T09:35:15-05:00",
+   "body": "These seem to drop [b]2[/b] at a time a lot. To me, it was quick to complete.\r\n\r\nFor maximum efficiency, make sure to grab [quest=1134] from Astranaar to complete with this one.",
+   "replies": []
+  }
+ ]
+}

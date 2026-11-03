@@ -1,0 +1,95 @@
+{
+ "id": 403,
+ "name": "Guarded Thunderbrew Barrel",
+ "level": 1,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "object",
+  "id": 269,
+  "name": "Guarded Thunder Ale Barrel",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    47.7,
+    52.7
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 269,
+  "name": "Guarded Thunder Ale Barrel",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    47.7,
+    52.7
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Completion This barrel of ale is guarded by Jarven Thunderbrew.  As long as he's in the basement, no barrels may be disturbed.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 2,
+   "id": 269,
+   "name": "Guarded Thunder Ale Barrel",
+   "coord": [
+    47.7,
+    52.7
+   ],
+   "coords": [
+    [
+     47.7,
+     52.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 2,
+   "id": 269,
+   "name": "Guarded Thunder Ale Barrel",
+   "coord": [
+    47.7,
+    52.7
+   ],
+   "coords": [
+    [
+     47.7,
+     52.7
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 5,
+   "date": "2019-09-09T11:53:12-05:00",
+   "body": "Part of the quest [quest=310], where you need to complete [quest=308].\n\nQuest add-ons (such as Questie) do not count this quest as completed even if you have done it.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-03-13T10:07:44-05:00",
+   "body": "Complete Quest Text (from Guarded Thunder Ale Barrel):\r\n\r\nThis barrel is guarded by Jarven Thunderbrew. As long as he's in the basement, no barrels may be disturbed.",
+   "replies": []
+  }
+ ]
+}

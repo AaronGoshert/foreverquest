@@ -1,0 +1,192 @@
+{
+ "id": 91772,
+ "name": "Shhh! We're Hunting Kobolds",
+ "level": 4,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 355,
+ "start": {
+  "type": "npc",
+  "id": 248415,
+  "name": "Tordrin Sternblade",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    51,
+    40.4
+   ],
+   [
+    51.2,
+    40.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 240,
+  "name": "Marshal Dughan",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    42.2,
+    65.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Follow the kobold tracks and report to Marshal Dughan in Goldshire with your findings and the Kobold Tracking Kit .   Followed Kobold Tracks  ( 6 ) Kobold Tracking Kit (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "object",
+   "id": 563442,
+   "name": "kobold tracks",
+   "count": 6,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 247970,
+   "name": "Kobold Tracking Kit",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Followed Kobold Tracks",
+   "count": 6,
+   "type": "object",
+   "id": 563442
+  }
+ ],
+ "series": [
+  91741,
+  91743,
+  91745,
+  91752,
+  91758,
+  91772,
+  91775,
+  91777
+ ],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 248415,
+   "name": "Tordrin Sternblade",
+   "coord": [
+    51.2,
+    40.8
+   ],
+   "coords": [
+    [
+     51,
+     40.4
+    ],
+    [
+     51.2,
+     40.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 240,
+   "name": "Marshal Dughan",
+   "coord": [
+    42.2,
+    65.8
+   ],
+   "coords": [
+    [
+     42.2,
+     65.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "requirement",
+   "type": 2,
+   "id": 563442,
+   "name": "Kobold Tracks",
+   "coord": [
+    45.4,
+    50.7
+   ],
+   "coords": [
+    [
+     42.1,
+     62.5
+    ],
+    [
+     45.4,
+     50.7
+    ],
+    [
+     45.5,
+     51.3
+    ],
+    [
+     46,
+     52.3
+    ],
+    [
+     46.1,
+     52.8
+    ],
+    [
+     46.5,
+     54.4
+    ],
+    [
+     46.6,
+     54.5
+    ],
+    [
+     47.8,
+     45.6
+    ],
+    [
+     47.8,
+     51.9
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 13,
+   "date": "2026-10-05T14:33:29-05:00",
+   "body": "Seems bugged right now. The item says \"Target level too low\" and the buff it is supposed to give has \"Requires level 35\", which seems a bit high for a level 4 quest...\r\nYou can still complete the quest by just looking for and clicking 6 kobold tracks, just south of Northsire.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-25T22:53:50-05:00",
+   "body": "Use the [url=https://www.wowhead.com/forever/item=247970/kobold-tracking-kit]item[/url], it grants a [url=https://www.wowhead.com/forever/spell=1246031/hunting-kobolds]buff[/url] that allows you to detect the quest objectives in your minimap. The tracks are mostly found [b]next to trees as you exit Northshire Valley and start running towards Goldshire[/b].",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-08T05:43:50-05:00",
+   "body": "Another [url=https://en.wikipedia.org/wiki/Elmer_Fudd]Elmer Fudd[/url] reference from Bugs Bunny cartoons, \"Shhh. Be vewy, vewy quiet, I'm hunting wabbits\"\n\nAlso, if you're having trouble seeing the tracks while the buff is bugged, you can turn down your graphics settings to remove ground clutter and see them more clearly. They're near trees south of the starting area.",
+   "replies": [
+    "Tracks have a green haze emitting from them. They spawn in a narrow strip going from Northshire to Goldshire."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,384 @@
+{
+ "id": 3512,
+ "name": "In Eranikus' Own Words",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 3,
+ "zoneId": 8,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 4200,
+ "start": {
+  "type": "npc",
+  "id": 5353,
+  "name": "Itharius",
+  "zone": "Swamp of Sorrows",
+  "zoneId": 8,
+  "coords": [
+   [
+    13.6,
+    71.4
+   ],
+   [
+    13.6,
+    71.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 8588,
+  "name": "Umbranse the Spiritspeaker",
+  "zone": "Winterspring",
+  "zoneId": 618,
+  "coords": [
+   [
+    67.8,
+    27.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Travel to the eastern part of Winterspring and speak with Umbranse the Spiritspeaker .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 8588,
+   "name": "Umbranse the Spiritspeaker",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 8,
+   "zone": "Swamp of Sorrows",
+   "point": "start",
+   "type": 1,
+   "id": 5353,
+   "name": "Itharius",
+   "coord": [
+    13.6,
+    71.6
+   ],
+   "coords": [
+    [
+     13.6,
+     71.4
+    ],
+    [
+     13.6,
+     71.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 618,
+   "zone": "Winterspring",
+   "point": "end",
+   "type": 1,
+   "id": 8588,
+   "name": "Umbranse the Spiritspeaker",
+   "coord": [
+    67.8,
+    27.4
+   ],
+   "coords": [
+    [
+     67.8,
+     27.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 212,
+   "date": "2005-09-30T23:13:43-05:00",
+   "body": "Okay,\n\nIf you can move this post to the top so eveyone can see it you better.\n\nI have been told by blue, that you do give up the trinket for the exp.&nbsp; The quest ends there.&nbsp; There is no more to it.&nbsp; The text reads as thou it goes further on but it does not and there is no more supportive content to the quest.\n\nI'll honestly say, the GM I spoke with seems as upset as I was about it, and made it very clear that the quest ended there.\n\nIf you like the trinket, keep it.&nbsp; I wish I had, but if you want the exp fine, it's a poor trade if you ask me.&nbsp; There outa be a nice weapon, gold or something for all that you go thru to get the trinket.",
+   "replies": [
+    "For those doing this quest again now, if you wait until level 60, you receive 2g52s for completing it.",
+    "Depending on your server and your luck, you may get more value if you disenchant it instead. Currently on Zandalar Tribe (EU), the average return for disenchanting it is 3g11s."
+   ]
+  },
+  {
+   "rating": 75,
+   "date": "2006-12-16T21:34:58-06:00",
+   "body": "This quest chain seems to be an incomplete one. \n\nAfter you turn in the Chained Essence of Eranikus to Itharius and go to visit Umbranse, the chain dead ends with its completion.  He will not point you to another questgiver or give you any task to complete.  Though it would seem that what he says would, logically, lead to another part, it does not, which is a disappointment.\n\nMessages to the GMs and on the forums have yielded nothing except messages that the quest is \"working as intended\".",
+   "replies": []
+  },
+  {
+   "rating": 42,
+   "date": "2019-10-21T14:25:21-05:00",
+   "body": "I never knew this quest existed, until now 2019, Classic.\r\nIt is a real Shame Blizz didn't finish the questline this time around... considering the relevance of the state of the game/zones/population and patch etc.\r\nWould be nice to see this qchain added in, along with the long-lost Ashblade Quest that ppl thought was/will be obtainable ingame.",
+   "replies": [
+    "I mean they touched on this with the AQ gate quest though.",
+    "@Beyondfubar the NPC is the same but this quest chain, ending with \"In Eranikus' Own Words\" is not the same one as the AQ gate quest. And it has never been finished. It was left in it's still-same state of simply ending after turn in with no further quest line."
+   ]
+  },
+  {
+   "rating": 28,
+   "date": "2006-05-07T23:13:43-05:00",
+   "body": "Umbranse the Spiritspeaker is at 68,27\n\nHe gave me 2 gold, 52 silver and nothing else.&nbsp; Like everyone else, I wish I had kept the trinket",
+   "replies": []
+  },
+  {
+   "rating": 27,
+   "date": "2019-10-09T15:42:11-05:00",
+   "body": "Well they've had 12 years to update this.\r\n\r\nAny update?",
+   "replies": [
+    "Nope: \"#nochange\" :\\",
+    "This quest did, however, actually get an update - not the actual quest, but it continues when Moonglade is assaulted during AQ opening which is one-time thing per server so, there's that."
+   ]
+  },
+  {
+   "rating": 22,
+   "date": "2007-04-10T18:54:31-05:00",
+   "body": "...but this quest is still broken at this step, as of 4/16/07\n\nJust sayin' ^^",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2007-01-04T06:46:29-06:00",
+   "body": "I spoke with a GM today (04-01-2007) and he confirmed that this quest is indeed broken and will be fixed sometime in the furture.",
+   "replies": [
+    "It would be interesting to know, considering the previous glassthorne's commment of \"Working as intended\", if the quest line isn't actually broken, just incomplete.  There is a difference, after all. One means bugfixes. The other means a more creative and complex solution is required, which may take more time to do.",
+    "It isn't neccesarily broken, it is indeed \"Working As Intended.\" However, in this case, working as intended is the end. Eranikus cannot be redeemed via any spirit speaker, the quest is continued in the green scepter shard quest- Tyrande and Remulous redeem him while moonglade is under attack, he then gives you the green scepter shard.",
+    "The quest is not broken. It just ends here.",
+    "And yet here we are 14 years later ^^"
+   ]
+  },
+  {
+   "rating": 19,
+   "date": "2005-09-30T23:13:43-05:00",
+   "body": "\"More will be added to the Eranikus quest chain in a future patch (not sure how far off as of right now). I can't reveal anything further at this time, but from what I've seen it's going to be really cool and fairly rewarding.\"\n\nfrom Eyonix on the official forums (posted 2005-08-30)\n\nEDIT: added date",
+   "replies": [
+    "I just completed this, having wondered what to do with the Chained Essence of Eranikus (got it way long ago, after killing the Shade of Eranikus in Sunken Temple).&nbsp; I'm a Warlock Engineer and have 273492637 trinkets already, so getting rid of one that I hardly ever use is a GOOD thing.&nbsp; I was hoping that I'd get a reputation with Ysera's Dragonflight, but no such luck.&nbsp; Oh well.\n\nAnyway, the Burning Crusade expansion looks as if it's going to add Outland and the Caverns of Time to the explorable world.&nbsp; However, shortly after release there were interviews in which designers",
+    "This is just one quest out of many that gives you the impression to have more to come, but just doesn't and ends there.\n\nJust like the \"find the kings kidnappers\" at lvl 30. The lady in Theramore tells you that she will summon you when she needs you. But according to others she won't summon you as the quest is officially over.\n\nSeems like this quest with Eranikus is just yet another of these loose ended quest that gives the impression that there is more to come, when there is not.",
+    "Reading this in 2019 makes me wonder if this was just some heap of prepared customer bs :)"
+   ]
+  },
+  {
+   "rating": 17,
+   "date": "2005-09-30T23:13:43-05:00",
+   "body": "/Sigh\n\nWhy do ppl post garbled information here...Eranikus is an Emerald Dragon, one of Ysera The Dreamers brood, he was set to gaurd Hakkar's remains after the emerald flight destroyed him, Hakkar is the god of the trolls who dewelled withing The Temple of Atal Hakkar...Now commonly known as the sunken Temple, if u actually read the quest log instead of just twisting words u'd know this. the corruption of hakkar twisted the emerald dragons set with eranikus to guard the remains of the troll god, upon his death at ur hands his essence was trapped within a nightmare...again information that was given in the quest line.\n\noh and BTW quest items don't always need to have a quest attached to them, and some will only drop once u have completed other quests...the onyqia key quest chain springs to mind, why don't u try searching thott for the term \"augurary\" or whatever the precise spelling is.",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2007-04-01T11:13:43-05:00",
+   "body": "Found him at 67,27 inside the shack",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2007-03-29T07:50:20-05:00",
+   "body": "Redeeming Eranikus is a part of the AQ opening of the portals quest, il post a piece that ive copy/pasted from a guide on that part of the AQ quest:\n\n6b) The Green Flight \n\nThis was cool. I went to see the sleeping shade of Eranikus in ST. As soon as I entered the room, Malfurion Stormrage phased in between me and the dragon. He told me that Eranikus has been corrupted by the Old Gods and that I needed to cleanse him in order to recover the scepter shard. He sends me to speak with an agent of his outside of Darnassus(!). I did that. The agent sent me to Keeper Remulos in Moonglade. Remulos told me of Eranikus's corruption, and how he wants nothing more than revenge upon Malfurion and upon the Moonglade. He might be lured into a trap, but it would require the recovery of four shards of the corrupted dream, from each of the four dragon portals around the world. Three of them are held by the dragonkin near the portals (raredrops from the dragonkin; they do not drop from the green dragons themselves). The fourth is in Duskwood, which has no trash, but where a demonic Twilight Corruptor awaited me, phasing in as I approached the moonwell there. He was tough (40-man raid mob), but we took him out. The drop rate on the other fragments is awful -- it took 3.5 hours of nonstop farming in Feralas to get that one, and 1.5+ at Hinterlands. Ashenvale has so few dragonkin that it also proved problematic with the new lengthened respawns, but at last we had all four shards. \n\nI brought them back to Keeper Remulos in the Moonglade, and he used them to lay a trap for Eranikus. Eranikus has been in the corrupted Emerald Dream, twisted by the will of the Old Gods, brooding and yearning for revenge against Malfurion and the Cenarion Circle. The fragments were used to open a portal into the heart of the Dream, and Eranikus emerged over the Moonglade lake. With hundreds of people gathered to defend Moonglade (and to watch), an epic battle was waged against dozens of Nightmare Phantasms that emerged from the portal, as Eranikus hovered menacingly in the skies. Aeternus, Aftermath, Advent, LoH, Exordium, and countless others, all turned out to assist us, and I thank them. As the phantasms were defeated, Eranikus landed to do the job himself. He was controlled, and we began to wear him down. As the fight went on, Tyrande arrived from Darnassus (the point of my trip to Darnassus had been to covertly notify her) with a half-dozen Priestesses of the Moon riding white tigers. They healed the army as we continued to rain blows on Eranikus, and Tyrande and Remulos fought against him side-by-side. As he weakened further, Tyrande channelled the powers of Elune in a prayer to redeem the cursed dragon. He thrashed and resisted, but ultimately the light of Elune overcame him. He suddenly ceased fighting. The dragon vanished, and in its place lay a crumpled night-elf on the ground. He stood up and haltingly apologized for all the harm he had wrought, and left to attempt to begin to make amends for his actions. Before leaving, however, he entrusted me with the green scepter shard that Anachronos had given him long ago. I returned it to Anachronos.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2007-01-18T11:13:43-06:00",
+   "body": "[url=https://www.wowhead.com/forever/search?q=Chal%20Fairwind]Chal Fairwind[/url] guards [url=https://www.wowhead.com/forever/search?q=Umbranse%20the%20Spiritspeaker]Umbranse the Spiritspeaker[/url]\n\nShe is a 53 Night Elf.\n\nLevel 60 players can completely avoid her and just walk along the walls of Umbranse's hut.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-12-12T23:13:43-06:00",
+   "body": "Here it is Patch 2.01 and this quest is still unfinished. Much like The Missing Diplomat chain. I've read up all over, and heard some interesting things. Some lead to Videre Elixir, some lead to Sleeping Night Elves. I still have both the Oathstone and the Chained Essence in my bag on me at this moment. \n\nI'd like to get rid of them for the bagspace, but I dont wanna miss out on what may lead to a huge Emerald Dream event. I'd like to know how this quest ends. But I guess we'll have to wait until Blizzard decides to end it.\n\nAs for my own thoughts... I'm wondering if maybe you have to speak to someone you'd never think of in a million years, but is so obvious. \nIn my mind I keep thinking, Druids walk the Emerald Dream. But the only few I can think of at this moment are Malfurion, Cenarius, and Remulos (moonglade). There are the Stormrage Barrow Dens in Moonglade that seem empty. Malfurions last name was Stormrage, I'mm gonna try visiting it in my wisp form and see what I can dig up.\n\nEdit: After killing myself in Lake Elune'ara and searching the entire moonglade (mainly the Barrow Dens) I came across nothing. Even the great bear spirit was missing from the spirit realm.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-01-18T11:13:43-06:00",
+   "body": "Loc: (67,27)",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-09-30T23:13:43-05:00",
+   "body": "Issue Reported:The In Eranikus' Own Words quest line ends with Umbranse the spirit speaker saying he needs some device to help Eranikus but does not give another quest or any hints besides somthing about needing the help of some one who does not suffer the limits of age. This quest line appears incomplete or the NPC is bugging and not giving me the quest for the next step. At this point I am out of the trinket I give up for this quest and cannot complete the line.\n\nWe are aware of the situation you reported, and we are currently working on a solution.&nbsp; Please check the World of Warcraft website (http://www.worldofwarcraft.com) for future updates and corrections.&nbsp; We appreciate your patience.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-06-13T11:13:43-05:00",
+   "body": "so if it is to be more in this questline...what about those who have sold the trinket or destroyed it...supose you cant do it then?",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-09-30T23:13:43-05:00",
+   "body": "Beebob said, on another page:\n>Those who were around during the opening of >Ahn'Quiraj will realise that Eranikus' spirit >returns during that event, so clearly that's the >only follow-up this quest's going to get. If you >don't get it, ask an older player.\n\nThe Ahn'Qiraj event was a one-time event.\n\nIf that were truly meant to be the follow-up and the final ending of the quest line, the quests leading up to it would be disabled after the event closed.\n\nHowever, this is not an event quest.&nbsp; You can still give up the trinket and do this quest line after Ahn'Qiraj opens, thus there must be something else.\n\nMaybe it's not in the game yet.&nbsp; Or maybe it's so well hidden, so ingenious, that the tens of thousands or more of level 60 players just haven't found it.\n\nMaybe the GMs tell you that quest chains are \"incomplete.\"&nbsp; What does that mean?&nbsp; Does it mean that this is the last node?&nbsp; Not necessarily.&nbsp; Every quest chain in the game is theoretically incomplete, as it is always possible to add more quests to the end of existing chains.&nbsp; The Eranikus quest chain could very well be \"incomplete,\" but still have 10 more quests after this one that all of you just haven't found yet.\n\nNever give up!&nbsp; Trust your instincts!\n\n(That said, I'd be VERY interested to know exactly what text was displayed in the game when Eranikus's spirit returned during that event.)",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-04-01T11:13:43-05:00",
+   "body": "As of march 17, still a dead end :(\n\nEmerald dream EU",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-05-17T06:25:43-05:00",
+   "body": "Do you get any rep out of doign the rest of the quest? If so..... from who?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-30T23:13:43-05:00",
+   "body": "Umbranse the Spiritspeaker: Itharius was wise to send you to me. While he is not dead as you understand death, Eranikus will soon give us advice in his own words. For now though, I cannot directly help you... at least not yet. \n\nI will lend my skill at death-speaking to you, but first I need the help of one who - unlike me - is not limited by the frailties of old age. My most potent augury device has been taken from me against my will, and unless I have it back we will be at a loss to help Eranikus.\n\nAny 60th lvl players check this out if its lvl dependant?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-18T11:13:43-06:00",
+   "body": "Finally ended quest just east of moon horrer den. I agree it was a nice trinket, great surprise in a battle of more than one.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-27T05:30:44-05:00",
+   "body": "I was REALLY looking forward to doing this quest! I always have had a facination with Dragons and out of ALL the dragonflight's Ysera was my favorate. Even though all she does is sleep lol. Even named my first guild after her! Any clue on how to continue this? Said we couldin patch notes. And I heard that this Timolain's Phylactery is needed.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-19T23:15:42-06:00",
+   "body": "When I meet Umbranse he didnt give me a quest. Just some hardto figure out clue on where to go or what to get. Makes it harder that it doesnt make a quest log.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-14T05:12:34-05:00",
+   "body": "quest line did not get extended in patch 1.7\n\nthe line blizz was talking about ended with the final tablets and was completly unrelated to this quest line\n\nso 1 less uncompleted quest line but unfortunately its not this one",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-16T00:22:16-05:00",
+   "body": "As of April 2006 the quest is still dead-ending at Umbranse. No clue as to whether you have to have faction or experience or wearing the right type of underware to finish this.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-29T02:54:46-05:00",
+   "body": "here is what he says when you go to turn in the quest \n\n \"Itharius was wise to send you to me. While he is not dead as you understand death, Erankis will soon give us advice in his own words. For now though, I cannot directly help you... at least not yet.\n\n I will lend you my skill at death-speaking to you, but first I need the help of he who-unlike me- is not limited by the frailties of old age. My most potent augary device has been taken from me against my will, and unless i get it back, we will be at a loss to help eranikus.\"\n\n\n\nhope it helps",
+   "replies": [
+    "[quest=3374] accepting the charge placed in this Oathstone, you agree to aid my cause and the cause of Ysera's Dragonflight in redeeming the corrupted soul of Eranikus. The first sacrifice, one of many you and I will no doubt make, will be to relinquish the gem to me that has chained what free-willed part of Eranikus' psyche remains.\"\n\n\"Do this <Name>, and we will work together to redeem a soul worthy of redemption.\"\n\n[quest=3512] our first step will be to devise a method to speak with Eranikus through the gem. He lies in a precarious state between sleep and death now, twisted within a weave o"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-18T19:15:03-05:00",
+   "body": "well i spoke to a GM and he/she told me that the quest is working fine, the Gm said that is does end a bit abrupt and strange, but that is how it is supposed to be, the Gm also said that in the future a chain might be added. so my guess is that they just don't want to admit that it was broken :)\n\nso well mystery solved i guess",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-26T17:51:52-06:00",
+   "body": "Yeah, if anyone can post what he says it'd help, I didnt bother reading it because I thought he'd just give another quest..",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-19T21:28:51-05:00",
+   "body": "[quest=6030] an Argent Dawn quest that mentions Umbranse.  Any connections here?  I brought the book to Umbranse and he had nothing else to say.\n\nEDIT:\n5/19 GM confirmed that this quest is incomplete--not yet implemented.\n\nEdited, Thu May 19 22:04:55 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-23T14:35:48-05:00",
+   "body": "I am pretty sure, if not from ZG, that this quest chain is related to the 4 new Green Dragons that will be put in a future patch, randomly in Azeroth.\n\nEranikus is part of the Green Flight patch. He is corrupted. The Dream world is corrupted. The 4 Green Dragons are corrupted as well.\n\nMaybe.....",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-01T01:57:47-06:00",
+   "body": "Unless you truly don't need it, keep the trinket.  I made the mistake of running this quest and losing a decent trinket to my 54 pally, all - apparently - for naught.\n\nI wish I'd read this thread first...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-04T13:26:38-05:00",
+   "body": "Ending the quest and he says this at the end:\n\"My most potent augary device has been taken from me against my will, and unless i get it back, we will be at a loss to help eranikus.\"\n\ni think the device is he talking about is the book from this quest:\n[quest=6030] thing is that i have already done that quest... so i can't get the book, if anyone can still accept that quest keep the book and go see if you can talk to Umbranse the Spiritspeaker again... report back if you can",
+   "replies": [
+    "I tried getting that book, and it didnt help, still cant talk to him."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-01T20:21:06-05:00",
+   "body": "I went and visited the Bloodelf, went and visited the Human and then the trail was left dry.  But after I rode off near Winterspring, some Orange Text came up and mentioned something about Moonglade.  So I flew on over to Moonglade and more Orange Text popped up.  But that's as far as I got.  It mentioned something about Necro or Nex something...something related to the Undead.  I thought If I traveled to Eastern or Western Plaguelands something would happen, but nothing.\n\nSo far I haven't seen any other Orange Text telling me where I should head to next.\n\nEdited, Mon May  1 15:15:12 2006",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-03T23:12:00-06:00",
+   "body": "horde can turn the quest into Umbranse but the quest series isn't finished yet ....till a content patch",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-09-17T01:05:39-05:00",
+   "body": "Something I just realized turning this quest in on a second character.  Ubranse is talking about Anachronos or Nozdormu when he speaks of needing the help of someone not affected by time.  Has anyone done this and gotten exalted with the Brood and gone back?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-09-23T11:49:53-05:00",
+   "body": "Attainable for the horde too. Atleast for me. Change the quests information!  :)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-16T14:33:13-06:00",
+   "body": "Just completed this chain after installing the exp\n4200 xp @ lv60, no further chain as of yet from this guy\nAlso should change to both like fella below me said, I am Horde and got this q np",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2005-03-18T06:37:26-06:00",
+   "body": "Horde can get this quest too but it dead ends at Umbranse (he does hint at a further quest that is apparently not implemented yet.)",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-08-20T23:48:33-05:00",
+   "body": "According to patch 1.7 notes the quest line will continue.",
+   "replies": [
+    "If that's the case it may be related to Zul'Gurub.",
+    "For those trying to find Umbranse who have a mapmod, he is tucked away at 67,26 in Winterspring.\n\nBe prepared for a fight to see him; there are plenty of chimeras, moonkin, and bears in the surrounding area.  At level 56 (determined to turn it in for level 57 ding), I died twice on my way to see him."
+   ]
+  },
+  {
+   "rating": -7,
+   "date": "2005-03-23T15:19:15-06:00",
+   "body": "You begin this quest in The Swamp Of Sorrows at Itharius's Cave south of the entrance to the swamp from Deadwind Pass. \n\nBut, you have to venture into Sunken Temple, kill Jammal'an the Prophet to awaken the Shade of Eranikus. You then kill the Shade of Eranikus and loot the Essence of Eranikus. \n\nAt the back left corner of Eranikus' lair is a brazier. Use the brazier and the essence will be turned into Chained Essence of Eranikus, a trinket that when used creates a \"cloud\" of poison that deals 50 damage every 5 seconds to all enemies in an 8 yard radius for 45 seconds, with a 15 minute cooldown. \n\nOnce you have the Chained Essence of Eranikus, you go to Itharius's Cave and ask Itharius about Eranikus, then follow the prompts, Itharius will then hand you a tablet, that when used, starts the quest to hand the chained essence to Itharius.\n\nHe then sends you to Wintersrping to Umbranse the Spirittalker, who speaks about an augur he needs to aid him. Saying something about it being taken from him against his will. After completing this part of the quest, the chain ends abruptly. \n\nI suggest you hold onto the trinket, as it can be useful in dueling and PvP.",
+   "replies": []
+  },
+  {
+   "rating": -8,
+   "date": "2005-03-06T13:10:15-06:00",
+   "body": "How do you start this quest? Do you have to talk to Umbrase first?",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2005-07-16T19:36:21-05:00",
+   "body": "Hey, here's a great idea. Lets start a quest with a really good storyline, but not finish it. Yea, so when players figure out that there's a quest, we can point and laugh at them because they can't progress.\n\nWell done blizzard.",
+   "replies": [
+    "Hell yeah, and why we're on it, lets let em turn in one of their perfectly fine trinkets! that'll show them!\n\n\nI was actually quite excited when I found out there was a followup on eranikus (on lvl 60, I never really wandered through the dwamp of sorrows before that) and I was eager to turn in my trinket, hoping for something good to come or at least a nice storyline.\n\nAnd then blizzard does this -_-'\nf*cked up if you ask me......\nI know it's not finished yet but why on earth release a half storyline? why not wait and put the entire storyline in 1 patch? I hope I dont forget I did this quest w"
+   ]
+  },
+  {
+   "rating": -9,
+   "date": "2005-11-05T18:02:08-06:00",
+   "body": "I got this quest as a horde player, so it should be altered to both sides\n\nas i handed it in it said \"quest; The matron protectorate accepted\"\n\nwhich is a quest you get off a hurt dragonwhelp in blackrock",
+   "replies": []
+  }
+ ]
+}

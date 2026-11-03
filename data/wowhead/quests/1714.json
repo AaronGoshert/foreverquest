@@ -1,0 +1,345 @@
+{
+ "id": 1714,
+ "name": "Essence of the Exile",
+ "level": 37,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": -81,
+ "reqclass": 1,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "object",
+  "id": 89931,
+  "name": "Bath'rah's Cauldron",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    79.3,
+    66.7
+   ],
+   [
+    79.5,
+    66.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 89931,
+  "name": "Bath'rah's Cauldron",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    79.3,
+    66.7
+   ],
+   [
+    79.5,
+    66.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Progress The cauldron bubbles.  Its vapors beckon... Thundering Charm  ( 8 ) Burning Charm  ( 8 ) Cresting Charm  ( 8 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 4480,
+   "name": "Thundering Charm",
+   "count": 8,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4479,
+   "name": "Burning Charm",
+   "count": 8,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4481,
+   "name": "Cresting Charm",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Thundering Charm",
+   "count": 8,
+   "type": "item",
+   "id": 4480
+  },
+  {
+   "text": "Burning Charm",
+   "count": 8,
+   "type": "item",
+   "id": 4479
+  },
+  {
+   "text": "Cresting Charm",
+   "count": 8,
+   "type": "item",
+   "id": 4481
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "start",
+   "type": 2,
+   "id": 89931,
+   "name": "Bath'rah's Cauldron",
+   "coord": [
+    79.3,
+    66.7
+   ],
+   "coords": [
+    [
+     79.3,
+     66.7
+    ],
+    [
+     79.5,
+     66.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "end",
+   "type": 2,
+   "id": 89931,
+   "name": "Bath'rah's Cauldron",
+   "coord": [
+    79.3,
+    66.7
+   ],
+   "coords": [
+    [
+     79.3,
+     66.7
+    ],
+    [
+     79.5,
+     66.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 217305,
+   "name": "Ancient Fire Elemental",
+   "coord": [
+    60,
+    45.6
+   ],
+   "coords": [
+    [
+     59.4,
+     46.4
+    ],
+    [
+     60,
+     45.4
+    ],
+    [
+     60,
+     45.6
+    ],
+    [
+     60,
+     46.6
+    ],
+    [
+     61.4,
+     46.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 14,
+   "date": "2007-01-27T05:06:17-06:00",
+   "body": "The drop rate is actually excellent without starting the whole Princess Trapped quest line.  I've taken two warriors through this Whirlwind quest line now and never had a problem with the drop rate.\r\n\r\nThe elementals you need to kill are around levels 38 - 39 so be prepared for them.  Drop every 3 or so kills there are a lot of elementals at the various locations but you may find yourself sharing the areas due to people who farm them for their elemental drops (air, fire and water)",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2006-11-04T15:55:44-06:00",
+   "body": "Lots of great info with no straight answers.\n\nHERE IS THE WALKTHROUGH!\n\n\nThe Quest Giver\n\nGo see Bath'rah for the quest. He is just NORTH of Tarren Mill on the EAST SHORE of the river that flows from Southshore to Tarren Mill. From Southshore follow the river north PAST Tarren Mill. Walk on the East Shore.... he will be off to your right in a gazeebo...if you miss him please uninstall WoW and go outside and play.\n\nThe Charms \n\nYou need Thundering, Burning, and Cresting Exile charms that drop from these mobs. YOU NEED 8 OF EACH. You can find them in the Arathi Highlands not too far from  Refuge Point. One JUST to the east near the cliff at Refuge Point, one near the big wall in the north west and one at the top center of the map. The drop rate is VERY low so be prepared to camp each spot for a good long time.\n\n\nThe Bloodscalp Tusks\n\nGo kill Bloodscalp Trolls in Stranglethorn Vale. You will need to collect 30 of their tusks from their corpses'.\n\n\nLiferoot\n\nIf you are Herbalist you most likely already have this herb. If not ask around in the trade channels or the AH.\n\n\nReturn to Bath'rah\n\nWhen you have all of these items you need to return to Bath'rah's camp and click on the bubbling cauldron in front of his gazeebo. You will create an \"Essence of Exile\" from the charms. Talk to Bath'rah and give him the items..... he will ask you to follow him. FOLLOW HIM. He will summon Cyclonian. Prepare for an ass beating!\n\n\nThe popular choice of weapon to select as your prize is the AXE. You wont be sorry if you get it!\n\n\n\n\n[i][small]Edited, Nov  4th  2006 at  9:58am PST by Kreedo[/small][/i]\n\n[i][small]Edited, Nov  4th  2006 at 10:00am PST by Kreedo[/small][/i]",
+   "replies": [
+    "TY!",
+    "13 years later and this is still the best post on this page."
+   ]
+  },
+  {
+   "rating": 10,
+   "date": "2007-04-13T04:51:03-05:00",
+   "body": "You can find the charms in the Arathi Highland from the elemental. I just did it:)",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-04-13T09:39:03-05:00",
+   "body": "[b]the monsters you have to kill are lvl 39~ you can buy from Ah but often overpriced... i had a great friend help me get them took a while tho drop rate sucks pretty bad![/b]",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-27T22:06:28-06:00",
+   "body": "Malbolja is wrong.\nThe Essence is used in Quest: Cyclonian. Which leads to: The Summoning. Which leads to: Whirlwind Weapon if you kill the mob. It is not necessary to do this quest over before redoing The Summoning. If you die you talk to the NPC again and he summons again. I helped my wife do this quest at 36/37. It kick our butts when we tried at 35. For those who care it was a Warrior and a Druid.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-10T08:41:27-05:00",
+   "body": "gewt a 50lvl friend to help you and it is easy.you must collect them from the mobs and click on the cauldron",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-11T12:47:17-06:00",
+   "body": "When I did this quest the drop rate was about every third or second I killed so the post\"Solution\" is totally wrong",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-16T13:31:38-05:00",
+   "body": "u gotta kill those elemntal exiles in the arathi highlands it takes forever and they nare very deadly when u r a low lvl and it takes forever to get the drops",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-10T16:16:14-05:00",
+   "body": "Looks like you need 8 of each. They're dropped from the water, fire, and air elementals in Arathi. (Fire are NW, air are just NE of Refuge Point, and water are N,NE.)\n\nThey drop pretty frequently so it shouldn't be too time consuming to get them all.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-15T02:10:58-05:00",
+   "body": "Ok \nIm a 34 warrior who has just recvived the cyclonian quest.\nI have AHed the life root for about 50s.\nI am still working on the bloodscalp bone fragments i have 21 out of 30.\nI dont know how to get the essence of the exile. But i have read all of the posts below mine and i still can't figure it out. Are you just supposed to go and get the 24 charms or is there an actual quest for this and how do you get it? \nIf you know the answer to this please post it for me.\nThanks in advance.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-08T02:04:37-05:00",
+   "body": "Alts or good friends are quite helpful here, since these items can be traded.\n\nI collected 8 of each in half an hour with my 60 rogue.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-28T19:23:04-06:00",
+   "body": "For anyone wondering where in the heck this quest is or how to get the Essence of Exile from the three types of 8 Exile materials, you go back to Alterac Mountains near the NPC that gave you the Cyclonian quest and mix them into the cauldron over the fire.  Hardest part for me was getting the dang liferoot since I'm not a herbalist and AH is out.  Good luck!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-06T08:32:45-05:00",
+   "body": "so u get the charms from random mobs in the NE of Arathi Highlands just west of hammerfall? or is it a special mob? like the elemntals? but then i must say there are elementals on more then just one place...\n\nand one more thing... do i need 8 of each or just 1 of each?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-30T22:52:32-05:00",
+   "body": "Drop rate is quite ok, Cresting Charm was the only one irritating me, Dropped 1 per 7 mobs for me :/",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-07T19:40:54-05:00",
+   "body": "THis thread doesn't list where the Questgiver is.... any ideas?",
+   "replies": [
+    "It has been a while since I did this quest, but as I recall, you click on the cauldron near the bottom of the steps to the troll who hands out the Cyclonian quest. Gather 8 of each of the charms from Arathi, click on the cauldron to create the Essence of the Exile.\n"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-21T15:37:38-05:00",
+   "body": "Bah, i have cleared the Thundering elementals 2 times and i only got 3.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-16T00:44:14-06:00",
+   "body": "Where does this stuff come from? Anyone have any info on these?",
+   "replies": [
+    "Arathi Highlands"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-18T19:43:15-06:00",
+   "body": "There is no quest giver! Collect 8Charms of each type and use Bath'rahs cauldron at the fire place near Bath'rahs place\n\nFirst of all, drop rate is extremly poor, this sucks\nSecond, be aware of Fozruk the Giant, he comes along around this places :)\nMobs around Lvl 37-39 with special effects, Fire, Ice, Thunder.\n66,27 Cresting Charm - Drop 1/7\n25,31 Burning Charm - Drop 1/9\n51,49 Thunder Charm - Drop 1 /10\n\nReturn to Bath'rah",
+   "replies": [
+    "Fozruk doesn't aggro unless you attack him."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-09T15:12:05-06:00",
+   "body": "I farm the charms to support my bad habits.  I usuallly have all you need up at the AH. \n\nNote: This is on Lightning's Blade only.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-20T15:38:27-05:00",
+   "body": "I gave up after 15 cresting exiles and went to thunderous - I am now on number 10 and nothing.  Think he might be right - any other factors that we might not know about though?\n\nWell - 3 just dropped in a row, making up time =P\n\nEdited, Thu Apr 20 11:44:06 2006",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-10-02T22:42:49-05:00",
+   "body": "Starts and ends at: https://www.wowhead.com/forever/object=89931",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2004-12-27T18:48:35-06:00",
+   "body": "These charms drop off the Exiles scattered throughout Hillsbrad and Arathi Highlands.  The Cresting Exiles(Mob) are in the far NE corner of Arathi Highlands, just a little west of hammerfall.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-08-03T22:04:56-05:00",
+   "body": "what do ya use the essense for?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-13T11:20:09-05:00",
+   "body": "Where or from who did I got the quist",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2006-11-21T11:26:37-06:00",
+   "body": "thanks for the walkthrogh",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-12-10T08:29:23-06:00",
+   "body": "Ack! Don't be fooled by the droprate of the charms! To get this droprate, you have to start another quest chain. East / Northeast of Refuge Pointe is a circle of stones. Floating in the center is a large Dark Crystal (shout-out to Jim Henson). This starts a quest chain, the first quest being \"The Princess Trapped\" (https://www.wowhead.com/forever/quest=642) After completing the first chain of the quest, you will receive the second portion, \"Stones of Binding\" (https://www.wowhead.com/forever/quest=651). This is when the droprate kicks in. In this quest, you must get the 3 keys from the 3 circle of bindings. ONCE YOU GET THE KEYS, then you will FINALLY begin to get the charms. So make sure to start this other chain of quests. You can sometimes purchase the crests in the AH, but they are expensive and you can't always find the ones you need.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-01-05T20:57:55-06:00",
+   "body": "I got all necessary stuff, the mob was summoned, but I died.\nI ran back to that place, the mob was still there but to be better prepared i decided to use a spell for more hitpoints on my char.\nduring theese few seconds the mob dissapeared.\n\nany chance to summon it again? or is this a 1-chance-quest?",
+   "replies": []
+  }
+ ]
+}

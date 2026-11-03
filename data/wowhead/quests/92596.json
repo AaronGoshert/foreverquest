@@ -1,0 +1,122 @@
+{
+ "id": 92596,
+ "name": "The High Order",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 135,
+ "start": {
+  "type": "npc",
+  "id": 251903,
+  "name": "Rathiril Sunlance",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    45,
+    46.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251903,
+  "name": "Rathiril Sunlance",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    45,
+    46.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Have a seat and speak with Rathiril Sunlance .   Listen to Rathiril Sunlance  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 251903,
+   "name": "Rathiril Sunlance",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Listen to Rathiril Sunlance",
+   "count": 1,
+   "type": "npc",
+   "id": 251903
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 251903,
+   "name": "Rathiril Sunlance",
+   "coord": [
+    45,
+    46.4
+   ],
+   "coords": [
+    [
+     45,
+     46.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251903,
+   "name": "Rathiril Sunlance",
+   "coord": [
+    45,
+    46.4
+   ],
+   "coords": [
+    [
+     45,
+     46.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 251903,
+   "name": "Rathiril Sunlance",
+   "coord": [
+    45,
+    46.4
+   ],
+   "coords": [
+    [
+     45,
+     46.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-21T06:40:23-05:00",
+   "body": "Let me tell you a story.",
+   "replies": []
+  }
+ ]
+}

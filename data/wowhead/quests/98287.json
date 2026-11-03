@@ -1,0 +1,28 @@
+{
+ "id": 98287,
+ "name": "Camping 101: Engineering",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 270,
+ "start": null,
+ "end": null,
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak with Sprite Jumpsprocket in Stormwind to learn to craft a camping item for your profession once you have shown proficiency in your skill.   Raise your engineering skill to 20  ( 1 )",
+ "objectives": [],
+ "objectiveRows": [
+  {
+   "text": "Raise your engineering skill to 20",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

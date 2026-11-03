@@ -1,0 +1,709 @@
+{
+ "id": 47,
+ "name": "Gold Dust Exchange",
+ "level": 7,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 630,
+ "start": {
+  "type": "npc",
+  "id": 241,
+  "name": "Remy \"Two Times\"",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    42,
+    67.6
+   ],
+   [
+    42.2,
+    67.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 241,
+  "name": "Remy \"Two Times\"",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    42,
+    67.6
+   ],
+   [
+    42.2,
+    67.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 10 Gold Dust to Remy \"Two Times\" in Goldshire. Gold Dust is gathered from Kobolds in Elwynn Forest . Gold Dust  ( 10 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 773,
+   "name": "Gold Dust",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Gold Dust",
+   "count": 10,
+   "type": "item",
+   "id": 773
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 241,
+   "name": "Remy \"Two Times\"",
+   "coord": [
+    42.2,
+    67.2
+   ],
+   "coords": [
+    [
+     42,
+     67.6
+    ],
+    [
+     42.2,
+     67.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 241,
+   "name": "Remy \"Two Times\"",
+   "coord": [
+    42.2,
+    67.2
+   ],
+   "coords": [
+    [
+     42,
+     67.6
+    ],
+    [
+     42.2,
+     67.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 40,
+   "name": "Kobold Miner",
+   "coord": [
+    39.6,
+    80.2
+   ],
+   "coords": [
+    [
+     39,
+     81
+    ],
+    [
+     39.4,
+     80.2
+    ],
+    [
+     39.6,
+     80.2
+    ],
+    [
+     39.8,
+     78.8
+    ],
+    [
+     39.8,
+     80.6
+    ],
+    [
+     40,
+     78.4
+    ],
+    [
+     40.4,
+     82.2
+    ],
+    [
+     40.6,
+     81.6
+    ],
+    [
+     40.8,
+     80.4
+    ],
+    [
+     40.8,
+     80.6
+    ],
+    [
+     41,
+     78.2
+    ],
+    [
+     41.4,
+     79
+    ],
+    [
+     41.6,
+     78
+    ],
+    [
+     41.6,
+     78.6
+    ],
+    [
+     41.6,
+     80
+    ],
+    [
+     41.8,
+     81
+    ],
+    [
+     60,
+     49.4
+    ],
+    [
+     60.4,
+     49.8
+    ],
+    [
+     60.8,
+     49.4
+    ],
+    [
+     61.2,
+     51.4
+    ],
+    [
+     61.4,
+     50.2
+    ],
+    [
+     61.4,
+     52
+    ],
+    [
+     61.4,
+     52.8
+    ],
+    [
+     61.5,
+     50.1
+    ],
+    [
+     61.6,
+     53.4
+    ],
+    [
+     61.6,
+     53.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 327,
+   "name": "Goldtooth",
+   "coord": [
+    41.4,
+    78
+   ],
+   "coords": [
+    [
+     40.4,
+     78.2
+    ],
+    [
+     41.4,
+     78
+    ],
+    [
+     41.4,
+     79
+    ],
+    [
+     41.6,
+     78
+    ],
+    [
+     41.6,
+     78.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 475,
+   "name": "Kobold Tunneler",
+   "coord": [
+    39,
+    81.4
+   ],
+   "coords": [
+    [
+     36,
+     82.4
+    ],
+    [
+     36.2,
+     79
+    ],
+    [
+     37.4,
+     83.4
+    ],
+    [
+     37.4,
+     83.6
+    ],
+    [
+     37.4,
+     84.8
+    ],
+    [
+     37.4,
+     86.6
+    ],
+    [
+     37.6,
+     79
+    ],
+    [
+     37.6,
+     84.8
+    ],
+    [
+     37.6,
+     86.8
+    ],
+    [
+     37.8,
+     85.8
+    ],
+    [
+     38,
+     81.6
+    ],
+    [
+     38,
+     82.6
+    ],
+    [
+     38,
+     83.8
+    ],
+    [
+     38.4,
+     81.4
+    ],
+    [
+     38.6,
+     83.8
+    ],
+    [
+     38.8,
+     78.2
+    ],
+    [
+     39,
+     81.4
+    ],
+    [
+     39,
+     81.6
+    ],
+    [
+     39,
+     82.6
+    ],
+    [
+     39,
+     85
+    ],
+    [
+     39.2,
+     80.4
+    ],
+    [
+     39.6,
+     80.2
+    ],
+    [
+     39.6,
+     84.2
+    ],
+    [
+     40,
+     78.6
+    ],
+    [
+     40,
+     82.6
+    ],
+    [
+     40.4,
+     78.2
+    ],
+    [
+     40.4,
+     81.2
+    ],
+    [
+     40.4,
+     82.2
+    ],
+    [
+     40.6,
+     81.6
+    ],
+    [
+     40.8,
+     80.6
+    ],
+    [
+     41,
+     78.2
+    ],
+    [
+     41.4,
+     79
+    ],
+    [
+     41.4,
+     79.6
+    ],
+    [
+     41.6,
+     78.4
+    ],
+    [
+     41.6,
+     78.8
+    ],
+    [
+     41.6,
+     80
+    ],
+    [
+     41.8,
+     81
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 476,
+   "name": "Kobold Geomancer",
+   "coord": [
+    60.6,
+    50.8
+   ],
+   "coords": [
+    [
+     60,
+     56.4
+    ],
+    [
+     60.4,
+     50.4
+    ],
+    [
+     60.4,
+     50.6
+    ],
+    [
+     60.6,
+     50.8
+    ],
+    [
+     60.7,
+     49.6
+    ],
+    [
+     60.8,
+     56.6
+    ],
+    [
+     61,
+     49.2
+    ],
+    [
+     61,
+     56.4
+    ],
+    [
+     61.2,
+     51.6
+    ],
+    [
+     61.2,
+     55.4
+    ],
+    [
+     61.2,
+     58.6
+    ],
+    [
+     61.4,
+     53
+    ],
+    [
+     61.6,
+     53.4
+    ],
+    [
+     61.6,
+     53.8
+    ],
+    [
+     62.2,
+     55.4
+    ],
+    [
+     62.2,
+     55.6
+    ],
+    [
+     62.4,
+     58
+    ],
+    [
+     62.6,
+     54.2
+    ],
+    [
+     63.3,
+     55.2
+    ],
+    [
+     63.4,
+     58.4
+    ],
+    [
+     63.6,
+     58.4
+    ],
+    [
+     63.6,
+     58.6
+    ],
+    [
+     64.3,
+     57.2
+    ],
+    [
+     64.4,
+     55
+    ],
+    [
+     64.4,
+     56.3
+    ],
+    [
+     64.6,
+     55.1
+    ],
+    [
+     64.6,
+     56.4
+    ],
+    [
+     64.6,
+     56.6
+    ],
+    [
+     65,
+     58.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 248464,
+   "name": "Nimsy",
+   "coord": [
+    41.6,
+    79.8
+   ],
+   "coords": [
+    [
+     38.9,
+     82.2
+    ],
+    [
+     39,
+     80.8
+    ],
+    [
+     39.2,
+     80.2
+    ],
+    [
+     39.2,
+     82.8
+    ],
+    [
+     39.5,
+     80.3
+    ],
+    [
+     39.7,
+     79.3
+    ],
+    [
+     40.8,
+     80.6
+    ],
+    [
+     41.4,
+     80
+    ],
+    [
+     41.6,
+     79.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 248474,
+   "name": "Geosculptor Yip",
+   "coord": [
+    61.3,
+    48.9
+   ],
+   "coords": [
+    [
+     60.3,
+     49.4
+    ],
+    [
+     60.3,
+     49.9
+    ],
+    [
+     60.8,
+     49.5
+    ],
+    [
+     60.9,
+     51.2
+    ],
+    [
+     61.2,
+     47
+    ],
+    [
+     61.3,
+     48.9
+    ],
+    [
+     61.4,
+     48.2
+    ],
+    [
+     61.5,
+     47.6
+    ],
+    [
+     61.6,
+     47.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 20,
+   "date": "2006-10-09T03:07:47-05:00",
+   "body": "This one is very easy - cords are at 39.82.\nBe sure you also have the following:\nLVL 7 The Fargodeep Mine\nLVL 7 Kobold Candles\n\nIf you do not have the downloads, use your mouse to find the location or just south (south east) of Goldshire.&nbsp; Heavy action in getting your share - lots of new Alliance come to get these three knocked out.",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2006-12-10T17:01:46-06:00",
+   "body": "If you head into the fargodeep mine which is south of Goldshire but not too far down, you will find lots of \"kobolds\".  These guys are small and have candles on their heads.  They drop gold dust every so often and that is what you need to collect.  Fairly easy but for safety I recommend you take one person with you to help you clear the Fargodeep Mine.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2006-12-11T07:26:47-06:00",
+   "body": "Do this quest along with:\r\nhttps://www.wowhead.com/forever/quest=60\r\nhttps://www.wowhead.com/forever/quest=62\r\n(Both picked up in Goldshire)\r\n\r\nShouldnt take too long to complete, Quick and easy XP.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-12-10T17:05:44-06:00",
+   "body": "The drop rate on Gold Dust is so-so. It's what makes me dislike the quest, but I still do it for experience.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-01-26T15:07:47-06:00",
+   "body": "As long as you know where the Fargodeep mine is (straight south of Goldshire), you'll do fine. I had to kill at least 5 Kobalds to get 1 pile of dust, but don't get discouraged. Just keep killing them (you may have to actually go into the mine) until you have all 10, then return. It's just as easy as reading the quest log in the first place.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-06-30T09:12:03-05:00",
+   "body": "The quest is billed as level 7, but I would probably leave it until level 8 unless you are very patient around the mines. You do not need to go inside, but instead, kill the Kobolds outside and some drop the required gold. In my experience, drops have been few and far between so you have to kill lots of Kobolds, which is good for exp. However, especially at the Jasperlode mine, you\nwill find Kobold Geomancers who stand off and pelt you with fireballs which eat into your health. I did this quest as a lvl 8 Warrior with good armor(twinked! Yay!). Because I was not as careful as I might have been I pulled several kobolds at once and this hurts. The most common problem is pulling a miner (ok) but then his Geomancer friend gets interested. It got hot!",
+   "replies": [
+    "You really shouldn't need to go to the Jasperlode mine, I've leveled 5 characters from levels 1-10 in the last few days, taking each of them through this quest at level 6 with no major problems.\n\nYou should be able to complete the whole thing at the Fargodeep mine, I did this whilst doing the candles and Fargodeep mine quest - drops were reasonable and the mobs spread out enough to ensure you are only fighting 1-2 Kobolds at one time.",
+    "There are a bunch of Kobolds around 38, 76."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2019-10-14T09:25:19-05:00",
+   "body": "Hi all\r\n\r\nOn This Quest you need to find [item=773]. It is drop from Kobolds go to 39 83 drop is high but not 100%.\r\n\r\nSee My Video if need it - https://youtu.be/VS4uD6nNNWg\r\n\r\nHope that help You :).",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-12-27T17:38:25-06:00",
+   "body": "This quest rewards 250 Stormwind reputation as of patch 2.01",
+   "replies": []
+  }
+ ]
+}

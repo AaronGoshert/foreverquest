@@ -1,0 +1,106 @@
+{
+ "id": 93948,
+ "name": "Deliver the Signet",
+ "level": 9,
+ "reqlevel": 6,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 390,
+ "start": {
+  "type": "npc",
+  "id": 251523,
+  "name": "Constable Aonda",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    45.4,
+    45.4
+   ],
+   [
+    45.6,
+    45.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252476,
+  "name": "Talaanis Shadowsong",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    66.2,
+    76.4
+   ],
+   [
+    66.2,
+    76.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Deliver the Shadowsong Family Signet to Talaanis Shadowsong in Valanaar. Shadowsong Family Signet (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 263491,
+   "name": "Shadowsong Family Signet",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 251523,
+   "name": "Constable Aonda",
+   "coord": [
+    45.6,
+    45.4
+   ],
+   "coords": [
+    [
+     45.4,
+     45.4
+    ],
+    [
+     45.6,
+     45.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252476,
+   "name": "Talaanis Shadowsong",
+   "coord": [
+    66.2,
+    76.6
+   ],
+   "coords": [
+    [
+     66.2,
+     76.4
+    ],
+    [
+     66.2,
+     76.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

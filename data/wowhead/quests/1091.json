@@ -1,0 +1,123 @@
+{
+ "id": 1091,
+ "name": "Kaela's Update",
+ "level": 22,
+ "reqlevel": 17,
+ "side": 1,
+ "zoneId": 406,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 175,
+ "start": {
+  "type": "npc",
+  "id": 4077,
+  "name": "Gaxim Rustfizzle",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59.4,
+    67.2
+   ],
+   [
+    59.6,
+    67
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4080,
+  "name": "Kaela Shadowspear",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59.8,
+    66.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring the Venture Co. Letters to Kaela Shadowspear . Venture Co. Letters (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5717,
+   "name": "Venture Co. Letters",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 4077,
+   "name": "Gaxim Rustfizzle",
+   "coord": [
+    59.4,
+    67.2
+   ],
+   "coords": [
+    [
+     59.4,
+     67.2
+    ],
+    [
+     59.6,
+     67
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 4080,
+   "name": "Kaela Shadowspear",
+   "coord": [
+    59.8,
+    66.8
+   ],
+   "coords": [
+    [
+     59.8,
+     66.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 29,
+   "date": "2007-01-16T13:15:15-06:00",
+   "body": "kaela is at 59.66 on the map right next to wear this quest begins standing by the edge of the cliff",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2007-03-15T05:46:08-05:00",
+   "body": "Leads to https://www.wowhead.com/forever/quest=1084 and https://www.wowhead.com/forever/quest=1083. Completing those 2 leads to https://www.wowhead.com/forever/quest=1082.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-10T18:00:50-06:00",
+   "body": "This quest takes about 5 seconds to do, since the NPCs are almost adjacent. Worth 180 exp.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-20T05:08:52-06:00",
+   "body": "After the Covert ops: Alpha; and Beta, this quest is given.\n\nIt is also a prequest for two other quests, that\nis so closely related they should be done simultaneously.\n\nFirstly, they both include travelling to the charred vale, as well as back again.\nSecondly, they are both needed to continue the thread.\n\nThe quests in question are:\nEnraged Spirits and Wounded Ancients.\n\nSee under those quests for continuation.",
+   "replies": []
+  }
+ ]
+}

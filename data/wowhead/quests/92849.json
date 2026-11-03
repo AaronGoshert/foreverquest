@@ -1,0 +1,206 @@
+{
+ "id": 92849,
+ "name": "The Missing Scholar",
+ "level": 10,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 840,
+ "start": {
+  "type": "object",
+  "id": 581822,
+  "name": "Bloodstained Satchel",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    53.3,
+    72.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253284,
+  "name": "Fillion Flamebreeze",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    52,
+    69.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Keep searching for Fillion Flamebreeze .   Find Fillion Flamebreeze  ( 1 )   Carry Fillion Flamebreeze to safety while avoiding enemies  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 253284,
+   "name": "Fillion Flamebreeze",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 253281,
+   "name": "Carry Fillion Flamebreeze to safety while avoiding enemies",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Find Fillion Flamebreeze",
+   "count": 1,
+   "type": "npc",
+   "id": 253002
+  },
+  {
+   "text": "Carry Fillion Flamebreeze to safety while avoiding enemies",
+   "count": 1,
+   "type": "npc",
+   "id": 253281
+  }
+ ],
+ "series": [
+  92849,
+  92850,
+  99260,
+  92840,
+  92834,
+  92860
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 2,
+   "id": 581822,
+   "name": "Bloodstained Satchel",
+   "coord": [
+    53.3,
+    72.2
+   ],
+   "coords": [
+    [
+     53.3,
+     72.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 253284,
+   "name": "Fillion Flamebreeze",
+   "coord": [
+    52,
+    69.4
+   ],
+   "coords": [
+    [
+     52,
+     69.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 253002,
+   "name": "Fillion Flamebreeze",
+   "coord": [
+    50.6,
+    65.4
+   ],
+   "coords": [
+    [
+     50.4,
+     65.4
+    ],
+    [
+     50.6,
+     65.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 253281,
+   "name": "Fillion Flamebreeze",
+   "coord": [
+    52,
+    69.4
+   ],
+   "coords": [
+    [
+     49.8,
+     66.8
+    ],
+    [
+     50.4,
+     65.6
+    ],
+    [
+     50.6,
+     65.4
+    ],
+    [
+     51,
+     66.6
+    ],
+    [
+     51.2,
+     66.2
+    ],
+    [
+     51.2,
+     68.2
+    ],
+    [
+     51.4,
+     69
+    ],
+    [
+     51.8,
+     66.4
+    ],
+    [
+     52,
+     66.6
+    ],
+    [
+     52,
+     69.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-27T13:26:23-05:00",
+   "body": "For anyone struggling with this quest - I don't know what causes it to bug but here's the work around:\n\n[ul]\n[li]When you pick up Fillion, if the quest task doesn't change to 'Carry him to safety', then you're bugged.[/li]\n[li]Drop him (right-click the buff) and abandon the quest.[/li]\n[li]Go back out to where the satchel is and pick it up again.[/li]\n[li]Repeat the process and make sure the task changes appropriately before continuing.[/li]\n[/ul]\n\nIf you forgot where you picked up the quest - the Bloodstained Satchel (Object #581822) it's just along the ridge there off the road - don't have exact coords, sorry.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-27T17:02:19-05:00",
+   "body": "For the phase where you have to carry him, you carry him outside the cave  -- when you get out go a little to the left and put him on his bedroll.   The location is here:\r\n\r\n[code]/way 52.05, 69.37[/code]",
+   "replies": []
+  }
+ ]
+}

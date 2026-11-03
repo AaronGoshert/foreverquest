@@ -1,0 +1,38 @@
+{
+ "id": 912,
+ "name": "Stonesplinter Trogg Disguise",
+ "level": 12,
+ "reqlevel": 10,
+ "side": 3,
+ "zoneId": 38,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 225,
+ "start": null,
+ "end": null,
+ "patch": "1.13.2.31650",
+ "objectiveText": "Rewards You will receive: Knowledge: Stonesplinter Disguise Gains Upon completion of this quest you will gain: See if you've already completed this by typing: /run print(C_QuestLog.IsQuestFlaggedCompleted(912)) Related Contribute Please keep the following in mind when posting a comment: Your comment must be in English or it will be removed. Unsure how to post? Check out our handy guide ! You might want to proof-read your comments before posting them. Please post questions on our forums for quicker reply. Post a Comment You are not logged in. Please log in or register an account to add your com",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5131,
+   "name": "Knowledge: Stonesplinter Disguise",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": [
+  {
+   "rating": 5,
+   "date": "2020-01-14T07:32:04-06:00",
+   "body": "What is this? Who/What gives the quest?",
+   "replies": [
+    "This was in alpha beta of WoW Classic it never went to live so no worries"
+   ]
+  }
+ ]
+}

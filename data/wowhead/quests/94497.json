@@ -1,0 +1,129 @@
+{
+ "id": 94497,
+ "name": "Call of Water",
+ "level": 22,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 870,
+ "start": {
+  "type": "npc",
+  "id": 258203,
+  "name": "Hervdana Saegrund",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    65.6,
+    76.4
+   ],
+   [
+    65.8,
+    76.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 258203,
+  "name": "Hervdana Saegrund",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    65.6,
+    76.4
+   ],
+   [
+    65.8,
+    76.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Fill the Empty Brown Waterskin at the bottom of the waterfalls below Hervdana's cave and return it to her in the Wetlands. Full Brown Waterskin  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 265734,
+   "name": "Full Brown Waterskin",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 265732,
+   "name": "Unfilled Brown Waterskin",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Full Brown Waterskin",
+   "count": 1,
+   "type": "item",
+   "id": 265734
+  }
+ ],
+ "series": [
+  94495,
+  94497,
+  94499,
+  94500,
+  94501,
+  94502,
+  94503,
+  94505
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 258203,
+   "name": "Hervdana Saegrund",
+   "coord": [
+    65.6,
+    76.4
+   ],
+   "coords": [
+    [
+     65.6,
+     76.4
+    ],
+    [
+     65.8,
+     76.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 258203,
+   "name": "Hervdana Saegrund",
+   "coord": [
+    65.6,
+    76.4
+   ],
+   "coords": [
+    [
+     65.6,
+     76.4
+    ],
+    [
+     65.8,
+     76.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

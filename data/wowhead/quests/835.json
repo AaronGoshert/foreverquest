@@ -1,0 +1,378 @@
+{
+ "id": 835,
+ "name": "Securing the Lines",
+ "level": 11,
+ "reqlevel": 7,
+ "side": 3,
+ "zoneId": 14,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 880,
+ "start": {
+  "type": "npc",
+  "id": 3293,
+  "name": "Rezlak",
+  "zone": "Durotar",
+  "zoneId": 14,
+  "coords": [
+   [
+    46.4,
+    23
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3293,
+  "name": "Rezlak",
+  "zone": "Durotar",
+  "zoneId": 14,
+  "coords": [
+   [
+    46.4,
+    23
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Kill 12 Dustwind Savages and 8 Dustwind Storm Witches for Rezlak near Drygulch Ravine.   Dustwind Savage slain  ( 12 )   Dustwind Storm Witch slain  ( 8 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3117,
+   "name": "Dustwind Savages",
+   "count": 12,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 3118,
+   "name": "Dustwind Storm Witch",
+   "count": 12,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Dustwind Savage slain",
+   "count": 12,
+   "type": "npc",
+   "id": 3117
+  },
+  {
+   "text": "Dustwind Storm Witch slain",
+   "count": 8,
+   "type": "npc",
+   "id": 3118
+  }
+ ],
+ "series": [
+  834,
+  835
+ ],
+ "points": [
+  {
+   "zoneId": 14,
+   "zone": "Durotar",
+   "point": "start",
+   "type": 1,
+   "id": 3293,
+   "name": "Rezlak",
+   "coord": [
+    46.4,
+    23
+   ],
+   "coords": [
+    [
+     46.4,
+     23
+    ]
+   ]
+  },
+  {
+   "zoneId": 14,
+   "zone": "Durotar",
+   "point": "end",
+   "type": 1,
+   "id": 3293,
+   "name": "Rezlak",
+   "coord": [
+    46.4,
+    23
+   ],
+   "coords": [
+    [
+     46.4,
+     23
+    ]
+   ]
+  },
+  {
+   "zoneId": 14,
+   "zone": "Durotar",
+   "point": "requirement",
+   "type": 1,
+   "id": 3117,
+   "name": "Dustwind Savage",
+   "coord": [
+    52.4,
+    24
+   ],
+   "coords": [
+    [
+     51.4,
+     20.8
+    ],
+    [
+     52,
+     20.8
+    ],
+    [
+     52.4,
+     24
+    ],
+    [
+     52.6,
+     24.2
+    ],
+    [
+     52.8,
+     21.4
+    ],
+    [
+     53.2,
+     21.6
+    ],
+    [
+     53.4,
+     24.8
+    ],
+    [
+     53.4,
+     27.8
+    ],
+    [
+     53.8,
+     22
+    ],
+    [
+     53.8,
+     24.4
+    ],
+    [
+     53.8,
+     27.8
+    ],
+    [
+     54,
+     23.4
+    ],
+    [
+     54,
+     25
+    ],
+    [
+     54,
+     26.4
+    ],
+    [
+     54,
+     27
+    ]
+   ]
+  },
+  {
+   "zoneId": 14,
+   "zone": "Durotar",
+   "point": "requirement",
+   "type": 1,
+   "id": 3118,
+   "name": "Dustwind Storm Witch",
+   "coord": [
+    54,
+    22.4
+   ],
+   "coords": [
+    [
+     51.2,
+     19.2
+    ],
+    [
+     51.2,
+     20.4
+    ],
+    [
+     51.2,
+     23.2
+    ],
+    [
+     51.4,
+     20.8
+    ],
+    [
+     51.4,
+     23.6
+    ],
+    [
+     51.5,
+     21.6
+    ],
+    [
+     51.6,
+     19
+    ],
+    [
+     51.6,
+     20
+    ],
+    [
+     51.6,
+     23.4
+    ],
+    [
+     51.6,
+     23.6
+    ],
+    [
+     52,
+     21.4
+    ],
+    [
+     52.8,
+     24.2
+    ],
+    [
+     53.2,
+     21.6
+    ],
+    [
+     54,
+     22.4
+    ],
+    [
+     54,
+     22.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 55,
+   "date": "2007-05-05T19:09:03-05:00",
+   "body": "Ok, no ones discription here was very well done so! Im going to hopefully help out.....\r\n\r\nIf you are going through the caynon heading from Orgrimmar the entrance to the little valley that leads to the cave will be on your left right by the broken down wagons... 50.29 .... go left you will see the cave on your right thats where you will find the mobs for this quest hope I helped!",
+   "replies": []
+  },
+  {
+   "rating": 39,
+   "date": "2007-03-17T14:34:57-05:00",
+   "body": "This quest can also be completed by the Alliance.",
+   "replies": [
+    "If you dare......signed The Horde dueling outside of Org."
+   ]
+  },
+  {
+   "rating": 26,
+   "date": "2005-10-07T16:47:26-05:00",
+   "body": "53,27",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2006-12-07T21:23:46-06:00",
+   "body": "This quest can be tough to get to if you don't know the area.  Run into Drygulch Ravine and kill the harpies until you get to the end.  Go through the cave and it puts you where you want to be.  After that, all you have to do is commite Harpy Genocide until you have filled your quota.  When you complete this quest, you get a good chunk of XP and a pretty decent weapon.  (If you haven't bough one off the AH yet)",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2006-01-25T04:47:26-06:00",
+   "body": "Confirmed at 53,27.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-07T16:47:26-05:00",
+   "body": "There is an entrance to Dry Gulch directly east of his camp - dustrunner harpy types are along there but further in are the ones u want.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-04-12T22:22:20-05:00",
+   "body": "I noticed quite a few Copper Mines during this quest for those interested in lvling their mining profession! =)  GL\r\n~warbabe, dragonblight server",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-12-19T16:47:26-06:00",
+   "body": "Can be found at 53,27 that'll get you started.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-02T16:47:26-06:00",
+   "body": "The entrance is NOT just east of Margoz' camp - try south, and a little west at those coordinates (53,27) or (54,27).",
+   "replies": [
+    "The entrance IS just east of Rezlak's camp, you can get to it in two different ways.&nbsp; Either go straight east from his camp, across the road to the first entrance south and go straight south to the cave.&nbsp; Or, go south down the road until you get to the passage to the east, go in there and turn south.\n\nOnce you pass through the cave, you'll be at the harpies you seek."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2019-06-21T14:45:48-05:00",
+   "body": "Alliance characters can do this quest, but naturally they will only gain Ratchet reputation for it, not Darkspear or Orgrimmar.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-02T16:47:26-06:00",
+   "body": "53,27 start this",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-02T16:47:26-06:00",
+   "body": "Where do i leave the quest when im done. Dont remember where i got it?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-20T04:47:26-05:00",
+   "body": "Yes, if you are above it, you have to jump down into it. Especially if you can't find a path down. I got to 54,27-ish, got the zone change message, looked around...back and forth a while...finally, jumped down, and lookie all the harpies!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-05T07:02:25-05:00",
+   "body": "for people who dont have cords, head to where the harpies are like in the previous quest n go further in",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-01T09:11:22-05:00",
+   "body": "x 51, y 26\n\nGood hunting :)",
+   "replies": [
+    "I got (51, 27) but then I was standing in the zone. The entrance is not too obvious; it looks like rocky arch with a tunnel. Go through it to get to the higher-level Harpy area. Oh, and confirm that Alliance can do this; I got good Ratchet reputation: 250 for this and a like amount for the previous one, plus 700 XP for this one."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-23T08:14:58-06:00",
+   "body": "875 exp at level 13\n+100 rep with Ratchet, Orig and DS trolls",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-24T05:55:33-06:00",
+   "body": "Alliance can do this quest.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-15T02:42:14-06:00",
+   "body": "The oh-so-smarty who posted 51, 26 didnt mention that the location is the actual entrance to Razorwind Canyon. You'll need to head to 54, 28 to see any real action.",
+   "replies": [
+    "Hydragon, \n\nSince you're so brilliant, did you happen to look at the title of\nthe post you're knocking? If you had, you'd see that the person\nspecifically is posting the entrance, not the mobs. \n\nGet off your high horse and actually read before you make rude\ncomments about others who are just trying to help. "
+   ]
+  }
+ ]
+}

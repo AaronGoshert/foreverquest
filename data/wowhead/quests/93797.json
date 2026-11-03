@@ -1,0 +1,116 @@
+{
+ "id": 93797,
+ "name": "Boughs in the Wind",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": -161,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 840,
+ "start": {
+  "type": "npc",
+  "id": 256507,
+  "name": "Belann Windwood",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    62.8,
+    77.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 256507,
+  "name": "Belann Windwood",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    62.8,
+    77.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring a Wind-Infused Bough to Belann Windwood in Valanaar. Wind-Infused Bough  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 262668,
+   "name": "Wind-Infused Bough",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Wind-Infused Bough",
+   "count": 1,
+   "type": "item",
+   "id": 262668
+  }
+ ],
+ "series": [
+  93791,
+  93797
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 256507,
+   "name": "Belann Windwood",
+   "coord": [
+    62.8,
+    77.4
+   ],
+   "coords": [
+    [
+     62.8,
+     77.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 256507,
+   "name": "Belann Windwood",
+   "coord": [
+    62.8,
+    77.4
+   ],
+   "coords": [
+    [
+     62.8,
+     77.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-20T19:24:36-05:00",
+   "body": "The item that you need to pick up off the ground to complete the quest is located at coords:\r\n/way 48.5 68.2",
+   "replies": [
+    "The bough wasn't sparkling either. That was confusing me also.",
+    "It wasn't sparking for me either, and it looks like a rather large tree branch."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-07T13:20:56-05:00",
+   "body": "i think if you do the human mage quest for the staff...you can not do this one.",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "id": 4466,
+ "name": "Corrupted Windblossom",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 3,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": {
+  "type": "object",
+  "id": 174708,
+  "name": "Corrupted Windblossom",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    36.5,
+    61.9
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 174708,
+  "name": "Corrupted Windblossom",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    36.5,
+    61.9
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Progress You have found a sickly, corrupted version of what appears to be a windblossom plant.  The berries that hang from the plant appear rotten and poisonous.  It desperately needs some sort of attention if it is to be turned back to normal. Cenarion Plant Salve  ( 2 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11516,
+   "name": "Cenarion Plant Salve",
+   "count": 2,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Cenarion Plant Salve",
+   "count": 2,
+   "type": "item",
+   "id": 11516
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 2,
+   "id": 174708,
+   "name": "Corrupted Windblossom",
+   "coord": [
+    36.5,
+    61.9
+   ],
+   "coords": [
+    [
+     36.5,
+     61.9
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 2,
+   "id": 174708,
+   "name": "Corrupted Windblossom",
+   "coord": [
+    36.5,
+    61.9
+   ],
+   "coords": [
+    [
+     36.5,
+     61.9
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 26,
+   "date": "2007-04-21T09:54:44-05:00",
+   "body": "It's a NE that stands sort of out in the middle of nowhere and gives you a chain where you first collect Blood Amber, then either hunt, gather or skin to get Fel Creep. For the Fel Creep turn ins he gives you 2 salves and you repeat this until you've cured the required number of plants.\n\nSilversky stands at 54,86.\n\nFor those without Titan or Cosmos, if you follow the road south out of Emerald Sanctuary and look to your left, you'll see his exclamation point. He's right by the road behind a tree about 400 yards south of the Sanctuary.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2007-04-06T05:06:44-05:00",
+   "body": "Where do you get the salve for these plants?",
+   "replies": []
+  }
+ ]
+}

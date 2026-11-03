@@ -1,0 +1,130 @@
+{
+ "id": 86758,
+ "name": "Twisting the Knife",
+ "level": 16,
+ "reqlevel": 12,
+ "side": 1,
+ "zoneId": 38,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1150,
+ "start": {
+  "type": "npc",
+  "id": 1154,
+  "name": "Marek Ironheart",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    81.8,
+    61.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1154,
+  "name": "Marek Ironheart",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    81.8,
+    61.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Find and defeat the crocolisk Daggerfang and bring back Marek's knife. Marek's Croc-Hunting Knife  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 279591,
+   "name": "Marek's Croc-Hunting Knife",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Marek's Croc-Hunting Knife",
+   "count": 1,
+   "type": "item",
+   "id": 279591
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 1154,
+   "name": "Marek Ironheart",
+   "coord": [
+    81.8,
+    61.8
+   ],
+   "coords": [
+    [
+     81.8,
+     61.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 1154,
+   "name": "Marek Ironheart",
+   "coord": [
+    81.8,
+    61.8
+   ],
+   "coords": [
+    [
+     81.8,
+     61.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 270693,
+   "name": "Daggerfang",
+   "coord": [
+    62.8,
+    51.4
+   ],
+   "coords": [
+    [
+     62.4,
+     51.9
+    ],
+    [
+     62.8,
+     51.4
+    ],
+    [
+     63.4,
+     47.7
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-01T18:41:56-05:00",
+   "body": "[url=https://www.wowhead.com/forever/npc=270693/daggerfang#map]Daggerfang[/url] is a level 15 non-elite just patrolling up and down the shore. While waiting for him to spawn, finish up on [quest=385] with the other crocs nearby.",
+   "replies": []
+  }
+ ]
+}

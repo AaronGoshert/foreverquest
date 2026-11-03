@@ -1,0 +1,84 @@
+{
+ "id": 97328,
+ "name": "Anything of Value",
+ "level": 35,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2750,
+ "start": {
+  "type": "object",
+  "id": 661516,
+  "name": "Thoroughly Scavenged Supplies",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    31.4,
+    12.8
+   ],
+   [
+    31.6,
+    12.9
+   ]
+  ]
+ },
+ "end": null,
+ "patch": "1.60.1.70170",
+ "objectiveText": "Recover 8 Stolen Shipments from the Ruins of Zul'Kunda in Stranglethorn Vale and return your haul to someone in Booty Bay. Stolen Shipment  ( 8 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 277953,
+   "name": "Stolen Shipments",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Stolen Shipment",
+   "count": 8,
+   "type": "item",
+   "id": 277953
+  }
+ ],
+ "series": [
+  97328
+ ],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "start",
+   "type": 2,
+   "id": 661516,
+   "name": "Thoroughly Scavenged Supplies",
+   "coord": [
+    31.6,
+    12.9
+   ],
+   "coords": [
+    [
+     31.4,
+     12.8
+    ],
+    [
+     31.6,
+     12.9
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-13T14:01:16-05:00",
+   "body": "As a night elf hunter, I was able to interact with the crate that gives this quest. I don't know if this is/was a horde only quest, but maybe they're opening this up to alliance as well?",
+   "replies": []
+  }
+ ]
+}

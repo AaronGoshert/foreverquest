@@ -1,0 +1,106 @@
+{
+ "id": 92748,
+ "name": "Explosive Consultation",
+ "level": 16,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 580,
+ "start": {
+  "type": "npc",
+  "id": 253092,
+  "name": "Alba Fairmoon",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    52.4,
+    53
+   ],
+   [
+    52.6,
+    53.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11026,
+  "name": "Sprite Jumpsprocket",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    54.6,
+    8
+   ],
+   [
+    54.8,
+    8.8
+   ],
+   [
+    61.8,
+    30.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Travel to the Dwarven District in Stormwind and find an engineer who can help.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "start",
+   "type": 1,
+   "id": 253092,
+   "name": "Alba Fairmoon",
+   "coord": [
+    52.4,
+    53
+   ],
+   "coords": [
+    [
+     52.4,
+     53
+    ],
+    [
+     52.6,
+     53.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 11026,
+   "name": "Sprite Jumpsprocket",
+   "coord": [
+    54.6,
+    8
+   ],
+   "coords": [
+    [
+     54.6,
+     8
+    ],
+    [
+     54.8,
+     8.8
+    ],
+    [
+     61.8,
+     30.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

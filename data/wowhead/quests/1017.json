@@ -1,0 +1,489 @@
+{
+ "id": 1017,
+ "name": "Mage Summoner",
+ "level": 25,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": 331,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2550,
+ "start": {
+  "type": "npc",
+  "id": 3885,
+  "name": "Sentinel Velene Starstrike",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    49.8,
+    67.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3885,
+  "name": "Sentinel Velene Starstrike",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    49.8,
+    67.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Slay Sarilus Foulborne and bring his head to Sentinel Velene Starstrike in Silverwind Refuge. Sarilus Foulborne's Head  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3885,
+   "name": "Sentinel Velene Starstrike",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5537,
+   "name": "Sarilus Foulborne's Head",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Sarilus Foulborne's Head",
+   "count": 1,
+   "type": "item",
+   "id": 5537
+  }
+ ],
+ "series": [
+  1016,
+  1017
+ ],
+ "points": [
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "start",
+   "type": 1,
+   "id": 3885,
+   "name": "Sentinel Velene Starstrike",
+   "coord": [
+    49.8,
+    67.2
+   ],
+   "coords": [
+    [
+     49.8,
+     67.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 3885,
+   "name": "Sentinel Velene Starstrike",
+   "coord": [
+    49.8,
+    67.2
+   ],
+   "coords": [
+    [
+     49.8,
+     67.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 78,
+   "date": "2005-10-15T01:56:05-05:00",
+   "body": "Ok. there has been a bit of confusion on the coords for this and the actual ease of this mission. here's the basic walk-through on how to get there.\nFrom astranaar, follow the road that leads you to the barrens, keep to the main road here, to avoid mobs.\nWhen you see the horde guards, cut left, there is an unguarded entrance to the barrens, a wreckage of a wagon, smoke billowing out, REALLY hard to miss.\nFor those of us on PvP servers, i suggest keeping off the main roads to avoid conflict.\nTo get on top of the mountain, to the southwest side, there is a ridge you can walk on top of, located at [b]46: 23[/b]\nOnce on top of the mountain at [b]48:19[/b], clear out all acolytes. Careful with pulling or you'll aggro Sarilus. Rogues, mind numbing poison here is your friend, mages and hunters, use frost traps to keep the guy still for a beating. anything you can do to slow his movement or casting time is really useful. (as i rogue i sapped/ gouged him to certain Dewm) it's not TOO hard to do, but definately a challenge. \nI highly suggest bringing a friend who can make the little coward stand still and take whats coming to him.",
+   "replies": [
+    "There is a path up the mountain on the NORTH side that starts at 47, 15",
+    "I love you, RobAz",
+    "Just to make things crystal clear, [b][u]these coordinates are for The Barrens[/u][/b], not Ashenvale. It took me way longer than I want to admit to realize this and was not at all clear to me."
+   ]
+  },
+  {
+   "rating": 26,
+   "date": "2007-01-27T00:57:27-06:00",
+   "body": "If you start in Astranaar, head east on the main road. Toward WSG. Head down that road toward the entrance to the barrens. As you pass down the road you will come to a gate with Horde guards. At this point just swing over to the left of the gate with the Horde Guards, and you'll see the hole that you can waltz right in. \r\n\r\nGetting to the top of the mountain you'll need to make your way up the southwest side. Take a close look, and you'll see what appear to be ridges covered with little patches of grass. You'll shimmy up between those and the lighter gray embankments along the sides of the mountain. \r\n\r\nKeep making your way to the top and you'll come across a bunch of lvl 11-13 horde acolytes. Try and pull them one by one and they'll go down quick. Make your way to the top and you'll find the guy in possession of the head you need. Trap him if you can. If not, you're gonna be chasing him all around. His little minions can get you if you don't take him down fast.",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2005-12-27T01:56:05-06:00",
+   "body": "I found him very easily. Go east from Astranaar until you reach [b]Silverwing outpost[/b] where the road turns south. Follow it south until you cross into the barrens. Directly ahead on the right is a gate, go left instead and through the [b]broken fence[/b]. \nFollow the road south until it turns left. There should be a mountain in front of you. Run straight at it and up it. It looks steep but you CAN climb it. The mage is at the top, on the back right hand side. \n\nAs for killing him. I'm a level 24 druid (feral specced) and I went along with a level 24 warrior. It was EASY. If you hit him hard and fast and ignore the minions they dont have time to heal him (plus they are only level 19 most, so really easy). \n\nMy warrior friend did almost nothing. I used my cat form to lay into him with some high DPS and damage over time. When he tried to run (which he WILL - a lot) I transformed back into caster and hit him repeatedly with moonfire. Down he went. \n\nGot 2550 exp for it. Item may be crap, but thats not a bad amount of exp. \n\nHope this helps. Remember just hit him as hard and fast as you can.",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2005-10-15T01:56:05-05:00",
+   "body": "Took me so long to find the mountain he's on i didnt get to him until I was a 33 NE hunter. Disregarding the coordinates people give I'll try to give a rather more straight forward discription of how to get there. \n\nFrom the Ashenvale entrance to the Barrens that the Alliance has to use, just go straight South until you hit a mountain. Go up the mountain and you will find a plethra of angry orcs around 11-12 lvl. Kill all them and keep climbin'...at the top you'll find Sarilus who was lvl 25 for me. \n\nI wouldnt know how fast he heals b/c it only took me about 5 seconds to tear him in two, but i guess he could be annoying to lower levels because he can summon a water elemental.",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2007-03-19T06:55:01-05:00",
+   "body": "Location for the mage is 48,19",
+   "replies": [
+    "Location is correct.... IF YOU ARE IN THE BARRENS THAT IS!"
+   ]
+  },
+  {
+   "rating": 10,
+   "date": "2007-04-15T13:56:05-05:00",
+   "body": "The descriptions above were great.&nbsp; TY all!&nbsp; On my way down, after completing the quest, I found a better route to the top that bypasses the irritating 10-11 lvl acolytes.&nbsp; Take the Gold Road south to the road marker pyre at 49.14, turn right and go up the finger ridge right there.&nbsp; It will take you to the top.&nbsp; There is a small flat spot before the peak, just bear right scrambling upwards and you'll reach the top mere yards from Sarilus Foulborne.\n\nI did this quest complete with a lvl 26 Draenei hunter and a lvl 25 cat pet.\n\nFor folks without coordinates that marker pyre is the fourth one south of the broken wall and the second on the left.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2007-03-28T03:03:52-05:00",
+   "body": "2550 xp at level 28, easy solo as Sarilus Foulborne is level 25. BTW, the quest reward (Light of Elune) is a single potion, so be sure to save it for when you're in a pinch.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-08-03T01:56:05-05:00",
+   "body": "Its a good thing you people are'nt 911 dispatchers with the directions you give. \n\nHere is how to find the Peak:\n\nTake the eastern road from Astranaar and take the southern path that takes you into the barrens. You will come across the huge gate that is blocked by guards. Follow the gate along the left untill you get to the smashed portion of the gate that you can easily pass through. This will put you on Gold Road. Follow the road south and continue on. There will be mountians to your left and right which is what confuses everyone at first, ignore these mountians and continue south. You will see a HUGE mountian appear in the background directly in front of you. Just continue south and you will run into a ridge that you can run right up the side of. Keep going up... you will pass some striders and some camps. Ignore the people at the camps if you can and keep following the ridge up, the ridge will zig zag as you get higher. Pass more minions untill you get to the very top, you will see your target crouched over near a small hut. Have at it!\n\nI beat him alone with my lvl 24 Druid. I used cat form and Prowl to sneak up behind him. I then used Shred to give him a whallop and get things started. I then kept following him around in cat form and used Claw each time I got to him. He summoned some elementals but I completely ignored them and concentrated on him. I changed to normal form once to heal. I killed one elemental that got in my way, they die with one hit! I just kept following him and whacking him till he died. The minions scattered about did not attack me. I did use an armor scroll so I would suggest the same.\n\nhope that helps!",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-02-16T13:04:02-06:00",
+   "body": "When you arrive at the peak, stay to the edge and take out the Bruisers and Acolytes before you take on Foulborne; when he starts to run around, they'll be a pain.\r\n\r\nAs a Paladin, I suggest throwing down Consecration and keeping your melee strikes focused on Sarilus; even 64 damage is enough to take out his Level 1 Elemental servants.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2021-07-29T01:57:39-05:00",
+   "body": "For those of you who already have explored the Barrens, the guy is on top of Dreadmist peak. That might help someone..",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-04-02T11:16:42-05:00",
+   "body": "Solo'd this as a 22 Demo Lock. This was not an easy fight - as it wouldn't be seeing as how he's level 25. It is doable though.\r\n\r\nLocated him at the very peak of the mountain, about where you'll see a green dot/pool on the map. Or if you're using a coord mod, 48,19 as onegirlarmy pointed out.\r\n\r\nAs Childermass stated before - this guys runs around *alot* ... and if you can't trap him or slow him down, he's bound to run into alot of the other mobs. It's a good idea to clear the top of the platform of Acolytes/etc where he is first, and than the ones right below him (or vise versa).\r\n\r\nAnother thing, he summons water minions. They're only level one, but he can summon up to 3-4 of them. Also, I may be wrong about this, but I *think* if you don't kill them quick enough - they heal him. Couldn't scroll up far enough in the combat log after to check this.\r\n\r\nWas able to do this using a Voidwalker as the tank. Just have him chase him around. Dot up Sarilus as much as possible in the beginning (Curses, Corruption, Immolate, etc...). Have to wand the Water Elementals and cast shadowbolts, searing pain, etc... whenever you can. \r\nIt requires alot of multitasking (but as a lock you should be use to that by now), but it is possible - at 9% HP, I just shadowbolted him down.\r\n\r\n2550 xp @ level 22, 350 Rep with Darnassus\r\n\r\nGoodluck. :)",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2019-09-12T02:07:11-05:00",
+   "body": "No one could say Dreadmist Peak? That is the name of the mountain btw.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-11-25T18:18:33-06:00",
+   "body": "Found him on top of Deadmist Peak.  Came up the southern face just to the right of the Horde Camp to the top and killed the mage without any intereference from others.\r\n\r\nSoloed as a Level 30 Night Elf Druid.",
+   "replies": [
+    "On top of the Cave at the top of the mountain (48,19)"
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2007-03-05T20:00:08-06:00",
+   "body": "I did not turn in the quest until I was a level 34 and I only got 500 xp and my reputation with Darnassus only went up 150.  Moral: Turn in your quests right away even if it is a long trip.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-04-15T13:56:05-05:00",
+   "body": "I'm a lvl 25 Priest, holy spec. \n\nI was really stressed before the fight having read how hard it was going to be. I Shielded and he resisted my starter - Holy Fire. Thought I was toast, but those pittiful minions are lvl 1 and none of them ever got through my shield. Never lost a hp! I just pumped spells on the guy until he died at long distance. He didn't even move. After that the minions died from one hit each.\n\nNot even a sweat. Considering I have almost only spirit gear this would have been even easier with shadowbuild and int gear. \n\nThe minions did heal the poor guy a tiny bit - like 15hp or something per heal. It's nothing more than pittiful.\n\nPlus, finding the place was easy as well. Go to Barrens, take left through the fence at the Barren boarder instead of charging in on the ? guards. Just continue in a straight line to the mountain and up the ridge to the top of the mountain and kill. \n\nEasy, but quite fun.",
+   "replies": [
+    "True. A little less so at level 23. The minions weren't a problem but Sarilus just kept healing up to full health repeatedly until the sun went down and I finally ran out of mana and succumbed to a bout of intense boredom. I'm guessing 24 or 25 would be better and 35 would be easier too. No XP but at least you'd get the Light of Elune, which is a good thing."
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2006-12-27T01:56:05-06:00",
+   "body": "[b]from Ashenvale at 48,14 (first ridge on the right) walk up on the ridge.[/b] \nYou'll find yourself right in front of the guy, take his head of in 5 sec, and you are done.\nThe small mobs are look scary, but they don't attack :-)\nLevel 24 hunter.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-11-20T13:56:05-06:00",
+   "body": "All those who've ended up in Felwood - can't you read? The quest says he's in The Barrens, just because you've become too lazy by using coordinates, shouldn't mean you stop reading the quest descriptions!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-12-27T01:56:05-06:00",
+   "body": "Solo'd as a 24 Druid, took about 10 points of damage before he died.\n\nTo make things easier, kill all his level 10-11 minions around the summit, and then take him on, although I doubt that's even necessary. Once you get that done, he can run around all he wants.\n\nThe level 1 elementals hit me twice before dying from Thorns damage.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2004-12-14T02:16:54-06:00",
+   "body": "If you head from Ashenvale heading east, you will eventually come to a river and Y-branch with one road leading north-east, the other leading south. Take the southern road. As you keep going south you will evenually come to the Barrens. If you follow the road, you will come to a gate that is surrounded by high aggro mobs. head a little to the west at this point and you will find a broken gate that you can sneak through. Find your way back to the road on the Barren side of the mountains, go straight south and you will eventually come to Dreadmist Peak.",
+   "replies": [
+    "EAST!  When you get to the gate to the Barrens, the broken fence is to the EAST!",
+    "was pretty easy for me as a Draenei hunter lv 23.\nmostly because his decipals started attacking him for some reasen XD\n"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2005-03-06T18:58:23-06:00",
+   "body": "When your position is sorta south of the road, look up the mountain and you'll see some torches meaning there's a road up the mountain.\n\nBeing Alliance on a PvP server, and this was my first time to Barrens , I stayed away from the main road.  Of course that caused me to miss Dreadmist and yes, I did end up going to the Crossroads hehe.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-13T19:47:30-05:00",
+   "body": "I'm not familiar with the Barrens so I ran around for a while and climbed a few too many mountains (which are all over the place around The Crossroads) looking for this guy.  Here is how to find him.  \n\nAs posted, follow the road south toward the barrens from Ashenvale.  Go east (your left) of the main gate, look for a black spot on your mini map, cross through at an unguarded smoking hole in the fence. Then continue south on the road until you see a guard tower next (west) to the road.  There is a road perpendicular to the tower heading off to the east.  This location is very much BEFORE (north) you reach The Crossroads.  Before you actually reach the guard tower (which you should avoid due to lvl ? guards), look to your west for a mountain.  Follow the southern base of the mountain around until you see a single tent camp inhabited by Kolkar Wranglers.  The tent is at the bottom of a ridge that leads north directly to the peak.  If you have followed the base of the mountain and reached The Forgotten Pools, you have gone too far. You will have to jump a bit up the ridge, but it is passable.  Just below the peak you will enter dense red fog.  You will soon see a Burning Blade Camp to your left, continue up to the peak.  You should find Sarilus Foulborne there with a few lvl 11 guards.  When yo attack Sarilus (lvl 28) he will spawn quite a few water elementals.  I'm a druid so I first rooted Sarilus, then took out the elementals each with one Moonfire strike.  They respawn quickly, so just keep hitting Sarilus.  I barely lost any health in this battle and didn't use very much mana. \n\ngood luck",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-09-23T20:37:17-05:00",
+   "body": "This one was hard enough for me to solo as lvl 30 Healing priest. Keeping myself shielded for minion attacks while burning down his mana and then give him damage spells fast enough before he self-heals takes some attempts, but was at last doable before depleting my own mana.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-10-26T11:05:15-05:00",
+   "body": "If you're coming from Astranaar in Ashenvale, the Mor'shan Ramparts look impassable, but there's a way to the rigth through an unguarded hole in the ramparts. Also bear rigth and ascend the first mountain, you see. This is Dreadmist Peak, and he's at the very top, no need to enter caves or figth acolytes etc at the torchlit way up. \r\nI found it easy, only he was running around like mad. Try and hit him before he's done summoning. He never made it while I attacked him. Level 26, holy/tankadin.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2021-03-12T15:39:08-06:00",
+   "body": "I tried this on a 23 Holy Priest today and while the minions were easy to kill, Sarilus just kept healing himself back to 100% and calling new minions. I stopped counting at about twenty minions and after about five cycles of Sarilus zooming back to full health, I ran out of mana potions and patience, not necessarily in that order. Fortunately it's easy to get away.\r\n\r\nI'm guessing you need to be able to burn him down pretty quickly while ignoring the minions beating on you, so maybe a return visit at level 26 or so. The XP is the same and the Light of Elune is a handy thing to have even if you only get one shot at it.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-22T01:56:05-05:00",
+   "body": "lol just like in the book, Cycle of hatred, the mountain's mist is the sulfuric orange color.&nbsp; Gratz blizz! \neyecandy ftw",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-27T13:56:05-05:00",
+   "body": "16 June 2006 ... Looks like everyone is doing a Thottbot map search on the QUEST.&nbsp; I have just done a map search on the bad guy HIMSELF(Sarilus Foulborne) and the Thottbot map shows his location. Only probem is ...... I am L25, quest giver is L25 .... but I am not sure what level horde I have to run through to get to him. Will report back .... MEANWHILE ... if you wanna know where to got fer the quest, it appears that a thottbot search on THE GUY's name (Sarilus Foulborne) is a good bet.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-11-20T13:56:05-06:00",
+   "body": "this last post was the best... nobody said is wasnt in ashenvale... thanks a lot mate !",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-03-10T01:56:05-06:00",
+   "body": "I was in the same boat as alot of you. His location is on the Gold road coming into the barrens from ashenvale. You follow the road and do not go off the road. Once the road opens up to a vast plains and starts heading to the left, stop! Look to your right and you will see a ridge finger that runs up the edge of the mountains. Follow the finger up, it is scalable. once you get to the top, there is an encampment with lvl 11-12 acolytes, and then the mage is in the middle. Wipe off the acolytes and then target the mage himself. Only target the mage and no one else and he will die quickly. Solo'd as a 29 Druid.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-15T13:56:05-05:00",
+   "body": "found at 48,18",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-15T17:22:04-05:00",
+   "body": "Completed at level 28: 2200 exp, 110 rep with Darnassus.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-02-17T22:07:50-06:00",
+   "body": "The Wailing Caverns, a Horde instance for a party of 15s or so with lots of level 18-20 elites, is very close to the Dreadmist Peak. Consider stopping in and playing around, I solo'ed the entire thing as a lvl 26 druid and had an excellent time. Not great exp-wise (most were 1-2 levels below giving exp T.T), but I got a few greens and an fairly nice worthless BoP MAIL (=.= darn my lack of mail-wearing ability) waist piece.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-01-01T17:09:06-06:00",
+   "body": "Yes Dreadmist peak is due south after entering the Barrens. If you go past the first big hill you see, and end up at Crossroads, you have gone to far.\n\nThe Dreadmist Peak will not show on your map till you start climbing up the side of the hill, past the first camp on the north side of level 12 orcs.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-15T17:04:00-05:00",
+   "body": "The quest was green to me at level 28.  Did it anyway.  Was very easy.  Just killed all the level 11 mobs around him, saved him for last.  Nuked him (he was level 25) to dead, wacked off his head and took it to Silverwind.\n\nIn turn I got 2550 exp, 165 rep with Darnassus, and the Light of Elune.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2019-05-28T21:02:13-05:00",
+   "body": "A/O 28May19 in beta testing, the boss was bugged.  He kept summoning multiple level 25 voidwalkers and made it extremely difficult to burn him down.  Hopefully fixed by the time Classic goes live.",
+   "replies": [
+    "Classic is live now and I just did this quest. The elementals the undead quest mob summons were level 1 for me, so this is a very easy quest with an unpleasant travel time."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-06T02:03:08-05:00",
+   "body": "Let me tell you, that \"red mist\" was the most annoying part of the whole mess. \n\nIt took me some time to find the peak in the first place but made it along just fine. Too bad I didn't complete the quest earlier, rather than forgetting about it.. and I would have recieved something worth my while on this quest. :) By the way, I also suggest taking a quick run through the wailing caverns. A bit of fun and some decent stuff.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-25T09:10:38-06:00",
+   "body": "Ok after you get the quest go south on the road that leads to the Barrens ... when you get the border, go a little east (or do you really wanna fight ? LV Horde) look at your mini map and you will see red items on the entrence of the  road and a small black spot a little east .... use the little black spot to cross without battle ... then go south till you see the big mountan (neer the cross in roads) go to the top and fight to win your prize ... head back on the safe black spot back to Ashenvale.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-07T22:50:59-06:00",
+   "body": "As usual, the hardest part is getting in. There is a broken gate to the east of the main enterance that allows you to skirt the guards and get in unscathed. If any 26+ Warlocks are doing this, the Succubus' Seduction works wonders here. Everyone else: Take out those Elementals, they heal him.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-31T08:34:33-06:00",
+   "body": "solo'd newly level 25 nightelf druid.  Killed first time around because he does heal himself.  placed thorns and eleminated his level 1 groupies and wrathed him til death. i love how the guards around him do not agro and bother you. even though they are just 10 and 11 levels it would have been hell to have 3 -6 at a time while dealing with his guardians and him.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-19T15:00:34-05:00",
+   "body": "If you enter The Barrens from Ashenvale (go through the hole in the fence EAST of the main gate), just follow the road south until the road takes a turn towards the southeast.  Before the road turns you'll be looking straight at a huge mountain.  That IS Dreadmist Peak.  It will be uncovered on your map once you climb it a little ways.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-23T00:55:12-05:00",
+   "body": "OK take the road from Ashenvale. As you approach the gate to the Barrens veer LEFT. You will see a hole in the fence. Go through it. Get on the road heading south. As the road turns to the left hang a right. You will see a Reddish/yellow hill in front of a mountain. There is also a deserted camp just to the right as you head toward the hill. As you climb the hill it will change to Dreadmist Mountain. Easy Quest BTW.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-28T09:09:08-05:00",
+   "body": "the location is 48,18",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-22T02:50:33-06:00",
+   "body": "After you get in to the Barrens, its the mountain with the lvl 11ish Burning Blade Bruisers at the base.  The camp looks like a black spot on the mini map.  Take the left leg (facing south) of the mountain--its the longer one to the left of the camp.  \n\nI died on the first try, but only after I killed him because I took a nose dive off the side of the peak.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-28T10:14:52-06:00",
+   "body": "this quest gave me 2550 exp at lvl 27 .\nthe reward is a 10 sec invulnerability potion (1 use) .",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-13T02:52:03-05:00",
+   "body": "Sarilus Foulborne is just in position 48,18",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-12T07:22:05-06:00",
+   "body": "150 Rep with Darnassus.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-19T14:34:17-06:00",
+   "body": "I did this quest with a lvl 30 hunter.  I was at Silverwind to buy the expert cookbook and stayed for a quest or two.  Yeah, I know, it was overkill.  The hardest part was finding the burned fence east (note EAST) of the gate to the Barrens and running away like a madman (er, mad dwarf) when I accidentally aggroed the Horde guard :-)  Anyway, it was a long run, even with Cheetah up.  Got to the Barrens, headed south, climbed the peak, searched all over the place for the right camp (you have to go through 3 of them, I think), found it up over the cave with the lvl 15 named demon, and wiped everything out extremely easily.  The guards are all 10-12, the boss is only 25.  Two shots from my boomstick killed almost anything.  Still got 2550 xps out of it, so if you don't mind a boring run, its worth it to do this quest even at lvl 30.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-01T03:08:51-06:00",
+   "body": "Use whatever you have to to stun him and don't worry bout the water things that pop up. aim for him and he goes down pretty easy",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-08T11:51:19-06:00",
+   "body": "Solo'd with a level 22 night elf hunter, tried to take him with arrows and cuncussive shot to begin with. I got sent the graveyard cause he moves way to quick and self-heals while BAF'ing everyone around him and sending those level 1 elementals at me that kept stopping me healing my pet.\n\nWingclip is the way to deal with him if your a hunter. Took him the second time with 0 difficulty using that strategy.\n\n\n[i][small]Edited, Jan  8th 2007  8:50am by amarla[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-20T01:05:35-06:00",
+   "body": "At lvl 25 i got 2550 exp. The quest was fairly easy. The mob was surrounded by lvl 10-11s. Just went around the lip of the peak and popped them off one by one. The mage summons elementals but they were fairly harmless.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-30T01:28:03-06:00",
+   "body": "and for those of you who follow the standard compass, the hole in the gate is EAST of the main gate and the aggro guards",
+   "replies": [
+    "so much for Horde defense... lol :P -- There's a Horde quest giver at that gate -- good to know he's somewhat protected.\n\nIncidently, the Horde version of why these elementals are running amok has nothing to do with this undead mage (we have to go to Dreadmist for a psycho warlock...)... some [url=/quest=824]Fringe Elementalist group[/url] sends us to Blackfathom Deeps.\n\nIts not easy being green....\n\nEdited, Tue Apr  5 04:52:07 2005",
+    "dude. owned. \"it's not easy being green\" >.>"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-12T19:22:12-05:00",
+   "body": "Besides the Eastern gate entrance (which I never had a chance to look for), for those who don't mind dying (strip your armor off beforehand, if it's that big a deal), I tried at lvl 29 to Stealth past the sentries at the Ashenvale/Barrens gate and was promptly graveyarded.  But I couldn't have been happier to find that the nearest graveyard was smack dab in the middle of the the Barrens, so it was well worth dying for.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-25T04:01:11-05:00",
+   "body": "OK I had a very hard time finding this place based on the above instructions so here it is simplified:\n\nWhen you head into the Barrens follow the road east almost to Crossroads.  If you turn left and head North you will find the Forgotten Pools.  There is a giant hill behind it, this is the hill you need to climb to the very top.  You will see a green dot/area on your map where you can find Sarilus Foulborne.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-16T01:16:47-05:00",
+   "body": "48,19 THE BARRENS",
+   "replies": [
+    "where do I find coordinates? is it an addon?",
+    "Yes, it is an add on.  There are several - Titan Panel, Meta Map, Cosmos...good places to check would be ui.worldofwar.net and www.curse-gaming.com - good luck."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-22T16:00:56-06:00",
+   "body": "Damn that little basterd can run I had to stealth and stun him i completed solo as a lvl 26 rouge night elf .",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-04T22:35:23-05:00",
+   "body": "Soloed this with my lvl33 warrior - by the by the guards at the Crossroads, lvl40 each for FYI purposes - no I didnt get close enough to aggro but I moused over and saw just in case - and also the lions around the base of the mountain (if you're a skinner and leatherworker) give pretty good base leathers (gathered lots of scraps and light to make into medium) and even looted a swiftness potion scroll ;) They may be low but ya never know what you might get with them.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-21T20:05:00-05:00",
+   "body": "Soloed really easily with lvl 24 druid.  Eliminated the lvl 11's around him, hit him with starfire, moonfire, then chased him around in cat form.  He does like moving, but it didn't seem to do him any good :-)  Barely went down 10-15% in health.  I'm thinking it's because of the 1.0 attack speed of the cat, or the dots from moonfire, rake, and rip.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-18T05:23:17-05:00",
+   "body": "If this guy can summon an entire lake full of level 25 water elementals halfway across the continent, how come all he can muster is a few lvl 1's to defend himself with?  Also, it would behoove him to hang out with a stronger posse.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-18T10:26:34-06:00",
+   "body": "Solo'd as a 23 druid. :) Killed a few of the low-level stuffs around him, and chased him down as a kitty. Only annoyance was that he kept running all over the place. Summons low level elementals, but it's no big deal, really.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-10-17T19:43:34-05:00",
+   "body": "ok if u r coming south from the wall. turn r off road(west on the map) go south to the forgotten pools. the northern most finger is the one u need. go up it. he is on the very top above a cave.  the best way up once up to i found was a finger to the right or if u see it coming south there r torches on the side that is a path up. the closer u get to the top the more orange the air gets. the finger up drops u in the top camp right b low him the torches u go through several camps.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-01-19T08:39:28-06:00",
+   "body": "As a lvl 26 rogue, it was a very simple quest. All mobs around him were lvl 11 and he more or less didn't even attack me because he started running around summoning lvl 1 elementals. \r\n\r\nIs possibly worth the running time if you also do Fallen Sky Lake on the way and get the Ratchet fp. But be warned that you need Theramore or Azshara fp to connect Ratchet to Ashenvale. Otherwise you have to hearth back.",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "id": 98197,
+ "name": "Spoils of War",
+ "level": 22,
+ "reqlevel": 18,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1750,
+ "start": {
+  "type": "npc",
+  "id": 2086,
+  "name": "Valstag Ironjaw",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    10,
+    56.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2086,
+  "name": "Valstag Ironjaw",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    10,
+    56.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Recover 6 Khaz Modan Timber and 30 Khaz Modan Iron from Menethil Harbor for Valstag Ironjaw . Khaz Modan Timber  ( 6 ) Khaz Modan Iron  ( 30 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 279821,
+   "name": "Khaz Modan Timber",
+   "count": 6,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 279822,
+   "name": "Khaz Modan Iron",
+   "count": 30,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Khaz Modan Timber",
+   "count": 6,
+   "type": "item",
+   "id": 279821
+  },
+  {
+   "text": "Khaz Modan Iron",
+   "count": 30,
+   "type": "item",
+   "id": 279822
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 2086,
+   "name": "Valstag Ironjaw",
+   "coord": [
+    10,
+    56.8
+   ],
+   "coords": [
+    [
+     10,
+     56.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 2086,
+   "name": "Valstag Ironjaw",
+   "coord": [
+    10,
+    56.8
+   ],
+   "coords": [
+    [
+     10,
+     56.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2026-10-01T22:58:33-05:00",
+   "body": "This quest sucks!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-06T13:47:31-05:00",
+   "body": "These are all over the waters surrounding Menethil Harbor. I got up to [b]5[/b] pieces of iron per node. Combine with [quest=484] and consider buying a [item=5996] for this one.\r\n\r\nP.S. The new [item=273084] from [npc=3653] is fantastic for this one...",
+   "replies": []
+  }
+ ]
+}

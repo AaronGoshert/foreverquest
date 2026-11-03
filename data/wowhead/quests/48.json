@@ -1,0 +1,322 @@
+{
+ "id": 48,
+ "name": "Sweet Amber",
+ "level": 44,
+ "reqlevel": 40,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 3750,
+ "start": {
+  "type": "npc",
+  "id": 239,
+  "name": "Grimbooze Thunderbrew",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    44.6,
+    80.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 239,
+  "name": "Grimbooze Thunderbrew",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    44.6,
+    80.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Bring Holy Spring Water to Grimbooze Thunderbrew . Holy Spring Water  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 737,
+   "name": "Holy Spring Water",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Holy Spring Water",
+   "count": 1,
+   "type": "item",
+   "id": 737
+  }
+ ],
+ "series": [
+  48,
+  49,
+  50,
+  51,
+  53
+ ],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "start",
+   "type": 1,
+   "id": 239,
+   "name": "Grimbooze Thunderbrew",
+   "coord": [
+    44.6,
+    80.2
+   ],
+   "coords": [
+    [
+     44.6,
+     80.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 1,
+   "id": 239,
+   "name": "Grimbooze Thunderbrew",
+   "coord": [
+    44.6,
+    80.2
+   ],
+   "coords": [
+    [
+     44.6,
+     80.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 44,
+   "date": "2005-10-28T17:18:53-05:00",
+   "body": "The Holy Water is found in Stranglethorn at the top of the Naga camp just north of Booty Bay.&nbsp; Most the mobs in the area are level 43-45.",
+   "replies": []
+  },
+  {
+   "rating": 31,
+   "date": "2019-09-30T12:23:19-05:00",
+   "body": "You can pick the quest item before even picking the quest.",
+   "replies": []
+  },
+  {
+   "rating": 23,
+   "date": "2006-10-18T20:43:22-05:00",
+   "body": "The location of the fountain in STV is a bit obscure.\r\n\r\nClimb up the ridge starting at 26,64, then through the entrance at 27,63, cross the bridge and you're there.\r\n\r\nRight click on the fountain and you'll have your holy water.\r\n\r\nYou'll encounter a few naga, lvl 44 or so, along the way. Myself, I didn't run across any elites.",
+   "replies": []
+  },
+  {
+   "rating": 23,
+   "date": "2005-05-04T07:47:14-05:00",
+   "body": "How ever did you all notice this quest was available? I mean, its attainable at level 40 and you wont be hanging around this place for other quests? My last quest in Westfall was down in the deadmines taking Van Cleef and that was in the mid 20s. There doesnt seem to be any other quest leading up to getting this one. Lucky that I saw it here then. :)",
+   "replies": [
+    "Made an account just to reply since it was a lucky coincidence for me as well. I got ganked by a high level player at Nesingwary's while on my way to the northwest coast, and the guy was still camping around the area. So I decided to go through duskwood and westfall and then turn south when I reach the end. I was surprised to see this guy with an exclamation mark over his head, and a 65 silver quest for STV in the places where I'm levelling. Serendipitous things like this tend to happen."
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2006-11-16T13:30:29-06:00",
+   "body": "The Naga guarding is not an Elite is a rare spawn. You can see it because it has a silver dragon around the picture.\r\nDrops a nice necklace.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-06-04T17:18:53-05:00",
+   "body": "I soloed this whole quest as a lvl 47 Lock. Here's how it goes:\nFirst part is in the Naga Camp in STV. Keep following the path until you get to a bridge, on the other side of the bridge is the Holy Well.\nSecond part, locations given on Thottbot are correct (Swamp of Sorrows, Tanaris, Hinterlands). In the Hinterlands, the bag of oats is in a little camp *outside* the walls of Shada'Alor. It's a little bit to the left of the main entrance.\nThird part you can do in AH. Just buy a Truesilver bar.\nFourth part is a little harder. There are indeed a lot of aggy gryphs. The suggestion to park yourself in the pond at 54,69 is a good one. There aren't as many mobs there, and I caught a Cursed Sycamore almost right away.\nFifth part is simple enough. The Charred Oak is right at 54, 50, on the far side of the Cauldron. On the map, you can see a place where the Cauldron wall curves in a little bit; that's where the tree is.\nDuring this quest series, since I'm a clothie, I did a lot of: go to where the item is, die, rez, fear mobs, pick up item, RUN. It takes a lot of time but it works. I got 4650XP each for the first 4 parts and 5600XP for the final. Also, the trinket is wicked cool :) Totally worth it, IMHO.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-09T17:18:53-06:00",
+   "body": "There is an elite here, Lord Slarkis (or something like that)&nbsp; He is a lvl 45ish Silver Elite, which explains on why some people are seeing him and others are not, he only respawns every 21 to 32 hours",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-09T17:18:53-06:00",
+   "body": "i did this at level 38.. before i got&nbsp; the quest\n\nthe trick is just to run run run and die on or near the bridge so you can rez far away from teh naga and just grab the water and jump off the bridge an swim away =) this is the easiest part of the quest",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-06T20:39:54-05:00",
+   "body": "The fountain is in Stranglethorn Vale on the island full of Naga. It's guarded by an elite Naga. Coords for fountain are 28,62.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-28T17:18:53-05:00",
+   "body": "I went crazy running around the nag area, its so large. so here are the exact cord. for the fountain. i also didnt have any trouble going in solo, i am a 45 warlock. no elites, just 43-44 mobs scattered. \n\n28,62\n\ngood luck:)",
+   "replies": [
+    "27,59"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-28T17:18:53-05:00",
+   "body": "You have to do a lot of travelling on this quest.&nbsp; I noticed you end up along roughly the same travel line as the Cortello's Riddle quest series.&nbsp; It's probably a good idea to do these together.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-28T17:18:53-05:00",
+   "body": "If you come from the north, you cross a bridge from the mainland to the little island, then a bridge from the little island to the big one. Then you pretty much immediately take a path going up a hill. There are naga all along the way unless someone has cleared things for you. There are ruins on top of a hill then a stream with another bridge over it. On the other side of [u]that[/u] bridge there's a Holy Fountain, which is guarded by Lord Sakrasis, a lvl 45 naga (not Elite).\n\nThe area, by the way, is called the Nek'mani Wellspring, so if you see that name pop up on your screen you know you're in the right place.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-09T17:18:53-06:00",
+   "body": "to get there, just south of the arena, there is a path heading west, follow that path, when you cross the bridge onto the island, the path will split into 3 separate trails, the one to the left heads up a small hill, this is the one you want (you can follow the other two if you want to kill some naga's). the path will turn back east at the top of the hill with another bridge to cross to get to the actual pond. after reading all of the posts, I was leary of the 45 rare (king something or other) who was in front of the pond, so I popped off a str, a sta and an agi scroll to get buffed up, then charged him, he was dead and i wasn't even down 1/4 of life. Good coinage from all the naga's, and the kind nag dropped a green necklace (cant remember the name, but it was like +10 str, +3 sta). I would say that if you are a 40-41, bring a friend, or some healing pots, if you are 42-43 you should have no problems at all (all of the nag's except the king were 43-44 and didnt hit that hard)(okay, i am a warrior with 4k of armor, so maybe they did hit hard and i just didnt notice). good xp for not much trouble at all and if you kill all the nags in the area before you leave you will walk out with about 25-50s to boot for mmmm maybe a 20 minutes of fun",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-15T05:18:53-06:00",
+   "body": "OK, guys.\nno offense, but you were really unclear about this step.\nFirst, when you enter a path you will see level 43-44 naga mobs.&nbsp; Go down past a wood plank bridge and take a left.&nbsp; Keep going up this path and take another left, putting you smack dab in front of the spring across a small bridge.&nbsp; The only problem is, there are about 6 level 44 naga on either side of you.&nbsp; I did this with my 41 lock and just soulstoned across the bridge.&nbsp; Get the water and then you are free to hearth!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-24T21:06:27-05:00",
+   "body": "The so called \"elite\" mob is actually an easy to kill rarespawn: [npc=2541]",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-10-28T17:18:53-05:00",
+   "body": "above poster is right, go up that hill and when you find a bridge that leads to a water fountain you know you're there.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-28T17:18:53-05:00",
+   "body": "Do it like me, try to sneak around and run till the spring and die next to it, then resurrect and no problem. There were no elites watching it or so for me.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-09T17:18:53-06:00",
+   "body": "I got the quest, and checked out here for info about where the spring was. before that episode, i didn't know anything about the spring, or where it whas... I flew from Westfall to BootyBay, and ran to the spring, as deskriped here... I didn't read all of the notes on the subject, and i didn't know anything about a guardian... well when i arrived, i killed some easy lvl44, and afterwards i just took the water... the guardian wheren't presant... the easeyest 65silver ever...",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-08-16T17:18:53-05:00",
+   "body": "me and my friend (lvl 37 and 40) thrashed him! collected the spring water and wondered wat to do! thanks for all the advise will helf alot :D",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-10-28T17:18:53-05:00",
+   "body": "rye...39,66",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-02-27T20:23:32-06:00",
+   "body": "coor 30,63   on the island just north of BB",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-04-23T17:14:29-05:00",
+   "body": "In the naga island go all the way up. You'll find an area with a wooden bridge.\nOn the other side there's the spring (a fountain actually) you're looking for.\nI tried stealthing in cat-form but I was killed. When I went back to recover my body it was easy since I died in the middle of the bridge and mobs were on the other side.\nThere is nobody guarding the spring.\ni got it, jumped off the bridge and it was done.\n\nEdited, Sat Apr 23 13:16:28 2005",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2004-10-11T12:58:02-05:00",
+   "body": "The well is in Stranglethorn..in the naga camp.",
+   "replies": [
+    "cosmos loc 26,63 approx.",
+    "Specifically, it's on the big island just a bit northwest of Booty Bay. There's a bridge to it so you don't have to swim. However, sometimes there's a level 47 elite named Naga guarding it, and there's no way to avoid him. The second time I went there he wasn't up; I don't know if someone had just killed him or if he's just not always there.",
+    "He's not an Elite, he is just a rare spawn, and like all rares, not always there."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-05-20T12:56:46-05:00",
+   "body": "The bridge you need to cross to get to the fountain is not at the far north of the island as previously posted.  There are 2 bridges, neither will get you to the spring.\n\nInstead, head along the West side of the Island about half the way up until you get to the path that leads up to the upper ridge with more Naga. At 27,62 is the path toward the bridge-lots more Naga there. You're in Nek'Mani Wellspring area now. Cross the bridge, then right-click the fountain to get the holy water.\n\nThe Wellspring area is infested with Naga hanging out close to each other-huge aggro problem if you're not a Rogue, so bring a friend or two. If you are a Rogue (like me), easy to stealth in and snatch the water, unless the Elite Naga is guarding it. It was unguarded when i did it on 5/20/05.\n\nHope this helps,\nKillall, Level 44 Night Elf Rogue\nAvatara Descente Guild\nBronzebeard",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-10-28T17:18:53-05:00",
+   "body": "did this with my 43 holy priest, no elite. mounted up and found it pretty easy. only had to fight like 4 guys. would have been 3 but i just had to get that chest ^^",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-04-04T22:20:51-05:00",
+   "body": "Hmmm ANyone else notice level 45 elite As i just entered here thinking nice & easy & gotattacked by level 45 elite",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-08-02T10:50:11-05:00",
+   "body": "and all this for a boot flask-_-'",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-03-01T01:15:22-06:00",
+   "body": "All you gotta do is kill a couple naga and your done....very easy",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-07-02T18:25:55-05:00",
+   "body": "I guess i got lucky, and there was no elite guarding the spring. I just rode my mount all the way up the mountain, bypassing everything in the way, and when i got to the spring, all the mobs had run back. Just grabbed the water and went to westfall.",
+   "replies": [
+    "I'm not sure I would call the guardian not being there \"lucky\".  He isn't a true elite.  You'll notice the dragon around his icon is silver, not gold.  This normally means the creature has a high drop rate of one of a handful of nice (or nice-ish) items and, in my experience with both a druid and a rogue, is often (though not always) much easier to kill than other creatures of the same level.  The normal naga in that area are tougher kills than the level 45 one with the silver dragon mark.\n\nEdited, Sat Jul  9 22:22:49 2005"
+   ]
+  },
+  {
+   "rating": -3,
+   "date": "2005-11-29T23:25:24-06:00",
+   "body": "The Naga Lord is still a rare spawn, but he's only a regular lvl 45 now, not an elite. easy kill, even at lvl 41 rogue. Usually drops a green staff.",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2007-02-15T05:18:53-06:00",
+   "body": "Completed this entire string with pally, shammy, and warlock all at lvl43.&nbsp; Most difficult was the Hinterlands leg in Step 2.&nbsp; Just read entries for each step.&nbsp; Entries are accurate and easy to follow.&nbsp; Thanks to those who gave location descriptions independent of cosmos, titan, or any other location method.&nbsp; Good Luck\n\nTons of xp (23-24k), about 5-6g, and a nice trinket.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-02-18T01:45:41-06:00",
+   "body": "just thought i would mention that you should NOT jump into the fountain, lol, I got stuck!",
+   "replies": [
+    "I SECOND that with CAPS! i just got stuck then i saw your post. open ticket with a GM and it remains open till now -_-;",
+    "\n\nEdited, Fri Sep  9 23:50:59 2005",
+    "Add my own voice of dismay at this.  Ran across the bridge, mobs followed, partner and I tried to get as far away from their start points as we could, and course ended up in the pool.  Naga stayed on us but when we finally had all three, we were stuck in the pool.  Can't even jump out with my horse.  :(  There needs to be a step added!\n\nTime till hearth... 40 min...\n\nEdited, Fri Sep  9 23:49:27 2005"
+   ]
+  },
+  {
+   "rating": -6,
+   "date": "2005-12-14T16:05:04-06:00",
+   "body": "where is the island I don't have cosmos",
+   "replies": []
+  },
+  {
+   "rating": -11,
+   "date": "2007-03-08T19:00:56-06:00",
+   "body": "I found this fountain by accident, was killing Naga gaurding a mithril vein, and aggroed 4 other Naga ... ran away across bridge to dead end :) .... couldn't jump out on my own but after several tries on horse, manage to jump atop the bridge supports like top of the flagpole somehow. \n\nI got there by climbing the cliffs just east of Pretty Boy Duncans cove ... the nice secluded area back there full of Naga. Oddly I just turned down the quests at the valley by Deadmines yesterday... why can't the quest log expand to , say 1000 hahaha.",
+   "replies": []
+  }
+ ]
+}

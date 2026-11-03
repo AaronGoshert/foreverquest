@@ -1,0 +1,21 @@
+{
+ "id": 94826,
+ "name": "Confounding Flash",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": -262,
+ "reqclass": 16,
+ "status": "new",
+ "xp": 210,
+ "start": null,
+ "end": null,
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak to High Priestess Mims in Ironforge.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

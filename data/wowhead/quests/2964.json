@@ -1,0 +1,344 @@
+{
+ "id": 2964,
+ "name": "A Future Task",
+ "level": 50,
+ "reqlevel": 45,
+ "side": 1,
+ "zoneId": 1537,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 4700,
+ "start": {
+  "type": "npc",
+  "id": 2916,
+  "name": "Historian Karnik",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    76.4,
+    11.4
+   ],
+   [
+    76.4,
+    12.2
+   ],
+   [
+    77.2,
+    11.4
+   ],
+   [
+    77.2,
+    11.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5387,
+  "name": "High Explorer Magellas",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    69,
+    19.6
+   ],
+   [
+    69.4,
+    18.4
+   ],
+   [
+    69.4,
+    18.6
+   ],
+   [
+    69.6,
+    18.6
+   ],
+   [
+    69.8,
+    18.4
+   ],
+   [
+    70.4,
+    17
+   ],
+   [
+    70.8,
+    17.4
+   ],
+   [
+    70.8,
+    17.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Speak with High Explorer Magellas in Ironforge .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 5387,
+   "name": "High Explorer Magellas",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  2977,
+  2964
+ ],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 2916,
+   "name": "Historian Karnik",
+   "coord": [
+    77.2,
+    11.8
+   ],
+   "coords": [
+    [
+     76.4,
+     11.4
+    ],
+    [
+     76.4,
+     12.2
+    ],
+    [
+     77.2,
+     11.4
+    ],
+    [
+     77.2,
+     11.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 5387,
+   "name": "High Explorer Magellas",
+   "coord": [
+    69.6,
+    18.6
+   ],
+   "coords": [
+    [
+     69,
+     19.6
+    ],
+    [
+     69.4,
+     18.4
+    ],
+    [
+     69.4,
+     18.6
+    ],
+    [
+     69.6,
+     18.6
+    ],
+    [
+     69.8,
+     18.4
+    ],
+    [
+     70.4,
+     17
+    ],
+    [
+     70.8,
+     17.4
+    ],
+    [
+     70.8,
+     17.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 41,
+   "date": "2019-11-04T14:29:05-06:00",
+   "body": "It's funny coming back to this quest reading the comments and knowing that we had to wait until Cataclysm to come out just to get through the gates.",
+   "replies": [
+    "yes ;) memories",
+    "Think of the new players who've never played the expansions! They have so much story to look forward to! It's like when you watch an old TV show for the first time as your friends nod knowingly at the mysteries to be revealed in the next season.",
+    "too bad none of that means jack..."
+   ]
+  },
+  {
+   "rating": 8,
+   "date": "2005-10-04T01:41:22-05:00",
+   "body": "Ok, here is what i was thinking. Not sure if it has been said elsewhere, but will post it anyways. The Stone Watcher talks about the Creators wanting to revisit Azeroth. They also state that the Plates of Uldum have been distributed to those that deserve them, or something to that effect. \n\n**Spoilers**\n\nFrom the spirit in Uldaman we know that the Creator's made a matrix and created two races. The Troggs, and the Dwarves. What if leaders of these two races, or maybe not leaders but spiritual/historicaly ancestral characters were given the Plates of Uldum to hold until the Creators return. To me it seems that the Troggs work for the Creators, and the Dwarves work agianst the Creators. What if the Troggs were holding the plates, waiting for the Creators to return to open back up Uldum? Maybe the Giants as well, as they were placed at Uldum as guardians? \nAnyone know wof any boss encounters with Giants or Troggs around lvl 48+? Just some thoughts",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-06-16T13:41:22-05:00",
+   "body": "We know for sure Blizzard is not intending to make an instance for each element (earth, water, air, fire) or at least not make them one after the other.\n\n[ul]\n  [li][b]Molten Core[/b] - Ragnaros (God of Fire)\n[/li]\n  [li][b]Blackwing Lair[/b] - Nefarian (no god but big brother of Onyxia, another part of WoW lore different from the gods of elements)\n[/li]\n  [li][b]Onyxia[/b] - epic vendor (i personally don't know what the lore is about her)\n[/li]\n  [li][b]Ahn'Qiraj[/b] - defenitly not linked to Thunderaan (God of Air) but connected to the great war between the Brood of Nozdoromu and the God of ?bugs? C'Tun (who on a sidenote seemed to me from the lore to act like Pinky and the Brain, planning to take over the world :P)\n[/li]\n  [li][b]Naxxramas[/b] - Kel'Thuzad, Lich King (totally not connected to Uldaman, Uldam and Uldea)\n[/li]\n[/ul]\n\nSo if i'm not mistaken from what we have ingame at this time there is no promise of when they will make the continuation available for us. So, do not ask or search for continuation for this quest as it seems it's a high lvl instance to come in the far future.\nThen again ... i might be wrong ;)",
+   "replies": [
+    "In Day of the Dragon, Neltharian stole a batch of Red dragon eggs, though he failed to get all of them, at least one cart-full was stolen. The other carts can be found in ruins of the battle in the Wetlands. Of that brood, he took a consort, and using his magic, transformed them into pseudo-black dragons. He hid some of the eggs on Draenor, which later hatched as the ill-fated Nether Drakes. His consort gave him two eggs who were actually his children before some unknown fate befell her; Onyxia and Nefarian. At some point after these events, Deathwing vanished, possibly captured by Alexstrazsa"
+   ]
+  },
+  {
+   "rating": 6,
+   "date": "2007-01-21T13:41:22-06:00",
+   "body": "One theory I've had about Warcraft Lore is that it tries to play on double entandres (sp?) and multiple meanings. \n\nMuch of Warcraft history reflects the developement process of the Warcraft series.\n\nThus, one idea I have come up with is that the Titans who are supposed to \"not come back\" makes it so that we will not have to encounter them as bosses. Though the guardian at Uldum states that the \"Creators\" will come back. Possibly a reference to the Game Devs, maybe a little credit to them for their Hard work. The guardian even comments on their constant reshaping of the bioshpere that is Azeroth. Just as we see with each new content update how Azeroth is reshaped and rebuilt.\n\nThe \"One's who are Worthy\" could refer to GMs or the Map Terrain Testers and Game Engine Testers. Thus Uldum itself being the physical representation of a \"Test Zone\" within the game. \n\nTherefore I believe that Uldum is a homage to the Developers who created this great game.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-06-25T04:21:48-05:00",
+   "body": "Does anyone know what happons after, or where you go to continue the quest? I want to see Uldum.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-09-25T02:45:23-05:00",
+   "body": "Great Quest string, keeps you on the edge of your seat, Yes, kind of a letdown, but it's my beliefe that after BC (Burning Crusade) release, there will be an ULDUM instance. I think they are going to be doing a lot of retrofitting to Tanaris in general, and what more than having a whopping 3 instances in one zone. Zul'farrak, Caverns of Time, and Uldum. I feel that later, this string will continue to a Raid encounter, which I am hoping has to do with the makers in Uldum. Again, i could be wrong, but this is my hope as of now.\n\n-Wenduki-\n60 Rogue\n9/25/06",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-05T08:37:09-06:00",
+   "body": "This is indeed a bit of a let down, but we do learn some important things: Blizzard plans to reintroduce the Titans in a glorious return to Azeroth, but the world will be going downhill before that time, like, say, the invasion of the Burning Legion, since they only revisit a world when things have gone fubar.  Uldum, as it turns out, is the lab from which they worked on renovating the planet, like the creation of the Earthen and the sea giants.  As for the discs, the Titans have a set (or sets), and they can make more if needed.  Otherwise, the Stone Watcher could have meant that for the time being, only the Titans have the keys, and that's the way they meant for it to be.  Until they return, there's no way to get inside Uldum.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-06-26T11:25:25-05:00",
+   "body": "I can only assume it will be opened in a future patch",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-02-27T01:41:22-06:00",
+   "body": "I dont think its suppose to continue noone here has completed the quest and got another about Uldum quests i think it ends just like The Black Shield in dustmallow marsh...",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-04T13:41:22-05:00",
+   "body": "Ok so these comments started over a year and a half ago, and noone has any answers yet.&nbsp; I think at this point, it's safe to say we're just going to have to wait.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-04T01:41:22-05:00",
+   "body": "If you read the book in explorers hall in IF, the book comments on three ancient titan cities Uldaman,Uldum and Ulduar..so expect to see at least1 high lvl dungeon with dwarves, troggs..earthen and maybe more titans",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-04T13:41:22-05:00",
+   "body": "Ok, when you turn i the last part of the quest, the guys says \"Heres some cash to cover what you may have encountered blah blah blah\".. Then he says \"You&nbsp; have brought us far <name>. Be sure to check back with \"us\" soon\"..\n\nIm thinking that its gonna be opened some other time.. and when that \"soon\" comes there will be a quest to get the plates.. so i think that its not out yet and that was just to get a little start on your thinking about it. Kinda like grim batol, it has a bunch of dragons, but when u kill em, its just a closed door. to keep you thinking",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-09T15:18:20-05:00",
+   "body": "Kind of annoying that they'd make you do such a long quest chain then leave you hanging with nothing but a few gold.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-19T09:17:23-05:00",
+   "body": "Seems we might get some continuation of this in WoW:Forever :)",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-10-04T01:41:22-05:00",
+   "body": "No one knows were they are.. possibly some stone race holds them, something like the earten, that giant Moggrosh or something might be, but it doesnt seem too likely, so possibly like someone said, the troggish racial leaders.. or maybe a stone in the dirt......................Well no one knows, but i do know who the creators where, the titans.the titans in the WoW lore were said to never return... or will they?But right now it is at an impass, htere are no plates, no titans, no uldum for that matter... so just wait and we will all see.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-05-11T01:41:22-05:00",
+   "body": "If you read all the books there(long time) then you will see that you must wait.\nand that must e a patch or the Expansion Set",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-05-11T04:23:24-05:00",
+   "body": "ACK!  Such an interesting quest line, and they leave it here?  That's really sad.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-04T01:41:22-05:00",
+   "body": "like last time u will probally just have to wait a certain amount of time till they figure out where they are\n\nsurely there wouldnt be a quest that gives u the whole map at ur doorstep",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-04-04T13:41:22-05:00",
+   "body": "There is always the possiblity that Blizzard will make Uldum a world dungeon in the upcomming Burning Crusade expansion. I sure hope that they do.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-05-11T01:41:22-05:00",
+   "body": "What is was forgot to say.&nbsp; =)\nUldaman, Uldam and Uldea(or such something) are a kind of tempels for the titans.\nSo far i can remember was Uldea destroyed in the Great War(Warcraft1,2,3 all sets etc.)\ni thougt it was be on a thirth island, but that one is a kind of destoyed by Arthas and the Lich King.(maybe theire will be the new races from Expansion set and there wil be the last instance)\nBecause on every Island was standing a Titan City(Warcraft 1)\nAnd a book in IF says \"Deep below the earth\"\nSo it must be a instance or something.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2007-04-04T13:41:22-05:00",
+   "body": "We'eve all heard that they're gonna be more expansions... maybe this is a door to the underground or somthing like outland.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-10-04T01:41:22-05:00",
+   "body": "this is obviously a pre-quest for a future raid instance. Im thinking that MC is the Fire instance and there will also be a water, earth and air instance. The air one could be a late coming in the silithus area, because it talks of Thunderaan, the god of air having ancient wars with ragnaros.\nThis Uldum thingy must be the earth one.\n\nBasically, get as far as you can then wait for the instance to be released by blizzard.\n\nNafedogg",
+   "replies": [
+    "I was looking through my WOW model viewer last night and came across a model that looked like a water version of Ragnaros, with water effects and everything... that makes sense doesnt it?"
+   ]
+  },
+  {
+   "rating": -3,
+   "date": "2007-04-04T13:41:22-05:00",
+   "body": "i also think blizzard forgot about this quest and forgot that they have a huge mysterious door they need to unlock",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2005-10-04T01:41:22-05:00",
+   "body": "What's after this?",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-04T01:41:22-05:00",
+   "body": "what about the discs in uldaman? The ones after you defeat archadeas.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-10-04T01:41:22-05:00",
+   "body": "this quest sorta left me going crazy like \"wats next? when do i get to go inside this place?\". im starting to wonder if Blizz is continuing this quest in the expansion pack, i think it would be kool.",
+   "replies": []
+  },
+  {
+   "rating": -7,
+   "date": "2007-02-27T01:41:22-06:00",
+   "body": "My god.... This is so weeeeeird! Alright, so heres what we know. This is all a bunch of heebie-jeebie-joobies about correlated games and merchandise. No one has ever found an end to this quest and it's been a while that we've waited for an end quest.&nbsp; There is none, I think Blizzard just did this to tick us off or make us really stuck in wonder.",
+   "replies": []
+  }
+ ]
+}

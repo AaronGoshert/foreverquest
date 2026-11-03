@@ -1,0 +1,173 @@
+{
+ "id": 98065,
+ "name": "Crown of the Earth",
+ "level": 11,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 90,
+ "start": {
+  "type": "npc",
+  "id": 4092,
+  "name": "Lariia",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    40,
+    87.4
+   ],
+   [
+    40.2,
+    88.2
+   ],
+   [
+    40.2,
+    88.6
+   ],
+   [
+    40.6,
+    88.2
+   ],
+   [
+    40.6,
+    88.6
+   ],
+   [
+    41,
+    89.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7999,
+  "name": "Tyrande Whisperwind",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    38.4,
+    80.6
+   ],
+   [
+    38.6,
+    80.4
+   ],
+   [
+    39,
+    81.2
+   ],
+   [
+    39,
+    81.6
+   ],
+   [
+    39.6,
+    80.4
+   ],
+   [
+    39.8,
+    80.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring the Moonwell Remnants to Tyrande Whisperwind in the Temple of the Moon in Darnassus. Moonwell Remnants (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 279331,
+   "name": "Moonwell Remnants",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  98046,
+  98065
+ ],
+ "points": [
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "start",
+   "type": 1,
+   "id": 4092,
+   "name": "Lariia",
+   "coord": [
+    40.2,
+    88.2
+   ],
+   "coords": [
+    [
+     40,
+     87.4
+    ],
+    [
+     40.2,
+     88.2
+    ],
+    [
+     40.2,
+     88.6
+    ],
+    [
+     40.6,
+     88.2
+    ],
+    [
+     40.6,
+     88.6
+    ],
+    [
+     41,
+     89.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 7999,
+   "name": "Tyrande Whisperwind",
+   "coord": [
+    39,
+    81.2
+   ],
+   "coords": [
+    [
+     38.4,
+     80.6
+    ],
+    [
+     38.6,
+     80.4
+    ],
+    [
+     39,
+     81.2
+    ],
+    [
+     39,
+     81.6
+    ],
+    [
+     39.6,
+     80.4
+    ],
+    [
+     39.8,
+     80.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

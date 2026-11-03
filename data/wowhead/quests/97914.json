@@ -1,0 +1,122 @@
+{
+ "id": 97914,
+ "name": "Expanding Horizons",
+ "level": 17,
+ "reqlevel": 13,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 630,
+ "start": {
+  "type": "npc",
+  "id": 3649,
+  "name": "Thundris Windweaver",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    37.4,
+    40.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1646,
+  "name": "Baros Alexston",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    49,
+    30.2
+   ],
+   [
+    57.4,
+    47.8
+   ],
+   [
+    57.6,
+    47.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring Thundris' Letter to Baros Alexston in Stormwind. Thundris mentioned a boat in Auberdine that can take you there. Thundris' Letter (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 279045,
+   "name": "Thundris' Letter",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  97914,
+  97926
+ ],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 3649,
+   "name": "Thundris Windweaver",
+   "coord": [
+    37.4,
+    40.2
+   ],
+   "coords": [
+    [
+     37.4,
+     40.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 1646,
+   "name": "Baros Alexston",
+   "coord": [
+    49,
+    30.2
+   ],
+   "coords": [
+    [
+     49,
+     30.2
+    ],
+    [
+     57.4,
+     47.8
+    ],
+    [
+     57.6,
+     47.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-05T13:56:35-05:00",
+   "body": "I guess this one is new to Forever? Don't remember it from original Wow.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-06T14:31:58-05:00",
+   "body": "This new quest teaches you how to reach Stormwind from Auberdine using the [b]new boat connection[/b].\r\n\r\nThe experience rewards for this chain are absolutely minuscule, but it's very much worth completing for the [item=282286] you'll receive after returning from the big city. This is the [b]best reagent bag you can obtain through questing[/b] [i](as of writing this)[/i]. You'll most likely be holding on to this until your [b]30s-40s[/b] [i]unless[/i] you go out of your way to buy a [item=253667] or [item=253973] (however, these are somewhat expensive investments due to the crafts requiring the use of [item=249409]).\r\n\r\nFor this quest, I recommend setting your [b]Hearthstone[/b] to [b]Auberdine[/b], then taking the boat to [b]Stormwind[/b] to complete the following objectives there:\r\n[ol][li][quest=95065] (buy materials from [url=https://www.wowhead.com/forever/npc=6301/gorbold-steelhand#map]Auberdine[/url])[/li]\r\n[li][quest=97234] and the follow-up [quest=97237][/li]\r\n[li][quest=97220] and the follow-up [quest=97222][/li]\r\n[li][quest=7791] (if you have the capital...)[/li]\r\n[li]Pay a visit to [npc=11867] for weapon training[/li][/ol]\r\n\r\nYou may also complete these if you wish, but know that they all only grant [b]10 XP[/b] at your level:\r\n[ol][li][quest=332][/li]\r\n[li][quest=333][/li]\r\n[li][quest=334][/li][/ol]\r\n\r\nUpon finishing up in Stormwind, simply [b]hearth back to Auberdine[/b] to turn this one in.",
+   "replies": []
+  }
+ ]
+}

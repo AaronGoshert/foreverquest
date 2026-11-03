@@ -1,0 +1,127 @@
+{
+ "id": 98341,
+ "name": "The Great Windborne Cat Spirit",
+ "level": 20,
+ "reqlevel": 20,
+ "side": 3,
+ "zoneId": -263,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 780,
+ "start": {
+  "type": "npc",
+  "id": 11802,
+  "name": "Dendrite Starblaze",
+  "zone": "Moonglade",
+  "zoneId": 493,
+  "coords": [
+   [
+    56.2,
+    30.4
+   ],
+   [
+    56.2,
+    30.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 272054,
+  "name": "Avatar of Saeyleenan",
+  "zone": "Moonglade",
+  "zoneId": 493,
+  "coords": [
+   [
+    43.9,
+    73.4
+   ],
+   [
+    44,
+    73.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Seek out the Avatar of Saeyleenan in the southern part Moonglade and learn what it has to share with you about the nature of the windborne cat.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 272054,
+   "name": "Avatar of Saeyleenan",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  98340,
+  98405,
+  98342,
+  98739,
+  98362
+ ],
+ "points": [
+  {
+   "zoneId": 493,
+   "zone": "Moonglade",
+   "point": "start",
+   "type": 1,
+   "id": 11802,
+   "name": "Dendrite Starblaze",
+   "coord": [
+    56.2,
+    30.4
+   ],
+   "coords": [
+    [
+     56.2,
+     30.4
+    ],
+    [
+     56.2,
+     30.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 493,
+   "zone": "Moonglade",
+   "point": "end",
+   "type": 1,
+   "id": 272054,
+   "name": "Avatar of Saeyleenan",
+   "coord": [
+    43.9,
+    73.4
+   ],
+   "coords": [
+    [
+     43.9,
+     73.4
+    ],
+    [
+     44,
+     73.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-01T23:04:45-05:00",
+   "body": "Saeyleenan is located at 44,73. Took me forever to find her. You have to go up a hill to get to her.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-19T21:09:07-05:00",
+   "body": "I'm level 20 on Skyborne, standing in front of Dendrite Starblaze - she has no quest for me to get cat form... bug?",
+   "replies": [
+    "you have to go to darnassus or TB and talk to the druid trainer first."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "id": 92459,
+ "name": "Friend of the Kirin Tor",
+ "level": 33,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 36,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 265,
+ "start": {
+  "type": "npc",
+  "id": 269127,
+  "name": "Image of Archmage Modera",
+  "zone": "Silverpine Forest",
+  "zoneId": 130,
+  "coords": [
+   [
+    68.4,
+    45.2
+   ],
+   [
+    68.6,
+    45.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252085,
+  "name": "Archmage Celindra",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    14.2,
+    60
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Speak to Archmage Celindra in the City of Dalaran. Arcane Mote (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 252085,
+   "name": "Archmage Celindra",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 251961,
+   "name": "Arcane Mote",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  92432,
+  92458,
+  92459
+ ],
+ "points": [
+  {
+   "zoneId": 130,
+   "zone": "Silverpine Forest",
+   "point": "start",
+   "type": 1,
+   "id": 269127,
+   "name": "Image of Archmage Modera",
+   "coord": [
+    68.6,
+    45.2
+   ],
+   "coords": [
+    [
+     68.4,
+     45.2
+    ],
+    [
+     68.6,
+     45.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 252085,
+   "name": "Archmage Celindra",
+   "coord": [
+    14.2,
+    60
+   ],
+   "coords": [
+    [
+     14.2,
+     60
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-10T09:59:45-05:00",
+   "body": "I'm assuming there's a follow-up to this, because when turning it in, Leatrix tries to autoaccept a quest but I get \"You don't meet the requirements for that quest\".",
+   "replies": [
+    "Yeah, I got the same message. Haven't turned in the quests in Stormwind yet. Also didn't manage to complete \"Starving Arcane\" during my first run, so I don't know if any of these quests are the pre-reqs for the follow-up."
+   ]
+  }
+ ]
+}

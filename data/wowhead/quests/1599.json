@@ -1,0 +1,284 @@
+{
+ "id": 1599,
+ "name": "Beginnings",
+ "level": 4,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": -61,
+ "reqclass": 256,
+ "status": "unchanged",
+ "xp": 355,
+ "start": {
+  "type": "npc",
+  "id": 460,
+  "name": "Alamar Grimm",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    28.6,
+    66.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 460,
+  "name": "Alamar Grimm",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    28.6,
+    66.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 3 Feather Charms to Alamar Grimm in Anvilmar. Feather Charm  ( 3 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 6753,
+   "name": "Feather Charms",
+   "count": 3,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Feather Charm",
+   "count": 3,
+   "type": "item",
+   "id": 6753
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 460,
+   "name": "Alamar Grimm",
+   "coord": [
+    28.6,
+    66.2
+   ],
+   "coords": [
+    [
+     28.6,
+     66.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 460,
+   "name": "Alamar Grimm",
+   "coord": [
+    28.6,
+    66.2
+   ],
+   "coords": [
+    [
+     28.6,
+     66.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 946,
+   "name": "Frostmane Novice",
+   "coord": [
+    30.4,
+    79.4
+   ],
+   "coords": [
+    [
+     28.6,
+     83
+    ],
+    [
+     29,
+     81.2
+    ],
+    [
+     29,
+     82.4
+    ],
+    [
+     30,
+     82.4
+    ],
+    [
+     30.4,
+     79.4
+    ],
+    [
+     30.4,
+     79.6
+    ],
+    [
+     30.4,
+     80.8
+    ],
+    [
+     30.5,
+     79.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 30,
+   "date": "2007-01-16T07:11:15-06:00",
+   "body": "Pretty simple, go to the frostmane cave, kill the troll whelps out front (don't bother trying to sneak by, might work at first but soon you'll have 3 trolls on you), then once inside, turn left and stick to the left wall of the tunnel. When you get to a larger cavern with an ice lake in the middle, and Grek'nir the Cold on the far side, you're i nthe right room. Clear out some space carefully, then go onto the lake and kill the trolls there. There is 2 Novices, one on each side of Grek'nir. Wait til they walk away from him, then hit them with immolate, and 3 shadowbolts and you've got a feather.\n\nI got mine in 3 straight novices.\n\nGood luck,\n\n~~~Fyn~~~",
+   "replies": []
+  },
+  {
+   "rating": 21,
+   "date": "2006-02-21T19:11:15-06:00",
+   "body": "Found them inside the cave with blue trolls. Not hard to get, fine drop chance, just kill 15-20 of them, then done:)\n\nCoords: 27,80 is entrance for cave.",
+   "replies": []
+  },
+  {
+   "rating": 20,
+   "date": "2006-11-01T09:03:05-06:00",
+   "body": "The feathers drop from the frostmane novice. There are only two frostmane novice in the cave all the way in the back and they only drop 1 feather at a time so you will have to wait until it respawns to kill and loot again. \n\nThe easiest way to get to them without going through the whole cave is once you enter the cave clear the mobs on the left side of the cave. This should save you some time.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2007-02-21T19:11:15-06:00",
+   "body": "100% droprate from the novices.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-07-17T19:11:15-05:00",
+   "body": "this quest is easy, run into the cave with all the trolls (loc stated above) go to where the named character is and turn right. There should be 2-3 that spawn there, kill em, loot the feathers and off you go :)",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-09-28T19:11:15-05:00",
+   "body": "The novice trolls need for the warlock imp quest are in the cave in Coldridge Valley (New player start are.) Cave entrance is at 27,80.\n\nIf you go to the left or right when you get into the cave you will find them.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-01-11T09:04:44-06:00",
+   "body": "It's pretty much straight south, actually; the cave is visible on the in-game map. Coords are 26,79. The cave is surrounded by Troll Whelps; as past poster mentioned, the Novices you need to kill are towards the back of the cave.\n\nQuest gives 360xp and +100rep to both Gnomeregan and Ironforge.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-01-11T09:04:44-06:00",
+   "body": "It's pretty much straight south, actually; the cave is visible on the in-game map. Coords are 26,79. The cave is surrounded by Troll Whelps; as past poster mentioned, the Novices you need to kill are towards the back of the cave.\n\nQuest gives 360xp and +100rep to both Gnomeregan and Ironforge.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-06T21:58:28-05:00",
+   "body": "The cave is at about [27.5 , 80].\r\n\r\nDid this quest no problem. Went left from the entrance and killed both Novices (they shoot from a range, so they aren't hard to kill without aggroing others). I waited for the respawn of a third (which was less than 2 minutes) and got the last feather, and left the cave all within 4 minutes. No deaths, no problems.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-16T13:15:23-05:00",
+   "body": "I stopped counting after four Novices, so there's plenty in there to get. I hugged the south tunnel mostly at level 4 and it was easy enough, although these troll blokes are the first mobs that aggro.\n\nYou should also pick up 'The Troll Cave' quest before you go in: https://www.wowhead.com/forever/quest=182",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-05-15T02:23:15-05:00",
+   "body": "For me \n\nDrop Rate = 100%\n\nThe trolls you are looking for ARE inside the cave but you must go in farther then the entrance...",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-28T19:11:15-05:00",
+   "body": "There are only few novices in there, but they respawn quick. The other cave is west and has them also, but it does not show up as a cave on the map.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-14T18:57:13-05:00",
+   "body": "There is a 3rd Novice.  He's in a small cubby behind the room where the lvl 5 named spawns.  Approx 29,81",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-22T10:18:12-05:00",
+   "body": "do we find them or do we kill to get them? thats what i dont undrstand",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-04T22:46:08-06:00",
+   "body": "where the heck is this cave to the sw?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-15T10:36:04-06:00",
+   "body": "it looks like a cave on your map... anyways this was sorta hard because the trolls would end up respawning right by me as I killed them.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-27T06:12:37-05:00",
+   "body": "what are frostmane novices",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-29T20:06:42-05:00",
+   "body": "The cave is really to the southeast for some wierd reason and the Frostmanes novices are at the end of the cave.\n\nEdited, Wed Jun 29 16:09:12 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-07T11:12:18-05:00",
+   "body": "Do the mail delivery quests first. The second delivery will lead to the quest [quest=182] to kill trolls so you can do those at the same time.",
+   "replies": [
+    "Don't need to do that to pick up 'The Troll cave' quest from Grelin Whitebeard. The mail delivery quest is just a breadcrumb quest to go to him. No point to skip though, just saying it's not a requirement."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2021-03-24T03:06:41-05:00",
+   "body": "Is it even possible to loot the items for this quest without aggroing the boss? Im playing a level 4 lock and I died 4 times on this quest because every time I looted a novice the boss got pulled.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-04T15:03:29-05:00",
+   "body": "If you're looking at the map of the entire inside of the cave, it looks a bit like a skull. There is a little cave past the boss, essentially where the left \"eye\" meets the \"nose.\" Go past the boss (or try to rez past the boss towards this little cave, and away from any of the whelps). In this little nub of a cave is a Novice. It re-spawns about every 3-4 minutes or so. Easiest way I found was to just wait for it to re-spawn.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-08T11:02:07-06:00",
+   "body": "Ugh, this quest made me mad..  They put the mobs SO far down into the cave, and then they put 2 of the 3 mobs you need to kill BESIDE a level 5 named boss which has a big aggro range.  I died 3 times doing this quest,  it doesnt feel good dying on a level 3 in a starting area when your level 70 is doing karazhan.. :'[",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-09-15T02:50:45-05:00",
+   "body": "nice i like this quest helped learn a good comboination at low level to kill mobs quickly and usually 5 at a time",
+   "replies": []
+  }
+ ]
+}

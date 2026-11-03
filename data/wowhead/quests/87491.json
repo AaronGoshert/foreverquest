@@ -1,0 +1,128 @@
+{
+ "id": 87491,
+ "name": "Spark of Freedom",
+ "level": 30,
+ "reqlevel": 25,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2450,
+ "start": {
+  "type": "npc",
+  "id": 271481,
+  "name": "Captive Fire Elemental",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    45.6,
+    16.4
+   ],
+   [
+    45.7,
+    16.6
+   ],
+   [
+    46.8,
+    16.4
+   ],
+   [
+    47.8,
+    16.7
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1072,
+  "name": "Roggo Harlbarrow",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    49.8,
+    18
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Escort the captive fire elemental out of Dun Modr and to its freedom.   Escort the fire elemental out of Dun Modr  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 271481,
+   "name": "captive fire elemental",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Escort the fire elemental out of Dun Modr",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 271481,
+   "name": "Captive Fire Elemental",
+   "coord": [
+    45.7,
+    16.6
+   ],
+   "coords": [
+    [
+     45.6,
+     16.4
+    ],
+    [
+     45.7,
+     16.6
+    ],
+    [
+     46.8,
+     16.4
+    ],
+    [
+     47.8,
+     16.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 1072,
+   "name": "Roggo Harlbarrow",
+   "coord": [
+    49.8,
+    18
+   ],
+   "coords": [
+    [
+     49.8,
+     18
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-05T01:19:03-05:00",
+   "body": "You escort him about halfway out the camp when they suddenly attack you. The mob is actually fairly strong when you escort it unlike most escorts.",
+   "replies": []
+  }
+ ]
+}

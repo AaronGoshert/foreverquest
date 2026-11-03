@@ -1,0 +1,291 @@
+{
+ "id": 990,
+ "name": "Trek to Ashenvale",
+ "level": 19,
+ "reqlevel": 15,
+ "side": 1,
+ "zoneId": 331,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 365,
+ "start": {
+  "type": "npc",
+  "id": 3694,
+  "name": "Sentinel Selarin",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    39.2,
+    43.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3691,
+  "name": "Raene Wolfrunner",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    36.4,
+    49.6
+   ],
+   [
+    36.6,
+    49.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Find Raene Wolfrunner in Ashenvale .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3691,
+   "name": "Raene Wolfrunner",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 3694,
+   "name": "Sentinel Selarin",
+   "coord": [
+    39.2,
+    43.4
+   ],
+   "coords": [
+    [
+     39.2,
+     43.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 3691,
+   "name": "Raene Wolfrunner",
+   "coord": [
+    36.6,
+    49.6
+   ],
+   "coords": [
+    [
+     36.4,
+     49.6
+    ],
+    [
+     36.6,
+     49.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 22,
+   "date": "2019-09-11T17:01:59-05:00",
+   "body": "Blizzard has [url=https://us.battle.net/support/en/article/247288]acknowledged[/url] that the quest giver is a bit bugged. I was able to layer hop to a layer where [url=https://www.wowhead.com/forever/npc=3694/sentinel-selarin]Sentinel Selarin[/url] was not there. Once somebody turned in [url=https://www.wowhead.com/forever/quest=4763/the-blackwood-corrupted]The Blackwood Corrupted[/url], she came running in, spoke her dialogue and offered the quest.",
+   "replies": [
+    "I turned in Escape Through Stealth, which should have made this quest available. It wasn't immediately. I waited around for a minute and checked again, and then the NPC offered the quest. I don't think I did anything to affect it."
+   ]
+  },
+  {
+   "rating": 14,
+   "date": "2019-09-10T07:49:35-05:00",
+   "body": "As of \"Classic\", Sentinel Selarin is in-game, and offers this quest after one finishes the Volcor escort quests at Terenthis. Ideally, she runs in, talks with Terenthis and soon after their RP is done, she offers anyone eligible this quest (for several minutes). However, if you are eligible, yet she is standing next to Terenthis but not offering any interaction, she is simply bugged and you need a server reset to \"fix\" her. After this, you may need someone else to finish their quest for her to re-spawn. Also, completing quests in Ashenvale does not remove this breadcrumb quest, so one can still return and do it afterward for the sake of completionism.",
+   "replies": [
+    "Yes, this must be a bug. Someone else had this quest in his/her quest-log and was able to share it with me! So if you can't pick it up yourself for some reason, just ask someone else to share it with you."
+   ]
+  },
+  {
+   "rating": 10,
+   "date": "2005-05-10T20:14:35-05:00",
+   "body": "You can start the next quest (Raene's Cleansing in Ashenvale) without getting this one.",
+   "replies": [
+    "i think this might be my case"
+   ]
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-27T07:31:25-05:00",
+   "body": "her location is at 36,49 or in Astranaar",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2004-12-17T10:44:29-06:00",
+   "body": "how do you get this quest, I'm a lvl 19 NE hunter in Darkshore, standing in front of Sentinel Selarin, and I can't even speak to her, there's no exclamation mark, or even a chat cursor.",
+   "replies": [
+    "After visiting Ashevale on my own (both Maestra's Post and Astranaar), questing a bit, and leveling to 20.  I returned to Auberdine and strangely enough Sentinel Selarin had an exclamation point, talking to her produced the quest, yet halfway through reading it, someone else approaced and (I'm guessing) finished a quest of his own, and she took off running before I could accept the quest.\n\nNow I'm waiting for her to respawn.\n\n\n\n\nEDIT:  After waiting a very long time for her to respawn, she finally has, but now she doesn't offer the quest again, or any ability to talk to her.\n\nEdited, Sat Dec 1",
+    "I got this quest immediately after completing [url=/quest=4763]A Darkwood Corrupted[/url] by talking to Thundris.  As soon as I received the reward, Sentinel Selarin ran up, said a few words to Thundris, then displayed the !. I was able to get this quest from her at level 17"
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2019-09-06T06:49:55-05:00",
+   "body": "Guys... please help me... i dont see that quest on npc .. but i see quest is avavaible with addon :(",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-08-30T11:33:03-05:00",
+   "body": "She run up to Terenthis after I turned in the A Lost Master/Escape through Stealth quest.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-03-20T00:28:25-06:00",
+   "body": "First time around I had the same experience: She offered the quest, but as I was reading, she ran off and I couldn't accept.\n\nTook forever for her to respawn. At fist I could not talk to her, but that it because she has some dialogue with the other NPC. I waited for her to finish, and then I could accept the quest, although I had already been to Astranar.\n\nNot really worth the trouble, but I am a quest fanatic, I try to do them ALL. :)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-27T07:31:25-05:00",
+   "body": "She run up to Terenthis after I turned in the A Lost Master/Escape through Stealth quest and so I was able to get this quest.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-22T07:31:25-06:00",
+   "body": "Shes in Ashenvale (Astranarr)\nsouth of auberdine",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-01T10:38:26-06:00",
+   "body": "Selarin is located inside the building at 39, 43",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-27T07:31:25-05:00",
+   "body": "no follow up quest?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-27T07:31:25-05:00",
+   "body": "i have a slight problem.\ni accisidently(i cant spell well) abandoned the quest and now i cant find it.\nsome slight help will be highly appreated \n(still cant spell sry)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-27T07:31:25-05:00",
+   "body": "co-ordinates pls?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-27T07:31:25-05:00",
+   "body": "This quest is to get you to the flight path in Astranaar which you will use many times as you get to higher levels.\n\nNot every quest is not just about xp or loot!\n\nAs for followups there are many quests to do in Ashenvale.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-27T07:31:25-05:00",
+   "body": "Cant find sentinel Selarin anymore, though she was in darkshore, auberdine at 39,43.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-27T07:31:25-05:00",
+   "body": "nvm, its racial only for night elves, she spawns next to terenthis. If you dont finish escape through stealth or fight, she wont be there or anywhere at all.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-20T19:31:25-05:00",
+   "body": "I accidently abbandoned this quest and now I cant find here anywhere.. what am I supposed to do to make her appear again?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-15T16:38:00-05:00",
+   "body": "I notice there is some confusion as to where Sentinel Selarin is to begin this Quest. I believe she will only appear once you have completed the Quest [A Lost Master] and rescued Volcor and only after you have talked to Terenthis. After turning in the Quest [A Lost Master] to Terenthis, you will notice a short conversation taking place between Terenthis and Sentinel Selarin. After the conversation ends, you will be able to talk to Sentinel Selarin and get the Quest. Hope this helps.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-14T00:16:52-06:00",
+   "body": "Is this one currently broken?\n\nI have not been able to get it either, in spite of finishing A Darkwood Corrupted 1 1/2 levels back. Currently a lvl 22 NE Hunter",
+   "replies": [
+    "I am a level 20 Hunter and can't find her in Auberdine. I think they took her and the additional quest out in the retail version.\n\nI could be wrong though.",
+    "She's in the first building on the right as you enter Auberdine from the rest of the zone. On the first floor, to the right as you enter.\n\nShe didn't give me the quest, either.\n"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-30T00:26:28-06:00",
+   "body": "Yeah I found her now, but I can't do this one as well.\n\nEdit: The next part of the quest, \"Reane's Cleansing\" can be started anyway. Just talk to Raene Wolfrunner in Astranaar, Ashenvale Forest\n\n\n\nEdited, Sat Jan 29 18:39:40 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-14T08:16:57-06:00",
+   "body": "The correct coords are 36,49",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-05T00:44:03-05:00",
+   "body": "Hey I am level 18 hunter and I cant find this woman   please  tell me something",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-28T05:18:13-06:00",
+   "body": "i got this quest just fine, i hadent even turned in or gotten blackwood corrupted when she came running up, there was someone else tho turning in the quest i suppose perhaps you can  only get it when someone else turns in the quest who knows, after i finished the quest she came running up again but as i had already accepted the quest she just talked and i ran off.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-09-10T09:52:40-05:00",
+   "body": "This is a breadcrumb quest. If you completed [quest=991] she will not offer the quest anymore.\r\n\r\nMacro to check if you completed the followup quests already: /run print(IsQuestFlaggedCompleted(991))",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-10-27T18:51:48-05:00",
+   "body": "It appears that if you have already started either the Fiora Longears or Journey to Astranaar Quest, not sure which, before you complete Escaped Through Stealth/Force you will not be able to get this quest from Sentinel Selarin. I've done this sequence several times and that seems to me to be the limiting factor.",
+   "replies": [
+    "Not true as of Classic. I had already completed both Fiora Longears and Journey to Astranaar, I had even already finished every quest in Ashenvale, but I was able to come back and get this one. Not mutually exclusive with anything.",
+    "I'm not sure what triggers this, but I'm not able to pick up this quest. Very annoying...",
+    "Not quite sure why I got downvoted. What I said is true. You just have to wait in front of where the NPC should be, wait for someone to turn in \"The Blackwood Corrupted\", and she should spawn and offer the quest, no matter what quests you've already done."
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2006-07-27T21:22:06-05:00",
+   "body": "I don't understand anyone's confusion, If you click the link above with her name, It has a map for her, showing Raene Wolfrunner- Ashenvale 36,49. Which is where she is, So don't wait for a spawn or anything, she is in ashenvale at, Astraanar's inn.",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2005-10-27T07:31:25-05:00",
+   "body": "No point in this quest, you get few exp and it's not worst the time waiting for the girl to respawn.",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2007-01-08T07:31:25-06:00",
+   "body": "If you don't do this quest you can't do Raene's Cleansing. THAT quest is a long chain which will give you lots of exp and cool rewards. Please correct me if I am wrong but I think that this quest is a prerequeset.",
+   "replies": [
+    "I have not done this quest, and I am on Raene's Cleansing, In fact the guide I was looking through specifically says to do this quest after taking the quest for Raene's Cleansing. This quest, to the best of my knowledge is just free XP with no real purpose."
+   ]
+  }
+ ]
+}

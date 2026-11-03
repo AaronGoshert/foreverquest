@@ -1,0 +1,174 @@
+{
+ "id": 273,
+ "name": "Resupplying the Excavation",
+ "level": 15,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": 38,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 1105,
+  "name": "Jern Hornhelm",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    37.2,
+    47.4
+   ],
+   [
+    37.2,
+    47.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2057,
+  "name": "Huldar",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    52,
+    69.6
+   ],
+   [
+    52.2,
+    69.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Speak with Huldar .   Find Huldar, Miran, and Saean  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2057,
+   "name": "Huldar",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Find Huldar, Miran, and Saean",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [
+  298,
+  301,
+  302,
+  273,
+  454
+ ],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 1105,
+   "name": "Jern Hornhelm",
+   "coord": [
+    37.2,
+    47.4
+   ],
+   "coords": [
+    [
+     37.2,
+     47.4
+    ],
+    [
+     37.2,
+     47.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 2057,
+   "name": "Huldar",
+   "coord": [
+    52.2,
+    69.2
+   ],
+   "coords": [
+    [
+     52,
+     69.6
+    ],
+    [
+     52.2,
+     69.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 40,
+   "date": "2005-11-12T03:32:14-06:00",
+   "body": "I found at 52,69 i was able to attack the 3 men standing by Miran and Saean, and then at 63,66 I was ambushed by two others, all lvl 10.",
+   "replies": []
+  },
+  {
+   "rating": 21,
+   "date": "2004-11-29T19:37:20-06:00",
+   "body": "These guys are down at the south end of the lake that is just east of Town.  When you get there, the ambush will go on and then you fight the dark irons off.\n\nThen, and be quick about this, talk to Huldar and Miran.  If you take too long and someone else is there, chances are Miran is going to get started up the way with them.  When I got there, there was a line of folks waiting to escort him.\n\nMiran will walk almost all the way up to the site, then get attacked by more irons.  At least two pop, maybe 1 plus 1 for each person walking him, but as I did it alone it was no problem.  I just sheeped the one that Miran didnt attack and we went at it.\n\nIf you dont catch him in time, or he isnt at the wagon when you get htere, dont worry.  He walks up to the prospector, then despawns and reappears at the wagon again.  So if he's not there, then just wait and he will be shortly.",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2006-07-25T15:32:14-05:00",
+   "body": "I alos found them at the location 52,69",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2006-12-11T15:01:11-06:00",
+   "body": "Sorry to ruin the surprise, but if you're reading this you likely won't mind. As you approach the supply cart, you'll be surprised to find Saean begin attacking Miran with two other dwarves that appear. Jump in and save him! \r\n\r\nThe ambush starts when you get within proximity (not when you talk to anyone). Make sure you're healed up and ready to deal damage prior to approaching the cart. Otherwise this isn't very hard.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-06-19T03:32:14-05:00",
+   "body": "That ws the funiest quest ecer xD",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-18T15:32:14-06:00",
+   "body": "this quest is the funniest quest ever...i was looking around for them and then i see them like fighting lol",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-01T15:32:14-06:00",
+   "body": "Your exactly right about the co-ords, but how is it funny?&nbsp; I go into combat evreyday, all it is i a copy of you in dwarf form, fighting.&nbsp; It's actually kind of the oppisite, because its 3 vs. 2, and u have to help them or they die.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-25T14:05:50-05:00",
+   "body": "Just stand off attack and you'll get it.&nbsp; If you cannot, make sure you only attack when you will aid the victory and don't just wade in.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-23T17:02:40-06:00",
+   "body": "52.69 is Huldar,Miran, and Saean.  You will be attacked by Saean and two dark iron dwarf ambushers (level 10)\n\nEdited, Thu Feb 23 11:04:03 2006",
+   "replies": []
+  }
+ ]
+}

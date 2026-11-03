@@ -1,0 +1,75 @@
+{
+ "id": 86613,
+ "name": "Excavation Tools",
+ "level": 18,
+ "reqlevel": 13,
+ "side": 1,
+ "zoneId": 38,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1350,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 1344,
+  "name": "Prospector Ironband",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    65.8,
+    65.4
+   ],
+   [
+    65.8,
+    65.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Return 6 Excavation Tools to Magmar Fellhew. Excavation Tools (Provided)  ( 6 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 278398,
+   "name": "Excavation Tools",
+   "count": 6,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 1344,
+   "name": "Prospector Ironband",
+   "coord": [
+    65.8,
+    65.6
+   ],
+   "coords": [
+    [
+     65.8,
+     65.4
+    ],
+    [
+     65.8,
+     65.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-01T18:49:07-05:00",
+   "body": "These are found all over the dig site as lootable [b]objects[/b]. Click/hover [url=https://www.wowhead.com/forever/object=665282/excavation-tools#map]here[/url] to see all spawn points.\n\nComplete together with [quest=297] at around level 18+ if you plan to go solo, as some of the mobs here go up to level 20 [i](and rare spawns up to 21-22)[/i].",
+   "replies": []
+  }
+ ]
+}

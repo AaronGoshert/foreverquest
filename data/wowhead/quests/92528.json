@@ -1,0 +1,139 @@
+{
+ "id": 92528,
+ "name": "Among the Faithful",
+ "level": 8,
+ "reqlevel": 5,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 350,
+ "start": {
+  "type": "npc",
+  "id": 257065,
+  "name": "Missionary Jasaan",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    46.8,
+    56.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251523,
+  "name": "Constable Aonda",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    45.4,
+    45.4
+   ],
+   [
+    45.6,
+    45.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Look around Falaath Village to learn about the cult's intentions in the Shen'dar Highlands.   Learn about the cultists' plans  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 252078,
+   "name": "Learn about the cultists' plans",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Learn about the cultists' plans",
+   "count": 1,
+   "type": "npc",
+   "id": 252078
+  }
+ ],
+ "series": [
+  93036,
+  92529,
+  92528,
+  92550,
+  92579
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 257065,
+   "name": "Missionary Jasaan",
+   "coord": [
+    46.8,
+    56.2
+   ],
+   "coords": [
+    [
+     46.8,
+     56.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251523,
+   "name": "Constable Aonda",
+   "coord": [
+    45.6,
+    45.4
+   ],
+   "coords": [
+    [
+     45.4,
+     45.4
+    ],
+    [
+     45.6,
+     45.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 9,
+   "date": "2026-09-22T14:07:20-05:00",
+   "body": "You need to \"hide\" behind the wardrobe (click on it with your mouse) and wait for the NPCs to finish talking.",
+   "replies": [
+    "TY. Worked perfectly.",
+    "Dont forget to get the buff Mark of Akir from questgiver"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-20T05:32:17-05:00",
+   "body": "This quest seems to be bugged for me. Im at the house on the top floor, theres Skypriest Aanders and High Priestess Lorthuna, but nothing is going on. Abandoning and retaking the quest does not help.",
+   "replies": [
+    "It was bugged for me too; changing layers didn't help either. I reported it (as did the massive queue of others waiting). I wasn't sure how to progress further without the quest, so I ended up just going to Stormwind instead.",
+    "theres a sparkly spot on the floor, seems like maybe your supposed to walkin and overhear their conversation or maybe hide? but yeah doesnt seem to be working",
+    "Yes, look for the sparkles on the floor upstairs and click the brown wardrobe",
+    "Worked for me - I got a magnifying glass icon when I stood \"in\" the wardrobe. Listened to the convo, and the quest progressed",
+    "There's a Book Case there now, just click on it and than pick \"HIde behind the wardrobe\""
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-27T15:17:58-05:00",
+   "body": "This quest becomes much more of a PITA if you don't have the Mark of Akir.   Mine had worn off because I logged out.  Without the buff, all the surrounding mobs are hostile.  \r\n\r\nTo get a new one talk to [url=https://www.wowhead.com/forever/npc=251904/sania-silverstream]Sania Silverstream[/url] in Shen'dar Village\r\n\r\n[code]/way 44.82, 45.45[code]",
+   "replies": []
+  }
+ ]
+}

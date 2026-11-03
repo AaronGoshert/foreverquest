@@ -1,0 +1,151 @@
+{
+ "id": 1218,
+ "name": "Soothing Spices",
+ "level": 35,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": 15,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1350,
+ "start": {
+  "type": "npc",
+  "id": 4792,
+  "name": "\"Swamp Eye\" Jarl",
+  "zone": "Dustwallow Marsh",
+  "zoneId": 15,
+  "coords": [
+   [
+    55.4,
+    26.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4792,
+  "name": "\"Swamp Eye\" Jarl",
+  "zone": "Dustwallow Marsh",
+  "zoneId": 15,
+  "coords": [
+   [
+    55.4,
+    26.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 3 Soothing Spices to \"Swamp Eye\" Jarl in Dustwallow Marsh . Soothing Spices  ( 3 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 3713,
+   "name": "Soothing Spices",
+   "count": 3,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Soothing Spices",
+   "count": 3,
+   "type": "item",
+   "id": 3713
+  }
+ ],
+ "series": [
+  1218,
+  1206
+ ],
+ "points": [
+  {
+   "zoneId": 15,
+   "zone": "Dustwallow Marsh",
+   "point": "start",
+   "type": 1,
+   "id": 4792,
+   "name": "\"Swamp Eye\" Jarl",
+   "coord": [
+    55.4,
+    26.2
+   ],
+   "coords": [
+    [
+     55.4,
+     26.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 15,
+   "zone": "Dustwallow Marsh",
+   "point": "end",
+   "type": 1,
+   "id": 4792,
+   "name": "\"Swamp Eye\" Jarl",
+   "coord": [
+    55.4,
+    26.2
+   ],
+   "coords": [
+    [
+     55.4,
+     26.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 46,
+   "date": "2006-12-17T13:16:06-06:00",
+   "body": "For Alliance the closest vendor that sells Soothing Spice is Helenia Olden <Trade Supplies> found at 66, 51: \r\n\r\nhttps://www.wowhead.com/forever/npc=4897",
+   "replies": []
+  },
+  {
+   "rating": 28,
+   "date": "2007-04-29T22:58:12-05:00",
+   "body": "for horde i went here https://www.wowhead.com/forever/npc=8307",
+   "replies": [
+    "Top tip he's in the tower outside Crossroads on the road to Ratchet"
+   ]
+  },
+  {
+   "rating": 18,
+   "date": "2020-01-07T18:22:39-06:00",
+   "body": "Yup, you guessed it.  There is no place for Horde to buy soothing spices in Dustwallow.  Your choices are the baker outside the Crossroads, Thunder Bluff, or Freewind Post.  If you still need to turn in Stinky's Escape in  Ratchet, might as well hit the guy outside Crossroads coming or going.",
+   "replies": [
+    "Guy outside Crossroads works a treat don't even think of flying to Taurajo as you'll end up flying past it then to Crossroads anyway!"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-03-22T19:45:10-06:00",
+   "body": "The spice can be bought from the trade vendor in Freewind post",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-03-03T06:14:14-06:00",
+   "body": "55.26 is his location",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-03-17T18:21:04-06:00",
+   "body": "Where can i find the spices?",
+   "replies": [
+    "Soothing spices can be bought from most inn keepers or cooking supplies vendor.",
+    "For Alliance the closest vendor that sells Soothing Spice is Helenia Olden <Trade Supplies> found at 66, 51:\n\n[npc=4897]",
+    "She's located in a smallish building a little west of the Gryphon Master in Theramore Isle."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-08-20T22:55:09-05:00",
+   "body": "1350 xp at lvl 34 and the frog leg stews sell for 12s 40c for the 20 you get very nice quest",
+   "replies": []
+  }
+ ]
+}

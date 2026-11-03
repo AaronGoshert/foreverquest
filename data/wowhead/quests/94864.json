@@ -1,0 +1,109 @@
+{
+ "id": 94864,
+ "name": "Taming the Beast",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": -261,
+ "reqclass": 4,
+ "status": "new",
+ "xp": 840,
+ "start": {
+  "type": "npc",
+  "id": 251507,
+  "name": "Josephine Carson",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    41.2,
+    66.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251507,
+  "name": "Josephine Carson",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    41.2,
+    66.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Use the Taming Rod to tame a Young Forest Bear. Practice your skills, then return the Taming Rod to Josephine Carson .   Tame a Young Forest Bear  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 266254,
+   "name": "Taming Rod",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 251507,
+   "name": "Josephine Carson",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Tame a Young Forest Bear",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [
+  94792,
+  94863,
+  94864,
+  94793
+ ],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 251507,
+   "name": "Josephine Carson",
+   "coord": [
+    41.2,
+    66.2
+   ],
+   "coords": [
+    [
+     41.2,
+     66.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 251507,
+   "name": "Josephine Carson",
+   "coord": [
+    41.2,
+    66.2
+   ],
+   "coords": [
+    [
+     41.2,
+     66.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

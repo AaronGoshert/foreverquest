@@ -1,0 +1,201 @@
+{
+ "id": 92489,
+ "name": "Power Overwhelming",
+ "level": 33,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 16544,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3950,
+ "start": {
+  "type": "npc",
+  "id": 5694,
+  "name": "High Sorcerer Andromath",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    37.4,
+    81.8
+   ],
+   [
+    37.6,
+    81.4
+   ],
+   [
+    37.6,
+    81.6
+   ],
+   [
+    48.8,
+    87.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5694,
+  "name": "High Sorcerer Andromath",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    37.4,
+    81.8
+   ],
+   [
+    37.6,
+    81.4
+   ],
+   [
+    37.6,
+    81.6
+   ],
+   [
+    48.8,
+    87.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Slay the Mana Elemental in the City of Dalaran for High Sorcerer Andromath in Stormwind City.   Arcanic Enigma slain  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 5694,
+   "name": "High Sorcerer Andromath",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 246016,
+   "name": "Arcanic Enigma",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Arcanic Enigma slain",
+   "count": 1,
+   "type": "npc",
+   "id": 246016
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 5694,
+   "name": "High Sorcerer Andromath",
+   "coord": [
+    37.6,
+    81.6
+   ],
+   "coords": [
+    [
+     37.4,
+     81.8
+    ],
+    [
+     37.6,
+     81.4
+    ],
+    [
+     37.6,
+     81.6
+    ],
+    [
+     48.8,
+     87.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 5694,
+   "name": "High Sorcerer Andromath",
+   "coord": [
+    37.6,
+    81.6
+   ],
+   "coords": [
+    [
+     37.4,
+     81.8
+    ],
+    [
+     37.6,
+     81.4
+    ],
+    [
+     37.6,
+     81.6
+    ],
+    [
+     48.8,
+     87.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "requirement",
+   "type": 1,
+   "id": 246016,
+   "name": "Arcanic Enigma",
+   "coord": [
+    20.9,
+    63.4
+   ],
+   "coords": [
+    [
+     20.5,
+     64.3
+    ],
+    [
+     20.9,
+     63.4
+    ],
+    [
+     20.9,
+     63.5
+    ],
+    [
+     21,
+     61.9
+    ],
+    [
+     21.1,
+     63.3
+    ],
+    [
+     21.7,
+     63.3
+    ],
+    [
+     21.8,
+     62.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": -1,
+   "date": "2026-10-03T10:29:45-05:00",
+   "body": "Quest: [url=https://www.wowhead.com/forever/quest=92489/power-overwhelming]Power Overwhelming[/url]\r\nOthers: [url=https://www.wowhead.com/forever/zone=16544/city-of-dalaran#quests]City of Dalaran[/url]\r\nType: Dungeon\r\nReq: Level 24\r\nStart: Stormwind\r\nSharable: Yes\r\nFinal Rewards:\r\n[ul]\r\n[li]\r\n[url=https://www.wowhead.com/forever/item=251962/violet-sash]Violet Sash[/url]\r\n[/li]\r\n[li]\r\n[url=https://www.wowhead.com/forever/item=279849/runebound-gloves]Runebound Gloves[/url]\r\n[/li]\r\n[/ul]\r\nNote: These details are subject to change throughout Forever's development cycle. Accuracy is only guaranteed at the time of this posting.\r\nYou can find my Google Sheets document which is updated more frequently [url=https://docs.google.com/spreadsheets/d/1Hy3tqXAsSic6QvAf8Aew8TEagLj5ohU5bQS-mCbX9H0/edit?usp=sharing]here[/url]. It contains these types of details for all WoW Forever dungeons.",
+   "replies": []
+  }
+ ]
+}

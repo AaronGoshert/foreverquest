@@ -1,0 +1,103 @@
+{
+ "id": 96782,
+ "name": "Covert Extraction",
+ "level": 36,
+ "reqlevel": 24,
+ "side": 3,
+ "zoneId": -162,
+ "reqclass": 8,
+ "status": "new",
+ "xp": 2800,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 13085,
+  "name": "Myrokos Silentform",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    85,
+    80.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Find the Blade of House Perenolde and the Royal Aegis of Perenolde among the ruins of Alterac. Then, bring them to Myrokos Silentform . Blade of House Perenolde  ( 1 ) Royal Aegis of Perenolde  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 275635,
+   "name": "Blade of House Perenolde",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 13085,
+   "name": "Myrokos Silentform",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 275636,
+   "name": "Royal Aegis of Perenolde",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Blade of House Perenolde",
+   "count": 1,
+   "type": "item",
+   "id": 275635
+  },
+  {
+   "text": "Royal Aegis of Perenolde",
+   "count": 1,
+   "type": "item",
+   "id": 275636
+  }
+ ],
+ "series": [
+  96781,
+  96782
+ ],
+ "points": [
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 13085,
+   "name": "Myrokos Silentform",
+   "coord": [
+    85,
+    80.4
+   ],
+   "coords": [
+    [
+     85,
+     80.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-09T03:10:15-05:00",
+   "body": "This is easy to do with Master of Deception at level 30. There is currently no follow-up quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-12T19:09:49-05:00",
+   "body": "Shield is in the tower at 41.35, 40.16.\r\nSword in the tower at 38.5 58 surrounded by elites.\r\n\r\nThe items themselves weren't immediately guarded so easy to pick up. I only died once at lvl 29 without MoD. Elites would see from a mile away.",
+   "replies": []
+  }
+ ]
+}

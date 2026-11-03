@@ -1,0 +1,142 @@
+{
+ "id": 88758,
+ "name": "Sentiments of the Lost",
+ "level": 33,
+ "reqlevel": 28,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2650,
+ "start": {
+  "type": "npc",
+  "id": 271322,
+  "name": "Essene Villard",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    51.4,
+    9
+   ],
+   [
+    51.6,
+    9
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5683,
+  "name": "Corma Villard",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    49.2,
+    12
+   ],
+   [
+    49.4,
+    11.4
+   ],
+   [
+    50,
+    12.4
+   ],
+   [
+    50,
+    12.6
+   ],
+   [
+    50.6,
+    12.4
+   ],
+   [
+    50.6,
+    12.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Bring Essene's note back to Corma Villard . Essene's Note (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 284151,
+   "name": "Essene's note",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  87318,
+  88757,
+  88758
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 271322,
+   "name": "Essene Villard",
+   "coord": [
+    51.4,
+    9
+   ],
+   "coords": [
+    [
+     51.4,
+     9
+    ],
+    [
+     51.6,
+     9
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 5683,
+   "name": "Corma Villard",
+   "coord": [
+    50,
+    12.6
+   ],
+   "coords": [
+    [
+     49.2,
+     12
+    ],
+    [
+     49.4,
+     11.4
+    ],
+    [
+     50,
+     12.4
+    ],
+    [
+     50,
+     12.6
+    ],
+    [
+     50.6,
+     12.4
+    ],
+    [
+     50.6,
+     12.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

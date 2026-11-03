@@ -1,0 +1,104 @@
+{
+ "id": 996,
+ "name": "Corrupted Windblossom",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 3,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": {
+  "type": "object",
+  "id": 174600,
+  "name": "Corrupted Windblossom",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    57.5,
+    20
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 174600,
+  "name": "Corrupted Windblossom",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    57.5,
+    20
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Progress You have found a sickly, corrupted version of what appears to be a windblossom plant.  The berries that hang from the plant appear rotten and poisonous.  It desperately needs some sort of attention if it is to be turned back to normal. Cenarion Plant Salve  ( 2 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11516,
+   "name": "Cenarion Plant Salve",
+   "count": 2,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Cenarion Plant Salve",
+   "count": 2,
+   "type": "item",
+   "id": 11516
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 2,
+   "id": 174600,
+   "name": "Corrupted Windblossom",
+   "coord": [
+    57.5,
+    20
+   ],
+   "coords": [
+    [
+     57.5,
+     20
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 2,
+   "id": 174600,
+   "name": "Corrupted Windblossom",
+   "coord": [
+    57.5,
+    20
+   ],
+   "coords": [
+    [
+     57.5,
+     20
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 2,
+   "date": "2019-12-01T01:03:19-06:00",
+   "body": "Using a [url=https://www.wowhead.com/forever/item=11516/cenarion-plant-salve]salve[/url] on this will spawn a [url=https://www.wowhead.com/forever/object=164884/cleansed-windblossom]cleansed version[/url] that, when opened provides [url=https://www.wowhead.com/forever/item=11950/windblossom-berries]this[/url]",
+   "replies": []
+  }
+ ]
+}

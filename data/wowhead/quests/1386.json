@@ -1,0 +1,721 @@
+{
+ "id": 1386,
+ "name": "Assault on the Kolkar",
+ "level": 32,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 2550,
+ "start": {
+  "type": "npc",
+  "id": 5398,
+  "name": "Warug",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    74.8,
+    68
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5398,
+  "name": "Warug",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    74.8,
+    68
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Maintain your reputation with the Magram. Kill 12 Kolkar Centaurs , 12 Kolkar Scouts and 6 Kolkar Maulers , then return to Warug in the Magram Village in Desolace .   Kolkar Centaur slain  ( 12 )   Kolkar Scout slain  ( 12 )   Kolkar Mauler slain  ( 6 )   Magram Clan Centaur  ( Friendly )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 4632,
+   "name": "Kolkar Centaurs",
+   "count": 12,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 5398,
+   "name": "Warug",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 4633,
+   "name": "Kolkar Scout",
+   "count": 12,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 4634,
+   "name": "Kolkar Mauler",
+   "count": 12,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Kolkar Centaur slain",
+   "count": 12,
+   "type": "npc",
+   "id": 4632
+  },
+  {
+   "text": "Kolkar Scout slain",
+   "count": 12,
+   "type": "npc",
+   "id": 4633
+  },
+  {
+   "text": "Kolkar Mauler slain",
+   "count": 6,
+   "type": "npc",
+   "id": 4634
+  }
+ ],
+ "series": [
+  1385,
+  1386,
+  1369,
+  92743,
+  92841,
+  92846,
+  92847,
+  92873,
+  92894,
+  93066,
+  93072,
+  93188,
+  93196
+ ],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 5398,
+   "name": "Warug",
+   "coord": [
+    74.8,
+    68
+   ],
+   "coords": [
+    [
+     74.8,
+     68
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 5398,
+   "name": "Warug",
+   "coord": [
+    74.8,
+    68
+   ],
+   "coords": [
+    [
+     74.8,
+     68
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "requirement",
+   "type": 1,
+   "id": 4632,
+   "name": "Kolkar Centaur",
+   "coord": [
+    69.2,
+    42.2
+   ],
+   "coords": [
+    [
+     68,
+     47.4
+    ],
+    [
+     68.1,
+     46
+    ],
+    [
+     68.2,
+     52.6
+    ],
+    [
+     68.4,
+     38.8
+    ],
+    [
+     68.4,
+     43.4
+    ],
+    [
+     68.4,
+     43.6
+    ],
+    [
+     68.4,
+     45.4
+    ],
+    [
+     68.4,
+     47.6
+    ],
+    [
+     68.4,
+     51.4
+    ],
+    [
+     68.4,
+     52
+    ],
+    [
+     68.6,
+     39
+    ],
+    [
+     68.6,
+     43.4
+    ],
+    [
+     68.6,
+     45.4
+    ],
+    [
+     68.6,
+     45.6
+    ],
+    [
+     68.6,
+     47.8
+    ],
+    [
+     68.6,
+     52
+    ],
+    [
+     68.8,
+     43.6
+    ],
+    [
+     68.8,
+     50.4
+    ],
+    [
+     69.2,
+     40.2
+    ],
+    [
+     69.2,
+     42.2
+    ],
+    [
+     69.2,
+     46.6
+    ],
+    [
+     69.2,
+     48.8
+    ],
+    [
+     69.2,
+     51
+    ],
+    [
+     69.4,
+     41.4
+    ],
+    [
+     69.6,
+     40.4
+    ],
+    [
+     69.6,
+     42.2
+    ],
+    [
+     69.6,
+     42.6
+    ],
+    [
+     69.6,
+     50.6
+    ],
+    [
+     69.8,
+     50.4
+    ],
+    [
+     70,
+     39.2
+    ],
+    [
+     70,
+     41.2
+    ],
+    [
+     70,
+     45.4
+    ],
+    [
+     70,
+     45.6
+    ],
+    [
+     70,
+     47.4
+    ],
+    [
+     70,
+     47.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "requirement",
+   "type": 1,
+   "id": 4633,
+   "name": "Kolkar Scout",
+   "coord": [
+    68.6,
+    41.2
+   ],
+   "coords": [
+    [
+     68.4,
+     39
+    ],
+    [
+     68.4,
+     41.2
+    ],
+    [
+     68.4,
+     45.4
+    ],
+    [
+     68.4,
+     45.6
+    ],
+    [
+     68.4,
+     47.6
+    ],
+    [
+     68.4,
+     50.2
+    ],
+    [
+     68.6,
+     39
+    ],
+    [
+     68.6,
+     41.2
+    ],
+    [
+     68.6,
+     41.6
+    ],
+    [
+     68.6,
+     45.6
+    ],
+    [
+     68.6,
+     47.8
+    ],
+    [
+     68.6,
+     50
+    ],
+    [
+     69.2,
+     40
+    ],
+    [
+     69.2,
+     44.4
+    ],
+    [
+     69.2,
+     44.6
+    ],
+    [
+     69.2,
+     46.8
+    ],
+    [
+     69.2,
+     49
+    ],
+    [
+     70,
+     39.2
+    ],
+    [
+     70,
+     45.4
+    ],
+    [
+     70,
+     45.6
+    ],
+    [
+     70,
+     47.8
+    ],
+    [
+     70,
+     50
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "requirement",
+   "type": 1,
+   "id": 4634,
+   "name": "Kolkar Mauler",
+   "coord": [
+    72.8,
+    42.4
+   ],
+   "coords": [
+    [
+     70,
+     43.2
+    ],
+    [
+     70.2,
+     42.2
+    ],
+    [
+     70.2,
+     43.8
+    ],
+    [
+     70.2,
+     49.4
+    ],
+    [
+     70.2,
+     50.2
+    ],
+    [
+     70.4,
+     39.4
+    ],
+    [
+     70.4,
+     39.6
+    ],
+    [
+     70.4,
+     46
+    ],
+    [
+     70.4,
+     47.2
+    ],
+    [
+     70.6,
+     40
+    ],
+    [
+     70.6,
+     42.2
+    ],
+    [
+     70.6,
+     44.6
+    ],
+    [
+     70.6,
+     46.4
+    ],
+    [
+     70.6,
+     50.6
+    ],
+    [
+     70.8,
+     44.4
+    ],
+    [
+     70.8,
+     46.6
+    ],
+    [
+     70.8,
+     48.8
+    ],
+    [
+     70.8,
+     50.4
+    ],
+    [
+     71.4,
+     41
+    ],
+    [
+     71.4,
+     43.4
+    ],
+    [
+     71.4,
+     48
+    ],
+    [
+     71.6,
+     41
+    ],
+    [
+     71.6,
+     43.4
+    ],
+    [
+     71.6,
+     45.6
+    ],
+    [
+     71.6,
+     47.8
+    ],
+    [
+     72,
+     40.2
+    ],
+    [
+     72.2,
+     44.4
+    ],
+    [
+     72.2,
+     44.6
+    ],
+    [
+     72.2,
+     46.6
+    ],
+    [
+     72.4,
+     39.4
+    ],
+    [
+     72.4,
+     42.2
+    ],
+    [
+     72.4,
+     49.6
+    ],
+    [
+     72.6,
+     40.2
+    ],
+    [
+     72.8,
+     40.6
+    ],
+    [
+     72.8,
+     42.4
+    ],
+    [
+     73,
+     42.8
+    ],
+    [
+     73,
+     45.4
+    ],
+    [
+     73,
+     45.6
+    ],
+    [
+     73,
+     48
+    ],
+    [
+     73,
+     50
+    ],
+    [
+     73.2,
+     43.6
+    ],
+    [
+     73.4,
+     47.2
+    ],
+    [
+     73.4,
+     49
+    ],
+    [
+     73.4,
+     51.2
+    ],
+    [
+     73.4,
+     52
+    ],
+    [
+     73.6,
+     43.4
+    ],
+    [
+     73.6,
+     44.2
+    ],
+    [
+     73.6,
+     44.6
+    ],
+    [
+     73.6,
+     51.8
+    ],
+    [
+     73.8,
+     46.6
+    ],
+    [
+     74,
+     50.2
+    ],
+    [
+     74.2,
+     46
+    ],
+    [
+     74.2,
+     47.6
+    ],
+    [
+     74.2,
+     50.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 11,
+   "date": "2006-05-08T22:20:30-05:00",
+   "body": "I got this one :)\n\nALl 3 the Kolkar's are at the same place, a bit north of the questgiver.\n\nI found all of mine in a square of like ... 68,43 - 70,50\nThe Scouts were the hardest to find. \n\nTotal time ... it took half an hour maybe. And as 37 Priest I got between 90 - 100XP per kill.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2007-04-02T10:20:30-05:00",
+   "body": "&nbsp; &nbsp; The quest is easy enough, just head up the road through the coven to the Kolkar camp. The only problem I had was that [b]A-[/b] A party had wiped the camp previously and there was nothing there, and [b]B-[/b]I had a bit of trouble with the Maulers (they look like some other type of guy you don't need).\n&nbsp; &nbsp; The [b]Scouts[/b] predictably, are on the fringes and outermost parts of the camp; the [b]Centaur[/b] are more buff and are scattered amung the Scouts; and the [b]Maulers[/b] are towards the inner part of the camp, looking alike to the Centaur in appearance.\n&nbsp; &nbsp; &nbsp; (PS: All the guys you want run away at low HP levels.)",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-04-02T10:20:30-05:00",
+   "body": "I don't know why, but just like the person above me wrote... I didn't get this quest either. It took me straight to Broken Tears. Odd.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-12-12T13:26:07-06:00",
+   "body": "Easily. The prereq isn't actually required. \r\n\r\nHorde can go kill magram until the Gelkis like them, or vice versa, but they don't get a quest unitl they're done doing that.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-01-17T01:23:10-06:00",
+   "body": "Received 2550 experience at level 31, higher than listed amount as of Jan. 16, 2007.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-02-24T22:20:30-06:00",
+   "body": "I never got this quest...i just went straight to the next one. Anyone know why this would be?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-06T20:48:47-06:00",
+   "body": "Does killing the Kolkar affect your other Centaur faction?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-13T22:20:30-06:00",
+   "body": "THX for info",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-27T06:54:27-05:00",
+   "body": "I don't understand how this quest can be labeled as accessible to both sides, when the prereq is Alliance only?",
+   "replies": [
+    "Easily. The prereq isn't actually required.\n\nHorde can go kill magram until the Gelkis like them, or vice versa, but they don't get a quest unitl they're done doing that."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-21T22:16:05-05:00",
+   "body": "Found the village at 73,48.  They must have fixed the earlier problem because I found plenty of each type to kill.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-05T21:14:54-06:00",
+   "body": "Finding enough centaurs to complete this quest seems to be a real pain. I've only been able to find 2 different ones in the whole camp.",
+   "replies": [
+    "u can find lots of them just upper of thc NPC who give u the quest,\nin canter-right of the MAP"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-09T13:25:39-05:00",
+   "body": "The Kolkar scouts are really really rare... thats a pain in the a$$.",
+   "replies": [
+    "The key to this quest is killing as many of the centaurs as you can in a small area. They respawn quick, and different kinds of centaurs take up the spawns of the others. You'll probably notice the ones that don't have quests for them are plentiful, and this is the reason."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-09T13:26:29-05:00",
+   "body": "Finding enough scouts is really hard...\n\nthis one is taking a lot of time",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-15T16:21:11-05:00",
+   "body": "As a hunter I didnt have a hard time with any of the spawns, i just turned on track humnoid and found them on the radar, too easy IMO",
+   "replies": []
+  }
+ ]
+}

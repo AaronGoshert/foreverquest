@@ -1,0 +1,163 @@
+{
+ "id": 92850,
+ "name": "The Missing Scholar",
+ "level": 10,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 840,
+ "start": {
+  "type": "npc",
+  "id": 253284,
+  "name": "Fillion Flamebreeze",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    52,
+    69.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253204,
+  "name": "Dondallion Whisperwind",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    66.2,
+    79.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Slay the Shriekling Matriarch in the Shriekling Den then return its head to Fillion Flamebreeze in Valanaar. Shriekling Matriarch's Head  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 257107,
+   "name": "Shriekling Matriarch's Head",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Shriekling Matriarch's Head",
+   "count": 1,
+   "type": "item",
+   "id": 257107
+  }
+ ],
+ "series": [
+  92849,
+  92850,
+  99260,
+  92840,
+  92834,
+  92860
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 253284,
+   "name": "Fillion Flamebreeze",
+   "coord": [
+    52,
+    69.4
+   ],
+   "coords": [
+    [
+     52,
+     69.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 253204,
+   "name": "Dondallion Whisperwind",
+   "coord": [
+    66.2,
+    79.8
+   ],
+   "coords": [
+    [
+     66.2,
+     79.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 253285,
+   "name": "Fillion Flamebreeze",
+   "coord": [
+    66.2,
+    79.8
+   ],
+   "coords": [
+    [
+     66.2,
+     79.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 253283,
+   "name": "Shriekling Matriarch",
+   "coord": [
+    51.9,
+    65.6
+   ],
+   "coords": [
+    [
+     51.9,
+     65.6
+    ],
+    [
+     52.2,
+     66.6
+    ],
+    [
+     52.3,
+     65.1
+    ],
+    [
+     52.6,
+     64.8
+    ],
+    [
+     52.6,
+     66.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2026-09-20T19:38:47-05:00",
+   "body": "This shouldn't be a hard situation to figure out where to go to kill the monster for the quest, but if you are like me and gather every quest and just do what is closest first, you might have lost track of where the cave is and that the monster is inside the cave. You might end up on top of the mountain wondering, \"Where is this mob at!\"\r\n#1 The monster is inside the cave you brought the dude out of; coords for the cave entrance are:\r\n/way 51.44 68.99. \r\nLook north; it's impossible to miss.",
+   "replies": []
+  }
+ ]
+}

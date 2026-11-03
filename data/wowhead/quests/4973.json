@@ -1,0 +1,341 @@
+{
+ "id": 4973,
+ "name": "Counting Out Time",
+ "level": 56,
+ "reqlevel": 53,
+ "side": 3,
+ "zoneId": 28,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 580,
+ "start": {
+  "type": "npc",
+  "id": 10667,
+  "name": "Chromie",
+  "zone": "Western Plaguelands",
+  "zoneId": 28,
+  "coords": [
+   [
+    39.4,
+    66.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 10667,
+  "name": "Chromie",
+  "zone": "Western Plaguelands",
+  "zoneId": 28,
+  "coords": [
+   [
+    39.4,
+    66.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Locate 5 Andorhal Watches amongst the rubble of the city, and return with them to Chromie in the Andorhal Inn, Western Plaguelands . Andorhal Watch  ( 5 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 10667,
+   "name": "Chromie",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 12638,
+   "name": "Andorhal Watch",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Andorhal Watch",
+   "count": 5,
+   "type": "item",
+   "id": 12638
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 28,
+   "zone": "Western Plaguelands",
+   "point": "start",
+   "type": 1,
+   "id": 10667,
+   "name": "Chromie",
+   "coord": [
+    39.4,
+    66.8
+   ],
+   "coords": [
+    [
+     39.4,
+     66.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 28,
+   "zone": "Western Plaguelands",
+   "point": "end",
+   "type": 1,
+   "id": 10667,
+   "name": "Chromie",
+   "coord": [
+    39.4,
+    66.8
+   ],
+   "coords": [
+    [
+     39.4,
+     66.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 33,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "Used on Araj the summoner, the 61 elite in Andorhal",
+   "replies": []
+  },
+  {
+   "rating": 22,
+   "date": "2005-02-09T18:16:01-06:00",
+   "body": "They are found in small gray lockboxes. Mostly found in open destroyed houses. Seems to be very few around though, so very hard to find.\n\nCheck out the houses that have been burned down, they seem to be around 2 per building that has been razed to the ground.",
+   "replies": []
+  },
+  {
+   "rating": 21,
+   "date": "2006-01-03T22:40:03-06:00",
+   "body": "Okay for you people that keep saying they arn't in each burned down house l have a few ideas to why you can't find them.\n\n1.) Your bloody blind!\n2.) Not looking hard enough (probably, but goes with the #1 reason.)\n3.) LOOK IN CORNERS!\n4.) Someone has gotten to it 1st - move on!\n5.) Color blind - these lockboxes are brownish.\n\nLOOK BLOODY HARDER! These stoopid lockboxes arn't hard to notice they're in the inside corner of each burned down house. If you haven't found one in each then that mean there are others that are doing it and got there 1st - so move on. Plus don't think its that long of a respawn for these lockboxes. Simple and plain words - LOOK BY THE CORNERS!\n\nGood luck ^^",
+   "replies": [
+    "Regarding #5. Don't look for something of a different color. These lockboxes have the same color as their surroundings. Look for the shape."
+   ]
+  },
+  {
+   "rating": 20,
+   "date": "2006-12-18T08:28:29-06:00",
+   "body": "If you're a Dwarf you can use Find Treasure to make this quest even easier.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "42.72 \n46.71 \n40.74 \n44.70\n42.69",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "after doing first time\nyou get 575xps every time after\n\nlots of major healing drops here though",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "42.72\n46.71\n40.74\nWhere I found them.....\nthe last one i found wasn't in ruin",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "There are 3 boxes in the burned out houses immidiately surrounding Chromie.&nbsp; 2 to the south and one to the north.\n38,68\n38,69\n40,68\nThe respawn time on the boxes is 5 MINUTES",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "I never comment on these things but I felt I can be helpful here. Below I listed the coordinance to the nearest watches to Chromie.\n38,70\n40,68\n41,67\n40,66\n42,69\n39,68\nI took these while standing on the steel boxes.\nFor those who dont have Cosmo...just look in the corners of the ruined houses by Chromie (one who gave u the quest)\nEach ruin has one in the corner might need to kill 1 creature per box sometimes none. There are many more boxes with the watch but I figured why travel all around when u can stay by quest giver side. Did the quest 3 times in a row.\n\n57 Druid\nMistydeam\nSilvermoon",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-11-28T10:40:03-06:00",
+   "body": "This quest is easy. i soloed it in like 3-5 min.\nYou dont need to go inside the houses, you can easily open the box from outside. [b]Thrugh the wall.[/b]\nBut i cant figure out if the quest is bugged or if its ment to be done 3 times or more.. \n\nWell good luck..",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "I cant seem to find any of these.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "42.72 \n46.71 \n40.74 \n44.70\n42.69",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "it's repeatable",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-04-23T10:40:03-05:00",
+   "body": "if you plan on doing araj the summoner, anytime soon.... then do this quest over and over again .... well at least if you are low on rep at AD ... \n\n1. Obtain the quest from cromie\n2. go to the burned down houses scatered around Andorhal (lazy way : when you exit the in, there are 2 houses on the right and 3 on the left, all with boxes inside, Kill the mobs, loot chests - took 6 min's 56 hunter... Beauty part : when you deliver the quest to cromie you should take the quest again (I did) went out, thourgh that I would use another 6 min's, but hey took me les than 2 min's the 2nd time, because chests spawn faster than mobs... and hey 3rd time again .... but the the 4th time I had to kill again... so I wanted to get a patern for the respawns .... did the quest 20 times, killed mobs 6 times ... whee xp.... now lvl 57 :P .... now I only need to see if the dampener stacks on the summoner .... well the damage is instant, I know that, but what about the 25% less dam.... and if it does stack how .... -25, -25 , -25 , -25 / (-25)(-25)(-25)(-25) ....\nwork work work..",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-09T10:40:03-06:00",
+   "body": "Easy quest ever i think... maybe with detailed coords some ppl cant still do it. quite annoying. quest can be done in 4minutes.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-03-17T22:40:03-05:00",
+   "body": "are you supposed to do this quest over and over agin?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-08T10:11:15-05:00",
+   "body": "The best way to do it is to go to the houses all around where you get the quest from and then hand it in, by the time you go to the first house for the second time, the box will have respawned but the mobs won't have =O\n\nSo technically you kill 1 wave of mobs for 2 rounds",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-15T04:08:06-05:00",
+   "body": "is there a limit to how many times you can repeat this quest?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "They are found in small gray lockboxes. Mostly found in open destroyed houses. Seems to be very few around though, so very hard to find.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "i soloed this easly only killing 1 mob at each box. if you just stealth around between the ruined buildings 1 box at each building couldnt get easier. good luck fellow rogues",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "when the guy said never ends he means you can do it as many times as you want, not that the boxes are super hard to find.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-02-09T10:40:03-06:00",
+   "body": "they are also grey. quest is really easy just look good. most are around the \"quest house\". nice xp for 5 min.\n\nGL",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-17T22:40:03-06:00",
+   "body": "how many times u have to do this quest? i have dopne once i gat the item but again ho give me the quest plz answer",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-02T19:09:15-05:00",
+   "body": "The quest name may refer to a Genesis song from The Lamb Lies Down on Broadway.\n\nThe subject matter of the quest doesn't really have any relation to the quest, though. (The song is about a guy who is reading a sexual manual and trying to figure out which buttons to press.)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-07T11:14:44-05:00",
+   "body": "I think I did these quests in the wrong order. lol I killed Araj last night and now I working on this quest. Oh well xp is xp. :p",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "They seemed to be near the houses that are burned down.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "Are you supposed to do this quest multiple times?&nbsp; After i finished it I went back and he gave it to me again",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "Did this quest today with one other guild member and got ten of the stop watches in less then 30 min.&nbsp; Just search around in the broken houses, one in each, sometimes two.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-22T22:40:03-05:00",
+   "body": "Since the 1.4 Patch has gone in, and Blizzard have remodelled Andorhal, the Inn has now been flattened, much like the rest of the place.\n\nHas anyone seen Chromie?\nAny help is appreciated.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-19T15:18:53-05:00",
+   "body": "Very easy - especially if you're a dwarf. Use the find treasure skill as a dwarf and all the lock boxes will show up on your minimap.\n\nCheers",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-18T01:04:13-05:00",
+   "body": "I was five for five out of houses that I searched.... started at the southern entrance to the ruins and worked my way around... the boxes were in every burned-down house, located in the corners.  Maybe I was just having a lucky day! :P",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-24T17:20:09-06:00",
+   "body": "I was doing this quest and my sister IM'd me with this Jamie Kenedy video (Circle Circle Dot Dot) I put my Druid into stealth and stayed by where I had gotten the latest lock box. (40,68) I hoped I wouldn't be hurt while away. Well in the time it took to listen to the song, I came back and the box had respawned and the MOB had not. Got another watch. Listened to the song again while stealthed, came back, fought one guy, got another watch...\nRinse, repeat.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-20T06:56:39-06:00",
+   "body": "One-time use only.  Supposedly best used against tough enemies in Western & Eastern Plaguelands.  One particularly good target is Araj in Andorhal.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-05T23:15:29-05:00",
+   "body": "Repeating it gives 575xp - sadly the rewards aren't stackable :(",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-05T09:48:26-05:00",
+   "body": "Not even sure if this quest chain is worthing doing... [:cry:] Item's seem bunk to me.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-11-30T18:54:04-06:00",
+   "body": "Is the Dampener reuseable?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-12T22:43:26-05:00",
+   "body": "If two people would use their dampener against the same opponent, such as Araj the summoner, would the effects stack?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-19T23:52:42-06:00",
+   "body": "the dampener is not resuable and only works against araj. not sure if they stack. you don't really need them to take him down any way.",
+   "replies": []
+  },
+  {
+   "rating": -11,
+   "date": "2005-01-24T04:41:08-06:00",
+   "body": "where r the watches pls",
+   "replies": []
+  }
+ ]
+}

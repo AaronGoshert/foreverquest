@@ -1,0 +1,105 @@
+{
+ "id": 8261,
+ "name": "Arathor Standard Care Package",
+ "level": 44,
+ "reqlevel": 35,
+ "side": 1,
+ "zoneId": 3358,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 375,
+ "start": {
+  "type": "npc",
+  "id": 15127,
+  "name": "Samuel Hawke",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    46,
+    45.2
+   ],
+   [
+    46,
+    45.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 15127,
+  "name": "Samuel Hawke",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    46,
+    45.2
+   ],
+   [
+    46,
+    45.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Completion You've certainly begun to prove yourself to us, <name>.  As a reward, please take this care package!  Inside it you'll find rations and bandages that are usable only inside Arathi Basin . As you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase.  Rations become available when you are Friendly with us, and bandages when you are Honored.   The League of Arathor  ( Friendly )",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "start",
+   "type": 1,
+   "id": 15127,
+   "name": "Samuel Hawke",
+   "coord": [
+    46,
+    45.2
+   ],
+   "coords": [
+    [
+     46,
+     45.2
+    ],
+    [
+     46,
+     45.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 1,
+   "id": 15127,
+   "name": "Samuel Hawke",
+   "coord": [
+    46,
+    45.2
+   ],
+   "coords": [
+    [
+     46,
+     45.2
+    ],
+    [
+     46,
+     45.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2005-09-23T21:41:37-05:00",
+   "body": "This is a gift you receive from one of the NPCs outside the Alliance (maybe even Horde) entrance to Arathi Basin. I received it after getting Friendly with the League of Arathor. I got a stack of bandages and bread (both only usable in the Battleground). I'm not sure if the gift varies depending on your level.",
+   "replies": []
+  }
+ ]
+}

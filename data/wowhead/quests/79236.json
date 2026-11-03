@@ -1,0 +1,97 @@
+{
+ "id": 79236,
+ "name": "Cherry for Your Thoughts?",
+ "level": 40,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 1550,
+ "start": {
+  "type": "npc",
+  "id": 215643,
+  "name": "Tokal",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    27,
+    77.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 215643,
+  "name": "Tokal",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    27,
+    77.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Bring a Cherry Grog to Tokal , in Booty Bay, to hear the rest of her story. Cherry Grog  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 4600,
+   "name": "Cherry Grog",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Cherry Grog",
+   "count": 1,
+   "type": "item",
+   "id": 4600
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "start",
+   "type": 1,
+   "id": 215643,
+   "name": "Tokal",
+   "coord": [
+    27,
+    77.2
+   ],
+   "coords": [
+    [
+     27,
+     77.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "end",
+   "type": 1,
+   "id": 215643,
+   "name": "Tokal",
+   "coord": [
+    27,
+    77.2
+   ],
+   "coords": [
+    [
+     27,
+     77.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

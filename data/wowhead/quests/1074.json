@@ -1,0 +1,212 @@
+{
+ "id": 1074,
+ "name": "Ineptitude + Chemicals = Fun",
+ "level": 21,
+ "reqlevel": 17,
+ "side": 1,
+ "zoneId": 406,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 830,
+ "start": {
+  "type": "npc",
+  "id": 4081,
+  "name": "Lomac Gearstrip",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    71.2,
+    50.6
+   ],
+   [
+    71.2,
+    52.8
+   ],
+   [
+    71.4,
+    50.4
+   ],
+   [
+    71.4,
+    52.2
+   ],
+   [
+    71.8,
+    50
+   ],
+   [
+    71.8,
+    51.4
+   ],
+   [
+    71.8,
+    51.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4077,
+  "name": "Gaxim Rustfizzle",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59.4,
+    67.2
+   ],
+   [
+    59.6,
+    67
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring the Nitromirglyceronium back to Gaxim Rustfizzle in Stonetalon. NG-5 (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 4077,
+   "name": "Gaxim Rustfizzle",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5732,
+   "name": "NG-5",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  1072,
+  1073,
+  1074
+ ],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 4081,
+   "name": "Lomac Gearstrip",
+   "coord": [
+    71.8,
+    51.6
+   ],
+   "coords": [
+    [
+     71.2,
+     50.6
+    ],
+    [
+     71.2,
+     52.8
+    ],
+    [
+     71.4,
+     50.4
+    ],
+    [
+     71.4,
+     52.2
+    ],
+    [
+     71.8,
+     50
+    ],
+    [
+     71.8,
+     51.4
+    ],
+    [
+     71.8,
+     51.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 4077,
+   "name": "Gaxim Rustfizzle",
+   "coord": [
+    59.4,
+    67.2
+   ],
+   "coords": [
+    [
+     59.4,
+     67.2
+    ],
+    [
+     59.6,
+     67
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 5,
+   "date": "2005-09-26T07:06:11-05:00",
+   "body": "59, 67",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-11-14T11:30:54-06:00",
+   "body": "These quests are merely to up your reputation with Gnomeregan, Stormwind and Iron Forge.\n\nIt cost me more than I got in return. If you don't want to spend money to get these quests then it will take a long while. Especially since you have to goto Stormwind and Iron Forge. And then back to the Stonetalon Mountains.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-01-01T22:11:22-06:00",
+   "body": "This is my first posting.  There are two follow on quests. Operation Alpha and Beta.  I finished alpha and am in stasis on beta(tougher).  However new quests are submitted I would at least like to get them shown so people know the fetching leads to follow on missions.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-13T13:49:27-05:00",
+   "body": "The quest Devils in Westfall needs also been done to get the followup Covert ops, both Alpha and Beta \n\nhttp://wow.allakhazam.com/db/quest.html?source=live;wquest=1076",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-10T18:12:20-06:00",
+   "body": "A simple run back to Gaxim to give him the explosives. Was worth 825 exp to me, not the 1350 noted.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-19T14:39:23-05:00",
+   "body": "59,67",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-20T04:38:01-06:00",
+   "body": "At lvl 40 I decided to find out why several quests in Stonetalon weren't available to me.\n\nCovert ops, both Alpha and Beta became available\nafter completing this seemingly meningless quest,\nthose should be nested together...\n\nContinue reading under those two quests, more info shall be added shortly.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-28T09:36:24-06:00",
+   "body": "Ok, just finished this . . . but I'm not being offered the follow-ons . . .Any ideas?\n\nFenixrisen\n28 Night Elf Hunter\nKhaz-goroth",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-22T18:00:39-06:00",
+   "body": "Wheres the dude that starts this q? Coords pls",
+   "replies": []
+  }
+ ]
+}

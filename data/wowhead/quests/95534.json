@@ -1,0 +1,159 @@
+{
+ "id": 95534,
+ "name": "Strahnbrad Mystery",
+ "level": 36,
+ "reqlevel": 25,
+ "side": 3,
+ "zoneId": 36,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2800,
+ "start": null,
+ "end": null,
+ "patch": "1.60.1.70205",
+ "objectiveText": "Solve the mystery of Strahnbrad and report your findings in town in Hillsbrad.   Discover the fiery mystery of Strahnbrad  ( 1 ) Singed Note  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 217305,
+   "name": "Discover the fiery mystery of Strahnbrad",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 213421,
+   "name": "Singed Note",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Discover the fiery mystery of Strahnbrad",
+   "count": 1,
+   "type": "npc",
+   "id": 217305
+  },
+  {
+   "text": "Singed Note",
+   "count": 1,
+   "type": "item",
+   "id": 213421
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 267,
+   "zone": "Hillsbrad Foothills",
+   "point": "end",
+   "type": 1,
+   "id": 2378,
+   "name": "Kundric Zanden",
+   "coord": [
+    48.6,
+    59
+   ],
+   "coords": [
+    [
+     48.6,
+     59
+    ],
+    [
+     48.6,
+     59.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 267,
+   "zone": "Hillsbrad Foothills",
+   "point": "end",
+   "type": 1,
+   "id": 2402,
+   "name": "Shara Blazen",
+   "coord": [
+    63.6,
+    21
+   ],
+   "coords": [
+    [
+     63.4,
+     20.8
+    ],
+    [
+     63.6,
+     21
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "requirement",
+   "type": 1,
+   "id": 217305,
+   "name": "Ancient Fire Elemental",
+   "coord": [
+    60,
+    45.6
+   ],
+   "coords": [
+    [
+     59.4,
+     46.4
+    ],
+    [
+     60,
+     45.4
+    ],
+    [
+     60,
+     45.6
+    ],
+    [
+     60,
+     46.6
+    ],
+    [
+     61.4,
+     46.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 8,
+   "date": "2026-10-03T17:45:43-05:00",
+   "body": "It is the same as the Hot Streak rune from SoD. \r\nYou have to get a mage to flamestrike ontop of the two bellows to summon a fire elemental. \r\nKill it to complete the quest. \r\nQuest starts from note dropped by the casters in the town.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2026-10-05T12:22:27-05:00",
+   "body": "Hey, it works with rain of fire too, and probably with any fire damage (to make the elemental spawn).",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2026-10-05T15:30:25-05:00",
+   "body": "Also works with shaman searing totem + fire nova",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-09T05:05:56-05:00",
+   "body": "Warlock Rain of Fire worked fine, the key is use it inside the blacksmith shop where the forge vents are. I tried using a campfire but you can't make one inside. I tried a campfire outside and that didn't work. I also tried getting the mage mob to shoot fireballs at me all over the area, no help.\nThe conclusion is an aoe fire spell works but i can't see another way.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-14T18:26:54-05:00",
+   "body": "Can confirm this drops for alliance and the quest is attainable by the alliance. I have added a screenshot for extra proof.\r\n\r\nMine dropped from an Argus Shadow Mage on Beta",
+   "replies": []
+  }
+ ]
+}

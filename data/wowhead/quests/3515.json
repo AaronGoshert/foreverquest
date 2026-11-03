@@ -1,0 +1,23 @@
+{
+ "id": 3515,
+ "name": "<UNUSED>",
+ "level": 42,
+ "reqlevel": 45,
+ "side": 3,
+ "zoneId": 16,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 3450,
+ "start": null,
+ "end": null,
+ "patch": "1.13.2.30786",
+ "objectiveText": "Rewards You will receive: Gains Upon completion of this quest you will gain: See if you've already completed this by typing: /run print(C_QuestLog.IsQuestFlaggedCompleted(3515)) Related new Listview({ data: lv_comments0, id: 'comments', name: WH.TERMS.comments, parent: lkljbjkb574, sourceScopes: true, tabOpts: {className: 'ugc-tab ugc-tab-comments'}, tabs: tabsRelated, template: 'comment', });new Listview({ data: lv_screenshots, id: 'screenshots', name: WH.TERMS.screenshots, parent: 'lklj",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [
+  3515
+ ],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

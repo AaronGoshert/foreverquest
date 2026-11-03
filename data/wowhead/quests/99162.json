@@ -1,0 +1,189 @@
+{
+ "id": 99162,
+ "name": "Treacherous Cold",
+ "level": 8,
+ "reqlevel": 5,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 700,
+ "start": {
+  "type": "npc",
+  "id": 1253,
+  "name": "Father Gavin",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    57.4,
+    44.8
+   ],
+   [
+    57.6,
+    44.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1253,
+  "name": "Father Gavin",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    57.4,
+    44.8
+   ],
+   [
+    57.6,
+    44.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect the rifles of fallen mountaineers. Stoneanvil's Rifle  ( 1 ) Sunhammer's Rifle  ( 1 ) Coalbeard's Rifle  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 286360,
+   "name": "Stoneanvil's Rifle",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 286359,
+   "name": "Sunhammer's Rifle",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 286358,
+   "name": "Coalbeard's Rifle",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Stoneanvil's Rifle",
+   "count": 1,
+   "type": "item",
+   "id": 286360
+  },
+  {
+   "text": "Sunhammer's Rifle",
+   "count": 1,
+   "type": "item",
+   "id": 286359
+  },
+  {
+   "text": "Coalbeard's Rifle",
+   "count": 1,
+   "type": "item",
+   "id": 286358
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1253,
+   "name": "Father Gavin",
+   "coord": [
+    57.6,
+    44.8
+   ],
+   "coords": [
+    [
+     57.4,
+     44.8
+    ],
+    [
+     57.6,
+     44.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1253,
+   "name": "Father Gavin",
+   "coord": [
+    57.6,
+    44.8
+   ],
+   "coords": [
+    [
+     57.4,
+     44.8
+    ],
+    [
+     57.6,
+     44.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2026-09-20T16:57:30-05:00",
+   "body": "These guns are next to fallen dwarven mountaineers.\r\n\r\n[url=https://www.wowhead.com/forever/maps?data=1:520440600500530590]Here's[/url] a map to all 3.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2026-09-25T20:30:09-05:00",
+   "body": "cant loot at least sunhammer rifle. says \"no loot\"",
+   "replies": [
+    "8 days later same problem",
+    "Still bugged despite today's hotfix that was supposed to solve such issues."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2026-10-02T10:55:28-05:00",
+   "body": "I was not able to loot Sunhammer's rifle, getting an error that said \"There is no loot\"\r\n/reload did not fix the issue\r\n\r\nSolved this instead by turning off Auto-Loot (no clue if necessary) then logging out, and then back in.",
+   "replies": [
+    "This did not work for me. Still bugged"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-21T21:19:07-05:00",
+   "body": "Coldbeard - follow the frozen river west of the quest giver. Dwarf is under the tree that has fallen across the river\r\n\r\nSunhammer - southeast of the quest giver. Dwarf lies next to a cart on the small path up to Vagash's cave\r\n\r\nStoneanvil - almost straight south of the quest giver in a valley. Dwarf lies next to a cart out in the open.",
+   "replies": [
+    "Stoneanvil's location is more south-southwest of the quest giver. Go south to the valley that heads west, then look for the mentioned cart next to a tree on the south side of the valley to the west."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-04T08:40:58-05:00",
+   "body": "Bugged. Tried all tricks mentioned above, cleared cache, logged off, /reload.. nothing worked.\r\nCan't pick any gun. Tried all 3 in case there is a specific order, nada.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-05T00:47:33-05:00",
+   "body": "I too am getting the \"There is no loot.\" message when I try and loot Mountaineer Stoneanvil's rifle. I had no problem looting Sunhammer's and Coalbeard's rifles.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-09T10:20:46-05:00",
+   "body": "I had a problem with Coalbeard's Rifle, and as of Oct 9, 2026, I was able to loot it successfully!",
+   "replies": []
+  }
+ ]
+}

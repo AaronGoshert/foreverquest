@@ -1,0 +1,137 @@
+{
+ "id": 92751,
+ "name": "Detonation at a Distance",
+ "level": 16,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 115,
+ "start": {
+  "type": "npc",
+  "id": 1325,
+  "name": "Jasper Fel",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    77.8,
+    59.6
+   ],
+   [
+    78.2,
+    58.4
+   ],
+   [
+    78.2,
+    58.8
+   ],
+   [
+    80,
+    70
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11026,
+  "name": "Sprite Jumpsprocket",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    54.6,
+    8
+   ],
+   [
+    54.8,
+    8.8
+   ],
+   [
+    61.8,
+    30.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring the Remote Detonator Kit to Sprite Jumpsprocket in the Dwarven District of Stormwind. Remote Detonator Kit (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 254552,
+   "name": "Remote Detonator Kit",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 1325,
+   "name": "Jasper Fel",
+   "coord": [
+    78.2,
+    58.8
+   ],
+   "coords": [
+    [
+     77.8,
+     59.6
+    ],
+    [
+     78.2,
+     58.4
+    ],
+    [
+     78.2,
+     58.8
+    ],
+    [
+     80,
+     70
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 11026,
+   "name": "Sprite Jumpsprocket",
+   "coord": [
+    54.6,
+    8
+   ],
+   "coords": [
+    [
+     54.6,
+     8
+    ],
+    [
+     54.8,
+     8.8
+    ],
+    [
+     61.8,
+     30.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-26T08:34:20-05:00",
+   "body": "\"Would this have anything to do with your activities in Moonbrook? Don't look surprised. SI:7 stays apprised of all that goes on in Stormwind's lands.\"\n\nIt's good to know that, even with bandits, orc's, and literally almost everything in Duskwoods threatening to tear Stormwind and her people apart. they can still muster up the resources to spy on their own citizens.\n\n10/10 depiction of real life government priorities.",
+   "replies": []
+  }
+ ]
+}

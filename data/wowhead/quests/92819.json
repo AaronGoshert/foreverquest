@@ -1,0 +1,162 @@
+{
+ "id": 92819,
+ "name": "Destruction in Deadmines",
+ "level": 18,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 135,
+ "start": {
+  "type": "npc",
+  "id": 253279,
+  "name": "Alba Fairmoon",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    38.4,
+    83.4
+   ],
+   [
+    38.4,
+    83.6
+   ],
+   [
+    38.6,
+    83.4
+   ],
+   [
+    38.6,
+    83.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253279,
+  "name": "Alba Fairmoon",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    38.4,
+    83.4
+   ],
+   [
+    38.4,
+    83.6
+   ],
+   [
+    38.6,
+    83.4
+   ],
+   [
+    38.6,
+    83.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Use the detonator.   Detonator used  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 266995,
+   "name": "Detonator used",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Detonator used",
+   "count": 1,
+   "type": "npc",
+   "id": 266995
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "start",
+   "type": 1,
+   "id": 253279,
+   "name": "Alba Fairmoon",
+   "coord": [
+    38.6,
+    83.6
+   ],
+   "coords": [
+    [
+     38.4,
+     83.4
+    ],
+    [
+     38.4,
+     83.6
+    ],
+    [
+     38.6,
+     83.4
+    ],
+    [
+     38.6,
+     83.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 1,
+   "id": 253279,
+   "name": "Alba Fairmoon",
+   "coord": [
+    38.6,
+    83.6
+   ],
+   "coords": [
+    [
+     38.4,
+     83.4
+    ],
+    [
+     38.4,
+     83.6
+    ],
+    [
+     38.6,
+     83.4
+    ],
+    [
+     38.6,
+     83.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 14,
+   "date": "2026-09-23T17:42:41-05:00",
+   "body": "No item rewards, just exp and rep? Seems kinda weird for such a long chain, also involving a dungeon, to only reward exp.",
+   "replies": [
+    "AND requer 10 coarse dynamite, that is on beta 11-12s ea atm.",
+    "now rough dynamite",
+    "Still not at all worth it."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-23T07:24:15-05:00",
+   "body": "The short RP in this quest gives me a very retail feeling of \"War is bad mkay?\"",
+   "replies": []
+  }
+ ]
+}

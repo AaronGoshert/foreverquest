@@ -1,0 +1,229 @@
+{
+ "id": 91777,
+ "name": "Rare Books",
+ "level": 7,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 790,
+ "start": {
+  "type": "npc",
+  "id": 240,
+  "name": "Marshal Dughan",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    42.2,
+    65.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 951,
+  "name": "Brother Paxton",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    49.4,
+    40.4
+   ],
+   [
+    49.6,
+    40.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Recover \" Geomancy for Curious Young Wizards \" and \" Arcane Explainer: Magical Stuff in Simple Words \" and return them to Brother Paxton inside Northshire's Abbey. Geomancy for Curious Young Wizards  ( 1 ) Arcane Explainer: Magical Stuff in Simple Words  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 248003,
+   "name": "Geomancy for Curious Young Wizards",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 951,
+   "name": "Brother Paxton",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 248004,
+   "name": "Arcane Explainer: Magical Stuff in Simple Words",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Geomancy for Curious Young Wizards",
+   "count": 1,
+   "type": "item",
+   "id": 248003
+  },
+  {
+   "text": "Arcane Explainer: Magical Stuff in Simple Words",
+   "count": 1,
+   "type": "item",
+   "id": 248004
+  }
+ ],
+ "series": [
+  91741,
+  91743,
+  91745,
+  91752,
+  91758,
+  91772,
+  91775,
+  91777
+ ],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 240,
+   "name": "Marshal Dughan",
+   "coord": [
+    42.2,
+    65.8
+   ],
+   "coords": [
+    [
+     42.2,
+     65.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 951,
+   "name": "Brother Paxton",
+   "coord": [
+    49.4,
+    40.4
+   ],
+   "coords": [
+    [
+     49.4,
+     40.4
+    ],
+    [
+     49.6,
+     40.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 471,
+   "name": "Mother Fang",
+   "coord": [
+    61.7,
+    47.6
+   ],
+   "coords": [
+    [
+     60.4,
+     47
+    ],
+    [
+     61.4,
+     47.4
+    ],
+    [
+     61.4,
+     48
+    ],
+    [
+     61.4,
+     48.8
+    ],
+    [
+     61.5,
+     47.4
+    ],
+    [
+     61.7,
+     47.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 248474,
+   "name": "Geosculptor Yip",
+   "coord": [
+    61.3,
+    48.9
+   ],
+   "coords": [
+    [
+     60.3,
+     49.4
+    ],
+    [
+     60.3,
+     49.9
+    ],
+    [
+     60.8,
+     49.5
+    ],
+    [
+     60.9,
+     51.2
+    ],
+    [
+     61.2,
+     47
+    ],
+    [
+     61.3,
+     48.9
+    ],
+    [
+     61.4,
+     48.2
+    ],
+    [
+     61.5,
+     47.6
+    ],
+    [
+     61.6,
+     47.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-02T13:58:50-05:00",
+   "body": "[npc=471] and [npc=248474] in Jasperlode Mine.\r\n\r\n[npc=248474] spawns 3 earth elementals upon dying, and they remain there for a good while. Group up for this quest if you can, because those adds add up.",
+   "replies": []
+  }
+ ]
+}

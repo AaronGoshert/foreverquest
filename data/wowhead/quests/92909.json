@@ -1,0 +1,344 @@
+{
+ "id": 92909,
+ "name": "Harvesting the Harvesters",
+ "level": 15,
+ "reqlevel": 8,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 800,
+ "start": {
+  "type": "npc",
+  "id": 253395,
+  "name": "Ozwin Ironsprocket",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    51.4,
+    32.2
+   ],
+   [
+    51.6,
+    32.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253395,
+  "name": "Ozwin Ironsprocket",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    51.4,
+    32.2
+   ],
+   [
+    51.6,
+    32.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Ozwin Ironsprocket at Saldean's Farm wants you to bring him 14 Golem Isosprings and 5 Harvester Gyrostabilizers . Golem Isospring  ( 14 ) Harvester Gyrostabilizer  ( 5 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 253395,
+   "name": "Ozwin Ironsprocket",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 255010,
+   "name": "Harvester Gyrostabilizers",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Golem Isospring",
+   "count": 14,
+   "type": "item",
+   "id": 255007
+  },
+  {
+   "text": "Harvester Gyrostabilizer",
+   "count": 5,
+   "type": "item",
+   "id": 255010
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "start",
+   "type": 1,
+   "id": 253395,
+   "name": "Ozwin Ironsprocket",
+   "coord": [
+    51.6,
+    32.2
+   ],
+   "coords": [
+    [
+     51.4,
+     32.2
+    ],
+    [
+     51.6,
+     32.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 1,
+   "id": 253395,
+   "name": "Ozwin Ironsprocket",
+   "coord": [
+    51.6,
+    32.2
+   ],
+   "coords": [
+    [
+     51.4,
+     32.2
+    ],
+    [
+     51.6,
+     32.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 115,
+   "name": "Harvest Reaper",
+   "coord": [
+    4.6,
+    61.8
+   ],
+   "coords": [
+    [
+     4.6,
+     61.8
+    ],
+    [
+     7.4,
+     63.8
+    ],
+    [
+     13.4,
+     62
+    ]
+   ]
+  },
+  {
+   "zoneId": 85,
+   "zone": "Tirisfal Glades",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 211953,
+   "name": "Bulky Protective Ironweave",
+   "coord": [
+    53.6,
+    56.6
+   ],
+   "coords": [
+    [
+     53.2,
+     57.2
+    ],
+    [
+     53.6,
+     56.6
+    ],
+    [
+     53.8,
+     55.8
+    ],
+    [
+     54,
+     58.6
+    ],
+    [
+     54.8,
+     57.4
+    ],
+    [
+     57,
+     55.2
+    ],
+    [
+     57.4,
+     56.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 85,
+   "zone": "Tirisfal Glades",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 211954,
+   "name": "Electrostatic Discharge Shielding",
+   "coord": [
+    53.2,
+    56.2
+   ],
+   "coords": [
+    [
+     53.2,
+     56.2
+    ],
+    [
+     53.8,
+     59.2
+    ],
+    [
+     54.4,
+     56.8
+    ],
+    [
+     54.4,
+     58
+    ]
+   ]
+  },
+  {
+   "zoneId": 85,
+   "zone": "Tirisfal Glades",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 276061,
+   "name": "Decrepit Harvester",
+   "coord": [
+    53.2,
+    57
+   ],
+   "coords": [
+    [
+     52,
+     55
+    ],
+    [
+     52.2,
+     55.6
+    ],
+    [
+     52.2,
+     56.8
+    ],
+    [
+     52.8,
+     56.4
+    ],
+    [
+     53,
+     58.6
+    ],
+    [
+     53.2,
+     55.4
+    ],
+    [
+     53.2,
+     57
+    ],
+    [
+     53.2,
+     57.6
+    ],
+    [
+     53.6,
+     58
+    ],
+    [
+     53.8,
+     56.2
+    ],
+    [
+     54,
+     57.4
+    ],
+    [
+     54,
+     58.6
+    ],
+    [
+     54.6,
+     57.2
+    ],
+    [
+     54.6,
+     57.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 211954,
+   "name": "Electrostatic Discharge Shielding",
+   "coord": [
+    56,
+    60
+   ],
+   "coords": [
+    [
+     56,
+     60
+    ],
+    [
+     56.2,
+     61.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 4,
+   "date": "2026-09-26T15:48:52-05:00",
+   "body": "Relatively [b]low[/b] drop rate.\n\nI collected my [b]Isosprings[/b] very quickly grinding the level [url=https://www.wowhead.com/forever/npc=480/rusty-harvest-golem#map]9-10 versions[/url]. In the end I even had a few left over, and I was able to sell them in the Auction House for a little profit.\n\n[b]Gyrostabilizers[/b] also drop from [url=https://www.wowhead.com/forever/npc=36/harvest-golem#map]Harvest Golems[/url] and from the level 17-18 [url=https://www.wowhead.com/forever/npc=115/harvest-reaper#map]reapers[/url]. These may be a good location to grind for them, as these mobs aren't involved in other quests making it a quieter area competition-wise.\n\nIt probably goes without saying, but this quest is best combined with [quest=9]. You may also complete [quest=103] and part of [quest=38] grinding the same mobs.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-23T23:52:05-05:00",
+   "body": "Stacked it with the kill 20 quest, then moved to the lower levels next door after I finished those. Took around 60 total kills.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-06T19:21:03-05:00",
+   "body": "Got 20 Golem Isosprings  while zero Gyrostabilizers...",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2026-09-21T19:24:22-05:00",
+   "body": "might be the worst quest off all time. never seen a lower drop rate anywhere",
+   "replies": [
+    "I thought this version was supposed to be about the community. Very welcoming attitude. Do better.",
+    "dO bEtTeR lol, back to bluesky"
+   ]
+  }
+ ]
+}

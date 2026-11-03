@@ -1,0 +1,99 @@
+{
+ "id": 93160,
+ "name": "The Forest's Bounty",
+ "level": 13,
+ "reqlevel": 8,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 680,
+ "start": {
+  "type": "npc",
+  "id": 251684,
+  "name": "Strange Hermit",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    54,
+    39
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251684,
+  "name": "Strange Hermit",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    54,
+    39
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Gather 8 Shadowgale Acorns in Shadowgale Forest. Zephyrseed  ( 8 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 257128,
+   "name": "Zephyrseed",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Zephyrseed",
+   "count": 8,
+   "type": "item",
+   "id": 257128
+  }
+ ],
+ "series": [
+  93160
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 251684,
+   "name": "Strange Hermit",
+   "coord": [
+    54,
+    39
+   ],
+   "coords": [
+    [
+     54,
+     39
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251684,
+   "name": "Strange Hermit",
+   "coord": [
+    54,
+    39
+   ],
+   "coords": [
+    [
+     54,
+     39
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

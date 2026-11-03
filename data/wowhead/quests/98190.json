@@ -1,0 +1,146 @@
+{
+ "id": 98190,
+ "name": "A Friend of the Family",
+ "level": 25,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 200,
+ "start": {
+  "type": "npc",
+  "id": 2104,
+  "name": "Captain Stoutfist",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    9.8,
+    57.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1748,
+  "name": "Highlord Bolvar Fordragon",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    77.4,
+    18.4
+   ],
+   [
+    77.4,
+    18.8
+   ],
+   [
+    77.6,
+    18.6
+   ],
+   [
+    78,
+    18
+   ],
+   [
+    80,
+    38.4
+   ],
+   [
+    80,
+    38.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Bring the Menethil Statuette to Highlord Bolvar Fordragon in Stormwind Keep. Menethil Statuette (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 279595,
+   "name": "Menethil Statuette",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  279,
+  281,
+  284,
+  285,
+  286,
+  98189,
+  98190,
+  98191
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 2104,
+   "name": "Captain Stoutfist",
+   "coord": [
+    9.8,
+    57.4
+   ],
+   "coords": [
+    [
+     9.8,
+     57.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 1748,
+   "name": "Highlord Bolvar Fordragon",
+   "coord": [
+    78,
+    18
+   ],
+   "coords": [
+    [
+     77.4,
+     18.4
+    ],
+    [
+     77.4,
+     18.8
+    ],
+    [
+     77.6,
+     18.6
+    ],
+    [
+     78,
+     18
+    ],
+    [
+     80,
+     38.4
+    ],
+    [
+     80,
+     38.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-06T14:19:10-05:00",
+   "body": "[b]Only do this part of the chain when you actually plan on visiting the city for other reasons[/b], because this quest [i](and the [url=https://www.wowhead.com/forever/quest=98191/a-friend-of-the-family]next part[/url])[/i] only grant [b]200 XP[/b] [u]total[/u] with [b]0[/b] reputation/money rewards. The next part does give you a choice between [item=281296] and [item=281297]. This is about 20 minutes of travel time for ~32 silvers otherwise.",
+   "replies": []
+  }
+ ]
+}

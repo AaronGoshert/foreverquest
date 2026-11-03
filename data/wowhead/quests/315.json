@@ -1,0 +1,414 @@
+{
+ "id": 315,
+ "name": "The Perfect Stout",
+ "level": 9,
+ "reqlevel": 5,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 780,
+ "start": {
+  "type": "npc",
+  "id": 1374,
+  "name": "Rejold Barleybrew",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    30.2,
+    45.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1374,
+  "name": "Rejold Barleybrew",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    30.2,
+    45.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 6 Shimmerweeds to Rejold Barleybrew in the Brewnall Village. Shimmerweed  ( 6 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 2676,
+   "name": "Shimmerweeds",
+   "count": 6,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Shimmerweed",
+   "count": 6,
+   "type": "item",
+   "id": 2676
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1374,
+   "name": "Rejold Barleybrew",
+   "coord": [
+    30.2,
+    45.8
+   ],
+   "coords": [
+    [
+     30.2,
+     45.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1374,
+   "name": "Rejold Barleybrew",
+   "coord": [
+    30.2,
+    45.8
+   ],
+   "coords": [
+    [
+     30.2,
+     45.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1397,
+   "name": "Frostmane Seer",
+   "coord": [
+    40.2,
+    42.8
+   ],
+   "coords": [
+    [
+     40.2,
+     42.8
+    ],
+    [
+     40.6,
+     43.4
+    ],
+    [
+     40.8,
+     35
+    ],
+    [
+     41,
+     44.8
+    ],
+    [
+     41.2,
+     34.2
+    ],
+    [
+     41.2,
+     44.2
+    ],
+    [
+     41.2,
+     45.6
+    ],
+    [
+     41.4,
+     36
+    ],
+    [
+     41.6,
+     43.8
+    ],
+    [
+     42,
+     34.4
+    ],
+    [
+     42,
+     44.6
+    ],
+    [
+     42.2,
+     35
+    ],
+    [
+     42.2,
+     36.6
+    ],
+    [
+     42.4,
+     35.8
+    ],
+    [
+     42.6,
+     33.8
+    ],
+    [
+     42.8,
+     36.6
+    ],
+    [
+     43,
+     35.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 2,
+   "id": 276,
+   "name": "Shimmerweed Basket",
+   "coord": [
+    41.4,
+    43.8
+   ],
+   "coords": [
+    [
+     40.7,
+     35.2
+    ],
+    [
+     41,
+     44.6
+    ],
+    [
+     41.3,
+     36
+    ],
+    [
+     41.4,
+     43.8
+    ],
+    [
+     41.5,
+     44.3
+    ],
+    [
+     41.5,
+     44.5
+    ],
+    [
+     41.9,
+     35.8
+    ],
+    [
+     42,
+     35.2
+    ],
+    [
+     42.5,
+     36.3
+    ],
+    [
+     42.5,
+     36.5
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 16,
+   "date": "2006-10-16T04:08:46-05:00",
+   "body": "The path that leads up to the tribe of Seers is at [b]37,42[/b], directly east of the lake beside a small cave.\nHope this helps",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2006-10-16T04:08:46-05:00",
+   "body": "I think this one is too hard for a hunter on his own. When you shoot the first target you get chased by two or three [url=https://www.wowhead.com/forever/search?q=Frostmane%20Troll]Frostmane Troll[/url]s who shoot at you with magic and try to chop you up. The path approaching the camp is narrow, so there is no room to move about for a hunter, nor an opportunity to attack from a different angle.\n\nI spent hours looking for these trolls (I even explored in the far east of Dun Murogh, for the stupid sap I am. It says \"high up in the hills to the east\" after all :-P). Then the tips here brought me closer, but still no luck. It turns out the path leading up to the troll camp is directly to the left (=north) of the cave entrance where the bears prowl around. Watch for the torches sticking in the ground. The bear cave is, as mentioned, to the east of the Iceflow lake.\n\nThere are actually two camps. The first can be found by following the path straight up. The second is nearby. Take a left turn somewhere at the top of the path and cross the suspension bridge. Turn right to find the camp. To the left is another path leading down. Watch out for those trolls! :-)",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-01-07T00:00:38-06:00",
+   "body": "rogues can use their pick pocket ability to get Shimmerweed from the seers without getting into a big fight (if you succeed)",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-03-28T11:22:43-05:00",
+   "body": "You find the camp going from the Iceflow lake up, you pass the cave with the bears and then you turn right. As said, some weed get droped by seers, others you find in baskets. \r\nthe Seers are 8 and 9 lvl",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-16T04:08:46-05:00",
+   "body": "Like when someone said I need the loc of the basket's how do I look at that? Still new to the game and need some major help.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-06-18T17:49:28-05:00",
+   "body": "I didn't solo this quest until level 14 because it was scarey.  I came out alive. *nod*  Definitely do this with a group.\n\nEdited, Sun Jun 18 12:39:45 2006",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-03-06T13:19:25-06:00",
+   "body": "Solo its to hard, im waiting for support LOL",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-26T02:17:43-05:00",
+   "body": "Soloed this with a 9th level dwarf warrior. Just raid the baskets after you kill the seers, but you'll need to pull them without getting three at a time.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-28T19:35:41-06:00",
+   "body": "This quest rewards 250 Ironforge reputation and 250 Gnomeregan Exiles reputation as of patch 2.01",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-15T20:41:57-05:00",
+   "body": "41.35 is the camp\r\n\r\ngo up Shimmer Ridge...on a side note...there are 3 copper veins there if you're a miner, also :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-28T04:08:46-06:00",
+   "body": "go west down the river. right before the river curves right, then left to form a lake, theres a trail. kill the frostmane seer. the baskets are around the camp",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-11T04:08:46-06:00",
+   "body": "coordinates are 41, 44",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-04T04:08:46-05:00",
+   "body": "It was very easy at lvl 8.. I thougt it was harder they said so here.. \n\nBut i find them at 41.44 in small Shimmering Basket and the trolls got them.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-04T04:08:46-05:00",
+   "body": "top of hill east from bear cave",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-04T04:08:46-05:00",
+   "body": "For this lvl 8 pallie, it was the first quest that was not a complete cakewalk. Combination of longer aggro range than previous quests plus ranged attack meant you could very easily end up with 3 lightning bolts on you at once, so I gave up on the baskets 'cause of the respawn and took out stragglers.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-16T04:08:46-05:00",
+   "body": "I've died 5 times.&nbsp; Everytime I start opening a basket I attract the attention of several seers.&nbsp; Tried sneaking up on a seer, but when I tried to kill just one, I got ambushed by several.&nbsp; Might be easier with something other than a rogue.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-28T04:08:46-06:00",
+   "body": "ive got coords 41,35 with titan panel map coords..theres a path leading uo there on coords 38,36..",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-28T04:08:46-06:00",
+   "body": "The trolls and baskets are in Shimmer Ridge, Northwest of Kharanos. Go up the hill, and you'll find a small camp of trolls, and baskets scattered all over.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-08T08:29:45-06:00",
+   "body": "I have a level 9 Dwarf Pally with Seal of the Crusader. Can I solo this quest plz I need some on to tell me. ILLIDAN RULES! MAIVE IS BAD!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-19T08:32:35-05:00",
+   "body": "solo as a lvl 6 mage, pretty easy just be careful with your pulls.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-21T02:36:49-05:00",
+   "body": "13 Warrior and 9 Priest (me) easily done, it was too hard to solo.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-28T15:26:16-05:00",
+   "body": "my hunter just killed the troll mages at the perimeter of the hill and looted the secluded shimmerweed baskets. the trolls DO drop the shimmerweed, so i didn't have to actually invade the camp. did this solo without pet at level 9",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-15T16:28:59-05:00",
+   "body": "go to 37,42 and head up the path. all the co-ordinates at the camp itself dont indicate how to get there, since its up a hill",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-10T09:33:11-06:00",
+   "body": "Level 9 at the camp at 41, 44. Stealth in to the opposite side of the camp and pick them off one-by-one. With Pick Pockets and killing, plus two baskets, I finished this off in under 10 minutes.\n\nOf course, without Stealth, you would have a tougher time of it. Work your way around the south end of the camp and do the same process. Don't bother entering the camp by yourself unless you want a trip through Dun Morogh's White-And-Whiter Land.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-12T16:38:46-06:00",
+   "body": "Easily soloed at level 8 with a priest, I was in the camp at 41, 44. I only pulled two once and they were pretty easy to kill. The rest I just pulled one by one.\n\nBe careful, because they do run away when they have less than 20% life.\n\n[i][small]Edited, Nov 12th  2006 at 10:42am PST by pythe[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-17T13:21:40-05:00",
+   "body": "41,36 Should help u get what u need",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-13T20:34:11-05:00",
+   "body": "Not even worth the effort, skip or drop but it's useless.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-28T04:08:46-06:00",
+   "body": "this quest was easy as a lvl 10 dwarf hunter i thought that it would be a lot harder when i got quad teamed but me and me beary lasted and took em out and got it down in under 5mins",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-04-16T16:08:46-05:00",
+   "body": "had 2 or 3 trolls on me at once and was still ok.&nbsp; got close but once I got it down to 1 or 2 trolls, I was able to stay healed and kill them off.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-05-20T14:35:55-05:00",
+   "body": "soloed as 8 hunter. took about 5 minutes.",
+   "replies": []
+  }
+ ]
+}

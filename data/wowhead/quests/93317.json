@@ -1,0 +1,354 @@
+{
+ "id": 93317,
+ "name": "Crab Season",
+ "level": 9,
+ "reqlevel": 4,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 590,
+ "start": {
+  "type": "npc",
+  "id": 257006,
+  "name": "Nyalah Brightfire",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    60.6,
+    72.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 257006,
+  "name": "Nyalah Brightfire",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    60.6,
+    72.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect 6 pieces of Windsong Crawler Meat . Windsong Crawler Meat  ( 6 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 257941,
+   "name": "Windsong Crawler Meat",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Windsong Crawler Meat",
+   "count": 6,
+   "type": "item",
+   "id": 257941
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 257006,
+   "name": "Nyalah Brightfire",
+   "coord": [
+    60.6,
+    72.6
+   ],
+   "coords": [
+    [
+     60.6,
+     72.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 257006,
+   "name": "Nyalah Brightfire",
+   "coord": [
+    60.6,
+    72.6
+   ],
+   "coords": [
+    [
+     60.6,
+     72.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 254588,
+   "name": "Windsong Crawler",
+   "coord": [
+    51.8,
+    73.2
+   ],
+   "coords": [
+    [
+     42.6,
+     66.4
+    ],
+    [
+     44,
+     66.3
+    ],
+    [
+     44.4,
+     65
+    ],
+    [
+     44.6,
+     65.2
+    ],
+    [
+     44.6,
+     65.8
+    ],
+    [
+     45.6,
+     61.4
+    ],
+    [
+     45.8,
+     47.8
+    ],
+    [
+     46,
+     47.4
+    ],
+    [
+     46.8,
+     46.2
+    ],
+    [
+     47.4,
+     50.4
+    ],
+    [
+     47.4,
+     50.6
+    ],
+    [
+     47.6,
+     50.4
+    ],
+    [
+     49.2,
+     59.4
+    ],
+    [
+     49.2,
+     63.8
+    ],
+    [
+     49.2,
+     65.6
+    ],
+    [
+     49.6,
+     61
+    ],
+    [
+     49.6,
+     67
+    ],
+    [
+     49.8,
+     61.6
+    ],
+    [
+     51,
+     61
+    ],
+    [
+     51.2,
+     58.8
+    ],
+    [
+     51.2,
+     69.4
+    ],
+    [
+     51.2,
+     70.6
+    ],
+    [
+     51.4,
+     69.8
+    ],
+    [
+     51.6,
+     69.4
+    ],
+    [
+     51.6,
+     70.4
+    ],
+    [
+     51.6,
+     70.6
+    ],
+    [
+     51.6,
+     71.9
+    ],
+    [
+     51.8,
+     73.2
+    ],
+    [
+     51.8,
+     73.8
+    ],
+    [
+     52.2,
+     58.4
+    ],
+    [
+     52.2,
+     58.6
+    ],
+    [
+     52.3,
+     74.7
+    ],
+    [
+     52.4,
+     75.6
+    ],
+    [
+     52.5,
+     75.4
+    ],
+    [
+     52.6,
+     75.9
+    ],
+    [
+     53.1,
+     77.2
+    ],
+    [
+     53.2,
+     56.2
+    ],
+    [
+     53.4,
+     57.2
+    ],
+    [
+     53.4,
+     77.6
+    ],
+    [
+     53.8,
+     77
+    ],
+    [
+     53.9,
+     77.6
+    ],
+    [
+     54.3,
+     79.3
+    ],
+    [
+     55.2,
+     50.6
+    ],
+    [
+     56.6,
+     56.2
+    ],
+    [
+     62.3,
+     60.5
+    ],
+    [
+     63.4,
+     58.4
+    ],
+    [
+     63.4,
+     60.4
+    ],
+    [
+     63.5,
+     60.4
+    ],
+    [
+     63.6,
+     58.4
+    ],
+    [
+     63.6,
+     60.7
+    ],
+    [
+     64.1,
+     61.8
+    ],
+    [
+     64.1,
+     63
+    ],
+    [
+     65.3,
+     62
+    ],
+    [
+     65.6,
+     62.2
+    ],
+    [
+     68.4,
+     62.2
+    ],
+    [
+     68.6,
+     62.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-23T22:34:20-05:00",
+   "body": "Very low droprate be patient.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-27T18:43:44-05:00",
+   "body": "Best place to farm these are in the level 5 mob area around 53.6, 58.7 \n\nFar more crabs around so don't waste your time further south!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-27T18:53:08-05:00",
+   "body": "They respawned quickly and uncontested in Windsong Lake at:\r\n\r\n[code]/way 47.43, 47.59[/code]\r\n\r\nDrop rate still sucks though.",
+   "replies": []
+  }
+ ]
+}

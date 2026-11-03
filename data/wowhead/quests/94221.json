@@ -1,0 +1,93 @@
+{
+ "id": 94221,
+ "name": "Craftsman's Writ: Golden Rod",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 257296,
+  "name": "Muggol Breezebeard",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    48.8,
+    55.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Golden Rod  ( 1 ) Golden Rod  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264021,
+   "name": "Craftsman's Writ: Golden Rod",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11128,
+   "name": "Golden Rod",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Golden Rod",
+   "count": 1,
+   "type": "item",
+   "id": 264021
+  },
+  {
+   "text": "Golden Rod",
+   "count": 1,
+   "type": "item",
+   "id": 11128
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 1,
+   "id": 257296,
+   "name": "Muggol Breezebeard",
+   "coord": [
+    48.8,
+    55.8
+   ],
+   "coords": [
+    [
+     48.8,
+     55.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-22T06:46:38-05:00",
+   "body": "22 silver quest reward at level 20 during beta",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-23T21:52:51-05:00",
+   "body": "unsure if the turn in location is set for them - got the graveyard just south of the circle of outer binding (air elementals) in Arathi highlands.\r\n\r\nreceived 34 silver from the coin pouch.",
+   "replies": []
+  }
+ ]
+}

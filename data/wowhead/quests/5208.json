@@ -1,0 +1,21 @@
+{
+ "id": 5208,
+ "name": "<NYI> <TXT> The Blessing of Evil",
+ "level": 49,
+ "reqlevel": 49,
+ "side": 3,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": null,
+ "end": null,
+ "patch": "1.13.2.30786",
+ "objectiveText": "See if you've already completed this by typing: /run print(C_QuestLog.IsQuestFlaggedCompleted(5208)) Related Contribute Please keep the following in mind when posting a comment: Your comment must be in English or it will be removed. Unsure how to post? Check out our handy guide ! You might want to proof-read your comments before posting them. Please post questions on our forums for quicker reply. Post a Comment You are not logged in. Please log in or register an account to add your comment. Simply browse for your screenshot using the form below. Screenshots containing UI elements are generally",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

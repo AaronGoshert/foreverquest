@@ -1,0 +1,182 @@
+{
+ "id": 1127,
+ "name": "Fool's Stout",
+ "level": 44,
+ "reqlevel": 35,
+ "side": 3,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": null,
+ "end": null,
+ "patch": "1.13.2.31727",
+ "objectiveText": "Bring 12 of Zanzil's Mixture to Crank Fizzlebub in Booty Bay. Zanzil's Mixture  ( 12 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 4016,
+   "name": "Zanzil's Mixture",
+   "count": 12,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5806,
+   "name": "Fool's Stout",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Zanzil's Mixture",
+   "count": 12,
+   "type": "item",
+   "id": 4016
+  }
+ ],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": [
+  {
+   "rating": 17,
+   "date": "2005-10-28T10:50:52-05:00",
+   "body": "Okay, you can NOT confirm that this quest is only there in the case that you failed it the first time and here is why:\n\nA. You can not get this quest unless you turn in the fool's stout report.\n\nB. you can not get the report until you get the gnomes or gobblins drunk.\n\nC. you cant get them drunk until you turn in the fool's stout the FIRST time.\n\nSo as you can see, it makes no sense that this is for people who failed the first one. I didnt do it the second time yet, I may or may not, but if no one else was able to turn in the stout the second time then the quest is bugged. He clearly tells you he wants you to take the stout to shimmering flats again.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-01-30T13:08:34-06:00",
+   "body": "You can find lots of this at the camp to the direct east of the entrance to Gurubashi Arena. Couple this quest with VooDoo Dues as the guys you need to kill for that quest are located here also.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-10-28T10:50:52-05:00",
+   "body": "Bring it to the Mirage Raceway in Thousand Needles, it's part of the quest to get the Gnome/Goblin pit crews drunk... talk to Kravel Koalbeard there.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-02-20T22:25:20-06:00",
+   "body": "He gives you some fools stout, with a 2 hour timer on it.. but no quest is given with it. You go out to shimmering flats and theres nothing to do with it.",
+   "replies": [
+    "Yes... Broken for me too. I got the keg, dragged my arse back to the flats and nothing! Then go back to BB and speak with Crank and guess what, the quest is available again and I still had the keg with at least 1 1/2 hours to spare...\n\nLAME!"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-09T10:50:52-06:00",
+   "body": "I just completed this quest.&nbsp; I had a small problem with not seeing it was a timed quest.&nbsp; It failed and I needed to abandon it and collect it again.\n\nAfter collecting it again I was able to complete the quest just fine.&nbsp; Got the Gnomes drunk...not sure if that matters.\n\nI believe I got 1850xp for it.&nbsp; And then he offered me another quest for 12 more of Zanzil's mixture to be collected.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-04T10:50:52-05:00",
+   "body": "yes you can do this quest still",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-09T10:50:52-06:00",
+   "body": "I've done this 3 extra times now. After the first successful turn in, an getting another keg of fools stout, I can not find anyone to turn it into.\n\n3 Times. \n\nAnd I discovered that the keg will time out and disappear from your pack.\n\nI turned in a ticket, and eventually talked directly with a GM. They insist there is nothing wrong with this quest, and suggested I talk to guild mates... \n\nI'm sitting in shimmering flats right now with a keg, and can not do anything with it. \n\nBS, this is bugged.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-16T12:56:22-06:00",
+   "body": "wow, sure wish I would have known this before I wasted my time getting more 12 of zanzil's mixtures together and heading all the way out to the shimmering flats... oh well.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-22T06:47:07-06:00",
+   "body": "It appears to me that this quest no longer even exists.  After returning with the report from Kravel and turning it in to Crank, he will not give me this quest now.  Guess Blizzard decided the chain was broken and was tired of answering tickets about it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-06T09:52:51-05:00",
+   "body": "Just got this quest tonight on the Suramar server.  Apparently, it's fixed now.\n\nFailed it tho, because I had to go run ZF.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-06-30T00:26:10-05:00",
+   "body": "Maybe its a clue that its called \"Fools Stout\"",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2005-10-28T10:50:52-05:00",
+   "body": "Fool's stout (2nd part) is only USEFULL if you failed delivering the 1st stout in the required time. I can confirm",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2005-04-03T16:46:05-05:00",
+   "body": "I think the idea behind this quest is that, you get the quest, get ready for the turnin at the Flats before a race, make bets with other people who dont know about this quest, and then get the other team drunk and win the bets.\n\nBut since theres hardly anyone thats ever in shimmering flats, let alone actually giving 2 shakes about the races other than to ogle the chick that waves the starting flag.. well.. kinda good idea thats gone to waste.",
+   "replies": [
+    "the funny thing also is that Blizz outlawed casinos and gambling...\n\n"
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-28T10:50:52-05:00",
+   "body": "Maybe thats why they call it \"[i]Fool's Stout[/i]\"",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-28T10:50:52-05:00",
+   "body": "I guess we can do it and give the stout to those gnome or goblin again and again... but whats the benefits? Gain in reputation? or I can gamble the race? LOL",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-28T10:50:52-05:00",
+   "body": "It said to bring the mixture to Kravel, and it only takes about 20 minutes to fly to wetlands, get on the boat, fly to gadgetzan, and walk to shimmering flats. Dunno how you guys failed it the first time.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-28T10:50:52-05:00",
+   "body": "I got the last part of the quest in BB, but i forgot where to get zanzils mixture. Also is their still a bug or is there an end to this quest>",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-28T10:50:52-05:00",
+   "body": "When i did this a second time i couldnt turn it in anywhere either is this just a trick?",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-28T10:50:52-05:00",
+   "body": "had same problem i guess was going to be second part and they forgot. its called fools but doubt its intentional",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-28T10:50:52-05:00",
+   "body": "I just did fools stout a second time and, indeed, there is no place to turn it in (at least not in shimmering flats). Seems like maybe blizz was thinking about a way that people could bet on the races, but hasn't implimented it yet.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-28T10:50:52-05:00",
+   "body": "Did quest 2nd time, don't know where to turn in at races, maybe that's why it's called, \"fool's stout\", darn goblins...",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-03-23T10:50:52-06:00",
+   "body": "Does this quest even exist anymore?&nbsp; I did the chain&nbsp; through returning to Crank with the report from Kravel, but then Crank will no longer talk to me.\n\nYes, I have read that doing this quest seems pretty pointless because you get a new batch you can't do anything with, but that's not really my question.&nbsp; Just wondering if you can even take this quest anymore.",
+   "replies": [
+    "It seems that this quest no longer exists, although references to 'getting more' are in the previous two quests."
+   ]
+  }
+ ]
+}

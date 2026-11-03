@@ -1,0 +1,165 @@
+{
+ "id": 1095,
+ "name": "Further Instructions",
+ "level": 27,
+ "reqlevel": 16,
+ "side": 3,
+ "zoneId": 406,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1100,
+ "start": {
+  "type": "npc",
+  "id": 3442,
+  "name": "Sputtervalve",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    63,
+    37.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4201,
+  "name": "Ziz Fizziks",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59,
+    62.4
+   ],
+   [
+    59,
+    62.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring the new orders to Ziz Fizziks in the Stonetalon Mountains .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 4201,
+   "name": "Ziz Fizziks",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  1483,
+  1093,
+  1094,
+  1095,
+  1096
+ ],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 3442,
+   "name": "Sputtervalve",
+   "coord": [
+    63,
+    37.2
+   ],
+   "coords": [
+    [
+     63,
+     37.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 4201,
+   "name": "Ziz Fizziks",
+   "coord": [
+    59,
+    62.4
+   ],
+   "coords": [
+    [
+     59,
+     62.4
+    ],
+    [
+     59,
+     62.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 23,
+   "date": "2006-03-27T20:51:31-06:00",
+   "body": "[b]59,62[/b] is the correct loc\n\nHe's in the little Hut in Windshear Crag",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-01-13T20:51:31-06:00",
+   "body": "is it the same that u talked to when u got the super reaper 6000 Quest?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-01T07:21:42-05:00",
+   "body": "He is at 59,62",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-26T08:51:31-05:00",
+   "body": "South along the road from windshear crag. a little further north of the other gnome that has missions. he is in a little green hut on the east side of the mountain range",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-27T20:51:31-05:00",
+   "body": "Confirmed at 59,63. as you approach the crag the appears on the minimap as a green dot, in the mountains to the left of the track....",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-07T14:39:54-05:00",
+   "body": "Is this quest bugged? I went to return the quest, but Ziz Fizziks was not there anymore! Rustfizzle was there with a new quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-30T14:32:57-05:00",
+   "body": "Loc still at 58, 62.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-01-13T20:51:31-06:00",
+   "body": "58,62",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2005-09-26T08:51:31-05:00",
+   "body": "Any Idea wehre this gnome is at?",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2007-02-19T08:51:31-06:00",
+   "body": "where do you get it? i have no idea",
+   "replies": []
+  }
+ ]
+}

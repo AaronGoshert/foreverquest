@@ -1,0 +1,81 @@
+{
+ "id": 5841,
+ "name": "Welcome!",
+ "level": 1,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 11941,
+  "name": "Yori Crackhelm",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    30,
+    71.4
+   ],
+   [
+    30,
+    71.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring the Coldridge Valley Gift Voucher to Yori Crackhelm . Coldridge Valley Gift Voucher (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 14647,
+   "name": "Coldridge Valley Gift Voucher",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 11941,
+   "name": "Yori Crackhelm",
+   "coord": [
+    30,
+    71.6
+   ],
+   "coords": [
+    [
+     30,
+     71.4
+    ],
+    [
+     30,
+     71.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2019-05-14T19:15:48-05:00",
+   "body": "In classic, this quest will only be available to those who purchased the original WoW collectors edition and have it tied to their account.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-22T09:18:17-05:00",
+   "body": "I am unable to do this in the Beta even though I have purchased the correct addition - is that true for everyone? TIA!",
+   "replies": []
+  }
+ ]
+}

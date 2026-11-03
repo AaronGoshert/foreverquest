@@ -1,0 +1,199 @@
+{
+ "id": 91733,
+ "name": "Downstream",
+ "level": 10,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 630,
+ "start": {
+  "type": "npc",
+  "id": 248265,
+  "name": "Ormin Pelford",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    76.4,
+    72
+   ],
+   [
+    76.6,
+    72
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 248265,
+  "name": "Ormin Pelford",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    76.4,
+    72
+   ],
+   [
+    76.6,
+    72
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect the Waterlogged Axe , Waterlogged Saw , and Waterlogged Toolbox that have washed downstream from Eastvale Logging Camp, then return to Ormin Pelford . Waterlogged Axe  ( 1 ) Waterlogged Saw  ( 1 ) Waterlogged Toolbox  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 247817,
+   "name": "Waterlogged Axe",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 248265,
+   "name": "Ormin Pelford",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 247813,
+   "name": "Waterlogged Saw",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 247818,
+   "name": "Waterlogged Toolbox",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Waterlogged Axe",
+   "count": 1,
+   "type": "item",
+   "id": 247817
+  },
+  {
+   "text": "Waterlogged Saw",
+   "count": 1,
+   "type": "item",
+   "id": 247813
+  },
+  {
+   "text": "Waterlogged Toolbox",
+   "count": 1,
+   "type": "item",
+   "id": 247818
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 248265,
+   "name": "Ormin Pelford",
+   "coord": [
+    76.4,
+    72
+   ],
+   "coords": [
+    [
+     76.4,
+     72
+    ],
+    [
+     76.6,
+     72
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 248265,
+   "name": "Ormin Pelford",
+   "coord": [
+    76.4,
+    72
+   ],
+   "coords": [
+    [
+     76.4,
+     72
+    ],
+    [
+     76.6,
+     72
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": [
+  {
+   "rating": 35,
+   "date": "2026-09-21T11:09:00-05:00",
+   "body": "The 3 items is down stream from the bridge. Follow the River on the left side for best view of the items and less mobs.\r\n\r\nFirst you will find the SAW at /way 74.3, 76.3\r\n- by the big rock & riverplants\r\n\r\nSecond is the AXE at /way 76.8, 82.4\r\n- Its on the island where the river splits.\r\n\r\nThird is the toolbox at /way 77.3, 86.9\r\n- Underwater in the big river between Elwynn Forest and Duskwood.",
+   "replies": []
+  },
+  {
+   "rating": 34,
+   "date": "2026-09-20T04:56:08-05:00",
+   "body": "Locations: Axe 77, 82 / Toolbox 77, 86 (at the boat) / Saw 74, 76",
+   "replies": [
+    "Thank you! Pretty hard to find without coords, honestly. Especially the toolbox."
+   ]
+  },
+  {
+   "rating": 11,
+   "date": "2026-09-23T01:49:16-05:00",
+   "body": "There is a river in front of Soldier Thomas, [b] saw[/b] is beside the second big stone.",
+   "replies": [
+    "I appreciated the comment without coords, thanks!"
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2026-09-26T10:31:02-05:00",
+   "body": "The toolbox is in the boat 77.3 86.9 underwater.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2026-09-28T22:27:19-05:00",
+   "body": "Heavily populated by Murlocs!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2026-09-30T15:36:00-05:00",
+   "body": "The waterlogged Axe and Saw are fairly easy to find. The coordinates given previously are pretty accurate.  I found the Waterlogged Toolbox by the submerged boat at  77.2, 87.1",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-26T14:13:49-05:00",
+   "body": "One simple paste\r\n\r\n[code]/way #1429 76.8, 82.4 Waterlogged Axe\r\n/way #1429 74.3, 76.3 Waterlogged Saw\r\n/way #1429 77.3, 86.9 Waterlogged Toolbox[/code]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-26T15:06:54-05:00",
+   "body": "While completing this one, make sure you kill the [url=https://www.wowhead.com/forever/npc=248278/croaky#map]elite murloc[/url] in the camp. He's fairly weak, and killing him starts [url=https://www.wowhead.com/forever/quest=91740/croakys-head]a quest[/url].",
+   "replies": []
+  }
+ ]
+}

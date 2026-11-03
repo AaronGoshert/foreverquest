@@ -1,0 +1,116 @@
+{
+ "id": 97926,
+ "name": "Making Do",
+ "level": 17,
+ "reqlevel": 13,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 125,
+ "start": {
+  "type": "npc",
+  "id": 1646,
+  "name": "Baros Alexston",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    49,
+    30.2
+   ],
+   [
+    57.4,
+    47.8
+   ],
+   [
+    57.6,
+    47.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3649,
+  "name": "Thundris Windweaver",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    37.4,
+    40.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring Alexston's Reply to Thundris Windweaver in Auberdine in Darkshore . Alexston's Reply (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 279048,
+   "name": "Alexston's Reply",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  97914,
+  97926
+ ],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 1646,
+   "name": "Baros Alexston",
+   "coord": [
+    49,
+    30.2
+   ],
+   "coords": [
+    [
+     49,
+     30.2
+    ],
+    [
+     57.4,
+     47.8
+    ],
+    [
+     57.6,
+     47.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 3649,
+   "name": "Thundris Windweaver",
+   "coord": [
+    37.4,
+    40.2
+   ],
+   "coords": [
+    [
+     37.4,
+     40.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-06T14:33:21-05:00",
+   "body": "[b]Best reagent bag outside of crafting.[/b] Well worth picking up as a new player, because the superior crafted bags all require somewhat expensive materials.",
+   "replies": []
+  }
+ ]
+}

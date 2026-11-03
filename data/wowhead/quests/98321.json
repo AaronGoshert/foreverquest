@@ -1,0 +1,97 @@
+{
+ "id": 98321,
+ "name": "Flintfire's Shipment",
+ "level": 7,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 630,
+ "start": {
+  "type": "npc",
+  "id": 1241,
+  "name": "Tognus Flintfire",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    45.2,
+    52
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1241,
+  "name": "Tognus Flintfire",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    45.2,
+    52
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect 8 Flintfire Shipments from the Grizzled Den for Tongus Flintfire in Kharanos. Flintfire's Shipment  ( 8 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 280413,
+   "name": "Flintfire's Shipment",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Flintfire's Shipment",
+   "count": 8,
+   "type": "item",
+   "id": 280413
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1241,
+   "name": "Tognus Flintfire",
+   "coord": [
+    45.2,
+    52
+   ],
+   "coords": [
+    [
+     45.2,
+     52
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1241,
+   "name": "Tognus Flintfire",
+   "coord": [
+    45.2,
+    52
+   ],
+   "coords": [
+    [
+     45.2,
+     52
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

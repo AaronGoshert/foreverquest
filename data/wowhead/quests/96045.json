@@ -1,0 +1,145 @@
+{
+ "id": 96045,
+ "name": "Camping 101: Alchemy",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 1246,
+  "name": "Vosur Brakthel",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    66.4,
+    55.2
+   ],
+   [
+    66.4,
+    55.6
+   ],
+   [
+    66.6,
+    55.2
+   ],
+   [
+    67,
+    54.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1246,
+  "name": "Vosur Brakthel",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    66.4,
+    55.2
+   ],
+   [
+    66.4,
+    55.6
+   ],
+   [
+    66.6,
+    55.2
+   ],
+   [
+    67,
+    54.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Speak with Vosur Brakthel in Ironforge to learn to craft a camping item for your profession once you have shown proficiency in your skill.   Raise your alchemy skill to 20  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1246,
+   "name": "Vosur Brakthel",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Raise your alchemy skill to 20",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 1246,
+   "name": "Vosur Brakthel",
+   "coord": [
+    66.4,
+    55.2
+   ],
+   "coords": [
+    [
+     66.4,
+     55.2
+    ],
+    [
+     66.4,
+     55.6
+    ],
+    [
+     66.6,
+     55.2
+    ],
+    [
+     67,
+     54.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 1246,
+   "name": "Vosur Brakthel",
+   "coord": [
+    66.4,
+    55.2
+   ],
+   "coords": [
+    [
+     66.4,
+     55.2
+    ],
+    [
+     66.4,
+     55.6
+    ],
+    [
+     66.6,
+     55.2
+    ],
+    [
+     67,
+     54.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

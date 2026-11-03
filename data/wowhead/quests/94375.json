@@ -1,0 +1,139 @@
+{
+ "id": 94375,
+ "name": "Call of Earth",
+ "level": 4,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 445,
+ "start": {
+  "type": "npc",
+  "id": 5891,
+  "name": "Minor Manifestation of Earth",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    24.8,
+    61.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 257446,
+  "name": "Teo Hammerstorm",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    28.7,
+    66.1
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring the Rough Quartz to Teo Hammerstorm in Anvilmar. Rough Quartz (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 6656,
+   "name": "Rough Quartz",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  96243,
+  94373,
+  94374,
+  94375
+ ],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 5891,
+   "name": "Minor Manifestation of Earth",
+   "coord": [
+    24.8,
+    61.8
+   ],
+   "coords": [
+    [
+     24.8,
+     61.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 257446,
+   "name": "Teo Hammerstorm",
+   "coord": [
+    28.7,
+    66.1
+   ],
+   "coords": [
+    [
+     28.7,
+     66.1
+    ]
+   ]
+  },
+  {
+   "zoneId": 14,
+   "zone": "Durotar",
+   "point": "start",
+   "type": 1,
+   "id": 5891,
+   "name": "Minor Manifestation of Earth",
+   "coord": [
+    44,
+    76
+   ],
+   "coords": [
+    [
+     44,
+     76
+    ]
+   ]
+  },
+  {
+   "zoneId": 215,
+   "zone": "Mulgore",
+   "point": "start",
+   "type": 1,
+   "id": 5891,
+   "name": "Minor Manifestation of Earth",
+   "coord": [
+    53.8,
+    80.4
+   ],
+   "coords": [
+    [
+     51.8,
+     80.2
+    ],
+    [
+     53.8,
+     80.4
+    ],
+    [
+     53.8,
+     80.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

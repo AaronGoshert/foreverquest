@@ -1,0 +1,656 @@
+{
+ "id": 313,
+ "name": "The Grizzled Den",
+ "level": 7,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 630,
+ "start": {
+  "type": "npc",
+  "id": 1377,
+  "name": "Pilot Stonegear",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    49.6,
+    48.4
+   ],
+   [
+    49.6,
+    48.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1377,
+  "name": "Pilot Stonegear",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    49.6,
+    48.4
+   ],
+   [
+    49.6,
+    48.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Gather 8 Wendigo Manes and bring them to Pilot Stonegear . Wendigo Mane  ( 8 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 2671,
+   "name": "Wendigo Manes",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Wendigo Mane",
+   "count": 8,
+   "type": "item",
+   "id": 2671
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1377,
+   "name": "Pilot Stonegear",
+   "coord": [
+    49.6,
+    48.4
+   ],
+   "coords": [
+    [
+     49.6,
+     48.4
+    ],
+    [
+     49.6,
+     48.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1377,
+   "name": "Pilot Stonegear",
+   "coord": [
+    49.6,
+    48.4
+   ],
+   "coords": [
+    [
+     49.6,
+     48.4
+    ],
+    [
+     49.6,
+     48.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1134,
+   "name": "Young Wendigo",
+   "coord": [
+    42.6,
+    55.2
+   ],
+   "coords": [
+    [
+     39.2,
+     49.2
+    ],
+    [
+     40.4,
+     45.8
+    ],
+    [
+     40.6,
+     45.4
+    ],
+    [
+     40.6,
+     45.6
+    ],
+    [
+     42.2,
+     53.4
+    ],
+    [
+     42.2,
+     55.6
+    ],
+    [
+     42.4,
+     54.2
+    ],
+    [
+     42.4,
+     54.8
+    ],
+    [
+     42.6,
+     55.2
+    ],
+    [
+     42.6,
+     55.6
+    ],
+    [
+     43.4,
+     54.4
+    ],
+    [
+     43.5,
+     54
+    ],
+    [
+     43.5,
+     55.4
+    ],
+    [
+     43.5,
+     55.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1135,
+   "name": "Wendigo",
+   "coord": [
+    42.2,
+    52.6
+   ],
+   "coords": [
+    [
+     39.4,
+     46.2
+    ],
+    [
+     40.4,
+     46.4
+    ],
+    [
+     40.4,
+     46.8
+    ],
+    [
+     40.6,
+     46
+    ],
+    [
+     40.6,
+     46.8
+    ],
+    [
+     41,
+     45.4
+    ],
+    [
+     41,
+     49.4
+    ],
+    [
+     41,
+     49.8
+    ],
+    [
+     41.4,
+     51.2
+    ],
+    [
+     41.6,
+     49
+    ],
+    [
+     41.8,
+     45.2
+    ],
+    [
+     41.8,
+     51.4
+    ],
+    [
+     42,
+     46
+    ],
+    [
+     42,
+     47.8
+    ],
+    [
+     42.2,
+     47.4
+    ],
+    [
+     42.2,
+     52.4
+    ],
+    [
+     42.2,
+     52.6
+    ],
+    [
+     42.4,
+     54.2
+    ],
+    [
+     42.4,
+     54.6
+    ],
+    [
+     42.6,
+     49.4
+    ],
+    [
+     42.6,
+     51.8
+    ],
+    [
+     42.6,
+     55
+    ],
+    [
+     43.2,
+     49.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1137,
+   "name": "Edan the Howler",
+   "coord": [
+    40.8,
+    47
+   ],
+   "coords": [
+    [
+     39,
+     47.6
+    ],
+    [
+     39.2,
+     46.2
+    ],
+    [
+     39.2,
+     47.4
+    ],
+    [
+     39.6,
+     46
+    ],
+    [
+     40.4,
+     46.8
+    ],
+    [
+     40.8,
+     47
+    ],
+    [
+     43,
+     49.2
+    ],
+    [
+     43.2,
+     49.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1271,
+   "name": "Old Icebeard",
+   "coord": [
+    38.4,
+    54
+   ],
+   "coords": [
+    [
+     36.4,
+     52.4
+    ],
+    [
+     36.8,
+     52.2
+    ],
+    [
+     37.4,
+     53.4
+    ],
+    [
+     37.4,
+     53.6
+    ],
+    [
+     37.6,
+     53.4
+    ],
+    [
+     38.4,
+     54
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1388,
+   "name": "Vagash",
+   "coord": [
+    62,
+    47
+   ],
+   "coords": [
+    [
+     61.4,
+     47
+    ],
+    [
+     62,
+     47
+    ],
+    [
+     62.2,
+     48
+    ],
+    [
+     62.4,
+     46.2
+    ],
+    [
+     62.4,
+     48.8
+    ],
+    [
+     62.6,
+     46.2
+    ],
+    [
+     63.2,
+     50
+    ],
+    [
+     63.5,
+     50.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 271486,
+   "name": "Wendigo Shaman",
+   "coord": [
+    41.8,
+    49.1
+   ],
+   "coords": [
+    [
+     40.3,
+     47.5
+    ],
+    [
+     40.4,
+     45.6
+    ],
+    [
+     40.4,
+     46.8
+    ],
+    [
+     40.6,
+     45.4
+    ],
+    [
+     40.6,
+     45.6
+    ],
+    [
+     41.2,
+     49.2
+    ],
+    [
+     41.8,
+     49.1
+    ],
+    [
+     42,
+     47
+    ],
+    [
+     42.1,
+     46.3
+    ],
+    [
+     42.5,
+     45.9
+    ],
+    [
+     42.6,
+     49.4
+    ],
+    [
+     42.6,
+     50
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 271530,
+   "name": "Elder Wendigo",
+   "coord": [
+    42.6,
+    50.2
+   ],
+   "coords": [
+    [
+     39.4,
+     46.2
+    ],
+    [
+     40.1,
+     48.5
+    ],
+    [
+     40.3,
+     47.5
+    ],
+    [
+     40.4,
+     46.4
+    ],
+    [
+     40.4,
+     46.6
+    ],
+    [
+     40.6,
+     46
+    ],
+    [
+     40.6,
+     46.8
+    ],
+    [
+     41.2,
+     45.2
+    ],
+    [
+     41.3,
+     49.4
+    ],
+    [
+     41.4,
+     48.4
+    ],
+    [
+     41.6,
+     45.4
+    ],
+    [
+     41.9,
+     47.8
+    ],
+    [
+     42,
+     46.4
+    ],
+    [
+     42.1,
+     47.4
+    ],
+    [
+     42.1,
+     48.5
+    ],
+    [
+     42.5,
+     49.2
+    ],
+    [
+     42.5,
+     50.5
+    ],
+    [
+     42.6,
+     46.9
+    ],
+    [
+     42.6,
+     50.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 271587,
+   "name": "Frosthowl",
+   "coord": [
+    39.6,
+    48.6
+   ],
+   "coords": [
+    [
+     39.4,
+     48.4
+    ],
+    [
+     39.4,
+     48.8
+    ],
+    [
+     39.6,
+     48.6
+    ],
+    [
+     40,
+     48.3
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 51,
+   "date": "2005-10-11T00:32:28-05:00",
+   "body": "Wendigo cave: 42, 54\nTurn quest in: 49, 48",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-10-07T04:17:29-05:00",
+   "body": "I Soloed it with my lvl 7 pally (paladin) and i didnt take on 7 at once! The max amount i killed at once was 3!",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-11T00:32:28-05:00",
+   "body": "Pilot Stonegear is at 49,48",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-21T02:31:19-05:00",
+   "body": "the den is right behind the blacksmithing place in kharons. my advice is to not go in the cave if u are lvl 6 or 7 stay outside the cave and use ranged weapons to lure the wendigos out. if you go inside you will get traped and have to run for it to get out. unless u think u can kill 7 wendigos all at once.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-12T12:53:11-05:00",
+   "body": "43, 55",
+   "replies": [
+    "coordinates are 43,55"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-16T17:24:31-06:00",
+   "body": "They just don't drop them with my I'm Dwarf lvl 12",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-11-09T00:52:41-06:00",
+   "body": "Coordinates: 42.55",
+   "replies": [
+    "What are these coordinates? It'd be nice if someone posted directions."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-10T17:05:03-06:00",
+   "body": "The Grizzled Den is slightly Southeast of Kharanos, for those who don't have coordinates.  Wendigos can be quite bothersome at this level, so I recommend you take one or two friends along with you.  The Wendigos don't drop these frequently, but don't give up!  It generally takes players 2 clears of the cave to get all of the manes.",
+   "replies": [
+    "Thanks for the directions :D.  Way better than coordinates."
+   ]
+  }
+ ]
+}

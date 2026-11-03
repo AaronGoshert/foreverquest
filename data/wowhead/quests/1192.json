@@ -1,0 +1,220 @@
+{
+ "id": 1192,
+ "name": "Indurium Ore",
+ "level": 42,
+ "reqlevel": 29,
+ "side": 3,
+ "zoneId": 400,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 4630,
+  "name": "Pozzik",
+  "zone": "Thousand Needles",
+  "zoneId": 400,
+  "coords": [
+   [
+    80,
+    75.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4630,
+  "name": "Pozzik",
+  "zone": "Thousand Needles",
+  "zoneId": 400,
+  "coords": [
+   [
+    80,
+    75.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Progress I'd like to integrate indurium into different parts of our racers, but I need large amounts of raw indurium to create these parts. You can find indurium ore in the Uldaman excavation in the Badlands, across the sea in Khaz Modan. The gnomes are getting their own supply of it, so it's important we get our own to keep pace with them. Indurium Ore  ( 4 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5833,
+   "name": "indurium ore",
+   "count": 4,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Indurium Ore",
+   "count": 4,
+   "type": "item",
+   "id": 5833
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 400,
+   "zone": "Thousand Needles",
+   "point": "start",
+   "type": 1,
+   "id": 4630,
+   "name": "Pozzik",
+   "coord": [
+    80,
+    75.8
+   ],
+   "coords": [
+    [
+     80,
+     75.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 400,
+   "zone": "Thousand Needles",
+   "point": "end",
+   "type": 1,
+   "id": 4630,
+   "name": "Pozzik",
+   "coord": [
+    80,
+    75.8
+   ],
+   "coords": [
+    [
+     80,
+     75.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 200,
+   "date": "2007-05-21T17:12:14-05:00",
+   "body": "Do this if you need to waste time and bag space. You get 6 silver - no rep, no experience, no reward, no item to click that will give you back the time you threw away going to The Not-So-Shimmering Flats.",
+   "replies": []
+  },
+  {
+   "rating": 34,
+   "date": "2007-03-01T16:08:50-06:00",
+   "body": "Blue ? - Repeatable.... \r\n\r\nThink its just free money at this point for running ulda.  but the chain to get there gives a nice amount of XP and rep.",
+   "replies": []
+  },
+  {
+   "rating": 20,
+   "date": "2007-04-15T05:41:02-05:00",
+   "body": "First you have to do these quests from this chain.\n\n[url=https://www.wowhead.com/forever/quest=1106/martek-the-exiled]https://www.wowhead.com/forever/quest=1106/martek-the-exiled[/url]\n\nthen you can pick up this quest",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2005-03-07T02:08:23-06:00",
+   "body": "[quest=1137]",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-03-31T00:53:02-05:00",
+   "body": "You need to mine the ore from in Uldaman (there is definately some in the instance, possibly outside the instance as well - not sure), or buy them off someone who has some (possibly a miner in your group in Uldaman).",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-03-27T23:55:26-05:00",
+   "body": "I still have the sample of indurium ore... :/",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-12-23T12:24:42-06:00",
+   "body": "Upon completion of the 'News for Fizzle' quest (at lv 42), I went over to Pozzik and picked up 'Keeping Pace' (which is where you speak to Zamek, and he supplies a distraction for you to steal the gnomes' plans).\nWhen you \"steal\" the plans, you're offered the quest 'Rizzle's Schematics' which has you bring back the Sample of Indurium Ore that appears in your pack, to Pozzik.\nPozzik then offers you a repeatable quest of retrieving 4 Indurium Ore found in Uldaman. This repeatable quest does not show up in your log.\n\nFor completing 'Keeping Pace', I was awarded 1650 exp pts and 50 reputation for Ratchet. For completing 'Rizzle's Schematics' I was awarded the same again.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-03-04T08:18:00-06:00",
+   "body": "Anyone know anything about this quest? Like who gives it?",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-03-29T21:26:44-06:00",
+   "body": "When I handed Pozzik 4 x Indurium Ore, I got the quest completion as such:\n\nReceived 6 Silver\nIndurium Ore <needs reward -- repeatable> completed.\n\nNo XP, no faction increase, nothing.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-05-11T18:17:51-05:00",
+   "body": "Did you guys get [url=/item=5866]Sample of Indurium Ore[/url] if so what is it for? I forget since it was such a long time ago.\n\nEdited, Wed May 11 14:24:47 2005",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-03-24T22:54:56-05:00",
+   "body": "i suppose its nice to have if you want to level mining and are going to the instance alot... im kind of disappointed by the level of work to get to it though",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-13T15:53:15-05:00",
+   "body": "At level 50 no xp, no rep, just 6s... :(",
+   "replies": [
+    "same at level 42"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2007-02-03T04:52:20-06:00",
+   "body": "the main use I find for these veins is to skill up mining, personally.  still not greyed out at 240.\n\nof course for some insane reason this posted in the quests thread and not the ore thread.  whatever.\n\n[i][small]Edited, Feb  3rd 2007  1:53am by toastedman[/small][/i]",
+   "replies": [
+    "maybe because it is a quest :)\na quest carrying the same name as the ore, I'll grant you that :P"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-05T16:09:33-06:00",
+   "body": "At lvl 53 i got 170 exp and 75 Rachet rep each for the 2 quests mentioned.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-04-12T11:54:39-05:00",
+   "body": "Well i get this Quest form Pozzik (Goblin), in Shimmering Flats, after doing a quest where i steal some plans for him....\n\nBut if i really dont get any exp for doing it its not gonna be my top priority...\n\nDaphoes",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-19T05:15:06-05:00",
+   "body": "Is it possible we haven't yet gathered enough to satisfy the quest? Pozzik does mention \"large amounts\" in his text. What's the most anyone's donated? I did 8 pieces tonight.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-03-29T21:28:46-06:00",
+   "body": "Oh, just to clarify; Pozzik is in Mirage Raceway of SF and asks for 4 of this ore but doesn't actually give you a quest for your log book.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-04T01:26:27-06:00",
+   "body": "I am level 42, and this quest does not seem to be available anymore.",
+   "replies": [
+    "The pre-requisite for this quest is https://www.wowhead.com/forever/quest=1194."
+   ]
+  },
+  {
+   "rating": -4,
+   "date": "2007-04-09T03:45:50-05:00",
+   "body": "i cant get this quest i'm a 44 blood elf paladin y cant i get it dang it?\n\ncan some 1 tell me y?",
+   "replies": [
+    "Am 44 warrior - got the stuff can't&nbsp; get the quest\n\nIs it now gone?"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,314 @@
+{
+ "id": 4463,
+ "name": "Libram of Rumination",
+ "level": 55,
+ "reqlevel": 50,
+ "side": 3,
+ "zoneId": 46,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 9836,
+  "name": "Mathredis Firestar",
+  "zone": "Burning Steppes",
+  "zoneId": 46,
+  "coords": [
+   [
+    65,
+    23.4
+   ],
+   [
+    65,
+    23.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 9836,
+  "name": "Mathredis Firestar",
+  "zone": "Burning Steppes",
+  "zoneId": 46,
+  "coords": [
+   [
+    65,
+    23.4
+   ],
+   [
+    65,
+    23.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Progress Present the components, mortal. I will also require payment in the form of thirty gold pieces for this creation. Black Diamond  ( 1 ) Black Blood of the Tormented  ( 1 ) Gizzard Gum  ( 1 ) Libram of Rumination  ( 1 )   Required money: 30  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11754,
+   "name": "Black Diamond",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11752,
+   "name": "Black Blood of the Tormented",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 8424,
+   "name": "Gizzard Gum",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11732,
+   "name": "Libram of Rumination",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Black Diamond",
+   "count": 1,
+   "type": "item",
+   "id": 11754
+  },
+  {
+   "text": "Black Blood of the Tormented",
+   "count": 1,
+   "type": "item",
+   "id": 11752
+  },
+  {
+   "text": "Gizzard Gum",
+   "count": 1,
+   "type": "item",
+   "id": 8424
+  },
+  {
+   "text": "Libram of Rumination",
+   "count": 1,
+   "type": "item",
+   "id": 11732
+  },
+  {
+   "text": "Required money: 30",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "start",
+   "type": 1,
+   "id": 9836,
+   "name": "Mathredis Firestar",
+   "coord": [
+    65,
+    23.6
+   ],
+   "coords": [
+    [
+     65,
+     23.4
+    ],
+    [
+     65,
+     23.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "end",
+   "type": 1,
+   "id": 9836,
+   "name": "Mathredis Firestar",
+   "coord": [
+    65,
+    23.6
+   ],
+   "coords": [
+    [
+     65,
+     23.4
+    ],
+    [
+     65,
+     23.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 203138,
+   "name": "Anvilrage Overseer",
+   "coord": [
+    26,
+    23
+   ],
+   "coords": [
+    [
+     26,
+     23
+    ],
+    [
+     26.2,
+     22
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": [
+  {
+   "rating": 46,
+   "date": "2007-03-30T20:54:12-05:00",
+   "body": "If you are level 70 you can do this solo even without stealth. Helps to be a mage to blink past a few \"tight spots\".\r\n\r\nEnter BRD, go through the locked door on your left, continue straight to the \"highway\", take a right and follow the hall to Incendius, melt his face, loot corpse, dance happy jig, disenchant BOP drop (if you can), continue straight and go up the ramp, avoid mobs by walking on the railing most fo the way. At the top fo the ramp go through the doorway and go to the left, take the next left into the Cofffer Room. Blink past the boss and the dog so you are standing against the Dark Coffer. Attack and kill the dog and ignore the boss until the dog is dead. At level 70 you should resist all or most of the bosses spells. Kill the boss, loot and dance again, DE, walk to the edge of the room (stand about where the boss was standing), adjust your camera angle so you can click the picture on the wall and read the caption n the picture to find where the NPC is that you need to kill to get the Dark Coffer Key. Backtrack to wherever that mobs is and kill him to get the key, then return to the Coffer Room, open the Dark Coffer, loot contents, hearth out to Orgrimmar or Ironforge... spam the trade channel til you sell the \"enchant\" or get ignored by everyone on your server.\r\n\r\nIf you happen to get ignored by everyone on the server, pay Blizzard to do a server transfer to another. Repeat as needed.\r\n\r\n:-P",
+   "replies": [
+    "Hahaha, rock on :)"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-21T21:23:30-05:00",
+   "body": "Can you still apply this to someone else's armor via the trade window?",
+   "replies": [
+    "Why would you want to use it on someone else? Unless they were paying you over 100 gold in compensation for the time spent on this, it would be a glorious waste of your time and effort.",
+    "I regularly solo the dark coffer run with my rogue.  I then get tons and tons of the black coffer materials, which are bop.  Me and my guildies then farm the other materials (which are all much easier to get), and I then just apply the arcanum to their gear for them.  THAT is why its important you can still apply them to others gear.",
+    "yes you can still apply it to other people.",
+    "You can apply it to a guildies for the cost of the mats or whatever or sell the enchant to others for prices of mats and your fee for the work. Resilence, Rumination and Constituation sell pretty well. I've boughten them before just out of being lazy and not waiting to do it myself."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-01-19T20:43:31-06:00",
+   "body": "Got the libram in western plaguelands off a sorcerer lvl 51 at one of the farms",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-11T16:50:41-05:00",
+   "body": "Is the enchantement on the slot or the item in the slot?\n\nIf I get a new pair of pants, do I have to do the quest all over again?",
+   "replies": [
+    "yes, it's only on the item. Just like all other chants."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-30T05:40:32-06:00",
+   "body": "can you do this quest twice?",
+   "replies": [
+    "i've answered this meself.\n\nyes u can do it twice.\n\nthe quest simply involves getting the ingredients and paying the dude.\n\nu dont actually 'get' the quest."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-29T00:49:05-05:00",
+   "body": "at the flame crest camp in burning steppes.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-07T22:17:20-05:00",
+   "body": "You have to Retrieve all those things and 30g",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-26T00:47:30-06:00",
+   "body": "Can anyone explain where these spawnlocations are? I does not help me to say \"domicile, hall of crafting\" - can anyone come closer to a guide on this plz ?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-13T23:29:34-06:00",
+   "body": "what are the mats, atm the site is bugged and not sure what they are.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-07T16:37:00-05:00",
+   "body": "tier 1 or 2 pants and helm for max mana.\n\n[i][small]Edited, Aug  7th  2006 at 12:38pm EDT by eluneblows[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-19T13:15:01-06:00",
+   "body": "Is it possible to combine it with another Libram per slot?\n\nfor example\n\n+ 8 agi\n+150 mana\n\n\nRecently i saw BS pants with the enchant of +24AP +20sta +1% crit but i didnt find a Libram, that does that, where can i get this enchant?",
+   "replies": [
+    "Doesnt stack, and the enchant you saw was the ZG enchant."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-21T16:32:17-06:00",
+   "body": "You also need to pay 30g like with the other librams\n\nEdited, Sat Jan 21 09:33:38 2006",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-09T08:51:27-06:00",
+   "body": "...while grinding for Timbermaw rep in Felwood.  Got it off of a Deadwood Shaman (I think...might have been a den watcher) near Timbermaw Hold.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-30T14:39:44-05:00",
+   "body": "where do i find this guy? i have the book",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2020-02-13T03:37:42-06:00",
+   "body": "Soloed as 60 resto druid in Classic.\r\n\r\nIt really depends what Dark Keeper you get that makes the difference. Remember, they don't spawn until you click on the portrait.\r\n\r\nYou can open the portrait in 2 ways: \r\n\r\n1. The nearest mob to the portrait is 52 and you hug as close to the wall as possible while opening the portrait.\r\n2. If the nearest mob is above 52, bad luck. You have to use a Limited Invulnerability Potion to stop attacks on you while you open the portrait. I recommend doing this naked. You will die, but hopefully not take any durability damage. \r\n\r\nOnce you click on the portrait, if you are doing the Potion method, take a screenshot real quick of the opened portrait (once you again click on the INNER message) so you dont have to struggle to read it in 2 seconds.\r\n\r\nThe way to do it as a Druid as opposed to a Rogue is only different in that we do not have CC. The basic premise is the same: burn down the keeper as fast as possible. Unfortunately, with the Dark Guards he cannot be bursted down in cat (in MC gear) as they hit hard. You must outlast him in bear, pop out to heal, and pop back into bear asap. Start the fight off with a starfire, moonfire, and insect swarm on the keeper, if the location of the keeper permits it. Otherwise open up in cat for a ravage and quickly shapeshift out. From there, try to stay in bear as long as possible but don't let your health get too low as you can get burst down quick. Pop out of bear for a natures swiftness max rank healing touch, or Barkskin + regrowth + rejuv, or if you are tauren then war stomp and quickly cast regrowth. If you need to, take a potion. With innervate, you should be able to get the keeper down before you die, loot the key, and either run and jump off the nearest edge into the lava, or just accept your death. I cannot kill the two guards after. But if you can jump into the lava, depending on what keeper you are fighting, you can reset them, take off your armor and have a death without durability loss.\r\n\r\nAs for the Keepers: Bethek and Ofgut are a no-go. I cannot split Bethek from his 4 guards without being a rogue and having distract (let me know if you know a way!), and Ofgut could be cleared however it would mean you need to go in and kill the 3 elites standing in the place where he spawns, before you even know if he spawns or not.  So unless you want to clear those every single time, then just instantly reset the instance if you got Bethek or Ofgut. You can reset the instance by having an alt in the group, logging over to the alt, and resetting the instance. It'll port your main out.\r\n\r\nThat leaves 4/6 potential Keepers that can end up in you getting loot:\r\n\r\nPelver: A frost mage, has frostbolt and frost armor abilities. I had no problem burning him down as I resisted most of his spells. He is tricky to reach as his little room in the domicile has 2 dogs outside it. You must quickly dash by the dog while hugging the wall, or improved stealth may work. If you just walk by at normal speed the dog will turn around and see you.\r\n\r\nUggel: A warlock with Curse of Agony and Shadow bolt. He's in the easiest location right outside the dark coffer, around the corner. Just watch out for the fireguard pat. He's a bit tougher because the curse hurts and you are often in bear. But it can be decursed off.\r\n\r\nVorfalk: He's annoying because he spawns in the middle of the bar, surrounded by mobs. You need to carefully pull the Grim patrons away, using moonfire for the packs you can take. For the larger groups, or the groups too close to Vorfalk, buy the beer from Plugger in the bar and use the beer to split up the group. Other than that, he's just an elemental shaman with lightning bolt and earth shock that doesnt interrupt. He can do some burst but I didn't have trouble.\r\n\r\nZimrel: Priest with no heal. Fireball and shield. He spawns with two guards at the top of the arena, not near any spectators so he can be killed easily.\r\n\r\nOnce you loot the key you will likely die, however using the lava method you can avoid durability damage. When you run back in you can stealth up to the dark coffer and claim your prize.\r\n\r\nIf everything goes perfectly, this still costs you money and time. But you should only have to do it a couple times to get your enchant.\r\n\r\n1x Limited Invulnerability Potion per run where the nearest mob to portrait is higher than 52\r\n1x naked death that is 100% chance no durability damage\r\n1x other death that could cause durability damage or you could potentially avoid by jumping and resetting in lava and dying naked",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-03-22T04:20:53-06:00",
+   "body": "can a enchanter do this quest more than once?",
+   "replies": [
+    "[quote]can a enchanter do this quest more than once? [/quote]\nfirst of all... this has nothing to do with being an enchanter anyone can do these quests and yes anyone can do it twice as it can be applied to 2 different slots so you can do it oncer per slot"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-24T11:30:11-05:00",
+   "body": "ok, this one does not stack with other enchantments, but does it stack with itself as you can do this twice? And twice per equip slot ? So that means you could do it 4 times , twice for the legs and twice for the helmet?\n\nEdited, Wed Dec 21 06:57:45 2005",
+   "replies": [
+    "No you cant stack 2."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-01-25T03:58:47-06:00",
+   "body": "Got one off the lvl 52 Slavering Ghoul in Western Plaguelands.",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2005-04-14T13:29:11-05:00",
+   "body": "does that enchantment stay with my old normal enchant on the head or legs....?  if so.... 1 equipment has 2 enchantment? any1 tryed 2 put more than 1 different lesser arcanum ?",
+   "replies": [
+    "Use: Permanently adds 150 mana to a leg or head slot item. [b]Does not stack with other enchantments for the selected equipment slot[/b]"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,461 @@
+{
+ "id": 4763,
+ "name": "The Blackwood Corrupted",
+ "level": 18,
+ "reqlevel": 15,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1700,
+ "start": {
+  "type": "npc",
+  "id": 3649,
+  "name": "Thundris Windweaver",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    37.4,
+    40.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3649,
+  "name": "Thundris Windweaver",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    37.4,
+    40.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Fill the Empty Cleansing Bowl at the Auberdine Moonwell. Gather a sample of fruit, nut, and grain from the northern Blackwood furbolg camps. Mix the bowl and place it near the bonfire closest to the Cliffspring River at the northern camp, thus summoning the satyr corruptor. Take the Talisman of Corruption and bring it to Thundris Windweaver in Auberdine. Talisman of Corruption  ( 1 ) Blackwood Fruit Sample  ( 1 ) Blackwood Grain Sample  ( 1 ) Blackwood Nut Sample  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 12346,
+   "name": "Empty Cleansing Bowl",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 12355,
+   "name": "Talisman of Corruption",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 12341,
+   "name": "Blackwood Fruit Sample",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 12342,
+   "name": "Blackwood Grain Sample",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 12343,
+   "name": "Blackwood Nut Sample",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Talisman of Corruption",
+   "count": 1,
+   "type": "item",
+   "id": 12355
+  },
+  {
+   "text": "Blackwood Fruit Sample",
+   "count": 1,
+   "type": "item",
+   "id": 12341
+  },
+  {
+   "text": "Blackwood Grain Sample",
+   "count": 1,
+   "type": "item",
+   "id": 12342
+  },
+  {
+   "text": "Blackwood Nut Sample",
+   "count": 1,
+   "type": "item",
+   "id": 12343
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 3649,
+   "name": "Thundris Windweaver",
+   "coord": [
+    37.4,
+    40.2
+   ],
+   "coords": [
+    [
+     37.4,
+     40.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 3649,
+   "name": "Thundris Windweaver",
+   "coord": [
+    37.4,
+    40.2
+   ],
+   "coords": [
+    [
+     37.4,
+     40.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 4,
+ "comments": [
+  {
+   "rating": 131,
+   "date": "2007-03-24T23:41:37-05:00",
+   "body": "The demon doesn't actualy drop the quest item- its on the floor right next to him when you kill him.",
+   "replies": [
+    "Thanks. I did the whole thing twice and couldn't get the talisman!"
+   ]
+  },
+  {
+   "rating": 93,
+   "date": "2005-10-07T19:47:25-05:00",
+   "body": "this quest is ok..i soloed with my lvl 17 druid. all&nbsp; of the quest items are in the same looking canister. Like a giant drum on its side. These are the locations \n\nGrain=50,33\n\nNuts=51,34\n\nFruit=52,33\n\nPretty easy quest...so far..i still have to kill the actual guy but it cant be that hard :p im writing this as i go.",
+   "replies": []
+  },
+  {
+   "rating": 37,
+   "date": "2019-08-28T00:27:47-05:00",
+   "body": "To complete the quest you need to collect three ingredients from barrels at furbolg camps. But first, fill [b][item=12346][/b] from Auberdine well.\r\nAll the camps are located east of Bashal'aran and filled with mobs, so be carefull. Also opening the barrels may trigger furbolg respawn so mind it.\r\nAfter collecting three ingredients find a big bonfire and use bowl to spawn [b][npc=10373][/b]. Kill him and open [b][object=177624][/b] it's just dropped on the ground.\r\n[quote][u][b]Tome Tome Coordinates:[/b][/u]\r\n/way 37.76 44.02 Auberdine Well Location\r\n/way 50.63 35.05 Blackwood Grain Sample Location\r\n/way 52.91 33.38 Blackwood Fruit Sample Location\r\n/way 51.81 33.43 Blackwood Nut Sample Location\r\n/way 52.30 33.39 Blackwood Bonfire Location[/quote]\r\n[b][quest=4763][/b] - www.youtube.com/watch?v=O0skyfDp_tQ",
+   "replies": []
+  },
+  {
+   "rating": 31,
+   "date": "2005-06-15T20:27:32-05:00",
+   "body": "This is an irritating quest if you lose. When I got back to my corpse he was still there (and it was a little buggy, some of the furbolgs were shifting between green and red), so I sat and rebuffed, and right when I was about to pull him, he disappeared.\n\nYou lose the bowl when you use it, so you have to abandon the quest and get it again to get the bowl again to resummon. Pretty annoying.",
+   "replies": []
+  },
+  {
+   "rating": 27,
+   "date": "2007-02-15T21:54:36-06:00",
+   "body": "The items can be found:\r\nGrain: 50, 35\r\nFruit: 52, 33\r\nNuts: 51, 33\r\n\r\nOnce you have all of the items, right-click on the cleansing bowl and you'll see ALL of the Furbies run at you, but don't worry they won't attack you.  I solo'd this as a 17 druid.",
+   "replies": []
+  },
+  {
+   "rating": 24,
+   "date": "2004-12-10T16:25:18-06:00",
+   "body": "What you're looking for is in the containers that look like large, over-turned barrels or drums.  Once you've collected all three, you have to \"use\" the items beside the bonfire in the center of the camp.  You can't do this while in combat, but once you DO, don't worry about the furbolgs, as they'll become pacified and not attack you (at least for a while).  After about five seconds, Xabraxxis will appear and begin attacking you.  Kill him and take the talisman you loot from his \"demon bag\" back to Thundris.",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2007-04-08T07:47:25-05:00",
+   "body": "It's a fairly hard quest, I died twice doing it. Most of the time it was because I was pulling and then was attacked by 3 or 4 of the level 14 Bears. \n\nJust pull all the ones near the materials away. gather those, then pull and kill as many in the camp as you can, run in, right click the bowl and then run.\n\nWait until all the things swarm the bowl, then a red devil looking guy shows up (level 19) yelling about cleansing camps, pull him, kill him, loot his body.\n\nTHE TALISMAN IS IN A CRATE NEXT TO HIS BODY, IT ISN'T ON HIS BODY.\n\nGoodluck, \n[pad][div align=center][b]Unsuspected, Level 15 NE Hunter[/b][/div][pad]",
+   "replies": [
+    "Yep, didn't see that crate. The bears all went ugly again, had to fight my way back in, at the last second the crate disappeared. Now I too am without bowl or ingredients, gotta do the whole damned thing again :("
+   ]
+  },
+  {
+   "rating": 10,
+   "date": "2007-04-14T17:27:21-05:00",
+   "body": "[url=https://www.wowhead.com/forever/item=12342]Blackwood Grain Sample[/url]\n[url=https://www.wowhead.com/forever/item=12341]Blackwood Fruit Sample[/url]\n[url=https://www.wowhead.com/forever/item=12343]Blackwood Nut Sample[/url]\n\nFirst one is at southern camp, others are at northern.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-10-07T19:47:25-05:00",
+   "body": "the camp is at around 50,33.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-10-20T22:54:03-05:00",
+   "body": "Camp is at 50, 35.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-10-07T19:47:25-05:00",
+   "body": "Heres a tip (i fink). Go to the that water fall and track back south along the mountain you will see the camps.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-09-16T10:59:56-05:00",
+   "body": "The Satyr that arrives is level 19 and brings a couple of furblogs with him, despite the rest becomming friendly to you.",
+   "replies": [
+    "He came solo for me... I think you may have seen him along with two of the guards that spawn when you collect the grain/fruit/nuts.  Those spawns are linked, and may also link to the satyr."
+   ]
+  },
+  {
+   "rating": 6,
+   "date": "2007-05-09T15:25:26-05:00",
+   "body": "Watch out, I got griefed on this one, some dork waited until I was doing the action at the campfire to pull the whole camp at me.  if you have to run you'll end up with a broken quest with no satyr, no talisman, no fruit nuts grain or bowl.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-04-08T07:47:25-05:00",
+   "body": "Im so annoyed with this quest!&nbsp; I did everything just fine, got the three food items, got the filled bowl and placed it at the bonfire.&nbsp; All the blackwood guys ran to it, and their names turned green. But NO SATYR SHOWED UP.&nbsp; so i had to redo the frekin quest.&nbsp; Walked aaallllll the way to auberdine and back again, redid the quest, and of course, i find out i forgot to fill the GD bowl at the GD moonwell again!&nbsp; god! why!",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2004-11-30T15:08:17-06:00",
+   "body": "there are 2 blackwood camps south of the cave for the mushroom quest and next ot the cave for den mother quest",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-07T19:47:25-05:00",
+   "body": "This guy is level 19 and a bit tough. It really is a good idea to at least have 1 partner.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-06-20T07:47:25-05:00",
+   "body": "I just soloed this quest with my 19 rouge NE.. the first camp for the grains is just a little sout along the mountains from the river and the other camp is just next to the river for the fruits an nuts. After collecting the grains an fruits i placed it by the bonfire of the northern camp an when the guy appeared i pulled him to the log on the river up near the waterfall. never had any other mobs attack me and by the time i killed him they were all still green. Who ever says you need a team mate there full of it or just have no skills being i am a rookie and completely new to the game. later hope this helps people. Also for mixing the regents in the bowl u simply walk to the bonfire an right click the bowl.. It will mix all regents an set the food simply by right clicking the bowl near the fire ..",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2019-12-04T16:53:13-06:00",
+   "body": "This is one of those Classic quests best done with a friend or even a team of friends; or at level 20+. You can solo it at lower levels but be prepared for several things. 1) It's primarily a pulling game so [b]Pull[/b] the Totemics and Warriors away from the storage drums, then run like Hell when 42 additional mobs materialize out of thin air and attack you (they won't follow too far), 2) [b]Pull[/b] the single Warriors and Totemics out of the camp so you can get close enough to the fire, then run away when all the ones you killed before respawn, 3) [b]Pull[/b] the respawns away from the group one by one and kill them again, then 4) [b]Pull [/b]any additional Warriors and Totemics that just seem to have shown up for whatever reason, then 5) Put the Filled Cleansing Bowl next to the fire, heal up as fast as you can when Xabraxxis is yelling whatever he does, then kill him. He's a 19 with no special talents but occasionally he will have an escort or two and that's the end of you. Surprise!\n\nAbraxxis hangs around for awhile so run back and rez (2 time zones but only one plane change), then realize that all the mobs in the camp have now turned red and you don't have the Cleansing Bowl. Dump the quest and spend the rest of the evening wondering how you're ever going to get all that time back. Then you realize that's one of the great things about Classic - it teaches you pretty quickly that life isn't meant to be perfect or even fair. It is what it is; good days and bad days. So bring a friend or two. Or as one of my guildmates did - go back and redo the quest at level 50. No XP but there's that great feeling of completion...",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-03-02T19:47:25-06:00",
+   "body": "After reading other comments I went in alone as a lvl 19 hunter with my lvl 19 pet nightsabre.&nbsp; We went from the road along the river's north shore and crossed a fallen tree to get at the camps.&nbsp; We pulled out blackwoods one by one from the rear of each camp until we could get each of the 3 items.&nbsp; Did get killed on first try but then just took out as many as possible as quickly as possible to get prizes.&nbsp; Then went back to correct camp, where all had respawned, and took out more until we could get next to bonfire.&nbsp; Quickly activated items which drew out satyr who was easy to kill.&nbsp; All the blackwoods respawned and circled bonfire but left us alone.&nbsp; We didn't waste time looting everything and tried to run out fast, but EVERYTHING respawned within about 5 seconds of getting talisman, and they first killed my pet then got me.&nbsp; I resurrected and shadowmelded, then snuck away, revived pet and was still able to loot a few corpses.&nbsp; While doing quest I hit lvl 20.&nbsp; It can be done but is probably best accomplished with either a partner or a pet that you know how to use.&nbsp; Good luck!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-07T19:46:04-05:00",
+   "body": "I just tried this as a level 16 priest, and got a royal spanking because I overlooked where the person said it summons a level 19. (Although, I guess I should've been tipped off by the fact that it took me nearly half an hour to clear out enough of the fubolgs to get to the bonfire...)\n\nSo.... yeah. Just be aware that the furbolgs are 17 and 18, and the satyr is 19. :x",
+   "replies": [
+    "I managed to solo this as a 16 lvl priest, but it was not easy.  I died the first time I tried the 19th lvl guy and had to pop a potion at the end.  I would recomend bringing friends.  :)"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2019-12-01T01:04:16-06:00",
+   "body": "Classic, 12/1/2019:\r\n\r\nGrain: /way 50.63, 35.00\r\n\r\nNut: *also where the fire is to cleanse, and you fight the demon /way 51.76, 33.47\r\n\r\nFruit: *same camp, far side /way 52.88, 33.37",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2021-01-03T14:42:17-06:00",
+   "body": "To get to this quest you first need to do the three stages of this quest: [quest=984] .  This gets you this quest [quest=4761] and that leads to [quest=4762] and once you complete that you get this quest.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-02T19:47:25-06:00",
+   "body": "I did this pretty easily as a 20 Priest. I just Mind Soothed the furbolgs guarding each food store, grabbed the food, and ran as the add spawned. To place to food next to the bonfire, I just Mind Soothed everyone nearby and ran as everyone rushed to the bowl. Then the satyr spawned and it was a quick, easy 1-on-1 battle.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-25T07:47:25-06:00",
+   "body": "My advice to anyone is to go to the right of the camp. (near the mountain range) Attack the bears on that side one by one. Then when you get close to the bonfire make sure there's only one bear guarding it (there's three around it) Because the totum looking thing will make him attack you. You want the least amount of bears around you while you mix the bowl near the bonfire. After this, mix the bowl. (no distractions around you really...) Then all the bears will circle the bonfire and turn good. The guy you need to kill will come out and attack you. If you are a rogue like me, I suggest you use evasion. It helps a bit. For all others, I think if you're a 18 you can deffinitely do it. Also, make sure you get the talisman of corruption. It's in a brown wicker looking basket around the guy. Good luck. ;]",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-18T06:11:40-05:00",
+   "body": "I actually didn't have to do a thing. There were others doing the same quest, I slaughtered the satyr and just opened the basket and that was it. There's plenty of Talisman of Corruptions for everyone so I really didn't consider it as a theft :)\n\nEdited, Thu May 18 01:04:12 2006",
+   "replies": [
+    "yeah thanks for the story, so maybe we should all just sit around and wait for some suckers to come around and do the quest for us, thank you for the help ohh wise teacher",
+    "Wanted to add a similar comment. I was still getting all the ingredients around the camp when someone else triggered the satyr. I didn't know what was happening when all the furborgs ran into the fire. It was weird. Anyway, he killed the satyr, and then ran off. I thought he might have forgotten to loot the basket, but looks like anyone can loot the basket even if you haven't completed all the parts of the quest."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-16T16:06:00-06:00",
+   "body": "I summoned the demon and lost.  I no longer have the bowl, however, I canr regain the fruit, nut and grain.  Can I resummon him without the bowl?  the NPC does not offer the bowl again either.",
+   "replies": [
+    "Try abandoning the quest then talking to npc again."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-29T04:11:34-05:00",
+   "body": "So I am standing near the bonfire and can't figure out how to mix the ingrediants in the bowl. I clicked and clicked. What must i do to mix thie ingredients in the bowl and cook it?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-30T16:19:31-05:00",
+   "body": "does anyone else find it amusing how close the demon's name is to B.A. Baraxis (Mr. T in A-Team)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-19T08:50:45-06:00",
+   "body": "I can't fill the bowl with moonwater from moonwell.  I tried destroying the bowl, abandining quest and starting over.  Still can't fill the bowl with water.  Help!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-17T04:11:48-05:00",
+   "body": "I just finished this quest and ran off to the Mushroom cave to, um, collect some mushrooms.  As I'm running around, killing fishy people, I notice some Furbolgs following me around.  Instantly I'm like, \"oh $%^&, they followed me, and I get ready to fight the four of them off (I'm a Priest so this is NOT my specialty).  A moment's pause saved me, though, as I realized they were all greens, and therefore friendly.\n\nThey followed me from the camp.  Weird, huh?",
+   "replies": [
+    "After finishing this quest this morning, I hearthed back to the Aub inn to close out this and a couple other quests.  After a few minutes of that and hangin' around the inn, a Totemic seemed to spawn right on top of me.  Poor guy had to walk ALL the way to the inn to thank me!\n\nI gave him some nuts and a /hug and sent him back home ;)"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-28T05:26:35-06:00",
+   "body": "i found this quest funny as heck, when you put the items in the fire the all run to get at it, both me and my party member found this quite humorus. anyway the talisman was indeed in a basket type thing next to his dead body, or it was for me anyway. i was a lvl 18 or 19 rogue and my partner was a lvl 15 or16 hunter it was easy enough but be sure to kill the things around the barrels because they attack when they see you messing with it.  \n\nEdited, Sun Mar 27 23:27:17 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-12T03:12:23-05:00",
+   "body": "I lost the bowl... How can I get another one?",
+   "replies": [
+    "all you have to do is \"abandon quest\" then talk to the quest giver to get a new bowl"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-14T02:31:10-06:00",
+   "body": "Right click when the \"cog\" appears to open barrels/chests/giant clams/etc...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-19T16:04:23-06:00",
+   "body": "I cant seem to mix it all in the bowl, help. I got to the big bon fire and sat there an clicked on the bowl and the berries, nuts , and grain. I tried dropping it in the fire, I tried putting it all in the bowl and it didn't do anything.What am I doing wrong?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-04T18:24:11-05:00",
+   "body": "The ingredients:\nMoonwell 37,44\nGrain 50,34\nNuts 51,33\nFruit 52,33\n\nAfter getting the samples, create the bowl you filled at the moonwell in Auberdine while you are standing somewhere in the middle of the camp.\nNext the beast will turn green/friendly and Xabrassis will show up (lvl 19). Kill him and box shows up. Open that box to finish the quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-13T03:07:46-05:00",
+   "body": "Ok, first off, I don't have the bowl, who do I get that from and I searched all over the two camps, killed everything in site and still can't find the items requird.  Help.",
+   "replies": [
+    "you get the bowl from the quest giver.\n"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-29T20:15:38-06:00",
+   "body": "This was an easy enough quest for me (lvl 18 rogue) but the furbolgs(sp?) weren't pacified, and some hunter tagged my satyr before i could get to him, thereby i killed him, but lost the quest... now i have to start all over... bah... curious as to why the furbolgs didn't pacify?",
+   "replies": [
+    "I don't know about the Furbolgs, but the Talisman doesn't come from the Satyr. It's very possible for one person to kill the Satyr and another, ungrouped, person, loot the Talisman. In fact, I have done this and both people got the Talisman. It comes from a basket near the bonfire, a basket that becomes targetable for a short while after the satyr is killed. Anyone who has this quest can get a talisman then - it doesn't matter who actually killed the Satyr at all."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-15T21:31:56-06:00",
+   "body": "Where is this camp?  I cannot find it.  I have looked around the bridge over the Cliffspring River.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-30T17:38:57-05:00",
+   "body": "got killed the first time and had to start over - the SECOND time i killed the demon but had no idea the talisman was in a damned box and did not see one anyway for all the furbolgs around...meaning i have to do the damned thing again.\n\n!@#$",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-11-28T05:37:55-06:00",
+   "body": "is there some trick to getting the samples of food? i've looked all over...\n\nedit: i was told i have to find some large barrels... i found them, but can't do anything with them? \n\nEdited, Sat Nov 27 23:47:08 2004",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-06T14:56:31-06:00",
+   "body": "Edited, Tue Dec  7 15:01:44 2004",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-03T05:07:19-06:00",
+   "body": "I did this as a level 17 druid, feral but not like it matters at this low of level anyway.\n\nPretty much I didn't have any problems, I did the whole quest in about 30 minutes tops.  Just be careful pulling, I only had to kill 2 or 3 furbolgs for each sample and around the bonfire.  The satyr is annoying when it goes berzerker but it was an easy quest if you use the coordinates.  Or even if you don't, whatever works. xD",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-09T23:40:27-06:00",
+   "body": "To get the food, you have to get close enough to the barrel to right-click and open it.  Fruit and nuts are in the northern camp, and grain is in the other camp.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-15T11:54:33-06:00",
+   "body": "can't find the fruit or nuts...does anyone have the coords?.....if not i'll just go to my local quikcheck, get some trail mix and see if that works :p",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-14T11:42:48-05:00",
+   "body": "I solo'd this with my lvl 17 druid...\n\nmanaged to collect all the THREE samples of food from the THREE different barrels: you need to take out the guards near each barrel 1 by 1, and when you pick up the items be careful! some blackwood may spawn and try to kill you.\n\nThe quite difficult part was getting to the bone fire to the north: since fulborgs respawn quite quickly, you have to take out the ones close to the bonefire ASAP. Then you stand near it and click on the bowl: you'll make a fine soup and place it near there...it is very funny to see all fulborgs run towards you (i got so scared), and then suddenly turn green and calm.\n\nAt that moment the Satyr appears: I had no problems even if he was lvl 19...in fact he had quite a little amount of hp...just bring with yourself a healing potion, just to be sure...\n\nI killed him, he dropped a box and there was the Talisman. \n\nGL",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-03-02T19:47:25-06:00",
+   "body": "i'm suprised no ones posted about the end of the quest when you turn it in. after you do, stay in that building and watch what happens. rather cool them apearing in Auberdine, just watch out, they turn on everyone! that's all i'll say, don't want to give it away, just stay and watch",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2026-10-06T15:49:43-05:00",
+   "body": "I did this with a friend, and the [item=12346] remained in my bags after finishing the quest. Feel free to delete it when you're done.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-02-15T12:19:11-06:00",
+   "body": "Kind of. Did not expect happen that way, but I was looking for ingridients and in one of the camps saw someone summoning satyr and then killing him. The, he went off and I just clicked on the body and got the talisman! Yay. Tried to give away some ingridients that I already found to other people but coupld not do it with quest items. Bummer, had to destry them.",
+   "replies": [
+    "Not taking into account your non comprehension of the english language, but i am getting the impression you looted someone elses kill.  Didn't think this was possible.  "
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2007-04-20T05:11:01-05:00",
+   "body": "Solod this as a 15 Druid without Death\n\nJust be careful what you agro while clearing near barrels\n\nYes - there are some adds *after* looting the barrels....what, running like a biartch is too good for you? :-D",
+   "replies": []
+  }
+ ]
+}

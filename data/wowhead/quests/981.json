@@ -1,0 +1,279 @@
+{
+ "id": 981,
+ "name": "The Tower of Althalaxx",
+ "level": 31,
+ "reqlevel": 13,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2500,
+ "start": {
+  "type": "npc",
+  "id": 3661,
+  "name": "Balthule Shadowstrike",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    55,
+    24.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3663,
+  "name": "Delgren the Purifier",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    26.2,
+    38.4
+   ],
+   [
+    26.2,
+    38.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Talk to Delgren the Purifier at Maestra's Post.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3663,
+   "name": "Delgren the Purifier",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  973,
+  1140,
+  1167,
+  1143,
+  981
+ ],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 3661,
+   "name": "Balthule Shadowstrike",
+   "coord": [
+    55,
+    24.8
+   ],
+   "coords": [
+    [
+     55,
+     24.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 3663,
+   "name": "Delgren the Purifier",
+   "coord": [
+    26.2,
+    38.6
+   ],
+   "coords": [
+    [
+     26.2,
+     38.4
+    ],
+    [
+     26.2,
+     38.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 19,
+   "date": "2005-03-10T00:48:55-06:00",
+   "body": "The end text entered here is incorrect (it is the end text of an earlier Tower of Althalaxx quest). The correct end text is:\n\nI knew you would be up to the task, <Name>.\n\nI sense great deeds before you, and that you will right many wrongs that plague our lands. Bear my blessings, <Name>, as well as this gift.\n\n<Choose your reward, complete quest>",
+   "replies": [
+    "Updated, thanks."
+   ]
+  },
+  {
+   "rating": 14,
+   "date": "2006-10-05T08:15:37-05:00",
+   "body": "This one was a real challenge.&nbsp; Here are some tips.\n\n1) Always take out the caster first.&nbsp; They have less health and cause far more damage.&nbsp; Then do the Voidwalker (caster's demonic pet).\n\n2) You have to move quickly.&nbsp; The mobs respawn rapidly.&nbsp; Make certain you have a good supply of food, water, bandages, and potions.\n\n3) If you find yourself struggling, buy or make some shadow protection potions.&nbsp; The casters spell damage is shadow.&nbsp; I used one in the final fight.&nbsp; It probably wasn't necessary, but I wanted the insurance.\n\n4) For a Druid or Rogue, use stealth and start with the most damaging attack possible on each caster.&nbsp; You want to eliminate the caster ASAP.&nbsp; The value of melee is it slows their casting rate.\n\n5) The casters move.&nbsp; When they move, chase them down as fast as possible to minimize their casting and to keep your DPS as high as possible.\n\n6) Some of the mobs patrol.&nbsp; Be aware of that so you don't take an add.&nbsp; If you get two, you will probably need to run, and hope you don't get more adds.\n\n7) For the mobs on either side of the boss you will need a distance pull.&nbsp; You don't want to agro the boss, too.&nbsp; Use an instant cast spell when they have moved as far from the boss as possible.&nbsp; Then, run down a level and the caster and pet will follow (line of sight, pull).\n\n8) I found the boss easy, but I used a Shadow Protection potion, and cast Regrowth and Rejuvenation prior to opening up with Starfire & Moonfire, followed by going into cat form, and going all out with DPS.\n\nGood luck.&nbsp; This one wasn't easy for my level 30 Druid.\n\nBy the way, my gear is all greens with one blue from Gnomer.&nbsp; This is not a twinked toon.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-06-17T20:15:37-05:00",
+   "body": "&nbsp; &nbsp; Firstly I killed all humanoids near the tower, then agro first warlock using moonfire. Then stoped vw moving by roots. then just killed warlock by using wrath and starfire and killed vw in bear form. \n&nbsp; &nbsp; I entered tower by using cat form and prowl. I used ravage on warlock and hits him by 300~320 dmg then killed him fast by using other cat abilities and then healed myself in humanoid form and continued killing vw. \n&nbsp; &nbsp; I killed about 3-4 warlocks (sry, don't remember) and then used prowl to get near the Narassin. I used ravage&nbsp; when I get behind him and crits him for 540~560. He has 1100 hp so then I just continued attacking him by cat abilities. When I have only 400 hp I transform into humanoid and use healing potion and then just used moonfire on him and he died then i picked up his head . Then i died and find my dead body by spirit :)\n&nbsp; &nbsp; It was not easy to do this q but it's real\nenjoy",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-01-22T20:15:37-06:00",
+   "body": "Let me inform you...Seraph's Strike is a twink weapon. The quest can be obtained at 18 altough neither Thott nor Wowhead tell you so. It is true tho and with a lvl 35+ friend a lvl 18 warrior/pally/hunter can do this quest and get the best twink 2h for the lvl 19 bracket. Pwnage.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-07-24T08:15:37-05:00",
+   "body": "The journal pages these guys drop are for the second quest in this chain - a level 18 quest you get at level 13 or so.&nbsp; They are the worn parchment Balthule asks you to find before he sends you off to Delgren the first time around.\n\nBy this stage, I don't think you need them at all.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-05-03T09:42:01-05:00",
+   "body": "Did this as a lvl 28 hunter solo. Died twice. Once cuz a mob ran and pulled other mobs and second time after I killed boss and tried to rid the last 2 mobs.. the boss spawned on my ass! Respawn rate (and aggro rate) is waaaay too high :-/",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-22T20:15:37-06:00",
+   "body": "I don't know about before, but now the Journal Page is grey, which means it's vendor trash. Problem with that is, you only get one copper for it, so it's literally not worth the space it takes up.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-12T08:15:37-05:00",
+   "body": "I managed to solo this with a 31 level human mage, Arcane Spec'ed. Died 3 times, but only needed to die once.\n\nI went to the tower steps, killed the lvl 17 gray annoyances, then hit mana shield and dampen magic, ran up the steps to the top and died there. Should have run to the level before the top. Died at the top twice before I figured this out.\n\nAnyway, rez at the level below Narassin (after waiting for wandering warlock to go upstairs), quickly drink and eat conjured food. Wait for wandering warlock to come down, sheep him, then kill voidwalker, I used mana shield to protect me. After VW is dead, attack sheep. Eat and drink again.\n\nWalk up ramp until the first set of Warlock and Void Walker are in sight. Rinse and repeat from below. Walk up the stair to where Warlock and VW were. Eat and Drink. Rinse and repeat for each set until you clear the path to Narassin. Really easy.\n\nNarassin is a warrior class, so he was easy to beat alone. Mana Shield is wonderful. After getting the head, I put up mana sheild again, jumped down the inside of the tower (instead of running down the ramps) then used Blink once I got out of the tower and continued running until aggro was lost. Then went to Balthule and turned in the quest.\n\nLike I said, real easy.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-08-29T20:15:37-05:00",
+   "body": "The last quest is available at lv 20, so I had a friend walk me thru it. The weapon level is 26 (always 5 levels lower than the item level), which is sweet for a lowbie alt. It's too bad the quest level was 20 instead of 15 like all the pre-reqs, this would be a good pvp weapon in WSG.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-11-10T20:15:37-06:00",
+   "body": "I'M happy this quest series is done, talk about lots of running between Ashenvale and Darkshore.&nbsp; It's always go talk to the guy in Ashenvale, go to the guy in darkshore, 10x time.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-22T20:15:37-06:00",
+   "body": "I was able to talk to the guy, he sends you into the tower (obviously),\n\nOnce inside the tower, the Voidcallers and the void monsters they have as pets will tear you apart.\n\nSuggest at the minimum a 2-character party, one that can heal a lot for the onetaking out the enemy if you take this quest at lvl 31",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-05T08:15:37-05:00",
+   "body": "I cant talk to this guy... a speech bubble never comes on his name.&nbsp; Is this something that other people have been having trouble with?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-05T08:15:37-05:00",
+   "body": "For once I figured out something smart. I am a dwarf, and thought it looked like some words when people spoke darnassian. So i handed the note over to an NightElf who translated it for me. It is written in Darnassian, and is speaking about the Shadow Counsil, and is like a diary stile writing. I have still no idea what the note is for, though....\n\nIf anybody find out, please let me know.\n\nChron.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-27T03:29:08-06:00",
+   "body": "ive been working on this quest for some time and cant find out where i have to kill these guys at to get the sole stone ive killed plenty of there kind but no stone?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-25T00:36:58-06:00",
+   "body": "What a disapointment!  I go through all the subquests (solo) only to get to Delgren and realize that he does not offer me the final part.  I put in a GM ticket, but never even got a response.  I will try to abdondon the quest and see if that fixes it.  Will post update when I do that...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-07T15:30:15-05:00",
+   "body": "Got GM confirmation last night while trying to turn in (4/6)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-24T02:55:11-06:00",
+   "body": "What soul stone?\n\nThe prior quest guy does not give you a soulstone.  The quest does not show that a soulstone is required.  Where do you get the soulstone?\n\nHow do you report a broken quest?\n\nIs this quest fixed now?\n\nEdited, Tue Mar 22 14:27:06 2005",
+   "replies": [
+    "The quest isn't broken just look for it, its there dude ive done it. Im not going to tell u where it is becuse not just not fun man."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-06T12:57:09-05:00",
+   "body": "",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-11-14T07:11:22-06:00",
+   "body": "I almost didn't try this solo because of these comments that make it seem really difficult. Was bored so I gave it a shot and managed to solo it as a 27 druid, no stealth needed.\r\n\r\nThere are two patrols - maybe 3 - that you need to watch out for. All mobs in the tower include a caster + voidwalker and you can always fight just 1 group at a time if you avoid the patrols.\r\n\r\nClear your way up to the tower (or stealth to the 2nd level from the top). Kill anything on that level to make it safe.\r\n\r\nFrom there you can pull the caster + voidwalker groups one at a time, careful to aggro only 1 group. After aggro just run down to the level below the top and fight them there. Repeat until just the level 31 boss remains and he's an easy solo kill (easier than the groups unless you're too low to hit him, which was a slight problem at 27 (4 levels below)).\r\n\r\nFor me as a druid the best strat was full health/mana, cast regrowth, moonfire the caster to aggro, then pop cat form and run down (not all the way down, just to the next level). This allows you to almost kill the voidwalker before the caster gets to you. You can LOS the caster a bit too.\r\n\r\nBeware patrols and fast respawns...but you can clear out the patrol and the entire top level before anything respawns, as long as you aren't dying or taking forever between pulls.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-28T22:38:53-06:00",
+   "body": "This quest rewards 250 Darnassus reputation as of patch 2.01",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-10-05T08:15:37-05:00",
+   "body": "Maybe the problem is with the realm you are on. Im on Suramar and i was able to complete the quest. I chose the nice leggings as a reward",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-10-05T08:15:37-05:00",
+   "body": "i did it with no problems but i think the last patch fixed it up try it now:)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-05T08:15:37-05:00",
+   "body": "I still dont know wha im suppose to do.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2005-10-05T08:15:37-05:00",
+   "body": "Had the same issue - he's broken - you try and speak with him but no yellow question mark or exclamation point.\n\nI actually reported the issue to a GM through the little submit feature and got this little default email response at my home email address that said \"we are aware of the issue and are working diligently to resolve it.\"\n\nAs of 3/24/05 @ 1:30 AM it was still not resolved.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2005-10-05T08:15:37-05:00",
+   "body": "In Runetotem EU I cannot speak with Delgren.\nOpen ticket in 03/30/05",
+   "replies": [
+    "Delgren doesn't give his quest chain until you complete the Auberdine Tower of Althalaxx quest. I can't recall the quest giver name, but she's on the second story of one of the Auberdine buildings. Not the inn, so it's the only building that's two stories besides that.\n\nShe sends you to talk to some guy near the tower (which is in the far northern part of Darkshore). You do a short quest with the guy there (kill some guys around the tower till they drop 4 quest items), wherein he sends you to meet Delgren.\n\nIt's a quest chain, Delgren only gives one quest, so until you've completed the first t"
+   ]
+  },
+  {
+   "rating": -2,
+   "date": "2005-10-05T08:15:37-05:00",
+   "body": "Is there any point to the journal page you get from the assasin at the top of the tower, other than some spiffy scribbles from a nut job?&nbsp; Does it do anything, or should i sell it for the 1 copper the vendor will buy it for&nbsp; :P",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-10-05T08:15:37-05:00",
+   "body": "anyone know what, if any the jonal page on the body does, does it start a quest as it seems to have no use at all",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2006-06-17T20:15:37-05:00",
+   "body": "[pad][div align=center]Is the Reward Really REALLY worht doin all that crap w/ the tower and crap[/div][pad]",
+   "replies": []
+  }
+ ]
+}

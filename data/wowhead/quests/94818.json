@@ -1,0 +1,98 @@
+{
+ "id": 94818,
+ "name": "Contingency Plan",
+ "level": 20,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": -262,
+ "reqclass": 16,
+ "status": "new",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 258785,
+  "name": "High Priestess Mims",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    24.8,
+    9.4
+   ],
+   [
+    24.8,
+    10
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 258785,
+  "name": "High Priestess Mims",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    24.8,
+    9.4
+   ],
+   [
+    24.8,
+    10
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Completion Continue your service to the Light and you will become a great <class>, <name>. Maintain your vigilance and dedication! You are ready for your next lesson in service.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 258785,
+   "name": "High Priestess Mims",
+   "coord": [
+    24.8,
+    10
+   ],
+   "coords": [
+    [
+     24.8,
+     9.4
+    ],
+    [
+     24.8,
+     10
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 258785,
+   "name": "High Priestess Mims",
+   "coord": [
+    24.8,
+    10
+   ],
+   "coords": [
+    [
+     24.8,
+     9.4
+    ],
+    [
+     24.8,
+     10
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

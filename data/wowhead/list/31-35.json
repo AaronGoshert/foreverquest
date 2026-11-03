@@ -1,0 +1,6557 @@
+[
+ {
+  "category": 16544,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92458,
+  "itemchoices": [
+   [
+    279839,
+    1
+   ],
+   [
+    279840,
+    1
+   ],
+   [
+    279841,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Heart of Disruption",
+  "reprewards": [
+   [
+    2740,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 3950,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 582
+ },
+ {
+  "category": -284,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 79536,
+  "itemchoices": [
+   [
+    281634,
+    1
+   ],
+   [
+    281635,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 35,
+  "money": 350,
+  "name": "Greater Friend of the Library",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 20,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 275,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "required_level_changed",
+    "requirements_changed",
+    "rewards_changed"
+   ],
+   "lines": [
+    "Requires level 20 instead of 1",
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none",
+    "Rewards: adds Choice of Field Researcher's Loop, Choice of Philanthropist's Ring",
+    "Rewards: no longer Engrave Boots - Spell Power"
+   ],
+   "notShown": [
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none",
+    "Rewards: adds Choice of Field Researcher's Loop, Choice of Philanthropist's Ring",
+    "Rewards: no longer Engrave Boots - Spell Power"
+   ]
+  },
+  "popularity": 572
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98297,
+  "itemchoices": [
+   [
+    281312,
+    1
+   ],
+   [
+    281313,
+    1
+   ],
+   [
+    281314,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 34,
+  "money": 0,
+  "name": "Stopping the Cycle",
+  "reprewards": [
+   [
+    471,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 2700,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 538
+ },
+ {
+  "category": 16732,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 95810,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Lost Relic Carry",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 521
+ },
+ {
+  "category": 293,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 79976,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    211527,
+    1
+   ],
+   [
+    216619,
+    1
+   ]
+  ],
+  "level": 32,
+  "money": 0,
+  "name": "This Must Be The Place",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 14,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1950,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "level_changed",
+    "rewards_changed",
+    "reworded"
+   ],
+   "lines": [
+    "Level 32 instead of 40",
+    "Description reworded",
+    "Experience 1950 instead of 2350"
+   ],
+   "notShown": [
+    "Description reworded",
+    "Experience 1950 instead of 2350"
+   ]
+  },
+  "popularity": 512
+ },
+ {
+  "category": 406,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 79974,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    5432,
+    1
+   ],
+   [
+    20709,
+    1
+   ]
+  ],
+  "level": 32,
+  "money": 0,
+  "name": "Wet Job",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 14,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2550,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "level_changed",
+    "rewards_changed",
+    "reworded"
+   ],
+   "lines": [
+    "Level 32 instead of 40",
+    "Description reworded",
+    "Experience 2550 instead of 3150"
+   ],
+   "notShown": [
+    "Description reworded",
+    "Experience 2550 instead of 3150"
+   ]
+  },
+  "popularity": 504
+ },
+ {
+  "category": 16732,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 95646,
+  "itemchoices": [
+   [
+    271667,
+    1
+   ],
+   [
+    271670,
+    1
+   ],
+   [
+    271664,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Horrors in the Highland",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 3150,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 483
+ },
+ {
+  "category": 16732,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 95647,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Lost in the Thicket Things",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 2500,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 482
+ },
+ {
+  "category": 146,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 79975,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 32,
+  "money": 0,
+  "name": "Eagle's Fist",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 14,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2550,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "level_changed",
+    "rewards_changed",
+    "reworded"
+   ],
+   "lines": [
+    "Level 32 instead of 40",
+    "Description reworded",
+    "Experience 2550 instead of 3150"
+   ],
+   "notShown": [
+    "Description reworded",
+    "Experience 2550 instead of 3150"
+   ]
+  },
+  "popularity": 470
+ },
+ {
+  "category": 16732,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98824,
+  "itemchoices": [
+   [
+    271716,
+    1
+   ],
+   [
+    271767,
+    1
+   ],
+   [
+    271766,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 31,
+  "money": 6000,
+  "name": "Prehistoric Prism",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 3150,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 470
+ },
+ {
+  "category": 16544,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92457,
+  "itemchoices": [
+   [
+    279837,
+    1
+   ],
+   [
+    279838,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Starving Arcane",
+  "reprewards": [
+   [
+    2740,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 3950,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 443
+ },
+ {
+  "category": 16732,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 95772,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Songblade Search",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 3150,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 412
+ },
+ {
+  "category": 16732,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 95809,
+  "itemchoices": [
+   [
+    1710,
+    4
+   ],
+   [
+    3827,
+    4
+   ]
+  ],
+  "itemrewards": [
+   [
+    2459,
+    1
+   ],
+   [
+    280766,
+    1
+   ]
+  ],
+  "level": 31,
+  "money": 0,
+  "name": "Heartwoven",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 3150,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 394
+ },
+ {
+  "category": 491,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1101,
+  "itemchoices": [
+   [
+    4197,
+    1
+   ],
+   [
+    6742,
+    1
+   ],
+   [
+    6725,
+    1
+   ]
+  ],
+  "itemrewards": [
+   [
+    274084,
+    1
+   ]
+  ],
+  "level": 34,
+  "money": 0,
+  "name": "The Crone of the Kraul",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 29,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 3350,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Quilboar Blaster",
+    "Rewards: no longer \"Mage-Eye\" Blunderbuss"
+   ],
+   "notShown": [
+    "Rewards: adds Quilboar Blaster",
+    "Rewards: no longer \"Mage-Eye\" Blunderbuss"
+   ]
+  },
+  "popularity": 393
+ },
+ {
+  "category": 16544,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92456,
+  "itemchoices": [
+   [
+    279835,
+    1
+   ],
+   [
+    279836,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "A Green Sample",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 3950,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 392
+ },
+ {
+  "category": 36,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92432,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "An Alarming Request",
+  "reprewards": [
+   [
+    2740,
+    10
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 660,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 380
+ },
+ {
+  "category": 16544,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92489,
+  "itemchoices": [
+   [
+    251962,
+    1
+   ],
+   [
+    279849,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 33,
+  "money": 10000,
+  "name": "Power Overwhelming",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 3950,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 372
+ },
+ {
+  "category": -162,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 78699,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    277246,
+    1
+   ],
+   [
+    210979,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": 7500,
+  "name": "The Eye of Bhossca",
+  "reprewards": [],
+  "reqclass": 8,
+  "reqlevel": 25,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 3450,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "level_changed",
+    "required_level_changed",
+    "rewards_changed"
+   ],
+   "lines": [
+    "Level 35 instead of 23",
+    "Requires level 25 instead of 1",
+    "Experience 3450 instead of none",
+    "Money 75s instead of 15s",
+    "Rewards: adds Ruby-Adorned Blade"
+   ],
+   "notShown": [
+    "Experience 3450 instead of none",
+    "Money 75s instead of 15s",
+    "Rewards: adds Ruby-Adorned Blade"
+   ]
+  },
+  "popularity": 331
+ },
+ {
+  "category": 36,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92459,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Friend of the Kirin Tor",
+  "reprewards": [
+   [
+    2740,
+    10
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 265,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 313
+ },
+ {
+  "category": -162,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 78676,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "The Eye of Bhossca",
+  "reprewards": [],
+  "reqclass": 8,
+  "reqlevel": 25,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 3450,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "required_level_changed",
+    "rewards_changed"
+   ],
+   "lines": [
+    "Requires level 25 instead of 30",
+    "Experience 3450 instead of 2750"
+   ],
+   "notShown": [
+    "Experience 3450 instead of 2750"
+   ]
+  },
+  "popularity": 286
+ },
+ {
+  "category": -82,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96264,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Elemental Aid",
+  "reprewards": [],
+  "reqclass": 64,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 2650,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 273
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98310,
+  "itemchoices": [
+   [
+    281319,
+    1
+   ],
+   [
+    281320,
+    1
+   ],
+   [
+    281321,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 32,
+  "money": 1600,
+  "name": "Gleaning Our Future",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 3200,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 251
+ },
+ {
+  "category": 16732,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 95737,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Seeking Caitlin",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 630,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 245
+ },
+ {
+  "category": 400,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1100,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": 0,
+  "name": "Lonebrow's Journal",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 29,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 1350,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 237
+ },
+ {
+  "category": 721,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2945,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": -300,
+  "name": "Grime-Encrusted Ring",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 2700,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 196
+ },
+ {
+  "category": 721,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2929,
+  "itemchoices": [
+   [
+    9623,
+    1
+   ],
+   [
+    9624,
+    1
+   ],
+   [
+    9625,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 35,
+  "money": 3500,
+  "name": "The Grand Betrayal",
+  "reprewards": [
+   [
+    54,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 25,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 2750,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 193
+ },
+ {
+  "category": 10,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 98,
+  "itemchoices": [
+   [
+    2044,
+    1
+   ],
+   [
+    2043,
+    1
+   ],
+   [
+    270053,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "The Legend of Stalvan",
+  "reprewards": [
+   [
+    72,
+    200
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 22,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 4100,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Choice of Ring of Ruin"
+   ],
+   "notShown": [
+    "Rewards: adds Choice of Ring of Ruin"
+   ]
+  },
+  "popularity": 191
+ },
+ {
+  "category": 16732,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 95795,
+  "itemchoices": [
+   [
+    271769,
+    1
+   ],
+   [
+    271768,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Fallen in the Fen",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 3150,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 184
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98216,
+  "itemchoices": [
+   [
+    281304,
+    1
+   ],
+   [
+    281305,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Understanding Our Present",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 23,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 3150,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 182
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 87318,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Hearts of the Lost",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 2650,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 181
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2746,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Items of Some Consequence",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 16,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 177
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98223,
+  "itemchoices": [
+   [
+    281306,
+    1
+   ],
+   [
+    281307,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Old Habits",
+  "reprewards": [
+   [
+    47,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 23,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1250,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 174
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 396,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    2933,
+    1
+   ]
+  ],
+  "level": 31,
+  "money": 0,
+  "name": "An Audience with the King",
+  "reprewards": [
+   [
+    72,
+    200
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 16,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 3750,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 173
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 434,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "The Attack!",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 16,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1900,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 165
+ },
+ {
+  "category": 722,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 6626,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 7500,
+  "name": "A Host of Evil",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 3,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 3450,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 158
+ },
+ {
+  "category": 10,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 231,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    2000,
+    1
+   ],
+   [
+    270051,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": 0,
+  "name": "A Daughter's Love",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Ladimore Heirloom Ring"
+   ],
+   "notShown": [
+    "Rewards: adds Ladimore Heirloom Ring"
+   ]
+  },
+  "popularity": 142
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98313,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 32,
+  "money": 0,
+  "name": "For Further Study",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 140
+ },
+ {
+  "category": -162,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96783,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": 3500,
+  "name": "A Way In",
+  "reprewards": [],
+  "reqclass": 8,
+  "reqlevel": 24,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2700,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 129
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98300,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": 1700,
+  "name": "Word to Ironforge",
+  "reprewards": [
+   [
+    47,
+    10
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2700,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 129
+ },
+ {
+  "category": 721,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2947,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": 0,
+  "name": "Return of the Ring",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 2700,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 125
+ },
+ {
+  "category": 10,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 223,
+  "itemchoices": [
+   [
+    2902,
+    1
+   ],
+   [
+    1547,
+    1
+   ]
+  ],
+  "itemrewards": [
+   [
+    5244,
+    1
+   ]
+  ],
+  "level": 31,
+  "money": 0,
+  "name": "Worgen in the Woods",
+  "reprewards": [
+   [
+    72,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 23,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 3150,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 119
+ },
+ {
+  "category": 15,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 81570,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    9622,
+    1
+   ],
+   [
+    5016,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": 3500,
+  "name": "Jarl Needs a Blade",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 3450,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "objectives_changed"
+   ],
+   "lines": [
+    "Objectives: no longer Moonsteel Broadsword"
+   ],
+   "notShown": []
+  },
+  "popularity": 119
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2745,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Infiltrating the Castle",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 16,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 250,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 115
+ },
+ {
+  "category": 10,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 55,
+  "itemchoices": [
+   [
+    2954,
+    1
+   ],
+   [
+    2953,
+    1
+   ],
+   [
+    1282,
+    1
+   ]
+  ],
+  "itemrewards": [
+   [
+    7344,
+    1
+   ]
+  ],
+  "level": 32,
+  "money": 0,
+  "name": "Morbent Fel",
+  "reprewards": [
+   [
+    72,
+    200
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 20,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 3850,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 114
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 395,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Brotherhood's End",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 16,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 114
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 88757,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Accessories of the Lost",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 2650,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 114
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 88758,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    281258,
+    1
+   ]
+  ],
+  "level": 33,
+  "money": 0,
+  "name": "Sentiments of the Lost",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 2650,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 108
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 88756,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    6714,
+    5
+   ]
+  ],
+  "level": 31,
+  "money": 3000,
+  "name": "Bring Back a Bang",
+  "reprewards": [
+   [
+    47,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 25,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 2500,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 106
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 474,
+  "itemchoices": [
+   [
+    3209,
+    1
+   ],
+   [
+    6194,
+    1
+   ],
+   [
+    287067,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 32,
+  "money": 0,
+  "name": "Defeat Nek'rosh",
+  "reprewards": [
+   [
+    47,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 23,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 2550,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed",
+    "reworded"
+   ],
+   "lines": [
+    "Objective text reworded",
+    "Rewards: adds Choice of Dragonmaw Skinflayer"
+   ],
+   "notShown": [
+    "Rewards: adds Choice of Dragonmaw Skinflayer"
+   ]
+  },
+  "popularity": 105
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98463,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Talk of the Town",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 265,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 105
+ },
+ {
+  "category": 8,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 93176,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    280456,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": 3500,
+  "name": "My Little Friends",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 25,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2750,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 101
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 350,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Look to an Old Friend",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 16,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 250,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 100
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 394,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "The Head of the Beast",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 16,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 250,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 100
+ },
+ {
+  "category": 400,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98156,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    281295,
+    1
+   ]
+  ],
+  "level": 31,
+  "money": 3000,
+  "name": "Packaged Pristine Pelts",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 27,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2500,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 100
+ },
+ {
+  "category": 10,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 228,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 3500,
+  "name": "Mor'Ladim",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 2750,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Experience 2750 instead of 2050"
+   ],
+   "notShown": [
+    "Experience 2750 instead of 2050"
+   ]
+  },
+  "popularity": 98
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1250,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "The Missing Diplomat",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 265,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "reworded"
+   ],
+   "lines": [
+    "Description reworded"
+   ],
+   "notShown": [
+    "Description reworded"
+   ]
+  },
+  "popularity": 95
+ },
+ {
+  "category": 267,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 564,
+  "itemchoices": [
+   [
+    3753,
+    1
+   ],
+   [
+    3754,
+    1
+   ]
+  ],
+  "itemrewards": [
+   [
+    3736,
+    1
+   ],
+   [
+    3728,
+    5
+   ]
+  ],
+  "level": 34,
+  "money": 0,
+  "name": "Costly Menace",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2700,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 94
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 2948,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    9538,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": -3000,
+  "name": "Gnome Improvement",
+  "reprewards": [
+   [
+    47,
+    100
+   ],
+   [
+    54,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2750,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 93
+ },
+ {
+  "category": 15,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1203,
+  "itemchoices": [
+   [
+    9622,
+    1
+   ],
+   [
+    270052,
+    1
+   ]
+  ],
+  "itemrewards": [
+   [
+    5016,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": 3500,
+  "name": "Jarl Needs a Blade",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 3450,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Choice of Reedknot Ring, Choice of Swamp Ring",
+    "Rewards: no longer Reedknot Ring"
+   ],
+   "notShown": [
+    "Rewards: adds Choice of Reedknot Ring, Choice of Swamp Ring",
+    "Rewards: no longer Reedknot Ring"
+   ]
+  },
+  "popularity": 92
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92818,
+  "itemchoices": [
+   [
+    251390,
+    1
+   ],
+   [
+    251458,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 35,
+  "money": 1800,
+  "name": "Big, No, MASSIVE Iron Axes",
+  "reprewards": [
+   [
+    93,
+    1000
+   ],
+   [
+    92,
+    0
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2050,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 92
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 465,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Nek'rosh's Gambit",
+  "reprewards": [
+   [
+    47,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 23,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1900,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "reworded"
+   ],
+   "lines": [
+    "Description reworded"
+   ],
+   "notShown": [
+    "Description reworded"
+   ]
+  },
+  "popularity": 89
+ },
+ {
+  "category": 331,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1012,
+  "itemchoices": [
+   [
+    5813,
+    1
+   ],
+   [
+    270048,
+    1
+   ],
+   [
+    270049,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 32,
+  "money": 0,
+  "name": "Insane Druids",
+  "reprewards": [
+   [
+    69,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 24,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 3200,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Choice of Emil's Brand, Choice of Mavoris's Warstaff, Choice of Uthil's Cudgel",
+    "Rewards: no longer Emil's Brand"
+   ],
+   "notShown": [
+    "Rewards: adds Choice of Emil's Brand, Choice of Mavoris's Warstaff, Choice of Uthil's Cudgel",
+    "Rewards: no longer Emil's Brand"
+   ]
+  },
+  "popularity": 88
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5561,
+  "itemchoices": [
+   [
+    15697,
+    1
+   ],
+   [
+    15698,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 34,
+  "money": 0,
+  "name": "Kodo Roundup",
+  "reprewards": [
+   [
+    470,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2000,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 87
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 304,
+  "itemchoices": [
+   [
+    2916,
+    1
+   ],
+   [
+    2917,
+    1
+   ],
+   [
+    270050,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 34,
+  "money": 0,
+  "name": "A Grim Task",
+  "reprewards": [
+   [
+    47,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 26,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 3350,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Choice of Fury Ring"
+   ],
+   "notShown": [
+    "Rewards: adds Choice of Fury Ring"
+   ]
+  },
+  "popularity": 84
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97284,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 6500,
+  "name": "Vahlarriel's Vengeance",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2650,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 84
+ },
+ {
+  "category": 10,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 222,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 2200,
+  "name": "Worgen in the Woods",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 23,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1900,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 82
+ },
+ {
+  "category": 1337,
+  "category2": 2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 721,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "A Sign of Hope",
+  "reprewards": [
+   [
+    47,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 35,
+  "side": 1,
+  "titlereward": 0,
+  "type": 81,
+  "xp": 2750,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 82
+ },
+ {
+  "category": 15,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1218,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    6807,
+    20
+   ]
+  ],
+  "level": 35,
+  "money": 0,
+  "name": "Soothing Spices",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 82
+ },
+ {
+  "category": 3,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 720,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "A Sign of Hope",
+  "reprewards": [
+   [
+    47,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 35,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 81
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 97328,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 3500,
+  "name": "Anything of Value",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2750,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 80
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5741,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 3500,
+  "name": "Sceptre of Light",
+  "reprewards": [
+   [
+    529,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2650,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 78
+ },
+ {
+  "category": 267,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 565,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    2805,
+    1
+   ]
+  ],
+  "level": 34,
+  "money": 0,
+  "name": "Bartolo's Yeti Fur Cloak",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 29,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2700,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 77
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1369,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Broken Tears",
+  "reprewards": [
+   [
+    93,
+    500
+   ],
+   [
+    92,
+    0
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2650,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Magram Clan Centaur +500 reputation"
+   ],
+   "notShown": [
+    "Rewards: adds Magram Clan Centaur +500 reputation"
+   ]
+  },
+  "popularity": 77
+ },
+ {
+  "category": 331,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 86757,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 32,
+  "money": 3000,
+  "name": "Slowing the Orc Advance",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 27,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2550,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 77
+ },
+ {
+  "category": 8,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 93585,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": 0,
+  "name": "This Light of Mine",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2700,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 74
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1249,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "The Missing Diplomat",
+  "reprewards": [
+   [
+    72,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 72
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1385,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Brutal Politics",
+  "reprewards": [
+   [
+    93,
+    250
+   ],
+   [
+    92,
+    0
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2050,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Magram Clan Centaur +250 reputation",
+    "Rewards: no longer Gelkis Clan Centaur -500 reputation, Magram Clan Centaur +100 reputation"
+   ],
+   "notShown": [
+    "Rewards: adds Magram Clan Centaur +250 reputation",
+    "Rewards: no longer Gelkis Clan Centaur -500 reputation, Magram Clan Centaur +100 reputation"
+   ]
+  },
+  "popularity": 72
+ },
+ {
+  "category": 10,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 229,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "The Daughter Who Lived",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 275,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 71
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 92755,
+  "itemchoices": [
+   [
+    249486,
+    1
+   ],
+   [
+    249489,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 35,
+  "money": 1800,
+  "name": "Mysterious Mysticism",
+  "reprewards": [
+   [
+    92,
+    1000
+   ],
+   [
+    93,
+    0
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2050,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 71
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 194,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": 0,
+  "name": "Raptor Mastery",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 70
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1248,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "The Missing Diplomat",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 660,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 70
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 190,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Panther Mastery",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1250,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 69
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 634,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Plea to the Alliance",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1250,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "renamed"
+   ],
+   "lines": [
+    "Renamed from Plea To The Alliance"
+   ],
+   "notShown": []
+  },
+  "popularity": 69
+ },
+ {
+  "category": -162,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96784,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": 0,
+  "name": "Master of Disguise",
+  "reprewards": [],
+  "reqclass": 8,
+  "reqlevel": 24,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2700,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 69
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 186,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Tiger Mastery",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 68
+ },
+ {
+  "category": 10,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 225,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "The Weathered Grave",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 690,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 68
+ },
+ {
+  "category": 267,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 555,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    3737,
+    1
+   ],
+   [
+    3729,
+    3
+   ]
+  ],
+  "level": 31,
+  "money": 3000,
+  "name": "Soothing Turtle Bisque",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2500,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 68
+ },
+ {
+  "category": 148,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 981,
+  "itemchoices": [
+   [
+    10043,
+    1
+   ],
+   [
+    5614,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "The Tower of Althalaxx",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 13,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2500,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 68
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 189,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    4598,
+    8
+   ]
+  ],
+  "level": 35,
+  "money": 3500,
+  "name": "Bloodscalp Ears",
+  "reprewards": [
+   [
+    21,
+    100
+   ],
+   [
+    87,
+    -500
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2050,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 67
+ },
+ {
+  "category": 400,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1106,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Martek the Exiled",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 26,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 67
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1265,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "The Missing Diplomat",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 275,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 67
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 185,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Tiger Mastery",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1250,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 66
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 203,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "The Second Rebellion",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 66
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 204,
+  "itemchoices": [
+   [
+    4140,
+    1
+   ],
+   [
+    4126,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 34,
+  "money": 0,
+  "name": "Bad Medicine",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2700,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 66
+ },
+ {
+  "category": 267,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 563,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 32,
+  "money": 0,
+  "name": "Reassignment",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 25,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 3200,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 65
+ },
+ {
+  "category": 148,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1143,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "The Tower of Althalaxx",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 13,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2500,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 65
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1247,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "The Missing Diplomat",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 250,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 64
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1264,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "The Missing Diplomat",
+  "reprewards": [
+   [
+    72,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 64
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1301,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "James Hyal",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 690,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 64
+ },
+ {
+  "category": 400,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5762,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 3000,
+  "name": "Hemet Nesingwary",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1250,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 64
+ },
+ {
+  "category": -162,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96786,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": 7000,
+  "name": "The Syndicate Sting",
+  "reprewards": [
+   [
+    349,
+    300
+   ]
+  ],
+  "reqclass": 8,
+  "reqlevel": 24,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 3350,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 64
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 605,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 3500,
+  "name": "Singing Blue Shards",
+  "reprewards": [
+   [
+    21,
+    100
+   ],
+   [
+    87,
+    -500
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2750,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 63
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 633,
+  "itemchoices": [
+   [
+    4504,
+    1
+   ],
+   [
+    4505,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "The Thandol Span",
+  "reprewards": [
+   [
+    47,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 26,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2500,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "required_level_changed"
+   ],
+   "lines": [
+    "Requires level 26 instead of 28"
+   ],
+   "notShown": []
+  },
+  "popularity": 63
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1447,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "The Missing Diplomat",
+  "reprewards": [
+   [
+    72,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1250,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 63
+ },
+ {
+  "category": 36,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 525,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": 0,
+  "name": "Further Mysteries",
+  "reprewards": [
+   [
+    72,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 62
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1370,
+  "itemchoices": [
+   [
+    3463,
+    1
+   ],
+   [
+    3464,
+    200
+   ],
+   [
+    3465,
+    200
+   ]
+  ],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Stealing Supplies",
+  "reprewards": [
+   [
+    92,
+    500
+   ],
+   [
+    93,
+    0
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Choice of Silver Star, Gelkis Clan Centaur +500 reputation",
+    "Rewards: no longer Choice of Silver Star x200"
+   ],
+   "notShown": [
+    "Rewards: adds Choice of Silver Star, Gelkis Clan Centaur +500 reputation",
+    "Rewards: no longer Choice of Silver Star x200"
+   ]
+  },
+  "popularity": 62
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 215,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Jungle Secrets",
+  "reprewards": [
+   [
+    72,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 61
+ },
+ {
+  "category": 267,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 561,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 32,
+  "money": 0,
+  "name": "Farren's Proof",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 25,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 255,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 61
+ },
+ {
+  "category": 45,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 635,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 1800,
+  "name": "Crystal in the Mountains",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Experience 1350 instead of 275",
+    "Money 18s instead of none"
+   ],
+   "notShown": [
+    "Experience 1350 instead of 275",
+    "Money 18s instead of none"
+   ]
+  },
+  "popularity": 61
+ },
+ {
+  "category": -162,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 96785,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": 3500,
+  "name": "Ain't No Telling",
+  "reprewards": [],
+  "reqclass": 8,
+  "reqlevel": 24,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2700,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 61
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 191,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Panther Mastery",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 59
+ },
+ {
+  "category": 267,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 559,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 32,
+  "money": 3000,
+  "name": "Farren's Proof",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 25,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2550,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 59
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 632,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "The Thandol Span",
+  "reprewards": [
+   [
+    47,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 26,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2500,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "required_level_changed"
+   ],
+   "lines": [
+    "Requires level 26 instead of 28"
+   ],
+   "notShown": []
+  },
+  "popularity": 59
+ },
+ {
+  "category": -61,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 4782,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": 0,
+  "name": "Components for the Enchanted Gold Bloodrobe",
+  "reprewards": [],
+  "reqclass": 256,
+  "reqlevel": 31,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 59
+ },
+ {
+  "category": 267,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 562,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    3755,
+    1
+   ]
+  ],
+  "level": 32,
+  "money": 0,
+  "name": "Stormwind Ho!",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 25,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 58
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 631,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "The Thandol Span",
+  "reprewards": [
+   [
+    47,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 26,
+  "side": 1,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 2500,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "required_level_changed"
+   ],
+   "lines": [
+    "Requires level 26 instead of 28"
+   ],
+   "notShown": []
+  },
+  "popularity": 58
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1246,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "The Missing Diplomat",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 250,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 58
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1386,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 32,
+  "money": 0,
+  "name": "Assault on the Kolkar",
+  "reprewards": [
+   [
+    93,
+    500
+   ],
+   [
+    92,
+    0
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2550,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Magram Clan Centaur +500 reputation"
+   ],
+   "notShown": [
+    "Rewards: adds Magram Clan Centaur +500 reputation"
+   ]
+  },
+  "popularity": 58
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 187,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Tiger Mastery",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2050,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 57
+ },
+ {
+  "category": 36,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 505,
+  "itemchoices": [
+   [
+    3758,
+    1
+   ],
+   [
+    3759,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Syndicate Assassins",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 26,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 57
+ },
+ {
+  "category": 36,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 511,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": 0,
+  "name": "Encrypted Letter",
+  "reprewards": [
+   [
+    72,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 57
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 575,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 2200,
+  "name": "Supply and Demand",
+  "reprewards": [
+   [
+    21,
+    100
+   ],
+   [
+    87,
+    -500
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 26,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1250,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 57
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1440,
+  "itemchoices": [
+   [
+    9687,
+    1
+   ],
+   [
+    9698,
+    1
+   ],
+   [
+    9699,
+    1
+   ],
+   [
+    11884,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Return to Vahlarriel",
+  "reprewards": [
+   [
+    69,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 3300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 57
+ },
+ {
+  "category": 267,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 560,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 32,
+  "money": 0,
+  "name": "Farren's Proof",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 25,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 255,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 56
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1371,
+  "itemchoices": [
+   [
+    269903,
+    1
+   ],
+   [
+    269901,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Gizmo for Warug",
+  "reprewards": [
+   [
+    93,
+    1000
+   ],
+   [
+    92,
+    0
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2050,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Choice of Schematic: Centaur Banner Deployment Device, Choice of Schematic: Hoof-Shaped Foot Pedal, Magram Clan Centaur +1000 reputation"
+   ],
+   "notShown": [
+    "Rewards: adds Choice of Schematic: Centaur Banner Deployment Device, Choice of Schematic: Hoof-Shaped Foot Pedal, Magram Clan Centaur +1000 reputation"
+   ]
+  },
+  "popularity": 56
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 201,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 32,
+  "money": 1600,
+  "name": "Investigate the Camp",
+  "reprewards": [
+   [
+    21,
+    50
+   ],
+   [
+    87,
+    -250
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 255,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 55
+ },
+ {
+  "category": 10,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 227,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    2154,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": 0,
+  "name": "Morgan Ladimore",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 275,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 55
+ },
+ {
+  "category": -284,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 79948,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    211779,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": 350,
+  "name": "Defensive Magics 101",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 275,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "requirements_changed",
+    "rewards_changed"
+   ],
+   "lines": [
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none"
+   ],
+   "notShown": [
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none"
+   ]
+  },
+  "popularity": 55
+ },
+ {
+  "category": 1519,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 690,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 32,
+  "money": 0,
+  "name": "Malin's Request",
+  "reprewards": [
+   [
+    47,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 54
+ },
+ {
+  "category": 36,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 514,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": 0,
+  "name": "Letter to Stormpike",
+  "reprewards": [
+   [
+    47,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 53
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 689,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "A King's Tribute",
+  "reprewards": [
+   [
+    47,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 25,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2500,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 53
+ },
+ {
+  "category": 400,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1107,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 7500,
+  "name": "Encrusted Tail Fins",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 3,
+  "titlereward": 0,
+  "type": 1,
+  "xp": 3450,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 53
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1453,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Reclaimers' Business in Desolace",
+  "reprewards": [
+   [
+    47,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 53
+ },
+ {
+  "category": -61,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1796,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Components for the Enchanted Gold Bloodrobe",
+  "reprewards": [],
+  "reqclass": 256,
+  "reqlevel": 31,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2500,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 53
+ },
+ {
+  "category": -61,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 4736,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "In Search of Menara Voidrender",
+  "reprewards": [],
+  "reqclass": 256,
+  "reqlevel": 31,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 52
+ },
+ {
+  "category": 267,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 659,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Hints of a New Plague?",
+  "reprewards": [
+   [
+    72,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 51
+ },
+ {
+  "category": 11,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1302,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "James Hyal",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 690,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 51
+ },
+ {
+  "category": -61,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 4781,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": 0,
+  "name": "Components for the Enchanted Gold Bloodrobe",
+  "reprewards": [],
+  "reqclass": 256,
+  "reqlevel": 31,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2000,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 51
+ },
+ {
+  "category": 45,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 681,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "Northfold Manor",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2500,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 50
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1458,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 3500,
+  "name": "Reagents for Reclaimers Inc.",
+  "reprewards": [
+   [
+    47,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2650,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 50
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 198,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 32,
+  "money": 1600,
+  "name": "Supplies to Private Thorsen",
+  "reprewards": [
+   [
+    72,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 640,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 49
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 200,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Bookie Herod",
+  "reprewards": [
+   [
+    72,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 49
+ },
+ {
+  "category": 400,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1175,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 3500,
+  "name": "A Bump in the Road",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2650,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 49
+ },
+ {
+  "category": -61,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 4965,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Knowledge of the Orb of Orahil",
+  "reprewards": [],
+  "reqclass": 256,
+  "reqlevel": 35,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 49
+ },
+ {
+  "category": 3,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 719,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    4978,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": 0,
+  "name": "A Dwarf and His Tools",
+  "reprewards": [
+   [
+    47,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 35,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2750,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 47
+ },
+ {
+  "category": 15,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1206,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Jarl Needs Eyes",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2750,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 47
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1382,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Strange Alliance",
+  "reprewards": [
+   [
+    92,
+    250
+   ],
+   [
+    93,
+    0
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2050,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Gelkis Clan Centaur +250 reputation",
+    "Rewards: no longer Gelkis Clan Centaur +100 reputation, Magram Clan Centaur -500 reputation"
+   ],
+   "notShown": [
+    "Rewards: adds Gelkis Clan Centaur +250 reputation",
+    "Rewards: no longer Gelkis Clan Centaur +100 reputation, Magram Clan Centaur -500 reputation"
+   ]
+  },
+  "popularity": 47
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1459,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 2500,
+  "name": "Reagents for Reclaimers Inc.",
+  "reprewards": [
+   [
+    47,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2750,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 47
+ },
+ {
+  "category": -61,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 4968,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Knowledge of the Orb of Orahil",
+  "reprewards": [],
+  "reqclass": 256,
+  "reqlevel": 35,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 47
+ },
+ {
+  "category": 331,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1031,
+  "itemchoices": [
+   [
+    5820,
+    1
+   ],
+   [
+    11229,
+    1
+   ]
+  ],
+  "itemrewards": [],
+  "level": 32,
+  "money": 0,
+  "name": "The Branch of Cenarius",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 26,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2550,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 46
+ },
+ {
+  "category": 400,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1110,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 3000,
+  "name": "Rocket Car Parts",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 28,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2500,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 46
+ },
+ {
+  "category": 15,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1253,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "The Black Shield",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 690,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 46
+ },
+ {
+  "category": 15,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1284,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Suspicious Hoofprints",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 46
+ },
+ {
+  "category": 8,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1421,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "The Lost Caravan",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2750,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 46
+ },
+ {
+  "category": 36,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 510,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 34,
+  "money": 0,
+  "name": "Foreboding Plans",
+  "reprewards": [
+   [
+    72,
+    50
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 26,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 45
+ },
+ {
+  "category": 15,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1320,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "The Black Shield",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 45
+ },
+ {
+  "category": 8,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 93429,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 1800,
+  "name": "Blood of My Blood",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2750,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 45
+ },
+ {
+  "category": 33,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 349,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Stranglethorn Fever",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 32,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 44
+ },
+ {
+  "category": 15,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1319,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "The Black Shield",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 275,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 44
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1438,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Vahlarriel's Search",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2650,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 44
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 5821,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    15689,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": 0,
+  "name": "Bodyguard for Hire",
+  "reprewards": [
+   [
+    470,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2750,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 44
+ },
+ {
+  "category": 331,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1021,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 32,
+  "money": 0,
+  "name": "Vile Satyr! Dryads in Danger!",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 26,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2550,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 43
+ },
+ {
+  "category": 8,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1389,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Draenethyst Crystals",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2750,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 43
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1437,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Vahlarriel's Search",
+  "reprewards": [
+   [
+    69,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 43
+ },
+ {
+  "category": 45,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 663,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Land Ho!",
+  "reprewards": [
+   [
+    21,
+    25
+   ],
+   [
+    87,
+    -125
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 35,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 690,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 42
+ },
+ {
+  "category": 331,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1032,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 32,
+  "money": 3000,
+  "name": "Satyr Slaying!",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 26,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2550,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 42
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1439,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Search for Tyranis",
+  "reprewards": [
+   [
+    69,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2650,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 42
+ },
+ {
+  "category": -61,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 4738,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 31,
+  "money": 0,
+  "name": "In Search of Menara Voidrender",
+  "reprewards": [],
+  "reqclass": 256,
+  "reqlevel": 31,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 630,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 42
+ },
+ {
+  "category": -284,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 79947,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    211779,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": 350,
+  "name": "Geomancy: The Stone-Cold Truth",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 275,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "requirements_changed",
+    "rewards_changed"
+   ],
+   "lines": [
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none"
+   ],
+   "notShown": [
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none"
+   ]
+  },
+  "popularity": 42
+ },
+ {
+  "category": -284,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 79950,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    211779,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": 350,
+  "name": "Demons and You",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 275,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "requirements_changed",
+    "rewards_changed"
+   ],
+   "lines": [
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none"
+   ],
+   "notShown": [
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none"
+   ]
+  },
+  "popularity": 41
+ },
+ {
+  "category": -284,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 79952,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    211779,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": 350,
+  "name": "RwlRwlRwlRwl!",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 275,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "requirements_changed",
+    "rewards_changed"
+   ],
+   "lines": [
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none"
+   ],
+   "notShown": [
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none"
+   ]
+  },
+  "popularity": 40
+ },
+ {
+  "category": 1537,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 700,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    4535,
+    1
+   ]
+  ],
+  "level": 31,
+  "money": 0,
+  "name": "A King's Tribute",
+  "reprewards": [
+   [
+    47,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 25,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2500,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": 15,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1219,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "The Orc Report",
+  "reprewards": [
+   [
+    72,
+    25
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 690,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1465,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "Vahlarriel's Search",
+  "reprewards": [
+   [
+    69,
+    75
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1950,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": 331,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11303,
+  "icon": "quest-start",
+  "id": 7863,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    19150,
+    1
+   ]
+  ],
+  "level": 34,
+  "money": 0,
+  "name": "Sentinel Basic Care Package",
+  "reprewards": [
+   [
+    890,
+    10
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 25,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": -262,
+  "category2": 4,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 79731,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "The Troll Scroll",
+  "reprewards": [],
+  "reqclass": 16,
+  "reqlevel": 1,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2750,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 39
+ },
+ {
+  "category": -284,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 79951,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    211779,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": 350,
+  "name": "Mummies: A Guide to the Unsavory Undead",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 275,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "requirements_changed",
+    "rewards_changed"
+   ],
+   "lines": [
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none"
+   ],
+   "notShown": [
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none"
+   ]
+  },
+  "popularity": 39
+ },
+ {
+  "category": 10,
+  "category2": 0,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 254,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Digging Through the Dirt",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 20,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 0,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 38
+ },
+ {
+  "category": -284,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 79949,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    211779,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": 350,
+  "name": "A Web of Lies: Debunking Myths and Legends",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 275,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "requirements_changed",
+    "rewards_changed"
+   ],
+   "lines": [
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none"
+   ],
+   "notShown": [
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none"
+   ]
+  },
+  "popularity": 38
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1384,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 32,
+  "money": 0,
+  "name": "Raid on the Kolkar",
+  "reprewards": [
+   [
+    92,
+    500
+   ],
+   [
+    93,
+    0
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2550,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "rewards_changed"
+   ],
+   "lines": [
+    "Rewards: adds Gelkis Clan Centaur +500 reputation"
+   ],
+   "notShown": [
+    "Rewards: adds Gelkis Clan Centaur +500 reputation"
+   ]
+  },
+  "popularity": 37
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1387,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    6790,
+    1
+   ]
+  ],
+  "level": 31,
+  "money": 0,
+  "name": "Centaur Bounty",
+  "reprewards": [
+   [
+    72,
+    150
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 3750,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": -368,
+  "category2": 7,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 98471,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Message from the Supreme Magister",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 1350,
+  "envChange": {
+   "status": "new",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 37
+ },
+ {
+  "category": 15,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1282,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "They Call Him Smiling Jim",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 275,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 36
+ },
+ {
+  "category": -284,
+  "category2": -2,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 16001,
+  "icon": "quest-start",
+  "id": 79535,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    211779,
+    1
+   ]
+  ],
+  "level": 35,
+  "money": 350,
+  "name": "Basilisks: Should Petrification be Feared?",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 1,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 275,
+  "envChange": {
+   "status": "updated",
+   "labels": [
+    "requirements_changed",
+    "rewards_changed"
+   ],
+   "lines": [
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none"
+   ],
+   "notShown": [
+    "Classes none instead of Mage",
+    "Experience 275 instead of none",
+    "Money 3s 50c instead of none"
+   ]
+  },
+  "popularity": 36
+ },
+ {
+  "category": 15,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1220,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 0,
+  "name": "Captain Vimes",
+  "reprewards": [
+   [
+    72,
+    100
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 2750,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 35
+ },
+ {
+  "category": 405,
+  "category2": 1,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 1441,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 33,
+  "money": 0,
+  "name": "<UNUSED>",
+  "reprewards": [],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 3300,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 34
+ },
+ {
+  "category": 3358,
+  "category2": 6,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11302,
+  "icon": "quest-start",
+  "id": 8167,
+  "itemchoices": [],
+  "itemrewards": [],
+  "level": 35,
+  "money": 7500,
+  "name": "The Battle for Arathi Basin!",
+  "reprewards": [
+   [
+    509,
+    200
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 30,
+  "side": 1,
+  "titlereward": 0,
+  "type": 41,
+  "xp": 2750,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 30
+ },
+ {
+  "category": 3358,
+  "category2": 6,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8260,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    20233,
+    1
+   ]
+  ],
+  "level": 34,
+  "money": 0,
+  "name": "Arathor Basic Care Package",
+  "reprewards": [
+   [
+    509,
+    10
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 25,
+  "side": 1,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 27
+ },
+ {
+  "category": 3358,
+  "category2": 6,
+  "currencychoicerewards": [],
+  "currencyrewards": [],
+  "firstseenpatch": 11304,
+  "icon": "quest-start",
+  "id": 8263,
+  "itemchoices": [],
+  "itemrewards": [
+   [
+    20229,
+    1
+   ]
+  ],
+  "level": 34,
+  "money": 0,
+  "name": "Defiler's Basic Care Package",
+  "reprewards": [
+   [
+    510,
+    10
+   ]
+  ],
+  "reqclass": 0,
+  "reqlevel": 25,
+  "side": 3,
+  "titlereward": 0,
+  "type": 0,
+  "xp": 270,
+  "envChange": {
+   "status": "unchanged",
+   "labels": [],
+   "lines": []
+  },
+  "popularity": 26
+ }
+]

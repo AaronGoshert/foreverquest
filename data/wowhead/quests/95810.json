@@ -1,0 +1,89 @@
+{
+ "id": 95810,
+ "name": "Lost Relic Carry",
+ "level": 31,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 16732,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 630,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 1077,
+  "name": "Prospector Whelgar",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    38.8,
+    52.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Bring the Titan Relic to Prospector Whelgar in the Wetlands excavation site. Titan Relic  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 270865,
+   "name": "Titan Relic",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Titan Relic",
+   "count": 1,
+   "type": "item",
+   "id": 270865
+  }
+ ],
+ "series": [
+  95810,
+  98824
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 1077,
+   "name": "Prospector Whelgar",
+   "coord": [
+    38.8,
+    52.2
+   ],
+   "coords": [
+    [
+     38.8,
+     52.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16732,
+   "zone": "Excavation Site: Wetlands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 260326,
+   "name": "Relic Guardian",
+   "coord": [
+    ""
+   ],
+   "coords": []
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": -1,
+   "date": "2026-10-03T09:05:31-05:00",
+   "body": "Quest: [url=https://www.wowhead.com/forever/quest=95810/lost-relic-carry]Lost Relic Carry[/url]\r\nOthers: [url=https://www.wowhead.com/forever/quests/dungeons/excavation-site-wetlands]Excavation Site: Wetlands[/url]\r\nType: Dungeon\r\nReq: 24\r\nStart: Dungeon\r\nSharable: No (Item)\r\nBreadcrumb: Boss Kill\r\nLeads To: [url=https://www.wowhead.com/forever/quest=98824/prehistoric-prism]Prehistoric Prism[/url]\r\nFinal Rewards:\r\n[ul]\r\n[li]\r\n[url=https://www.wowhead.com/forever/item=271766/heavehammer]Heavehammer[/url]\r\n[/li]\r\n[li]\r\n[url=https://www.wowhead.com/forever/item=271767/healers-staff]Healer's Staff[/url]\r\n[/li]\r\n[li]\r\n[url=https://www.wowhead.com/forever/item=271716/explorers-league-dustcover]Explorer's League Dustcover[/url]\r\n[/li]\r\n[/ul]\r\nNote: These details are subject to change throughout Forever's development cycle. Accuracy is only guaranteed at the time of this posting.\r\nYou can find my Google Sheets document which is updated more frequently [url=https://docs.google.com/spreadsheets/d/1Hy3tqXAsSic6QvAf8Aew8TEagLj5ohU5bQS-mCbX9H0/edit?usp=sharing]here[/url]. It contains these types of details for all WoW Forever dungeons.",
+   "replies": []
+  }
+ ]
+}

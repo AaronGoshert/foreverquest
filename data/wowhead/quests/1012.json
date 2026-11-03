@@ -1,0 +1,561 @@
+{
+ "id": 1012,
+ "name": "Insane Druids",
+ "level": 32,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 331,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 3200,
+ "start": {
+  "type": "npc",
+  "id": 3848,
+  "name": "Kayneth Stillwind",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    85.2,
+    44.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3848,
+  "name": "Kayneth Stillwind",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    85.2,
+    44.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Kill the druids: Taneel Darkwood , Uthil Mooncall , Mavoris Cloudsbreak ; then return to Kayneth Stillwind in Forest Song.   Taneel Darkwood slain  ( 1 )   Uthil Mooncall slain  ( 1 )   Mavoris Cloudsbreak slain  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3940,
+   "name": "Taneel Darkwood",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 3848,
+   "name": "Kayneth Stillwind",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 3941,
+   "name": "Uthil Mooncall",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 3942,
+   "name": "Mavoris Cloudsbreak",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Taneel Darkwood slain",
+   "count": 1,
+   "type": "npc",
+   "id": 3940
+  },
+  {
+   "text": "Uthil Mooncall slain",
+   "count": 1,
+   "type": "npc",
+   "id": 3941
+  },
+  {
+   "text": "Mavoris Cloudsbreak slain",
+   "count": 1,
+   "type": "npc",
+   "id": 3942
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "start",
+   "type": 1,
+   "id": 3848,
+   "name": "Kayneth Stillwind",
+   "coord": [
+    85.2,
+    44.6
+   ],
+   "coords": [
+    [
+     85.2,
+     44.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 3848,
+   "name": "Kayneth Stillwind",
+   "coord": [
+    85.2,
+    44.6
+   ],
+   "coords": [
+    [
+     85.2,
+     44.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "requirement",
+   "type": 1,
+   "id": 3940,
+   "name": "Taneel Darkwood",
+   "coord": [
+    77,
+    74
+   ],
+   "coords": [
+    [
+     77,
+     74
+    ],
+    [
+     77.2,
+     74.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "requirement",
+   "type": 1,
+   "id": 3941,
+   "name": "Uthil Mooncall",
+   "coord": [
+    78,
+    72.8
+   ],
+   "coords": [
+    [
+     78,
+     72.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "requirement",
+   "type": 1,
+   "id": 3942,
+   "name": "Mavoris Cloudsbreak",
+   "coord": [
+    74.8,
+    74.2
+   ],
+   "coords": [
+    [
+     74.8,
+     73.4
+    ],
+    [
+     74.8,
+     74.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 254,
+   "date": "2007-02-25T00:25:11-06:00",
+   "body": "You can find these three in the underground area in south east Ashenvale. The entrace is at about 76, 75. Mobs respawn fairly quickly, so try not to move too slow. There are also stealthed mobs and patrolling mobs, so keep an eye out for them.\r\n\r\nOnce you're in, Taneel is in the room across the first bridge you come across. The mobs before him can be single pulled. He's a priest with a fairly painful Shadow Word: Pain and his Heal heals him pretty much to full health, so just watch for those.\r\n\r\nFor Mavoris, go down the ramp to the left and take your first left. Follow the tunnel to the bridge that leads into the middle of a cavern with a bridge directly opposite. Cross both those brides and follow the tunnel. Mavoris is at the end. He has two mobs in front of him that pull together. Take them out and then Mavoris is easy.\r\n\r\nFor Uthil, go back to the room with the two bridges opposite each other and go down the ramp. Take the first tunnel to your right. Follow it, go down the ramp to your left and take the first tunnel to your left. Uthil is the bear in the room at the end of that tunnel and is fairly straight foward to defeat.",
+   "replies": [
+    "awesome directions dude.  If you follow this you'll get there fine.  Also if you're soloing this at 30 or 31 be prepared to hearth to save yourself alot of trouble and another hour of clearing mobs and finding your way around"
+   ]
+  },
+  {
+   "rating": 84,
+   "date": "2005-10-22T13:35:34-05:00",
+   "body": "Entrance 76,76\nlocation of each mob, in the cave:\nTaneel Darkwood: 77,74\nUthil Mooncall: 78,72 \nMavoris Cloudsbreak: 74,74&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": 62,
+   "date": "2006-08-10T13:35:34-05:00",
+   "body": "I have cosmos but always get confused in dens, so here goes:\n\nWhen you enter, head down the main tunnel then go straight across the bridge to Taneel Darkwood (77,74). \n\nFrom his den turn right and go downward, follow that tunnel, then go straight across two bridges. You'll be inside a den, on the left in there is another tunnel, at the end of that is Mavis Cloudbreak(74,74). He's also in front of a Solid Chest.\n\nBack out through the same tunnel and den, go down the steps on the left and through another tunnel, when it opens bear down and left to Uthil(78,72). I recommend hearthing out, though you can go back the way you came. \n\nI did this as a level 31 Human Mage and died ad infinitum. Finally gave up and called my level 48 hunter friend <shrug>. I will say arcane explosion exposed the stealth and frost nova held them.",
+   "replies": [
+    "I ran around FOREVER in circles looking for Mavis but ur instruction was RIGHT ON!\n\nsolo'es as 32 rogue was very easy,,,stealed around but it was SLOWwwwww\n\nall 3 bosses piece of cake,,,they dont fight until you attack so just clear the guys near them first.\n\neasy Q but frustrating looking for the druids"
+   ]
+  },
+  {
+   "rating": 44,
+   "date": "2007-04-13T19:49:50-05:00",
+   "body": "I think a more detailed walkthrough would be helpful for this quest.\n\nBefore you begin, try to make sure your hearthstone has a short cooldown on it.  The journey into the barrowden is long, and getting out is tedious.  Hearthing out is recommended.\n\nThe Den is at 75, 75 as previous posters have mentioned.\n\nGo down the entrance, which is a long spiral.  At the end of this part, you will see two bridges, one going ahead, one to the right, and a ramp downwards to your left. Go across the center bridge.\n\nThere you will find Taneel Darkwood. He is a Priest type, and heals himself and casts shadow word Pain on you.\n\nReturn across the bridge and take the ramp down.  You will notice an entrance to your left, IGNORE IT and follow the spiral down the right.\n\nYou will come to another open area, with a bridge going across directly ahead, and a ramp down to your left.  IGNORE the bridge and follow the ramp down.  As before, there will be a passage leading to your left.  IGNORE IT (for now), and follow the spiral downwards and to the right.\n\nAt the bottom of the spiral you will see the bear druid, Uthil Mooncall.  He is in bear form, has some armor.\n\nAfter killing him, turn around and head back up a bit. Head to the passage you just ignored earlier, now on your right. Go down it till you reach another open area.  You should see a circular area with a ramp leading up to your left. Take the ramp.\n\nYou should come to a circular landing.  Directly ahead and up you will see a balcony, where the third druid, Mavoris Cloudbreak, is located.  To get to him, take the bridge to your right. This leads to a passage that snakes around to the left, leading to the balcony.  Mavoris is basically a balance druid, he can summon a lightening cloud.\n\nThen, either fight your way out... or hearth (recommended).",
+   "replies": [
+    "BIG thanks for this walkthrough! :)",
+    "Excellent post! thank you very much. As it was mentioned before, having hearthstone off cd to get out really helps when you're done with the quest.",
+    "great walk through still accurate today"
+   ]
+  },
+  {
+   "rating": 22,
+   "date": "2004-06-13T04:31:13-05:00",
+   "body": "South Eastern part of the map, east of the road to the Barrens.  It's a bldg with winding stairs.  The druids will show up as \"yellow\" conned ghosts.",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2006-04-23T01:35:34-05:00",
+   "body": "For the hunters who solo this... make sure that you take enough arrows/bullets with you... i ran out halfway and i spent a frustrating hr meleeing enemies. I digress though.\n\nIn terms of tracking, use track undead to spot Taneel Darkwood and Mavoris Cloudsbreak. \n\nIn relation to Uthil Mooncall however, you need to TRACK BEAST instead. Hope this hint helps because i spent ALOT of time walking around trying to figure out if/when uthil showed up on my minimap.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2006-03-17T13:35:34-06:00",
+   "body": "Completed this quest last night as a solo lvl 32 fire/arc spec'd mage.\n\nActually I cleared this cave top to bottom twice, and the lower half a third time as I hunted for Uthil, for some reason I had a hard time navigating and locating him. 2 clears because I ventured down in there before I realized there was a quest for the area. :)\n\nDying in this cave is a serious pain in the butt - the long walk, fast respawns and mob spacing pretty much dictate that you have to rez right next to a mob and fight him immediately, and risk getting an add (or two!) right after that. If you die, I recommend finding an alcove that has only one mob in it, rez, and go all out on him with your whole bag of tricks before healing up (for the mage, druids were less dangerous than assassins so that's the rez mob of choice for me). Then just assume that the whole cave has respawned, because it probably has.\n\nI had a hard time finding Uthil until I realized that there are two very similar looking rooms. In both cases, as you enter from above there is an arched bridge ahead of you and a pathway to the left: the pathway splits into a tunnel and a U-turn to the right (usually a mob hiding in the lee of the U). The second such room, if you follow the U-turn, will take you directly to Uthil.\n\nBecause respawn rates are high and everything's humanoid, this is a great place to farm for silk, if you can stand the tight quarters. Picked up about 120 silk and >20,000 xp in 2.5 full clears of the cave.\n\nIf you're careful and patient with your progress and pulling, you can fight almost every monster 1v1 with no adds. I also had no problems with the druids healing because I saved an instant attack in reserve for just such an occasion (or just CS'd 'em). That might be more difficult for classes without instant attacks.\n\nMages: fireballs are your friend against the assassins. DoT breaks their stealth, though you may have to retarget. IAM is also money, and if you get in trouble, Frost Nova. Don't blow your FN wad early, use it for when they stealth and disappear completely on you.\n\nAlso note: sheeped assassins can still disappear. Wacky.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2005-05-06T05:01:51-05:00",
+   "body": "If you want to solo this as a hunter, wait til lv32.  I found it invaluable for all those stealthed undead.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-10-22T13:35:34-05:00",
+   "body": "My lvl 33 Druid just couldn't do this quest alone. The bosses keep healing themselves (mana seems unlimited) and undead constantly appear out of nowhere. Lucky if you don't fight 3 mobs at once all the time (most lvl 30ish). BRING FRIENDS!",
+   "replies": [
+    "So that’s why I didn’t get very far on my level 27 Lock. 😫😂🤦🏻‍♂️"
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2019-07-26T21:44:38-05:00",
+   "body": "Sorely tempted to /rude and leave whenever some jackass druid asks me to go into a barrow den, like that isn't the most offensive thing he could possibly have suggested. Why not ask me to poke my own eyes with a stick for half an hour?",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2019-12-06T18:04:51-06:00",
+   "body": "Think twice before doing this quest. This place is a nightmare. Bring a friend or make sure you are around level 35. \n\nThe druids are inside the Dor'Danil Barrow Den. [b]Entrance is at 75.74, 75.34[/b]. The den is densely packed, full of stealthed mobs. A lot of them walk around patrolling the place. One of the druids, Uthil, is pretty deep down in the den. \n\nCompleted as lvl 31 rogue without dying, came pretty close though. Bring potions.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-03-01T18:19:37-06:00",
+   "body": "I was doing this quest on my  Warlock and noticed something, each druid breaks the rules of druids. Now I know druids, and druids can not:\nUse Shdaow Word: Pain\nCast Lightning Bolt\nWield Axes\n\nThe quest title is right, these are some insane druids.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2019-10-21T08:31:32-05:00",
+   "body": "[Classic] Attempted once on my 28 Hunter (pet was a level 27 cat), but the Druid in the first large room mopped the floor with me as my pet just couldn't hit him (level difference of 5) so the enemy's damage, painful DoT and heal easily crushed me. It's quite a frustrating area as a whole for Hunters as the winding passages make it very difficult to maintain an 8+ yard distance. I'll probably try again at 30 when I get the Intimidation talent.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2020-06-20T21:23:57-05:00",
+   "body": "This place is basically Ban'ethil Barrow Den 2.0. Pretty difficult as a 2h warrior without pummel (even with whirlwind axe) because one of the bosses heals, so make sure you have a shield and trained up one-hander for shield bash",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-11T05:04:48-05:00",
+   "body": "Do NOT try this quest solo at level 30. It takes forever and the NPCs love to pile up on you. It was showing up as a yellow quest, but I would recommend waiting until level 32, or when it goes green. Or go along in a group with another level 28+ .",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-22T13:35:34-05:00",
+   "body": "I soloed this with my 34 rogue, but when the first guy got low on hp I gouged him, then used evicerate to finish him off so he never got a chance to heal himself.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-22T13:35:34-05:00",
+   "body": "Just finished up this quest last night.&nbsp; It was more tedious than it was difficult..then again, I'm a lvl 36 hunter so it shouldn't have been that challenging.\n\nHunter's mark is excellent for tagging the cloaked rouges, but sometimes I wasn't fast enough on the draw so I used the flare ability that Hunters get.&nbsp; Works great..also helps groups see cloaked chaps.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-30T23:25:50-06:00",
+   "body": "This cave is the same layout as from relics of the awakening, with the bosses in the same spots as 3 of the relics were. The spawn times aren't too fast, about 3 mins, by then you should be a couple kills on. If any kill takes you over 30 seconds then you are in over your head.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2020-02-24T03:00:29-06:00",
+   "body": "Easy enough to do on a lvl 31 combat swords rogue. You literally just sneak around pickpocketing/killing whoever you want. Whenever they pile up on you, just pop Blade Flurry and cut through them. There are a couple of safe spots to sit and eat up. Also I'd recommend going to the bottom first, and then work your way up, that way you can avoid clearing most of the paths twice.",
+   "replies": [
+    "For Ferals also, this is a good approach although you may have trouble stealthing by some of the mobs depending on your level."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2020-09-08T00:50:19-05:00",
+   "body": "Completed easily as a level 32 disc/holy spec NE priest. When you kill the last mob for the quest and want to exit, it is fastest to strip naked (to save durability) and die on purpose. Then spirit rez and you will be not too far south of the quest giver. Saves a long run from Astranaar.",
+   "replies": [
+    "That's a great idea, although I was so sick and tired of being in this hellhole for what seemed like weeks with the insta-respawns, stealthed mobs sneaking up on you and of course the pats, I just wanted to get out and do something else for awhile. Anything. Clean the underside of my car. Straighten up the basement. Go to a local bar for a day or two. The odd thing to me was that after the hellish fights with all the adds, the three \"bosses\" were pretty easy in comparison."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2007-03-17T13:35:34-05:00",
+   "body": "I really enjoyed this quest, only died once against the Druid who goes heal crazy as soon as you start fighting him. As someone pointed out before make sure you have plenty of arrows/bullets for this and plenty of food and mana potion. As you will be using a lot of healing for your pet and it will drain your mana. Always send your pet in first, wait until he's gotten the enemy down to half life and then attack, and watch your back, these guys revive quick! I got lots of xp even at lv 35, so I'll probably go back until I get to lv 36. ;-)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-06-19T17:37:20-05:00",
+   "body": "House is at 75, 75",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-09T17:29:42-05:00",
+   "body": "Pretty easy quest to do as a level 35 fire Mage.  The quest was gree to me so I knew it would not be too hard to complete.  I can't use the reward but the exp and faction is useful.  \n\nOnce you enter the underground lair take your time and kill one mob at a time.  I fought my way down and to the right the whole way and found all the required named mobs.  Easy kills but managed to take some adds here and there but I did not encounter any deaths or even any close calls.  \n\nSeveral green magical items dropped off the guard and patrol mobs: \n\nRobust Tunic of the Monkey\nViking Sword of the Monkey\nFirestarter\nSuperior Buckler of the Boar\n\nAfter killing all three named mobs it's much more easy to hearth or port out.  I ported out to Darn and flew to Azshara where it's a much shorter run to turn in the quest.\n\nBesides the item reward, I got 3200 exp and 165 reputation points with Darnassus.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-05T17:39:14-05:00",
+   "body": "Solo'd as a LV34 Warlock, pretty easy.  Hardest part was getting back out, I tried to hurry and avoid/run instead of fighting all the mobs (which BTW didn't work very well).  As long as you're careful, look for the Stealthed guys and take out the wandering mobs first you should be fine.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-16T07:54:07-05:00",
+   "body": "Finished this as a lvl 29 NE Hunter It was not real hard as long as you know how to use your pet and take your time going through the cave.  Each of the druids will not attack you until your attack first.  This is good because you can clear out the room then send in the pet to attack.  Each of them will focus on the pet and you can simply load em with arrows!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-22T14:13:20-05:00",
+   "body": "Soloed this as a lv32 Warrior. The druid that healed himself took me out the first time (I was lv30 at the time), came back with a 1.90 blue sword and ripped him a new one before he could reduce me to less than 50% HP.\nThe only time I had trouble was when after having fought 2 undead Rogues, 2 more came without me having chance to heal, then after THEY were dead a Dreamer came. After having sent him and his horse back from whence he came, I had used my Greater Healing Potion and was left standing with 19 HP.\nLuckily I had bandages and food, so I survived fine.\n\nOther two druids fell like traffic cones at a teenagers driving lesson.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-27T23:46:58-06:00",
+   "body": "i've been painstakingly crawling through for 2 hours. I've seen him on my minimap, but\ndon't know which level his dot's referring to. When people say \"the first druid is easy and locacted at X\" it doesn't help because your \"first\" could be different than mine.. ghrr.. use names plz..",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-19T13:09:12-06:00",
+   "body": "i would definitely say this quest is worth the trouble.\ni did it as a 36 priest and the only difficult thing was orientation in that *!@#ing cave (but the instructions on this site work). the druids are very easy to kill. u only have to be careful of the assasins and other bastards that pop out of the dark-go slowly and don't run. mostly i used shadow word pain+holy fire+starshards and i can confirm it is very efficient.mana burn is also a good choice. bring a lot of mana drinks though cause the mobs are usually one after the other so after each three u have to drink cause they drain your mana. i only died once when i was low on mana, took the wrong turn so 4 jumped me. \ni got cca 200 xp per kill + 3 stacks of silk cloth +1 stack of wool cloth + some nice green items for sale on AH. all in all-definitely worth it!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-08T16:34:43-06:00",
+   "body": "u gain 3200 xps in this quest.  this quest should be attempted with at least 2 people if u are in ur early 30's.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-02T10:24:35-06:00",
+   "body": "pretty easy at level 30 NE rogue with a level 27 NE Druid as the healer., the only druid that caused a problem was the first cause i missed kicks when he was healing so it took longer thant it should have.\n\nAny who spoiler below about where i found the druids(dunno if there are more spawns)\n\n\nFirst is across the bridge that is directly in front of you as you come down the winding path(with a second bridge adjacent and angling to the right. Then we took a rule of thumb and went Right at the fork went on down to the next fork and went right again and found the second druid in bear form cake. came back and went left(second stop) and went up the platform path and right. Night elves should note that this resembles the relics of awakening quest and that third druid is found in the room where you find the last relic. as the druids dont attack you until you attack them, just make sure youve dominated all other mobs before you rush in and attakc the druids.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-08T12:17:22-06:00",
+   "body": "Tried this as a 30 druid. Fought/stealthed my way down to the first named druid on the list (Taneel Darkwood), across the bridge once you get down the first spiral. Managed to kill him, even though he was a pain in the rear. He heals, and casts Shadow Word: Pain. He finally died when he ran out of mana. Went to look for the next one, died and never managed to rez, so I just used the spirit healer. I definitely recommend having a partner for this quest.\n\nEdit to add: Druids, be sure to use faerie fire on the assassins, so they don't disappear on you.\n\nEdited, Wed Mar  8 06:18:56 2006",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-10T13:02:22-05:00",
+   "body": "It says that you get 69oo XP, and I belive that there is something wrong.. Anyway, I got 3200 exp @ lvl 32. It's not to hard.. If you go in, two characters is enough..",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-03T13:08:10-06:00",
+   "body": "Died deep down due to adds as a 30 rogue.\nYou need to bring ways of healing up (potions / bandages / food) in order to beat the respawn. A way to maybe stop the undead assassins from vanishing (and somehow continuing to attack you whilst stealthed!) is to coat your weapons with damage over time poisons. I didn't try it because I enjoy using gouge / backstab too much.\n\nDuo-ed with a 29 hunter no problem. Mobs weren't lasting more than 5 seconds.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-24T07:11:00-06:00",
+   "body": "Ok, since it is actually kinda hard to give specific directions in this kind of dungeon (withthe levels being really annoying) the best advise one can give is to tell people to just stay left or right whenever you reach the dungeon's first intersection. If you have the time you will eventually make it up again and have killed all three bosses. The trick with this is that if you just choose to go to the same side for an entire dungeon you cannot miss it.\n\nI did this quest on my first main char a druid back when WoW was first out and boy is it still as annoying now. I am logged out in the dungeon now because I couldn't get to the last one (the one way down) last night.\n\nOne boss is located right across the bridge from where you exit the long tunnel going DOWN into the cave. There are 3 bridges at that point and the middle one takes you to a druid (cant remember his name). Iirc the lowest boss is situated on a balcony in the lowest part of the dungeon.\n\nI can confirm the coords on the house, though.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-17T03:09:00-06:00",
+   "body": "This almost goes without saying, but don't pull the ghosts before the area is completely clear.  They won't aggro (hence Saylee's note about them being \"yellow\" con) until you attack.\n\nHunters, watch your use of multi-shot here.  It can get you in trouble early if you're not cautious.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-04T14:23:16-06:00",
+   "body": "This quest is listed at level 32 and rightly so. Doesn't need to be elite either.\n\nA lv32 hunter can solo this without a problem. lv32 gives you flare, enough time to use Hunter's Mark. Hunter's pet will continue attacking the mob even if the undead rogues use the fading thing.\n\nTarget pet, press F, and voila.\n\nEasy. Decent green drops, at least for me. And plenty of silk cloth to sell.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-14T11:42:16-05:00",
+   "body": "Completed this solo as a L32 NE R.  Slow and steady wins the quest.  I tried stealthing past the initial mobs in the entrance tunnel, but found it easier just to kill them one at a time so I didn't have to worry about patrolling mobs coming up behind me.\n\nThe mobs thin out after you get past the initial tunnel entrance.  Killing Taneel, Uthil, and Mavoris is easy as they don't aggro until you strike first...preferably from behind with a DOT like Garotte.  You MUST pull the guard mobs (usually two) that will be close to each of them.  I used a good bow to pull each of them out, then went after the prime targets in each case.\n\nAfter you kill the last Druid, you can stealth your way out, Hearthstone back to town, or Vanish/Sprint if you get detected since the back-spawn will have filled the entrance tunnel with mobs again by the time you get done.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-10T08:26:23-05:00",
+   "body": "Worst quest, that I've ever seen. If you kill them, one by one, that's too slow. If you try to sneak, then there are those invisible undeads, and those patroling undead druids. It's not an easy quest I think. You can kill all mobs easily, but you can't sneak, so it takes too much time.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-09T23:51:40-06:00",
+   "body": "This quest does not need to be elite, I had no trouble soloing it as a lvl 32 hunter.",
+   "replies": [
+    "I wandered in here just out of curiosity at level 28 and I managed to get down past the first ghost before I died.  The backspawn is pretty fast, but if you keep moving forward you have time.\n\nThe layout of the dungeon is the same as for the \"Relics of Wakening\" quest in Teladrasil. [quest=483]  This dungeon-type has occasional problems with ranged weapons not hitting creatures in certain spots, so you have to pull them out to you some other way.\n\nEdited, Fri Jan 21 07:34:40 2005"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-20T17:20:41-06:00",
+   "body": "I'm a level 28 druid, I grouped with a level 29 rogue and we did it with no problems.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-15T07:40:11-05:00",
+   "body": "Solod this quest as a level  warrior.  Should have done it sooner but got side tracked.  Was very simple unless you pull more than two mobs at a time, I took out three but it was in the begining of the cave where the guys are lvl 28.  All in all a simple quest if you take it slow and keep your eyes and ears open.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-19T07:28:05-06:00",
+   "body": "Yeah this one sucks to say the least... cramped space+rogue undead+druid enemies healing themselfs=frustrating death... thats not even figuring in the fact that the place is a maze... i found and killed one only found another on my radar (i'm a hunter) but couldnt get to him..this place is to hard to do alone so dont bother. \n\n\nSide note... Has any one noticed that some of the rooms in this place are bugged? you can't pull enemies out of them and you cant shoot in with out them evadign every shot and auto healing. (one of them had a warlock undead in it that kept making felsteeds he had 4 of them before i decided to commit suicide to get out of their). this doesnt make this place any easier. \n\nEdited, Wed Jan 19 01:28:08 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-18T04:06:41-06:00",
+   "body": "3200 XP, 150 Faction with Darnassus at Lvl 36. \n\nThis cave is large and winds all over. Not difficult, just tedious.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-11T21:32:49-06:00",
+   "body": "These posts seem to be really ambiguous with directions on how to find the druid so I will try my best to explain. From the entrance, walk down the path until you come to a landing where you can go in three directions, left, straight, or right. The first druid is straight ahead (Taneel Darkwood). \n\nNow, go back to the landing and facing the same way you were before, take the left path and go straight along this path until you reach another landing with only two possible directions. From this landing, go left. Immediately after going left there is a cutback which goes under the landing. Down this path is a cave with the second druid who is most likely in bear form (Uthil Mooncall). \n\nNow, go back to where the cutback is and instead of taking the cutback, go straight until you can see a bit of a raised platform. Once you can see it, the ramp to get there is on your left. Go up and across this platform (to verify, there is a book on a table on this platform). Go acros and into the cave which will eventually lead to Mavoris Cloudbreak.",
+   "replies": [
+    "[quote]From this landing, go left. Immediately after going left there is a cutback which goes under the landing.[/quote]\n\nHe means right, not left.\n\n[i][small]Edited, Dec 14th 2006  9:38pm by desahra[/small][/i]",
+    "I agree. I have wandered this stupid maze for an hour with no good rsult. I have made about ten silver but it's just now worth it. Scrub the quest. It leasds nowhere\n",
+    "10s in one hour - you managed to only kill 3 mobs?"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-23T12:48:05-05:00",
+   "body": "The house is located at 75 , 76 ..",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-12T11:50:24-05:00",
+   "body": "Uthill Mooncall i found at coords: 78,72",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-25T03:46:58-06:00",
+   "body": "Though the general directions given are pretty right-on, the building itself has no winding stairs inside of it. It's a series of ramps going every whichway and the ghosts are in certain rooms within the dungeon. There are various undead in there that pop in and out of invisiblity so be careful!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-31T10:23:11-06:00",
+   "body": "Yes, at early 30 it is a bit tuff to do on your own. Just remember to move forward and slowly as your more than likely going to run into something that will start to attack you.  I made the mistake and ran through a couple without knowing it and b4 I knew it I ended up taking on 4-5 at one time.  Bit the dust hard.  I can usually take 2-3 at a time but I found that when partnered, rogue and a druid. (Partnered b/c I wanted to get done quickly).  It was pretty easy and quick flow to go through without much trouble until we got into a situation of facing 7 of them.  Just make sure you take your time by taking on 1-2 at a time and you'll have a fairly quick movement through this one.  BTW, they use lots of poison and it was good to have a druid around to take the poison off which helps with less down time due to less healing. It's not necessary to have someone be able to take the poison off but it is nice for less down time.  Like the others said, attack the druids (in yellow) last and I would say this is not an elite.--Good luck!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-31T08:28:14-06:00",
+   "body": "I just did this solo as a 33 Hunter.  While it was by no means fun, it wasn't really hard either.  Hardest part was when a room had three mobs in it that I couldn't pull out and my pet didn't want to follow me in.  Had to keep rushing in with melee and hoping my pet would join in the fight.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-03T22:39:03-06:00",
+   "body": "If you are a hunter and tracking undead and can't seem to find the last druid, Uthil Mooncall, turn on track beasts.  He is in bear form.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-19T00:45:28-06:00",
+   "body": "lvl 30 priest... took longer than expected but no troubles...",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-07T11:23:04-05:00",
+   "body": "These are very good directions.  I followed them and everything went very smooth.  And yes, you will have to hearth to save yourself time, however if you want the added XP, you could do an hour of clearing mobs if you wanted to.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-15T01:54:03-05:00",
+   "body": "Soloed without issue as a level 29 pally.  About 20k xp from just clearing alone.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-15T20:42:18-05:00",
+   "body": "Just solo'ed it as a 31 Shaman. I had done it before, so I knew what to expect. It was the first time Poison Cleansing Totem relly came in handy. :)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-01-01T09:05:18-06:00",
+   "body": "Gets my tag of \"should have been elite\". There's no way you can solo this one.",
+   "replies": [
+    "Agreed. Too many mobs that respawn like cockroaches in too confined an area to call this a non-elite quest.  ",
+    "Druids can solo it. By shapeshifting into a cat and shadowmelding, you can go anywhere in the cave. If it weren't for that, there's no way I could have soloed it, even at Level 33. Pairs will have a much better chance.",
+    "The [ELITE] tag tends to be reserved for quests that take you into an area with [ELITE] mobs, or require you to kill them. It's not meant to mean that quests not marked elite are necessarily easy to solo. \n\nAs a matter of fact there are plenty of non-elite quests which are difficult to solo at the appropriate level, depending on class. ",
+    "I'm a level 30 Hunter and I solo'd it no problem! ",
+    "Solo'd as a level 31 priest.  Took a slow but steady pace, pulling one at a time and always moving forward.  There are some double pulls that are unavoidable but manageable.  The bosses are no problem if you mana burn them down before putting on the dps.\n\nEdit: the first boss (Taneel) is actually a priest and not a druid, so putting up Shadow Protection helps.\n\nEdited, Sat May 13 19:01:21 2006"
+   ]
+  },
+  {
+   "rating": -4,
+   "date": "2006-10-05T01:36:41-05:00",
+   "body": "[green]Drop it. Not worth the hassle.. Fast as hell respwn rate.. Spent too much time trying to do this quest when i could have easily went and done at least 4 more quests and got 5x the xp.. all with BETTER rewards.. [/green]",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2019-10-19T14:43:09-05:00",
+   "body": "ok. SINCE THE RERELEASE OF CLASSIC WOW- coordinates are USELESS.  so u just did the poison camp. come back to it go south to a trail with torches up a hill. there are 6 guards out front. one in entrance hall top. a stealth spawns behind u. then a guard, druid using bolts undead rogues. b4 u get to main area. have died 2x b4 getting to barrow itself.  BE CAREFUL. WOULD RECCOMEND 2 OR 3 PLAYERS. IM A 29 PALLY.",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "id": 95809,
+ "name": "Heartwoven",
+ "level": 31,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 16732,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3150,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 1480,
+  "name": "Caitlin Grassman",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    11.6,
+    58.4
+   ],
+   [
+    11.8,
+    58.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Return to Caitlin Grassman in Menethil Harbor. Reed-woven Heart (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1480,
+   "name": "Caitlin Grassman",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 270901,
+   "name": "Reed-woven Heart",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  95647,
+  95809
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 1480,
+   "name": "Caitlin Grassman",
+   "coord": [
+    11.8,
+    58.6
+   ],
+   "coords": [
+    [
+     11.6,
+     58.4
+    ],
+    [
+     11.8,
+     58.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

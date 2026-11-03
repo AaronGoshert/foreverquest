@@ -1,0 +1,142 @@
+{
+ "id": 92551,
+ "name": "Stolen Supplies",
+ "level": 8,
+ "reqlevel": 5,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 530,
+ "start": {
+  "type": "npc",
+  "id": 252172,
+  "name": "Danarii Bellowveil",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    45.2,
+    45.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252172,
+  "name": "Danarii Bellowveil",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    45.2,
+    45.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect 10 packs of Stolen Shen'dar Supplies from Falaath Village in the Shen'dar Highlands. Stolen Shen'dar Supplies  ( 10 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 252760,
+   "name": "Stolen Shen'dar Supplies",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Stolen Shen'dar Supplies",
+   "count": 10,
+   "type": "item",
+   "id": 252760
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252172,
+   "name": "Danarii Bellowveil",
+   "coord": [
+    45.2,
+    45.2
+   ],
+   "coords": [
+    [
+     45.2,
+     45.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252172,
+   "name": "Danarii Bellowveil",
+   "coord": [
+    45.2,
+    45.2
+   ],
+   "coords": [
+    [
+     45.2,
+     45.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 2,
+   "id": 576179,
+   "name": "Supply Cache",
+   "coord": [
+    49.9,
+    56
+   ],
+   "coords": [
+    [
+     48.5,
+     55.8
+    ],
+    [
+     48.8,
+     54.2
+    ],
+    [
+     49.4,
+     57.1
+    ],
+    [
+     49.5,
+     54.8
+    ],
+    [
+     49.8,
+     57.3
+    ],
+    [
+     49.9,
+     56
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-30T17:04:36-05:00",
+   "body": "EDIT: derp, the quest mod I was using (ForeverWisp) incorrectly thought I could get the quest sooner in the steps. This quest is only available once [url=https://www.wowhead.com/forever/quest=92528/among-the-faithful]Among the Faithful[/url] is completed\n[s]Unsure if this has been disabled or what, but as of 30/9/26 I am unable to get this quest. Tune in next time to find out if it's back![/s]",
+   "replies": []
+  }
+ ]
+}

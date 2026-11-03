@@ -1,0 +1,476 @@
+{
+ "id": 98418,
+ "name": "Shared Fury",
+ "level": 30,
+ "reqlevel": 23,
+ "side": 1,
+ "zoneId": 331,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2450,
+ "start": {
+  "type": "npc",
+  "id": 221269,
+  "name": "Maseara Autumnmoon",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    81,
+    50.2
+   ],
+   [
+    86.2,
+    45.8
+   ],
+   [
+    89.6,
+    40.4
+   ],
+   [
+    89.6,
+    40.6
+   ],
+   [
+    93.8,
+    38.4
+   ],
+   [
+    93.8,
+    38.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 221269,
+  "name": "Maseara Autumnmoon",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    81,
+    50.2
+   ],
+   [
+    86.2,
+    45.8
+   ],
+   [
+    89.6,
+    40.4
+   ],
+   [
+    89.6,
+    40.6
+   ],
+   [
+    93.8,
+    38.4
+   ],
+   [
+    93.8,
+    38.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Kill 5 Xavian Rogues , 5 Felsworn, 5 Betrayers, and 5 Hellcallers. Return to Maseara Autumnmoon in Forest Song afterwards.   Xavian Betrayer slain  ( 5 )   Xavian Felsworn slain  ( 5 )   Xavian Hellcaller slain  ( 5 )   Xavian Rogue slain  ( 5 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3752,
+   "name": "Xavian Rogues",
+   "count": 5,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 3754,
+   "name": "Xavian Betrayer",
+   "count": 5,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 3755,
+   "name": "Xavian Felsworn",
+   "count": 5,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 3757,
+   "name": "Xavian Hellcaller",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Xavian Betrayer slain",
+   "count": 5,
+   "type": "npc",
+   "id": 3754
+  },
+  {
+   "text": "Xavian Felsworn slain",
+   "count": 5,
+   "type": "npc",
+   "id": 3755
+  },
+  {
+   "text": "Xavian Hellcaller slain",
+   "count": 5,
+   "type": "npc",
+   "id": 3757
+  },
+  {
+   "text": "Xavian Rogue slain",
+   "count": 5,
+   "type": "npc",
+   "id": 3752
+  }
+ ],
+ "series": [
+  98417,
+  98418
+ ],
+ "points": [
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "start",
+   "type": 1,
+   "id": 221269,
+   "name": "Maseara Autumnmoon",
+   "coord": [
+    81,
+    50.2
+   ],
+   "coords": [
+    [
+     81,
+     50.2
+    ],
+    [
+     86.2,
+     45.8
+    ],
+    [
+     89.6,
+     40.4
+    ],
+    [
+     89.6,
+     40.6
+    ],
+    [
+     93.8,
+     38.4
+    ],
+    [
+     93.8,
+     38.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 221269,
+   "name": "Maseara Autumnmoon",
+   "coord": [
+    81,
+    50.2
+   ],
+   "coords": [
+    [
+     81,
+     50.2
+    ],
+    [
+     86.2,
+     45.8
+    ],
+    [
+     89.6,
+     40.4
+    ],
+    [
+     89.6,
+     40.6
+    ],
+    [
+     93.8,
+     38.4
+    ],
+    [
+     93.8,
+     38.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "requirement",
+   "type": 1,
+   "id": 3752,
+   "name": "Xavian Rogue",
+   "coord": [
+    78.2,
+    44.8
+   ],
+   "coords": [
+    [
+     77.2,
+     46.6
+    ],
+    [
+     77.4,
+     44.8
+    ],
+    [
+     77.4,
+     46.2
+    ],
+    [
+     77.6,
+     46.2
+    ],
+    [
+     77.8,
+     46.6
+    ],
+    [
+     78.2,
+     44.8
+    ],
+    [
+     78.2,
+     47.6
+    ],
+    [
+     78.4,
+     42.4
+    ],
+    [
+     78.4,
+     43
+    ],
+    [
+     78.4,
+     43.8
+    ],
+    [
+     78.6,
+     45.4
+    ],
+    [
+     79,
+     46.4
+    ],
+    [
+     79.4,
+     47
+    ],
+    [
+     79.6,
+     46.4
+    ],
+    [
+     79.6,
+     47.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "requirement",
+   "type": 1,
+   "id": 3754,
+   "name": "Xavian Betrayer",
+   "coord": [
+    79.6,
+    46.6
+   ],
+   "coords": [
+    [
+     78.2,
+     45.4
+    ],
+    [
+     78.2,
+     46.4
+    ],
+    [
+     78.2,
+     46.6
+    ],
+    [
+     78.4,
+     43.2
+    ],
+    [
+     78.4,
+     43.6
+    ],
+    [
+     78.8,
+     45.4
+    ],
+    [
+     79.4,
+     46.4
+    ],
+    [
+     79.4,
+     46.6
+    ],
+    [
+     79.6,
+     46.4
+    ],
+    [
+     79.6,
+     46.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "requirement",
+   "type": 1,
+   "id": 3755,
+   "name": "Xavian Felsworn",
+   "coord": [
+    78.4,
+    43.2
+   ],
+   "coords": [
+    [
+     77.4,
+     44.8
+    ],
+    [
+     77.4,
+     45.6
+    ],
+    [
+     77.8,
+     46.6
+    ],
+    [
+     78.2,
+     45.4
+    ],
+    [
+     78.2,
+     46.4
+    ],
+    [
+     78.2,
+     47.6
+    ],
+    [
+     78.4,
+     42.4
+    ],
+    [
+     78.4,
+     43.2
+    ],
+    [
+     78.4,
+     43.6
+    ],
+    [
+     78.6,
+     45.4
+    ],
+    [
+     78.8,
+     46.4
+    ],
+    [
+     79.4,
+     47.2
+    ],
+    [
+     79.6,
+     46.4
+    ],
+    [
+     79.6,
+     46.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "requirement",
+   "type": 1,
+   "id": 3757,
+   "name": "Xavian Hellcaller",
+   "coord": [
+    77.6,
+    46.2
+   ],
+   "coords": [
+    [
+     77.4,
+     44.8
+    ],
+    [
+     77.4,
+     46.2
+    ],
+    [
+     77.6,
+     46.2
+    ],
+    [
+     77.8,
+     42.4
+    ],
+    [
+     77.8,
+     42.6
+    ],
+    [
+     78.2,
+     44.8
+    ],
+    [
+     78.4,
+     43.8
+    ],
+    [
+     78.6,
+     45.4
+    ],
+    [
+     79,
+     45.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 5,
+   "date": "2026-10-06T17:19:31-05:00",
+   "body": "The betrayers for this quest seemed extremely scarce. Every other mob type spawned very well. [u]Prioritize Betrayers.[/u]\r\n\r\nAll of them use [spell=6925] at low health. Do not let them cast it, or [b]they'll go back to 100% Health[/b]. It's a physical ability, so Counterspell/Kick doesn't interrupt it; instead, just [b]burst[/b] them down or save a stun for it.",
+   "replies": [
+    "Killed the camp twice, got the other sets of 5, but not a single betrayer spawned. Reported bug."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2035 @@
+{
+ "id": 4482,
+ "name": "Libram of Tenacity",
+ "level": 55,
+ "reqlevel": 50,
+ "side": 3,
+ "zoneId": 46,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 9836,
+  "name": "Mathredis Firestar",
+  "zone": "Burning Steppes",
+  "zoneId": 46,
+  "coords": [
+   [
+    65,
+    23.4
+   ],
+   [
+    65,
+    23.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 9836,
+  "name": "Mathredis Firestar",
+  "zone": "Burning Steppes",
+  "zoneId": 46,
+  "coords": [
+   [
+    65,
+    23.4
+   ],
+   [
+    65,
+    23.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Progress Thirty gold, <race>. Thirty gold and the required components. Black Diamond  ( 1 ) Libram of Tenacity  ( 1 ) Crystal Ward  ( 4 ) Eye of Kajal  ( 1 )   Required money: 30  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11754,
+   "name": "Black Diamond",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11734,
+   "name": "Libram of Tenacity",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11564,
+   "name": "Crystal Ward",
+   "count": 4,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11753,
+   "name": "Eye of Kajal",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Black Diamond",
+   "count": 1,
+   "type": "item",
+   "id": 11754
+  },
+  {
+   "text": "Libram of Tenacity",
+   "count": 1,
+   "type": "item",
+   "id": 11734
+  },
+  {
+   "text": "Crystal Ward",
+   "count": 4,
+   "type": "item",
+   "id": 11564
+  },
+  {
+   "text": "Eye of Kajal",
+   "count": 1,
+   "type": "item",
+   "id": 11753
+  },
+  {
+   "text": "Required money: 30",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "start",
+   "type": 1,
+   "id": 9836,
+   "name": "Mathredis Firestar",
+   "coord": [
+    65,
+    23.6
+   ],
+   "coords": [
+    [
+     65,
+     23.4
+    ],
+    [
+     65,
+     23.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "end",
+   "type": 1,
+   "id": 9836,
+   "name": "Mathredis Firestar",
+   "coord": [
+    65,
+    23.6
+   ],
+   "coords": [
+    [
+     65,
+     23.4
+    ],
+    [
+     65,
+     23.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7025,
+   "name": "Blackrock Soldier",
+   "coord": [
+    55.6,
+    54.2
+   ],
+   "coords": [
+    [
+     39.2,
+     55.4
+    ],
+    [
+     39.4,
+     55.6
+    ],
+    [
+     39.6,
+     55.4
+    ],
+    [
+     39.6,
+     55.6
+    ],
+    [
+     40.2,
+     56.6
+    ],
+    [
+     40.4,
+     54.2
+    ],
+    [
+     41.4,
+     55.2
+    ],
+    [
+     41.4,
+     55.6
+    ],
+    [
+     42.2,
+     55.8
+    ],
+    [
+     42.4,
+     54.2
+    ],
+    [
+     42.4,
+     54.8
+    ],
+    [
+     42.6,
+     54.2
+    ],
+    [
+     42.6,
+     55
+    ],
+    [
+     42.6,
+     56
+    ],
+    [
+     43,
+     53.2
+    ],
+    [
+     43.4,
+     56.6
+    ],
+    [
+     44,
+     55.4
+    ],
+    [
+     44,
+     55.6
+    ],
+    [
+     44.4,
+     50.4
+    ],
+    [
+     44.4,
+     50.8
+    ],
+    [
+     44.4,
+     58
+    ],
+    [
+     44.6,
+     51
+    ],
+    [
+     44.6,
+     55.4
+    ],
+    [
+     44.6,
+     57.8
+    ],
+    [
+     44.8,
+     56.4
+    ],
+    [
+     45,
+     56.6
+    ],
+    [
+     45.6,
+     56.2
+    ],
+    [
+     45.6,
+     56.8
+    ],
+    [
+     48.4,
+     56.2
+    ],
+    [
+     48.8,
+     56.4
+    ],
+    [
+     48.8,
+     59.2
+    ],
+    [
+     48.8,
+     59.6
+    ],
+    [
+     49,
+     55.2
+    ],
+    [
+     49,
+     56.8
+    ],
+    [
+     49.4,
+     54
+    ],
+    [
+     49.6,
+     54
+    ],
+    [
+     50.4,
+     54.6
+    ],
+    [
+     51,
+     53.4
+    ],
+    [
+     51,
+     55.6
+    ],
+    [
+     51.4,
+     54.4
+    ],
+    [
+     51.4,
+     54.6
+    ],
+    [
+     51.6,
+     54.4
+    ],
+    [
+     51.6,
+     54.6
+    ],
+    [
+     52.6,
+     55.2
+    ],
+    [
+     55.2,
+     52.2
+    ],
+    [
+     55.2,
+     52.6
+    ],
+    [
+     55.2,
+     54.6
+    ],
+    [
+     55.4,
+     54.2
+    ],
+    [
+     55.6,
+     54.2
+    ],
+    [
+     56.2,
+     53.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7026,
+   "name": "Blackrock Sorcerer",
+   "coord": [
+    43,
+    36.8
+   ],
+   "coords": [
+    [
+     39.2,
+     55.2
+    ],
+    [
+     39.4,
+     55.6
+    ],
+    [
+     39.8,
+     35.4
+    ],
+    [
+     40.2,
+     33.8
+    ],
+    [
+     40.4,
+     33.2
+    ],
+    [
+     40.4,
+     35.8
+    ],
+    [
+     40.6,
+     32.8
+    ],
+    [
+     40.6,
+     35.6
+    ],
+    [
+     41.2,
+     33.6
+    ],
+    [
+     41.2,
+     35
+    ],
+    [
+     41.4,
+     55.4
+    ],
+    [
+     41.4,
+     55.8
+    ],
+    [
+     41.6,
+     55.4
+    ],
+    [
+     41.8,
+     35.4
+    ],
+    [
+     42.4,
+     35.6
+    ],
+    [
+     42.4,
+     38.4
+    ],
+    [
+     42.4,
+     38.8
+    ],
+    [
+     42.4,
+     56
+    ],
+    [
+     42.6,
+     35.4
+    ],
+    [
+     42.6,
+     35.6
+    ],
+    [
+     42.6,
+     38.4
+    ],
+    [
+     42.6,
+     38.6
+    ],
+    [
+     42.6,
+     56
+    ],
+    [
+     43,
+     36.8
+    ],
+    [
+     43.4,
+     33.6
+    ],
+    [
+     43.6,
+     33.8
+    ],
+    [
+     43.8,
+     35.6
+    ],
+    [
+     43.8,
+     36.8
+    ],
+    [
+     43.8,
+     55.4
+    ],
+    [
+     43.8,
+     55.6
+    ],
+    [
+     44,
+     35.2
+    ],
+    [
+     44.4,
+     50.4
+    ],
+    [
+     44.4,
+     50.6
+    ],
+    [
+     44.6,
+     50.4
+    ],
+    [
+     44.6,
+     50.8
+    ],
+    [
+     44.6,
+     57.8
+    ],
+    [
+     45,
+     56.4
+    ],
+    [
+     45,
+     56.6
+    ],
+    [
+     48.8,
+     59.4
+    ],
+    [
+     48.8,
+     59.6
+    ],
+    [
+     49,
+     56.4
+    ],
+    [
+     49,
+     56.8
+    ],
+    [
+     49.4,
+     54
+    ],
+    [
+     49.6,
+     54
+    ],
+    [
+     50.4,
+     61.2
+    ],
+    [
+     50.4,
+     61.6
+    ],
+    [
+     50.6,
+     60.8
+    ],
+    [
+     50.6,
+     61.8
+    ],
+    [
+     51,
+     53.4
+    ],
+    [
+     51.4,
+     54.2
+    ],
+    [
+     51.4,
+     54.6
+    ],
+    [
+     51.6,
+     54.4
+    ],
+    [
+     51.6,
+     54.6
+    ],
+    [
+     53.4,
+     52.4
+    ],
+    [
+     53.4,
+     52.6
+    ],
+    [
+     53.6,
+     52.4
+    ],
+    [
+     53.6,
+     52.6
+    ],
+    [
+     55.4,
+     54.2
+    ],
+    [
+     55.4,
+     54.6
+    ],
+    [
+     55.6,
+     54.4
+    ],
+    [
+     55.8,
+     53.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7033,
+   "name": "Firegut Ogre",
+   "coord": [
+    77.2,
+    47.4
+   ],
+   "coords": [
+    [
+     74.4,
+     37
+    ],
+    [
+     74.4,
+     38.4
+    ],
+    [
+     74.4,
+     38.6
+    ],
+    [
+     74.4,
+     40
+    ],
+    [
+     74.4,
+     40.6
+    ],
+    [
+     74.4,
+     43.2
+    ],
+    [
+     74.4,
+     43.6
+    ],
+    [
+     74.4,
+     47
+    ],
+    [
+     74.4,
+     48.4
+    ],
+    [
+     74.4,
+     48.8
+    ],
+    [
+     74.6,
+     36.8
+    ],
+    [
+     74.6,
+     38.2
+    ],
+    [
+     74.6,
+     38.6
+    ],
+    [
+     74.6,
+     40
+    ],
+    [
+     74.6,
+     40.6
+    ],
+    [
+     74.6,
+     43.4
+    ],
+    [
+     74.6,
+     43.8
+    ],
+    [
+     74.6,
+     47
+    ],
+    [
+     74.6,
+     48.8
+    ],
+    [
+     74.8,
+     36.4
+    ],
+    [
+     75,
+     45.6
+    ],
+    [
+     75.2,
+     45.2
+    ],
+    [
+     75.4,
+     48.2
+    ],
+    [
+     75.6,
+     48.6
+    ],
+    [
+     75.8,
+     50.4
+    ],
+    [
+     75.8,
+     50.6
+    ],
+    [
+     75.8,
+     56.6
+    ],
+    [
+     76.2,
+     56.2
+    ],
+    [
+     76.4,
+     34.8
+    ],
+    [
+     76.4,
+     47.4
+    ],
+    [
+     76.4,
+     47.8
+    ],
+    [
+     76.4,
+     55.4
+    ],
+    [
+     76.6,
+     34.8
+    ],
+    [
+     76.6,
+     56
+    ],
+    [
+     76.8,
+     43.8
+    ],
+    [
+     76.8,
+     48.8
+    ],
+    [
+     76.8,
+     51.4
+    ],
+    [
+     76.8,
+     51.6
+    ],
+    [
+     77,
+     43.2
+    ],
+    [
+     77,
+     47.6
+    ],
+    [
+     77.2,
+     45.4
+    ],
+    [
+     77.2,
+     47.4
+    ],
+    [
+     77.4,
+     45.6
+    ],
+    [
+     77.6,
+     54.4
+    ],
+    [
+     77.8,
+     33.4
+    ],
+    [
+     77.8,
+     33.6
+    ],
+    [
+     77.8,
+     55
+    ],
+    [
+     78,
+     41.6
+    ],
+    [
+     78,
+     43.4
+    ],
+    [
+     78,
+     43.6
+    ],
+    [
+     78,
+     45.6
+    ],
+    [
+     78.2,
+     41.4
+    ],
+    [
+     78.2,
+     45.4
+    ],
+    [
+     78.8,
+     55.4
+    ],
+    [
+     78.8,
+     55.6
+    ],
+    [
+     79,
+     44.4
+    ],
+    [
+     79,
+     45
+    ],
+    [
+     79.4,
+     42.4
+    ],
+    [
+     79.4,
+     42.6
+    ],
+    [
+     79.8,
+     42.2
+    ],
+    [
+     79.8,
+     47.2
+    ],
+    [
+     80.2,
+     46
+    ],
+    [
+     80.2,
+     48
+    ],
+    [
+     80.4,
+     41.2
+    ],
+    [
+     80.4,
+     42.6
+    ],
+    [
+     80.4,
+     45.4
+    ],
+    [
+     80.6,
+     41.8
+    ],
+    [
+     80.6,
+     42.6
+    ],
+    [
+     81.4,
+     39.4
+    ],
+    [
+     81.4,
+     40.2
+    ],
+    [
+     81.4,
+     40.6
+    ],
+    [
+     81.6,
+     41.2
+    ],
+    [
+     81.8,
+     42
+    ],
+    [
+     82,
+     39.4
+    ],
+    [
+     82,
+     39.6
+    ],
+    [
+     82,
+     46.8
+    ],
+    [
+     82.2,
+     53.8
+    ],
+    [
+     82.4,
+     53.4
+    ],
+    [
+     82.6,
+     53.4
+    ],
+    [
+     82.6,
+     53.6
+    ],
+    [
+     82.8,
+     38.8
+    ],
+    [
+     83,
+     43.4
+    ],
+    [
+     83.4,
+     43.6
+    ],
+    [
+     83.6,
+     44
+    ],
+    [
+     83.6,
+     45.2
+    ],
+    [
+     83.6,
+     53.2
+    ],
+    [
+     83.6,
+     53.8
+    ],
+    [
+     86.8,
+     45.2
+    ],
+    [
+     86.8,
+     46.8
+    ],
+    [
+     86.8,
+     48.4
+    ],
+    [
+     86.8,
+     48.6
+    ],
+    [
+     87,
+     45.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7034,
+   "name": "Firegut Ogre Mage",
+   "coord": [
+    77.2,
+    47.4
+   ],
+   "coords": [
+    [
+     74.4,
+     37
+    ],
+    [
+     74.4,
+     38.2
+    ],
+    [
+     74.4,
+     38.6
+    ],
+    [
+     74.4,
+     40.2
+    ],
+    [
+     74.4,
+     40.6
+    ],
+    [
+     74.4,
+     43.6
+    ],
+    [
+     74.4,
+     47
+    ],
+    [
+     74.4,
+     48.8
+    ],
+    [
+     74.6,
+     38
+    ],
+    [
+     74.6,
+     38.6
+    ],
+    [
+     74.6,
+     40.4
+    ],
+    [
+     74.6,
+     40.6
+    ],
+    [
+     74.6,
+     43.6
+    ],
+    [
+     74.6,
+     47.2
+    ],
+    [
+     74.6,
+     49
+    ],
+    [
+     74.8,
+     36.6
+    ],
+    [
+     75,
+     45.4
+    ],
+    [
+     75,
+     45.6
+    ],
+    [
+     75.4,
+     48.4
+    ],
+    [
+     75.6,
+     48.6
+    ],
+    [
+     75.8,
+     50.4
+    ],
+    [
+     76,
+     50.6
+    ],
+    [
+     76.4,
+     34.8
+    ],
+    [
+     76.4,
+     38
+    ],
+    [
+     76.4,
+     47.8
+    ],
+    [
+     76.8,
+     34.8
+    ],
+    [
+     76.8,
+     43.8
+    ],
+    [
+     77,
+     47.6
+    ],
+    [
+     77,
+     51.4
+    ],
+    [
+     77,
+     51.6
+    ],
+    [
+     77.2,
+     45.4
+    ],
+    [
+     77.2,
+     47.4
+    ],
+    [
+     77.4,
+     38.2
+    ],
+    [
+     77.4,
+     45.6
+    ],
+    [
+     77.8,
+     33.4
+    ],
+    [
+     77.8,
+     38.2
+    ],
+    [
+     78,
+     33.8
+    ],
+    [
+     78,
+     39
+    ],
+    [
+     78,
+     41.8
+    ],
+    [
+     78,
+     43.4
+    ],
+    [
+     78,
+     43.6
+    ],
+    [
+     78,
+     45.6
+    ],
+    [
+     78.2,
+     40.2
+    ],
+    [
+     78.2,
+     41.4
+    ],
+    [
+     78.2,
+     45.4
+    ],
+    [
+     78.8,
+     40.6
+    ],
+    [
+     79,
+     44.4
+    ],
+    [
+     79,
+     45
+    ],
+    [
+     79.2,
+     35.4
+    ],
+    [
+     79.4,
+     35.6
+    ],
+    [
+     79.4,
+     41.8
+    ],
+    [
+     79.4,
+     43.4
+    ],
+    [
+     79.6,
+     41
+    ],
+    [
+     79.6,
+     44.2
+    ],
+    [
+     79.8,
+     42.2
+    ],
+    [
+     79.8,
+     47.2
+    ],
+    [
+     80.2,
+     36.2
+    ],
+    [
+     80.2,
+     42.6
+    ],
+    [
+     80.2,
+     44.8
+    ],
+    [
+     80.2,
+     47.8
+    ],
+    [
+     80.4,
+     45.6
+    ],
+    [
+     80.6,
+     42.6
+    ],
+    [
+     80.6,
+     45.4
+    ],
+    [
+     80.8,
+     42.4
+    ],
+    [
+     80.8,
+     46.4
+    ],
+    [
+     81,
+     36.6
+    ],
+    [
+     81,
+     46.6
+    ],
+    [
+     81.2,
+     48.2
+    ],
+    [
+     81.4,
+     39.4
+    ],
+    [
+     81.4,
+     39.8
+    ],
+    [
+     81.4,
+     40.8
+    ],
+    [
+     81.4,
+     44
+    ],
+    [
+     81.6,
+     39.6
+    ],
+    [
+     81.6,
+     43.2
+    ],
+    [
+     81.6,
+     44
+    ],
+    [
+     81.8,
+     39.4
+    ],
+    [
+     81.8,
+     41.4
+    ],
+    [
+     81.8,
+     41.6
+    ],
+    [
+     81.8,
+     46
+    ],
+    [
+     82,
+     47
+    ],
+    [
+     82.2,
+     47.8
+    ],
+    [
+     82.4,
+     36.8
+    ],
+    [
+     82.4,
+     53.4
+    ],
+    [
+     82.4,
+     53.6
+    ],
+    [
+     82.6,
+     36.8
+    ],
+    [
+     82.6,
+     42.4
+    ],
+    [
+     82.6,
+     48
+    ],
+    [
+     82.6,
+     53.4
+    ],
+    [
+     82.8,
+     45.4
+    ],
+    [
+     83.2,
+     38.4
+    ],
+    [
+     83.2,
+     43.4
+    ],
+    [
+     83.2,
+     47.2
+    ],
+    [
+     83.4,
+     39
+    ],
+    [
+     83.4,
+     40.4
+    ],
+    [
+     83.4,
+     40.6
+    ],
+    [
+     83.4,
+     43.6
+    ],
+    [
+     83.4,
+     45.8
+    ],
+    [
+     83.6,
+     40
+    ],
+    [
+     83.6,
+     44
+    ],
+    [
+     83.6,
+     45.2
+    ],
+    [
+     83.6,
+     45.8
+    ],
+    [
+     83.6,
+     52.2
+    ],
+    [
+     83.6,
+     53.4
+    ],
+    [
+     83.6,
+     53.8
+    ],
+    [
+     84,
+     36.8
+    ],
+    [
+     84,
+     42.8
+    ],
+    [
+     84.4,
+     48.8
+    ],
+    [
+     84.6,
+     36.6
+    ],
+    [
+     84.6,
+     47.4
+    ],
+    [
+     84.6,
+     47.6
+    ],
+    [
+     85,
+     45.4
+    ],
+    [
+     85,
+     45.6
+    ],
+    [
+     85.4,
+     36.4
+    ],
+    [
+     85.6,
+     36.4
+    ],
+    [
+     86.8,
+     47
+    ],
+    [
+     86.8,
+     48.4
+    ],
+    [
+     87,
+     45.4
+    ],
+    [
+     87,
+     45.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7035,
+   "name": "Firegut Brute",
+   "coord": [
+    82.2,
+    39.2
+   ],
+   "coords": [
+    [
+     76.4,
+     38
+    ],
+    [
+     76.8,
+     47.8
+    ],
+    [
+     77.2,
+     43.6
+    ],
+    [
+     77.2,
+     45.4
+    ],
+    [
+     77.4,
+     38.2
+    ],
+    [
+     77.4,
+     46.2
+    ],
+    [
+     77.4,
+     47
+    ],
+    [
+     77.8,
+     38.2
+    ],
+    [
+     78,
+     39
+    ],
+    [
+     78,
+     45.6
+    ],
+    [
+     78.2,
+     34.6
+    ],
+    [
+     78.2,
+     40.2
+    ],
+    [
+     78.2,
+     45.4
+    ],
+    [
+     78.4,
+     40.6
+    ],
+    [
+     78.6,
+     40.4
+    ],
+    [
+     78.8,
+     35.2
+    ],
+    [
+     79.2,
+     40.6
+    ],
+    [
+     79.4,
+     35.6
+    ],
+    [
+     79.4,
+     41.6
+    ],
+    [
+     79.4,
+     43.4
+    ],
+    [
+     79.4,
+     43.6
+    ],
+    [
+     79.6,
+     41
+    ],
+    [
+     79.6,
+     41.6
+    ],
+    [
+     79.6,
+     44.2
+    ],
+    [
+     79.8,
+     47.2
+    ],
+    [
+     80,
+     36.2
+    ],
+    [
+     80.2,
+     42.6
+    ],
+    [
+     80.2,
+     44.8
+    ],
+    [
+     80.2,
+     47.8
+    ],
+    [
+     80.4,
+     45.8
+    ],
+    [
+     80.6,
+     42.6
+    ],
+    [
+     80.6,
+     45.4
+    ],
+    [
+     80.8,
+     42.4
+    ],
+    [
+     80.8,
+     46.4
+    ],
+    [
+     81,
+     36.6
+    ],
+    [
+     81,
+     46.6
+    ],
+    [
+     81.4,
+     39.4
+    ],
+    [
+     81.4,
+     39.8
+    ],
+    [
+     81.4,
+     40.8
+    ],
+    [
+     81.4,
+     44
+    ],
+    [
+     81.4,
+     48.2
+    ],
+    [
+     81.6,
+     39.6
+    ],
+    [
+     81.6,
+     43.2
+    ],
+    [
+     81.6,
+     44
+    ],
+    [
+     81.8,
+     41.4
+    ],
+    [
+     81.8,
+     41.6
+    ],
+    [
+     81.8,
+     46
+    ],
+    [
+     82,
+     46.8
+    ],
+    [
+     82.2,
+     39.2
+    ],
+    [
+     82.2,
+     47.8
+    ],
+    [
+     82.4,
+     36.6
+    ],
+    [
+     82.6,
+     36.8
+    ],
+    [
+     82.6,
+     42.4
+    ],
+    [
+     82.6,
+     45.4
+    ],
+    [
+     82.6,
+     48
+    ],
+    [
+     83.2,
+     38.2
+    ],
+    [
+     83.2,
+     38.6
+    ],
+    [
+     83.2,
+     43.4
+    ],
+    [
+     83.2,
+     43.6
+    ],
+    [
+     83.2,
+     47.2
+    ],
+    [
+     83.4,
+     40.4
+    ],
+    [
+     83.4,
+     40.6
+    ],
+    [
+     83.4,
+     45.8
+    ],
+    [
+     83.4,
+     52.2
+    ],
+    [
+     83.6,
+     39.2
+    ],
+    [
+     83.6,
+     40
+    ],
+    [
+     83.6,
+     43.8
+    ],
+    [
+     83.6,
+     45.2
+    ],
+    [
+     83.6,
+     45.8
+    ],
+    [
+     83.6,
+     52.4
+    ],
+    [
+     83.6,
+     52.6
+    ],
+    [
+     83.8,
+     42.4
+    ],
+    [
+     84,
+     36.8
+    ],
+    [
+     84,
+     42.8
+    ],
+    [
+     84,
+     50.6
+    ],
+    [
+     84.2,
+     49.6
+    ],
+    [
+     84.4,
+     48.4
+    ],
+    [
+     84.4,
+     48.8
+    ],
+    [
+     84.6,
+     36.6
+    ],
+    [
+     84.6,
+     47.4
+    ],
+    [
+     84.6,
+     47.6
+    ],
+    [
+     84.6,
+     48.6
+    ],
+    [
+     84.8,
+     44.2
+    ],
+    [
+     84.8,
+     45.8
+    ],
+    [
+     85,
+     45.4
+    ],
+    [
+     85.4,
+     36.4
+    ],
+    [
+     85.6,
+     36.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 9043,
+   "name": "Scarshield Grunt",
+   "coord": [
+    34,
+    28
+   ],
+   "coords": [
+    [
+     33.2,
+     26.8
+    ],
+    [
+     34,
+     28
+    ],
+    [
+     35,
+     27.8
+    ],
+    [
+     35.6,
+     27.4
+    ],
+    [
+     37.2,
+     26.6
+    ],
+    [
+     37.4,
+     26.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 9044,
+   "name": "Scarshield Sentry",
+   "coord": [
+    33.6,
+    28
+   ],
+   "coords": [
+    [
+     33.6,
+     28
+    ],
+    [
+     34.4,
+     26.6
+    ],
+    [
+     34.6,
+     28.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 203138,
+   "name": "Anvilrage Overseer",
+   "coord": [
+    26,
+    23
+   ],
+   "coords": [
+    [
+     26,
+     23
+    ],
+    [
+     26.2,
+     22
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 31,
+   "date": "2007-03-30T20:55:35-05:00",
+   "body": "If you are level 70 you can do this solo even without stealth. Helps to be a mage to blink past a few \"tight spots\".\r\n\r\nEnter BRD, go through the locked door on your left, continue straight to the \"highway\", take a right and follow the hall to Incendius, melt his face, loot corpse, dance happy jig, disenchant BOP drop (if you can), continue straight and go up the ramp, avoid mobs by walking on the railing most fo the way. At the top fo the ramp go through the doorway and go to the left, take the next left into the Cofffer Room. Blink past the boss and the dog so you are standing against the Dark Coffer. Attack and kill the dog and ignore the boss until the dog is dead. At level 70 you should resist all or most of the bosses spells. Kill the boss, loot and dance again, DE, walk to the edge of the room (stand about where the boss was standing), adjust your camera angle so you can click the picture on the wall and read the caption n the picture to find where the NPC is that you need to kill to get the Dark Coffer Key. Backtrack to wherever that mobs is and kill him to get the key, then return to the Coffer Room, open the Dark Coffer, loot contents, hearth out to Orgrimmar or Ironforge... spam the trade channel til you sell the \"enchant\" or get ignored by everyone on your server.\r\n\r\nIf you happen to get ignored by everyone on the server, pay Blizzard to do a server transfer to another. Repeat as needed.\r\n\r\n:-P",
+   "replies": []
+  },
+  {
+   "rating": 23,
+   "date": "2005-06-06T19:04:48-05:00",
+   "body": "Druids get +360% armor value from items while in dire bear form.\n\nHowever this bonus is not applied to any armor modifications such as armor kits or this.",
+   "replies": [
+    "You're way off. the armor kits and this would be added to over all armor. Why do you think Bear form loves armor kits so much?\nI tested this out tonight just to make sure. No armor kit gloves that had agility on them, and a tad less armor rating, versus like 4 more armor rating and no agility, but with an armor kit on it.\nI got an increase of like 80 or more. Since agility factors in to armor (it was 17 agility total, maybe more)",
+    "I tried this on my Feral with 5/5 Thick Hide. I put the helm on before I added the Arcanum to it, went into Dire Bear form, and wrote down my Armor. I then applied the Arcanum to the helm, went into Dire Bear form, and saw that my armor was only increased by 125. Classic. 2020/02/18"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-03T05:12:24-05:00",
+   "body": "I personally think this is the least usefull libram quest there is... 125 armor does nothing in damage mitigation.  Only cloth wearers would benefit from the enchant, but they're better off getting the Rumination librams and get 150 more mana or the +100 health one.\n\nif they add a 0 to the end then it's worth it.",
+   "replies": [
+    "Actually... +150 mana isn't as great as it seems. By itself, that amount barely covers mana cost of most spells at this level. At least for the priest, +150 mana is no different than 10 Int, same goes for the +100hps = 10 Sta. Personally, I'd take the 125 armor and put it on the head, much like the Defense enchant on cloak.",
+    "I believe the 10 INT would also give you a bonus to crit with spells, as well as the mana.  INT is not the same as mana.",
+    "It's 100 int for 1% crit. It's alot, hence why its better to look for + to crit % on equipment if your goin' for a higher crit chance.",
+    "Just remember that armor doesn't actually have diminishing returns (it appears to, but infact it has a linear bonus in terms of time you live:armor).",
+    "It's not 10 int tho. 150 mana /= crit."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-05-28T19:22:07-05:00",
+   "body": "Seriously can some druid who has this confirm whether u get teh feral multiplier on this?\nArmor kits do not multiply. Shame, should, but dont. I can confirm that.",
+   "replies": [
+    "The feral form multiplier for Druids does NOT include any enchantments/enhancements made to armor.\n\nThe multiplier is used with the stated armor class rating of the armor piece and then any armor class enchantments/enhancements are added on top of that afterwards.\n\nSo no, the multiplier cannot be factored in for the bonus amounts either this libram or armor kits provide to a piece of armor.\n\nIf you don't believe me, equip any pair of gloves that do not have an enchant on them and change into dire bear form.  Change back and apply any armor kit to the gloves.  Change back into dire bear form an",
+    "This is exactly correct.\nHowever, inherent armor bonuses in items DO multiply. For example: the Unyielding Maul grants an armor bonus of 250. In bear/moonkin form, it increases my armor by 1265. It's pretty insane. I recommend to any feral or balance druids that you seek out items that have any of this sort that have an inherent bonus. I've seen a ring or two that have small bonuses. But a ring that offers even 50 armor, increased by 360%, is 230 armor - much more beneficial to a druid in bear form than to a warrior.\nAnd yes, that's 50 armor PLUS 360%, not 360% of the total as someone inferred"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-07-20T03:36:17-05:00",
+   "body": "got the libram from a furlbog in deadwood. wasn't sure what to do with it.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2006-04-25T23:44:49-05:00",
+   "body": "I went for Burrning Essence today and the Eye was inside the chest",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2006-03-17T22:22:09-06:00",
+   "body": "I think this libram is very useless, that's why the price of this libram is like 90s on our server. Don't forget that every little bit of health you get on your armor helps.",
+   "replies": [
+    "I think you're not a feral druid then. Personally I would take the +450 armour it would give my druid over 100 health.",
+    "This doesn't multiply for bear form, just like armor kits and armor enchants don't.",
+    "it does",
+    "Yep, I stand corrected. This does not multiply in bear form, as I found out much to my disappointment after sticking it on my Dark Hearts :("
+   ]
+  },
+  {
+   "rating": -6,
+   "date": "2006-04-25T14:33:39-05:00",
+   "body": "Been to BRD 10000 times, done Vault event 5000 times and i have never seen Eye of Kajal drop. \n\nany info on this?",
+   "replies": [
+    "You are terribly unlucky.  I see it every time, and I do this twice a week with guildies for the burning essence.",
+    "Doing the Vault is fine, yes, but the eye isnt in the Vault, its in the Dark Coffer above it...\n\nJust click the portrait on the wall outside vault and find out the place Dark Keeper spawns, kill him and get the key for the Dark Coffer..."
+   ]
+  },
+  {
+   "rating": -9,
+   "date": "2005-08-03T14:34:00-05:00",
+   "body": "Every single bit of armor is important for every class, even for warrior.",
+   "replies": [
+    "\"even\" for warrior"
+   ]
+  },
+  {
+   "rating": -10,
+   "date": "2020-02-19T13:44:50-06:00",
+   "body": "This Libram gives +125 armor to a head/leg piece.  It is by far the worst Libram in the game and should not be used by anyone.",
+   "replies": []
+  },
+  {
+   "rating": -11,
+   "date": "2005-06-03T18:41:12-05:00",
+   "body": "Ever heard of druid and bear form and the 280% increase they get",
+   "replies": []
+  }
+ ]
+}

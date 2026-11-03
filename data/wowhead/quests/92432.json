@@ -1,0 +1,109 @@
+{
+ "id": 92432,
+ "name": "An Alarming Request",
+ "level": 33,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 36,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 660,
+ "start": {
+  "type": "npc",
+  "id": 247264,
+  "name": "Emissary Jacques",
+  "zone": "Hillsbrad Foothills",
+  "zoneId": 267,
+  "coords": [
+   [
+    48.3,
+    60.1
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 269127,
+  "name": "Image of Archmage Modera",
+  "zone": "Silverpine Forest",
+  "zoneId": 130,
+  "coords": [
+   [
+    68.4,
+    45.2
+   ],
+   [
+    68.6,
+    45.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Report to the Image of Archmage Modera near the City of Dalaran.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 269127,
+   "name": "Image of Archmage Modera",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  92432,
+  92458,
+  92459
+ ],
+ "points": [
+  {
+   "zoneId": 267,
+   "zone": "Hillsbrad Foothills",
+   "point": "start",
+   "type": 1,
+   "id": 247264,
+   "name": "Emissary Jacques",
+   "coord": [
+    48.3,
+    60.1
+   ],
+   "coords": [
+    [
+     48.3,
+     60.1
+    ]
+   ]
+  },
+  {
+   "zoneId": 130,
+   "zone": "Silverpine Forest",
+   "point": "end",
+   "type": 1,
+   "id": 269127,
+   "name": "Image of Archmage Modera",
+   "coord": [
+    68.6,
+    45.2
+   ],
+   "coords": [
+    [
+     68.4,
+     45.2
+    ],
+    [
+     68.6,
+     45.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-03T10:28:07-05:00",
+   "body": "Quest: [url=https://www.wowhead.com/forever/quest=92432/an-alarming-request]An Alarming Request[/url]\r\nOthers: [url=https://www.wowhead.com/forever/zone=16544/city-of-dalaran#quests]City of Dalaran[/url]\r\nType: Dungeon\r\nReq: Level 24\r\nSharable: Yes\r\nLeads To: [url=https://www.wowhead.com/forever/quest=92458/heart-of-disruption]Heart of Disruption[/url]\r\nFinal Rewards:\r\n[ul]\r\n[li]\r\n[url=https://www.wowhead.com/forever/item=279839/spellguard-pauldrons]Spellguard Pauldrons[/url]\r\n[/li]\r\n[li]\r\n[url=https://www.wowhead.com/forever/item=279840/renewing-footpads]Renewing Footpads[/url]\r\n[/li]\r\n[li]\r\n[url=https://www.wowhead.com/forever/item=279841/defender-of-dalaran]Defender of Dalaran[/url]\r\n[/li]\r\n[/ul]\r\nNote: These details are subject to change throughout Forever's development cycle. Accuracy is only guaranteed at the time of this posting.\r\nYou can find my Google Sheets document which is updated more frequently [url=https://docs.google.com/spreadsheets/d/1Hy3tqXAsSic6QvAf8Aew8TEagLj5ohU5bQS-mCbX9H0/edit?usp=sharing]here[/url]. It contains these types of details for all WoW Forever dungeons.",
+   "replies": []
+  }
+ ]
+}

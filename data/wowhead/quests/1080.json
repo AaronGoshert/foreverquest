@@ -1,0 +1,419 @@
+{
+ "id": 1080,
+ "name": "Covert Ops - Beta",
+ "level": 22,
+ "reqlevel": 17,
+ "side": 1,
+ "zoneId": 406,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2200,
+ "start": {
+  "type": "npc",
+  "id": 4077,
+  "name": "Gaxim Rustfizzle",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59.4,
+    67.2
+   ],
+   [
+    59.6,
+    67
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4077,
+  "name": "Gaxim Rustfizzle",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59.4,
+    67.2
+   ],
+   [
+    59.6,
+    67
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Retrieve the Venture Co. Letters from Windshear Mine at the east end of Windshear Crag. Venture Co. Letters  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5717,
+   "name": "Venture Co. Letters",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5738,
+   "name": "Covert Ops Pack",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Venture Co. Letters",
+   "count": 1,
+   "type": "item",
+   "id": 5717
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 4077,
+   "name": "Gaxim Rustfizzle",
+   "coord": [
+    59.4,
+    67.2
+   ],
+   "coords": [
+    [
+     59.4,
+     67.2
+    ],
+    [
+     59.6,
+     67
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 4077,
+   "name": "Gaxim Rustfizzle",
+   "coord": [
+    59.4,
+    67.2
+   ],
+   "coords": [
+    [
+     59.4,
+     67.2
+    ],
+    [
+     59.6,
+     67
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 34,
+   "date": "2005-10-25T09:51:39-05:00",
+   "body": "Both quests are easy enough if you know when and where to pull.&nbsp; I did both of them by myself.&nbsp; If you are a druid or rogue, the best thing to do is prowl around the areas so you can get a good idea of where people are, where the plans and letters are, and where to run.\n\nCovert Ops Alpha - The wagon is in front of the mill on a small hill.&nbsp; It sits by itself and has some firework looking things on top.&nbsp; For those with Cosmos or map coordinates, the mill is at 66,50.&nbsp; There are two loggers close to it, so take them out.&nbsp; Then attach the explosives, blow it up, and run along the bottom of the hill towards the mill.&nbsp; Not all of the Venture guys will leave, but that's okay.&nbsp; The plans are on the west/left side of the mill, on a tree stump.&nbsp; It looks like a piece of rolled-up parchment.&nbsp; I shifted to cat from as soon as it blew, prowled over to the parchment, shifted up, grabbed it, and ran out with only 1 aggroed Deforester to take care of behind the mill.\n\nCovert Ops Beta - This is a little more difficult than Alpha.&nbsp; The wagon for this one is on a small hill in front of the mine.&nbsp; The mine is located at about 74,58 or so.&nbsp; There are no guards on this wagon, just an operator, and he's far enough away where he won't aggro.&nbsp; Slightly behind the wagon there is a small hill.&nbsp; You can blow the wagon if you stand on that hill and keep the wagon to your right.\n\nThe letters for this one are on the right/east side of the mine entrance, on a tree stump.&nbsp; They look like a stack of books.\n\nHere's the trick for Beta...the kobolds don't run when you blow the wagon.&nbsp; So, you need to kill some of them before setting the explosives.&nbsp; On the west side of the mine, there is another small hill with three kobolds wandering.&nbsp; Take them out.&nbsp; On the east side of the mine, along the ridge, there are two other kobolds.&nbsp; Take them out too.&nbsp; There is another kobold closer to the letters, but if you attack him you'll draw the attention of everyone else, so leave him alone.\n\nRun over to the wagon (don't let anyone see you!) and set the explosives.&nbsp; Get over to the hill and set them off, then take off running.&nbsp; Head over the hill where you killed the first kobolds, then turn to the mine and get the plans.&nbsp; Then run AWAY from the mine (I went to the east, along the cliffs).&nbsp; The kobold you didn't kill will most likely aggro, but if you stop to kill him the rest of the Venture guys will be back and aggro.&nbsp; Just make sure your health is full and run along the cliffs.&nbsp; He stops giving chase soon.\n\nGood luck, and I hope this helps!",
+   "replies": [
+    "Right isn't east if you're facing south..."
+   ]
+  },
+  {
+   "rating": 19,
+   "date": "2005-10-25T09:51:39-05:00",
+   "body": "What a pleasant surprise it was that [b]none of the kobolds care about the dynamite[/b].\n\nThe Venture Co. people, coincidentally, don't care about the kobolds, so feel free to pull each and every one of them first.\n\nSo much for covert ops.&nbsp; All I learned from this mission is that you can look down the Spirit Healer's shirt.",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2007-05-05T09:59:06-05:00",
+   "body": "Letters : 74.59\r\nWagon : 75.57",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2006-08-17T18:56:38-05:00",
+   "body": "The letters are at 74, 59.  The mine is a kobold area, which threw me off at first, but you don't actually have to enter the tunnels.\n\nThe cart for the explosives is at 76, 57.\n\nWhen you set off the explosives, about 10-15 Venture Co. people run over to where it was.  That lets you run in and grab the letters, though you may have to kill a few kobolds.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2006-04-25T21:51:39-05:00",
+   "body": "This quest is BS.&nbsp; Im lvl 25 and cant do it alone, you will aggro everything that is there when they try to run away.&nbsp; Get a partner to help with this one.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2006-12-15T07:09:32-06:00",
+   "body": "Both quests are easy enough if you know when and where to pull. I did both of them by myself. If you are a druid or rogue, the best thing to do is prowl around the areas so you can get a good idea of where people are, where the plans and letters are, and where to run. \r\n\r\nCovert Ops Beta - This is a little more difficult than Alpha. The wagon for this one is on a small hill in front of the mine. The mine is located at about 74,58 or so. There are no guards on this wagon, just an operator, and he's far enough away where he won't aggro. Slightly behind the wagon there is a small hill. You can blow the wagon if you stand on that hill and keep the wagon to your right. \r\n\r\nThe letters for this one are on the right/east side of the mine entrance, on a tree stump. They look like a stack of books. \r\n\r\nHere's the trick for this one...the kobolds don't run when you blow the wagon. So, you need to kill some of them before setting the explosives. On the west side of the mine, there is another small hill with three kobolds wandering. Take them out. On the east side of the mine, along the ridge, there are two other kobolds. Take them out too. There is another kobold closer to the letters, but if you attack him you'll draw the attention of everyone else, so leave him alone. \r\n\r\nRun over to the wagon (don't let anyone see you!) and set the explosives. Get over to the hill and set them off, then take off running. Head over the hill where you killed the first kobolds, then turn to the mine and get the plans. Then run AWAY from the mine (I went to the east, along the cliffs). The kobold you didn't kill will most likely aggro, but if you stop to kill him the rest of the Venture guys will be back and aggro. Just make sure your health is full and run along the cliffs. He stops giving chase soon.",
+   "replies": [
+    "Actually the plans are not on a tree trunk instead they are on a crate box. I spent a great amount of time looking for these on a stump"
+   ]
+  },
+  {
+   "rating": 9,
+   "date": "2007-04-13T08:20:04-05:00",
+   "body": "Just to note, you don't actually need to use the explosives/detonator given in this quest, so if something goes wrong (ie: you took too long getting to the quest item and all the mobs went back) you can always clear to the quest item the old fashioned way. The item is right out in plain sight, so the explosives are just a fun and easier way to get the item.\r\n\r\nThe mine is in the eastern portion of Windshear Crag, so work your way there and in front of the entrance, you'll see the wagon of explosives. Before setting the charge, look at the entrance of the mine, and in front of it (just to the right) you'll see a crate with a clickable item -- that's your quest item.\r\n\r\nAs a hunter, here's how I did this: before setting the charge, I cleared the mobs to my left (along the mountain/hills) almost up to the quest item. Then I set the red charge on the wagon, moved a bit away (towards where I cleared) and then detonated the wagon. The mobs in the center/front will investigate the explosion, leaving a couple of mobs to clear. I sent my pet to both leftover mobs to distract them and looted the quest item, then ran away, calling my pet to retreat, back the way I came. The two mobs that aggroed chased me, and I killed them when I was at a safe distance from the mine.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2005-10-25T09:51:39-05:00",
+   "body": "QUICK VERSION: Use roots to hold down any mob pounding on you when you get the documents.\n\nDETAILS:\nScout the area (for both quests) as a prowling cat, first, to make sure in your mind where the documents are. For the mine, they're on a box at the foot of the first corner pillar on the *mountain* end.\n\n(Unfortunately, you can't place or trigger the explosives as cat. <8(> )\n\nGet closer than you think as druid -- safely, since you can't prowl! -- and try to trigger bomb. If you are too far away, it will say \"Requires explosive\" whatever colour. Step once back, try again.\n\ni think there's a wee hillock or small boulder between the waggon and the documents you can stand near. i think you have to be on the waggon side of it to trigger, but i'm not sure.\n\nWhen it blows, you'll know because you won't get the \"Requires...\" message and most everyone will start streaming past you. Runrunrun to the documents, rightclick quick, and hope you can open them fast enough.\n\nProbably not. At least one guy will notice you and start pummelling.\n\nIf it's a melee-type, *excellent*. Root him quick, then while he stands there and fumes, get the documents. If you can restrain from moonfiring him, even better, so the damage doesn't break the roots. \n\nOh, and cast Nature's Grasp on yourself quicklike as you start to run to the documents, so there's a chance an attacker might root himself.\n\nDon't even *think* about sticking around afterwards. Run, in any form, away.\n\nIf you're getting plinked by axes, that's bothersome. Then it's pretty near impossible, because every plink will disrupt your opening the documents. You may as well either fight it out and die, or run away.\n\ni think the closest guy left, though, to notice you as you nick the docs is a melee-type.\n\nIf you couldn't get the documents, for whatever reason, no sweat. Abandon \"Covert Ops - Beta\", then go back to the gnome and get it again. You'll get another whole satchel, with *everything* for *both* quests.\n\nWhilst i didn't need to try it, i suspect that should a second attempt fail, you could use the remaining explosive at the mine, too. (Instead of at the mill as it was intended.)\n\nRinse and repeat until you get the documents. Roots and prowl are your friends!\n\nEven better, of course, would be to help someone with their quota of loggers, etc., in exchange for them holding mobs off you whilst you get the documents.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-03-20T09:51:39-06:00",
+   "body": "Whoever designed this quest needs to be hanged.&nbsp; Alpha was easy, but the second one is impossible.&nbsp; No matter what I do, none of the koblds move, and when I attack one, they all aggro on me.&nbsp; I picked them all off once, only to have one run at me from inside the mine, with a buddy, to kill me.&nbsp; Seriously, it should be like lvl 26 or something.&nbsp; I have died nine times, and still haven't made any progress.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-04-29T03:08:27-05:00",
+   "body": "I got these quests as a 25 mage and hadn't done them in 2 years, so I forgot about the explosives.&nbsp; I just went to the mine and the lumbermill, cleared a path to the documents (I did remember where they were) which was quite easy, got the docs, and went and turned them in.&nbsp; Then I noticed the covert ops pack when I was vendoring stuff later.&nbsp; Oops.\n\nWhat I do remember from doing this 2 years ago is that it's actually easier if you just skip the whole explosives thing.&nbsp; Just clear out the guys around the documents and get them.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-05-14T07:56:27-05:00",
+   "body": "Why use the bombs?\n\nI'm a lvl 25 hunter and I stole the whole sh*t without triggering any bomb...",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-08-13T09:51:39-05:00",
+   "body": "I just Solo'd this quest with a 25 NE Priest. \n\nfor Alpha, i followed the directions and they worked fine.\n\nOn Beta, i had the similar issue with the kobolds,\n\nBut if you approach from the upper entrance to the mine, under the Walkway, you can pull each defender without aggro'ing the whole group.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-03-21T13:10:52-05:00",
+   "body": "they run back to the mine pretty quickly after you blow the wagon, so move fast.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-25T09:51:39-05:00",
+   "body": "This one I still can't do at level 22. Too many mobs stay behind when you detonate the bomb. Bring a group if you can get on to go there.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-25T09:51:39-05:00",
+   "body": "Can someone tell me where the plans and the letters are?&nbsp; I stealthed all around looking and couldn't find it.&nbsp; Are the plans in the chest in the mill?&nbsp; Because I had looted it earlier before getting that quest and it hadn't respawned so i couldn't get it again :-/",
+   "replies": [
+    "The Dokuments is outside the eastnorth cave (almost cord 73.58)\n\nI hope that was a help",
+    "The cave in question is in the southeast of the worksite, not the northeast."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-25T09:51:39-05:00",
+   "body": "To answer an above question about the capability to get the documents and letters without blowing up the wagons.... the answer is yes... and alone.&nbsp; It didn't take too long, but had to use stealth/selective attacking and drawing out one with moonfire then to cat form or if two or more aggro'd then using healing after killing the first then retreat-heal-and reattack the 2nd guy.&nbsp; Had the quests...-never received any bomb/detonator from quest giver. Yes, I got him his potions to make the&nbsp; nitro... Abandoned each A and B quest...-got quests back and still no bombs or info on how to blow anything up.&nbsp; I crawled all over the wagons in as a cat and as a Druid.&nbsp; Nothing to select... so this was my only option other than putting together a party.&nbsp; Good luck, and watch for a couple coming out of the mine on B.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-02-11T21:51:39-06:00",
+   "body": "it took me several tries, then i came here and read the comments. i took alpha first, lit the dynamite, rain it and grabbed the plans.\n\nfor the 2nd one i killed a couple of the kobolds around before i detonated. it was all clear by the detonation then. i aggro'd 1 of the axe throwers, made him run in fear, grabbed the plans, a geomancer was aggro'd. i just ran then. by the time i was out of their range, i had less than 50 hp left.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-02-11T21:51:39-06:00",
+   "body": "I only have a lvl 24 rogue and was able to do this on the first attempt.&nbsp; Just stealth around until you find the documents outside the mine.&nbsp; Go to the wagon to the north and plant the explosives (right-click on the explosives when you are butted up next to the back of the wagon).&nbsp; This will cause you to \"de-stealth\".&nbsp; There may be one mob you have to clear out from the wagon first.&nbsp; Not bad.&nbsp; Then go south and kill the single mob next to the stumps to the north east of the mine.&nbsp; That will be your hiding place.&nbsp; Face the wagon and hit the detonator!&nbsp; Wagon explodes, half of the mob runs out.&nbsp; Stealth back up to the area with the documents and kill the guy that is just west of them.&nbsp; Turn around and grab documents.&nbsp; The other mob near the mine entrance should have his back to you.&nbsp; If he doesn't he may come after you.&nbsp; Do not go after him as this will aggro the other mob by him.&nbsp; If you have to deal with him it is likely you will have very little time to get the documents.&nbsp; When you do, just grab them and hit vanish if you have been noticed.&nbsp; Really not that hard.&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-07-03T12:23:55-05:00",
+   "body": "Just completed this at lvl 26. Ok, so I'm an airhead, but the whole bomb thing was too complicated for me... I'm a rogue! ;) Sneak up - take out the mobs around the letters (looks like a pile of books), right click... done...\n\nMaybe if I was an engineer, I'd have done it the other way! lol Made much more sense to me this way in an RP sorta way.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-02-11T21:51:39-06:00",
+   "body": "Maybe there is something wrong with me but i hardly ever read the description and so i never used the explosives... i just killed everything and got the letters... Done..\nhanded in task no problems ecept i still had 2 explosives hehe~ guess i will throw them away...",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-02-11T21:51:39-06:00",
+   "body": "The bombs have nothing to do with the plans.\n\nThe plans aren't easy to find.\n\nIf you go in the wrong area of the mine you can waste hours.\n\nThe only thing positive I can say about this is the ore nodes in the mine seemed to respawn quick and I did find a goblin in the mine that has a quest.&nbsp; Unfortunately he was surrounded by 5 mobs and I couldn't separate them without being killed.\n\nI'll go back to the mine to see what that quest is if I can find a buddy or level a bit more.&nbsp; &nbsp; It might be an escort.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-03-20T14:39:39-05:00",
+   "body": "The main goal are the documents. One near building in the southwest, one left near the mine in the east. That is enough. Only mine has many mobs and killing is more work.\n\nNo need to search for wagons. Just pick plans and you're done. Next!",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-03-26T16:34:51-05:00",
+   "body": "There are two entrances to the mine .... you want the one at the end of the railway track",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-25T09:51:39-05:00",
+   "body": "Though you should keep some distance from the wagon, you must be CLOSE enough to the wagon to trigger that explosive =.=",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-25T09:51:39-05:00",
+   "body": "forget about the, just found it,&nbsp; btw, its not in the cave, its a bit outside",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-25T09:51:39-05:00",
+   "body": "Same problem with the 'Red Wagon' message. I can't place the explosives, but the plans are right there by the cave entrance.\nI'll probably just end up fighting my way over to the plans.\n\nThe plans are not inside the mine.\nThe plans are not inside the mine.\nThey are on a crate by the lower entrance, you can see them from the wagon.\n\nSafe travels.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-25T09:51:39-05:00",
+   "body": "I fought my way into both places and took the documents without using the bombs at all. quest completed fine, and I still had the covert ops pack on me when i finished. destroyed it later.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-06T09:51:39-06:00",
+   "body": "Thanks again to Mirielle for her wonderfully-detailed description of the task and the solution. But as in Alpha, I agree with Multiboy and Kattril - it's not absolutely necessary to use the explosives.\n\nBecause you need to clear the area of potential adds (something all druids are used to), my 24 Druid ended up methodically killing half the mobs around the mine anyway and I was well on my way to killing the other half (sometimes two by two since some of them are linked) when a Troll Hunter showed up. We cleared the rest of the area in a New York minute. Pick up plans. Walk away.\n\nTrue, we had a few respawns but they never had a chance. I wasn't originally planning to do it this way but why not? Too bad you can't use the explosives somewhere else.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-08-13T09:51:39-05:00",
+   "body": "I did this as a lvl 24 hunter.&nbsp; I first went into the cave.&nbsp; A definite no-no.&nbsp; Got to the treasure chests, then Bliz restarted the server, and when I logged back in, was in the middle of 50 kobolds! After getting killed a few times, I just wiped out the 7 or so guys in front, and took the papers from the crate.&nbsp; Not too bad!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-11T21:51:39-06:00",
+   "body": "Thanks for the coords, they led me to the mine. I placed the explosives, got to the left of the mine, moved my mouse to find the letters but couldn't so just detonated. Couldn't, so moved closer, detonated than moved behind trees. Got my pet on closest mob while I quickly looked, found, looted without agrro, went back to pet, killed the mob and looted than left, it was so much easier than Alpha for me.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2020-03-17T23:57:07-05:00",
+   "body": "The Questie addon showed this and [quest=1079] as available on my map after I turned in [quest=1077] but before I was done with [quest=1074]. This is in error and you need to complete both quests for the two covert ops quests to show up.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-17T12:13:11-05:00",
+   "body": "This is part of the long & fun quest chain originating from \"On Guard in Stonetalon\" (https://www.wowhead.com/forever/quest=1070) in Ashenvale.\r\n\r\n-Prerequisites for this quest is \"Covert Ops - Alpha\" (https://www.wowhead.com/forever/quest=1079)\r\n-This quest leads to \"Kaela's Update\" (https://www.wowhead.com/forever/quest=1091)",
+   "replies": [
+    "Correction:  Prerequisites for this quest are: -Ineptitude + Chemicals = Fun (https://www.wowhead.com/forever/quest=1074) -Special Delivery for Gaxim (https://www.wowhead.com/forever/quest=1077)  Covert Ops - Alpha (https://www.wowhead.com/forever/quest=1079) is offered at the same time as this quest, thus NOT a prerequisite.  When both Alpha & Beta are completed, the next quest in line \"Kaela's Update\" (https://www.wowhead.com/forever/quest=1091) will be available.  Apologies for the mix up."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-25T09:51:39-05:00",
+   "body": "where the hell i get the damn letters ?&nbsp; i made all the dongeon there and nothing in ...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-25T09:51:39-05:00",
+   "body": "As i tried to place the red bomb for blowing the RED wagon (the one in front of the mine, a red writing said:\nThe red wagon is needed. \n\nI think there is only one wagon in front of the mine? \n\nFinally i got the letters by fighting me through the mob luring in front of it.\n\nDid anyone else have this problem?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-11T21:51:39-06:00",
+   "body": "Any time I plant the red explosive and detonate it, one kobold digger and 2 casters stay behind. Even though they're green they really really hurt. Annoying quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-20T04:57:02-06:00",
+   "body": "Read my post under Covert Ops: Alpha for info on this as well as how to use the explosives...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-21T17:30:46-06:00",
+   "body": "SHORT VERSION: Use Roots to hold down the mob attacking you so you can get the documents.\n\nLONG VERSION: Make extensive use of Prowl to make sure you know exactly where the documents are.\n\nThey're at the far end, near the hillside, on a box at the corner pillar. They're *surrounded*.\n\nUnfortunately, cat can't set or trigger the bomb. 8(\n\nAfter setting the bomb, go toward the documents, *carefully*. i think i remember a wee hillock or small boulder roughly halfway between the waggon and the documents. Try from there -- if you are too far away, a message will appear \"Requires ---\" whatever the damn stuff is called. Take a step back and try again.\n\nYou'll know it triggered because you won't get that message and nearly everyone will be running past you. \n\nRunrunrun -- but carefully between those going teh other way! -- to the documents. If you're lucky, you can rightclick and open the suckers before someone hits you. If someone hits you just as the loot window opens, *ignore them*. Get the loot and scarper!\n\nIf they disrupt your opening of the documents, Root them in place. Cast Nature's Grasp on yourself so that there's a chance that an attacker will immobilise himself if he hits you. Try to resist Moonfiring him, you want the roots to hold as long as possible.\n\nWhilst he's being Rooted, get the documents. *Don't* stop to fight him, just run in whatever form you like.\n\nIf, by some bad luck, the mob that noticed you is plinking you with axes instead of pummelling you, you won't be able to get the documents (the axes will keep disrupting you). And by the time you clear him out, everyone else is piling on. You may as well die fighting, or run clear right off.\n\nIf you blow up the waggon but can't get the documents, no problem. Abandon \"Covert Ops - Beta\", then go to the gnome and get it again. He'll give you another *whole* satchel, with everything in it for both missions.\n\ni suspect, but did not verify, that you could use the bomb meant for the mill on the mine if you had to. So you could just keep going back to the gnome for more bombs if you have to.",
+   "replies": [
+    "Wrong on two parts here and i can verify that because i just tried it today...u cannot abandon the the quest and get the bag again...also the bombs will not place at the opposing sites...just thought i'd clear that up so others dont think they can and get frustrated trying to do so... "
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-10T17:31:52-06:00",
+   "body": "When you accept this quest a black bag will be placed in your inventory. This bag contains the instructions, as well as explosives and detonators for both Covert Ops A and Covert Ops B quests. To get these out of your bag you click on them, and accept the question asking if you want to bind them to you. This takes them from the bag and places them in your regular inventory to be used.\n\nThe letters themselves are found on top of a crate in front of the mine entrance. They are pretty easy to spot. The wagon is out a ways north east of the mine entrance.\n\nYou place the explosives on the wagon by getting close to it and right-clicking on the wagon. We then approached the mine by coming in from the east and killing a couple mobs to get in closer before detonating the wagon.\n\nThis one is harder than Alpha for two reasons:\n\n1. The mobs are higher level.\n\n2. As with Alpha a few mobs will stay behind when most go to investigate. As an added bonus, you also have the chance of mobs from within the mine entrance wandering out to interfere with things as you are trying to get the letters.\n\nHaving a partner to do this with was very helpful, as the mobs seemed to return from the wagon more quickly than they did in Alpha. Without a partner, I would not have been able to clear a path to the letter before they returned.\n\nCompleting this quest is worth 2,200 exp.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-25T12:14:25-05:00",
+   "body": "The documents aren't inside the mine, but outside slightly east of the the part of the building that has legs. Find the cart with explosives and move your cursor to the left of the wooden part of the building and the cursor should turn to a cog-wheel over a brown chest. Then use the explosives while on the cart and move away and use the detonator . If you get a message \"requires NG-5 explosives\" you are too far away. Sadly you cannot use blue explosives instead of red, but you can abandon the quest and reaquire it to get more red explosive.\nStill for my 27 level priest, I could not get to the documents fast enough before enough mobs returned and killed me. In the end I did it the old-fashioned way...kill those around the documents and get them.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-31T11:52:58-06:00",
+   "body": "A troll hunter was around, we took turns killing and clearing and then she showed me where the letters were, to the left and down and under from looking at the mine entrance.\n\nExcept one brief moment when both our pets/minions had a brief tangle, it was very smooth.\n\nNever could get the explosives to go off, did not realize that there was a range issue.\n\nThe beta documents are far enough away from the entrance that if you go after them from the far side you should not draw the attention of any of the kobalds.\n\nIt was interesting.  Did not realize that the detonators had such a short range, I kept trying to set them up and then gave up on them because they would never work, I got a silly error message \"requires\" rather than an \"out of range\" which would have cued me in.  Guess I should have read all of this first.\n\nKind of fun.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-17T01:08:42-05:00",
+   "body": "...follow the river, then go south to the mountains and follow them east. Much easier dealing with the Cliff Stormers (or whathever they are) than it is to fight through a bajillion axe throwers and casters.\n\nTo complete this one, I did what I should have done for Alpha: Cheat. (A level 21 Deuid is barely able to handle two foes of her level, and they'd often attack in waves of three or four.) So, I got someone who [i]could [/i] handle them, my level 60 Warrior. Logged out on a little hillock, logged in as Big Brother, wiped out the targets surrounding the documents, turned into a cat and Prowled my way to Gaxim.\n\nAm I proud? No. Did I complete the rather annoying quest? Yes. The next one requires you to kill Fire elementals, and I thinhk I'm up to the task. [i]THEY [/i] don't mob.\n\n[i][small]Edited, May 17th 2007  1:10am by ClemSnide[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-10T19:26:23-05:00",
+   "body": "At both places, I was able to get to the wagons, but not set the explosives (they are in my inventory, all of them).  I can get the \"interact\" gear to turn gold, but when I click, nothing happens.",
+   "replies": [
+    "stand next the the corresponding cart. click the charge and its gone from ur inventory and placed on the cart. there is no action progress bar here.\n\nalso dont move off too far or the detonation won't work."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-06T06:31:59-05:00",
+   "body": "Completing this quest leads to Kaela's Update:\n\n[quest=1091]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-21T11:27:52-05:00",
+   "body": "stand off to one side when you detonate or your pet or yourself will have enough threat to stop them all in their tracks - and attack you !",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2005-10-25T09:51:39-05:00",
+   "body": "if you stealth in and grab the letters without blowing the wagons, can you still complete the quest?",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2005-10-25T09:51:39-05:00",
+   "body": "If you're an idiot like me, you'll get one set of plans then spend a 1/2 hour trying to get the other set and they won't show up.\n\nYou have to turn in the set of plans you get first, then the other set becomes available as a quest.\n\nWhy they give you both sets of explosives at the same time is beyond me.",
+   "replies": [
+    "i agree, this quest sucks a lot. stupid explosion only pulls away around half of the mob that is guarding the papers for the mine quest. annoying as hell. worst quest ive ever done.",
+    "The quest is actually easy (lvl 25 shaman)&nbsp; if you don't bother with the bombs and ignore the instructions and just look around the [b]OUTSIDE[/b] of each place.&nbsp; \n\nBut I must have wasted an hour looking for them because I went into the mine."
+   ]
+  },
+  {
+   "rating": -9,
+   "date": "2005-04-10T22:26:15-05:00",
+   "body": "Haha what's the reward for this quest? Chuck Norris jump kick skill?",
+   "replies": []
+  }
+ ]
+}

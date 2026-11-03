@@ -1,0 +1,174 @@
+{
+ "id": 92456,
+ "name": "A Green Sample",
+ "level": 33,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 16544,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3950,
+ "start": {
+  "type": "npc",
+  "id": 5502,
+  "name": "Shylamiir",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    15,
+    49.4
+   ],
+   [
+    15.2,
+    49.8
+   ],
+   [
+    15.6,
+    50
+   ],
+   [
+    31.4,
+    63
+   ],
+   [
+    31.6,
+    63.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5502,
+  "name": "Shylamiir",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    15,
+    49.4
+   ],
+   [
+    15.2,
+    49.8
+   ],
+   [
+    15.6,
+    50
+   ],
+   [
+    31.4,
+    63
+   ],
+   [
+    31.6,
+    63.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Collect a Fel Infused Blossom from the City of Dalaran for Shylamiir in Stormwind City. Fel Infused Blossom  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 251983,
+   "name": "Fel Infused Blossom",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Fel Infused Blossom",
+   "count": 1,
+   "type": "item",
+   "id": 251983
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 5502,
+   "name": "Shylamiir",
+   "coord": [
+    15.2,
+    49.8
+   ],
+   "coords": [
+    [
+     15,
+     49.4
+    ],
+    [
+     15.2,
+     49.8
+    ],
+    [
+     15.6,
+     50
+    ],
+    [
+     31.4,
+     63
+    ],
+    [
+     31.6,
+     63.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 5502,
+   "name": "Shylamiir",
+   "coord": [
+    15.2,
+    49.8
+   ],
+   "coords": [
+    [
+     15,
+     49.4
+    ],
+    [
+     15.2,
+     49.8
+    ],
+    [
+     15.6,
+     50
+    ],
+    [
+     31.4,
+     63
+    ],
+    [
+     31.6,
+     63.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-03T10:22:58-05:00",
+   "body": "Quest: [url=https://www.wowhead.com/forever/quest=92456/a-green-sample]A Green Sample[/url]\r\nOthers: [url=https://www.wowhead.com/forever/zone=16544/city-of-dalaran#quests]City of Dalaran[/url]\r\nType: Dungeon\r\nReq: Level 24\r\nStart: Stormwind\r\nSharable: Yes\r\nFinal Rewards:\r\n[ul]\r\n[li]\r\n[url=https://www.wowhead.com/forever/item=279835/vine-pruners-cloak]Vine Pruner's Cloak[/url]\r\n[/li]\r\n[li]\r\n[url=https://www.wowhead.com/forever/item=279836/thorn-protecting-girdle]Thorn Protecting Girdle[/url]\r\n[/li]\r\n[/ul]\r\nNote: These details are subject to change throughout Forever's development cycle. Accuracy is only guaranteed at the time of this posting.\r\nYou can find my Google Sheets document which is updated more frequently [url=https://docs.google.com/spreadsheets/d/1Hy3tqXAsSic6QvAf8Aew8TEagLj5ohU5bQS-mCbX9H0/edit?usp=sharing]here[/url]. It contains these types of details for all WoW Forever dungeons.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2026-10-08T21:39:54-05:00",
+   "body": "She is a night elf in the northwest part of the park, in her slightly hidden Herbalist shop.\r\n\r\nThe coordinates are: 31.3 62.9\r\n\r\nTomtom command: /way 31.3 62.9",
+   "replies": []
+  }
+ ]
+}

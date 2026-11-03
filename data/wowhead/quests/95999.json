@@ -1,0 +1,178 @@
+{
+ "id": 95999,
+ "name": "WANTED: Incinerator Gar'im",
+ "level": 25,
+ "reqlevel": 16,
+ "side": 1,
+ "zoneId": 44,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2550,
+ "start": {
+  "type": "object",
+  "id": 649051,
+  "name": "Wanted: Incinerator Gar'im",
+  "zone": "Redridge Mountains",
+  "zoneId": 44,
+  "coords": [
+   [
+    24.4,
+    46.3
+   ],
+   [
+    24.4,
+    46.5
+   ],
+   [
+    24.5,
+    46.3
+   ],
+   [
+    24.5,
+    47
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 344,
+  "name": "Magistrate Solomon",
+  "zone": "Redridge Mountains",
+  "zoneId": 44,
+  "coords": [
+   [
+    24.8,
+    44.2
+   ],
+   [
+    29.8,
+    44.6
+   ],
+   [
+    30,
+    44.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Deliver the Broken Staff of Incinerator Gar'im to Magistrate Solomon in Lakeshire. Broken Staff of Incinerator Gar'im  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 271872,
+   "name": "Broken Staff of Incinerator Gar'im",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Broken Staff of Incinerator Gar'im",
+   "count": 1,
+   "type": "item",
+   "id": 271872
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 44,
+   "zone": "Redridge Mountains",
+   "point": "start",
+   "type": 2,
+   "id": 649051,
+   "name": "Wanted: Incinerator Gar'im",
+   "coord": [
+    24.4,
+    46.3
+   ],
+   "coords": [
+    [
+     24.4,
+     46.3
+    ],
+    [
+     24.4,
+     46.5
+    ],
+    [
+     24.5,
+     46.3
+    ],
+    [
+     24.5,
+     47
+    ]
+   ]
+  },
+  {
+   "zoneId": 44,
+   "zone": "Redridge Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 344,
+   "name": "Magistrate Solomon",
+   "coord": [
+    30,
+    44.2
+   ],
+   "coords": [
+    [
+     24.8,
+     44.2
+    ],
+    [
+     29.8,
+     44.6
+    ],
+    [
+     30,
+     44.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 44,
+   "zone": "Redridge Mountains",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 214519,
+   "name": "Incinerator Gar'im",
+   "coord": [
+    72.4,
+    85.8
+   ],
+   "coords": [
+    [
+     71.6,
+     84.6
+    ],
+    [
+     72.4,
+     85.8
+    ],
+    [
+     72.6,
+     86.1
+    ],
+    [
+     77.4,
+     85.8
+    ],
+    [
+     77.8,
+     86.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-01T17:47:01-05:00",
+   "body": "[npc=214519] is a level 23 elite orc found in the back of a cave at [b]77, 86[/b]. He uses relatively heavy-hitting Fire spells, summons an [b]Imp[/b] and he typically has at least [b]2[/b] non-elite adds. You'll want to group up for this one. His 2.5 second cast [spell=429838] does the most damage, so you may want to save your interrupts for it.\n\nThis same general quest location is also where you can complete [quest=98387] and [quest=20].",
+   "replies": []
+  }
+ ]
+}

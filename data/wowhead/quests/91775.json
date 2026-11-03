@@ -1,0 +1,480 @@
+{
+ "id": 91775,
+ "name": "Book Return",
+ "level": 6,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 680,
+ "start": {
+  "type": "npc",
+  "id": 240,
+  "name": "Marshal Dughan",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    42.2,
+    65.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 240,
+  "name": "Marshal Dughan",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    42.2,
+    65.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Find 6 Lost Books and \"Fun with Elementals\" and return them to Marshal Dughan . Picture Book: Fun with Elementals  ( 1 ) Lost Book  ( 6 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 248001,
+   "name": "Lost Books",
+   "count": 6,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 248002,
+   "name": "Picture Book: Fun with Elementals",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 279935,
+   "name": "Book Bag",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Picture Book: Fun with Elementals",
+   "count": 1,
+   "type": "item",
+   "id": 248002
+  },
+  {
+   "text": "Lost Book",
+   "count": 6,
+   "type": "item",
+   "id": 248001
+  }
+ ],
+ "series": [
+  91741,
+  91743,
+  91745,
+  91752,
+  91758,
+  91772,
+  91775,
+  91777
+ ],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 240,
+   "name": "Marshal Dughan",
+   "coord": [
+    42.2,
+    65.8
+   ],
+   "coords": [
+    [
+     42.2,
+     65.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 240,
+   "name": "Marshal Dughan",
+   "coord": [
+    42.2,
+    65.8
+   ],
+   "coords": [
+    [
+     42.2,
+     65.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 40,
+   "name": "Kobold Miner",
+   "coord": [
+    39.6,
+    80.2
+   ],
+   "coords": [
+    [
+     39,
+     81
+    ],
+    [
+     39.4,
+     80.2
+    ],
+    [
+     39.6,
+     80.2
+    ],
+    [
+     39.8,
+     78.8
+    ],
+    [
+     39.8,
+     80.6
+    ],
+    [
+     40,
+     78.4
+    ],
+    [
+     40.4,
+     82.2
+    ],
+    [
+     40.6,
+     81.6
+    ],
+    [
+     40.8,
+     80.4
+    ],
+    [
+     40.8,
+     80.6
+    ],
+    [
+     41,
+     78.2
+    ],
+    [
+     41.4,
+     79
+    ],
+    [
+     41.6,
+     78
+    ],
+    [
+     41.6,
+     78.6
+    ],
+    [
+     41.6,
+     80
+    ],
+    [
+     41.8,
+     81
+    ],
+    [
+     60,
+     49.4
+    ],
+    [
+     60.4,
+     49.8
+    ],
+    [
+     60.8,
+     49.4
+    ],
+    [
+     61.2,
+     51.4
+    ],
+    [
+     61.4,
+     50.2
+    ],
+    [
+     61.4,
+     52
+    ],
+    [
+     61.4,
+     52.8
+    ],
+    [
+     61.5,
+     50.1
+    ],
+    [
+     61.6,
+     53.4
+    ],
+    [
+     61.6,
+     53.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 475,
+   "name": "Kobold Tunneler",
+   "coord": [
+    39,
+    81.4
+   ],
+   "coords": [
+    [
+     36,
+     82.4
+    ],
+    [
+     36.2,
+     79
+    ],
+    [
+     37.4,
+     83.4
+    ],
+    [
+     37.4,
+     83.6
+    ],
+    [
+     37.4,
+     84.8
+    ],
+    [
+     37.4,
+     86.6
+    ],
+    [
+     37.6,
+     79
+    ],
+    [
+     37.6,
+     84.8
+    ],
+    [
+     37.6,
+     86.8
+    ],
+    [
+     37.8,
+     85.8
+    ],
+    [
+     38,
+     81.6
+    ],
+    [
+     38,
+     82.6
+    ],
+    [
+     38,
+     83.8
+    ],
+    [
+     38.4,
+     81.4
+    ],
+    [
+     38.6,
+     83.8
+    ],
+    [
+     38.8,
+     78.2
+    ],
+    [
+     39,
+     81.4
+    ],
+    [
+     39,
+     81.6
+    ],
+    [
+     39,
+     82.6
+    ],
+    [
+     39,
+     85
+    ],
+    [
+     39.2,
+     80.4
+    ],
+    [
+     39.6,
+     80.2
+    ],
+    [
+     39.6,
+     84.2
+    ],
+    [
+     40,
+     78.6
+    ],
+    [
+     40,
+     82.6
+    ],
+    [
+     40.4,
+     78.2
+    ],
+    [
+     40.4,
+     81.2
+    ],
+    [
+     40.4,
+     82.2
+    ],
+    [
+     40.6,
+     81.6
+    ],
+    [
+     40.8,
+     80.6
+    ],
+    [
+     41,
+     78.2
+    ],
+    [
+     41.4,
+     79
+    ],
+    [
+     41.4,
+     79.6
+    ],
+    [
+     41.6,
+     78.4
+    ],
+    [
+     41.6,
+     78.8
+    ],
+    [
+     41.6,
+     80
+    ],
+    [
+     41.8,
+     81
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 248464,
+   "name": "Nimsy",
+   "coord": [
+    41.6,
+    79.8
+   ],
+   "coords": [
+    [
+     38.9,
+     82.2
+    ],
+    [
+     39,
+     80.8
+    ],
+    [
+     39.2,
+     80.2
+    ],
+    [
+     39.2,
+     82.8
+    ],
+    [
+     39.5,
+     80.3
+    ],
+    [
+     39.7,
+     79.3
+    ],
+    [
+     40.8,
+     80.6
+    ],
+    [
+     41.4,
+     80
+    ],
+    [
+     41.6,
+     79.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 12,
+   "date": "2026-09-23T11:14:58-05:00",
+   "body": "The elementals book drops off named kobold named Nimsy (not the other one named Goldtooth). Enter in the top entrance of the mine, and from the large room in the mine, go east and curve north up the stairs. He's up there with some henchmen. Probably can't solo at appropriate level.",
+   "replies": [
+    "As difficult as it is, it's possible to solo around level 7-8 if work with the new early profession gear with some classes. Examples I've done at level 7 are a Shaman, Paladin, and Hunter.",
+    "This is a VERY challenging fight as he'll summon an elemental as well so keep that in mind."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2026-10-08T05:47:18-05:00",
+   "body": "Note that, after the quest, the [item=279936] remains in your inventory as a 6-slot bag.\r\n\r\nAlso, note that the [u]sale[/u] price (almost 9s) is much higher than other 6-slot bags so you might consider selling and buying something less expensive.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-21T16:19:57-05:00",
+   "body": "this appears to leave the book bag quest item in your bags, but it does not seem to have any later use\r\n\r\nyou can most likely delete it",
+   "replies": [
+    "It is a bag, you can use it as any other bag. Just a free 6-slot bag. :)"
+   ]
+  }
+ ]
+}

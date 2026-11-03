@@ -1,0 +1,385 @@
+{
+ "id": 2541,
+ "name": "The Sleeping Druid",
+ "level": 8,
+ "reqlevel": 3,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 700,
+ "start": {
+  "type": "npc",
+  "id": 7317,
+  "name": "Oben Rageclaw",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    45,
+    61.4
+   ],
+   [
+    45,
+    61.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7317,
+  "name": "Oben Rageclaw",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    45,
+    61.4
+   ],
+   [
+    45,
+    61.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring a Shaman Voodoo Charm to Oben Rageclaw in the Ban'ethil Barrow Den. Shaman Voodoo Charm  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 8363,
+   "name": "Shaman Voodoo Charm",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Shaman Voodoo Charm",
+   "count": 1,
+   "type": "item",
+   "id": 8363
+  }
+ ],
+ "series": [
+  2541,
+  2561
+ ],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 7317,
+   "name": "Oben Rageclaw",
+   "coord": [
+    45,
+    61.4
+   ],
+   "coords": [
+    [
+     45,
+     61.4
+    ],
+    [
+     45,
+     61.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 7317,
+   "name": "Oben Rageclaw",
+   "coord": [
+    45,
+    61.4
+   ],
+   "coords": [
+    [
+     45,
+     61.4
+    ],
+    [
+     45,
+     61.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2009,
+   "name": "Gnarlpine Shaman",
+   "coord": [
+    44.2,
+    60.6
+   ],
+   "coords": [
+    [
+     43,
+     60.8
+    ],
+    [
+     43.2,
+     58.8
+    ],
+    [
+     43.2,
+     59.8
+    ],
+    [
+     43.4,
+     61.8
+    ],
+    [
+     43.6,
+     61.8
+    ],
+    [
+     43.8,
+     60
+    ],
+    [
+     44,
+     57
+    ],
+    [
+     44,
+     58.2
+    ],
+    [
+     44.2,
+     60.6
+    ],
+    [
+     44.3,
+     58.5
+    ],
+    [
+     44.6,
+     57.2
+    ],
+    [
+     44.7,
+     58.9
+    ],
+    [
+     44.8,
+     55.2
+    ],
+    [
+     44.8,
+     56.2
+    ],
+    [
+     45.2,
+     60
+    ],
+    [
+     45.4,
+     58
+    ],
+    [
+     45.6,
+     58.3
+    ],
+    [
+     45.6,
+     59.4
+    ],
+    [
+     45.6,
+     59.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 47,
+   "date": "2007-04-16T12:29:47-05:00",
+   "body": "Easy enough quest (was able to solo as a level 9 druid), but the drop rate is awful so expect to be down here for a while - you should kill enough to level, at least. Careful, however, some pulls will net you two or three mobs.",
+   "replies": []
+  },
+  {
+   "rating": 23,
+   "date": "2006-04-02T04:07:05-05:00",
+   "body": "I solo'd this quest as a level 9 druid (leveled up to 11 doing it) without dying even once. I did have to fight two furbolgs at once several times. The shamans will heal self once and may heal another once as well.  The respawn rate is very fast. \n\nI went to the first two bridges (across which are the first two items for The Relics of Wakening quest, [quest=483] ).\n\nThen I continued down, a bit left then curving around to the right and under the bridges.. past that furlbog hiding around the corner. \n\nI came down to an opening with a bridge going up which leads to the room with the Druid that gives this quest. I had to fight two Augors to talk to him (and every other time I visited him... they spawn fast.) \n\nFacing the bridge up to the druid's room, I went left and then down the tunnel to the left. Eventually it opened out to a circular multilevel room with the druid's evil body walking around it. \n\nI killed many Shaman without getting the voodoo charm that the druid wants, and ended up finding his body before I even finished the first part of his quest. I went all the way through the place killing everything and none of the shamans dropped the item.. \n\nI started going around again until I was so aggravated that I paged a GM complaining.. you know.. should I just abandon the quest, abandon it and start over, is it broken or what? I killed a few more shaman without any drop and then gave up and logged off. \n\nWhen I came back online several hours later, I had an email from Blizzard saying that I should move all of my quest items to my main back pack (from my other quests) and abandon the quest and log off and back on, then get the quest again. \n\nI did what the email suggested, then fought my way back to the druid, got the quest again, and the item dropped from the first shaman I fought after that. \n\n\nEdited, Sun Apr  2 08:31:15 2006",
+   "replies": []
+  },
+  {
+   "rating": 20,
+   "date": "2005-10-27T01:39:12-05:00",
+   "body": "I have confirmed that the charm is [b]group loot[/b] so the easiest way to do this quest is get a 5 man group together and kill as many shamans in the den as fast as you possibly can, then when it drops, all 5 people will be able to loot the same corpse.&nbsp; I had to kill about 10-15 shamans with the group before it dropped.",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2019-09-02T13:37:22-05:00",
+   "body": "I've leveled twice down here.  Had to go back to town to sell and get more water, twice.  And I still have not gotten the drop.  This is ridiculous in the extreme.  Literally, over 90 minutes in the Barrow and no charm....  grrrrr.",
+   "replies": [
+    "Yeah, good ol' Classic. Took me 34 kills"
+   ]
+  },
+  {
+   "rating": 14,
+   "date": "2004-12-11T18:44:01-06:00",
+   "body": "Shaman just outside of the hold drop the charm.\n\nTrust me. :)",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2006-12-11T18:50:06-06:00",
+   "body": "The easiest way to do this quest is to go with a party.  The charm is a group loot item, so killing as many shamans as you can for the drop is the most efficient.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2004-11-25T20:35:04-06:00",
+   "body": "where and how do i start this quest?",
+   "replies": [
+    "Oben Ravenclaw's \"Ghost\" is in one of the deeper parts of Ban'ethil Barrow Den, talk to him. He's in a small room protected by Augers (you need to take a little bridge to get to the room). \n\nThe Drop rate is truly about 1/50, but at least you'll get a ton of linens from killing the Shamans. Mine dropped from a Shaman that was on the path between Ravenclaws ghost and his possessed body (the guy you need to kill for the second quest in the series)."
+   ]
+  },
+  {
+   "rating": 8,
+   "date": "2019-09-01T01:37:04-05:00",
+   "body": "This is stupid...I've been killing this crap for over an hour now, I've gained an entire level, and still no drop.",
+   "replies": [
+    "It's not great when there's so many other non-shaman in between. 1 hour should be absolutely right out. I did get mine on like the 20th shaman kill, so they are dropping in Classic."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2007-02-13T13:39:12-06:00",
+   "body": "I did this quest as a lvl 11 druid and I cleared the barrow TWICE with no drops for the charm. even tried outside and got nothing. In the end I just abandoned it. I've done this with my hunter main ages ago and I dont remember the drop rate being so ridiculous\n\nBarrows have got to be one of the worse places to quest - almost as bad as ships (wrecked or otherwise).",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-01-08T01:39:12-06:00",
+   "body": "I've killed over 100 shamans, both inside and outside of the cave -&nbsp; no drop&nbsp; -.-",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-08T01:39:12-06:00",
+   "body": "quest ends where it started in underground of Ban'ethill Barrow Den at (44,61)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-09-20T13:39:12-05:00",
+   "body": "I'am do it this quest alone 10 lvl \nKILL shaman LOC:44.60 and completed quest [10 min]",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-03-22T01:39:12-05:00",
+   "body": "I don't know what happened, but I came back to this quest at level 18 and killed a few shaman outside. The second one dropped it.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-27T01:39:12-05:00",
+   "body": "He spawns randomly in the den as a boss - just look for a bearform with his name.&nbsp; He can be anywhere in the den",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-09T13:39:12-05:00",
+   "body": "This also drove me nuts.&nbsp; I killed shamans for an hour before ultimately deciding to look up the quest on this site.&nbsp; I actually got the item inside the cave off a shaman, but I was on my way out at the time.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-04-11T19:08:12-05:00",
+   "body": "I killed about 30 shaman IN the cave and about 10 outside the cave. \n\nNone of them had the charm so I abandoned the quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-21T21:27:27-05:00",
+   "body": "i got this drop from the shaman all the way up the hill to the left of the cave (when looking at the cave from the outside).  after completing the cave i almost didn't bother with him, but i thought what the heck.  i don't know whether to say to focus outside the cave, but certainly don't neglect it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-24T14:34:36-05:00",
+   "body": "As I mentioned, I got this charm after about 5 shaman inside the caves.  Took 5 minutes.\n\nI recently helped someone else and we didn't get the drop after an hour of killing shaman. Musta killed 50 or 60 easy. I ended up having to go get dinner and leaving him to his own devices. No telling how long it took.\n\nEdited, Mon Oct 24 10:44:05 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-11-11T07:50:02-06:00",
+   "body": "The item for this quest if very rare.  It seems to spawn only a few times out of every 50 or so kills I had.\n\nTake your time, there's no trick to this one.",
+   "replies": [
+    "1 in 50 seems about right, but it will seem like 1 in 1000 by the time you get done.  Just keep repeating to yourself over and over that it's just a game.  =)"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-04T20:48:15-05:00",
+   "body": "I got the item after leaving the cave, turning in the other quest,and coming back.  The 4th shaman (I think) dropped the charm.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-26T18:51:57-06:00",
+   "body": "A posting in [quest=483] had this tip on dealing with the bad drop rate for the voodo charm. I've actually seen this problem other places also (where somehow the special items are not dropped until you restart the quest). The part about moving stuff between bags is new, and something I would never thought of trying.\n\nd",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-19T13:56:28-05:00",
+   "body": "I got this charm after killing about 5 shaman.. it's just a random drop.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-17T15:27:43-06:00",
+   "body": "This quest has a really bad drop rate... I got mine about 40min.\nI dont know if this helps but you could try abandon the quest and get it again.\n\n#zZz @ quakenet",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2004-11-22T04:49:11-06:00",
+   "body": "Contrary to the two previous posts, the Voodoo Charm dropped first time I killed the shaman, and also first time for a friend of mine doing the quest just after me. Perhaps the drop rate has been changed?",
+   "replies": [
+    "Drop rate of 1 in 50 sounds about right.  Thats what it took us.  The quest is definatly worth it, only 1k exp but you can get a two-handed sword thats sweet to use or you can sell it for 3 silver."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2007-02-15T08:25:20-06:00",
+   "body": "Party would be good but it's soloable without much effort. I did it on level 18, killing the furbolgs was no problem but I had to go around through Odil'Aran to evade those nasty cultist guys.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-02T15:22:04-06:00",
+   "body": "I stepped out of Oben's room, killed a shaman at the bottom of the little bridge and got it.",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2007-02-25T12:42:58-06:00",
+   "body": "If you do this at lvl 18 its kinda useless imo, so its much better or do it alone or with a group at lvl 9+",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2005-09-11T21:33:58-05:00",
+   "body": "if you don't get the charm by the time you get the 4 relics, just drop this $%^&ty quest. wasted 1 hour inside and no $%^&ing charm, major waste of time.",
+   "replies": []
+  }
+ ]
+}

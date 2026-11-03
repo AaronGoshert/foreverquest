@@ -1,0 +1,133 @@
+{
+ "id": 96785,
+ "name": "Ain't No Telling",
+ "level": 34,
+ "reqlevel": 24,
+ "side": 3,
+ "zoneId": -162,
+ "reqclass": 8,
+ "status": "new",
+ "xp": 2700,
+ "start": {
+  "type": "npc",
+  "id": 266847,
+  "name": "Anastasia Miller",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    26.8,
+    64.4
+   ],
+   [
+    26.8,
+    64.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 266847,
+  "name": "Anastasia Miller",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    26.8,
+    64.4
+   ],
+   [
+    26.8,
+    64.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Find something within Stromgarde Keep to convince Anastasia to give up details of the secret deal. Stolen Funds  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 275709,
+   "name": "Stolen Funds",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 275706,
+   "name": "Syndicate Uniform",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Stolen Funds",
+   "count": 1,
+   "type": "item",
+   "id": 275709
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "start",
+   "type": 1,
+   "id": 266847,
+   "name": "Anastasia Miller",
+   "coord": [
+    26.8,
+    64.4
+   ],
+   "coords": [
+    [
+     26.8,
+     64.4
+    ],
+    [
+     26.8,
+     64.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 1,
+   "id": 266847,
+   "name": "Anastasia Miller",
+   "coord": [
+    26.8,
+    64.4
+   ],
+   "coords": [
+    [
+     26.8,
+     64.4
+    ],
+    [
+     26.8,
+     64.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-05T11:04:01-05:00",
+   "body": "Anastasia's Stash is located upstairs in the house at 29.5, 65.1. Chest was opened and I was unable to loot it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-06T22:05:33-05:00",
+   "body": "You are looking for Anastasia's Stash, it is in the second floor of one of the houses near the keep, at 29,65. Loot the Stolen Funds and go back to her",
+   "replies": []
+  }
+ ]
+}

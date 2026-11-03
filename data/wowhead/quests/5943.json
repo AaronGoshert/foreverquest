@@ -1,0 +1,374 @@
+{
+ "id": 5943,
+ "name": "Gizelton Caravan",
+ "level": 38,
+ "reqlevel": 32,
+ "side": 3,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 2850,
+ "start": {
+  "type": "npc",
+  "id": 11626,
+  "name": "Rigger Gizelton",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    40.4,
+    79.4
+   ],
+   [
+    40.6,
+    79.4
+   ],
+   [
+    45.4,
+    75.2
+   ],
+   [
+    45.6,
+    75.2
+   ],
+   [
+    46.8,
+    75.2
+   ],
+   [
+    47.8,
+    75.4
+   ],
+   [
+    60.2,
+    38.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11596,
+  "name": "Smeed Scrabblescrew",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    60.8,
+    61.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Escort the Gizelton Caravan through Mannoroc Coven. Talk with Smeed at Scrabblescrew's Camp for your reward.   Escort Gizelton Caravan past Mannoroc Coven  ( 1 )",
+ "objectives": [],
+ "objectiveRows": [
+  {
+   "text": "Escort Gizelton Caravan past Mannoroc Coven",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 11626,
+   "name": "Rigger Gizelton",
+   "coord": [
+    40.4,
+    79.4
+   ],
+   "coords": [
+    [
+     40.4,
+     79.4
+    ],
+    [
+     40.6,
+     79.4
+    ],
+    [
+     45.4,
+     75.2
+    ],
+    [
+     45.6,
+     75.2
+    ],
+    [
+     46.8,
+     75.2
+    ],
+    [
+     47.8,
+     75.4
+    ],
+    [
+     60.2,
+     38.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 11596,
+   "name": "Smeed Scrabblescrew",
+   "coord": [
+    60.8,
+    61.8
+   ],
+   "coords": [
+    [
+     60.8,
+     61.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 177,
+   "date": "2019-09-08T17:01:26-05:00",
+   "body": "[ol]\n[li]At the south end (40,79) they leave 18 minutes after arriving. While they wait at the south end, the NPC Vendor [npc=12246] is spawned.[/li]\n[li]He yells when he reaches (45,76), just before Mannoroc Coven, and offers [quest=5943].[/li]\n[li]They take 12 minutes after leaving the south end to reach the north end (61,38).[/li]\n[li]They then wait another 18 minutes and leave to head south. While they wait at the north end, the NPC Vendor [npc=12245] is spawned.[/li]\n[li]He yells when he reaches (67,37), just before Kolkar village, and offers [quest=5821].[/li]\n[li]They take 14 minutes after leaving the north end to reach the south end.[/li]\n[/ol]\n\nDuring the \"escort\" leg of the trip both direction, they move more slowly. Otherwise they move at run speed.\nTimed 09/08/2019.",
+   "replies": [
+    "the stop at the south end is potentially LESS than 18 minutes. Did it, 2019/09/09, and the stop was about 12 minutes. And the two noobs who went aka missed out and whined and whined. Poor retail players with .... no patience.",
+    "It was exactly 10 minutes from the time i dropped them off at the southern location for them to begin moving, and the yell for the escort quest to happen.",
+    "I have been waiting for like… 24 minutes to start from the south end. Guess that's random",
+    "After failling the escort, the pack popped 41 minutes after dying and left exactly 13 minutes after that.",
+    "Was there the second the Super-Seller spawned and had to wait 34 minutes before they started moving back north for this quest just today."
+   ]
+  },
+  {
+   "rating": 30,
+   "date": "2007-02-14T16:21:40-06:00",
+   "body": "The quest is really tough to do if u dont know how. So, as few of you said before, get involved as less as possible, just stay aside and assist a little. I soloed as a hunter level 32.\nNote: If u fail the quest (as i did once), go to [b]40.80[/b] where the caravan stops and wait them exacly 10 minutes, after that, the caravan start to move again and before they enter in Mannoroc Coven u should speak with the goblins and take the quest again!(leave the failed quest before that)",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2006-10-28T04:21:40-05:00",
+   "body": "Tried as a lvl 34 priest...\n\nAs far as I've seen there are 3 waves:\n\nEach wave:\nlvl39-40 Sorceress,\nlvl38-39 Infernal (fire immune),\nlvl37-38 Demon\n\nI failed because the last wave just killed one of the NPC's just before the wave was killed... >_<\n\nAlso... I wasn't able to heal the NPC's you have to guard =/\n\nThe trick is to NOT GET INVOLVED too much :D\nJust help a little with the lvl39-40 Sorceress but don't attract too much aggro.\nThe Kodo's can handle the other 2 baddies.",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2006-01-09T04:21:40-06:00",
+   "body": "The Caravan made 3 stops with with 3-4 mobs per stop.\nThe kodo will charge against mobs so just pick one at the time.\n\nReturn the Quest at 62,62.",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2019-09-12T05:39:40-05:00",
+   "body": "This is one of a pair of caravan escort quests, the other being [quest=5821]. The caravan in question patrols back and forth between Kormek's Hut and the junction just north of Gelkis Village in the south, following the eastern road past Kolkar Village, then along the road that passes through Mannoroc Coven.\n\nThis quest is done on the northward journey.\n\nRough timeline is as follows:\n\n[ul]\n[li]00:00 Caravan arrives from it's previous southward journey.  [npc=12246] spawns.[/li]\n[li]10:00 [npc=11626] says \"[i]Time for the Gizleton Caravan to head on out! We'll be back soon but if you cannot wait, head north to Kormek's Hut. We open shop in about an hour.[/i]\"  Super-Seller 680 despawns.  Caravan sets off eastwards.[/li]\n[li]10:56 Caravan halts just outside Mannoroc Coven.  Rigger Gizelton yells zonewide \"[i]This is Rigger Gizelton asking for assistance escorting my caravan past Mannoroc Coven. I'm on the road east of Shadowprey village.[/i]\"  The quest then becomes available from Cork.[/li]\n[/ul]\n\nOnce the quest is accepted, the caravan proceeds at a walking pace through Mannoroc Coven\n\nThere are three ambushes by Coven demons (infernals, succubi, felhounds).\n\nAfter the third ambush, the caravan continues a little further, then halts briefly once it clears the Coven, where the quest objective is completed.  The caravan then continues on at normal pace to the far end of its route.\n\n[ul]\n[li]~23:00: Caravan arrives at destination (time dependant on ambush delays).[/li]\n[/ul]\n\nYou don't need to stay with the caravan after the quest objective is completed and can go hand in the quest at Scrabblescrew's Camp (where the Kodo Collection quest is done).",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2019-09-08T20:29:15-05:00",
+   "body": "They leave 13 minutes after arriving on the west side of Mannoroc Coven.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-03-07T18:36:09-06:00",
+   "body": "During this quest there are 3 'ambushes', each consisting of 3 mobs.\r\nThey consist of a Nether Sorceress (succubus), infernal and felguard each.\r\nThey are the same level as the mobs in Mannoroc Coven, so if you are having trouble with those, you might need some help with this quest.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-03-23T04:21:40-06:00",
+   "body": "I camped these goblins for over an hour, speaking with them ~ every 5 minutes just in case there was no exclamation mark due to my level (41). The goblins never moved and never offered the quest. If anyone can share any more information about when these two quests start or how to get them to start, it would be much appreciated.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2020-01-23T12:46:13-06:00",
+   "body": "Just did this quest as lvl 43 druid.\r\n\r\nStarts approx at 45,75\r\n3 spawns of 3 monsters - 1 Infernal, 1 Doomwarden and 1 Nether Sorceress\r\nEnds approx at 55,68",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-28T04:21:40-05:00",
+   "body": "I failed the quest when i tried to solo it (at lvl 37). So its a pretty tough one.\n\nFound the caravan at 45,76.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-09T00:54:42-06:00",
+   "body": "Just tried this quest yesterday on RP server, got to Rigger Gizelton just as an Alliance char got to him. I accepted the quest from him and thought I was good, went through the escort without any troubles, got to Smeed at the end and found out that I did not get the completed quest, the Alliance char completed it! Apparently you can get the quest and not be able to complete it! A rare bug I imagine. Anyway, he was PvP flagged so I got to work off a little frustration.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-26T17:49:49-06:00",
+   "body": "There is 2 stops for that caravan - near Gelkis camp and at north near ALly base (on road). Then someone already escorting then - you can follow him (or gank, if opposite faction ;D). After somone complete that Q? caravan start run like crazy to their destination point. Then they aproach Vendor-Tron 3000 will apear. After 15 mins of Iddle caravan leader says, that caravan start to moving and approach another poin in 1 hour. But 1 min later there will be /yell, that they need help with demons/kolkal centaurs.  Demon on is a bit more harder coz mobs here can be up to 40 lvl. Kolkal part (if caravan move from north to south) is more easy. After saving caravan from 3 waves of mobs you will done escort objective and can go to Scraweblablabla camp (goblin wich give Q for tame some old kodo).\nYea, then  you get that Q goblin says that you earn 100 gold, but other one will say you won't and give you 1 of 3 greens. =)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-11-18T10:51:01-06:00",
+   "body": "The most amount of mobs you will be fighting at the same time is 3, however be careful so you don't accidentally pull more mobs from the surrounding area. I would focus on killing the Nether Sorceress first, she is level 40 and deals the most damage with her frostbolts. The caravan mobs will help in the fighting. \r\n\r\nDid the escort alone as level 36 paladin. Had to use a lot of cooldowns and potions.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2021-05-15T14:19:13-05:00",
+   "body": "What happens when he travels from North to South? Is he attacked by mobs? Can he die on the way there?\r\n\r\nWhat happens if nobody takes the escort quest (which is from South to North)? Is he attacked by mobs? Can he die on the way there?",
+   "replies": [
+    "Here to answer your questions, since I happened to come across them as I was chasing the recipe vendor bot. As the caravan moves South to North, without an escort quest active, they are completely inert to their environment. In two instances they walked directly over mobs and they did not agro to the caravan. The caravan takes a break near the pass, around 5min, and as someone who has not done the quest I assume that there would normally be an ambush there. Without the quest they just sat there for 5min before moving on, without anything spawning."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-23T04:21:40-06:00",
+   "body": "he alternates, he'll be at one side then the other of manoroc cavern",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-08-16T04:21:40-05:00",
+   "body": "Very easy as I was lucky :D rexxar was patrolling nearby so he charged the mobs just as they appeared.he killed each one in one hit.Rewards are quite nice but there are some classes which may find it useless",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-02-11T02:04:18-06:00",
+   "body": "Actually, this quest [i]isn't[/i] that easy for those on a PVP server. Desolace is constested territory and the road that you do this quest on is highly travelled by wHorde.\n\nI've tried to finish the quest three times now and all ended with me dead and not being able to get to my corpse in time to win the quest. This is ESPECIALLY irritating because you can only take this quest once an hour. First time was solo (at lvl 39) because it's a very easy quest.  The other times I had a group to back me up but I was unable to stay alive because i'm a druid and the smart wHorde focus on me because of heals.  This causes you to fail the quest.\n\nYou have to watch out because this is an ambush area and you make very tempting targets because you are fighting NPCs.\n\nEdited, Thu Feb 10 20:10:06 2005",
+   "replies": [
+    "Well, its pretty easy when you are horde! hehe\n\n",
+    "Well, that's b/c EVERYTHING is MADE easier for the wHorde, you widdle babies cannot take anything difficult... if you do not believe me make a Whorde Druid and see how to get the lvl 10-14 class quest is CAKE you walk up to a stone, sprinkle quest item., and talk to a spirit. Then do Ally side, you have to kill mobs 1-3 lvls higher than you just to GET to the stone, THEN kill the higher lvl mob that spawns when you sprinkle... . Bunch of big babies the !@#$% are...",
+    "Actually, the entire game is made easier for Alliance, since Blizzard favour that side, so I dunno what you're complaining about. Just look at Hunter Pet training, Human racials, Nelf starting statisics, the Paladin class, Dwarven Priests, profession recipes, overall zone locations, and travel routes. etc, etc"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-09T02:17:51-05:00",
+   "body": "I am a level 35 warrior and if it wasn't for the kodos attack I would have died a lot. I was down to like 10 life but luckily the kodos took the attention off of me.\r\n\r\nI believe a level 40 spawned also. Be careful.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-23T04:21:40-06:00",
+   "body": "how long does it take to reset? I failed as 38 lock because I was thottbotting it and alt tabbed half dead surrouned by 3 40's",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-10T16:21:40-05:00",
+   "body": "solod as 35 feral druid, just tank and heal, but where is that camp?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-28T04:21:40-05:00",
+   "body": "What is the Level requirement for this quest?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-26T19:31:45-06:00",
+   "body": "ok tried again at lvl 36 easily soloed, just get the caster sucubus cos that are the real pains, leave the others for later, the goblins are a real help.\n\n\nedited for retry.\n\nEdited, Fri Dec 30 14:34:20 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-09T12:49:34-05:00",
+   "body": "It should be noted that when this quest is available (when the caravan is in the right place) the quest is given by Rigger Gizelton, just west of Kormek's hut.  (At the moment the quest info above doesn't show who gives the quest, nor does it say on Rigger Gizelton's page that he gives the quest.)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-11T21:48:24-05:00",
+   "body": "I'm a lvl 36 alliance warlock and can't get the quest. Is there a prereq?\n\n\n[i][small]Edited, Mar 11th 2007  8:51pm by espiodoggy[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-14T13:38:23-06:00",
+   "body": "I soloed this quest with a lvl 32 hunter.. pretty straight forward.. as it has been said already the kodos help out and if you have a decent pet to tank, you wouldn't aggro any of the demons...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-09T11:33:13-06:00",
+   "body": "This quests starts just west of Mannaroc Coven (north and slightly east of Gelkis Village) on the road. Generally he'll /yell into the zone to let people know he's there, otherwise you'll have to wait around for him. On the trip, you'll be attacked 3 different times, each time by at least 3 different demons (generally around lvl 37-38). The goblins and kodos will attack to defend themselves and will heal naturally after each attack, so it's a very easy quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-05T07:02:54-05:00",
+   "body": "I logged in just to see them run past me into Mannaroc Coven (12:53). About an hour later(13:55) they were back standing at 40,79. At 13:58 they started going to the Coven entrance and I could accept the quest. (Times stated for timeline purposes - for those curious, realms Dragons Call - EU (german)).\r\nI hope this helps someone :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2021-03-12T05:54:07-06:00",
+   "body": "Oops. I accidently whirlwinded Rexxar and Misha in the midst of the attack.\r\nDon't do that :P!\r\n\r\nEdit: After waiting for a long time south camp, I went north and saw the caravan coming running down.\r\n\r\nThe times and where they spawn might not be true in these posts here on wowhead.\r\nJust assume that if you fail, they respawn north first.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2021-04-24T14:44:39-05:00",
+   "body": "Complete this quest together with [quest=1466]. Spawned [npc=4684] drop [item=6251].",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-11T15:54:42-05:00",
+   "body": "The Quest was easy solo as lvl 35 - 36 shamman :) spawn a lvl 40 so be careful ;)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-04-28T16:21:40-05:00",
+   "body": "I completed the quest and the caravan released me but Smeed isnt satisfied. \n\nwhat can I do ?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-06-04T04:21:40-05:00",
+   "body": "abandoning the quest SHOULD let you try again from the start...\n\ni solo'd this quest as a 38 mage (with 750 health)\n\npretty easy really, i just let the kodos tank. only the infernals were a slight problem as i'm a pure fire mage, and they are immune :)",
+   "replies": [
+    "Soloed this as lvl 37 warrior, about 4-500 health left after fight. If u go for the spellcaster first its not to hard. Be sure to bring food and maybe some pots though, u'll want to start each fight full health."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-12-03T16:21:40-06:00",
+   "body": "I failed quest and thought I just should move ona nd don`t worry abut the quest. But then someone in my Guild began to talk about how much exp you gets (When I Said I failured after asking for help) and I decided to try again. But they wasn`t there (Just an anoying lvl 33 noob who tried to kill me) =)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-02-14T16:21:40-06:00",
+   "body": "i soloed at lvl 33 hunter with some bandages between the mobs. but my pet died once.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-01-09T04:21:40-06:00",
+   "body": "soloed it as a lvl 39 priest and it was a fairly easy q ... never got below have my hp, nor mana ;-)\nalso got pretty decent xp for it (2850xp)\n\npretty nice wand at my lvl :-)",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-01-09T04:21:40-06:00",
+   "body": "[b]at L35[/b] being a simple equiped warrior actually!\nGives a [b]nice bonus of XP[/b] if u succeed! Just stay close to the caravan and let them do the dirty job as u take on the mobs, just be sure to have a few healing pots if necessary and u do just fine, as each group of mobs that attack you takes some time as u travel along the road! [b]Just do it[/b] and kick them asses! =^D",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2007-03-23T04:21:40-05:00",
+   "body": "If you abandon this quest can you get it again ?",
+   "replies": []
+  }
+ ]
+}

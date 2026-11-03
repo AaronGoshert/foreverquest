@@ -1,0 +1,173 @@
+{
+ "id": 2519,
+ "name": "The Temple of the Moon",
+ "level": 10,
+ "reqlevel": 5,
+ "side": 1,
+ "zoneId": 1657,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 85,
+ "start": {
+  "type": "npc",
+  "id": 7316,
+  "name": "Sister Aquinne",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    29,
+    45.4
+   ],
+   [
+    29,
+    45.6
+   ],
+   [
+    29.6,
+    44.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7313,
+  "name": "Priestess A'moora",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    35.8,
+    86.6
+   ],
+   [
+    36.4,
+    86
+   ],
+   [
+    36.6,
+    86
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Sister Aquinne wants you to speak with Priestess A'moora in the Temple of the Moon.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 7316,
+   "name": "Sister Aquinne",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  98391,
+  2519,
+  2518,
+  2520
+ ],
+ "points": [
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "start",
+   "type": 1,
+   "id": 7316,
+   "name": "Sister Aquinne",
+   "coord": [
+    29,
+    45.4
+   ],
+   "coords": [
+    [
+     29,
+     45.4
+    ],
+    [
+     29,
+     45.6
+    ],
+    [
+     29.6,
+     44.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 7313,
+   "name": "Priestess A'moora",
+   "coord": [
+    36.4,
+    86
+   ],
+   "coords": [
+    [
+     35.8,
+     86.6
+    ],
+    [
+     36.4,
+     86
+    ],
+    [
+     36.6,
+     86
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 8,
+   "date": "2019-09-29T06:52:32-05:00",
+   "body": "This is actually one of the first quests I've ever commented on back in the days on Thottbot. If you already completed [quest=2518] you can't pick up this breadcrumb quest anymore.",
+   "replies": [
+    "Good to know! Hopped in here to find out why it wasn't available!",
+    "And many years later you saved me some headache wondering why AAP wants me to pick up a quest I don't see. Thank you :)",
+    "If you have just picked up the Tears of the Moon quest, you can abanddon it to get this quest. it gives 10 rep with Darnassus, so it is worth it."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2007-02-24T12:18:37-06:00",
+   "body": "Just head south of where the quest was given to The Temple Of The Moon... Self Explanitory.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-16T02:19:07-05:00",
+   "body": "I canno find where Lady Sathras is! Does anyone know?",
+   "replies": [
+    "The location of Lady Sathras is near the sathyr which is near the harpis. She is a white or grey spider i dont remember exactly the lvl but for me was easy. =D",
+    "The location of Lady Sathras is near the sathyr which is near the harpis. She is a white or grey spider i dont remember exactly the lvl but for me was easy. =D"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-09T09:56:04-06:00",
+   "body": "She probably spawns there most often BUT she can spawn EAST of Wellspring River at the Northern most point of Oracle Glade.  So if you can't find her head East past the highest level Timberlings in Wellspring River.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-08T21:40:21-05:00",
+   "body": "I found Lady Sathrah at 39,24. All the way north, in an area filled with Giant Webwood Silkspinners. Those spiders are green, Lady Sathrah looks the same but she is gray. I killed her several times while grinding, she respawns VERY fast -- like two minutes or something. Dropped a nice dagger too.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2019-08-30T15:45:33-05:00",
+   "body": "As of Classic seems to be bugged because I didn't need this step in order to get to the successive one.",
+   "replies": [
+    "That's not a bug, this quest is just a \"breadcrumb quest\", there plenty of others like this."
+   ]
+  }
+ ]
+}

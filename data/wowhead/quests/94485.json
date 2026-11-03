@@ -1,0 +1,106 @@
+{
+ "id": 94485,
+ "name": "Tears of the Lady",
+ "level": 12,
+ "reqlevel": 8,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 225,
+ "start": {
+  "type": "npc",
+  "id": 257944,
+  "name": "Elegael Thornpaw",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    61.6,
+    39.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 257944,
+  "name": "Elegael Thornpaw",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    61.6,
+    39.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect 8 Lady's Tear Moss . Lady's Tear Moss  ( 8 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 265105,
+   "name": "Lady's Tear Moss",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Lady's Tear Moss",
+   "count": 8,
+   "type": "item",
+   "id": 265105
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 257944,
+   "name": "Elegael Thornpaw",
+   "coord": [
+    61.6,
+    39.2
+   ],
+   "coords": [
+    [
+     61.6,
+     39.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 257944,
+   "name": "Elegael Thornpaw",
+   "coord": [
+    61.6,
+    39.2
+   ],
+   "coords": [
+    [
+     61.6,
+     39.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 15,
+   "date": "2026-09-20T16:03:57-05:00",
+   "body": "If you were looking all over the floor for moss like me, look up as they're hanging from the sides of trees in the area",
+   "replies": [
+    "I did just as you first. Thank you!"
+   ]
+  }
+ ]
+}

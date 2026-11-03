@@ -1,0 +1,88 @@
+{
+ "id": 94235,
+ "name": "Craftsman's Writ: Gnomish Universal Remote",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 7853,
+  "name": "Scooty",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    27.4,
+    77.4
+   ],
+   [
+    27.6,
+    77.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Gnomish Universal Remote  ( 1 ) Gnomish Universal Remote  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264035,
+   "name": "Craftsman's Writ: Gnomish Universal Remote",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 7506,
+   "name": "Gnomish Universal Remote",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Gnomish Universal Remote",
+   "count": 1,
+   "type": "item",
+   "id": 264035
+  },
+  {
+   "text": "Gnomish Universal Remote",
+   "count": 1,
+   "type": "item",
+   "id": 7506
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "end",
+   "type": 1,
+   "id": 7853,
+   "name": "Scooty",
+   "coord": [
+    27.6,
+    77.4
+   ],
+   "coords": [
+    [
+     27.4,
+     77.4
+    ],
+    [
+     27.6,
+     77.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

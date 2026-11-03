@@ -1,0 +1,120 @@
+{
+ "id": 890,
+ "name": "The Missing Shipment",
+ "level": 14,
+ "reqlevel": 9,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 100,
+ "start": {
+  "type": "npc",
+  "id": 3391,
+  "name": "Gazlowe",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62.6,
+    36.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3453,
+  "name": "Wharfmaster Dizzywig",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    63.2,
+    38.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring Gazlowe's Ledger to Wharfmaster Dizzywig . Gazlowe's Ledger (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5080,
+   "name": "Gazlowe's Ledger",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  887,
+  890,
+  892,
+  888
+ ],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 3391,
+   "name": "Gazlowe",
+   "coord": [
+    62.6,
+    36.2
+   ],
+   "coords": [
+    [
+     62.6,
+     36.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 3453,
+   "name": "Wharfmaster Dizzywig",
+   "coord": [
+    63.2,
+    38.4
+   ],
+   "coords": [
+    [
+     63.2,
+     38.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 11,
+   "date": "2005-09-30T20:06:15-05:00",
+   "body": "63,38&nbsp; :-)",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-06-13T08:06:15-05:00",
+   "body": "if you havent figured it out yet, just walk to the pier in ratchet.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-20T12:00:25-06:00",
+   "body": "100xp 10rep with Ratchet Dizzywigs just at the Docks real easy part",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-06-21T14:04:17-05:00",
+   "body": "Both Alliance and Horde can do this quest.",
+   "replies": []
+  }
+ ]
+}

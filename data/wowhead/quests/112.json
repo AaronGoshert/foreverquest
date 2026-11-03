@@ -1,0 +1,507 @@
+{
+ "id": 112,
+ "name": "Collecting Kelp",
+ "level": 7,
+ "reqlevel": 5,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 315,
+ "start": {
+  "type": "npc",
+  "id": 253,
+  "name": "William Pestle",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    43.2,
+    65.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253,
+  "name": "William Pestle",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    43.2,
+    65.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 4 Crystal Kelp Fronds to William Pestle in Goldshire. Crystal Kelp Frond  ( 4 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 1256,
+   "name": "Crystal Kelp Fronds",
+   "count": 4,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Crystal Kelp Frond",
+   "count": 4,
+   "type": "item",
+   "id": 1256
+  }
+ ],
+ "series": [
+  106,
+  111,
+  107,
+  112
+ ],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 253,
+   "name": "William Pestle",
+   "coord": [
+    43.2,
+    65.8
+   ],
+   "coords": [
+    [
+     43.2,
+     65.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 253,
+   "name": "William Pestle",
+   "coord": [
+    43.2,
+    65.8
+   ],
+   "coords": [
+    [
+     43.2,
+     65.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 285,
+   "name": "Murloc",
+   "coord": [
+    50.2,
+    66.8
+   ],
+   "coords": [
+    [
+     49.4,
+     66.4
+    ],
+    [
+     49.6,
+     66.4
+    ],
+    [
+     49.8,
+     68.4
+    ],
+    [
+     50,
+     68.6
+    ],
+    [
+     50.2,
+     66.8
+    ],
+    [
+     50.6,
+     65.4
+    ],
+    [
+     50.6,
+     66.4
+    ],
+    [
+     50.6,
+     67
+    ],
+    [
+     50.6,
+     68.4
+    ],
+    [
+     50.6,
+     68.6
+    ],
+    [
+     51.6,
+     66.2
+    ],
+    [
+     52.2,
+     68.3
+    ],
+    [
+     53,
+     64.8
+    ],
+    [
+     53.4,
+     66.6
+    ],
+    [
+     53.6,
+     65.4
+    ],
+    [
+     53.8,
+     65.8
+    ],
+    [
+     54.2,
+     66.6
+    ],
+    [
+     54.6,
+     65.4
+    ],
+    [
+     54.6,
+     66.4
+    ],
+    [
+     54.6,
+     66.6
+    ],
+    [
+     54.6,
+     68.4
+    ],
+    [
+     55.6,
+     66.8
+    ],
+    [
+     56,
+     67.6
+    ],
+    [
+     56.4,
+     65.8
+    ],
+    [
+     56.6,
+     65.4
+    ],
+    [
+     56.6,
+     66.2
+    ],
+    [
+     56.8,
+     67
+    ],
+    [
+     57,
+     68
+    ],
+    [
+     57.9,
+     66.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 735,
+   "name": "Murloc Streamrunner",
+   "coord": [
+    53.2,
+    63.6
+   ],
+   "coords": [
+    [
+     49,
+     66.2
+    ],
+    [
+     49.1,
+     67.2
+    ],
+    [
+     49.6,
+     66.4
+    ],
+    [
+     50.2,
+     62.8
+    ],
+    [
+     50.2,
+     66.8
+    ],
+    [
+     50.4,
+     62.4
+    ],
+    [
+     50.6,
+     62.4
+    ],
+    [
+     50.6,
+     62.6
+    ],
+    [
+     50.8,
+     68.8
+    ],
+    [
+     51.2,
+     64.4
+    ],
+    [
+     51.4,
+     65.4
+    ],
+    [
+     51.4,
+     65.6
+    ],
+    [
+     51.4,
+     66.8
+    ],
+    [
+     51.4,
+     69.6
+    ],
+    [
+     51.6,
+     65.4
+    ],
+    [
+     51.6,
+     65.6
+    ],
+    [
+     51.6,
+     68.8
+    ],
+    [
+     51.6,
+     69.6
+    ],
+    [
+     52,
+     68.4
+    ],
+    [
+     52.6,
+     65.6
+    ],
+    [
+     52.6,
+     68.6
+    ],
+    [
+     52.8,
+     64.6
+    ],
+    [
+     53.2,
+     63.6
+    ],
+    [
+     53.2,
+     69.6
+    ],
+    [
+     53.4,
+     63.4
+    ],
+    [
+     53.4,
+     68.4
+    ],
+    [
+     53.6,
+     63.4
+    ],
+    [
+     53.6,
+     63.6
+    ],
+    [
+     54,
+     62.4
+    ],
+    [
+     54,
+     68.8
+    ],
+    [
+     54.8,
+     68.4
+    ],
+    [
+     54.8,
+     68.6
+    ],
+    [
+     55.2,
+     69.8
+    ],
+    [
+     55.4,
+     63.4
+    ],
+    [
+     55.4,
+     63.6
+    ],
+    [
+     55.6,
+     63.4
+    ],
+    [
+     55.6,
+     63.6
+    ],
+    [
+     56,
+     69
+    ],
+    [
+     57,
+     68.4
+    ],
+    [
+     57,
+     69
+    ],
+    [
+     57,
+     69.6
+    ],
+    [
+     57.2,
+     62.2
+    ],
+    [
+     57.2,
+     63.4
+    ],
+    [
+     57.2,
+     63.6
+    ],
+    [
+     57.4,
+     64.6
+    ],
+    [
+     57.6,
+     63.2
+    ],
+    [
+     57.6,
+     67.2
+    ],
+    [
+     58,
+     66
+    ],
+    [
+     58.2,
+     65.2
+    ],
+    [
+     58.2,
+     68.2
+    ],
+    [
+     58.4,
+     68.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 37,
+   "date": "2007-04-08T13:03:53-05:00",
+   "body": "Go to a island in The Crystal Lake.\nKill Murlocs. \nFrom Murlocs you get the Crystal Kelp Frond.\nTake it and its is done.\n\nGood Luck!",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2006-11-29T00:08:29-06:00",
+   "body": "Completion of this quest leads to \"The Escape\" (https://www.wowhead.com/forever/quest=114).",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-11-04T05:23:05-06:00",
+   "body": "plenty more murlocs here at 54,66",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2007-05-15T00:35:05-05:00",
+   "body": "You can collect the Kelp in Crystal lake! \n\n Cordinations : 54,66",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-09-28T17:23:05-05:00",
+   "body": "They are in the middle of Crystal Lake, and or on the edges",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-12T03:22:41-06:00",
+   "body": "Crystal Lake centers at 51,66\n\nI got the ceystal kelp off of Murlocs and Murloc Stream Runners all around the lake at about a 50% drop rate.\n\ndid this as a lvl 6 warlock.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-21T02:39:55-06:00",
+   "body": "Easy with a LVL 9 warrior when you take them one by one...",
+   "replies": [
+    "whats the mobs name."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-27T18:51:52-06:00",
+   "body": "This quest rewards 75 Stormwind reputation as of patch 2.01",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2019-10-14T14:27:27-05:00",
+   "body": "Hi all\r\n\r\nYou need to collect 4 [item=1256]. It is drop from Murlocs you can find them no east side from Inn 51 69.\r\n\r\nSee My Video if need it - https://youtu.be/zpsSuxWd9tQ\r\n\r\nHope that help You :).",
+   "replies": []
+  }
+ ]
+}

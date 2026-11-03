@@ -1,0 +1,188 @@
+{
+ "id": 98404,
+ "name": "The Great Windborne Cat Spirit",
+ "level": 20,
+ "reqlevel": 20,
+ "side": 3,
+ "zoneId": -263,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 780,
+ "start": {
+  "type": "npc",
+  "id": 272054,
+  "name": "Avatar of Saeyleenan",
+  "zone": "Moonglade",
+  "zoneId": 493,
+  "coords": [
+   [
+    43.9,
+    73.4
+   ],
+   [
+    44,
+    73.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 272054,
+  "name": "Avatar of Saeyleenan",
+  "zone": "Moonglade",
+  "zoneId": 493,
+  "coords": [
+   [
+    43.9,
+    73.4
+   ],
+   [
+    44,
+    73.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Recover the Relic of the Fang , Relic of the Claw , and Relic of the Silent Shadow from the Stormrage Barrow Den, and return them to the Avatar of Saeyleenan . Relic of the Fang  ( 1 ) Relic of the Claw  ( 1 ) Relic of the Silent Shadow  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 280502,
+   "name": "Relic of the Fang",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 272054,
+   "name": "Avatar of Saeyleenan",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 280679,
+   "name": "Relic of the Claw",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 280680,
+   "name": "Relic of the Silent Shadow",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Relic of the Fang",
+   "count": 1,
+   "type": "item",
+   "id": 280502
+  },
+  {
+   "text": "Relic of the Claw",
+   "count": 1,
+   "type": "item",
+   "id": 280679
+  },
+  {
+   "text": "Relic of the Silent Shadow",
+   "count": 1,
+   "type": "item",
+   "id": 280680
+  }
+ ],
+ "series": [
+  98404,
+  98738
+ ],
+ "points": [
+  {
+   "zoneId": 493,
+   "zone": "Moonglade",
+   "point": "start",
+   "type": 1,
+   "id": 272054,
+   "name": "Avatar of Saeyleenan",
+   "coord": [
+    43.9,
+    73.4
+   ],
+   "coords": [
+    [
+     43.9,
+     73.4
+    ],
+    [
+     44,
+     73.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 493,
+   "zone": "Moonglade",
+   "point": "end",
+   "type": 1,
+   "id": 272054,
+   "name": "Avatar of Saeyleenan",
+   "coord": [
+    43.9,
+    73.4
+   ],
+   "coords": [
+    [
+     43.9,
+     73.4
+    ],
+    [
+     44,
+     73.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-30T05:38:19-05:00",
+   "body": "Has been fixed!",
+   "replies": [
+    "Broken again. One of the relic \"can't be used\". Not sure if someone is holding it but either way it's bugged again."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2026-10-20T14:19:12-05:00",
+   "body": "The Skyborne druids can get the starter quest, \"The Great Cat Spirit\" from Mathrengyl Bearwalker, on 2nd floor of Cenarion Enclave druid training area.  Neither Dendrite Starblaze nor Avatar of Saeyleenan, in Moonglade, will speak with you until you get this starter quest in Darnassus.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-27T17:48:25-05:00",
+   "body": "If you are doing this in Forever right now, good freaking luck. There is a line that over 5 to 6 hours long to get to the totem and no one is being patient.\n\n**edit- and apparently you cant report a ticket",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-13T20:30:41-05:00",
+   "body": "My advice is, be patient.  And just wait for someone else who isn't patient to trigger the mobs.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-21T00:31:07-05:00",
+   "body": "For Horde, you need to grab a starter quest. I got it from Thunderbluff's druid trainer. Then port to Moonglade to start this one.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-21T00:39:33-05:00",
+   "body": "The entire quest happens in moonglade. Just go far East to the cave. Talk to the statue at entrance to grant you stealth.\r\n[i]Note: Stealth buff re-applies after you loot a sigil.[/i]\r\n\r\nI. however, ended up pulling 2 mobs. With the use of Nature's Grasp and Entangling Roots, I was able to keep them both rooted just long enough to loot the last sigil.\r\n\r\nWhole thing took me 2 minutes. Saw another druid on his way our as I zoned in, so the respawn rate appears to be quick.",
+   "replies": []
+  }
+ ]
+}

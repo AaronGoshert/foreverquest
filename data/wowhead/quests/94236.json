@@ -1,0 +1,80 @@
+{
+ "id": 94236,
+ "name": "Craftsman's Writ: Big Bronze Bomb",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 4706,
+  "name": "Razzeric",
+  "zone": "Thousand Needles",
+  "zoneId": 400,
+  "coords": [
+   [
+    80.2,
+    76
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Big Bronze Bomb  ( 1 ) Big Bronze Bomb  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264036,
+   "name": "Craftsman's Writ: Big Bronze Bomb",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4380,
+   "name": "Big Bronze Bomb",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Big Bronze Bomb",
+   "count": 1,
+   "type": "item",
+   "id": 264036
+  },
+  {
+   "text": "Big Bronze Bomb",
+   "count": 1,
+   "type": "item",
+   "id": 4380
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 400,
+   "zone": "Thousand Needles",
+   "point": "end",
+   "type": 1,
+   "id": 4706,
+   "name": "Razzeric",
+   "coord": [
+    80.2,
+    76
+   ],
+   "coords": [
+    [
+     80.2,
+     76
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

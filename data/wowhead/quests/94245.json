@@ -1,0 +1,88 @@
+{
+ "id": 94245,
+ "name": "Craftsman's Writ: Barbaric Gloves",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 4496,
+  "name": "Goblin Pit Boss",
+  "zone": "Thousand Needles",
+  "zoneId": 400,
+  "coords": [
+   [
+    79.8,
+    76.4
+   ],
+   [
+    79.8,
+    76.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Barbaric Gloves  ( 1 ) Barbaric Gloves  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264045,
+   "name": "Craftsman's Writ: Barbaric Gloves",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4254,
+   "name": "Barbaric Gloves",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Barbaric Gloves",
+   "count": 1,
+   "type": "item",
+   "id": 264045
+  },
+  {
+   "text": "Barbaric Gloves",
+   "count": 1,
+   "type": "item",
+   "id": 4254
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 400,
+   "zone": "Thousand Needles",
+   "point": "end",
+   "type": 1,
+   "id": 4496,
+   "name": "Goblin Pit Boss",
+   "coord": [
+    79.8,
+    76.6
+   ],
+   "coords": [
+    [
+     79.8,
+     76.4
+    ],
+    [
+     79.8,
+     76.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

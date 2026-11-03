@@ -1,0 +1,122 @@
+{
+ "id": 91758,
+ "name": "Follow That Kobold!",
+ "level": 4,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 35,
+ "start": {
+  "type": "npc",
+  "id": 197,
+  "name": "Marshal McBride",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    48.8,
+    41.4
+   ],
+   [
+    48.8,
+    41.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 248415,
+  "name": "Tordrin Sternblade",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    51,
+    40.4
+   ],
+   [
+    51.2,
+    40.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak to Tordrin Sternblade near the stable behind Northshire's Abbey.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 248415,
+   "name": "Tordrin Sternblade",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  91741,
+  91743,
+  91745,
+  91752,
+  91758,
+  91772,
+  91775,
+  91777
+ ],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 197,
+   "name": "Marshal McBride",
+   "coord": [
+    48.8,
+    41.6
+   ],
+   "coords": [
+    [
+     48.8,
+     41.4
+    ],
+    [
+     48.8,
+     41.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 248415,
+   "name": "Tordrin Sternblade",
+   "coord": [
+    51.2,
+    40.8
+   ],
+   "coords": [
+    [
+     51,
+     40.4
+    ],
+    [
+     51.2,
+     40.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-25T23:13:29-05:00",
+   "body": "[url=https://www.wowhead.com/forever/npc=248415/tordrin-sternblade#map]Tordrin Sternblade[/url] is a Hunter trainer located behind the abbey, next to the stables.\r\n\r\nAfter chatting with Tordrin and accepting the next part, you will be given a kobold tracker. Use the item and start running towards Goldshire. While you're making your way, look at your minimap and go click each kobold track you see.",
+   "replies": []
+  }
+ ]
+}

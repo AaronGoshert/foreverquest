@@ -1,0 +1,309 @@
+{
+ "id": 94373,
+ "name": "Call of Earth",
+ "level": 4,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 257446,
+  "name": "Teo Hammerstorm",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    28.7,
+    66.1
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 257446,
+  "name": "Teo Hammerstorm",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    28.7,
+    66.1
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring 2 Frostmane Bear Pendants to Teo Hammerstorm in Anvilmar. Iceclaw Bear Pendant  ( 2 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 257446,
+   "name": "Teo Hammerstorm",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 264356,
+   "name": "Iceclaw Bear Pendant",
+   "count": 2,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Iceclaw Bear Pendant",
+   "count": 2,
+   "type": "item",
+   "id": 264356
+  }
+ ],
+ "series": [
+  96243,
+  94373,
+  94374,
+  94375
+ ],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 257446,
+   "name": "Teo Hammerstorm",
+   "coord": [
+    28.7,
+    66.1
+   ],
+   "coords": [
+    [
+     28.7,
+     66.1
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 257446,
+   "name": "Teo Hammerstorm",
+   "coord": [
+    28.7,
+    66.1
+   ],
+   "coords": [
+    [
+     28.7,
+     66.1
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 706,
+   "name": "Frostmane Troll Whelp",
+   "coord": [
+    27.4,
+    80.8
+   ],
+   "coords": [
+    [
+     20.8,
+     76
+    ],
+    [
+     21,
+     75.2
+    ],
+    [
+     21.4,
+     76.8
+    ],
+    [
+     21.6,
+     75.8
+    ],
+    [
+     21.6,
+     77
+    ],
+    [
+     22.2,
+     78
+    ],
+    [
+     22.4,
+     79.2
+    ],
+    [
+     22.6,
+     78.4
+    ],
+    [
+     22.8,
+     79.4
+    ],
+    [
+     22.8,
+     79.8
+    ],
+    [
+     23.8,
+     80.2
+    ],
+    [
+     25.2,
+     79.2
+    ],
+    [
+     25.4,
+     77.4
+    ],
+    [
+     25.4,
+     77.6
+    ],
+    [
+     25.6,
+     77.4
+    ],
+    [
+     25.8,
+     78
+    ],
+    [
+     26,
+     79.8
+    ],
+    [
+     26.4,
+     79.2
+    ],
+    [
+     26.6,
+     79.4
+    ],
+    [
+     27,
+     78.4
+    ],
+    [
+     27,
+     80.4
+    ],
+    [
+     27.4,
+     80.8
+    ],
+    [
+     27.6,
+     80.8
+    ],
+    [
+     28.2,
+     79.8
+    ],
+    [
+     28.2,
+     81.6
+    ],
+    [
+     28.4,
+     79.4
+    ],
+    [
+     28.6,
+     80.8
+    ],
+    [
+     29,
+     82.4
+    ],
+    [
+     29.4,
+     79
+    ],
+    [
+     29.4,
+     79.6
+    ],
+    [
+     29.6,
+     79
+    ],
+    [
+     30,
+     80.6
+    ],
+    [
+     30.4,
+     80
+    ],
+    [
+     30.4,
+     82
+    ],
+    [
+     30.6,
+     80.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 946,
+   "name": "Frostmane Novice",
+   "coord": [
+    30.4,
+    79.4
+   ],
+   "coords": [
+    [
+     28.6,
+     83
+    ],
+    [
+     29,
+     81.2
+    ],
+    [
+     29,
+     82.4
+    ],
+    [
+     30,
+     82.4
+    ],
+    [
+     30.4,
+     79.4
+    ],
+    [
+     30.4,
+     79.6
+    ],
+    [
+     30.4,
+     80.8
+    ],
+    [
+     30.5,
+     79.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

@@ -1,0 +1,2905 @@
+{
+ "id": 4005,
+ "name": "Aquementas",
+ "level": 54,
+ "reqlevel": 47,
+ "side": 3,
+ "zoneId": 490,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 5450,
+ "start": {
+  "type": "npc",
+  "id": 9116,
+  "name": "Eridan Bluewind",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    51.2,
+    81.4
+   ],
+   [
+    51.2,
+    81.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 9117,
+  "name": "J.D. Collie",
+  "zone": "Un'Goro Crater",
+  "zoneId": 490,
+  "coords": [
+   [
+    41.8,
+    2.4
+   ],
+   [
+    41.8,
+    2.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Take the Book of Aquor , the Silvery Claws , and the Irontree Heart to Tanaris. Use the Book of Aquor to summon Aquementas. After you have the completed totem, take it to J.D. Collie in Marshal's Refuge. Silver Totem of Aquementas  ( 1 ) Silvery Claws  ( 11 ) Irontree Heart  ( 1 ) Book of Aquor  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11169,
+   "name": "Book of Aquor",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11522,
+   "name": "Silver Totem of Aquementas",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11172,
+   "name": "Silvery Claws",
+   "count": 11,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11173,
+   "name": "Irontree Heart",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11617,
+   "name": "Eridan's Supplies",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Silver Totem of Aquementas",
+   "count": 1,
+   "type": "item",
+   "id": 11522
+  },
+  {
+   "text": "Silvery Claws",
+   "count": 11,
+   "type": "item",
+   "id": 11172
+  },
+  {
+   "text": "Irontree Heart",
+   "count": 1,
+   "type": "item",
+   "id": 11173
+  },
+  {
+   "text": "Book of Aquor",
+   "count": 1,
+   "type": "item",
+   "id": 11169
+  }
+ ],
+ "series": [
+  3942,
+  4084,
+  4005
+ ],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 1,
+   "id": 9116,
+   "name": "Eridan Bluewind",
+   "coord": [
+    51.2,
+    81.6
+   ],
+   "coords": [
+    [
+     51.2,
+     81.4
+    ],
+    [
+     51.2,
+     81.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7138,
+   "name": "Irontree Wanderer",
+   "coord": [
+    49.4,
+    14.6
+   ],
+   "coords": [
+    [
+     46.4,
+     24.2
+    ],
+    [
+     47,
+     23.8
+    ],
+    [
+     47,
+     24.8
+    ],
+    [
+     47.2,
+     22.6
+    ],
+    [
+     47.8,
+     22.6
+    ],
+    [
+     48.2,
+     22.2
+    ],
+    [
+     48.6,
+     21.6
+    ],
+    [
+     48.8,
+     20
+    ],
+    [
+     48.8,
+     20.8
+    ],
+    [
+     49.4,
+     14.4
+    ],
+    [
+     49.4,
+     14.6
+    ],
+    [
+     49.6,
+     14.4
+    ],
+    [
+     49.6,
+     14.6
+    ],
+    [
+     53,
+     22.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7139,
+   "name": "Irontree Stomper",
+   "coord": [
+    48.6,
+    29.8
+   ],
+   "coords": [
+    [
+     45.2,
+     23.4
+    ],
+    [
+     45.4,
+     23.8
+    ],
+    [
+     45.6,
+     24
+    ],
+    [
+     46.4,
+     24.8
+    ],
+    [
+     46.6,
+     24
+    ],
+    [
+     46.6,
+     25
+    ],
+    [
+     47.2,
+     22.8
+    ],
+    [
+     47.4,
+     25.8
+    ],
+    [
+     47.6,
+     22.6
+    ],
+    [
+     47.8,
+     26.2
+    ],
+    [
+     48,
+     27
+    ],
+    [
+     48,
+     28
+    ],
+    [
+     48.2,
+     28.8
+    ],
+    [
+     48.4,
+     21.8
+    ],
+    [
+     48.4,
+     29.8
+    ],
+    [
+     48.6,
+     21.6
+    ],
+    [
+     48.6,
+     29.8
+    ],
+    [
+     48.8,
+     20.4
+    ],
+    [
+     48.8,
+     20.8
+    ],
+    [
+     49,
+     19.2
+    ],
+    [
+     49.4,
+     14.4
+    ],
+    [
+     49.4,
+     14.6
+    ],
+    [
+     49.4,
+     17.8
+    ],
+    [
+     49.4,
+     29.4
+    ],
+    [
+     49.6,
+     14.4
+    ],
+    [
+     49.6,
+     14.6
+    ],
+    [
+     49.6,
+     29.4
+    ],
+    [
+     49.6,
+     29.6
+    ],
+    [
+     49.8,
+     17.4
+    ],
+    [
+     50.4,
+     18.4
+    ],
+    [
+     50.4,
+     18.6
+    ],
+    [
+     50.4,
+     19.8
+    ],
+    [
+     50.4,
+     20.8
+    ],
+    [
+     50.6,
+     18.2
+    ],
+    [
+     50.6,
+     20.4
+    ],
+    [
+     50.8,
+     21.2
+    ],
+    [
+     50.8,
+     21.6
+    ],
+    [
+     50.8,
+     24.4
+    ],
+    [
+     50.8,
+     25.6
+    ],
+    [
+     51,
+     18.8
+    ],
+    [
+     51,
+     25
+    ],
+    [
+     51.6,
+     21.4
+    ],
+    [
+     51.6,
+     21.6
+    ],
+    [
+     51.8,
+     25.6
+    ],
+    [
+     52.4,
+     24.4
+    ],
+    [
+     52.4,
+     24.6
+    ],
+    [
+     52.6,
+     21.2
+    ],
+    [
+     52.6,
+     24.6
+    ],
+    [
+     52.8,
+     23.4
+    ],
+    [
+     52.8,
+     23.6
+    ],
+    [
+     53.2,
+     22.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 8956,
+   "name": "Angerclaw Bear",
+   "coord": [
+    45.8,
+    85.2
+   ],
+   "coords": [
+    [
+     39.8,
+     69.8
+    ],
+    [
+     40.4,
+     78.2
+    ],
+    [
+     40.6,
+     77.4
+    ],
+    [
+     40.6,
+     78.2
+    ],
+    [
+     41,
+     78.8
+    ],
+    [
+     41.4,
+     75.4
+    ],
+    [
+     41.6,
+     70
+    ],
+    [
+     44,
+     82.8
+    ],
+    [
+     44.4,
+     80.6
+    ],
+    [
+     44.4,
+     82.2
+    ],
+    [
+     44.4,
+     83.8
+    ],
+    [
+     44.6,
+     82
+    ],
+    [
+     44.6,
+     84
+    ],
+    [
+     45,
+     72.4
+    ],
+    [
+     45,
+     81.2
+    ],
+    [
+     45,
+     84.8
+    ],
+    [
+     45.2,
+     72.6
+    ],
+    [
+     45.2,
+     73.6
+    ],
+    [
+     45.6,
+     72.8
+    ],
+    [
+     45.6,
+     74.2
+    ],
+    [
+     45.6,
+     81.8
+    ],
+    [
+     45.8,
+     83.8
+    ],
+    [
+     45.8,
+     85.2
+    ],
+    [
+     45.8,
+     85.6
+    ],
+    [
+     45.8,
+     87.6
+    ],
+    [
+     46,
+     75.4
+    ],
+    [
+     46,
+     75.6
+    ],
+    [
+     46.2,
+     86.6
+    ],
+    [
+     46.4,
+     77.2
+    ],
+    [
+     46.4,
+     78.2
+    ],
+    [
+     46.6,
+     72.4
+    ],
+    [
+     46.6,
+     77.6
+    ],
+    [
+     46.8,
+     74.2
+    ],
+    [
+     47,
+     73
+    ],
+    [
+     47.2,
+     77
+    ],
+    [
+     47.4,
+     80.4
+    ],
+    [
+     47.4,
+     80.6
+    ],
+    [
+     47.6,
+     81
+    ],
+    [
+     47.8,
+     74.4
+    ],
+    [
+     47.8,
+     74.6
+    ],
+    [
+     48,
+     76
+    ],
+    [
+     48,
+     79.4
+    ],
+    [
+     48,
+     79.6
+    ],
+    [
+     48,
+     87.2
+    ],
+    [
+     48.4,
+     77
+    ],
+    [
+     48.4,
+     86.4
+    ],
+    [
+     48.6,
+     78.8
+    ],
+    [
+     48.6,
+     86.4
+    ],
+    [
+     48.6,
+     86.6
+    ],
+    [
+     49,
+     85.4
+    ],
+    [
+     49.2,
+     79.6
+    ],
+    [
+     49.6,
+     84.6
+    ],
+    [
+     49.8,
+     84.4
+    ],
+    [
+     50.4,
+     83
+    ],
+    [
+     50.6,
+     83
+    ],
+    [
+     51.2,
+     80.6
+    ],
+    [
+     51.2,
+     82
+    ],
+    [
+     52,
+     82.8
+    ],
+    [
+     53.6,
+     90.6
+    ],
+    [
+     54.2,
+     91.8
+    ],
+    [
+     54.8,
+     89
+    ],
+    [
+     55,
+     84
+    ],
+    [
+     55.4,
+     83.2
+    ],
+    [
+     56,
+     83.8
+    ],
+    [
+     56.6,
+     84.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 8957,
+   "name": "Angerclaw Grizzly",
+   "coord": [
+    55.8,
+    10.4
+   ],
+   "coords": [
+    [
+     49.4,
+     12.2
+    ],
+    [
+     49.6,
+     12.2
+    ],
+    [
+     50,
+     13.2
+    ],
+    [
+     50,
+     13.6
+    ],
+    [
+     50.8,
+     12.6
+    ],
+    [
+     51.4,
+     12
+    ],
+    [
+     51.4,
+     15.2
+    ],
+    [
+     51.6,
+     12
+    ],
+    [
+     51.6,
+     15
+    ],
+    [
+     52,
+     16
+    ],
+    [
+     52.6,
+     27.2
+    ],
+    [
+     53.2,
+     16
+    ],
+    [
+     53.2,
+     26.4
+    ],
+    [
+     53.2,
+     28
+    ],
+    [
+     53.6,
+     15.6
+    ],
+    [
+     53.8,
+     13.4
+    ],
+    [
+     53.8,
+     13.6
+    ],
+    [
+     53.8,
+     15.2
+    ],
+    [
+     53.8,
+     27.4
+    ],
+    [
+     54.2,
+     26.4
+    ],
+    [
+     54.4,
+     25
+    ],
+    [
+     54.4,
+     28
+    ],
+    [
+     54.6,
+     25
+    ],
+    [
+     55,
+     24
+    ],
+    [
+     55.2,
+     23.4
+    ],
+    [
+     55.4,
+     10.8
+    ],
+    [
+     55.4,
+     21.2
+    ],
+    [
+     55.4,
+     27
+    ],
+    [
+     55.6,
+     10.6
+    ],
+    [
+     55.6,
+     21.2
+    ],
+    [
+     55.6,
+     23
+    ],
+    [
+     55.6,
+     27
+    ],
+    [
+     55.8,
+     10.4
+    ],
+    [
+     56,
+     8.4
+    ],
+    [
+     56,
+     20.2
+    ],
+    [
+     56,
+     22.2
+    ],
+    [
+     56.2,
+     8.6
+    ],
+    [
+     56.2,
+     12
+    ],
+    [
+     56.2,
+     23.8
+    ],
+    [
+     56.4,
+     6.4
+    ],
+    [
+     56.4,
+     6.6
+    ],
+    [
+     56.6,
+     12.4
+    ],
+    [
+     56.6,
+     12.6
+    ],
+    [
+     56.6,
+     19.6
+    ],
+    [
+     56.6,
+     21.2
+    ],
+    [
+     56.6,
+     24.4
+    ],
+    [
+     56.6,
+     24.8
+    ],
+    [
+     56.6,
+     26.4
+    ],
+    [
+     56.6,
+     26.6
+    ],
+    [
+     56.8,
+     19.4
+    ],
+    [
+     57.4,
+     18.4
+    ],
+    [
+     57.8,
+     17.6
+    ],
+    [
+     58.2,
+     15.2
+    ],
+    [
+     58.2,
+     15.6
+    ],
+    [
+     58.4,
+     16.8
+    ],
+    [
+     58.6,
+     16.4
+    ],
+    [
+     58.6,
+     16.6
+    ],
+    [
+     60,
+     15.2
+    ],
+    [
+     60.8,
+     17
+    ],
+    [
+     61.8,
+     13.8
+    ],
+    [
+     61.8,
+     17
+    ],
+    [
+     62,
+     18.4
+    ],
+    [
+     62,
+     18.6
+    ],
+    [
+     62.2,
+     20.4
+    ],
+    [
+     62.2,
+     20.6
+    ],
+    [
+     62.4,
+     16
+    ],
+    [
+     62.6,
+     16.2
+    ],
+    [
+     62.8,
+     19.4
+    ],
+    [
+     62.8,
+     19.6
+    ],
+    [
+     63.4,
+     13.4
+    ],
+    [
+     63.4,
+     13.6
+    ],
+    [
+     63.6,
+     13.4
+    ],
+    [
+     63.6,
+     13.8
+    ],
+    [
+     64.4,
+     19.8
+    ],
+    [
+     64.6,
+     19.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 8958,
+   "name": "Angerclaw Mauler",
+   "coord": [
+    47.8,
+    38.6
+   ],
+   "coords": [
+    [
+     37.8,
+     43.2
+    ],
+    [
+     37.8,
+     43.8
+    ],
+    [
+     38,
+     52.4
+    ],
+    [
+     38,
+     52.6
+    ],
+    [
+     38,
+     54
+    ],
+    [
+     38.2,
+     42
+    ],
+    [
+     38.2,
+     50.4
+    ],
+    [
+     38.2,
+     50.6
+    ],
+    [
+     38.2,
+     56.2
+    ],
+    [
+     38.4,
+     44.6
+    ],
+    [
+     38.4,
+     46.4
+    ],
+    [
+     38.4,
+     46.8
+    ],
+    [
+     38.4,
+     56.8
+    ],
+    [
+     38.8,
+     44.2
+    ],
+    [
+     38.8,
+     45.4
+    ],
+    [
+     38.8,
+     50.6
+    ],
+    [
+     39,
+     50.4
+    ],
+    [
+     39.2,
+     30.8
+    ],
+    [
+     39.2,
+     45.6
+    ],
+    [
+     39.4,
+     47
+    ],
+    [
+     39.6,
+     50.4
+    ],
+    [
+     39.6,
+     51.8
+    ],
+    [
+     39.8,
+     30.4
+    ],
+    [
+     39.8,
+     30.6
+    ],
+    [
+     39.8,
+     32.8
+    ],
+    [
+     40,
+     44.2
+    ],
+    [
+     40.4,
+     25.2
+    ],
+    [
+     40.6,
+     25.6
+    ],
+    [
+     41,
+     23.4
+    ],
+    [
+     41.4,
+     24.4
+    ],
+    [
+     41.4,
+     24.6
+    ],
+    [
+     41.6,
+     24.4
+    ],
+    [
+     41.6,
+     24.6
+    ],
+    [
+     42,
+     58.4
+    ],
+    [
+     42,
+     58.6
+    ],
+    [
+     42.2,
+     62.4
+    ],
+    [
+     42.2,
+     62.6
+    ],
+    [
+     42.4,
+     57.4
+    ],
+    [
+     42.4,
+     63.8
+    ],
+    [
+     42.6,
+     57.6
+    ],
+    [
+     42.6,
+     63
+    ],
+    [
+     42.8,
+     63.8
+    ],
+    [
+     43,
+     23.8
+    ],
+    [
+     43.4,
+     22.2
+    ],
+    [
+     43.4,
+     65.4
+    ],
+    [
+     43.4,
+     65.6
+    ],
+    [
+     43.4,
+     67.4
+    ],
+    [
+     43.4,
+     67.8
+    ],
+    [
+     43.6,
+     63
+    ],
+    [
+     43.6,
+     65.6
+    ],
+    [
+     43.8,
+     62
+    ],
+    [
+     43.8,
+     65.4
+    ],
+    [
+     43.8,
+     67.4
+    ],
+    [
+     43.8,
+     67.6
+    ],
+    [
+     44.4,
+     22.4
+    ],
+    [
+     44.4,
+     22.6
+    ],
+    [
+     44.6,
+     22.4
+    ],
+    [
+     44.6,
+     22.6
+    ],
+    [
+     44.6,
+     63.2
+    ],
+    [
+     44.6,
+     65.4
+    ],
+    [
+     44.6,
+     65.6
+    ],
+    [
+     44.8,
+     23.8
+    ],
+    [
+     44.8,
+     67.4
+    ],
+    [
+     44.8,
+     67.6
+    ],
+    [
+     45.4,
+     18.4
+    ],
+    [
+     45.4,
+     18.6
+    ],
+    [
+     45.6,
+     18.8
+    ],
+    [
+     46.2,
+     15.4
+    ],
+    [
+     46.2,
+     15.8
+    ],
+    [
+     46.4,
+     19.8
+    ],
+    [
+     46.6,
+     19.6
+    ],
+    [
+     46.8,
+     19.4
+    ],
+    [
+     47.4,
+     15.8
+    ],
+    [
+     47.6,
+     15.6
+    ],
+    [
+     47.8,
+     38.6
+    ],
+    [
+     48,
+     38.4
+    ],
+    [
+     49,
+     36.2
+    ],
+    [
+     49.8,
+     16
+    ],
+    [
+     49.8,
+     35.2
+    ],
+    [
+     50.2,
+     15.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 8959,
+   "name": "Felpaw Wolf",
+   "coord": [
+    50.4,
+    87.4
+   ],
+   "coords": [
+    [
+     39.8,
+     69.8
+    ],
+    [
+     40.4,
+     78.2
+    ],
+    [
+     40.6,
+     77.2
+    ],
+    [
+     40.6,
+     78.2
+    ],
+    [
+     41,
+     78.8
+    ],
+    [
+     41,
+     80.4
+    ],
+    [
+     41.2,
+     80.6
+    ],
+    [
+     41.4,
+     75.4
+    ],
+    [
+     41.4,
+     81.6
+    ],
+    [
+     41.6,
+     69.8
+    ],
+    [
+     41.6,
+     75.2
+    ],
+    [
+     42,
+     76
+    ],
+    [
+     42,
+     80.4
+    ],
+    [
+     42.2,
+     80.6
+    ],
+    [
+     42.2,
+     82
+    ],
+    [
+     42.6,
+     81.2
+    ],
+    [
+     43.4,
+     80.2
+    ],
+    [
+     44.4,
+     80.4
+    ],
+    [
+     44.6,
+     80.4
+    ],
+    [
+     44.6,
+     80.6
+    ],
+    [
+     45.4,
+     81.8
+    ],
+    [
+     45.6,
+     81.8
+    ],
+    [
+     46.4,
+     77
+    ],
+    [
+     46.4,
+     78.2
+    ],
+    [
+     46.6,
+     77.6
+    ],
+    [
+     47,
+     74.2
+    ],
+    [
+     47.2,
+     77
+    ],
+    [
+     47.4,
+     80.4
+    ],
+    [
+     47.4,
+     80.6
+    ],
+    [
+     47.8,
+     74.4
+    ],
+    [
+     47.8,
+     74.6
+    ],
+    [
+     47.8,
+     81.4
+    ],
+    [
+     48,
+     76
+    ],
+    [
+     48,
+     79.4
+    ],
+    [
+     48,
+     79.6
+    ],
+    [
+     48.4,
+     77
+    ],
+    [
+     48.4,
+     78.4
+    ],
+    [
+     48.4,
+     82
+    ],
+    [
+     48.4,
+     86.4
+    ],
+    [
+     48.4,
+     86.6
+    ],
+    [
+     48.6,
+     82
+    ],
+    [
+     48.6,
+     86.4
+    ],
+    [
+     48.6,
+     86.6
+    ],
+    [
+     49,
+     79.4
+    ],
+    [
+     49,
+     83
+    ],
+    [
+     49,
+     83.6
+    ],
+    [
+     49,
+     85.4
+    ],
+    [
+     49.2,
+     81.2
+    ],
+    [
+     49.4,
+     80.4
+    ],
+    [
+     49.6,
+     80.4
+    ],
+    [
+     49.6,
+     80.6
+    ],
+    [
+     49.6,
+     82
+    ],
+    [
+     49.6,
+     84.6
+    ],
+    [
+     49.8,
+     84.4
+    ],
+    [
+     50.4,
+     83
+    ],
+    [
+     50.4,
+     86.2
+    ],
+    [
+     50.4,
+     87.4
+    ],
+    [
+     50.4,
+     87.6
+    ],
+    [
+     50.6,
+     83
+    ],
+    [
+     50.6,
+     87.4
+    ],
+    [
+     50.6,
+     87.6
+    ],
+    [
+     51,
+     85
+    ],
+    [
+     51.2,
+     80.6
+    ],
+    [
+     51.2,
+     82
+    ],
+    [
+     51.4,
+     85.6
+    ],
+    [
+     51.6,
+     85.4
+    ],
+    [
+     52,
+     82.6
+    ],
+    [
+     52,
+     86.4
+    ],
+    [
+     52,
+     86.6
+    ],
+    [
+     52.4,
+     82.2
+    ],
+    [
+     52.6,
+     82.4
+    ],
+    [
+     52.6,
+     87.4
+    ],
+    [
+     52.6,
+     89
+    ],
+    [
+     52.8,
+     87.8
+    ],
+    [
+     53,
+     82.8
+    ],
+    [
+     53.2,
+     83.6
+    ],
+    [
+     53.2,
+     84.8
+    ],
+    [
+     53.6,
+     82.8
+    ],
+    [
+     53.6,
+     90.6
+    ],
+    [
+     53.8,
+     84
+    ],
+    [
+     54.2,
+     85.4
+    ],
+    [
+     54.2,
+     85.6
+    ],
+    [
+     54.2,
+     91.6
+    ],
+    [
+     54.6,
+     85.4
+    ],
+    [
+     55,
+     85.8
+    ],
+    [
+     55,
+     89
+    ],
+    [
+     56.6,
+     90.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 8960,
+   "name": "Felpaw Scavenger",
+   "coord": [
+    40,
+    33.6
+   ],
+   "coords": [
+    [
+     37.4,
+     39.4
+    ],
+    [
+     37.6,
+     39.2
+    ],
+    [
+     38,
+     52.4
+    ],
+    [
+     38,
+     54
+    ],
+    [
+     38.2,
+     39.6
+    ],
+    [
+     38.2,
+     50.4
+    ],
+    [
+     38.2,
+     50.6
+    ],
+    [
+     38.2,
+     52.8
+    ],
+    [
+     38.2,
+     56.2
+    ],
+    [
+     38.4,
+     47
+    ],
+    [
+     38.6,
+     39.6
+    ],
+    [
+     38.6,
+     46.4
+    ],
+    [
+     39,
+     38.4
+    ],
+    [
+     39,
+     38.8
+    ],
+    [
+     39.2,
+     50.6
+    ],
+    [
+     39.4,
+     47
+    ],
+    [
+     39.4,
+     50.4
+    ],
+    [
+     39.6,
+     50.4
+    ],
+    [
+     39.6,
+     51.8
+    ],
+    [
+     39.8,
+     34.6
+    ],
+    [
+     40,
+     33.4
+    ],
+    [
+     40,
+     33.6
+    ],
+    [
+     40.4,
+     32.4
+    ],
+    [
+     40.6,
+     25.6
+    ],
+    [
+     40.6,
+     33
+    ],
+    [
+     41.2,
+     23.2
+    ],
+    [
+     41.4,
+     24.4
+    ],
+    [
+     41.4,
+     24.6
+    ],
+    [
+     41.4,
+     34.2
+    ],
+    [
+     41.6,
+     24.4
+    ],
+    [
+     41.6,
+     24.6
+    ],
+    [
+     41.6,
+     34
+    ],
+    [
+     42,
+     58.8
+    ],
+    [
+     43,
+     23.8
+    ],
+    [
+     43.4,
+     22.2
+    ],
+    [
+     43.8,
+     67.4
+    ],
+    [
+     44.4,
+     22.4
+    ],
+    [
+     44.4,
+     22.6
+    ],
+    [
+     44.4,
+     68.4
+    ],
+    [
+     44.4,
+     69.4
+    ],
+    [
+     44.4,
+     70
+    ],
+    [
+     44.6,
+     22.2
+    ],
+    [
+     44.6,
+     22.6
+    ],
+    [
+     44.6,
+     68.4
+    ],
+    [
+     44.6,
+     69.4
+    ],
+    [
+     44.8,
+     23.6
+    ],
+    [
+     44.8,
+     67.4
+    ],
+    [
+     45.2,
+     70.2
+    ],
+    [
+     45.4,
+     18.4
+    ],
+    [
+     45.4,
+     70.6
+    ],
+    [
+     45.6,
+     70.2
+    ],
+    [
+     45.6,
+     70.8
+    ],
+    [
+     46.2,
+     15.8
+    ],
+    [
+     46.6,
+     19.6
+    ],
+    [
+     46.8,
+     19.4
+    ],
+    [
+     47.4,
+     15.6
+    ],
+    [
+     47.6,
+     15.6
+    ],
+    [
+     49,
+     36.2
+    ],
+    [
+     49.2,
+     32.4
+    ],
+    [
+     49.2,
+     32.6
+    ],
+    [
+     49.2,
+     35.4
+    ],
+    [
+     49.4,
+     33.6
+    ],
+    [
+     49.6,
+     33.6
+    ],
+    [
+     49.8,
+     16
+    ],
+    [
+     50.2,
+     32.6
+    ],
+    [
+     50.4,
+     15.4
+    ],
+    [
+     50.4,
+     32.4
+    ],
+    [
+     51.4,
+     29.8
+    ],
+    [
+     51.4,
+     31.8
+    ],
+    [
+     51.6,
+     29.8
+    ],
+    [
+     51.8,
+     31.8
+    ],
+    [
+     52.2,
+     30.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 8961,
+   "name": "Felpaw Ravager",
+   "coord": [
+    55.8,
+    10.4
+   ],
+   "coords": [
+    [
+     51.4,
+     15.2
+    ],
+    [
+     51.6,
+     15.2
+    ],
+    [
+     52,
+     16
+    ],
+    [
+     52.6,
+     27.2
+    ],
+    [
+     53.2,
+     16
+    ],
+    [
+     53.2,
+     26.4
+    ],
+    [
+     53.2,
+     28
+    ],
+    [
+     53.6,
+     15.6
+    ],
+    [
+     53.8,
+     13.4
+    ],
+    [
+     53.8,
+     13.6
+    ],
+    [
+     53.8,
+     27.4
+    ],
+    [
+     54,
+     15
+    ],
+    [
+     54.4,
+     25
+    ],
+    [
+     54.4,
+     26.4
+    ],
+    [
+     54.4,
+     28
+    ],
+    [
+     54.6,
+     25
+    ],
+    [
+     55,
+     24
+    ],
+    [
+     55.4,
+     10.8
+    ],
+    [
+     55.4,
+     21.2
+    ],
+    [
+     55.4,
+     21.6
+    ],
+    [
+     55.4,
+     23
+    ],
+    [
+     55.4,
+     26.8
+    ],
+    [
+     55.6,
+     21.2
+    ],
+    [
+     55.6,
+     23
+    ],
+    [
+     55.8,
+     10.4
+    ],
+    [
+     55.8,
+     10.6
+    ],
+    [
+     56,
+     8.4
+    ],
+    [
+     56,
+     20.4
+    ],
+    [
+     56,
+     22.2
+    ],
+    [
+     56,
+     27.2
+    ],
+    [
+     56.2,
+     8.6
+    ],
+    [
+     56.2,
+     12
+    ],
+    [
+     56.2,
+     24
+    ],
+    [
+     56.4,
+     6.4
+    ],
+    [
+     56.4,
+     6.6
+    ],
+    [
+     56.6,
+     12.4
+    ],
+    [
+     56.6,
+     12.6
+    ],
+    [
+     56.6,
+     19.6
+    ],
+    [
+     56.6,
+     21
+    ],
+    [
+     56.6,
+     24.4
+    ],
+    [
+     56.6,
+     24.6
+    ],
+    [
+     56.6,
+     26.4
+    ],
+    [
+     56.6,
+     26.6
+    ],
+    [
+     57.2,
+     18.6
+    ],
+    [
+     57.4,
+     18.4
+    ],
+    [
+     57.8,
+     17.8
+    ],
+    [
+     58.2,
+     15.2
+    ],
+    [
+     58.4,
+     15.6
+    ],
+    [
+     58.4,
+     16.8
+    ],
+    [
+     58.6,
+     16.8
+    ],
+    [
+     60,
+     15.2
+    ],
+    [
+     60.6,
+     16.8
+    ],
+    [
+     61.8,
+     13.4
+    ],
+    [
+     61.8,
+     13.8
+    ],
+    [
+     61.8,
+     17
+    ],
+    [
+     61.8,
+     18.4
+    ],
+    [
+     62,
+     18.6
+    ],
+    [
+     62.2,
+     20.2
+    ],
+    [
+     62.2,
+     20.6
+    ],
+    [
+     62.4,
+     16
+    ],
+    [
+     62.6,
+     16
+    ],
+    [
+     62.8,
+     19.4
+    ],
+    [
+     62.8,
+     19.6
+    ],
+    [
+     63.4,
+     13.4
+    ],
+    [
+     63.4,
+     13.6
+    ],
+    [
+     63.6,
+     13.4
+    ],
+    [
+     63.6,
+     13.8
+    ],
+    [
+     64.6,
+     19.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 14339,
+   "name": "Death Howl",
+   "coord": [
+    49.8,
+    77.2
+   ],
+   "coords": [
+    [
+     47.4,
+     77.4
+    ],
+    [
+     48,
+     77.4
+    ],
+    [
+     48.2,
+     78
+    ],
+    [
+     48.2,
+     79
+    ],
+    [
+     48.6,
+     78.2
+    ],
+    [
+     49.4,
+     76.2
+    ],
+    [
+     49.4,
+     77.2
+    ],
+    [
+     49.4,
+     78.8
+    ],
+    [
+     49.6,
+     77.6
+    ],
+    [
+     49.8,
+     77.2
+    ],
+    [
+     56.4,
+     88.4
+    ],
+    [
+     56.4,
+     89.2
+    ],
+    [
+     56.4,
+     89.6
+    ],
+    [
+     56.6,
+     88.4
+    ],
+    [
+     56.6,
+     89.2
+    ],
+    [
+     56.8,
+     90
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 14344,
+   "name": "Mongress",
+   "coord": [
+    40.6,
+    79
+   ],
+   "coords": [
+    [
+     40.6,
+     79
+    ],
+    [
+     43.2,
+     76.4
+    ],
+    [
+     43.2,
+     77.2
+    ],
+    [
+     43.4,
+     77.6
+    ],
+    [
+     43.6,
+     77.4
+    ],
+    [
+     43.6,
+     77.6
+    ],
+    [
+     44.2,
+     76.4
+    ],
+    [
+     45,
+     77.2
+    ],
+    [
+     45.8,
+     85.2
+    ],
+    [
+     46.2,
+     83.8
+    ],
+    [
+     46.6,
+     83.8
+    ],
+    [
+     46.8,
+     83.4
+    ],
+    [
+     47.2,
+     85.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 490,
+   "zone": "Un'Goro Crater",
+   "point": "end",
+   "type": 1,
+   "id": 9117,
+   "name": "J.D. Collie",
+   "coord": [
+    41.8,
+    2.6
+   ],
+   "coords": [
+    [
+     41.8,
+     2.4
+    ],
+    [
+     41.8,
+     2.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1637,
+   "zone": "Orgrimmar",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 3310,
+   "name": "Doras",
+   "coord": [
+    45.2,
+    63.8
+   ],
+   "coords": [
+    [
+     45.2,
+     63.8
+    ],
+    [
+     45.6,
+     64
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 3838,
+   "name": "Vesprystus",
+   "coord": [
+    58.4,
+    94
+   ],
+   "coords": [
+    [
+     58.4,
+     94
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 147,
+   "date": "2019-09-29T00:01:56-05:00",
+   "body": "To save you from digging through countless Thottbot and Allakhazam posts, here's the summary:\r\n\r\n[ul][li]The circle of stones is located at (70,50) in Tanaris, you can get there by going through the Lost Rigger Cove tunnel and it's on the southern side of the walled off complex.  Once you get to the other side, head towards the mountains and you'll see the stones.[/li]\r\n\r\n[li]You have to loot ALL of the items from your [item=11617].  If you do not, you will not complete the quest.[/li]\r\n\r\n[li]You have to remain inside the Circle of Stones until [npc=9453] becomes hostile.  He spawns from the beach and runs up towards the Circle of Stones.  During this time, he is \"Friendly\", and only once he reaches the stones does he become hostile.  He is Immune to Frost damage.[/li]\r\n\r\n[li]As long as you have 1x [item=11173] and 11x [item=11172] in your bags, the moment he turns hostile, he will turn these items in your bag into [item=11522].  You do not have to kill him in order to progress further on this quest, however he is only a level 54 non-Elite, and should be a pushover by this time.  As a Frost Mage, I was able to kill him at 55 with Fire spells, alternating Frost Ward and Ice Barrier.[/li]\r\n[/ul]",
+   "replies": [
+    "Adendum: You have to be in the circle yourself too. Only then the items will turn into [item=11522] Took me several trys to figure this one out",
+    "I can confirm, I was outside of circle and nothing happened in my bags, after summoning again and staying inside the circle the 2nd time I got the totem",
+    "Confirmed as well. Thank you Draemon. Upvoted you.",
+    "Eridan's Supplies remains in your bag even if it's empty. It's safe to discard that item. Hope this helps too.",
+    "Lost Rigger Cave entrance is at [url=https://www.wowhead.com/forever/maps?data=440:680410]68,41[/url]"
+   ]
+  },
+  {
+   "rating": 139,
+   "date": "2006-12-02T17:14:16-06:00",
+   "body": "Circle located at 70, 49.",
+   "replies": [
+    "WTF? it says the quest req level 47, im level 47 and Eridan Bluewind has no quests for me...",
+    "This is a long chain with many requirements, starting here: https://www.wowhead.com/forever/quest=3844/its-a-secret-to-everybody",
+    "calm down with the vote downs, just help the guy instead of voting him down to six feet under..."
+   ]
+  },
+  {
+   "rating": 120,
+   "date": "2006-09-30T00:40:59-05:00",
+   "body": "Go south until you see the walled pirate city.&nbsp; Go right , to the back. Aggro the pirates if you want. The follow the wooden fence all the way around until it ends against the mountain. You can jump the fence to get INTO the compound. Then jump OUT again and voila...you'll see the circle of Aquementas. YOU MUST EMPTY the contents of the pack into your inventory BEFORE you fight him. Do that.. Go into circle. Right click on book and it will summon him.. He will be friendly, then he'll get mad and turn on you. Defeat him (Im lvl 55 Shammy and it took me 4 turns, Chain light, ES, WF w/ staff and ES again). It will automatically create the totem and put it into your inventory. Quest finished..\n\nPeice of Cake..Reading all the stuff on here had me worried as usual..\n\nAhh, well I spoke too soon. It seems to block off the exit and you have to fight your way OUT of the pirate compount now that you try and jump back over the fence.. either that or swim around.. lol\n\nQuallan",
+   "replies": [
+    "Thanks buddy. This should be the number one comment.",
+    "You don't need to fight any pirates or do any swimming if you go south around the mountain range instead without ever needing to dismount.",
+    "After you get the totem you just deliver it to J.D. Collie in Marshall's Refuge in Un'Goro Crater.",
+    "You need to be inside circle when he aggro's or you wont get the totem. just fyi to all the hunters out there.",
+    "That makes two of us. Was not in the circle, no totem. Wowhead and its contributors are priceless!"
+   ]
+  },
+  {
+   "rating": 73,
+   "date": "2007-02-27T16:02:00-06:00",
+   "body": "Remember to take ALL the items out from the pack (claws, heart and book) or else you won't get his totem.",
+   "replies": []
+  },
+  {
+   "rating": 41,
+   "date": "2005-09-30T00:40:59-05:00",
+   "body": "The circle of stones can be found at 70,49 using the Cosmos coord system.",
+   "replies": []
+  },
+  {
+   "rating": 32,
+   "date": "2005-09-30T00:40:59-05:00",
+   "body": "70,50 SW of the Lost Rigger Cove (Pirate Camp)\n\nSummon the mob, he transforms your items and unfortunately, you have to kill him.\n\nMake sure you stay inside the circle otherwise you won't get the totem.",
+   "replies": [
+    "Correct. I did not kill the mob, but I did get the totem."
+   ]
+  },
+  {
+   "rating": 29,
+   "date": "2007-04-22T20:03:50-05:00",
+   "body": "I didn't even need to kill Aquementas, as soon as he turned red it said that I got the Silver Totem of Aquementas so I ran lol.  I was still able to turn the quest in even though I didn't kill him. Also, make sure that you take everything out of the bag that you get, meaning the claws, irontree heart, and the book, otherwise you WILL NOT get the totem.\r\n\r\nStokedwindsurfer: That is very possible, I completed this quest in the early days of WoW so Blizz probably got smart and fixed it.",
+   "replies": []
+  },
+  {
+   "rating": 27,
+   "date": "2005-06-02T20:53:07-05:00",
+   "body": "I also looted the book and lost the other items.  Here's what CS told me:\n\n[quote]Thank you for contacting the World of Warcraft Game Master Department. \n\nAnswer: I have investigated this issue and found that in order to re-attempt this quest, you would need to destroy the remaining quest item, the Book of Aquor, and abandon the quest.  You will then be able to talk to the quest NPC, Eridan Bluewind of the Felwood, and re-obtain the quest.  When you re-obtain this quest, you will receive the item Eridan's Supplies which should contain another book of Aquor and the missing Silvery Claws (11) and Irontree Heart (1) so that you will be able to attempt to create the Silver Totem of Aquementas once more.[/quote]\n\nI'm going to try it this afternoon...",
+   "replies": [
+    "  Well I wish I would've read this thread before attempting the quest because I also lost the items in the container. Kudos to bforrest for that information from Blizzard. I hope it works. I'm gonna attempt it later tonight. If it works I'll be back to post a follow up.\n\n* Follow Up *\n  I deleted the book and abandoned the quest. Then I returned to Felwood to speak with the NPC again and she returned to me the container with the 3 items in it. I was then able to return to Tanaris, summon Aquementas and kill it. I'm a lvl 55 Warrior and I soloed him without much problem. \n\nAloha\nDwarf Warrior o"
+   ]
+  },
+  {
+   "rating": 20,
+   "date": "2006-09-30T00:40:59-05:00",
+   "body": "I have the boomerang from the \"too dangerous to go alone\" quest and I still have silvery claws and irontree heart in my inventory. \n\nCan these be destroyed now? I cant imagine me needing them later.\n\nI really hate these quests that leave items in your bags.",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2005-02-28T12:09:20-06:00",
+   "body": "Stone circle is found on map loc. 70,50\n\nAfter reading the book, the water element come running in from the sea side and turns hostile upon entering the circle....\nI think you actually can complete the quest without defeating it... ;)",
+   "replies": [
+    "You receive the item you need right as he aggroes, so I'm pretty sure that you don't have to defeat him. Although I did defeat him, his corpse wasn't lootable for me at all."
+   ]
+  },
+  {
+   "rating": 16,
+   "date": "2019-10-08T12:09:51-05:00",
+   "body": "To start this quest chain you have to click on a wrecked boat in Un'goro Crater. Here is the full quest chain in order:\r\n\r\n1. [quest=3844]\r\n2. [quest=3845]\r\n3. [quest=3908]\r\n4. [quest=3909]\r\n5. [quest=3912]\r\n6. [quest=3913]\r\n7. [quest=3914]\r\n8. [quest=3941]\r\n9. [quest=3942]\r\n10. [quest=4084]\r\n11. [quest=4005]\r\n12. [quest=3961]\r\n13. [quest=3962]",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2005-11-05T12:40:59-06:00",
+   "body": "I finally found the circle of rocks thich is, indeed, SW of the pirate camp past the boats in the camp.&nbsp; When you pass the boats and the camp itself you see a clear area with some trees; it looks sorta like a clearing with a dead-end.&nbsp; You do not see the rocks from the coast so don't be fooled.&nbsp; Keep going toward the dead-end and you'll see the circle of rocks.&nbsp; When I took the items out of the bag it disappeared and I then had only the claws and the heart in my inventory.&nbsp; He turns hostile immediately and watch that you never go too close to the edge of the circle in case he knocks you back.&nbsp; The prompt tells you that Aquementas transforms the items and since I had my inventory open I saw the Silver Totem appear in my inventory, showing it is not necesary to kill him.&nbsp; After you get the totem you just deliver it to J.D. Collie in Marshall's Refuge in Un'Goro Crater.&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-09-30T00:40:59-05:00",
+   "body": "Laugh... get [u]the[/u] Zelda ref? The whole quest is a Zelda tribute, from the -very- beginning, every interaction with an NPC is taken from the game ;)\n\nThe final rewards are very appropriate as well.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-05-07T00:40:59-05:00",
+   "body": "After getting the pack I just wanted to check on what she gave me and took out the book, but left the 2 materials in it and closed the pack because of bagspace, unfortunetly the next time I went to open ( a week or two later) it gave me the \"you don not have permission to loot that\" closed the window and deleted the bag, i think it's just some buged programming on blizzards part, but beware if you open the bag make sure to take everything out! \n\nIf you have this happen just abandon the quest and return to the emerald sanctum, abandon the quest distroy the items you have and pick it up again, she'll give you a new pack with everything you need!\n\nDirections as per above are correct: 70,50 circle of boulders nestled near the mountains just east of Caverns of Time.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-09-30T00:40:59-05:00",
+   "body": "it is slightly south and west of the pirate camp.&nbsp; there is a large circle of stones.&nbsp; use the book in there, and aquementas will yell and come to the stones. you have to stay in the stones until he turns agro, but I don't think you have to kill him.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-05-10T11:46:16-05:00",
+   "body": "As stated in the quest log, you must stay within the circle. So i suggest standing right at the edge of the circle as Aquementas will charge towards the circle and will turn red upon reaching the circle.\r\n\r\nI received the totem before i was hit. So remember to stay at the within the edge of the circle NOT outside.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-09-30T00:40:59-05:00",
+   "body": "If you look on yr map - it is due east of the Caverns of Time (on shore side of hills/mountains).&nbsp; The reference to the easternmost peninsula is a bit misleading that way.&nbsp; It is tucked in among some hills.\n\nDefinitely open the pack & get all items in yr inventory - then when he begins to attack, the silver totem will be created.&nbsp; I ended up killing him cuz figured he'd just follow me.\n\nit's a long series - so those who don't have it will need to click back to earlier quests re linken.\n\nGood Luck!\nAnoel",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2019-12-18T10:24:37-06:00",
+   "body": "If you use the totem for some reason, don't worry, you can still complete the quest.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-05-07T00:40:59-05:00",
+   "body": "Do you still have to carry the heart & claws around?",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-09-30T00:40:59-05:00",
+   "body": "You have to open the supplies to get your book, silvery claws and irontree heart.\n\nTanaris loc is 70, 49 where you will find the circle of rocks.\n\nEasy quest. Just use the book in the circle and banish him, if you're a warlock, once the elemental reaches the circle.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-03-31T12:40:59-05:00",
+   "body": "He's level 54 for those wondering.\n\nAnd Mages: He's immune to frost.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-18T18:27:22-05:00",
+   "body": "No one noticed the Zelda 1 quote \"The eastmost peninsula is the secret...\"? :D\nGotto love these quests",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-04T20:58:15-05:00",
+   "body": "just a FYi he is a lvl 54 Water elemental. :P",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-09T10:24:10-06:00",
+   "body": "Its near the pirate town you went to for pirate hats ect... go through the cave leading to that then go behind the pirate town. Easy fight as a level 57 hunter.  He runs up to the circle and you can't attack until he is in the circle.  He then turns red and attacks.  When you have defeated him you will receive the totem that dispells Blazerunner's Aura!  You don't get any experience for killing him.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-25T15:43:30-05:00",
+   "body": "i didn't even kill him, he killed me, it just said that he began to cast a spell, then it gave it to me, just before i died, you probably just have to survive for a certain amount of time, so bring a potion or a healer",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-19T00:46:45-05:00",
+   "body": "I did the quest, well...tried to, Killed the thing, no loot, no totem, but i still have my claws and heart and the book. is that right?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-19T01:20:35-05:00",
+   "body": "The second time I killed him i got the totem, i Guess I was unlucky..",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-20T13:04:10-06:00",
+   "body": "stones in circle on 70,50... use the book for summon the water elemental, kill him and go to J.D. in cave at Marshals refuge",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-13T17:41:42-06:00",
+   "body": "I cant even Open the Damn bag.  It turns gray.  I have disabled addons and it still wont open.  I have a ticket on the bag, maybe the GM's will unlock it =/",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-10T17:55:20-05:00",
+   "body": "thanks cords 70,50 helped a lot.\nspot wher you summon him is just south of that pirate town. \nits just a couple of rocks...\nwhen you summon him he wont be hostile to you until he enchants your item, REMEMBER TO TAKE OUT YOUR ITEMS, otherwise thye wont change and they'll disappear or you'll get lucky like me and you'll keep em.\nhes not hard to kill at all... I think they should have made him an elite.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-02T14:06:24-06:00",
+   "body": "As people have mentioned, the items can dissapear if opened at the wrong time or you don't get the totem [e.g. I just lost all my items while opening OMW on a mount to the spot in Tanaris with an error \"corpse cannot be looted\"]\n\nYour best bet is to open the bag as soon as you recieve it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-27T15:07:31-05:00",
+   "body": "I did this at 53 without a problem. He spawns a little ways off from you but comes right to you. \n\nI had my bags open so I could see the moment the Silver Totem appeared and it was okay to thrash him. He will attack you after you get the totem so be prepared to fight him. He's not that tough (not elite) if you are 52+. You  might need to use a potion to keep going if your armor isn't up to snuff. I healed myself once just to be safe. \n\nStrangely, the quest items are still there in my inventory. I'm thinking that I'll go and try to summon him again, just for S&Gs. I've already completed the quest chain, so I'll just see what happens. If nothing happens, I'll just delete the items.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-06T11:36:39-06:00",
+   "body": "This quest is part of a long series which starts with the \"It's a Secret to Everybody\" quest, the next quest in the series is \"Linken's Adventure\"",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-17T11:23:50-05:00",
+   "body": "Ive just tried this, with help....first time I got knocked out of circle, then the next time I stood against one the outer stones in order to prevent myself being pushed out....but killed him and nothing...im at a loss and its annoying me any help would be greatly appreciated",
+   "replies": [
+    "I had the exact problem, didn't get the totem in the first 2 tries. My inventory was full, after clearing 1 spot I did get the totem. (upon creation the other quest items are not consumed)"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-24T15:31:23-05:00",
+   "body": "When you kill it, it will not tell you that you got anything from it. Just check your inventory and it will be something that looks like a wand, I was confused because it doesn't actually use up the required items.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-01T20:40:25-05:00",
+   "body": "When I started the quest, I had the bag but it was empty. I asked a GM about this situation, and it seems that I was not alone. Blizzard is working on this issue.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-22T01:36:14-05:00",
+   "body": "If at first you do not get the \"Silver Totem of Aquementas\" after the first kill, wait for the 5min cooldown to summon Aquementas again and stand in the circle to kill him a second time.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-09-30T00:40:59-05:00",
+   "body": "If you have the pouch on you when you attempt this quest, but also have more items on you, it will not work.&nbsp; Had picked up another irontree heart and a couple of the silver claws, and when i went to open the pouch it disappeared out of inv and said i didn't have permission to loot corpse.&nbsp; Back to felwood for more items i guess :(",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-09-30T00:40:59-05:00",
+   "body": "Anyone get the Zelda reference here?\n\nThe eastmost peninsula is the secret...",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-02-23T00:40:59-06:00",
+   "body": "Ya so aquamentas is cake... and he made me the totem.. but all the silver claws and the irontree heart are still in my bag and im not sure if I should delete them even tho I completed the the entire chain. Rewards and all. Any suggestions?",
+   "replies": [
+    "The totem you get is used to remove Blazerunner's shield in the final step of the quest.&nbsp; You lose that totem when you turn the quest in.&nbsp; However, if you've kept the items from this stage of the quest, you can re-summon aquementas and get another totem, one you can keep forever.&nbsp; Once you've done that, you have no more need for the items and can destroy them.&nbsp; Or if you don't care about being able to kill Blazerunner after finishing the quest."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-05-23T03:05:57-05:00",
+   "body": "I didn't remove the other two items from the bag and subsequently lost the bag and everything in it. I still had the summoning book but I couldn't start the quest over again. I tried back at the original start off point. No luck. Ah well , I got most of the XP.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-29T17:35:07-06:00",
+   "body": "70, 50 is correct location. I summoned him and as soon as he became hostile I got the totem, I killed him after it because I thought it should be done. Now i got the totem and I still got the irontree heart and shivery paws or whatever they are called :S\n\n54 pala",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-06-03T12:16:01-05:00",
+   "body": "I also have the quest items after completing the quest... Is it safe to delete, or should I hold on to them?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-02-12T21:23:03-06:00",
+   "body": "As of Feb 12, 2006 this quest is apprently fixed, i opened my bag inside circle and it did not eat items .",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-05-04T22:46:43-05:00",
+   "body": "Quest itself is easy, item received even though I died. But the original quest items remained in my backpack (the claws, heart and book). Is this normal? If not, I did die while the totem was being made.",
+   "replies": [
+    "The same thing happened to me, the original quest items remained in my bags as well as the totem.  I didn't die though.  Maybe it's a recent bug.",
+    "[quote=Inhaell]Quest itself is easy, item received even though I died. But the original quest items remained in my backpack (the claws, heart and book). Is this normal? If not, I did die while the totem was being made.[/quote]\n\nI had the same thing, i died, but all the items including the totem was in my inventory."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-05-15T01:32:34-05:00",
+   "body": "70, 49  There will be a circle of rocks.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-06-05T17:43:14-05:00",
+   "body": "As a level 52 hunter this was quite easy.  I just let my pet take the agro and then fired away.\n\nNot sure at which point the enchantment took gold - I asusme just as he attacked.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-12-08T02:48:50-06:00",
+   "body": "The stones are located PAST the pirate fort, just to the south.\n\nAnd I think it should have been a hydra, not a water elemental.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-03-14T22:56:21-06:00",
+   "body": "around 70.50",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-07-22T04:26:04-05:00",
+   "body": "I just completed this as a level 50 hunter.  It summons a level 54 monster, but with a healing potion and healing my pet, we managed to take him out.\n\nLike others have said, I don't think you have to defeat him because the totem ends up in your backpack at some point during the fight (or maybe at the beginning of the fight? I didn't look).\n\nThe stone circle is at 70, 50.  It's easiest to get there from the port.  Just don't forget to take the items from the bag before entering the circle to summon.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-08T19:50:05-05:00",
+   "body": "make sure you empty the contents of the bag into your inventory before you fight the guy, otherwise the totem will not be made.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-03-20T10:04:52-06:00",
+   "body": "You can use fire spells against him, and they work fine.  Put up your frost ward to absorb his damage, and just unload fire spells against him.  Make sure to unempty your pack before going into the circle, or the game will eat your items.  Location is 70,50.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2021-04-27T20:48:03-05:00",
+   "body": "If you're doing this as a lower-level, as was my 49 Combat Rogue, I quickly realized that fighting Aquementas was a waste of time, so I vanished. That failed (it happens: welcome to Classic) and I ended up in the Gadget GY. So I saved what could have been a long, arduous battle with many fails, expensive potions and a pretty good chance to die anyway. Even if I beat him, I'd still need to deal with those pirates, then a two-day ride across the Gobi Desert (the music is pretty good though) to get back to Gadget. \n\nInstead I left the gun, took the Totem and got a death port to my destination anyway. Worth considering. That's what I'll be doing next time.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-06-13T22:10:30-05:00",
+   "body": "If you try to open the pack inside the circle, it will eat the items on you. Have no fears, just abandon the quest and go back to Felwood and speak to the quest giver. She will give you another pack",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-08-21T08:39:20-05:00",
+   "body": "Killin the elemental gave no exp. FYI =)",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-11-25T20:47:30-06:00",
+   "body": "I just simply cannot find the circle....",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-04-08T05:16:53-05:00",
+   "body": "You have to loot the items out of the container and put them in one of your regular bags, otherwise the totem will not get actually get created.",
+   "replies": [
+    "Damn, I wish I'd read this before now!\nI tried 5 times last night. Never created the totem.\n\nAbandoned the quest.....back to felwood, killed every bear and wolf on the way to get the bag again.......went back.........no totem.\n\nTake all 3 components out of the bag before you get there!\n\nI'm so dumb sometimes!"
+   ]
+  },
+  {
+   "rating": -3,
+   "date": "2005-05-18T00:48:15-05:00",
+   "body": "at level 50 i tried to take him on (he is level 54). almost killed him but i still got the totem i needed. so yes you don't need to kill him.\n\nEdited, Tue May 17 20:49:13 2005",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-05-15T09:06:48-05:00",
+   "body": "For those who dont remember lost rigger cove is in tanaris.  I dont believe this has been mentioned in the quest document or this board.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2020-05-29T18:24:35-05:00",
+   "body": "bruh every comment explainnig here is kinda hard and long\r\nsimply go to these pirates in tanaris, you see their place you go through it so its behind you, look right while walking and theres huge pile of stones. if you look at the map, you're just lower- right from the \"cave of time\" or however its called. and coords kinda weird. i use mapcoords 1.5 and for me it tells 60.19,85.53 (because it shows local map place or something idk) and if you point here on map it says 70.01 50.19. well nearly 70 and 49 but like bruh",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2019-10-03T18:42:43-05:00",
+   "body": "The above comments are just plain stupid. To get there, before you enter the tunnel to Pirate Cove, jump into the water, and swim along the shore to the coordinates mentioned. I spent quite a while trying to get over the damn mountains from the pirate's camp before I realized that where I needed to be was on the other side of the mountains, and the best way to get there was to simply swim there.",
+   "replies": []
+  }
+ ]
+}

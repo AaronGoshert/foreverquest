@@ -1,0 +1,75 @@
+{
+ "id": 3383,
+ "name": "<UNUSED>",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 3,
+ "zoneId": 16,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 5650,
+ "start": null,
+ "end": null,
+ "patch": "1.13.2.30786",
+ "objectiveText": "Roland Geardabbler slain  ( 1 )   Horizon Scout First Mate slain  ( 1 )   Horizon Scout Engineer slain  ( 1 )   Horizon Scout Cook slain  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 8394,
+   "name": "Roland Geardabbler",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 8387,
+   "name": "Horizon Scout First Mate",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 8389,
+   "name": "Horizon Scout Engineer",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 8388,
+   "name": "Horizon Scout Cook",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Roland Geardabbler slain",
+   "count": 1,
+   "type": "npc",
+   "id": 8394
+  },
+  {
+   "text": "Horizon Scout First Mate slain",
+   "count": 1,
+   "type": "npc",
+   "id": 8387
+  },
+  {
+   "text": "Horizon Scout Engineer slain",
+   "count": 1,
+   "type": "npc",
+   "id": 8389
+  },
+  {
+   "text": "Horizon Scout Cook slain",
+   "count": 1,
+   "type": "npc",
+   "id": 8388
+  }
+ ],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

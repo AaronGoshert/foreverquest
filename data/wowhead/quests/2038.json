@@ -1,0 +1,448 @@
+{
+ "id": 2038,
+ "name": "Bingles' Missing Supplies",
+ "level": 15,
+ "reqlevel": 12,
+ "side": 1,
+ "zoneId": 38,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1050,
+ "start": {
+  "type": "npc",
+  "id": 6577,
+  "name": "Bingles Blastenheimer",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    63.4,
+    47.4
+   ],
+   [
+    63.4,
+    47.8
+   ],
+   [
+    63.6,
+    47.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 6577,
+  "name": "Bingles Blastenheimer",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    63.4,
+    47.4
+   ],
+   [
+    63.4,
+    47.8
+   ],
+   [
+    63.6,
+    47.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Find and return Bingles' supplies: Bingles' Wrench , Bingles' Screwdriver , Bingles' Hammer , and Bingles' Blastencapper . Bingles' Wrench  ( 1 ) Bingles' Screwdriver  ( 1 ) Bingles' Hammer  ( 1 ) Bingles' Blastencapper  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 7343,
+   "name": "Bingles' Wrench",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 7376,
+   "name": "Bingles' Blastencapper",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 7345,
+   "name": "Bingles' Screwdriver",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 7346,
+   "name": "Bingles' Hammer",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Bingles' Wrench",
+   "count": 1,
+   "type": "item",
+   "id": 7343
+  },
+  {
+   "text": "Bingles' Screwdriver",
+   "count": 1,
+   "type": "item",
+   "id": 7345
+  },
+  {
+   "text": "Bingles' Hammer",
+   "count": 1,
+   "type": "item",
+   "id": 7346
+  },
+  {
+   "text": "Bingles' Blastencapper",
+   "count": 1,
+   "type": "item",
+   "id": 7376
+  }
+ ],
+ "series": [
+  2039,
+  2038
+ ],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 6577,
+   "name": "Bingles Blastenheimer",
+   "coord": [
+    63.4,
+    47.8
+   ],
+   "coords": [
+    [
+     63.4,
+     47.4
+    ],
+    [
+     63.4,
+     47.8
+    ],
+    [
+     63.6,
+     47.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 6577,
+   "name": "Bingles Blastenheimer",
+   "coord": [
+    63.4,
+    47.8
+   ],
+   "coords": [
+    [
+     63.4,
+     47.4
+    ],
+    [
+     63.4,
+     47.8
+    ],
+    [
+     63.6,
+     47.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 4,
+ "comments": [
+  {
+   "rating": 132,
+   "date": "2005-10-07T23:04:56-05:00",
+   "body": "Bingle's items\nWrench 48,30\nScredriver 48,20\nHammer 51,24\nBlastencapper 54,26",
+   "replies": []
+  },
+  {
+   "rating": 60,
+   "date": "2005-10-07T23:04:56-05:00",
+   "body": "Bingles tools are located in Trogg camps on the 2 northern islands in the Loch.&nbsp; The large island has three seperate camps (two small and one large in the middle) that have one piece each.&nbsp; They are not drops but instead stuff you pick up off the ground.&nbsp; THEY ARE SMALL SO LOOK CAREFULLY!\n\nThe wrench is located inside Bingles Toolbox on the small island adjacent to the large one.&nbsp; This island is tricky solo.&nbsp; Recommend at least 4 people take this cause generally there are 3-4 Trogg Seers (casters) and 3-4 skullthumpers (warriors that stun like crazy).&nbsp; Best to start from the northern tip of the small island and take out their sentry(s) first then move to the camp.",
+   "replies": []
+  },
+  {
+   "rating": 32,
+   "date": "2006-11-18T12:40:26-06:00",
+   "body": "Bingle's tools are at these locations:\n\nWrench:  49, 30 https://www.wowhead.com/forever/object=104564\nScrewdriver: 48, 20\nHammer: 52, 24\nBlastencapper: 54, 27 https://www.wowhead.com/forever/object=104575\n\nLittle tricky for my lvl 15 paladin with the bonecrushers running into other mobs.  The 1050 exp made it totally worth it",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2006-05-14T23:04:56-05:00",
+   "body": "Screwdriver : /tloc 48,20 \nIn the northwestest camp.\nHas some spellcasters. No big problem with strong fireattacks. Choose first mobs outside camp, then inside camp. First item is then possible.\n\nWrench : /tloc 49,30 \nLittle place in the southwest island.\nKill first some mobs outside camp.\nThen kill Seer (spellcaster), use sheep on second mob. First dead. Haven't kill Seer fast enough, 3rd mob comes already, and i'm double-stunned, cannot drink quickly. Dead.\nComes back, lucky Seer is dead. Now 2 mobs over. Pull one, another comes too. Use sheep cast at one mob, because they stunned me too much. Now i have second item. \n\nBlast : /tloc 54,27 \nMost southeastest camp.\nMore work, pulling one result in 1 extra mob, use sheep if possible\nMust eat and drink many times for recovering mana and health. Use fire mainly and frost sometimes.\nThird item is possible. (by the entrance of the tent)\n\nHammer : /tloc 52,24 \nLittle north from east camp.\nNear the damaged wood wagon. Pulling 1 to 1 is here possible. Ignore the camp near, kill only mobs around damaged vehicles. Fourth item is now possible.\n\nIt's important that you must look at the mobs, and choose walking mobs first. Then you can solo it as level 18 mage. :)\nDrink all selfmade dranks, and use Amplified magic spell at myself.",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2007-04-22T16:05:37-05:00",
+   "body": "do this quest in conjunction with https://www.wowhead.com/forever/quest=263",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2005-05-03T23:13:01-05:00",
+   "body": "Bingles's Blastencapper  54,26\nBingles's Hammer  51,24 \nBingles's Wrench  48,29\nBingles's Screwdriver  48,20",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2004-06-23T04:24:11-05:00",
+   "body": "3 of the items are found on the northern most isle in the loch, one at each camp, the 4th is found on the small isle to the west of the northern most isle.  mobs in camps are 13-16 lvls.\n\n-Escian",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2006-10-07T23:04:56-05:00",
+   "body": "This is possible at level 14. Just need to have patience. Time the MOBS as they walk. If you pull more than two at any time then run. Running away is not a bad thing. \n\nRules: \n1) Have a clear escape route.\n\n2) Take the time to watch everyones movements. MOBs move around between bases and you can be safe if you wait for them to move away, safer when they are looking away. When they come back and the area is clear, take them out too, avoid surprises.\n\n3) Be careful of hidden MOBS behind boxes and things. If you get an extra that you did not plan for then run. It is the brave thing to do.\n\n4) Keep a clear path open. Always check for respawns.\n\n5) Fights, there are only 2 mobs you have to worry about, the Seers and the Shamans. The others are easy, even lvl 16s. with the Seers, move away once you pull them, get them to run after you so they are far away from their mates. Not too far as they will disengage. Distance avoids extra pulls. Do not let them run when almost dead. Keep your intant big hit stuff for last. The Shamans are easy, but you need some way to interrupt them. When they start showing a green heal magic, they are ready to heal, stop them, they will try this only once. If they heal, no problem just keep at it. Takes longer but they will not heal twice. Always take out the Seers and Shamans first. \n\n6) If you pull two MOBs, finish off one, see if you have enough to take out the other, or run. Remember it hurts more when hit in the back, so be careful. Bring some potions. \n\n7) Keep your back door open. A few times I had to run and got away by the skin of my teeth. When you have to go in the water, remember the fish bite, small hits but a lot.\n\n8) Clear all the MOBS before going for the gear. Some are triggered by the activation. Always heal and buff before opening anything. Check escape roots. \n\n8) The hardest of the camps is the middle of the island. Make sure you know where you are starting from and do not spend too much time, or else you will have respawns. Kill everything you can, to be safe, but only as much as needed. Killing the island clean does not help due to respawns, just clear a safe Zone.\n\nI did this first time with a lvl 14 Paladin. It is possible.\n\nPatience saves Lives. It may be mine so slow down.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2006-03-02T23:04:56-06:00",
+   "body": "Bingles tools are at these locations,\n\nWrench : /tloc 49,30\n\nScrewdriver : /tloc 48,20\n\nHammer : /tloc 52,24\n\nBlast : /tloc 54,27\n\nThese are the exact locaions of the tools,'cos i stood beside them and noted the tloc's. I did this quest with a level 42 worrior because of the spawn rate of the Stonesplinters. a walk in the patk. well obviously with the person i was with but if you are the right class it should be too. i am a level 19 preist but found it hard to kill off the humaloids. but anyways it shouldn't be hard.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-10-07T23:04:56-05:00",
+   "body": "Blastencapper 53,27\nHammer 51,24\nWrench 48,30\nScrewdriver 48,20",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-10-07T23:04:56-05:00",
+   "body": "Bingles:&nbsp; 64,48",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-01-25T11:04:56-06:00",
+   "body": "Fairly hard quest, but I soloed on a level 14 Paladin. Paladins have it easier than most (especially since I'm an engineer and have a nice collection of bombs) as we can shield and heal when we get in trouble. Died twice but only because I kept hitting the wrong hotkey (had recently moved over from another char).\n\nThe big island at 51,24 has 3 camps in it, each of which has a part. They spawn on the ground and can be hard to see but I found with little trouble. The last peice is on the small isle to the west around 47,29. Take out the Skullthumpers on the outskirts carefully, if you can pull away do so, then decimate the Shaman. If you can't seperate them, dive in and show no mercy, you'll die fast with 3 casters.\n\nGood luck,\n\n~~~Fyn~~~",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2004-11-27T23:32:42-06:00",
+   "body": "If you have two or three people, its not too hard.  I did it as a group of 3 lvl 13's.  The trick is for your party members to rush in, get the trogg's attention while you get the item.  Then everyone runs out into the water where the trogg's wont chase.  Be sure to go out far enough that the mages cant shoot you.  Then repeat till everyone gets it.\n\nWe tried the traditional method of clearing the camps, but they just pop too fast.  The distraction method works best.  For some reason one half naked female night elf running through camp clears the bloody thing right out.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-09-02T05:57:27-05:00",
+   "body": "I have edited the layout of these coords to help input them into TomTom Classic addon:\n\n/way Loch Modan 48, 30 Wrench\n/way Lock Modan 48, 20 Screwdriver \n/way Loch Modan 51, 24 Hammer\n/way Loch Modan 54, 26 Blastencapper\n\nI managed this quest easily as a level 16 mage.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-29T07:31:21-06:00",
+   "body": "cake walk for 17 warr and 13 mage. one accidental death when 4 shammies chain aggrod the warr, but once we realized it, sheep and ice and sharing aggro no probs at all.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-01T11:04:56-05:00",
+   "body": "its not 150 or w/e the site says i JUST completed it\n\n9/7/06\n\n1050 exp well worth it especially if your on the defense of the kings land quest which you have to kill those troggs anyways...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-19T23:04:56-06:00",
+   "body": "People make the mistake of trying to Find Bingles by starting at the dam.&nbsp; Don't do it. As a 16 I went from Thessalnar to him.&nbsp; Totally easy, and I picked up tons of cooking points killing spiders and boar. Then hopping to the island is no problem.\n\nNext go to the excavation site to the west of bingles for another good quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-25T11:04:56-06:00",
+   "body": "The coordinates are correct, for those of you who don't have cosmos, if you basically stay around the coast and never enter the main camp, you'll be fine. 3 on the large island, 1 on the small one next to it. Did it with 2 lvl 16 pallys. The most we pulled was a group of 5 14 and 15s, healed ourselves once and were fine.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-25T11:04:56-06:00",
+   "body": "this quest or lvlv 15 twink druid suxx.\nkilled one, run for corpse, killed another, run again cause adds",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-25T11:04:56-06:00",
+   "body": "15 Priest trying to solo this :p, no problem to [i]kill them[/i], at all... They just spawn too fast ! :p i havent died yet, but as i open the boxes, they spawn around me and attacks ^^ . Rly annoying.. Don't know if anybody else had this problem :p..",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-08T11:04:56-05:00",
+   "body": "It's quite easy if you know where to stand and where to aggro. I used my cat form to prowl around to actual look for the items...Wasn't too bad.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-20T23:04:06-06:00",
+   "body": "As other posters have pointed out, mob concentration is high in the camps, as is spawn rate.  I was able to solo as a lvl 16-17 warlock, but could only grab one of the items by sending in my Voidwalker to tank while I grabbed the loot.  \n\nIn general, ranged spellcasters make it hard to pull in places, and high mob count and spawn rate make it _very_ challenging to solo.  That's fine; not all quests need to be solo'able (even non-Elite ones :-), but at least make the reward worth the trouble.  The gloves and XP bonus just don't make it worth the effort.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-29T18:21:18-05:00",
+   "body": "BIG thanks for the co-ordinates - always really helpful.  thank you",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-29T04:24:40-06:00",
+   "body": "Solo'd as lvl 13 paladin, lol, i was twinked out in mana and hp though so i had the stats of a lvl 20, its impossible to pull the camp mobs 1 by one unless they are grey to you in which you wouldnt even be there. i just bubble'd + healed when i had 3+ on me.\nThe boxes are in diff camps one sitting in the main camp, i buble looted one but the rest i had to fight for.\n\n[i][small]Edited, Oct 28th  2006 at 11:27pm PDT by Goragu[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-05T14:51:58-05:00",
+   "body": "Before you go do this, work thru the quests \"IN defense of the Kings lands\" till you get the one that asks you to kill Stonespliter Shamans and Stonesplitter Bonesnappers.  These guys are in a camp that holds one of your items for this quest. Take at least one friend unless you have ranged weapons and some healing potions\n\nYou can find the items at the following coordinates:\nA Toolbox at 53,54\na Barrel at 54,27\nat the edge of the main camp of troggs at 52,24\nand a toolbox on the small island at 57,19 inside a camp\n\nThis was a hard quest for my paladin at the level I got it so I went off with a friend and leveled up.  I forgot about it, came back as a level 22.   At that level you can pretty much wander around as you please long as you do not get more than 2 or so adds",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-01T09:31:32-06:00",
+   "body": "I had a dumb time here as a 21 retnoob pally with green gear :/\n\nWent with a 14 pally and we died twice due to bad co-ordination. Oh well, that's fun XD",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-05T15:01:09-05:00",
+   "body": "Before you go do this, work thru the quests \"IN defense of the Kings lands\" till you get the one that asks you to kill Stonespliter Shamans and Stonesplitter Bonesnappers.  These guys are in a camp that holds one of your items for this quest. Take at least one friend unless you have ranged weapons and some healing potions\n\nYou can find the items at the following coordinates:\nA Toolbox at 53,54\na Barrel at 54,27\nat the edge of the main camp of troggs at 52,24\nand a toolbox on the small island at 57,19 inside a camp\n\nThis was a hard quest for my paladin at the level I got it so I went off with a friend and leveled up.  I forgot about it, came back as a level 22.   At that level you can pretty much wander around as you please long as you do not get more than 2 or so adds",
+   "replies": [
+    "co-ordinates are wrong."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-09T19:22:02-05:00",
+   "body": "i thought it was easy for my level(i'm 19 pally) it was green in my quest log, but i can tell is was quite difficult. The hardest part is to clear out the camps(can't use ranged) and within 10 sec i got 4 stonesplinters around attacking me. Pulling was hard but they teamed up in camps. I can kill 3 at time but 4 is a way to hard. Died 2 times and i think wasnt worth it for my level and time. 2 greenies dropped from them, sell it at AH :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-13T06:51:43-05:00",
+   "body": "pretty easy, lvl 17 warrior, 3 of the things your after are in each corner in smaller camps, and the last is in the central bigger camp. just use your gun/bow or what ever range you have to pull small groups, you should be able to take 2 or 3 on at once pretty easly.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-30T15:39:40-06:00",
+   "body": "I found them in the following locals.\n48.21 Screwdriver\n49.30 Wrench\n54.27 Blastencapper\n52.24 Hammer",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-05T02:15:19-06:00",
+   "body": "I took my lvl 18 human warrior up the Loch looking for the wayward gnome's gear. The Troggs on the islands gave me a warm reception, and appeared to have built several fires to more quickly cook the meal they anticipated. I found that if I stayed near the water I could pick my battles and create an area of relative safety. Near each of the fires I noted the gnome's tools.\n\nThose who can absorb damage and know when to run may find the following tactic useful. After clearing a beach-head in the direction of probable retreat (for the items on north island, there was usually a nice close retreat northward to the relative safety of the Loch), target a Trogg whose path or post would make it impossible to open the toolboxes. Focus all your effort on killing that one. Others may aggro, as noted here by others. Still, focus and kill that one. Preference should be given to Shamans, who will throw near-complete heals when they are about 2/3 dead. If you have a spell-interruption skill, make sure you keep it handy. Now retreat into the water and let any adds lose interest in you (there are a few level 15ish mobs north of the island, such as Frenzies, but they can be avoided for the most part).\n\nReturn to shore and approach your toolbox again. Repeat the above method if any Trogg is too close to loot the box. If you apply this technique well, 2 or 3 repetitions will clear a patch around the box you can finally approach carefully and loot without interruption.\n\nIt is certainly advisable to bring along a few potions of healing, of course. Good luck!\n \n\nEdited, Tue Jan  4 20:20:55 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-09T20:14:39-06:00",
+   "body": "This quest will soon be easier to complete at the intended level.  From the upcoming content patch notes:\n\n- Reduced the respawn rate of the troggs on the islands in Loch Modan.",
+   "replies": [
+    "Also worth mentioning that most humanoids have gaind the ability to swim. Therefore you can no longer retreat to the water. (belive me I've tried)\n\n\n"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-16T08:37:49-05:00",
+   "body": "This was hard to do, I needed help with my 16lvl rogue.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-27T22:51:10-05:00",
+   "body": "Soloed it as a lvl 14 mage, it was a real pain in the butt but it's possible. I died about 6 times with crappy gear, just aggro/sheep the right mobs and it can definitely be done alone. Goodluck all :).",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-26T06:20:14-05:00",
+   "body": "[b]How can you tell where a coordinate like 54,26 is? Is there a coordinate map somewhere? Thanks...Jill[/b]",
+   "replies": [
+    "Coordinates are part of a modification, there are a couple different ones that do it. I use and like cosmos. I can't think of the names of the other mods off hand.  Just do a web search for cosmos and you'll find it.  Has lot os other options that comes with it, very customizable."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-30T10:55:28-06:00",
+   "body": "Solo'd as lvl 16 Warlock. It is possible if you just aggro one or two at a time. \n\nDoctah",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-16T12:26:04-05:00",
+   "body": "Solo«d it as a lvl 13 gnome mage",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-01T22:00:36-06:00",
+   "body": "I can't find the $%^## hammer. Anybody remember where it is?",
+   "replies": [
+    "The hammer is at 52,24 on the island.",
+    "Did you find the hammer? I have been on every island 6 times and can't find the hammer also. Please don't give me coord because I downloaded the mod and installed it but it will not work"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-04-11T10:07:16-05:00",
+   "body": "I disagree with those who say this quest is tough for level 16, ijust soloed it with a 16 warlock, u just need to be creative, fear is your friend.",
+   "replies": [
+    "yeah, i soloed too as a warlock 16 (7 points in affliction), but my friend was the voidwalker, not the fear... I didn't killed the mobs, only sent the VW on the trogg at the opposite side of the camp... worked rly good!\nDied only once.\n\nI wonder anyway how a mage could manage 4, 5, 6 or sometimes even more on him...   0_o\n\n",
+    "With careful pulls, a mage doesn't need to worry about more than two.\n\nThat being said, my first toon was a tank, and I've also played a hunter - I have a lot more experience with careful pulls than most mages."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2004-12-15T03:53:05-06:00",
+   "body": "solo'd it as a 17 mage.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-18T15:35:37-06:00",
+   "body": "Bingle is located next to his downed flyer on the east side of the Loch in Loch Modan.  Location: 63, 47\n\nBingle's Wrench: 48, 29\nBingle's Screwdriver: 48,20\nBingle's Hammer: 52, 24\nBingle's Blastencapper: 54, 26\n\nI solo'd this as a Level 15 Warrior.  You have to make sure that you are fighting only one, or at most two, bad guys.  I pulled them with my firearm.  \n\nAs previously mentioned, this mission is good to double with the \"In Defense of the King's Lands\" missions.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-06T15:33:05-06:00",
+   "body": "I solo'd this w/ my lvl 19 Warrior....the troggs were rather easy if you approach them right....don't aggro 4 at once and you'll be fine....\n\nmy question is.....where do i turn the items in?.....i went back to where I found bingles and he wasn't there.....\n\n\nwhere the heck is he?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2004-11-21T17:33:53-06:00",
+   "body": "Ok,\n\n  A little more info on this quest.  Bring a group, even someone level 23ish will have a tough time soloing here because of the adds. A group of 16's will have a time of it as well, respawns can come quickly so be quick in getting items.  Everyone needs to loot their own, so a well oiled group needs to hold a camp long enough for 5 successive Bingle tool spawns.  It may be best to start on south island to get warmed up before going to the more populated north island.\n\nR,\nNacho",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-02-05T13:54:53-06:00",
+   "body": "at lvl 19 Gnomeregan Exiles 100 rep increased",
+   "replies": []
+  }
+ ]
+}

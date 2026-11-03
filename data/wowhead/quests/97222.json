@@ -1,0 +1,195 @@
+{
+ "id": 97222,
+ "name": "Gatehouse Goods",
+ "level": 15,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 800,
+ "start": {
+  "type": "npc",
+  "id": 483,
+  "name": "Elaine Trias",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    60.4,
+    63.4
+   ],
+   [
+    60.4,
+    63.6
+   ],
+   [
+    60.6,
+    63.4
+   ],
+   [
+    60.6,
+    63.6
+   ],
+   [
+    66.4,
+    73.4
+   ],
+   [
+    66.4,
+    73.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 483,
+  "name": "Elaine Trias",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    60.4,
+    63.4
+   ],
+   [
+    60.4,
+    63.6
+   ],
+   [
+    60.6,
+    63.4
+   ],
+   [
+    60.6,
+    63.6
+   ],
+   [
+    66.4,
+    73.4
+   ],
+   [
+    66.4,
+    73.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Carry the Gatehouse Shipment up the stairs in Trias' shop and leave it outside the door.   Gatehouse Shipment delivered  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 277198,
+   "name": "Gatehouse Shipment",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 268571,
+   "name": "Gatehouse Shipment delivered",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Gatehouse Shipment delivered",
+   "count": 1,
+   "type": "npc",
+   "id": 268571
+  }
+ ],
+ "series": [
+  97246,
+  97249,
+  97222
+ ],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 483,
+   "name": "Elaine Trias",
+   "coord": [
+    60.4,
+    63.4
+   ],
+   "coords": [
+    [
+     60.4,
+     63.4
+    ],
+    [
+     60.4,
+     63.6
+    ],
+    [
+     60.6,
+     63.4
+    ],
+    [
+     60.6,
+     63.6
+    ],
+    [
+     66.4,
+     73.4
+    ],
+    [
+     66.4,
+     73.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 483,
+   "name": "Elaine Trias",
+   "coord": [
+    60.4,
+    63.4
+   ],
+   "coords": [
+    [
+     60.4,
+     63.4
+    ],
+    [
+     60.4,
+     63.6
+    ],
+    [
+     60.6,
+     63.4
+    ],
+    [
+     60.6,
+     63.6
+    ],
+    [
+     66.4,
+     73.4
+    ],
+    [
+     66.4,
+     73.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-04T23:00:52-05:00",
+   "body": "Go up the stairs. There is a locked door, Right click the box in your inventory. That allows you to place it where needed.",
+   "replies": []
+  }
+ ]
+}

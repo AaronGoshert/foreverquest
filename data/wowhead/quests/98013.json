@@ -1,0 +1,585 @@
+{
+ "id": 98013,
+ "name": "Swelling Forces",
+ "level": 20,
+ "reqlevel": 12,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1550,
+ "start": {
+  "type": "npc",
+  "id": 270269,
+  "name": "Arbal",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    43.6,
+    76.4
+   ],
+   [
+    43.6,
+    76.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 270269,
+  "name": "Arbal",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    43.6,
+    76.4
+   ],
+   [
+    43.6,
+    76.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Eliminate 12 Stormscale Myrmidons , 8 Stormscale Sorceresses , and 6 Stormscale Warriors for Arbal at the Grove of the Ancients.   Stormscale Myrmidon slain  ( 12 )   Stormscale Sorceress slain  ( 8 )   Stormscale Warrior slain  ( 6 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2181,
+   "name": "Stormscale Myrmidons",
+   "count": 12,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 270269,
+   "name": "Arbal",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 2182,
+   "name": "Stormscale Sorceress",
+   "count": 12,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 2183,
+   "name": "Stormscale Warrior",
+   "count": 12,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Stormscale Myrmidon slain",
+   "count": 12,
+   "type": "npc",
+   "id": 2181
+  },
+  {
+   "text": "Stormscale Sorceress slain",
+   "count": 8,
+   "type": "npc",
+   "id": 2182
+  },
+  {
+   "text": "Stormscale Warrior slain",
+   "count": 6,
+   "type": "npc",
+   "id": 2183
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 270269,
+   "name": "Arbal",
+   "coord": [
+    43.6,
+    76.4
+   ],
+   "coords": [
+    [
+     43.6,
+     76.4
+    ],
+    [
+     43.6,
+     76.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 270269,
+   "name": "Arbal",
+   "coord": [
+    43.6,
+    76.4
+   ],
+   "coords": [
+    [
+     43.6,
+     76.4
+    ],
+    [
+     43.6,
+     76.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "requirement",
+   "type": 1,
+   "id": 2181,
+   "name": "Stormscale Myrmidon",
+   "coord": [
+    58.4,
+    21.2
+   ],
+   "coords": [
+    [
+     56.4,
+     22.6
+    ],
+    [
+     56.8,
+     22.4
+    ],
+    [
+     57.2,
+     19.6
+    ],
+    [
+     57.2,
+     22.8
+    ],
+    [
+     57.4,
+     18.2
+    ],
+    [
+     57.4,
+     19.4
+    ],
+    [
+     57.4,
+     21.4
+    ],
+    [
+     57.4,
+     24.2
+    ],
+    [
+     57.6,
+     17.4
+    ],
+    [
+     57.6,
+     18.4
+    ],
+    [
+     57.6,
+     24.4
+    ],
+    [
+     58,
+     19.2
+    ],
+    [
+     58,
+     20.4
+    ],
+    [
+     58.2,
+     21.6
+    ],
+    [
+     58.4,
+     15.8
+    ],
+    [
+     58.4,
+     21.2
+    ],
+    [
+     58.4,
+     23.4
+    ],
+    [
+     58.4,
+     25
+    ],
+    [
+     58.4,
+     25.6
+    ],
+    [
+     58.6,
+     19.4
+    ],
+    [
+     58.6,
+     19.8
+    ],
+    [
+     58.8,
+     20.8
+    ],
+    [
+     59,
+     15.6
+    ],
+    [
+     59,
+     17.4
+    ],
+    [
+     59,
+     17.6
+    ],
+    [
+     59.2,
+     15
+    ],
+    [
+     59.2,
+     21.8
+    ],
+    [
+     59.2,
+     23.4
+    ],
+    [
+     59.2,
+     23.6
+    ],
+    [
+     59.4,
+     14.2
+    ],
+    [
+     59.4,
+     24.8
+    ],
+    [
+     59.6,
+     14.4
+    ],
+    [
+     59.6,
+     16.2
+    ],
+    [
+     59.6,
+     25
+    ],
+    [
+     59.8,
+     22
+    ],
+    [
+     60,
+     15.4
+    ],
+    [
+     60.2,
+     16.6
+    ],
+    [
+     60.2,
+     23.4
+    ],
+    [
+     60.2,
+     23.6
+    ],
+    [
+     60.6,
+     23
+    ],
+    [
+     60.8,
+     15.8
+    ],
+    [
+     60.8,
+     23.6
+    ],
+    [
+     61,
+     17
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "requirement",
+   "type": 1,
+   "id": 2182,
+   "name": "Stormscale Sorceress",
+   "coord": [
+    58.6,
+    20.4
+   ],
+   "coords": [
+    [
+     57,
+     21.8
+    ],
+    [
+     57.4,
+     19.4
+    ],
+    [
+     57.4,
+     19.6
+    ],
+    [
+     57.6,
+     19.4
+    ],
+    [
+     57.8,
+     21.8
+    ],
+    [
+     58,
+     20
+    ],
+    [
+     58.2,
+     24.2
+    ],
+    [
+     58.4,
+     17.8
+    ],
+    [
+     58.4,
+     23
+    ],
+    [
+     58.4,
+     24.6
+    ],
+    [
+     58.6,
+     18.4
+    ],
+    [
+     58.6,
+     18.6
+    ],
+    [
+     58.6,
+     20.4
+    ],
+    [
+     58.6,
+     22.2
+    ],
+    [
+     58.6,
+     23
+    ],
+    [
+     58.8,
+     16.8
+    ],
+    [
+     58.8,
+     20.6
+    ],
+    [
+     59.4,
+     15.4
+    ],
+    [
+     59.4,
+     15.6
+    ],
+    [
+     59.4,
+     24.2
+    ],
+    [
+     59.6,
+     15.4
+    ],
+    [
+     59.8,
+     22.4
+    ],
+    [
+     59.8,
+     23.6
+    ],
+    [
+     60,
+     18.8
+    ],
+    [
+     60,
+     20
+    ],
+    [
+     60.2,
+     16
+    ],
+    [
+     60.2,
+     22.8
+    ],
+    [
+     61.4,
+     17.4
+    ],
+    [
+     61.4,
+     22.4
+    ],
+    [
+     61.6,
+     21
+    ],
+    [
+     61.6,
+     22.2
+    ],
+    [
+     61.8,
+     19.4
+    ],
+    [
+     61.8,
+     19.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "requirement",
+   "type": 1,
+   "id": 2183,
+   "name": "Stormscale Warrior",
+   "coord": [
+    61.2,
+    19.8
+   ],
+   "coords": [
+    [
+     59.4,
+     19
+    ],
+    [
+     60,
+     18.2
+    ],
+    [
+     60.2,
+     20.3
+    ],
+    [
+     60.2,
+     22.2
+    ],
+    [
+     60.2,
+     22.6
+    ],
+    [
+     60.4,
+     18.8
+    ],
+    [
+     60.4,
+     21.4
+    ],
+    [
+     60.8,
+     23.2
+    ],
+    [
+     61,
+     20.8
+    ],
+    [
+     61,
+     21.6
+    ],
+    [
+     61,
+     23.6
+    ],
+    [
+     61.2,
+     18.4
+    ],
+    [
+     61.2,
+     18.6
+    ],
+    [
+     61.2,
+     19.8
+    ],
+    [
+     61.4,
+     17.4
+    ],
+    [
+     61.6,
+     18.4
+    ],
+    [
+     61.6,
+     19.2
+    ],
+    [
+     61.8,
+     21.4
+    ],
+    [
+     61.8,
+     22.2
+    ],
+    [
+     62.2,
+     20.3
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-06T13:59:24-05:00",
+   "body": "Pretty straightforward quest. The warriors are a bit deeper into the area, so you want to fight your way in and not just stay outside targeting myrmidons and sorceresses.\r\n\r\n\r\nMake sure to pick [quest=951] from Onu to combine with this quest. These relics are found all over the ruins, some looking like chalices and some like fallen vases. [u]Note, that currently in Forever,[item=5332] only spawns a level 1 cat with 42 Health[/u]  making it essentially useless, so feel free to skip all the [url=https://www.wowhead.com/forever/object=13359/cat-figurine#map]Cat Figurines[/url] you come across.\r\n\r\nYou'll also loot plenty of [item=279276] while doing this. Combine [b]20[/b] of them and head out to [b]59, 22[/b] to use the amulet by the [b]Fathom Stone[/b] to unlock another [url=https://www.wowhead.com/forever/quest=98028/baron-marinous]new quest[/url]. This spawns an elite who drops [item=279275], and everyone in the group is eligible to loot it, so don't hesitate to invite nearby players for this one.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-18T03:52:40-05:00",
+   "body": "Needs [quest=950]",
+   "replies": []
+  }
+ ]
+}

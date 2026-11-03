@@ -1,0 +1,151 @@
+{
+ "id": 86585,
+ "name": "Banner of the Fallen",
+ "level": 17,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": 38,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1250,
+ "start": {
+  "type": "npc",
+  "id": 269153,
+  "name": "Mountaineer Ylva",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    31.8,
+    86.4
+   ],
+   [
+    31.8,
+    86.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1092,
+  "name": "Captain Rugelfuss",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    23.2,
+    73.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Raise the standard of Ironforge, call out the trogg Headsplitter and kill it, then report to Captain Rugelfuss . Banner of Ironforge (Provided)  ( 1 )   Headsplitter slain  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 269185,
+   "name": "Headsplitter",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 253247,
+   "name": "Banner of Ironforge",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Headsplitter slain",
+   "count": 1,
+   "type": "npc",
+   "id": 269185
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 269153,
+   "name": "Mountaineer Ylva",
+   "coord": [
+    31.8,
+    86.4
+   ],
+   "coords": [
+    [
+     31.8,
+     86.4
+    ],
+    [
+     31.8,
+     86.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 1092,
+   "name": "Captain Rugelfuss",
+   "coord": [
+    23.2,
+    73.8
+   ],
+   "coords": [
+    [
+     23.2,
+     73.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "requirement",
+   "type": 1,
+   "id": 269185,
+   "name": "Headsplitter",
+   "coord": [
+    31.5,
+    85.6
+   ],
+   "coords": [
+    [
+     31.5,
+     85.6
+    ],
+    [
+     32.1,
+     87.1
+    ],
+    [
+     32.8,
+     87.9
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 6,
+   "date": "2026-09-23T03:40:20-05:00",
+   "body": "Pick the banner up and plunk it down exactly where you found it, next to [npc=269153]. A wave of level 12-14 troggs will start entering the cave from both sides one to two mobs at a time. Clear these waves, and [npc=269185] (level 16) will spawn and run towards you. The banner has only a 30 second cooldown and it doesn't disappear upon use, so if you miss the tag, you can just attempt again.\r\n\r\nI did the quest twice, and both times the boss trogg spawned in at the side that leads to the ramp that starts from the cave entrance where [npc=1205] and his companions spawn in.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-18T23:59:51-05:00",
+   "body": "Turn into [npc=1092] at the Valley of Kings bunker where you get all the other trogg related quests (He gives [quest=267] & [quest=217] respectively). He's up top looking out a window facing the signpost.\r\nJust putting this here incase you missed the info up top or under Quick Facts or wanted more specific info as I admit I was a bit confused at first glance on where to go.",
+   "replies": []
+  }
+ ]
+}

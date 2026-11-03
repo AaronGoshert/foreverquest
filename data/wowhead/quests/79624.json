@@ -1,0 +1,83 @@
+{
+ "id": 79624,
+ "name": "Anyone Can Cook",
+ "level": 40,
+ "reqlevel": 32,
+ "side": 3,
+ "zoneId": 45,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 1550,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 217300,
+  "name": "Skonk",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    57.4,
+    74.4
+   ],
+   [
+    57.6,
+    74.4
+   ],
+   [
+    57.6,
+    74.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Find an ogre who can read the Illegible Recipe . Illegible Recipe  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 213422,
+   "name": "Illegible Recipe",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Illegible Recipe",
+   "count": 1,
+   "type": "item",
+   "id": 213422
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 1,
+   "id": 217300,
+   "name": "Skonk",
+   "coord": [
+    57.6,
+    74.6
+   ],
+   "coords": [
+    [
+     57.4,
+     74.4
+    ],
+    [
+     57.6,
+     74.4
+    ],
+    [
+     57.6,
+     74.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

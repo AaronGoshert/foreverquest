@@ -1,0 +1,257 @@
+{
+ "id": 5248,
+ "name": "Tormented By the Past",
+ "level": 58,
+ "reqlevel": 53,
+ "side": 1,
+ "zoneId": 139,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 4650,
+ "start": {
+  "type": "npc",
+  "id": 10304,
+  "name": "Aurora Skycaller",
+  "zone": "Eastern Plaguelands",
+  "zoneId": 139,
+  "coords": [
+   [
+    53.4,
+    22
+   ],
+   [
+    53.6,
+    22
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 10684,
+  "name": "Remorseful Highborne",
+  "zone": "Winterspring",
+  "zoneId": 618,
+  "coords": [
+   [
+    56,
+    44.6
+   ],
+   [
+    56.2,
+    43.4
+   ],
+   [
+    56.2,
+    44.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.31727",
+ "objectiveText": "Take the Crystal of Zin-Malor to Lake Kel'Theril in Winterspring and find a highborne spirit that will speak to you. Crystal of Zin-Malor (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 13347,
+   "name": "Crystal of Zin-Malor",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  5248,
+  5252,
+  5253
+ ],
+ "points": [
+  {
+   "zoneId": 139,
+   "zone": "Eastern Plaguelands",
+   "point": "start",
+   "type": 1,
+   "id": 10304,
+   "name": "Aurora Skycaller",
+   "coord": [
+    53.4,
+    22
+   ],
+   "coords": [
+    [
+     53.4,
+     22
+    ],
+    [
+     53.6,
+     22
+    ]
+   ]
+  },
+  {
+   "zoneId": 618,
+   "zone": "Winterspring",
+   "point": "end",
+   "type": 1,
+   "id": 10684,
+   "name": "Remorseful Highborne",
+   "coord": [
+    56.2,
+    44.4
+   ],
+   "coords": [
+    [
+     56,
+     44.6
+    ],
+    [
+     56.2,
+     43.4
+    ],
+    [
+     56.2,
+     44.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 31,
+   "date": "2005-10-22T09:58:23-05:00",
+   "body": "the location of the highbourne is 56,44",
+   "replies": [
+    "Leave Everlook, and head straight for the lake. It is slightly south of due west of Everlook. Try to hit the shore in the middle of the lake. On your left there will be a glowing blue thing in the ice. It is in front of a building that has the \"Remorseful Highborn\" you are looking for. Circle wide to the right of the building and you will need to kill only one Highborn Ghost."
+   ]
+  },
+  {
+   "rating": 15,
+   "date": "2005-10-22T09:58:23-05:00",
+   "body": "The \"Remorseful Highborn\" is on the East/SE edge of the frozen lake inside an open-walled building.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2005-12-13T04:18:02-06:00",
+   "body": "The coords are 56,44. They are the Ruins of Kel'Theril shown on your map. The Remorseful Highborne wanders inside.\n\nEdited, Mon Dec 12 22:24:30 2005",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-10-22T09:58:23-05:00",
+   "body": "You get it after completing the two Fragments of the Past quests (level 56 and 57)",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-10-21T15:51:03-05:00",
+   "body": "The Remorseful Highborne is at 56, 44. That's in one of the buildings on the southeast side of the lake.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-04-26T14:20:44-05:00",
+   "body": "Prior step is https://www.wowhead.com/forever/quest=5247",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-01-03T09:58:23-06:00",
+   "body": "When you talk to highborne spirit behind the building, you see yellow ? above her head.\nAfter talking you can leave the place safe for some time. Alle spirits around you are suddenly green for 20 seconds or so, so you can walk easy and safe away without aggro risk :)\n\nEquip is not needed. Just talk.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-03-01T14:35:44-06:00",
+   "body": "talk to the Remoseful Highborne in the ruins just southeast of the lake \n\n[npc=10684]",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-22T09:58:23-05:00",
+   "body": "The map link above is quite helpful also\n\nAnoel\n\nEdit: 5/11/07 Clicking on Remorseful Highborn above will show the general area.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-05-29T09:58:23-05:00",
+   "body": "You don't equip the item just talk to the spirit.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-22T09:58:23-05:00",
+   "body": "I found the spirit saw that i was supposed to be able to speak to her but could not. I equipped the crystal, it drained my health, killed me, I returned ressurected then I could speak to her. I don't know if this is just a bug for me or if it will happen again. Just FYI",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-26T11:54:10-05:00",
+   "body": "This quest leads to\n\n[quest=5252] in turn leads to\n\n[quest=5253]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-28T19:57:17-05:00",
+   "body": "this is wrong to say it leads to the crystal of zin-malor it really leads to \"remorseful highborne\" speak with Wynd Nightchaser in Starfall village Winterspring",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-05T00:02:33-05:00",
+   "body": "56,44 in one of the ruins to the south east of the lake. Pretty much where the ruin icon is on the map.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-29T09:44:26-05:00",
+   "body": "4650 EXP @ lvl 55\n\nleads to:\n[quest=5252] Fri Apr 29 05:49:23 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-28T18:08:09-05:00",
+   "body": "gained 4650 exp and 25 faction to alliance for this quest at 53",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-26T18:35:43-06:00",
+   "body": "does the trinket still exist?",
+   "replies": [
+    "yes this quest item still exsists as of Dec 7th...\n\n cause Im doing it right now on my hunter out of boredom"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-10-22T09:58:23-05:00",
+   "body": "5 parts actually fragments of the past",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-09-03T21:59:53-05:00",
+   "body": "at level 60 each step reward was at least 2.5gold",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-03-17T09:58:23-06:00",
+   "body": "How much rep do you get? If it all?",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-08-10T09:58:23-05:00",
+   "body": "Yes this quest is part of a chain. You get it from Winterspring Jaron Something or rather",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-09-15T21:58:23-05:00",
+   "body": "what are you sopose to do when you accidently click on the crystal and it is now a buff that keeps killing you and you cant get rid of it",
+   "replies": [
+    "take the trinket off. For those that understand the power of this trinket......they will never complete this quest.\n\n;]"
+   ]
+  }
+ ]
+}

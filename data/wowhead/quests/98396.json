@@ -1,0 +1,184 @@
+{
+ "id": 98396,
+ "name": "The Great Cat Spirit",
+ "level": 20,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": -263,
+ "reqclass": 1024,
+ "status": "new",
+ "xp": 780,
+ "start": {
+  "type": "npc",
+  "id": 11957,
+  "name": "Great Cat Spirit",
+  "zone": "Moonglade",
+  "zoneId": 493,
+  "coords": [
+   [
+    54.4,
+    75
+   ],
+   [
+    54.5,
+    74.8
+   ],
+   [
+    58.4,
+    73.2
+   ],
+   [
+    58.4,
+    73.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11957,
+  "name": "Great Cat Spirit",
+  "zone": "Moonglade",
+  "zoneId": 493,
+  "coords": [
+   [
+    54.4,
+    75
+   ],
+   [
+    54.5,
+    74.8
+   ],
+   [
+    58.4,
+    73.2
+   ],
+   [
+    58.4,
+    73.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Recover the Relic of the Fang , Relic of the Claw , and Relic of the Silent Shadow from the Stormrage Barrow Den, and return them to the Great Cat Spirit . Relic of the Fang  ( 1 ) Relic of the Claw  ( 1 ) Relic of the Silent Shadow  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 280502,
+   "name": "Relic of the Fang",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 11957,
+   "name": "Great Cat Spirit",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 280679,
+   "name": "Relic of the Claw",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 280680,
+   "name": "Relic of the Silent Shadow",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Relic of the Fang",
+   "count": 1,
+   "type": "item",
+   "id": 280502
+  },
+  {
+   "text": "Relic of the Claw",
+   "count": 1,
+   "type": "item",
+   "id": 280679
+  },
+  {
+   "text": "Relic of the Silent Shadow",
+   "count": 1,
+   "type": "item",
+   "id": 280680
+  }
+ ],
+ "series": [
+  98393,
+  98394,
+  98396,
+  98731,
+  98397
+ ],
+ "points": [
+  {
+   "zoneId": 493,
+   "zone": "Moonglade",
+   "point": "start",
+   "type": 1,
+   "id": 11957,
+   "name": "Great Cat Spirit",
+   "coord": [
+    54.5,
+    74.8
+   ],
+   "coords": [
+    [
+     54.4,
+     75
+    ],
+    [
+     54.5,
+     74.8
+    ],
+    [
+     58.4,
+     73.2
+    ],
+    [
+     58.4,
+     73.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 493,
+   "zone": "Moonglade",
+   "point": "end",
+   "type": 1,
+   "id": 11957,
+   "name": "Great Cat Spirit",
+   "coord": [
+    54.5,
+    74.8
+   ],
+   "coords": [
+    [
+     54.4,
+     75
+    ],
+    [
+     54.5,
+     74.8
+    ],
+    [
+     58.4,
+     73.2
+    ],
+    [
+     58.4,
+     73.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": []
+}

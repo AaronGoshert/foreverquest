@@ -1,0 +1,228 @@
+{
+ "id": 98042,
+ "name": "It's All Fun and Games Until...",
+ "level": 17,
+ "reqlevel": 12,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1250,
+ "start": {
+  "type": "object",
+  "id": 12666,
+  "name": "Twilight Tome",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    38.6,
+    86.1
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3649,
+  "name": "Thundris Windweaver",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    37.4,
+    40.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Obtain a Peerless Eye from a Twilight Disciple or Thug at the Master's Glaive in Darkshore and find someone in Auberdine who is willing to take it. Peerless Eye  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 279279,
+   "name": "Peerless Eye",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Peerless Eye",
+   "count": 1,
+   "type": "item",
+   "id": 279279
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 2,
+   "id": 12666,
+   "name": "Twilight Tome",
+   "coord": [
+    38.6,
+    86.1
+   ],
+   "coords": [
+    [
+     38.6,
+     86.1
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 3649,
+   "name": "Thundris Windweaver",
+   "coord": [
+    37.4,
+    40.2
+   ],
+   "coords": [
+    [
+     37.4,
+     40.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2338,
+   "name": "Twilight Disciple",
+   "coord": [
+    38.6,
+    87.4
+   ],
+   "coords": [
+    [
+     38.2,
+     85.4
+    ],
+    [
+     38.4,
+     86.2
+    ],
+    [
+     38.4,
+     87.4
+    ],
+    [
+     38.4,
+     87.6
+    ],
+    [
+     38.6,
+     87.4
+    ],
+    [
+     38.8,
+     87.6
+    ],
+    [
+     39.4,
+     85.4
+    ],
+    [
+     39.4,
+     85.6
+    ],
+    [
+     39.6,
+     86
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2339,
+   "name": "Twilight Thug",
+   "coord": [
+    38.6,
+    87.4
+   ],
+   "coords": [
+    [
+     38.4,
+     85.4
+    ],
+    [
+     38.4,
+     86.2
+    ],
+    [
+     38.4,
+     87.4
+    ],
+    [
+     38.4,
+     87.6
+    ],
+    [
+     38.6,
+     87.4
+    ],
+    [
+     38.8,
+     87.6
+    ],
+    [
+     39.4,
+     85.4
+    ],
+    [
+     39.4,
+     85.6
+    ],
+    [
+     39.6,
+     85.4
+    ],
+    [
+     39.6,
+     86
+    ],
+    [
+     55.4,
+     36
+    ],
+    [
+     55.4,
+     36.6
+    ],
+    [
+     56.4,
+     35
+    ],
+    [
+     56.6,
+     34.8
+    ],
+    [
+     56.8,
+     34.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-06T14:38:30-05:00",
+   "body": "Relatively low drop rate. Expect to grind them for a while. Took me 8 kills, but a guild mate got his in 19.\r\n\r\nDon't pull too many at a time unless you can interrupt. The [b]disciples[/b] heal a lot, and fights might start dragging on otherwise.\r\n\r\nEven when you get it, you may want to continue grinding the mobs until they drop [item=5352]. This starts a new quest that you simply turn in for [b]1950 XP[/b] and some reputation. The drop rate for this book appears to be even lower, though. I didn't track my kills for this, but I spent around 35 minutes just grinding non-stop whereas the eye only dropped after a few.",
+   "replies": []
+  }
+ ]
+}

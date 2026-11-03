@@ -1,0 +1,688 @@
+{
+ "id": 96137,
+ "name": "Ira's Dagger",
+ "level": 25,
+ "reqlevel": 18,
+ "side": 1,
+ "zoneId": 10,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2000,
+ "start": {
+  "type": "npc",
+  "id": 6176,
+  "name": "Bath'rah the Windwatcher",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    80.2,
+    62.6
+   ],
+   [
+    80.4,
+    66.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 268,
+  "name": "Sirra Von'Indi",
+  "zone": "Duskwood",
+  "zoneId": 10,
+  "coords": [
+   [
+    72.4,
+    47.4
+   ],
+   [
+    72.4,
+    47.6
+   ],
+   [
+    72.6,
+    47.4
+   ],
+   [
+    72.6,
+    47.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Defeat 10 Young Black Ravagers and 7 Black Ravagers then return to Sirra Von'Indi in Darkshire for more information.   Young Black Ravager slain  ( 10 )   Black Ravager slain  ( 7 ) Ira's Dagger (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 923,
+   "name": "Young Black Ravagers",
+   "count": 10,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 628,
+   "name": "Black Ravager",
+   "count": 7,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 281143,
+   "name": "Ira's Dagger",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Young Black Ravager slain",
+   "count": 10,
+   "type": "npc",
+   "id": 923
+  },
+  {
+   "text": "Black Ravager slain",
+   "count": 7,
+   "type": "npc",
+   "id": 628
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 6176,
+   "name": "Bath'rah the Windwatcher",
+   "coord": [
+    80.4,
+    66.8
+   ],
+   "coords": [
+    [
+     80.2,
+     62.6
+    ],
+    [
+     80.4,
+     66.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "end",
+   "type": 1,
+   "id": 268,
+   "name": "Sirra Von'Indi",
+   "coord": [
+    72.6,
+    47.6
+   ],
+   "coords": [
+    [
+     72.4,
+     47.4
+    ],
+    [
+     72.4,
+     47.6
+    ],
+    [
+     72.6,
+     47.4
+    ],
+    [
+     72.6,
+     47.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "requirement",
+   "type": 1,
+   "id": 628,
+   "name": "Black Ravager",
+   "coord": [
+    54.7,
+    58.9
+   ],
+   "coords": [
+    [
+     46.7,
+     62.6
+    ],
+    [
+     47.4,
+     60.8
+    ],
+    [
+     47.6,
+     61.6
+    ],
+    [
+     47.8,
+     61.2
+    ],
+    [
+     49.4,
+     62.1
+    ],
+    [
+     49.8,
+     61.8
+    ],
+    [
+     51.4,
+     60.7
+    ],
+    [
+     52,
+     60.5
+    ],
+    [
+     52.2,
+     60
+    ],
+    [
+     52.4,
+     59
+    ],
+    [
+     52.4,
+     64
+    ],
+    [
+     52.6,
+     59.2
+    ],
+    [
+     52.8,
+     60
+    ],
+    [
+     52.8,
+     63.6
+    ],
+    [
+     53,
+     60.6
+    ],
+    [
+     53.6,
+     63.4
+    ],
+    [
+     53.8,
+     60.6
+    ],
+    [
+     54,
+     59.8
+    ],
+    [
+     54,
+     61.8
+    ],
+    [
+     54.2,
+     58.4
+    ],
+    [
+     54.4,
+     59
+    ],
+    [
+     54.7,
+     58.9
+    ],
+    [
+     54.8,
+     63.4
+    ],
+    [
+     55.1,
+     58.4
+    ],
+    [
+     55.4,
+     61
+    ],
+    [
+     55.5,
+     62.4
+    ],
+    [
+     55.8,
+     58
+    ],
+    [
+     55.8,
+     58.6
+    ],
+    [
+     57.9,
+     59.1
+    ],
+    [
+     58.4,
+     58.2
+    ],
+    [
+     58.8,
+     57.2
+    ],
+    [
+     58.8,
+     59.6
+    ],
+    [
+     58.9,
+     58.2
+    ],
+    [
+     58.9,
+     58.7
+    ],
+    [
+     59.6,
+     58.2
+    ],
+    [
+     59.6,
+     59
+    ],
+    [
+     60,
+     60.2
+    ],
+    [
+     60.4,
+     60.5
+    ],
+    [
+     63.2,
+     25.4
+    ],
+    [
+     64.4,
+     26.4
+    ],
+    [
+     64.4,
+     26.6
+    ],
+    [
+     64.4,
+     27.6
+    ],
+    [
+     64.6,
+     25.2
+    ],
+    [
+     64.8,
+     27.4
+    ],
+    [
+     64.9,
+     27.7
+    ],
+    [
+     65.4,
+     26.4
+    ],
+    [
+     65.4,
+     28.8
+    ],
+    [
+     65.4,
+     29.5
+    ],
+    [
+     65.5,
+     26.4
+    ],
+    [
+     65.6,
+     27.4
+    ],
+    [
+     65.6,
+     29.4
+    ],
+    [
+     65.8,
+     27.5
+    ],
+    [
+     66.1,
+     29.7
+    ],
+    [
+     66.4,
+     30.6
+    ],
+    [
+     66.4,
+     32.4
+    ],
+    [
+     66.6,
+     25.8
+    ],
+    [
+     66.6,
+     31.6
+    ],
+    [
+     66.9,
+     26.8
+    ],
+    [
+     67,
+     30.2
+    ],
+    [
+     67,
+     31.2
+    ],
+    [
+     67.6,
+     30.4
+    ],
+    [
+     67.6,
+     32
+    ],
+    [
+     67.7,
+     31
+    ],
+    [
+     68,
+     33.2
+    ],
+    [
+     68.2,
+     34
+    ],
+    [
+     68.2,
+     35.1
+    ],
+    [
+     68.6,
+     33.2
+    ],
+    [
+     68.8,
+     27.2
+    ],
+    [
+     69,
+     35.2
+    ],
+    [
+     69,
+     37
+    ],
+    [
+     69.2,
+     34
+    ],
+    [
+     69.4,
+     35.8
+    ],
+    [
+     69.6,
+     26
+    ],
+    [
+     69.6,
+     35.2
+    ],
+    [
+     69.6,
+     36.2
+    ],
+    [
+     69.8,
+     36.9
+    ],
+    [
+     69.9,
+     26.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "requirement",
+   "type": 1,
+   "id": 923,
+   "name": "Young Black Ravager",
+   "coord": [
+    23.8,
+    79
+   ],
+   "coords": [
+    [
+     21.8,
+     68.2
+    ],
+    [
+     23.8,
+     79
+    ],
+    [
+     26.2,
+     66.8
+    ],
+    [
+     30.4,
+     62.4
+    ],
+    [
+     38.8,
+     65.4
+    ],
+    [
+     39.8,
+     64.2
+    ],
+    [
+     40.2,
+     64.6
+    ],
+    [
+     42.2,
+     72.6
+    ],
+    [
+     47.4,
+     66.2
+    ],
+    [
+     47.4,
+     70
+    ],
+    [
+     48,
+     66.6
+    ],
+    [
+     48.2,
+     62
+    ],
+    [
+     48.2,
+     62.8
+    ],
+    [
+     48.2,
+     66.2
+    ],
+    [
+     48.2,
+     69.8
+    ],
+    [
+     48.4,
+     65.4
+    ],
+    [
+     48.6,
+     65.4
+    ],
+    [
+     48.6,
+     66.2
+    ],
+    [
+     49.6,
+     66.2
+    ],
+    [
+     50,
+     68.8
+    ],
+    [
+     51.6,
+     64.6
+    ],
+    [
+     52,
+     71.6
+    ],
+    [
+     52.2,
+     75.6
+    ],
+    [
+     52.3,
+     64.4
+    ],
+    [
+     53.2,
+     73
+    ],
+    [
+     54.2,
+     74.8
+    ],
+    [
+     54.4,
+     64.7
+    ],
+    [
+     54.5,
+     64.8
+    ],
+    [
+     55.3,
+     60.9
+    ],
+    [
+     55.7,
+     61.1
+    ],
+    [
+     56,
+     62.6
+    ],
+    [
+     56.6,
+     60.2
+    ],
+    [
+     56.6,
+     62.1
+    ],
+    [
+     56.8,
+     62.5
+    ],
+    [
+     59.4,
+     60.2
+    ],
+    [
+     59.6,
+     60.4
+    ],
+    [
+     59.8,
+     60.6
+    ],
+    [
+     60.5,
+     58.4
+    ],
+    [
+     60.6,
+     58.8
+    ],
+    [
+     66.2,
+     26
+    ],
+    [
+     66.8,
+     24.8
+    ],
+    [
+     68,
+     27.8
+    ],
+    [
+     68.3,
+     29.1
+    ],
+    [
+     68.6,
+     29.4
+    ],
+    [
+     69.2,
+     29.8
+    ],
+    [
+     69.3,
+     27.2
+    ],
+    [
+     70,
+     31
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-22T11:54:41-05:00",
+   "body": "In the Beta, this quest can be acquired from [url=https://www.wowhead.com/forever/npc=6176/bathrah-the-windwatcher]Bathrah the Windwatcher[/url]. Might be a bug idk",
+   "replies": [
+    "Can confirm. However it is likely intended and available from looting the dagger from this NPC [url=https://www.wowhead.com/forever/npc=272260/lost-stalker]Lost Stalker[/url] who is the ghost of Ira Valor."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-18T23:42:48-05:00",
+   "body": "Got the dagger to start the quest from the Lost Stalker a ghost of a defias stalker area was around 52 60 or so just wandering around at night.",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,345 @@
+{
+ "id": 894,
+ "name": "Samophlange",
+ "level": 14,
+ "reqlevel": 10,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 740,
+ "start": {
+  "type": "npc",
+  "id": 3442,
+  "name": "Sputtervalve",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    63,
+    37.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 4141,
+  "name": "Control Console",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    52.4,
+    11.7
+   ],
+   [
+    52.5,
+    11.7
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Access the control console at the Venture Company research site.",
+ "objectives": [
+  {
+   "type": "object",
+   "id": 4141,
+   "name": "control console",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5088,
+   "name": "Control Console Operating Manual",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Control Console Operating Manual",
+   "count": 1,
+   "type": "item",
+   "id": 5088
+  }
+ ],
+ "series": [
+  894,
+  900,
+  901,
+  902
+ ],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 3442,
+   "name": "Sputtervalve",
+   "coord": [
+    63,
+    37.2
+   ],
+   "coords": [
+    [
+     63,
+     37.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 2,
+   "id": 4141,
+   "name": "Control Console",
+   "coord": [
+    52.4,
+    11.7
+   ],
+   "coords": [
+    [
+     52.4,
+     11.7
+    ],
+    [
+     52.5,
+     11.7
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 72,
+   "date": "2007-02-24T22:19:55-06:00",
+   "body": "As the single most frustrating (next to the voidwalker quest) in the game.&nbsp; Since pretty much every Horde ends up in the Barrens, I have now done this quest as six different classes and it never gets less frustrating, though I have the method down pat and no longer pull my hair out after forgetting a step.\n\nThe location has been confirmed several times.&nbsp; Go north out of XR and past the road to Durotar.&nbsp; Before it curves left heading for Ashenvale, head northeast and you'll see a house up on a hill and a smaller structure with three tanks to the west of it (an identical version is in Ratchet in the shop where you get the Freebooters quest.&nbsp; Do the following in this exact order.\n\nApproach from the south of the 3 tank thingy.&nbsp; The control console should be in front of you.&nbsp; Kill the five mobs nearest the console and DON'T LOOT ANYTHING.&nbsp; The respawn rate is bad enough without speeding it up by looting.&nbsp; Loot only what is left after you're ready to get the key.&nbsp; Right-click on the console and you'll get a Quest 2 to turn off the 3 valves.&nbsp; \n\nThe valves are on the other three sides of the three tank thingy.&nbsp; they are near the ground and look like little wheels with steam coming out from them.&nbsp; You'll have to kill the 3-5 mobs around each one and there will most likely be a couple of them right next to each other that spawn after you kill all the mobs in step one.&nbsp; I prefer going counterclockwise to turn off the east, north and west valves, but you can go the opposite way if it turns you on.&nbsp; Once all the valves are off you get to head back to the control console again.\n\nBy the time you turn off all three valves all the mobs by the console will have respawned.&nbsp; Deal with it.&nbsp; Also, you might want to keep a slowing spell or an instant cast kill spell handy for when the mobs are about 1/4 life, because that's when they bolt and get help.&nbsp; I kept pulling 10 mobs in sequence as a Warrior because I kept forgetting to get in Battle stance to use Hamstring, and kept getting adds this way.&nbsp; Keep an eye on that health bar, and as it approaches 25%, use your most powerful cast and then an insta-kill spell to fry that sucker.&nbsp; You'll be glad you did.\n\nBack to our story: step three is to go back to the control console, killing the same five mobs you already killed, only to find out upon right-clicking the console that you need the key. What can I say? Blizzard is full of sadistic bastards that were probably laughing their asses off while programming this.&nbsp; So accept part three of the quest: \"I am going to kill the whole QA department by drowning them in my accumulated bile\".\n\nThe key is held by a level 16 goblin in the little house on top of the hill to the east.&nbsp; You will have to take care of the 5-6 mobs on the hill and in front of the house first.&nbsp; You can either charge in the house as a warrior or blast him from outside as a mage, but just kill him and get the key. The key DOES NOT SHOW UP IN YOUR INVENTORY, so make sure you've got it or get a mod that tells you so.&nbsp; \n\nRun back to the control console and kill the same five mobs a third time to access it.&nbsp; Then right-click on the console to remove the samophlange.&nbsp; You'll need to click twice to open the panel with the key and then remove the samophlange.&nbsp; Then loot anything still sparkling and get the hell out of there.&nbsp; You may want to yell: \"I FINISHED YOUR STUPID QUEST YOU SONS OF A MOTHERLESS OGRE\".&nbsp; It made me feel better.&nbsp; Your mileage may vary.",
+   "replies": [
+    "Saving lives more than 12 years later."
+   ]
+  },
+  {
+   "rating": 49,
+   "date": "2005-10-01T22:19:55-05:00",
+   "body": "loc 52.12",
+   "replies": []
+  },
+  {
+   "rating": 38,
+   "date": "2006-09-15T01:53:56-05:00",
+   "body": "The control panel is at coordinates: 52x,11y in The Barrens.\r\n\r\n-Kbizzle",
+   "replies": [
+    "Above coords are correct. Becareful, the mobs \"run away in fear\" at about 45% HP.. and they usually come back with some friends. It wasn't difficult just annoying for a level 14 druid."
+   ]
+  },
+  {
+   "rating": 21,
+   "date": "2007-03-08T15:54:15-06:00",
+   "body": "This is also available to the Alliance.",
+   "replies": []
+  },
+  {
+   "rating": 20,
+   "date": "2005-12-13T22:19:55-06:00",
+   "body": "This concerns the first of the Samouphlage quests. Don't think the large structure in the swamp is where you have to look for the samouphlage. The hut is southwest of the swamp, just like it says in the quest description, but you might miss it if you go there from Crossroads.\n\nThe hut you are looking for is a small house with octagonal base area, a red pointy roof, and some sort of machinery with a small tower south of it.",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2006-05-08T22:19:55-05:00",
+   "body": "OK, Lets make this as simple as possible.\nGo to the Samophlange. You will see 2 different buildings. Go to the little house and inside you will find a control panel, pull each lever. Now go down to the area with the greenish tanks are, this is where you have to go to shut off valves.\nGo to the control panel and pull levers down. Then shut off the valves (3) that are around the sides of the tanks.\nNow go to the small building and kill the little guy inside again, he has the key.\nThen\nGo back to the control panel and insert the key into the control panel at the greenish liquid area; this completes this leg of the task. You will be told to go to Rachet�..\n\nSounds complicated, but really not.\nI was lvl 15 warrior and died at least 10 times. You might want to bring some help.\n\nGood luck!",
+   "replies": [
+    "I was doing this quest merely as a boredom breaker and due to the fact I was trying to increase my Ratchet and Booty Bay reputation, and being a level 60 made it obviously not much of a challenge. However, it was incredibly misleading and took me a half an hour of searching before I finally became frustrated and looked it up here on thottbot to find out what hell was going on.\n\nNeedless to say, IGNORE THE MAIN FACILITY OVER THE WATER for this quest. It has absolutely nothing to do with it. The two small buildings due west of this main facility is where everything is located:\n\nThe smallest, fur"
+   ]
+  },
+  {
+   "rating": 11,
+   "date": "2006-12-07T19:48:51-06:00",
+   "body": "Theirs a smoke tower, you can't miss it, it's not inside the sludge fen tho.",
+   "replies": [
+    "It'a at the end of the mountains WSW of The Sludge Fen (North edge of the gap). Co-ords 52,11"
+   ]
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-01T22:19:55-05:00",
+   "body": "I just finished this one solo with my 16 Druid. Not too hard, but interesting nonetheless.\n\nTIP: You may see the hut first. There is a small machine inside next to the guy you kill *later* for the key. The real machine is larger with cylindrical aqua-colored fuel tanks... located just past the hut out in the open. This is where you go first.\n\nbbb",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-01T22:19:55-05:00",
+   "body": "Once you are there what do you do with it?&nbsp; I can not find anything there to click on.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-10-01T22:19:55-05:00",
+   "body": "When you first approach the machinery, you go to the equipment with the chimney and access the control panel in the front.&nbsp; It will then instruct you to turn off three valves. THESE VALVES MUST BE TURNED OFF BEFORE YOU GO LOOKING FOR A KEY.&nbsp; The Valves are on the outside of that same equipment building on the left, right and back.&nbsp; Once done you go back inside and are then instructed to get a key.&nbsp; THAT'S WHEN YOU GO TO THE LITTLE HOUSE (on the right up the hill) --- kill the guy inside who drops the key.&nbsp; Then it's back to the control panel for the final shut down.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-01-19T10:19:55-06:00",
+   "body": "[b]Loc 52,12 in the Barrens[/b]\n\nJust to clarify. The quest is in 4 Parts at the loc above. As already said, ignore the big compound.\n\nPart one goto the Loc above. Access the control pannel. \n\nPart two, go behind the building and turn off the 3 valves and go back to the control pannel.\n\nPart three, go to the little hut, kill the guy inside, get his key. Go back to the control pannel.\n\nPart four, take quest back.\n\nJust do parts 1 - 3 quickly because the spawn time on these guys is fast and the mobs around the control pannel are large althought of a low level.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-04-21T23:33:46-05:00",
+   "body": "52,12",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-02T10:19:55-05:00",
+   "body": "I have a hard time finding places based on the name or coordinates in spite of having all the right tools. i'm a visual kinda guy so numbers don't thrill me.&nbsp; After locating the place I decided to make a screenshot to make it all a little clearer. let me know if you have any issues with it. I added a few overlays showing the control panel and the knobs your aiming for. along with a few text overlays.\npapabear",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-05-17T09:16:19-05:00",
+   "body": "I did this with a lvl 16 druid and a buddy a week ago. I had tried to solo it but failed. The problem was with the adds, as it has been pointed out that the mobs run for help with quite a bit of life left. So it was not so much tough mobs but time-consuming to deal with the adds and drink up as I used wrath and moonfire to kill the runners. And because the respawn rate is higher than usual, I was busy clearing out mobs and constantly got interrupted at the controls. My buddy (a lvl 19 mage) took care of the mobs while I concentrated on the controls.\n\nI did this again with a lvl 20 hunter (beast mastery) soloing last night and completed it without much problem. In stead of sending in the pet, I'd shoot a mob at max range and let it come to me. My pet (a cat) was set to protect me so it would fight the mob once it started to hit the hunter. The hunter would join the melee. When the mob ran, the pet gave chase and hunter stayed and would shoot once the mob got far away enough. With that I never got any adds. I also did not loot so that I could keep ahead of the respawn. I was attacked by two respawns when I was working on the last control, which I took care of with my pet and I in melee. I imagine this tatic would work for lower level hunters and locks as well, though it would take longer to dispatch the mobs. I thought of sending in the pet to agro the mobs and lead them away from the controls, but I love it too much to sacrafice it that way.\n\nHope this helps.\n\n[i][small]Edited, May 17th 2007  8:48am by crewser[/small][/i]\n\n[i][small]Edited, May 17th 2007  8:53am by crewser[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-03-05T07:35:50-06:00",
+   "body": "The 52,11 coordinates are correct, Don't pay attention to these posted by mckaysalisbury are like, way down south, and one's in feralas...  Anyway, yeah, 52,11, easy quest :) BE PREPARED TO WALK ALOT! You walk all over the map for this one.",
+   "replies": [
+    "[quote=Kithylin]The 52,11 coordinates are correct, Don't pay attention to these posted by mckaysalisbury are like, way down south, and one's in feralas...  Anyway, yeah, 52,11, easy quest :) BE PREPARED TO WALK ALOT! You walk all over the map for this one.[/quote]\n\n[quote]52.40, 11.64 [/quote]\n\nLet's use our brain and round down his numbers, shall we?"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-21T05:48:28-05:00",
+   "body": "Yes, the quest is available to the alliance side also.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-08T22:19:55-05:00",
+   "body": "\"Go to the little house and inside you will find a control panel, pull each lever.\" \n\nYou do not need to do this step.\n\nAlso, did this quest as a lvl 13 druid, didn't die once... only difficult part is they run so make sure to pull them back.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-19T10:19:55-06:00",
+   "body": "Can someone tell me where to left the quest?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-24T22:19:55-06:00",
+   "body": "Half an hour solo as lvl 18 hunter with pet.&nbsp; As long as u have a good gun and a good pet - no probs :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-02T10:19:55-05:00",
+   "body": "YO i got this quest sometime again and then long time after completed it and now i cant findout where to go to get my reward it doesn't even say on the quest info.I thought it was ratchet but i have searched the whole place SO does anyone no where i got it or where i go to get the reward?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-17T17:08:11-06:00",
+   "body": "52,11 for all those with Cosmos. and its just as the road veers off to the nortwest towards ashenvale, its to the northeast near the hills.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-27T20:46:08-05:00",
+   "body": "Actually I could take this quest as a night elf so I guess that this quest is for both sides and not for just for the horde.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-03T03:07:26-06:00",
+   "body": "Coords 52.40, 11.64\nUnderneath canopy, there's a control box.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-25T12:18:24-05:00",
+   "body": "I dont get this quest ive been up in the control room with the lvl 19 engineer but i couldnt do anything in there i really need some he lp here",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-11-17T18:02:17-06:00",
+   "body": "This quest (and the follow-up quests) are for both Alliance and Horde.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-21T06:44:51-06:00",
+   "body": "Didn't know there were 3 follow up quests after this one.  First you have to acess the control pannel, then turn off 3 values, and then go to the house next to the machine and kill some guy to get the key to the control pannel.  Take the part to some guy in Ratchet and then some lady north of crossroads (hard to find) and then get some parts to repair the item.  wow, one quest after another.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-10T23:04:12-06:00",
+   "body": "This quest is not actually at the Sludge Fen, but west of it. Not far west from the Sludge Fen Rig youll see a house and a chimney poking out on the hillside. The green tanks with the chimney is the control pannel area you will need to operat with the manual.",
+   "replies": [
+    "this is confirmed good info without coordinates"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-24T03:42:09-05:00",
+   "body": "Does anyone else feel that this quest is set a bit low, even for a warlock I cant solo this quest a lvl 15.  The mobs run at a much higher health than other mobs nearby and usually end up aggroing 2 or 3 more nearby Venture Co mobs.\n\nby the time I clear out enough to get to the valves, one respawns right next to me and interupts the access time on the valve.\n\nWhat am I doing wrong?",
+   "replies": [
+    "regardless of difficulty, it isn't set low at all. the levels on a quest don't necessarily mean that a level 14 quest can be done by any set level, it just means that the highest level mob that you should face durring that quest is the rated level. \n\nyes, even at a level 17 I've had quite a bit of difficulty with this quest, and while the mobs usually go down pretty quickly...they hit very hard for their level, and they run like crazy when they get down to even as high as 15% health.\n\n",
+    "Use your other curse. Curse of Recklessness: [spell=704]",
+    "You are right that in most cases the level of the quest denotes the highlest level of mob that you will face.  In the case of this quest it is level 14 all the way through to the last quest in the chain (I just got done with the chain).  But most of the mobs are level 15 with the last one being level 16.  So I would have to agree that this quest is decieving by saying it's a level 14 quest.",
+    "The level of the quest denotes not the level of the highest mob, but the level difficulty color. therefore, at level 14, every mob you will face will be in the yellow difficulty bracket, so the quest is yellow. That is how all quests work except ones where you will not be killing anything, in which case it denotes the 'yellow' level of the area the quest is in."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-01T17:18:33-06:00",
+   "body": "Easy quest @ lvl 16. Just go to 52,11 like buddy said and you will find it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-02T18:21:32-05:00",
+   "body": "how the hell do you get this cords and where can i find them \ni don't have the map or the cords so stop posting them everytime \ni don't know where to look with them  just simpel tell where it is",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-28T09:19:42-05:00",
+   "body": "I've been searching for hours for this control console, and I can't find it...\n\nFirst I thought it was the Control Room on top of that strange building in the middle of a dirty little black lake (NE of the Kodo Bones for the Echeyakee Quest).  But the mob levels (15-19) didn't match with the Quest level (13-15).\n\nThen I thought it had to be somewhere near Boulder Lode Mine, but no luck there either...\n\nIs there anyone who can tell me an exact location of this stupid control panel, and not just an indication like: \"It's to the NE of the Crossroads...\"  Besides, what does it look like?  \n\nPlease, a little help...  I don't have the time to spend a few hours a day playing WoW, so I'd like to advance a little faster than I am now...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-28T06:57:26-06:00",
+   "body": "The grid location is 52, 11 in the far north of the Barrens.  \n\nThe only thing to keep in mind is that there are a LOT of level 14 baddies standing around this thing.  It's not hard though.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-11-15T18:29:19-06:00",
+   "body": "Take the road north from the Crossroads.  Just as it turns northwest, head off to the northeast and you'll see a big strange machine.  Access the control panel to get the next quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-07-27T13:41:27-05:00",
+   "body": "mobs run as early as from 30% and on top of that they respawn insanely fast.... it is bugged",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-08-19T03:31:41-05:00",
+   "body": "Um... after u get it broken again you have to go to orgrimmar to get it fixed from a guy. then it begins a new quest where you go and find the pages of the manual to fix it. Just sayin. so after you finish the 4 part if you are alliance then u should abandon because you probably wont be able to get in to orgrimmar.",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "id": 94897,
+ "name": "The Fate of a Loved One",
+ "level": 11,
+ "reqlevel": 8,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 880,
+ "start": {
+  "type": "npc",
+  "id": 259012,
+  "name": "Ealaane Nimbuswalker",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    65.8,
+    74.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 259012,
+  "name": "Ealaane Nimbuswalker",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    65.8,
+    74.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Find Resaan in the Ruins of Ban'aethal. Resaan's Heirloom  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 266434,
+   "name": "Resaan's Heirloom",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Resaan's Heirloom",
+   "count": 1,
+   "type": "item",
+   "id": 266434
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 259012,
+   "name": "Ealaane Nimbuswalker",
+   "coord": [
+    65.8,
+    74.4
+   ],
+   "coords": [
+    [
+     65.8,
+     74.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 259012,
+   "name": "Ealaane Nimbuswalker",
+   "coord": [
+    65.8,
+    74.4
+   ],
+   "coords": [
+    [
+     65.8,
+     74.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 259013,
+   "name": "Resaan Nimbuswalker",
+   "coord": [
+    57,
+    29.4
+   ],
+   "coords": [
+    [
+     57,
+     29.4
+    ],
+    [
+     57,
+     29.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 23,
+   "date": "2026-09-20T21:57:19-05:00",
+   "body": "The Resaan's heirloom is found on a corpse outside a ruined building in NW of the quest area.  Resaan Nimbuswalker Ban'aethal Citizen.",
+   "replies": [
+    "/way #16593 57, 29 Resaan's Heirloom",
+    "Sitting right outside the entrance to the smaller building."
+   ]
+  }
+ ]
+}

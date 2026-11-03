@@ -1,0 +1,132 @@
+{
+ "id": 96786,
+ "name": "The Syndicate Sting",
+ "level": 34,
+ "reqlevel": 24,
+ "side": 3,
+ "zoneId": -162,
+ "reqclass": 8,
+ "status": "new",
+ "xp": 3350,
+ "start": {
+  "type": "npc",
+  "id": 266847,
+  "name": "Anastasia Miller",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    26.8,
+    64.4
+   ],
+   [
+    26.8,
+    64.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 13085,
+  "name": "Myrokos Silentform",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    85,
+    80.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Break up the secret deal, and take the object being traded to the Syndicate. Then, return to Myrokos Silentform at Ravenholdt Manor. Intercepted Shipment  ( 1 ) Syndicate Uniform  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 13085,
+   "name": "Myrokos Silentform",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 275882,
+   "name": "Intercepted Shipment",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 275706,
+   "name": "Syndicate Uniform",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Intercepted Shipment",
+   "count": 1,
+   "type": "item",
+   "id": 275882
+  },
+  {
+   "text": "Syndicate Uniform",
+   "count": 1,
+   "type": "item",
+   "id": 275706
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "start",
+   "type": 1,
+   "id": 266847,
+   "name": "Anastasia Miller",
+   "coord": [
+    26.8,
+    64.4
+   ],
+   "coords": [
+    [
+     26.8,
+     64.4
+    ],
+    [
+     26.8,
+     64.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 13085,
+   "name": "Myrokos Silentform",
+   "coord": [
+    85,
+    80.4
+   ],
+   "coords": [
+    [
+     85,
+     80.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-06T09:47:54-05:00",
+   "body": "box guarded by 2 NPCs at 15.5, 43 in Arathi Highlands",
+   "replies": []
+  }
+ ]
+}

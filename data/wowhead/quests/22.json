@@ -1,0 +1,1157 @@
+{
+ "id": 22,
+ "name": "Goretusk Liver Pie",
+ "level": 12,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 910,
+ "start": {
+  "type": "npc",
+  "id": 235,
+  "name": "Salma Saldean",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    56.4,
+    30.4
+   ],
+   [
+    56.4,
+    30.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 235,
+  "name": "Salma Saldean",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    56.4,
+    30.4
+   ],
+   [
+    56.4,
+    30.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Salma Saldean needs 8 Goretusk livers to make a Goretusk Liver Pie . Goretusk Liver  ( 8 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 235,
+   "name": "Salma Saldean",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 723,
+   "name": "Goretusk Liver",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Goretusk Liver",
+   "count": 8,
+   "type": "item",
+   "id": 723
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "start",
+   "type": 1,
+   "id": 235,
+   "name": "Salma Saldean",
+   "coord": [
+    56.4,
+    30.6
+   ],
+   "coords": [
+    [
+     56.4,
+     30.4
+    ],
+    [
+     56.4,
+     30.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 1,
+   "id": 235,
+   "name": "Salma Saldean",
+   "coord": [
+    56.4,
+    30.6
+   ],
+   "coords": [
+    [
+     56.4,
+     30.4
+    ],
+    [
+     56.4,
+     30.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 95,
+   "name": "Defias Smuggler",
+   "coord": [
+    46,
+    26.8
+   ],
+   "coords": [
+    [
+     40.9,
+     41.9
+    ],
+    [
+     41.1,
+     40.4
+    ],
+    [
+     41.4,
+     40.6
+    ],
+    [
+     41.8,
+     40.4
+    ],
+    [
+     41.8,
+     40.5
+    ],
+    [
+     43.8,
+     26.9
+    ],
+    [
+     44,
+     23.4
+    ],
+    [
+     44,
+     25.9
+    ],
+    [
+     44.2,
+     23.6
+    ],
+    [
+     44.4,
+     25
+    ],
+    [
+     44.6,
+     19.4
+    ],
+    [
+     44.6,
+     19.6
+    ],
+    [
+     44.6,
+     24.4
+    ],
+    [
+     44.6,
+     26.6
+    ],
+    [
+     44.7,
+     26.3
+    ],
+    [
+     44.8,
+     22.2
+    ],
+    [
+     44.9,
+     25.4
+    ],
+    [
+     45,
+     22.6
+    ],
+    [
+     45.4,
+     18.2
+    ],
+    [
+     45.4,
+     21.2
+    ],
+    [
+     45.6,
+     18
+    ],
+    [
+     45.6,
+     20.4
+    ],
+    [
+     45.6,
+     26.4
+    ],
+    [
+     45.7,
+     39.5
+    ],
+    [
+     45.8,
+     37.8
+    ],
+    [
+     45.9,
+     18.8
+    ],
+    [
+     46,
+     26.8
+    ],
+    [
+     46,
+     38.6
+    ],
+    [
+     46.4,
+     37.4
+    ],
+    [
+     46.6,
+     27.7
+    ],
+    [
+     46.6,
+     39.8
+    ],
+    [
+     46.6,
+     53.4
+    ],
+    [
+     46.8,
+     46.4
+    ],
+    [
+     46.8,
+     52.2
+    ],
+    [
+     47,
+     46.6
+    ],
+    [
+     47.4,
+     36.4
+    ],
+    [
+     47.4,
+     36.6
+    ],
+    [
+     47.4,
+     39
+    ],
+    [
+     47.4,
+     47.6
+    ],
+    [
+     47.5,
+     36.4
+    ],
+    [
+     47.6,
+     37.4
+    ],
+    [
+     47.6,
+     37.6
+    ],
+    [
+     47.6,
+     39.2
+    ],
+    [
+     47.6,
+     47.6
+    ],
+    [
+     48.2,
+     46
+    ],
+    [
+     48.2,
+     46.6
+    ],
+    [
+     48.4,
+     45.2
+    ],
+    [
+     48.6,
+     20.4
+    ],
+    [
+     48.6,
+     20.6
+    ],
+    [
+     48.6,
+     45
+    ],
+    [
+     48.6,
+     47.6
+    ],
+    [
+     49.3,
+     19.1
+    ],
+    [
+     49.4,
+     46.4
+    ],
+    [
+     49.4,
+     46.6
+    ],
+    [
+     49.6,
+     19.4
+    ],
+    [
+     49.6,
+     46.4
+    ],
+    [
+     49.8,
+     19.8
+    ],
+    [
+     50,
+     18.4
+    ],
+    [
+     50.2,
+     40.8
+    ],
+    [
+     50.4,
+     47.2
+    ],
+    [
+     50.6,
+     39.2
+    ],
+    [
+     51.2,
+     40.4
+    ],
+    [
+     51.4,
+     46.4
+    ],
+    [
+     51.4,
+     46.6
+    ],
+    [
+     51.6,
+     46.4
+    ],
+    [
+     51.6,
+     46.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 157,
+   "name": "Goretusk",
+   "coord": [
+    34.9,
+    57.8
+   ],
+   "coords": [
+    [
+     34.9,
+     57.8
+    ],
+    [
+     41.4,
+     40.1
+    ],
+    [
+     42.2,
+     63.7
+    ],
+    [
+     42.2,
+     64.6
+    ],
+    [
+     44.4,
+     40
+    ],
+    [
+     44.6,
+     59.2
+    ],
+    [
+     45.4,
+     57.2
+    ],
+    [
+     46,
+     44
+    ],
+    [
+     46.6,
+     56.4
+    ],
+    [
+     46.6,
+     62
+    ],
+    [
+     47.6,
+     57.8
+    ],
+    [
+     54.7,
+     65.4
+    ],
+    [
+     59.4,
+     44.4
+    ],
+    [
+     60.2,
+     45.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 454,
+   "name": "Young Goretusk",
+   "coord": [
+    54.2,
+    26.4
+   ],
+   "coords": [
+    [
+     46.2,
+     41.6
+    ],
+    [
+     46.6,
+     19.2
+    ],
+    [
+     47.3,
+     23.9
+    ],
+    [
+     47.6,
+     23.8
+    ],
+    [
+     48.2,
+     41.2
+    ],
+    [
+     48.4,
+     19
+    ],
+    [
+     48.6,
+     19
+    ],
+    [
+     48.6,
+     42
+    ],
+    [
+     49.4,
+     23.4
+    ],
+    [
+     49.4,
+     23.8
+    ],
+    [
+     49.8,
+     43
+    ],
+    [
+     50,
+     31.2
+    ],
+    [
+     50,
+     31.6
+    ],
+    [
+     50.4,
+     36.8
+    ],
+    [
+     52,
+     45.6
+    ],
+    [
+     52.2,
+     39.2
+    ],
+    [
+     52.4,
+     17.8
+    ],
+    [
+     52.4,
+     42
+    ],
+    [
+     52.4,
+     45.2
+    ],
+    [
+     52.5,
+     23.8
+    ],
+    [
+     52.6,
+     41.4
+    ],
+    [
+     52.6,
+     41.6
+    ],
+    [
+     52.8,
+     40
+    ],
+    [
+     52.8,
+     45.4
+    ],
+    [
+     53.2,
+     46.2
+    ],
+    [
+     53.2,
+     46.6
+    ],
+    [
+     53.8,
+     41.4
+    ],
+    [
+     53.8,
+     45.6
+    ],
+    [
+     54.2,
+     20.4
+    ],
+    [
+     54.2,
+     20.6
+    ],
+    [
+     54.2,
+     26.4
+    ],
+    [
+     54.2,
+     26.6
+    ],
+    [
+     54.2,
+     42
+    ],
+    [
+     54.2,
+     45.2
+    ],
+    [
+     54.4,
+     43.4
+    ],
+    [
+     54.4,
+     44.4
+    ],
+    [
+     54.6,
+     44.2
+    ],
+    [
+     54.6,
+     44.6
+    ],
+    [
+     54.9,
+     19.5
+    ],
+    [
+     55,
+     43.4
+    ],
+    [
+     55.2,
+     19.4
+    ],
+    [
+     55.6,
+     43
+    ],
+    [
+     55.8,
+     20.8
+    ],
+    [
+     56.2,
+     39.4
+    ],
+    [
+     56.2,
+     42
+    ],
+    [
+     56.4,
+     39.6
+    ],
+    [
+     56.4,
+     41.4
+    ],
+    [
+     56.6,
+     40
+    ],
+    [
+     56.6,
+     41.4
+    ],
+    [
+     56.6,
+     41.6
+    ],
+    [
+     57,
+     16.2
+    ],
+    [
+     57,
+     16.6
+    ],
+    [
+     58,
+     12.2
+    ],
+    [
+     58.2,
+     31.6
+    ],
+    [
+     58.8,
+     13.4
+    ],
+    [
+     58.8,
+     13.6
+    ],
+    [
+     58.8,
+     32.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 547,
+   "name": "Great Goretusk",
+   "coord": [
+    62.3,
+    51.6
+   ],
+   "coords": [
+    [
+     49,
+     68.6
+    ],
+    [
+     49.2,
+     68.4
+    ],
+    [
+     52.4,
+     68
+    ],
+    [
+     52.5,
+     68.1
+    ],
+    [
+     53.2,
+     68.7
+    ],
+    [
+     54.2,
+     69.4
+    ],
+    [
+     54.4,
+     68.4
+    ],
+    [
+     54.4,
+     69.6
+    ],
+    [
+     54.6,
+     68.4
+    ],
+    [
+     54.6,
+     68.6
+    ],
+    [
+     54.8,
+     69.8
+    ],
+    [
+     55.2,
+     67.4
+    ],
+    [
+     55.8,
+     66.6
+    ],
+    [
+     56.8,
+     67.4
+    ],
+    [
+     57.2,
+     67.6
+    ],
+    [
+     57.4,
+     61
+    ],
+    [
+     57.4,
+     61.6
+    ],
+    [
+     57.6,
+     61.2
+    ],
+    [
+     58,
+     61.8
+    ],
+    [
+     58.2,
+     50.6
+    ],
+    [
+     58.2,
+     55.8
+    ],
+    [
+     58.4,
+     50.2
+    ],
+    [
+     58.4,
+     55.4
+    ],
+    [
+     58.6,
+     50.4
+    ],
+    [
+     58.6,
+     55.4
+    ],
+    [
+     58.6,
+     55.8
+    ],
+    [
+     58.8,
+     51
+    ],
+    [
+     58.8,
+     67.4
+    ],
+    [
+     59,
+     67.6
+    ],
+    [
+     59.4,
+     58.4
+    ],
+    [
+     59.4,
+     58.6
+    ],
+    [
+     59.6,
+     58.4
+    ],
+    [
+     59.6,
+     58.6
+    ],
+    [
+     60.2,
+     51.2
+    ],
+    [
+     60.2,
+     51.6
+    ],
+    [
+     60.6,
+     51
+    ],
+    [
+     61.4,
+     67
+    ],
+    [
+     61.8,
+     51.4
+    ],
+    [
+     62.3,
+     51.6
+    ],
+    [
+     63.4,
+     55.6
+    ],
+    [
+     64,
+     65.8
+    ],
+    [
+     64.6,
+     66.2
+    ],
+    [
+     66.6,
+     69
+    ],
+    [
+     67.8,
+     72
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 830,
+   "name": "Sand Crawler",
+   "coord": [
+    51.4,
+    10.4
+   ],
+   "coords": [
+    [
+     39.2,
+     13.6
+    ],
+    [
+     39.4,
+     12.4
+    ],
+    [
+     39.4,
+     13.2
+    ],
+    [
+     40,
+     11.4
+    ],
+    [
+     40.2,
+     12
+    ],
+    [
+     40.4,
+     12.6
+    ],
+    [
+     40.6,
+     12.6
+    ],
+    [
+     41,
+     11.4
+    ],
+    [
+     41,
+     12
+    ],
+    [
+     46,
+     9.2
+    ],
+    [
+     46.4,
+     10
+    ],
+    [
+     46.4,
+     10.8
+    ],
+    [
+     46.6,
+     9.4
+    ],
+    [
+     46.6,
+     10.2
+    ],
+    [
+     46.8,
+     11
+    ],
+    [
+     47,
+     11.6
+    ],
+    [
+     47.6,
+     10.6
+    ],
+    [
+     48,
+     10.4
+    ],
+    [
+     48.6,
+     10.6
+    ],
+    [
+     48.8,
+     10.4
+    ],
+    [
+     49.4,
+     11.8
+    ],
+    [
+     49.8,
+     11.8
+    ],
+    [
+     49.8,
+     12.6
+    ],
+    [
+     50.4,
+     10.2
+    ],
+    [
+     50.4,
+     11
+    ],
+    [
+     50.8,
+     11.6
+    ],
+    [
+     51.4,
+     10.4
+    ],
+    [
+     51.4,
+     10.6
+    ],
+    [
+     51.6,
+     10.4
+    ],
+    [
+     51.6,
+     10.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 32,
+   "date": "2006-12-10T19:11:35-06:00",
+   "body": "ok ive done this quets so many times but im wondering.....how do the frickin things survive without a liver! can any1 tell me it took me like 20 mins just to get one so i just said 4get it plz help tyvm",
+   "replies": []
+  },
+  {
+   "rating": 24,
+   "date": "2006-12-17T14:04:34-06:00",
+   "body": "Perhaps the most annoying Alliance quest ever concieved, you have to kill the goretusks in the area to get their livers despite them having a small chance of dropping.\r\nPretty easy though, just expect to spend some time on it.",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2007-02-21T19:11:35-06:00",
+   "body": "the livers drop about 5x more often if you're not on the quest",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-09-28T19:11:35-05:00",
+   "body": "drop percent is stupidly low",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-08-23T07:11:35-05:00",
+   "body": "It took me like 30 mins to get 3 livers... then I got 4 in a row, the last a couple kills later. I dunno. I don't think the drop rate is all that good. But I farmed these in the middle of the farms, like how the road splits, I farmed in between the roads.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-28T19:11:35-05:00",
+   "body": "Or for those of you without cosmos, they roam just north of the graveyard. Which is on the little ridge north of sentinal hill",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-22T02:55:02-06:00",
+   "body": "The drop rate is very bad in my opinion. What I did was hop on my main and kill like 30 of these, then mail the livers to my guy with the quest. An hour later I got it done with no tedious boar hunting.\n\n\n\n...What's with Blizzard and making enemies that lack vital organs or certain body parts anyways?\n\n[i][small]Edited, Feb 21st 2007 10:02pm by Markorat[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2004-12-16T17:50:58-06:00",
+   "body": "Salma Saldean is located within the Saldean Farm house in Westfall. Loc is 56,30.\n\nI received 900 XP at level 13 for this quest.\n\nEdited, Thu Dec 16 11:54:38 2004",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-09-07T16:23:49-05:00",
+   "body": "notoriously one of the worst quests ever - very few of them actually have a liver - honestly - give this quest a miss!",
+   "replies": [
+    "I'm not sure if the drop rate was tweaked for Forever but today (10/20/2026) I had much better success than in the past with the Goretusks (not the young type) outside of Moonbrook."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2019-10-23T11:56:42-05:00",
+   "body": "If you're looking at the comments on this recipe, plan, or quest you might be a collector or completionist. \nThis is a compiled list of all of the cross-faction recipes in the game.\n\nMost (not all) [skill=185] recipes on the Alliance side are sold by [npc=340]. The Horde do not have a corresponding NPC, so if you are an Alliance character wanting to create an alt on the opposite side to obtain the recipes for your main, unfortunately you'll have to have a level appropriate character to do the quests to obtain some of these recipes.\n\nAll of the recipes except one ([item=7994]) can be traded cross-faction on the neutral AH.\n\n\n[b]Alliance Only Recipes[/b]\n\n[table border=2]\n[tr][td][b]Item[/b][/td][td][b]Quest / Vendor[/b][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=164][/b][/td][td][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][item=9367][/td][td][quest=2758][/td][/tr]\n[tr][td][item=6735][/td][td][quest=1618][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=185][/b][/td][td][/td][/tr]\n[tr][td][item=2889][/td][td][quest=384] / [npc=340][/td][/tr]\n[tr][td][item=3679][/td][td][quest=418] / [npc=340][/td][/tr]\n[tr][td][item=5528][/td][td][npc=4305] / [npc=4307][/td][/tr]\n[tr][td][item=3681][/td][td][quest=471] /  [npc=340][/td][/tr]\n[tr][td][item=3678][/td][td][quest=385] /  [npc=340][/td][/tr]\n[tr][td][item=3683][/td][td][quest=93] /  [npc=340][/td][/tr]\n[tr][td][item=2697][/td][td][quest=22] /  [npc=340][/td][/tr]\n[tr][td][item=6329][/td][td][npc=1684][/td][/tr]\n[tr][td][item=3680][/td][td][quest=127] /  [npc=340][/td][/tr]\n[tr][td][item=2699][/td][td][quest=92] /  [npc=340][/td][/tr]\n[tr][td][item=2701][/td][td][quest=90] /  [npc=340][/td][/tr]\n[tr][td][item=3736][/td][td][quest=564][/td][/tr]\n[tr][td][item=728][/td][td][quest=38] /  [npc=340][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=202][/b][/td][td][/td][/tr]\n[tr][td][item=18649][/td][td][npc=5175] / [npc=1304][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=165][/b][/td][td][/td][/tr]\n[tr][td][item=7289][/td][td][npc=2697][/td][/tr]\n[tr][td][item=20576][/td][td][npc=777][/td][/tr]\n[tr][td][item=7361][/td][td][npc=6731][/td][/tr]\n[tr][td][item=6710][/td][td][quest=1582][/td][/tr]\n[tr][td][item=13288][/td][td][npc=2816][/td][/tr]\n[tr][td][item=7290][/td][td][npc=2679][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=197][/b][/td][td][/td][/tr]\n[tr][td][item=14627][/td][td][npc=2668][/td][/tr]\n\n[/table]\n[br]\n[b]Horde Only Recipes[/b]\n\n[table border=2]\n[tr][td][b]Item[/b][/td][td][b]Quest / Vendor[/b][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=171][/b][/td][td] [/td][/tr]\n[tr][td][item=4597][/td][td][quest=429][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=164][/b][/td][td] [/td][/tr]\n[tr][td][item=7981][/td][td][quest=2753] (Blacksmithing 140)[/td][/tr]\n[tr][td][item=7979][/td][td][quest=2751] (Blacksmithing 140)[/td][/tr]\n[tr][td][item=7982][/td][td][quest=2755] (Blacksmithing 140)[/td][/tr]\n[tr][td][item=7980][/td][td][quest=2754] (Blacksmithing 140)[/td][/tr]\n[tr][td][item=7978][/td][td][quest=2752] (Blacksmithing 140)[/td][/tr]\n[tr][td][item=7994]*[/td][td][quest=2756][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=185][/b][/td][td] [/td][/tr]\n[tr][td][item=12226][/td][td][npc=2118][/td][/tr]\n[tr][td][item=5488][/td][td][npc=3482][/td][/tr]\n[tr][td][item=5487][/td][td][quest=862][/td][/tr]\n[tr][td][item=20075][/td][td][npc=4879][/td][/tr]\n[tr][td][item=5484][/td][td][npc=3081][/td][/tr]\n[tr][td][item=5483][/td][td][npc=3881] / [npc=5757][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=333][/b][/td][td] [/td][/tr]\n[tr][td][item=6346][/td][td][npc=3346][/td][/tr]\n[tr][td] [/td][td] [/td][/tr]\n[tr][td][b][skill=202][/b][/td][td] [/td][/tr]\n[tr][td][item=18647][/td][td][npc=3413][/td][/tr]\n[tr][td][/td][td][/td][/tr]\n[tr][td][b][skill=165][/b][/td][td] [/td][/tr]\n[tr][td][item=5083][/td][td][quest=769] (Leatherworking 10)[/td][/tr]\n[tr][td][item=13287][/td][td][npc=2819][/td][/tr]\n[/table]\n[i]* The plan for Orcish War Leggings does not exist in the game, but is instead directly taught by the questgiver. \n(Technically this is the only recipe that cannot be learned by the opposite faction because all other recipes/plans can be traded in the neutral AH.)[/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-10T19:11:35-06:00",
+   "body": "There is also a nice (not too farmed) area around the Sentinal Hill, 53,45 for the young goretusks.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-10T19:11:35-06:00",
+   "body": "The only good thing about this quest is the drop rate for snouts.&nbsp; There is a crazy high siver reward for these if you sell them back to the farmer.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-21T19:11:35-06:00",
+   "body": "try around 62,52",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-11T07:11:35-05:00",
+   "body": "I have found many on cor. 55,42\nSo look there!\nGood luck!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-21T19:11:35-06:00",
+   "body": "It was quite easy, it was just the time -.-. I was doing it for about 30 minutes, but the rewards are quite nice for a cook :P Good luck.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-13T06:31:44-05:00",
+   "body": "was insanely low",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-03T15:00:02-05:00",
+   "body": "900 xp at level 9, seems Static",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-12-27T20:07:22-06:00",
+   "body": "This quest rewards 250 Stormwind reputation as of patch 2.01",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-14T16:47:35-05:00",
+   "body": "loc 55,60 goretusk lvl 15",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2005-12-10T19:11:35-06:00",
+   "body": "This quest i didnt really need im a cook so i can make goretusk liver pie all i want plus i have the recipe.Not worth it to a cook unless u want exp.",
+   "replies": []
+  }
+ ]
+}

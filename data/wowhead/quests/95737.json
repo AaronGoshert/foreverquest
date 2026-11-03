@@ -1,0 +1,115 @@
+{
+ "id": 95737,
+ "name": "Seeking Caitlin",
+ "level": 31,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 16732,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 630,
+ "start": {
+  "type": "npc",
+  "id": 3970,
+  "name": "Llana",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    35,
+    48.4
+   ],
+   [
+    35,
+    48.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1480,
+  "name": "Caitlin Grassman",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    11.6,
+    58.4
+   ],
+   [
+    11.8,
+    58.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Speak with Caitlin Grassman in Menethil Harbor.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1480,
+   "name": "Caitlin Grassman",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "start",
+   "type": 1,
+   "id": 3970,
+   "name": "Llana",
+   "coord": [
+    35,
+    48.4
+   ],
+   "coords": [
+    [
+     35,
+     48.4
+    ],
+    [
+     35,
+     48.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 1480,
+   "name": "Caitlin Grassman",
+   "coord": [
+    11.8,
+    58.6
+   ],
+   "coords": [
+    [
+     11.6,
+     58.4
+    ],
+    [
+     11.8,
+     58.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 2,
+   "date": "2026-10-05T03:54:19-05:00",
+   "body": "This seems to be just a breadcrumb quest for [quest=95647] which is a Excavation Site: Wetlands dungeon quest.",
+   "replies": [
+    "[b]Confirmed.[/b] I had [quest=95647] in my quest log and had a friend try sharing this to me. It claimed I was [i]not eligible[/i]. The second I abandoned it, sharing worked. This is a breadcrumb you don't want to miss while leveling. [b]1250 XP[/b] for just talking is significant."
+   ]
+  }
+ ]
+}

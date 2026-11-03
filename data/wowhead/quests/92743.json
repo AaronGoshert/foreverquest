@@ -1,0 +1,118 @@
+{
+ "id": 92743,
+ "name": "A Conqueror's Crown",
+ "level": 40,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3150,
+ "start": {
+  "type": "npc",
+  "id": 5398,
+  "name": "Warug",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    74.8,
+    68
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5398,
+  "name": "Warug",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    74.8,
+    68
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Maintain your reputation with the Magram, and return a Conqueror's Crown from the Badlands to Warug in Magram Village. Conqueror's Helm  ( 1 )   Magram Clan Centaur  ( Friendly )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 21329,
+   "name": "Conqueror's Crown",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 254392,
+   "name": "Conqueror's Helm",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Conqueror's Helm",
+   "count": 1,
+   "type": "item",
+   "id": 254392
+  }
+ ],
+ "series": [
+  1385,
+  1386,
+  1369,
+  92743,
+  92841,
+  92846,
+  92847,
+  92873,
+  92894,
+  93066,
+  93072,
+  93188,
+  93196
+ ],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 5398,
+   "name": "Warug",
+   "coord": [
+    74.8,
+    68
+   ],
+   "coords": [
+    [
+     74.8,
+     68
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 5398,
+   "name": "Warug",
+   "coord": [
+    74.8,
+    68
+   ],
+   "coords": [
+    [
+     74.8,
+     68
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

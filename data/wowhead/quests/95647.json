@@ -1,0 +1,85 @@
+{
+ "id": 95647,
+ "name": "Lost in the Thicket Things",
+ "level": 31,
+ "reqlevel": 24,
+ "side": 1,
+ "zoneId": 16732,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2500,
+ "start": {
+  "type": "npc",
+  "id": 1480,
+  "name": "Caitlin Grassman",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    11.6,
+    58.4
+   ],
+   [
+    11.8,
+    58.6
+   ]
+  ]
+ },
+ "end": null,
+ "patch": "1.60.1.70170",
+ "objectiveText": "Find Ardin Grassman in the Excavation Sites.   Learn what happened to Ardin Grassman  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 262681,
+   "name": "Ardin Grassman",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Learn what happened to Ardin Grassman",
+   "count": 1,
+   "type": "npc",
+   "id": 262681
+  }
+ ],
+ "series": [
+  95647,
+  95809
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 1480,
+   "name": "Caitlin Grassman",
+   "coord": [
+    11.8,
+    58.6
+   ],
+   "coords": [
+    [
+     11.6,
+     58.4
+    ],
+    [
+     11.8,
+     58.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 0,
+   "date": "2026-10-03T08:39:41-05:00",
+   "body": "Quest: [url=https://www.wowhead.com/forever/quest=95647/lost-in-the-thicket-things]Lost in the Thicket Things[/url]\nOthers: [url=https://www.wowhead.com/forever/quests/dungeons/excavation-site-wetlands]Excavation Site: Wetlands[/url]\nType: Dungeon\nReq: Level 24\nStart: Wetlands\nSharable: Yes\nFinal Rewards:\n[ul]\n[li][url=https://www.wowhead.com/forever/item=280766/satchel-of-potions]Satchel of Potions[/url][/li]\n[/ul]\nNote: These details are subject to change throughout Forever's development cycle. Accuracy is only guaranteed at the time of this posting.\nYou can find my Google Sheets document which is updated more frequently [url=https://docs.google.com/spreadsheets/d/1Hy3tqXAsSic6QvAf8Aew8TEagLj5ohU5bQS-mCbX9H0/edit?usp=sharing]here[/url].",
+   "replies": []
+  }
+ ]
+}

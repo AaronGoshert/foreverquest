@@ -1,0 +1,234 @@
+{
+ "id": 2041,
+ "name": "Speak with Shoni",
+ "level": 15,
+ "reqlevel": 15,
+ "side": 1,
+ "zoneId": 1537,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 6569,
+  "name": "Gnoarn",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    69.4,
+    50.4
+   ],
+   [
+    69.4,
+    50.6
+   ],
+   [
+    69.6,
+    50.4
+   ],
+   [
+    69.6,
+    50.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 6579,
+  "name": "Shoni the Shilent",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    55.4,
+    12.4
+   ],
+   [
+    55.4,
+    12.6
+   ],
+   [
+    55.6,
+    12.4
+   ],
+   [
+    55.6,
+    12.6
+   ],
+   [
+    62.4,
+    34.2
+   ],
+   [
+    62.6,
+    34.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Speak with Shoni the Shilent in Stormwind.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 6579,
+   "name": "Shoni the Shilent",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  2041,
+  2040
+ ],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 6569,
+   "name": "Gnoarn",
+   "coord": [
+    69.4,
+    50.6
+   ],
+   "coords": [
+    [
+     69.4,
+     50.4
+    ],
+    [
+     69.4,
+     50.6
+    ],
+    [
+     69.6,
+     50.4
+    ],
+    [
+     69.6,
+     50.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 6579,
+   "name": "Shoni the Shilent",
+   "coord": [
+    55.4,
+    12.6
+   ],
+   "coords": [
+    [
+     55.4,
+     12.4
+    ],
+    [
+     55.4,
+     12.6
+    ],
+    [
+     55.6,
+     12.4
+    ],
+    [
+     55.6,
+     12.6
+    ],
+    [
+     62.4,
+     34.2
+    ],
+    [
+     62.6,
+     34.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 26,
+   "date": "2019-11-11T21:05:22-06:00",
+   "body": "Quest is unavailable if you have accepted quest Underground Assault from Shoni.",
+   "replies": []
+  },
+  {
+   "rating": 24,
+   "date": "2005-01-05T00:30:26-06:00",
+   "body": "I found this Shoni person in Stormwind, Dwarven District. Its in the north east corner in the middle of the square next to a sign. Once in Dwarven just head north. \nI recieved 270 exp and no item",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2005-10-09T03:02:35-05:00",
+   "body": "Shoni the Shilent is at 55,12 in the Dwarven District in Stormwind. I'm standing right next to her.",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2006-10-09T03:02:35-05:00",
+   "body": "Shoni may be found at: 55,13",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-12-21T03:02:35-06:00",
+   "body": "she's at 55.12 in Dwarven District",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-09T03:02:35-05:00",
+   "body": "56,13",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-04-09T15:02:35-05:00",
+   "body": "lol, just take the tram to stormwind from ironfogre. IF u dont kwn where the tram is ask a gaurd",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-05T10:08:11-05:00",
+   "body": "at lvl 26 i got 2450xp & a choice of disarming tool or gloves!",
+   "replies": [
+    "These rewards are for the Gyrodrillmatic Excavtors Quest\n\n* Shoni's disarming tool\n*Shilly Mitts\nBy the time I spoke with shoni  I was at lvl 27 Human Warrior only got 25 xp the first time."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-09T03:02:35-05:00",
+   "body": "Yeah..it's 55, 12. Not sure if she moves around, but it doesn't look like it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-21T03:02:35-06:00",
+   "body": "Gnoarn is found at 69,50.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-09T13:54:52-05:00",
+   "body": "loc 55,12 in stormwind's Dwarven District",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-10-09T03:02:35-05:00",
+   "body": "I found him at the Hall Of Explorers corr 74,11.&nbsp; Tell him large Marge sent ya....hahahahaha",
+   "replies": [
+    "...than that means the person I was talking to was...(everybody at the same time), \"Her ghost!\""
+   ]
+  }
+ ]
+}

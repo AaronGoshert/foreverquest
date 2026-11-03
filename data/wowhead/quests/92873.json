@@ -1,0 +1,118 @@
+{
+ "id": 92873,
+ "name": "Proof of Concept",
+ "level": 41,
+ "reqlevel": 35,
+ "side": 1,
+ "zoneId": 16651,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2450,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 253136,
+  "name": "Orgrul",
+  "zone": "Shen'dralas",
+  "zoneId": 16651,
+  "coords": [
+   [
+    35.6,
+    12
+   ],
+   [
+    35.8,
+    13
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Maintain your reputation with the Magram Clan, then bring 426 Well Cursed Bones from a successful ritual back to Orgrul . Well Cursed Bone  ( 426 )   Magram Clan Centaur  ( Honored )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 254842,
+   "name": "Well Cursed Bones",
+   "count": 426,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 254870,
+   "name": "Rudimentary Necromancy Staff",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Well Cursed Bone",
+   "count": 426,
+   "type": "item",
+   "id": 254842
+  }
+ ],
+ "series": [
+  1385,
+  1386,
+  1369,
+  92743,
+  92841,
+  92846,
+  92847,
+  92873,
+  92894,
+  93066,
+  93072,
+  93188,
+  93196
+ ],
+ "points": [
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "end",
+   "type": 1,
+   "id": 253136,
+   "name": "Orgrul",
+   "coord": [
+    35.6,
+    12
+   ],
+   "coords": [
+    [
+     35.6,
+     12
+    ],
+    [
+     35.8,
+     13
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 253360,
+   "name": "Nascent Undead Ravager",
+   "coord": [
+    68.2,
+    83.2
+   ],
+   "coords": [
+    [
+     68.2,
+     83.2
+    ],
+    [
+     68.4,
+     84.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

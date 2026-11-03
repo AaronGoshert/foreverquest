@@ -1,0 +1,94 @@
+{
+ "id": 98323,
+ "name": "Secure the Mountain",
+ "level": 8,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 70,
+ "start": {
+  "type": "npc",
+  "id": 271546,
+  "name": "Mountaineer Gretchen",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    44,
+    57
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1252,
+  "name": "Senir Whitebeard",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    46.6,
+    53.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Deliver Mountaineer Gretchen's Report back to Senir Whitebeard in Kharanos. Mountaineer Gretchen's Report (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 280430,
+   "name": "Mountaineer Gretchen's Report",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  98322,
+  98319,
+  98323
+ ],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 271546,
+   "name": "Mountaineer Gretchen",
+   "coord": [
+    44,
+    57
+   ],
+   "coords": [
+    [
+     44,
+     57
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1252,
+   "name": "Senir Whitebeard",
+   "coord": [
+    46.6,
+    53.8
+   ],
+   "coords": [
+    [
+     46.6,
+     53.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

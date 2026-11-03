@@ -1,0 +1,120 @@
+{
+ "id": 92709,
+ "name": "A Grand Adventure",
+ "level": 12,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 90,
+ "start": {
+  "type": "npc",
+  "id": 252475,
+  "name": "Elaadrin Evengale",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    66.4,
+    79.8
+   ],
+   [
+    66.6,
+    79.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252475,
+  "name": "Elaadrin Evengale",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    66.4,
+    79.8
+   ],
+   [
+    66.6,
+    79.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Listen to what Elaadrin Evengale in Valanaar has to say.   Listen to Elaadrin  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 252475,
+   "name": "Elaadrin Evengale",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 273972,
+   "name": "Listen to Elaadrin",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Listen to Elaadrin",
+   "count": 1,
+   "type": "npc",
+   "id": 273972
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252475,
+   "name": "Elaadrin Evengale",
+   "coord": [
+    66.6,
+    79.8
+   ],
+   "coords": [
+    [
+     66.4,
+     79.8
+    ],
+    [
+     66.6,
+     79.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252475,
+   "name": "Elaadrin Evengale",
+   "coord": [
+    66.6,
+    79.8
+   ],
+   "coords": [
+    [
+     66.4,
+     79.8
+    ],
+    [
+     66.6,
+     79.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

@@ -1,0 +1,334 @@
+{
+ "id": 6164,
+ "name": "Augustus' Receipt Book",
+ "level": 55,
+ "reqlevel": 50,
+ "side": 3,
+ "zoneId": 139,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1400,
+ "start": {
+  "type": "npc",
+  "id": 12384,
+  "name": "Augustus the Touched",
+  "zone": "Eastern Plaguelands",
+  "zoneId": 139,
+  "coords": [
+   [
+    14.4,
+    33.4
+   ],
+   [
+    14.4,
+    33.6
+   ],
+   [
+    14.6,
+    33.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 12384,
+  "name": "Augustus the Touched",
+  "zone": "Eastern Plaguelands",
+  "zoneId": 139,
+  "coords": [
+   [
+    14.4,
+    33.4
+   ],
+   [
+    14.4,
+    33.6
+   ],
+   [
+    14.6,
+    33.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Bring Augustus' Receipt Book to Augustus the Touched in Terrordale. Augustus' Receipt Book  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 15884,
+   "name": "Augustus' Receipt Book",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Augustus' Receipt Book",
+   "count": 1,
+   "type": "item",
+   "id": 15884
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 139,
+   "zone": "Eastern Plaguelands",
+   "point": "start",
+   "type": 1,
+   "id": 12384,
+   "name": "Augustus the Touched",
+   "coord": [
+    14.4,
+    33.6
+   ],
+   "coords": [
+    [
+     14.4,
+     33.4
+    ],
+    [
+     14.4,
+     33.6
+    ],
+    [
+     14.6,
+     33.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 139,
+   "zone": "Eastern Plaguelands",
+   "point": "end",
+   "type": 1,
+   "id": 12384,
+   "name": "Augustus the Touched",
+   "coord": [
+    14.4,
+    33.6
+   ],
+   "coords": [
+    [
+     14.4,
+     33.4
+    ],
+    [
+     14.4,
+     33.6
+    ],
+    [
+     14.6,
+     33.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 72,
+   "date": "2006-09-23T19:14:19-05:00",
+   "body": "The book can be found in the Terrordale inn, which is the largest building in the town. Walk upstairs and turn right. The book lies in the back of the room.",
+   "replies": []
+  },
+  {
+   "rating": 31,
+   "date": "2005-10-21T15:47:10-05:00",
+   "body": "More specifically, the inn is the largest building, in the center on the east side of town.&nbsp; Go upstairs, turn right, and check the floor in the back of the room.",
+   "replies": []
+  },
+  {
+   "rating": 26,
+   "date": "2006-07-04T03:47:10-05:00",
+   "body": "As of 1.11 this quest is now available to Alliance players.\n\nAugustus has moved out of the Terrorweb tunnel and now sits in the corner of Egan's house in Terrordale.",
+   "replies": []
+  },
+  {
+   "rating": 19,
+   "date": "2006-01-02T15:47:10-06:00",
+   "body": "If you are interested in completing the quest, the receipt book can be found at 17,31.&nbsp; The inn is obviously the inn just like all other inns that you've been in throughout the game.&nbsp; :)",
+   "replies": [
+    "These are the right cords.&nbsp; The 17, 31 cords!"
+   ]
+  },
+  {
+   "rating": 15,
+   "date": "2006-04-22T03:47:10-05:00",
+   "body": "is to have a vendor available in the area to sell trash to when you're farming or questing.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2006-05-28T15:47:10-05:00",
+   "body": "The correct coordinates are 18,33 as previously corrected. I found the receipt book on the second floor of the inn, in the room to the right. Go inside the room and there should be another room. The book should be inside the second room.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-05-28T15:47:10-05:00",
+   "body": "i found em at 17,31. apparently it spawns in both locations.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-03-09T16:27:55-06:00",
+   "body": "Augustus is a Horde NPC.",
+   "replies": [
+    "Wrong. I got this quest as a Night Elf.",
+    "he WAS a horde npc in Mar 9th 2005, this was changed sometime ago"
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2019-09-13T11:53:08-05:00",
+   "body": "Very %^&*ty XP. Not worth the time unless done with other qs",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-07-04T03:47:10-05:00",
+   "body": "Definately worth doing, it takes 2 mins tops and it gives you a place to empty your bags for vendor loot.\nThe grab box; Well i'd never buy that thing if its true that it cost 8g, the chance of getting something worth 8g or more is so small.\nTo quote the vendor; \"I'll set up shop and you'll see that my prices are [u]INSANE![/u]\"",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-07-03T18:19:17-05:00",
+   "body": "Finish the quest and you will be able to sell your gray/junk items to him.  \nNice location also.  Farm those damn [Crypt Fiend Parts] in the tunnel and sell all the xtra crap to Augustus.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-21T15:47:10-05:00",
+   "body": "The receipt book is in the Inn in Terrordale...I believe it is the 3rd building from the northern most one. It is upstairs in the last room on your right.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-08-09T15:47:10-05:00",
+   "body": "If you're around the Terrordale area, killing lots, this is worth doing so you have a vendor in the west to sell junk to.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-08-09T15:47:10-05:00",
+   "body": "There is a 8.3% chance to have that box drop a +14 fire resistance (green) cloak. The rest isn't worth the 8g50 you pay for the box.\n\n[url=https://www.wowhead.com/forever/item=15625]https://www.wowhead.com/forever/item=15625/gryphon-mail-gauntlets[/url]",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2020-09-01T03:38:14-05:00",
+   "body": "Not worth doing, barely any XP at all for all that effort.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-15T03:47:10-05:00",
+   "body": "2nd Floor, in the back room.\nThe guy was just selling fungi when I turned in the quest.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-10T22:47:43-05:00",
+   "body": "Once you get him his book. You can buy mushrooms from him.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-04T03:47:10-05:00",
+   "body": "I got a plate breastplate which was a bit better than what I was wearing - not sure it was worth the 8 gold price of the grab box...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-25T16:20:20-05:00",
+   "body": "since 1.11 Augustus is no longer horde only npc. They moved him from that cave pass to house where Egan is located.\n\nedit: Book is in the inn (location 17.31) upstairs.. but i cant pick it up.\nI see it on the floor but it seems this quest is bugged.\n\n[i][small]Edited, Jun 25th  2006 at 12:36pm EDT by Ghostrain[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-03T12:25:02-05:00",
+   "body": "Is in the tunnel, tucked away in one of the side passages.  12,32",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-26T17:05:29-05:00",
+   "body": "Augustus's receipt book is in the first building in Terrorvale. On the second floor. If you have cosmos the location is X:17,Y:31.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-02T21:28:53-06:00",
+   "body": "[b]Get it:[/b]\n\nGet the quest at the last house in terrordale, the house has no mobs. A mob called \nAugustus the Touched who is in it with Egan.\n\n[b]Do it:[/b]\n\nGo to the inn (biggest house of the houses there, and it looks the same as inns),\nget upstairs, theres two rooms witch goes right and left dont go there, go straight ahead.. There is one mob waiting you and the book is on the floor (you cant take the book unless you got the quest).",
+   "replies": [
+    "Actually, the book can spawn in any one of the three upstairs rooms.  Done this quest twice, and it was in a different room each time.\n"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-07-14T01:52:24-05:00",
+   "body": "The book is inside the building which has 3-4 rooms on 2nd floor. Each room has a mob inside it, one inner room has the book on the ground. When u stand infront of the entrance of the building, the location is 17,33. There is a big tree on the right side of the entrance(when facing buiding) and a lamp post infront of it. Spider like creatures are patrolling the road infront on the building",
+   "replies": [
+    "Good description -- once in the inn the room you want is the double room to the far right once you go up the stairs!"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-08-09T15:47:10-05:00",
+   "body": "This takes perhaps 5 minutes to do and give you xp equal to a few kills.&nbsp; Also I found this helpful because it provides me with a place to buy some quick food if I am running low while out hunting the EPL.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-04-22T03:47:10-05:00",
+   "body": "glad i did the quest. now i can buy 5 varieties of mushrooms! the spongy morel or the raw black truffle? hard to decide!",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2006-11-29T10:38:09-06:00",
+   "body": "this place is a litle stupid bcose the Undeath Abomination Super Killers Dark Servants Hostiles too Evry one that are lvl 55 are weaker than the small neutral normal stupid pigs  that are lvl 60",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2006-11-19T12:55:13-06:00",
+   "body": "I got 1400 XP from this quest, not worth the while",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2006-11-16T01:48:29-06:00",
+   "body": "skip this quest no need",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-12-03T13:01:08-06:00",
+   "body": "This is on the second floor of the Terrodale Inn in The room off to the right.\r\n\r\n~|~|~SPOILER ALERT~|~|~\r\nThis quest is actually a waste of tiem in my opnion seeing as is he is a mushroom vendor.",
+   "replies": [
+    "It's actually worth doing if you think about it. If you are farming in the area and run out of inventory space you can go to him and sell greys and etc ;)",
+    "You got a point but then again I was not farming in the area thanks for the tip."
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2006-07-04T03:47:10-05:00",
+   "body": "Dying in this cave is annoying.&nbsp; The mobs respawn fast, and their is elite patrol on top of regular patrol.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-08-09T15:47:10-05:00",
+   "body": "Worthless, annoying quest. 1400xp at 57.",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2006-09-15T03:47:10-05:00",
+   "body": "I got the quest and went to the second floor. I see the book in the far room to the right, but i can't click on it... wtf?",
+   "replies": []
+  }
+ ]
+}

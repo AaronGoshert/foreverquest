@@ -1,0 +1,367 @@
+{
+ "id": 93035,
+ "name": "Ravaging Ravagers",
+ "level": 38,
+ "reqlevel": 35,
+ "side": 3,
+ "zoneId": 16651,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1450,
+ "start": {
+  "type": "npc",
+  "id": 253177,
+  "name": "Nerlokh",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    58.4,
+    88.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253177,
+  "name": "Nerlokh",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    58.4,
+    88.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Maintain your reputation with the Gelkis Clan and slay 6 Undead Ravagers , then return to Nerlokh at the southern entrance to Valley of Bones.   Undead Ravager slain  ( 6 )   Gelkis Clan Centaur  ( Honored )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 11561,
+   "name": "Undead Ravagers",
+   "count": 6,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Undead Ravager slain",
+   "count": 6,
+   "type": "npc",
+   "id": 11561
+  }
+ ],
+ "series": [
+  1382,
+  1384,
+  1370,
+  1373,
+  93034,
+  93037,
+  93041,
+  93044,
+  93045
+ ],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 253177,
+   "name": "Nerlokh",
+   "coord": [
+    58.4,
+    88.6
+   ],
+   "coords": [
+    [
+     58.4,
+     88.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 253177,
+   "name": "Nerlokh",
+   "coord": [
+    58.4,
+    88.6
+   ],
+   "coords": [
+    [
+     58.4,
+     88.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "requirement",
+   "type": 1,
+   "id": 11561,
+   "name": "Undead Ravager",
+   "coord": [
+    61.4,
+    90.8
+   ],
+   "coords": [
+    [
+     58.2,
+     89.4
+    ],
+    [
+     58.4,
+     90
+    ],
+    [
+     58.8,
+     90
+    ],
+    [
+     59.2,
+     89.4
+    ],
+    [
+     59.6,
+     89
+    ],
+    [
+     59.8,
+     88.2
+    ],
+    [
+     60.4,
+     90.2
+    ],
+    [
+     60.6,
+     90.4
+    ],
+    [
+     61.4,
+     90.8
+    ],
+    [
+     62,
+     91
+    ],
+    [
+     62.4,
+     90.2
+    ],
+    [
+     62.4,
+     91.6
+    ],
+    [
+     62.8,
+     90.2
+    ],
+    [
+     63.2,
+     91.2
+    ],
+    [
+     63.2,
+     92.2
+    ],
+    [
+     63.4,
+     89.4
+    ],
+    [
+     63.4,
+     92.6
+    ],
+    [
+     63.6,
+     92.6
+    ],
+    [
+     64,
+     80.4
+    ],
+    [
+     64,
+     81.2
+    ],
+    [
+     64,
+     88
+    ],
+    [
+     64,
+     89
+    ],
+    [
+     64,
+     91.6
+    ],
+    [
+     64.2,
+     84.4
+    ],
+    [
+     64.2,
+     84.8
+    ],
+    [
+     64.2,
+     86.4
+    ],
+    [
+     64.2,
+     87
+    ],
+    [
+     64.2,
+     91.4
+    ],
+    [
+     64.4,
+     82.4
+    ],
+    [
+     64.4,
+     82.6
+    ],
+    [
+     64.4,
+     90
+    ],
+    [
+     64.6,
+     82.4
+    ],
+    [
+     64.6,
+     91.2
+    ],
+    [
+     64.6,
+     91.6
+    ],
+    [
+     64.6,
+     92.6
+    ],
+    [
+     64.8,
+     83.4
+    ],
+    [
+     64.8,
+     83.6
+    ],
+    [
+     64.8,
+     88.8
+    ],
+    [
+     64.8,
+     89.6
+    ],
+    [
+     65,
+     85.4
+    ],
+    [
+     65,
+     87.6
+    ],
+    [
+     65.2,
+     85.8
+    ],
+    [
+     65.2,
+     86.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "start",
+   "type": 1,
+   "id": 253177,
+   "name": "Nerlokh",
+   "coord": [
+    20.8,
+    22.6
+   ],
+   "coords": [
+    [
+     20.8,
+     22.6
+    ],
+    [
+     21,
+     22
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "end",
+   "type": 1,
+   "id": 253177,
+   "name": "Nerlokh",
+   "coord": [
+    20.8,
+    22.6
+   ],
+   "coords": [
+    [
+     20.8,
+     22.6
+    ],
+    [
+     21,
+     22
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "requirement",
+   "type": 1,
+   "id": 11561,
+   "name": "Undead Ravager",
+   "coord": [
+    36,
+    23.7
+   ],
+   "coords": [
+    [
+     36,
+     23.7
+    ],
+    [
+     42.5,
+     30.1
+    ],
+    [
+     42.7,
+     31
+    ],
+    [
+     43,
+     31.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

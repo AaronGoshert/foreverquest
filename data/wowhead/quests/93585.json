@@ -1,0 +1,185 @@
+{
+ "id": 93585,
+ "name": "This Light of Mine",
+ "level": 34,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 8,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2700,
+ "start": {
+  "type": "npc",
+  "id": 255597,
+  "name": "Father Tuttle",
+  "zone": "Swamp of Sorrows",
+  "zoneId": 8,
+  "coords": [
+   [
+    22,
+    50.6
+   ],
+   [
+    22.2,
+    50.2
+   ],
+   [
+    23.2,
+    47.8
+   ],
+   [
+    24,
+    47.2
+   ],
+   [
+    24.6,
+    47.2
+   ],
+   [
+    24.8,
+    46.2
+   ],
+   [
+    25.4,
+    45.2
+   ],
+   [
+    25.6,
+    44.2
+   ],
+   [
+    26.8,
+    40.4
+   ],
+   [
+    27,
+    35.4
+   ],
+   [
+    27,
+    39
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1776,
+  "name": "Magtoor",
+  "zone": "Swamp of Sorrows",
+  "zoneId": 8,
+  "coords": [
+   [
+    26,
+    31.4
+   ],
+   [
+    26,
+    31.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Escort Father Tuttle to The Harborage.   Escort Father Tuttle to The Harborage  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 255597,
+   "name": "Father Tuttle",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Escort Father Tuttle to The Harborage",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 8,
+   "zone": "Swamp of Sorrows",
+   "point": "start",
+   "type": 1,
+   "id": 255597,
+   "name": "Father Tuttle",
+   "coord": [
+    22.2,
+    50.2
+   ],
+   "coords": [
+    [
+     22,
+     50.6
+    ],
+    [
+     22.2,
+     50.2
+    ],
+    [
+     23.2,
+     47.8
+    ],
+    [
+     24,
+     47.2
+    ],
+    [
+     24.6,
+     47.2
+    ],
+    [
+     24.8,
+     46.2
+    ],
+    [
+     25.4,
+     45.2
+    ],
+    [
+     25.6,
+     44.2
+    ],
+    [
+     26.8,
+     40.4
+    ],
+    [
+     27,
+     35.4
+    ],
+    [
+     27,
+     39
+    ]
+   ]
+  },
+  {
+   "zoneId": 8,
+   "zone": "Swamp of Sorrows",
+   "point": "end",
+   "type": 1,
+   "id": 1776,
+   "name": "Magtoor",
+   "coord": [
+    26,
+    31.4
+   ],
+   "coords": [
+    [
+     26,
+     31.4
+    ],
+    [
+     26,
+     31.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

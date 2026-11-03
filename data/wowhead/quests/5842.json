@@ -1,0 +1,105 @@
+{
+ "id": 5842,
+ "name": "Welcome!",
+ "level": 1,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 11942,
+  "name": "Orenthil Whisperwind",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    58.8,
+    44.4
+   ],
+   [
+    58.8,
+    44.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring the Shadowglen Gift Voucher to Orenthil Whisperwind . Shadowglen Gift Voucher (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 14648,
+   "name": "Shadowglen Gift Voucher",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 11942,
+   "name": "Orenthil Whisperwind",
+   "coord": [
+    58.8,
+    44.4
+   ],
+   "coords": [
+    [
+     58.8,
+     44.4
+    ],
+    [
+     58.8,
+     44.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2004-11-27T22:54:48-06:00",
+   "body": "Orenthil Whisperwind, where can he be found?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-18T04:57:50-05:00",
+   "body": "I think it's a panda or the other pet, you can only get from the collecters edition",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-13T06:04:59-06:00",
+   "body": "It is for the collector's edition. Every character gets one on a collectors edition account. You get to chose from a Mini Diablo, a Mini Zergling, or a Panda. They follow you around like any other pet, and are summoned by an inventory item given to you upon completion.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-15T00:55:26-06:00",
+   "body": "The persons to deliver the gift to is located a few feet away from the place your character starts, and gets a yellow \"?\" as a normal quest NPC, once you have taken the quest.\n\nEdited, Mon Nov 14 19:06:26 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-05-14T19:16:18-05:00",
+   "body": "In classic, this quest will only be available to those who purchased the original WoW collectors edition and have it tied to their account.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-05-13T01:20:36-05:00",
+   "body": "whats the gift?",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "id": 95998,
+ "name": "The Great Outdoors",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 405,
+ "start": {
+  "type": "npc",
+  "id": 263399,
+  "name": "Sam Sarsaparilla",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    44.8,
+    63.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 263399,
+  "name": "Sam Sarsaparilla",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    44.8,
+    63.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Sit near Sam's Basic Campfire and wait until you receive the Boosted Rest buff.   Sit near the campfire  ( 1 )   Gain the Boosted Rest buff  ( 1 )",
+ "objectives": [],
+ "objectiveRows": [
+  {
+   "text": "Sit near the campfire",
+   "count": 1,
+   "type": "event",
+   "id": null
+  },
+  {
+   "text": "Gain the Boosted Rest buff",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 263399,
+   "name": "Sam Sarsaparilla",
+   "coord": [
+    44.8,
+    63.2
+   ],
+   "coords": [
+    [
+     44.8,
+     63.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 263399,
+   "name": "Sam Sarsaparilla",
+   "coord": [
+    44.8,
+    63.2
+   ],
+   "coords": [
+    [
+     44.8,
+     63.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2026-09-26T17:02:39-05:00",
+   "body": "Was bugged for me too at level 10. Not sure if due to quest being green... I abandoned it, retook it and went INTO the tent, /sit emoji and got it instantly (Undead, in Tirisfal Glades).",
+   "replies": [
+    "GO INTO THE TENT!",
+    "If it's still not working, relog and try again."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2026-09-20T15:25:51-05:00",
+   "body": "Bugged in the beta, no matter how long you sit at his fire, you won't get the Boosted Rest buff.",
+   "replies": [
+    "Working now. Have to sit for a minute.",
+    "Thanks, working indeed, looks like they're pretty on top of fixing bugs.",
+    "Seems broken again, doing the quest in Teldrassil, I sat for several minutes and got no buff",
+    "Still broken today. I submitted a ticket after waiting > 8 minutes with no buff.",
+    "Still broken today"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2026-09-26T03:37:17-05:00",
+   "body": "Alrighty :) \r\n\r\nI have tried all angles - I have tried all possible ways. \r\n\r\nRested and Not Rested \r\n\r\n/sit next to the guy - closer to the fireplace - behind the fireplace - inside the tent.\r\n\r\nNothing seems to work -> 3 other guys level 6 got it immediately. \r\n\r\na Level 9 warrior got the Buff.\r\n\r\nIt seems like if you are above the required Level to get exp it won't work.\r\n\r\nAnyone please try at level 10 and let me know so that we can fix this for everyone else!",
+   "replies": [
+    "I'm getting the buff but not the Use the sit emote near the campfire, so the quest doesn't complete. Level 6 warlock."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2026-10-01T10:16:49-05:00",
+   "body": "Relog helped to me (only logout don't exit!).\r\nOther things may help:\r\n[ul]\r\n[li]Remove all buffs[/li]\r\n[li]Abandon -> reaccept[/li]\r\n[li]Sit down in the tent[/li]\r\n[li]Do the relog, but for this time exit the game entirely[/li]\r\n[/ul]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-20T09:12:47-05:00",
+   "body": "First I sat there for 1min, got the XP Buff objective complete, but not the sitting part.\r\n\r\nAbandon and retake quest and then sitting again worked. (The XP Buff objective was automatically completed after I retook the quest.)",
+   "replies": []
+  }
+ ]
+}

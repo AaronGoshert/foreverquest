@@ -1,0 +1,139 @@
+{
+ "id": 79242,
+ "name": "No Honor Among Thieves",
+ "level": 40,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 3900,
+ "start": {
+  "type": "npc",
+  "id": 215643,
+  "name": "Tokal",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    27,
+    77.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 418855,
+  "name": "Illari's Loot Cache",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    94.1,
+    69.3
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Find Illari Duskfeather on the coast of Arathi Highlands, and get access to her cache of stolen loot.   Found Illari Duskfeather  ( 1 ) Illari's Key  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 215655,
+   "name": "Illari Duskfeather",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 212347,
+   "name": "Illari's Key",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Found Illari Duskfeather",
+   "count": 1,
+   "type": "npc",
+   "id": 215655
+  },
+  {
+   "text": "Illari's Key",
+   "count": 1,
+   "type": "item",
+   "id": 212347
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "start",
+   "type": 1,
+   "id": 215643,
+   "name": "Tokal",
+   "coord": [
+    27,
+    77.2
+   ],
+   "coords": [
+    [
+     27,
+     77.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 2,
+   "id": 418855,
+   "name": "Illari's Loot Cache",
+   "coord": [
+    94.1,
+    69.3
+   ],
+   "coords": [
+    [
+     94.1,
+     69.3
+    ]
+   ]
+  },
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "requirement",
+   "type": 1,
+   "id": 215655,
+   "name": "Illari Duskfeather",
+   "coord": [
+    93.8,
+    71.4
+   ],
+   "coords": [
+    [
+     93.8,
+     71.4
+    ],
+    [
+     93.8,
+     71.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-10T06:55:54-05:00",
+   "body": "Reposting from \"MANBEARPIG\" in SOD:\r\n\r\nHighway Robbery Quest Chain Guide w/ Illari Duskfeather Location - https://youtu.be/wtgnmxaa9kU\r\n\r\n1. Find Extinguished Campfire near Kodo Graveyard.\r\n-Located on a small plateau in the Northwestern portion of Kodo Graveyard, when looking at the map it is above the \"OD\" of Kodo in the Kodo Graveyard text.\r\n-Must be at least level 30 to click campfire and pick up quest \"Highway Robbery\"\r\n\r\n2. Follow the main road North out of the Kodo Graveyard, folow as it curves East.\r\n-Follow road as it curves East.\r\n-At the point where the road curves North again, continue heading East to a small Goblin settlement.\r\n-Talk to Bibbly F'utzbuckle standing in a small fenced area next to the hut.\r\n-Turn in \"Highway Robbery\" and pick up \"On The Lam\"\r\n\r\n3. Head to Booty Bay.\r\n-Head to The Salty Sailor Tavern in the Southwest corner of town.\r\n-Talk to Tokal standing near the bar.\r\n-Turn in \"On The Lam\" and pick up \"Cherry For Your Thoughts?\"\r\n-Purchase Cherry Grog from bartender (Nixraxx Fillamug) standing behind Tokal.\r\n-Give Cherry Grog to Tokal.\r\n-Turn in \"Cherry For Your Thoughts\" and pick up \"No Honor Among Thieves\"\r\n\r\n4. Head to Arathi Highlands.\r\n-Head to the large bridge that takes you to The Wetlands (but don't cross it)\r\n-On the Arathi Highlands side of the Wetlands bridge, you will see a small rope bridge going across to the hillside.\r\n-Cross the bridge and head down the hill to a small boat on the waterside.\r\n-Boat will teleport you East to an area known as The Forbidding Sea.\r\n\r\n5. Talk to Illari Duskfeather standing on a small dock nearby.\r\n-Defeat Illari Duskfeather in battle, she is level 40. (or watch someone else defeat her)\r\n-Illari will teleport away and leave a Dropped Pouch in her place.\r\n-Loot Dropped Pouch to pick up Illari's Key (this item can be looted regardless if you tagged Illari or not)\r\n-Use Illari's Key on Illari's Loot Cache on the other end of the dock.\r\n-Loot Jewel Encrusted Box from Illari's Loot Cache, inside will be the Rune of Eclipse. (Edit: Or in this case the end of the questline)",
+   "replies": []
+  }
+ ]
+}

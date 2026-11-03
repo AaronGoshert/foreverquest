@@ -1,0 +1,134 @@
+{
+ "id": 3792,
+ "name": "Morrowgrain to Feathermoon Stronghold",
+ "level": 55,
+ "reqlevel": 47,
+ "side": 1,
+ "zoneId": 1657,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": {
+  "type": "npc",
+  "id": 7879,
+  "name": "Quintis Jonespyre",
+  "zone": "Feralas",
+  "zoneId": 357,
+  "coords": [
+   [
+    32.4,
+    43.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7879,
+  "name": "Quintis Jonespyre",
+  "zone": "Feralas",
+  "zoneId": 357,
+  "coords": [
+   [
+    32.4,
+    43.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Progress Hello again, <name>.  My research is progressing fairly well, but if you have five more Morrowgrain I'd be happy to take them off your hands.  Well... happy is a figurative term in this case; the more I am around them, the more uncomfortable I feel.  Still, my research demands I buckle down and get through this. Morrowgrain  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11040,
+   "name": "Morrowgrain",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Morrowgrain",
+   "count": 5,
+   "type": "item",
+   "id": 11040
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 357,
+   "zone": "Feralas",
+   "point": "start",
+   "type": 1,
+   "id": 7879,
+   "name": "Quintis Jonespyre",
+   "coord": [
+    32.4,
+    43.8
+   ],
+   "coords": [
+    [
+     32.4,
+     43.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 357,
+   "zone": "Feralas",
+   "point": "end",
+   "type": 1,
+   "id": 7879,
+   "name": "Quintis Jonespyre",
+   "coord": [
+    32.4,
+    43.8
+   ],
+   "coords": [
+    [
+     32.4,
+     43.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 31,
+   "date": "2006-08-01T17:59:48-05:00",
+   "body": "This information should be accurate as of patch 1.11.2\n-------------------------------\n[b]Morrowgrain quests:[/b]\n\nThe Morrowgrain quests can be quite involved as there are two quest givers and turn-in locations. Also the rewards given are different for both turn-in locations. The actual process to get Morrowgrain takes several steps as well.\n\nThe quest line starts with a quest called [b]Morrowgrain Research[/b] which is given out by Arch Druid Fandral Staghelm. Arch Druid Fandral Staghelm may be found at Thottbot coordinates 35,8 in Darnassas. He is located at the top level of the Druid complex (Cenarion Enclave). He asks you to take a packet of 20 [b]Tharlendris seeds[/b] to the middle level of the same complex and give them to Mathrengyl Bearwalker who gives out the next quest. That quest is also titled [b]Morrowgrain Research[/b] (Just to confuse things).\n\nThe second [b]Morrowgrain Research[/b] quest has you take a special pouch called an [b]Evergreen Pouch[/b] (Provided when you receive the quest) and put into it 2 [b]Un'Goro Soil[/b] (Collected in Un’Goro Crater) and 1 of the [b]Tharlendris seeds[/b] from the packet (First 10 seeds given to you with the quest). With 2 Un'Goro Soil in your backpack along with 1 Tharlendris seed, you right click the Evergreen pouch. The pouch will plant the seed into the soil and grow an [b]Evergreen Herb Casing[/b]. When you right click the casing, out will pop a random herb. One of the herbs grown may be [b]Morrowgrain[/b]. When you have 10 of them you turn them in to complete the quest. You can repeat this quest as many times as desired. You can grow a new Evergreen Herb Casing once every 10 minutes.\n\nThere is a second parallel quest line involving Morrowgrain as well. This chain of quests starts with either Innkeeper Shyria in the Inn of Feathermoon Stronghold in Feralas or with Tannysa the Herbalism trainer in the Mage Quarter of Stormwind. Talking to either of these two people will give you a quest titled [b]Jonespyre's Request[/b] which asks you to go talk to Quintis Jonespyre in the Feathermoon Stronghold in Feralas. Quintis Jonespyre will then give you the repeatable quest titled [b]The Mystery of Morrowgrain[/b]. This quest is identical to the above quest (Use the Evergreen pouch to grow an Evergreen Herb Casing from 1 Tharlendris seed and 2 Un'Goro Soil and out pops a random herb) except you only need to turn in 5 Morrowgrain.\n\nIn the end, you now have two locations to turn in Morrowgrain:\n\nTurning in [b]5 Morrowgrain[/b] to Quintis Jonespyre in the Feathermoon Stronghold in Feralas will give you [b]25 reputation with Darnassas[/b]. In addition he also gives you another packet of 10 Tharlendris seeds so you can go out and grow more.\n\nTurning in [b]10 Morrowgrain[/b] to Mathrengyl Bearwalker at the Cenarion Enclave in Darnassas will earn you [b]50 reputation with Darnassas[/b]. In addition he also gives you a [b]Cenarion Circle Cache[/b]. Opening this will provide a random number of items as loot. Typically there are 4-8 items in the bag although I have seen only 1 before and as many as 14 per Cenarion Circle Cache. The Cenarion Circle Cache typically contains food, drinks, scrolls, potions, herbs etc. For a list of the types of items found in each Cache please see the following link: https://www.wowhead.com/forever/item=5533/ilkrud-magthrulls-tome You can get a lot of really good stuff in these caches.\n\n[b]Where to get Un’Goro Soil:[/b] Un’Goro Soil is found in Un’Goro Crater (Southern end of Kalimdor). Un’Goro Soil is dropped (from Dinosaurs) throughout the crater. Just run around the zone (Avoiding being stepped on or eaten by the dinosaurs) and right click the dirt piles you see laying on the ground. Un’Goro Soil is often found in the AH as well. Un’Goro Soil stacks up to 100 units per stack now.\n\n[b]Where to get Tharlendris seeds:[/b] Tharlendris seeds may be purchased from either of the two turn-in NPCs or you can get them as part of your turn-in reward when you turn in Morrowgrain to Quintis Jonespyre in the Feathermoon Stronghold in Feralas.\n\n[b]Where to get an Evergreen pouch:[/b] An Evergreen pouch is given to you when you receive the second Morrowgrain Research quest. Replacements may be purchased (For around 1 Gold) from either of the two turn-in NPCs.\n\n\n[b]The rewards:[/b]\n\nOnce you have grown Evergreen Herb Casings and retrieved the herbs out of the casings you can either turn in the Morrowgrain for reputation, sell it on the AH or use it to make Cenarion Herb Bags (Manufacturing 20 slot herb bags requires 8 Morrowgrain as one of the materials to make 1 bag). In addition the loot from the Cenarion Circle Cache is typically valued at several gold and may be used or sold as needed.\n\nIn addition to growing Morrowgrain, the Evergreen Herb Casings often contains other herbs which may be used or sold as needed. How much Morrowgrain or other herbs you grow and which types depend on your Herbalism skill. As an example, I dropped the Herbalism profession completely and grew 65 Evergreen Herb Casings. Out of those casings I received the following:\n\nMorrowgrain 50\nKingsblood 6\nGromsblood 3\nEarthroot 9\nBriarthorn 8\nLiferoot 7\nMageroyal 5\nSungrass 2\n\nFor a total of 90 herbs averaging 1.48 herbs per Evergreen Herb Casing. For the most part these are lower-end herbs.\n\nI relearned Herbalism and worked it up to 300 skill level. I then grew 65 more Evergreen Herb Casings. This is what I received from those:\n\nMorrowgrain 75\nKingsblood 22\nGromsblood 2\nLiferoot 6\nSungrass 5\nStranglekelp 13\nBlindweed 5\nGoldthorn 22\nFirebloom 2\n\nFor a total of 152 herbs averaging 2.34 herbs per Evergreen Herb Casing. For the most part these are higher-end herbs. The maximum # of herbs out of any single casing is 5.\n\nAs I went up in skill level, the numbers and types of herbs increased steadily.\n\nAll in all 300 Herbalism will result in a 50% increase in Morrowgrain output and a 70% increase in the number of herbs grown as well as large increase in the value of the herbs.\n\nMost people performing the Morrowgrain quests keep the pouch, seeds and soil in their backpack and as they run around Azeroth they pop out a new batch of herbs once every ten minutes. For an Alchemist this results in a steady supply of herbs for use in potions and for others it results in a steady supply of cash from the sale of those herbs. The hardest part is having enough space in your bags for all those herbs!",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2007-01-07T13:05:57-06:00",
+   "body": "Assuming you can get lucky, basically what you can do is do this repeatable about 10 times to get 100 seeds, then just do Darnassus turn-ins until you run out of seeds, rinse and repeat. You won't have to buy any seeds assuming you don't have terrible luck.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-02-28T17:33:19-06:00",
+   "body": "I'll take the 4-5g worth of potions all day long.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-05-12T01:43:56-05:00",
+   "body": "This quest gives 16 rep pts for darnassus at lvl 57.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-25T20:01:06-06:00",
+   "body": "With the 1.8 patch it gives 25 rep for everyone, even level 60.   Returning to Darnassus gives 50 rep but takes 10 morrowgrain, so from a rep perspective it makes no difference which one you return to.  Only the additional potion vs seed packet rewards really makes the difference.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-10T20:00:31-05:00",
+   "body": "i'm at feathermoon now, and can't find anyone with a blue ? over their head... and at the moment, alla lists no one to turn it into or anything... \n\naha found him... on top of one of those tree-things where you wind around the inside then wind around the outside...  \n\nEdited, Fri May 26 10:29:44 2006",
+   "replies": []
+  }
+ ]
+}

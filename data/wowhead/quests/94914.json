@@ -1,0 +1,120 @@
+{
+ "id": 94914,
+ "name": "Moonglade",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": -263,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 210,
+ "start": {
+  "type": "npc",
+  "id": 5504,
+  "name": "Sheldras Moontree",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    21,
+    55.4
+   ],
+   [
+    21,
+    55.6
+   ],
+   [
+    36,
+    67.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11802,
+  "name": "Dendrite Starblaze",
+  "zone": "Moonglade",
+  "zoneId": 493,
+  "coords": [
+   [
+    56.2,
+    30.4
+   ],
+   [
+    56.2,
+    30.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Use the spell \"Teleport: Moonglade\" to travel to Moonglade. When you arrive, speak with Dendrite Starblaze in the village of Nighthaven.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 11802,
+   "name": "Dendrite Starblaze",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  5923,
+  5921,
+  5929,
+  5931,
+  6001
+ ],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 5504,
+   "name": "Sheldras Moontree",
+   "coord": [
+    21,
+    55.4
+   ],
+   "coords": [
+    [
+     21,
+     55.4
+    ],
+    [
+     21,
+     55.6
+    ],
+    [
+     36,
+     67.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 493,
+   "zone": "Moonglade",
+   "point": "end",
+   "type": 1,
+   "id": 11802,
+   "name": "Dendrite Starblaze",
+   "coord": [
+    56.2,
+    30.4
+   ],
+   "coords": [
+    [
+     56.2,
+     30.4
+    ],
+    [
+     56.2,
+     30.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

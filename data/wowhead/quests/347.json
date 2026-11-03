@@ -1,0 +1,657 @@
+{
+ "id": 347,
+ "name": "Rethban Ore",
+ "level": 24,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 970,
+ "start": {
+  "type": "npc",
+  "id": 341,
+  "name": "Foreman Oslow",
+  "zone": "Redridge Mountains",
+  "zoneId": 44,
+  "coords": [
+   [
+    27,
+    48.4
+   ],
+   [
+    27,
+    48.6
+   ],
+   [
+    32,
+    48.4
+   ],
+   [
+    32.2,
+    48.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 951,
+  "name": "Brother Paxton",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    49.4,
+    40.4
+   ],
+   [
+    49.6,
+    40.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Gather 5 loads of Rethban Ore and bring it to Brother Paxton in the Northshire Library. Rethban Ore  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 2798,
+   "name": "Rethban Ore",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Rethban Ore",
+   "count": 5,
+   "type": "item",
+   "id": 2798
+  }
+ ],
+ "series": [
+  343,
+  344,
+  345,
+  347,
+  346
+ ],
+ "points": [
+  {
+   "zoneId": 44,
+   "zone": "Redridge Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 341,
+   "name": "Foreman Oslow",
+   "coord": [
+    32.2,
+    48.6
+   ],
+   "coords": [
+    [
+     27,
+     48.4
+    ],
+    [
+     27,
+     48.6
+    ],
+    [
+     32,
+     48.4
+    ],
+    [
+     32.2,
+     48.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 44,
+   "zone": "Redridge Mountains",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 580,
+   "name": "Redridge Drudger",
+   "coord": [
+    20.2,
+    27.8
+   ],
+   "coords": [
+    [
+     10.4,
+     20.2
+    ],
+    [
+     10.6,
+     20.1
+    ],
+    [
+     10.6,
+     20.5
+    ],
+    [
+     11.3,
+     22.1
+    ],
+    [
+     11.5,
+     21.9
+    ],
+    [
+     11.6,
+     18.5
+    ],
+    [
+     12.4,
+     19.5
+    ],
+    [
+     12.8,
+     19.8
+    ],
+    [
+     13.3,
+     15.3
+    ],
+    [
+     13.3,
+     23.3
+    ],
+    [
+     13.3,
+     23.7
+    ],
+    [
+     13.7,
+     24.3
+    ],
+    [
+     13.9,
+     25.1
+    ],
+    [
+     14.5,
+     24
+    ],
+    [
+     14.8,
+     27.4
+    ],
+    [
+     15,
+     20.6
+    ],
+    [
+     15.6,
+     28.4
+    ],
+    [
+     15.6,
+     28.8
+    ],
+    [
+     15.8,
+     19.4
+    ],
+    [
+     15.8,
+     20.4
+    ],
+    [
+     16,
+     17
+    ],
+    [
+     16,
+     17.6
+    ],
+    [
+     16.2,
+     21.4
+    ],
+    [
+     16.2,
+     21.6
+    ],
+    [
+     16.2,
+     23.7
+    ],
+    [
+     16.7,
+     14.6
+    ],
+    [
+     16.8,
+     14.4
+    ],
+    [
+     16.9,
+     16.5
+    ],
+    [
+     17,
+     22.2
+    ],
+    [
+     17.2,
+     17.6
+    ],
+    [
+     17.2,
+     19.4
+    ],
+    [
+     17.2,
+     20.7
+    ],
+    [
+     17.4,
+     22.6
+    ],
+    [
+     17.6,
+     22.8
+    ],
+    [
+     18,
+     20
+    ],
+    [
+     18.2,
+     15.4
+    ],
+    [
+     18.4,
+     18.6
+    ],
+    [
+     18.4,
+     23.8
+    ],
+    [
+     18.8,
+     14.6
+    ],
+    [
+     18.8,
+     24.4
+    ],
+    [
+     19,
+     24.8
+    ],
+    [
+     19.2,
+     14
+    ],
+    [
+     19.2,
+     23.4
+    ],
+    [
+     19.4,
+     22.2
+    ],
+    [
+     19.4,
+     26
+    ],
+    [
+     19.6,
+     26.2
+    ],
+    [
+     19.8,
+     13.4
+    ],
+    [
+     19.8,
+     26.8
+    ],
+    [
+     20,
+     20.6
+    ],
+    [
+     20,
+     23.8
+    ],
+    [
+     20.2,
+     27.8
+    ],
+    [
+     20.6,
+     13.6
+    ],
+    [
+     20.6,
+     28.2
+    ],
+    [
+     20.8,
+     28.6
+    ],
+    [
+     21.2,
+     23.6
+    ],
+    [
+     21.6,
+     14.8
+    ],
+    [
+     21.8,
+     23
+    ],
+    [
+     22,
+     16
+    ],
+    [
+     22.2,
+     17.2
+    ],
+    [
+     22.2,
+     21
+    ],
+    [
+     22.2,
+     21.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 951,
+   "name": "Brother Paxton",
+   "coord": [
+    49.4,
+    40.4
+   ],
+   "coords": [
+    [
+     49.4,
+     40.4
+    ],
+    [
+     49.6,
+     40.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 51,
+   "date": "2005-10-29T05:14:33-05:00",
+   "body": "Actually the Cavern is located North West of Lakeshire past a Redridge Gnoll encampment.&nbsp; If you are using /tloc then the coordinates are 20, 29. Another thing to add is that from what I have seen, only the Redridge Drudgers carry the ore.",
+   "replies": []
+  },
+  {
+   "rating": 47,
+   "date": "2007-03-10T20:43:17-06:00",
+   "body": "Its also not a quest item nor Bind on Pick-Up, so a very good way to check for it, is in the Auction house, its usually pretty cheap, and will save you a ton of time...",
+   "replies": [
+    "Good tip... I dislike Redridge area, so between the flight cost and my time I spent 12 silver in AH for the 5 ore.",
+    "As this isnt a quest only or BOP item you can get it from mobs and mines w/o being on the quest. So you can come on high lvl toon and mine/kill for a whiel to get some then mail it to you lowbie(s) who need it"
+   ]
+  },
+  {
+   "rating": 25,
+   "date": "2007-04-02T12:55:21-05:00",
+   "body": "At the mailbox in front of the Inn, there is a road leading up the hill to the herbalist's house. Go around back and just past the garden area to your right is a path leading up to&nbsp; Rethban Canyon. There will be a mob to the right, but depending on how smart you are, you might be able to avoid them. Follow the path killing as you go and you will come to an area where the Rethban Cave is 20.28. The drop rate wasn't the best, but wasn't bad either.",
+   "replies": []
+  },
+  {
+   "rating": 24,
+   "date": "2007-03-25T08:45:00-05:00",
+   "body": "The cave is located @ 20,29 in Redridge Mountains",
+   "replies": []
+  },
+  {
+   "rating": 23,
+   "date": "2007-02-27T21:15:17-06:00",
+   "body": "Much easier to mine it (Tin veins in the cave contain the ore), but the gnolls inside drop it also.",
+   "replies": [
+    "same does copper veins"
+   ]
+  },
+  {
+   "rating": 12,
+   "date": "2006-01-10T05:14:33-06:00",
+   "body": "more like 1/8 for me. Only the Drudgers seem to give out ore, ignore the bashers...",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-10-29T05:14:33-05:00",
+   "body": "I got 1/3 drops on these inside the cave.&nbsp; I thought it was another quest like \"Search for Incendicite\" that required a miner.\n\nNope.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-29T05:14:33-05:00",
+   "body": "Since this item is for a quest, why not offer to trade it with other players, to save them the time of getting it themselves.\n\nI believe it's also much easier for miners, so those without the skill could spend a lot of time working on it, trying to get the ore from drops.\n\nIn general, if an item is for quests, go the nearest town and offer it for trade or even for money (just don't be greedy) and you'll probably get takers.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-01-10T05:14:33-06:00",
+   "body": "Northwest cave on the minimap.\n\nI got there by going on the path that runs directly behind Lakeshire, parallel to Lakeshire buildings.&nbsp; Go straight back and the path to the cave it on the right.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-03-04T05:47:52-06:00",
+   "body": "these guys were 19-21, nice place to solo.  they were spaced out far enough that it's good to make a run thru here to mine or quest this item.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-29T05:14:33-05:00",
+   "body": "I completed this quest like a week ago, and i still have all of the ore?",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-29T05:14:33-05:00",
+   "body": "You can also get it to drop by mining any of the ore veins in the caverns.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2019-11-11T15:59:26-06:00",
+   "body": "Okay, so, I took time to create an account just to comment on this godforsaken quest.\r\nIf you love yourself, you will buy these from the AH.\r\nI spendt 1.5h as a priest grinding mobs (Drudgers) and got 1 drop from the mobs. The remaining 4 I mined from various mines in the cave.\r\nThis quest is extra fun as a caster since the drugers are equipped with 2x1h weapon with an attack rate of 1.5 or so, so your spells have aproximatly 3x the cast time.\r\nFun fun fun!\r\nI have had artifact drops with better droprate than this.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-06-05T05:14:33-05:00",
+   "body": "this quest is found at 20, 29 for all of you with cosmos",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-17T17:43:21-05:00",
+   "body": "My drop was around the 1/8 mark, kinda shabby, but it's done now..\nAlso the rate I got per node (mining) was about 1/5.\n\nAnd yush, confirming the bashers do not drop ore.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-01T02:35:48-06:00",
+   "body": "Buy the ore in the AH - no dying :D",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-10-20T11:57:26-05:00",
+   "body": "5 Rethban Ore needed to turn-in the quest. I bought it on the AH around 4s each",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2020-06-09T07:46:18-05:00",
+   "body": "Definitely a lot easier for miners as you can mine the ore from regular ore nodes.  The general drop rates aren't very good so if you don't mine, expect it to take a while to get all 5.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-10T05:14:33-06:00",
+   "body": "The location is indeed at 20, 29. The rate for me was about 1/5. Did it as a 25 Rogue, was fine.\n\nI do recommend being a miner for this quest, because it might take a while to get all the Ore. Took me a total of 25 minutes. =[\n\nGood luck.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-04T17:14:33-06:00",
+   "body": "if you ask for rethban ore in town i'm sure someone would be able to give you some",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-04T17:14:33-06:00",
+   "body": "the ore is for a chain of quests that all start in the chapel of light in stormwind that leads you to lakeshire, its made for an ink for this guy to copy a book and once you get it he finishes copying and you take the book back to the starting location to complete",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-05T05:14:33-05:00",
+   "body": "Cavern is located North West of Lakeshire past a Redridge Gnoll. = D",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-24T05:14:33-05:00",
+   "body": "i dunno bout the drop rate but it was lousy for me, so my advice is to check if some kind soul can give it or in worse case sell it&nbsp; :/",
+   "replies": [
+    "My drop rate was good. Got about 10 in 10 minutes, if that. Buuut I'm also 29 and killed those guys really fast."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-17T17:43:21-05:00",
+   "body": "the drop rate is horrible for me, lvl 28 hunter. It's like 1/10 drudgers. XP",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-17T17:43:21-05:00",
+   "body": "This quest is fairly easy especially if you have a mining skill. And stick to the Drudgers, they drop them. I killed 3 and got 2 Rethban Ores out of 3 of them. And then the mining skill comes in handy cause in the cave there are tin veins, and while mining one of them I got two of the rethban ores. So, mining in there pays off if you don't want to fight themm, which you can easily slip by them.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-21T04:16:57-05:00",
+   "body": "Took me awhile to find the path. Stay to the left just after getting to the top of the hill behind Lakeshire.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-28T08:35:56-06:00",
+   "body": "The entrance to the cavern is at 20,27 Cosmos loc.\n\n[npc=580]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-28T15:48:29-05:00",
+   "body": "you can get them from the Drugers, or mine them from veins if you got the skill. I got over 20 while skilling mining (about 3 tin and 3-4 copper veins in, also 2-3 spots for chests) and gave some to other players, but generaly you can just throw them away once you're done, unless you got an alt and want to spare some trouble for him.",
+   "replies": [
+    "got this every time I mined.  Bring a friend to help if you dont mine and this goes A LOT faster."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-07T13:27:09-05:00",
+   "body": "If you are near Lakeshire (Redridge Mountains) just go in the \"Rethban Caverns\" and mine the Vein's there, also kill Redrige mobs while waiting, I got 3 of my Rethban Ore's just killing! :D\n\nEdited, Fri Oct  7 09:46:02 2005",
+   "replies": [
+    "I didn't got any Ore here and I kill everythign 2 times"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-29T03:52:12-06:00",
+   "body": "coords anyone?",
+   "replies": [
+    "Coords 20,27\n\nLots of 19 and 20 level mobs but they are spaced out well enough to only have to fight one save a pat or two. \n\nDrudgers are the only ones that drop the ore reliably unless you can mine it out of the few tin veins in the cave. I had to clear the cave 3 times to get 5/5 ore. Poor drop rate.\n\nOn the up side, I looted a blue (silver-linked footguards) and 2 greens (Bard's Tunic of Agility and Pattern: Hillman's leather vest. Modest amount of copper."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-24T23:35:34-06:00",
+   "body": "Finshed This Quest with LVL 20 Human Mage, Received:\n\nExperience Gained: 975\nReputation With  Increased By: 82\n\n\nI had no problems with the cave at LVL 20, I gained around 2k exp from killing MOBs and got 1 Green drop and maybe 8-10 Silver in the little time I was there. It took maybe 10 minutes to get my 5 Ore and I used Hearthstone to get out easily.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-02T01:42:44-06:00",
+   "body": "The Drudgers drop this most often, but you can mine it like there's no tomorrow from the copper and tin veins, I was finding 1-2 per vein.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-09T16:23:39-05:00",
+   "body": "So I guess these are worthless after the quest is over ?  ..because I have a bunch of leftover ones",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-14T11:30:25-05:00",
+   "body": "Only Drudger's who drop the ore. Droprate is ~26 % (5/19). You need to kill a lot of other mobs to reach the Drudgers. I did this quest at lvl 23... no problem but it took me 30 min.\n\nI suggest you bring a friend who can mine the #$%^ if you are in a hurry. :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-31T18:03:53-06:00",
+   "body": "the rethban caverns are located behind and a little to the west of lakeshire.. they are up in the mountains.. if you look on your map you will see a cave indent for them .. that is where they are.. you can pretty much pick them off one by one, but when they are close to dying they run  and they will come back with more! the drop rate isn't spectacular but it is okay. i got the ore from both bashers and drugers. [][/][][/]\n\n\n\n\n                                         good luck\n\n                                     from bara\n\n[i][small]Edited, Jan 31st 2007  3:04pm by donmel[/small][/i]\n\n[i][small]Edited, Jan 31st 2007  3:07pm by donmel[/small][/i]",
+   "replies": [
+    "a level 20 can do this quest solo and they do drop green.."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-04T20:28:38-06:00",
+   "body": "how do you get to the caverns?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-07T17:42:53-05:00",
+   "body": "Spent only 30min inside the cavern & came out with 40tin, 40 copper, & 20 Rethban ore. It was the easiest run through ive ever had lol & i did it with my lvl 25 Palladin.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-11T14:43:58-06:00",
+   "body": "cleaned out the cave twice, got 1 ore. being lvl 30 allready, i'm abandoning this quest. I find it to be a waste of time beyond lvl 26\n\ndid found 2 greens though ;-)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-02-24T10:24:07-06:00",
+   "body": "actually the hardest part of this quest was going to to the correct place, the map is correct. The cave lay out is just like all other cave layouts,  come farm your items,  they drop off of mobs, and can be mined, there is even an escort quest in the cave which leads you back to town,  I met a pick up group  here,  seems to be a trend on the alliance side, (Horde players always seem to solo everything),  which makes this a quick easy quest to do.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-02-29T11:25:13-06:00",
+   "body": "Run out of town through the garden, go up the path on your right.\r\nStay left.\r\nPath to the cave is behind the first camp.\r\n\r\nMined from the tin veins and drops (slowly) from the gnolls.\r\nAlso silver in the mine as a nice bonus.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-03-13T18:32:44-05:00",
+   "body": "Cords: 20,28. Its 100% drop chance, i got it from 5 Drudgers...",
+   "replies": [
+    "incorrect. you just got extremely lucky.\n\nfull clear of cave including many drudgers and ardo yielded me 1 x ore."
+   ]
+  }
+ ]
+}

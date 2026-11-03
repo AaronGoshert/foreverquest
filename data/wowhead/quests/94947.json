@@ -1,0 +1,152 @@
+{
+ "id": 94947,
+ "name": "Welcome to Azeroth",
+ "level": 13,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 680,
+ "start": {
+  "type": "npc",
+  "id": 259084,
+  "name": "Denaaris Stargale",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    12.2,
+    56.6
+   ],
+   [
+    12.4,
+    56.2
+   ],
+   [
+    12.6,
+    56
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1748,
+  "name": "Highlord Bolvar Fordragon",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    77.4,
+    18.4
+   ],
+   [
+    77.4,
+    18.8
+   ],
+   [
+    77.6,
+    18.6
+   ],
+   [
+    78,
+    18
+   ],
+   [
+    80,
+    38.4
+   ],
+   [
+    80,
+    38.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Take the Skyborne Portal to Stormwind and report to Bolvar Fordragon in Stormwind Keep.   Take the Skyborne Portal to Stormwind  ( 1 )",
+ "objectives": [],
+ "objectiveRows": [
+  {
+   "text": "Take the Skyborne Portal to Stormwind",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [
+  93835,
+  94369,
+  93089,
+  94946,
+  94947,
+  93963
+ ],
+ "points": [
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 259084,
+   "name": "Denaaris Stargale",
+   "coord": [
+    12.4,
+    56.2
+   ],
+   "coords": [
+    [
+     12.2,
+     56.6
+    ],
+    [
+     12.4,
+     56.2
+    ],
+    [
+     12.6,
+     56
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 1748,
+   "name": "Highlord Bolvar Fordragon",
+   "coord": [
+    78,
+    18
+   ],
+   "coords": [
+    [
+     77.4,
+     18.4
+    ],
+    [
+     77.4,
+     18.8
+    ],
+    [
+     77.6,
+     18.6
+    ],
+    [
+     78,
+     18
+    ],
+    [
+     80,
+     38.4
+    ],
+    [
+     80,
+     38.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

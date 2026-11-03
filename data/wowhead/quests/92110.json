@@ -1,0 +1,54 @@
+{
+ "id": 92110,
+ "name": "My First Real Potion",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 420,
+ "start": {
+  "type": "npc",
+  "id": 249713,
+  "name": "Odd Child"
+ },
+ "end": {
+  "type": "npc",
+  "id": 249713,
+  "name": "Odd Child"
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Gather 3 Murloc Eyes for the young, aspiring alchemist inside the barn of Moonbrook in Westfall . Murloc Eye  ( 3 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 730,
+   "name": "Murloc Eyes",
+   "count": 3,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4597,
+   "name": "Recipe: Minor Discolored Healing Potion",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Murloc Eye",
+   "count": 3,
+   "type": "item",
+   "id": 730
+  }
+ ],
+ "series": [
+  92109,
+  92110
+ ],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

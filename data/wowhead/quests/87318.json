@@ -1,0 +1,168 @@
+{
+ "id": 87318,
+ "name": "Hearts of the Lost",
+ "level": 33,
+ "reqlevel": 28,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2650,
+ "start": {
+  "type": "npc",
+  "id": 5683,
+  "name": "Corma Villard",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    49.2,
+    12
+   ],
+   [
+    49.4,
+    11.4
+   ],
+   [
+    50,
+    12.4
+   ],
+   [
+    50,
+    12.6
+   ],
+   [
+    50.6,
+    12.4
+   ],
+   [
+    50.6,
+    12.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 271322,
+  "name": "Essene Villard",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    51.4,
+    9
+   ],
+   [
+    51.6,
+    9
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Search for Corma's partner Essene.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [
+  87318,
+  88757,
+  88758
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 5683,
+   "name": "Corma Villard",
+   "coord": [
+    50,
+    12.6
+   ],
+   "coords": [
+    [
+     49.2,
+     12
+    ],
+    [
+     49.4,
+     11.4
+    ],
+    [
+     50,
+     12.4
+    ],
+    [
+     50,
+     12.6
+    ],
+    [
+     50.6,
+     12.4
+    ],
+    [
+     50.6,
+     12.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 271322,
+   "name": "Essene Villard",
+   "coord": [
+    51.4,
+    9
+   ],
+   "coords": [
+    [
+     51.4,
+     9
+    ],
+    [
+     51.6,
+     9
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-11T01:42:15-05:00",
+   "body": "As a level 30 night elf, this NPC has no quest for me. I completed the Thandol Span quests, but not the Dun Modr elite quests, and she still did not have one. Did Blizzard disable or remove this quest, or is there some prerequisite or restriction that's not noted?",
+   "replies": [
+    "I havent test yet, but from what i can see in the only video of that quest being doing hes doing https://www.wowhead.com/classic/quest=304/a-grim-task but NOT https://www.wowhead.com/classic/quest=303/the-dark-iron-war , so im thinking maybe after that quest it pops up?",
+    "Update, did the dark iron war, still doesnt have quest available"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-05T07:34:07-05:00",
+   "body": "I guess in an alternate-story direction of Forever, there are alternate-universe people, too...\n\nhttps://warcraft.wiki.gg/wiki/Comar_Villard",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-13T00:03:34-05:00",
+   "body": "As a level 30 Human Warrior, this was not offered to me and I completed just about every quest in the zone already. Will update once ATT shows I've done everything else.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-18T21:49:13-05:00",
+   "body": "As a 29 Skyborne Druid, this quest was not available to me.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2026-10-06T15:58:15-05:00",
+   "body": "She's in the lower part of the bridge. Just enter right tower (if you're going from Wetlands) and go two floors down, then you'll find her. Use /target + marker for extra help\n\nupd. according to the latest comments on the NPCs page she was removed from that place so info might not be actual.",
+   "replies": []
+  }
+ ]
+}

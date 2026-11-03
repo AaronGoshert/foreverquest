@@ -1,0 +1,419 @@
+{
+ "id": 6132,
+ "name": "Get Me Out of Here!",
+ "level": 39,
+ "reqlevel": 34,
+ "side": 3,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2250,
+ "start": {
+  "type": "npc",
+  "id": 12277,
+  "name": "Melizza Brimbuzzle",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    33.8,
+    53.4
+   ],
+   [
+    33.8,
+    53.6
+   ],
+   [
+    34.2,
+    55.4
+   ],
+   [
+    34.2,
+    55.6
+   ],
+   [
+    34.8,
+    57.4
+   ],
+   [
+    35,
+    57.8
+   ],
+   [
+    36.2,
+    59.2
+   ],
+   [
+    37.4,
+    60.6
+   ],
+   [
+    37.6,
+    60.6
+   ],
+   [
+    38.8,
+    61.2
+   ],
+   [
+    39.6,
+    61.4
+   ],
+   [
+    47.4,
+    61.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 6019,
+  "name": "Hornizz Brimbuzzle",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    47.8,
+    61.4
+   ],
+   [
+    47.8,
+    61.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Escort Melizza Brimbuzzle , then speak with Hornizz Brimbuzzle at the Kodo Graveyard in Desolace .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 12277,
+   "name": "Melizza Brimbuzzle",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 12277,
+   "name": "Melizza Brimbuzzle",
+   "coord": [
+    33.8,
+    53.4
+   ],
+   "coords": [
+    [
+     33.8,
+     53.4
+    ],
+    [
+     33.8,
+     53.6
+    ],
+    [
+     34.2,
+     55.4
+    ],
+    [
+     34.2,
+     55.6
+    ],
+    [
+     34.8,
+     57.4
+    ],
+    [
+     35,
+     57.8
+    ],
+    [
+     36.2,
+     59.2
+    ],
+    [
+     37.4,
+     60.6
+    ],
+    [
+     37.6,
+     60.6
+    ],
+    [
+     38.8,
+     61.2
+    ],
+    [
+     39.6,
+     61.4
+    ],
+    [
+     47.4,
+     61.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 6019,
+   "name": "Hornizz Brimbuzzle",
+   "coord": [
+    47.8,
+    61.8
+   ],
+   "coords": [
+    [
+     47.8,
+     61.4
+    ],
+    [
+     47.8,
+     61.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 43,
+   "date": "2006-09-29T05:37:45-05:00",
+   "body": "This took me a few runs and you may need a mount, not sure.\n\n1. Make sure the path is clear.\n2. Start the quest.\n3. When the 4 Centaur show up, move to your left and keep moving east as far from them as possible. They will not attack and disappear.\n4. When the group at the gate appears with the two dogs, jump on your mount and aggro them. Run them around for a little while, they will eventually disappear.\n5. By this time she is running to the quest turn-in.",
+   "replies": [
+    "The issue is.... people lvl 40 don't quest in desolace. Which means most people trying this dont have a mount."
+   ]
+  },
+  {
+   "rating": 17,
+   "date": "2005-09-29T05:37:45-05:00",
+   "body": "Melizza is in a small wicker box next to a tent at the coordinates of 33,54. Hornizz is on the southwest side of the Kodo Cemetary at 47,62.",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2007-03-30T17:37:45-05:00",
+   "body": "I randomly decided to do this while attempting to get the horrible drop rate mouthpiece for the Khan Hratha quest. I figured I had to kill these guys anyway, why not spice it up and get some bonus xp? \n\nWRONG.\n\nThis just plain isn't worth the reward. 45 s? Please. Just pick the centaurs off one by one at your leisure and you can get more xp than this quest gives and you won't die. Why, oh why, do I keep trying escorts?",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2019-10-25T06:22:20-05:00",
+   "body": "[Classic] Completed today as a level 39 Hunter. To start with, I would definitely recommend clearing the path before starting the quest.\n\nWhen the NPC reaches the first intersection and the first wave of spawns appears, hang back, let her walk through (she will not aggro the mobs) and wait until the mobs despawn/a clear gap appears which you can run though without aggroing. When the NPC reaches the bottom of the camp a larger group will spawn - just attack them and pull them east, using slows and snares to kite them (as a Hunter I just used [spell=13809]). The NPC will just run ahead and complete the quest, you don't have to kill anything.",
+   "replies": [
+    "Thanks this worked perfectly"
+   ]
+  },
+  {
+   "rating": 10,
+   "date": "2006-12-07T22:59:46-06:00",
+   "body": "For those using coordinates, the Goblin's Cage is located at 33,53, just around the side of the tent entrance.  During the escort in addition to the regular mobs in the area, 4 maulers will spawn as she approaches the first Y intersection, and 3 wranglers along with their hyena's will spawn just as she exits the mountain area.\n\nAs long as you have some crowd control or assistance it shouldn't be too difficult to clear these larger spawns, but you are not able to pre-clear them or pull singles out to even the odds out.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2020-04-19T11:10:04-05:00",
+   "body": "Why is this not marked as a group quest? Very early on in the escort it spawns 4 mobs on you. FOUR! That's almost impossible for any class to handle unless you're way overleveled. Nice job blizz.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-05-19T21:31:57-05:00",
+   "body": "This one isn't an elite quest, but it is distinctly [i]not[/i] a solo quest.  It's way too hard.\n\nThe NPC heads down the mountain to the east.  If you clear a path, there are two waves of linked mobs that will jump you.\n\n\"Linked\", as in, \"you can't pull just one or two...they all come together.\"\n\nThe first wave is four fighter centaurs.  With the NPC's help, a lot of skill, a couple of extra levels, and a bit of luck, you might be able to solo them.\n\nThe second (and last) wave, forget it!  It was too chaotic for me to count everyone, but I think there were five centaurs, and three of them had pet hyenas!  Yikes!  Bring at least one helper...maybe two or three.\n\nIf you get into trouble, let the NPC die.  You'll fail the quest, but the bonus quest mobs will fade away immediately, and you'll be safe.  Then, you just have to wait for the quest NPC to respawn (it takes a few minutes...re-clear the path).\n\nOnce you kill the second wave, the NPC runs to the hut where you turn in the quest.  Just follow her.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-11-25T21:08:09-06:00",
+   "body": "Get this quest from the caged goblin in the Valley of the Spears.  If you enter from the front of the valley, she is towards the right.  You will need to clear both regular mobs and mobs that appear every so often to attack her.  Bring at least one friend and it's not hard at all.",
+   "replies": [
+    "I did this alone on my hunter 2 times and failed. I could take the first group of 4, but i failed on the second group. Simply to hard for me on my own. Not me though, i had enough hp, but that dumb goblin died :P"
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2007-02-22T05:37:45-06:00",
+   "body": "I cleared one at a time the whole way up. Than started. Stayed left of the guards. Avoided them. As for the dogs and stuff, that didnt' work out. Tried again except instead of fighting, I had them attack me, I had bout 4 life when I feigned and they went after escort dude. Complete.. handed in quest. As for letting her out, when you accept, the door opens.",
+   "replies": [
+    "This is 100% how to solo it as rogue. Pre-clear the route on the way in, start the quest. Sidestep the first group to the left, then kite the final group as long as possible using sprint and evasion. I used a health pot and then vanished just before dying. By that time the quest is complete.",
+    "Can confirm this is the way to go, done it with a level 42 hunter/41 cat. I walked past the first two groups that showed up thinking oh that was easy, then realised there is a second bunch of centaurs and wolves that is much, much more dangerous and unavoidable because she walks right into them. About 8 mobs. I used a freezing trap as well. Feign death and a heal potion are very important. I'd probably recommend a defense potion as well, but I didn't use one. I also had stam/spirit food active."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2005-03-18T06:40:07-06:00",
+   "body": "I think this may be horde only.. I tried to talk to her but a sword appeared, not a chat bubble. Maybe a faction issue?\n\nAlso, FYI the camp is to the right when you enter from the East... it would be to the left if you're oming from the South.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-29T05:37:45-05:00",
+   "body": "I have tried it 3 times with a level 43 paladin.\n\nThe 2 patrols ALWAYS come at the same time, whatever you do. Even if you agro them as soon as they appear, the fool will come very quickly and WILL take agro from at least one of the centaurs...&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-06T13:32:43-06:00",
+   "body": "The directions by Kathucka (below) are accurate.  The female gnome is located behind the large tent on the right, as you approach from the south of the camp through the east entrance into the valley of spears, (north eastin the camp).  The camp is approximately 34, 56 in cosmos coordinates.  Quest was easy for a 48 hunter.\n\nEdited, Fri Jan  6 07:34:11 2006",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T05:37:45-05:00",
+   "body": "You will need to be able to tackle a dual pair spawn of lvl40 marauders, in addition to any patrols you didn't kill before starting the escort quest.\n\nI suspect it is a mistake that the pair of patrols start so close to each other so you need to be able to handle four mobs.\n\nTommy",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T05:37:45-05:00",
+   "body": "You can tackle the few mobs coming into the valley no problem, you can get the quest from her.\n\nHowever, you can't kill the the 4 lvl 40's when you try and leave the immediate area, nor can you kill the 4-6 mobs as you leave the valley.&nbsp; Also, if you or her die you fail the quest, die twice and she is no longer there for you to get the quest a 3rd time.\n\nNot being funny but is this suppose to be a group quest or something ?&nbsp; Don't try it solo unless u r lvl 45 or something.&nbsp; I'm lvl 39, just forget it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T05:37:45-05:00",
+   "body": "hmm ... I dunno about you guys, but I had hard time (and maybe bad luck) soloing thois as 46 rogue, at the beginning I had 4 x 40 lvl mobs, my sap missed so I had to fight them all 4, then 2 easy mobs, but at the end I had 4x39 lvl centaurs plus 3 37 or 38 lvl dogs, which is kinda too much to fight all at once, but no I was able to sap one centaur so I made it, but still, if this is a common spawn for that quest you will need a group",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T05:37:45-05:00",
+   "body": "I tried this as a 37 warrior as I was doing the Khan Hratha quest (tried it solo after finishing that quest with a group) since we had recently cleared the area. Got her all the way to the entrance ... and there were seriously 8 level 37-38 mobs gathered around the entrance... watched them attack the %^&* out of her, ran, and abandoned quest, never looking back. Escort quests are usually not worth the time and effort you have to put into them.",
+   "replies": [
+    "Finished this quest easily, solo as a lvl 38 priest.&nbsp; The trick is that the patrols that spawn are only up for a short time.&nbsp; So you need to let them spawn, and then agro a single centaur from behind you and let the goblin whack on them for a while.&nbsp; Don't kill it too quickly.&nbsp; If you stall long enough the patrols will despawn and you can walk right on by.",
+    "What the Priest suggested will most likely work, (haven't tried it out myself yet.)\n\nBut the Paladin is a liar.\n\nI made it passed the first 5 that ambush, with my 39 Rogue. Used hp pot, blind, evade, blade furry, and almost at the end of the fight when I was about to die I vanished and bandaged- they will go straight to her, but shes lvl 39 so she can tank them a bit. \n\nI was pretty proud of myself and thought I was going to make it out... until that last part where I wiped bigtime =/"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-16T17:37:45-06:00",
+   "body": "Level 37 mage solo'd it no problem.. not sure how it is as other classes but if you are a frost mage you shouldnt have much trouble here.. frost nova, blizz, cone, repeat victory.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-30T17:37:45-06:00",
+   "body": "Found this out by accident while doing the chicken escort quest in Hinterlands, but if you pull the mobs from far away, then kite, the NPC should just continue walking away, and if you can kite the mobs long enough, they should eventually \"get bored\" and head back.\n\nI was doing this on my 57 druid (yeah was a bit too high, but I wanted to try the quest seeing the girl locked up in there after helping my guild run thru maraudon lol), but the \"nuke mobs from distance, then kite them to let NPC run by\" thing worked.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-11T17:37:45-05:00",
+   "body": "go in a group, this is a quest u can do while waiting for the rest of the member of your party to get to Maraudon.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-27T07:04:09-05:00",
+   "body": "on way way to killing hratha today i decided to do this mission... 44 belf paly so i felt confident i could get things done. wrong! the 1st mob that spawns are 4 warrior (lotsa helath) style guys (lvl40s). these werent too much hassle. carried on.. killing a few lvl39 mobs... cake basically... then the final mob spawned and OMFG. 3 39 hunter types with 3 lvl 37 doggies... in the end their dps overwhlemed me and i had to bubble... which was when they slaughtered the goblin >.< if i used lay on hands i could have done it (but i was saving up 4 hratha!) probs... basically ignore this quest unless your in a group.. cos it sucks.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-01T16:05:34-06:00",
+   "body": "I can't seem to find the NPC to finish this quest(Hornizz).  The only camp east of the Kodo Graveyard that I can find is the one with the pack kodos or whatever.  But this guy isn't there.  If anyone has found him, can you help us out a little?",
+   "replies": [
+    "[url=/npc=6019]Hornizz[/url] is just to the west of the Kodo Graveyard.  He's on the ledge that surrounds the graveyard, so just follow the western edge of it."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-23T04:26:21-05:00",
+   "body": "As a 43 rouge I would say this quest is a waste of time.\nUnless you have a group, don't even try it...  too many centaurs\nand they just appear out of nowhere when whats-her-face gets close.\ni would've loved to go ahead and clear it away, but i was just waiting there when all of a sudden, im jumped by like 4 guys...  2 fine, 3 easy enough -- but 4?.... nah.",
+   "replies": [
+    "Like a good Q should be its a challenge\n\nFirst clear all the NPFCs - 4 new centaurs spawn at the path split\n\nMelizza takes the left path - I led the 4 down the right - if I had left combat there probably wouldnt have been a fight but 3 stayed with me - I walked backwards instead of ran\n\nThen there were 4 new centaurs with pets outside - I ran to the right and died - probably could have made it but again walked backwards instead of running\n\nMelizza went straight on and Q complete\n"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-10T03:57:33-06:00",
+   "body": "Just a note - if you are like me and didn't pay attention to where she ran off too after quest - he is at loc 48,62.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-12T18:41:46-06:00",
+   "body": "Like a good Q should be its a challenge\n\nFirst clear all the NPFCs - 4 new centaurs spawn at the path split\n\nMelizza takes the left path - I led the 4 down the right - if I had left combat there probably wouldnt have been a fight but 3 stayed with me - I walked backwards instead of ran\n\nThen there were 4 new centaurs with pets outside - I ran to the right and died - probably could have made it but again walked backwards instead of running\n\nMelizza went straight on and Q complete",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-22T16:35:27-05:00",
+   "body": "L42 NE R at the time.  Would clear out all NPCs prior to opening cage, letting Melizza out, and watch her saunter down the valley until we would eventually meet the group of 6-7 NPCs that she would walk straight into.\n\nI tried everything, to include stealthing far in advance and Sapping one of the NPCs, then fighting the others...but my level was too low every time, and I would have to Vanish to avoid being killed.  Still couldn't get this done even casting some \"Scroll\" spells on myself.\n\nWhile I was waiting immediately after a failed attempt...a L60 Warrior passed by en route to Maradon.  I asked her to help me for three minutes...and she agreed...since she was waiting for the rest of her party to arrive.\n\nWe went back to the cage, waited for the respawn...which took several minutes, then went back down the valley and kicked NPC butt.  I helped her kill the last group of NPCs, but Melizza had disappeared!  I checked my quest log, and the quest was marked complete.  So, I went to the Kodo Graveyard and Hornizz was waiting to complete the quest.\n\nI got lucky on this one.  Would not have been able to complete as a L42 NE R no matter how many tricks I tried (Distract didn't work either!)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-22T14:57:38-06:00",
+   "body": "Where's this NPC located?",
+   "replies": [
+    "It's an escort quest.  Given by the goblin in the Valley of Spears, about 1 click northeast of ShadowPrey Village."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-02T06:03:49-06:00",
+   "body": "when you get into valley of spears, hang a right.  head along the mountain ridge until you come to the first camp, he's in a cage (kinda hard to see)\n\ndont know about hornizz tho\n\nEdited, Wed Mar  2 00:04:16 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-26T18:27:48-06:00",
+   "body": "I just grabbed this quest thinking she'll run into all the respawned mobs ahead etc.  I managed to solo it as a 44 human mage aoe'ing the hell out of them.  I came out with less than 5hp left, but completed it.  She seems to be very competent at taking one on on her own, to the point where I took on 3 and she killed the other by herself.  Also, the second lot of mobs has a couple of dogs.\n\nShould be a piece of cake with 2 ppl, but with one I can't imagine doing it, unless ur as lucky as I was.  Others have given coords so I won't bother.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2020-02-20T15:19:57-06:00",
+   "body": "Quest with extreme poor design (like most quests in classic), that's why all guides tell you to avoid it!\r\nIgnore it,  its not worth XP/time. Keep killing centaurs if you want. Only do this in a group of at least 3.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-16T17:37:45-06:00",
+   "body": "Im a lvl 35 rougue i stealthed the whole thing and passed it. i didnt even stay with her once i let her out i had to jet but it said completed. but at the turn in guy there is no option to turn in. it even says in my quest log its completed so. I think its bugged.",
+   "replies": [
+    "My addon (Khaos) tends to have the same problem. On escort quests, the NPC may die but quest log says complete but u cannot turn it in"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-06-06T15:22:24-05:00",
+   "body": "[quote]I think this may be horde only.. I tried to talk to her but a sword appeared, not a chat bubble.[/quote]\n\nI (39 hunter, allaince) took this quest.  The NPC did talk to me and I set off, with Melizza and my pet.  I had cleared all the centaurs up to the cage she was in so I thought this would be no big problem.  Centaurs that attack are sudden and they come in groups of 5 and 6... all of them were lvl 38-39.\n\nThis is NOT a solo quest unless you are of a VERY high level...  If you want to do this, take friends.\n\nEdited, Mon Jun  6 12:35:02 2005",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-09-29T05:37:45-05:00",
+   "body": "a 45 Silver reward is also given",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-09-29T05:37:45-05:00",
+   "body": "i got her out but was killed leaving it says quest complete where do i turn it in?",
+   "replies": [
+    "Right where the quest says to turn it in.&nbsp; Learn to read."
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2019-09-02T14:31:23-05:00",
+   "body": "The quest must have been changed at least as of v8.2. As Hotpocketz writes, the path needs to be clear. 2 mobs showed up first time inside the canyon, 3 more where standing when almost out of the canyon and 2 more waited a good distance from them and could be picked one at a time. Lvl60 here but so where the mobs.",
+   "replies": []
+  },
+  {
+   "rating": -8,
+   "date": "2006-09-29T05:37:45-05:00",
+   "body": "I can't open the cage what gives?",
+   "replies": []
+  }
+ ]
+}

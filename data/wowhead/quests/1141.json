@@ -1,0 +1,364 @@
+{
+ "id": 1141,
+ "name": "The Family and the Fishing Pole",
+ "level": 14,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 980,
+ "start": {
+  "type": "npc",
+  "id": 10216,
+  "name": "Gubber Blump",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    36,
+    44.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 10216,
+  "name": "Gubber Blump",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    36,
+    44.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Catch 6 Darkshore Grouper for Gubber Blump in Auberdine. Darkshore Grouper  ( 6 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 12238,
+   "name": "Darkshore Grouper",
+   "count": 6,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Darkshore Grouper",
+   "count": 6,
+   "type": "item",
+   "id": 12238
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 10216,
+   "name": "Gubber Blump",
+   "coord": [
+    36,
+    44.8
+   ],
+   "coords": [
+    [
+     36,
+     44.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 10216,
+   "name": "Gubber Blump",
+   "coord": [
+    36,
+    44.8
+   ],
+   "coords": [
+    [
+     36,
+     44.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 42,
+   "date": "2005-09-27T22:01:08-05:00",
+   "body": "Why was this harder for me to figure out than some other skills? Just an idiot, I guess.\n\nAnyway, if you do the quest, Gubber will lend you a pole. If not, you need to buy one (fishing trainer and supplies in Darnassus and Lakeshire), the bait (shiny bauble to start) and get trained.\n\nFind a body of water, equip the pole (replace your main hand weapon with the pole), \"bait\" the pole (with the bauble or better bait), then (I didn't realize this was necessary) find the Fishing icon in your spellbook and drag it to an icon bar. Click on the fishing icon and you will cast. You'll see the green fishing \"progress\" bar on your screen. You need to recast when the progress bar disappears. Just keep recasting until you get the fish you want.\n\nWhen the bobber moves and you put the cursor over it, you get a gear icon. Right-click the gear icon and you will get a fish, something else or the message that \"your fish got away\" (same thing as an empty loot box). I left the cursor on the icon most of the time but you don't need to do that.\n\nI did the Bubber Glump quest and got to lvl 14 in about 18 minutes, with the 6 required fish and about 8 others. XP was only 100 but after all, my 54 Druid was late to the game.\n\nWhy start now? Look up Deviate Fish and you'll understand. I stole the recipe from the Gadget AH. Why not? Everyone should be a fisherman.",
+   "replies": [
+    "For those playing Classic: Go into the building with Thundris Windweaver. Jump overthe railing behind him onto the rock. Fish north, and in 3 minutes, 12 casts, I had the 6 fish needed. I expect they spawn like any other animal target, and if you fish near other players, it takes 18 minutes instead of 3."
+   ]
+  },
+  {
+   "rating": 28,
+   "date": "2005-09-27T22:01:08-05:00",
+   "body": "[b]Im elf, level 14\n\n#1 36.44&nbsp; the npc give you THE QUEST, the fishing skill and he sell to you the \"fishing pole\" and \"ShinyBauble\".\n\n#2 GO in the water at 36.44 with the two leg in the water, and cast in the direction of the bridge..\n\n#3 twenty minute left.. for get your 6 quest fishing.\n\n#4 and he give to me 975xp! [/b]",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2007-01-08T10:36:36-06:00",
+   "body": "A very easy quest. Gubber Blump will even lend you a fishing pole for the task. You can start fishing directly next to Bubber Blump. The quest can easily be completed with a very low fishing skill.\r\n\r\nThere are a few fish that you can pull in. Oily Blackmouth can normally be sold in the auction house for quite a few silver each.\r\n\r\nThe quest should take less than fifteen minutes and will also raise you fishing skill while your doing it.",
+   "replies": [
+    "So you still need fishing to be able to do the quest right? Or you can still get and complete the quest without any Fishing Skill? I wonder why they put it under Darkshore and not under Fishing (blizzard I mean, not wowhead)."
+   ]
+  },
+  {
+   "rating": 16,
+   "date": "2019-09-04T07:20:01-05:00",
+   "body": "Don't forget to pick up [quest=1579] and save yourself some time! (quest-giver is upstairs at the Auberdine inn).\n\nAlso, extra [item=12238] can be sent to alts or auctioned for easy completion of [quest=1141].\n\nHappy fishing!",
+   "replies": [
+    "Requires a fishing skill of 35 before you can get https://www.wowhead.com/forever/quest=1579/gaffer-jacks"
+   ]
+  },
+  {
+   "rating": 8,
+   "date": "2005-09-27T22:01:08-05:00",
+   "body": "Just Fish beside the quest giver, and the grouper will turn up.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-01-15T10:01:08-06:00",
+   "body": "[b]WARNING[/b]:\n\nIf you've just done this quest, [i]you cannot do a character migration[/i] for that character. Their mailbox will appear empty but because of the way mail works (mailbox contents include items that haven't arrived yet) your mailbox will not be 'empty' and char migration will fail.\n\nI just got snared by this, nasty :(",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-03-07T18:46:53-06:00",
+   "body": "Just ask Gubber Blump, from there u can learn the Fishing skill ^^",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2020-12-23T11:01:59-06:00",
+   "body": "2020, December\r\n\r\nFished on the beach in front of Gubber.\r\nUsed basic pole and shiny bobber bought from him.\r\n\r\n12 minutes.",
+   "replies": [
+    "I did exactly this in WoW Forever. I jumped up on the log next to Gubber with rank 1 in fishing. When I finished I was rank 20 with 83 seconds left on my bauble",
+    "I’ve tried this too, and my fishing skill is now at 75; so far, I’ve caught 0 fish for the quest :("
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2004-12-08T03:33:05-06:00",
+   "body": "Two days after doing this quest I received mail from Mr. Blump. He thanked me for helping with the quest, and sent along a fishing bauble with the letter.\n\nI thought that was a very nice touch. :)",
+   "replies": [
+    "I was just tickled by the letter! Talk about making you really feel like part of the world!\n\nVery nice. :)",
+    "Hehe, I agree.. I was really surprised to see the letter from Gubber.. I hope there are more quests like this"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-27T22:01:08-05:00",
+   "body": "yes u need to be a fisher ...then just fish near the quest giver ......and people just damn read what people are writing that would much easyer",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-10-28T05:27:53-05:00",
+   "body": "I found I got groupers quicker if I fished off the boat landing, near the quest site. I got a few oily blackmouths into the bargain too.\n\nand no one else seems to have noted the gubber blump - Bubba Gump reference? ;)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-10-13T06:17:05-05:00",
+   "body": "I happened to be leveling up my fishing skill so I already had the grouper when I came across Gubber. So when I accepted the quest I immediately completed it and received the pole, then a day or so later I received a letter from him thanking me with an Aquadynamic Fish Attractor. It was quite nice and unexpected.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-27T22:01:08-05:00",
+   "body": "this quest took me exactly 11 mins, starting with a fishing skill of 0. make sure you use some lure",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-27T22:01:08-05:00",
+   "body": "Easy quest,\n\nI love fishing anyway and already had some fish before taking the quest, caught a few of the pier and the rest beside the fisherman.\n\nThere was another player there aswell who offered to sell me the fish, so you may get lucky if you don't have/want the fishing skill.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-03T10:01:08-06:00",
+   "body": "Fished off the end of the pier and got all 6 within 6 minutes, easy as pie :D",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-20T22:01:08-06:00",
+   "body": "It took me an entire 4 minutes to catch 5 groups, 1 rainbow fin albacore, then a final grouper.\n\nI had 21 fishing skill to start, bought some bait so I had 46 to start off with.&nbsp; I took the advice of a poster some posts up by stepping right in front of Blumper in the water and started fishing.\n\nHope this helps anyone,&nbsp; it was either Grouper Time of the day 5am EST!&nbsp; Or somethin..&nbsp; But a whole 4 minutes for a pole and exp.\n\nDon't under estimate fishing,&nbsp; once you get high enough and find some floating wreckage and some nice schools of fish, you can make some good money.\n\nDren",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-19T23:19:45-05:00",
+   "body": "Does this quest needs fishing skill? I don't have and didn't see any fish there",
+   "replies": [
+    "To the person who asked where to pick up the quest. It is in Auberdine. If you walk down from the Gryhphon Master, turn to the left before you go to the Inn. Walk to the shor and then go to your right. He is there with a gold question mark over his head.\n\nTo the other person who asked if you need fishing. The answer is yes.\n\nAnd to luck other person #3 my fishing is only 150 and i get greens and blues while fihing. This is mostly in Oily blackmout or Firefin schools that i catch them. I usually get one watertight trunk in each school. Pop that puppy open and get silver, and usually a ring or g"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-10T15:04:33-05:00",
+   "body": "I've been fishing for 30 min and caught only 4 fish, none are the grouper!  Most of the fish run away after I click the bobber when it jumps.  Is there a trick to this?  Or would a better pole fix this problem?",
+   "replies": [
+    "  Completed in less then 5 min, at 36.47--fish lvl 51 + NPC pole with nightcrawlers"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-14T06:13:21-05:00",
+   "body": "In addition to the pole, I received an in-game email from Gubber with a thank you note and a Shiny Bauble  about 24hrs after I completed the quest.\n\nThat was nice of him, don't cha' think?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-16T02:14:54-06:00",
+   "body": "If your fish are getting away use the bait and target your rod.  The Oily Blackmouth are lucritive on the Auction House in darnassus.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-17T19:39:43-05:00",
+   "body": "You can fish darkshore Groupers in cordinates 36,49,\nsouth of auderbine between catapult and sea-monster.\nI gotted lvl 1 fishing when i maked this quest (used shiny bauble) and it taked about 10 min.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-15T14:08:24-05:00",
+   "body": "Now, I have heard that with a high enough fishing, you could catch Lockboxes, rings, etc.  Is this true?  If it is, how are the odds?  Just like grinding?  Same thing?  What goes with fishing, if this is a good thing to do?  Thanks guys and I will continue to help you all with Locations\n\nEdited, Fri Apr 15 10:09:50 2005",
+   "replies": [
+    "You don't have to have a lot of skill to pull unlocked chests full of items from the water. What you do need is to keep your eye open for \"oil slicks\" and \"floating wreckage.\" I was pulling chests before I barely had any skill at all. Oil slicks tend to give you easily unlocked chests with mats for leatherworking, tailoring or smithing, along with fish that alchemists are willing to pay big bucks for at AH. Floating wreckage can give you all this plus bloated fish that usually carry gems, locked boxes, and, the more skill you have, Mithril Lockboxes. I'm currently an artisan. Fishing pays for "
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-10T21:01:40-05:00",
+   "body": "Completed in less then 5 min, at 36.47--fish lvl 51 + NPC pole with nightcrawlers",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-11-30T11:33:34-06:00",
+   "body": "You will defintely want this Fishing Pole. It works so much better than the generic one you buy from the fish vendor. And you can simply fish right off the beach where the quest Originates. \n\nTakes about 10-20 mins to do, but worh it.",
+   "replies": [
+    "In case anyone has not figured out how to catch the fish, place your cursor over the bobber and click when you see the bobber move.  That's how you catch the fish.\n\nTo use the fishing pole, make the fishing pole your primary weapon. To cast, click on the fishing pole icon.  Also, make sure you buy some of the bait stuff that Blump sells.\n\nRon."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-02T16:52:23-06:00",
+   "body": "Hmm... where do we get the fishing skills....?\ni dont know where the dude that gives the skill is... so i cant do the quest... :(\nso if anyone is kind enough to tell me where that dude is.. i'd like it!\nlol, thx alot \nCrzykid.",
+   "replies": [
+    "Just talk to Gubber who gives you the quest. Tell him you don't know how to fish and he can teach you. He can also sell you a fishing pole. If you are just starting out with fishing it is a good idea to buy a piece of bait and apply it - will make it easier to catch fish with no skill. In fact if you get you fishing skill up a little in Teldrassil where it is easier to fish you might find it goes a little quicker.\n\n\nThe reward fishing pole is nice, but you can also sometimes find a +5 pole for sale on fishing supply vendors (worth getting when you see it if you like to fish).\n\nDarkshore is a g"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-01T21:05:19-06:00",
+   "body": "just in front of him there is like green waters. i fished there and i caught the grouppers in like ten minutes along with 5 oily blackmouths. I was lucky i think man.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-06T01:54:33-05:00",
+   "body": "The Fishing Buddy addon is great for this, but it's not yet ported to classic. Until then, consider using the Easy Fishing Classic addon. It doesn't do the fish counting but it lets you cast with a double-right-click.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-06T13:35:20-05:00",
+   "body": "In Forever the Fishing Pole is only +3 still nice but not +27 like it says in Wowhead, I think thats retail stats.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-06-10T10:01:08-05:00",
+   "body": "I don't guess anyone else got that the quest title is a play on the title of a Peter Gabriel song?\n\n/nvm",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-15T10:01:08-06:00",
+   "body": "13/1/07. I'm a lvl 13 NE Hunter. I went to the spot near the quest giver but didn't know what to do. I didn't have a fishing rod so wasn't sure. Came on here and read that you need to have the fishing profession which I didn't have and a fishing rod. It also said to go to Darnassus if you don't have either and get them. I went to Darnassus, went to bank and asked Sentinel where to go, went there, got profession than bought rod. Went back to spot but didn't know how to fish, someone told me.\n\nI spent probly 20-30 minutes on it. Got 5 of them, than caught 4 other fish and lost a tonne. Finally was about to give up so took one more shot and got it. :D\n\n14/1/07. I recieved the letter and ball in the mail this morning.",
+   "replies": [
+    "Lots of wasted time there. If you dont have the training, then when talking to him, click Gubber, I dont know how to fish. He will give you the profession. Then talk to him again and click I dont have a fishing pole and you can get one."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-03-14T23:36:05-06:00",
+   "body": "Where is it? I've searched south of Auberdine in the sea. But I can't find the fish he asked for. Am I on the wrong track here? Bernt E",
+   "replies": [
+    "you dhould not find a pole you iddiot. you schall fish 6 darkshore groupers for that guy!"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-04-16T08:47:41-05:00",
+   "body": "i love this q \nits so usefull for my alchemy that mt fishing skill is high i fished till i had 100 \nan dalso completed th q if the q didn't exist\ni would have 50 right now \ntx blizzard XD\n\n__________________\nburning legion \nwoodsong druid lvl 30\naggramar troll lvl 42",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-06T21:05:22-06:00",
+   "body": "The name Gubber Blump sounds a lot like Bubba Gump - the guy from the movie Forest Gump. He was a shrimper and knew everything there was to know about shrimp.",
+   "replies": [
+    "That black guy was NOT named Bubba Gump. Their company was named Bubba Gump after BUBBA Blue and Forrest GUMP."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-04-30T19:06:57-05:00",
+   "body": "I'm using the Strong Fishing Pole (+5 fishing) but it's taking ages to get them! I'm getting every other fish but Darkshore Groupers, annoying.\nVery annoying seeing as i'm right by the Darkshore Grouper School! Does it help if you're not standing by the fisherman who gives you the quest? (Gubber Blump)",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-05-06T17:46:19-05:00",
+   "body": "Shouldn't matter where you fish in that area, I just used the pole I bought from the NPC, and the +25 fishing item. Got all in 10 minutes, a friend took 20 minutes but he wasn't lucky I guess lol. Did the quest before too, also 5-10 minutes.",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2006-03-14T14:38:32-06:00",
+   "body": "Hello!You can buy a Strong Fishing Pole at the fish vendor!it gives you +5 fishing",
+   "replies": [
+    "Two comments:\nFirst, its not gauranteed that you will find the +5 pole on every fishing vendor.  \nSecond, if you are horde then why are you even replying that you can get the +5 pole?  Horde have the Hinterlands quest, which rewards you with a pole that has +25 to fishing.  ",
+    "Not to mention that if you're trying to skill up fishing anyway (and you're Alliance), why wouldn't you try to earn a little XP and a + fishing mod while you're at it?",
+    "I'm pretty sure he just meant its a good way to help do the quest, but feel free to rip into him anyway."
+   ]
+  },
+  {
+   "rating": -6,
+   "date": "2005-01-26T15:32:15-06:00",
+   "body": "you really want to move south a bit, just until you cross over the \"line\" into the next territory and see the beached thing in the distance.  It's not far at all, maybe 100 yards.\n\nI had a fishing skill of 55 and standing near Gubber I didn't catch a single grouper.\n\nAfter moving south within visual distance of the beached thing, I caught the 6 grouper in no time.",
+   "replies": [
+    "Well, I don't have fishing skill but I have this quest on. Can I caught those anyhow?",
+    "me too. I can't see any this fish there",
+    "If you go down the beach past the catapult, but right before the sea creatures carcas, you should catch the grouper there. I caught all six of mine from that location, although it did take a bit, because I caught several other fish that were not needed in the process.",
+    "I had no problem catching the fish standing close to Grubber.  In fact, if you stand about 15 feet away, on the shore under the docks, you are close enough to get rested bonus while you fish.  Fishing is supposed to be relaxing, right?  So why not let your rested bonus build while you do it :-).",
+    "Sorry, that should have said \"close enough to the Inn to get rested bonus\"."
+   ]
+  },
+  {
+   "rating": -9,
+   "date": "2006-01-17T19:55:14-06:00",
+   "body": "I did this quest without the bait but my fishing was 97 at the time. Caught all the fish while standing mere \"feet\" from where the quest originates. The new pole is awesome and if you are patient and fish in different spots you can get some rares.",
+   "replies": []
+  }
+ ]
+}

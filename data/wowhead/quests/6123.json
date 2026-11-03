@@ -1,0 +1,536 @@
+{
+ "id": 6123,
+ "name": "Gathering the Cure",
+ "level": 14,
+ "reqlevel": 14,
+ "side": 1,
+ "zoneId": -263,
+ "reqclass": 1024,
+ "status": "unchanged",
+ "xp": 740,
+ "start": {
+  "type": "npc",
+  "id": 3702,
+  "name": "Alanndarian Nightsong",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    37.6,
+    40.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3702,
+  "name": "Alanndarian Nightsong",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    37.6,
+    40.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 5 Earthroot and 12 Lunar Funguses to Alanndarian Nightsong in Auberdine so she may make a curative salve. Earthroot  ( 5 ) Lunar Fungus  ( 12 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 2449,
+   "name": "Earthroot",
+   "count": 5,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 15851,
+   "name": "Lunar Fungus",
+   "count": 12,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Earthroot",
+   "count": 5,
+   "type": "item",
+   "id": 2449
+  },
+  {
+   "text": "Lunar Fungus",
+   "count": 12,
+   "type": "item",
+   "id": 15851
+  }
+ ],
+ "series": [
+  6121,
+  6122,
+  6123,
+  6124,
+  6125
+ ],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 3702,
+   "name": "Alanndarian Nightsong",
+   "coord": [
+    37.6,
+    40.6
+   ],
+   "coords": [
+    [
+     37.6,
+     40.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 3702,
+   "name": "Alanndarian Nightsong",
+   "coord": [
+    37.6,
+    40.6
+   ],
+   "coords": [
+    [
+     37.6,
+     40.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "sourcerequirement",
+   "type": 2,
+   "id": 2849,
+   "name": "Battered Chest",
+   "coord": [
+    36.3,
+    86.5
+   ],
+   "coords": [
+    [
+     35.4,
+     84.8
+    ],
+    [
+     36.3,
+     86.5
+    ],
+    [
+     38.4,
+     29.3
+    ],
+    [
+     38.4,
+     86.7
+    ],
+    [
+     38.5,
+     86.8
+    ],
+    [
+     42.6,
+     86.8
+    ],
+    [
+     42.8,
+     84.4
+    ],
+    [
+     42.8,
+     84.5
+    ],
+    [
+     44.2,
+     20.4
+    ],
+    [
+     44.2,
+     20.5
+    ],
+    [
+     44.3,
+     85
+    ],
+    [
+     44.7,
+     86.9
+    ],
+    [
+     56.3,
+     26.2
+    ],
+    [
+     56.6,
+     26.3
+    ],
+    [
+     57.1,
+     22.4
+    ],
+    [
+     57.1,
+     22.5
+    ],
+    [
+     58.1,
+     20
+    ],
+    [
+     58.4,
+     17.7
+    ],
+    [
+     58.5,
+     7.4
+    ],
+    [
+     58.5,
+     7.5
+    ],
+    [
+     58.8,
+     15.8
+    ],
+    [
+     60.3,
+     18.4
+    ],
+    [
+     60.3,
+     18.5
+    ],
+    [
+     60.4,
+     22.3
+    ],
+    [
+     60.5,
+     22.4
+    ],
+    [
+     61.5,
+     19.3
+    ],
+    [
+     61.9,
+     21.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "sourcerequirement",
+   "type": 2,
+   "id": 106319,
+   "name": "Battered Chest",
+   "coord": [
+    47.1,
+    37
+   ],
+   "coords": [
+    [
+     36.7,
+     27.4
+    ],
+    [
+     39.6,
+     78.3
+    ],
+    [
+     41.6,
+     58.2
+    ],
+    [
+     42,
+     31.2
+    ],
+    [
+     42.4,
+     62
+    ],
+    [
+     42.5,
+     62
+    ],
+    [
+     43,
+     58.7
+    ],
+    [
+     44.7,
+     37.3
+    ],
+    [
+     46,
+     37.7
+    ],
+    [
+     47.1,
+     37
+    ],
+    [
+     48,
+     36.4
+    ],
+    [
+     48.1,
+     36.5
+    ],
+    [
+     50.8,
+     25.6
+    ],
+    [
+     54.7,
+     36.9
+    ],
+    [
+     55.5,
+     36.2
+    ],
+    [
+     55.6,
+     34.4
+    ],
+    [
+     55.6,
+     34.5
+    ],
+    [
+     56.6,
+     35.1
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 31,
+   "date": "2005-10-10T19:18:59-05:00",
+   "body": "Lunar Fungas is found inside small spotted mushrooms&nbsp; in the following Moonkin caves South East of Audbodine (spelling).&nbsp; These mushrooms stick out because they will be the only one spotted, but are also one of the smallest which makes them hard to spot at first.&nbsp; I found all 12 in the 3 caves at \n\n(43,48), (43,50), (42,52).\n\nYOU DO NOT NEED HERBALISM TO GATHER THESE, they are a quest item and the wheel will appear when you mouse over them.",
+   "replies": []
+  },
+  {
+   "rating": 20,
+   "date": "2005-10-10T19:18:59-05:00",
+   "body": "Anyone looking for Lunar Fungus should go to the Moonkin Caves to the east of Auberdine. Once you kill the Moonkin in each cave (there are three caves), look around the cave touching your mouse pointer on each mushroom you see on the floor. You'll see the cursor suddenly change to the search icon, stand by the mushroom and right click on it. You'll notice a status bar appear, when it fills you'll be presented with either 1 or 2 bits of Lunar fungus.",
+   "replies": [
+    "There are actually 5 caves. As you head east from Auber, there are three caves running north-south, but there are two more caves behind them. I was able to get all 12 fungus from a single trip to each of those 5 caves. (One cave have duals in each of three pods, while two caves had only singles in one pod, so YMMV.)",
+    "Blighty, best information yet. thanks. Once I saw a mushroom, I could find others."
+   ]
+  },
+  {
+   "rating": 14,
+   "date": "2007-05-17T19:18:59-05:00",
+   "body": "you can only find earthroot in 2 ways:\n\n-Herbalism: if u have it go to Teldrassil. Earthroot its gray purple look and usually is on top of small hills, so look near mountains on Teldrassil map..theres some in 41,36 nd 41,42..\n\n-Buying (no herbalism):its difficult to buy, cause usually theres no search fr it, so..the best way of having it is to go Darnassus, find someone who has herbalism skill, nd propose a deal to him/her..&nbsp; \n\np.s.-ill try to sell some in ah..\n\nGood Luck, Have a good game :)",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2007-02-21T11:45:44-06:00",
+   "body": "The lunar fungus can be found in the moonkin caves, around 43,45. There are multiple caves.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-10T19:18:59-05:00",
+   "body": "Lessons Anew (1 of )\nCenarion Enclave, Mathrengyl Bearwalker <Druid Trainer>. (35,8)\nMoonglade, Nighthaven, Dendrite Starblaze. (56,31)\nTravel to Moonglade and speak with Dendrite Starblaze in the village of Nighthaven.\n\nThe Principle Source (2 of ) (Lessons Anew)\nNighthaven, Dendrite Starblaze. (56,31)\nDarkshore, Auberdine, Alanndarian Nightsong. (38,41)\nUse the Empty Cliffspring Falls Sampler to draw a sample of water from the mouth of the cave by the falls (55,33).\nDeliver the Filled Cliffspring Falls Sampler to Alanndarian Nightsong in Auberdine, Darkshore.\n\nGathering the Cure (3 of ) (The Principle Source)\nAuberdine, Alanndarian Nightsong. (38,41)\nAuberdine, Alanndarian Nightsong. (38,41)\nBring 5 Earthroot and 12 Lunar Funguses to Alanndarian Nightsong in Auberdine so she may make a curative salve.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-04-18T19:10:20-05:00",
+   "body": "I found two caves at aproximatley 43,50. The two caves right there can give you 6 Fungis easily together.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-10T19:18:59-05:00",
+   "body": "You don't need herbalism to collect the fungus, anyone with the quest can just walk in to any moonkin cave and take it. It even reappears quickly. As for the earthroot, just go back to Lake Al'ameth and kill elementals. It's not a common drop, so you will need to try for quite a while.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-10T19:18:59-05:00",
+   "body": "the Cave is at 43,44. There are three spawns. they are clusters of little mushrooms. They seem to take a long time to replenish..",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-04-11T07:18:59-05:00",
+   "body": "Gahering the lunar fungus was a piece of cake, they're located inside the moonkin caves right to the east of Auberdine and hey are tiny little mushrooms with white spots on them. \nGetting the earthroot is a little more hard, if you dont have herbalism, then just buy it off somebody or auctionhouse.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-12-22T19:18:59-06:00",
+   "body": "43,45 mookin cave",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-05T06:47:50-05:00",
+   "body": "two more caves at 46,45 and 45 50",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-12-22T19:18:59-06:00",
+   "body": "Those Lunar fungus are little plants with white spots on them...they are hard to see...but they are there",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-03-05T19:18:59-06:00",
+   "body": "Ok well ive collected 3 silver off of timerblings, that means ive killed about 100 of them and guess how much earthroot has dropped...ZERO! It sucks cause i used to have 20 that dropped off of them but at level 8 i sold it all! This is here to tell druids SAVE THE EARTHROOT!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-10-10T19:18:59-05:00",
+   "body": "The mushrooms in the cave are super small, and often located just inside the cave on the sides. Do a very thorough scroll-over when looking for them.\n\nWith earthroot, you must have 15 herbalisim to gather it. If you dont have 15 herbalism, you'd be better off lvling it up in terdassil than darkshore as theres more low lvl herbs. If you dont have herbalism, go on the AH. Earthroot is super cheap.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-02-18T21:30:15-06:00",
+   "body": "This is the 4th step in the Alliance druid cure poison spell quest, in Darkshore.  Your druid is level 14 to get the quest from Mathengryl Bearwalker in Darnassus, and the moonkin things are 11-13, so solo pulls do the job.  Caves are just across the road, east from Auberdine, close to where you waxed Lunaclaw for bear form quest.\n\nFind the cave with the lunakin caster in it, beacuse that cave has 3-4 fungus spawn points in it.  The other lunakin caves only have single fungus spawns, and the fungus spawns on the same timer as the lunakin, so you need to move from cave to cave. \n\nEdited, Sat Feb 19 22:24:29 2005",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-02T09:48:30-05:00",
+   "body": "1: If you're a herbalist, you can see earthroot *and* lunar fungus on your minimap. Don't forget you can always abandon the skill later, so it's worth taking it up and skilling it up a bit so you can pick your own Earthroots - instead of blowing your load on AH, you could even make a profit from the quest!\n\n2: Earthroot grows mostly in rocky areas, such as on the outside of caves, base/top of hills/mountains/rocks... If you're experienced in mining, earthroot likes the same areas as mineral deposits, although it only grows outdoors in my experience so don't bother looking inside caves.\n\n3: Lunar Fungus is small, and other mushrooms in the cave are also small. The easiest way to identify Lunar Fungus without waving your cursor over everything is to look for the mushrooms with spotted tops; all the scenery mushrooms have plain-coloured caps.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-12T10:48:47-05:00",
+   "body": "If you are not a herbalist, Earthroot can also be dropped from the Timberlings near Dolanaar in Teldrassil.\n\nThere is also a Vendor in the wetlands that sells Earthroot for 80 copper each. He is near the prospector you run into along the side of the road\nheading away from the harbor.\n\nEdited, Wed May 18 13:59:46 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-16T15:08:11-05:00",
+   "body": "The [url=https://www.wowhead.com/forever/item=15851/lunar-fungus]Lunar Fungal Blooms[/url] can be found in the small moonkin caves around here and further south:\r\n\r\n[code]/way 43.33, 49.12[/code]\r\n\r\nYou are looking for the brown with white polka-dots mushrooms.  \r\n\r\nGet the Earthroot from Herbalism or the auction house",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-17T19:18:59-05:00",
+   "body": "I went to the herbalist trainer in dolaanar, to learn it, you needed 5 silver, I had 25 silver at that time. But the training button wasnt clickable. does anyone know why?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-10T19:18:59-05:00",
+   "body": "I've finished my poison quest, and can now cure poison with my NE druid.\n\nHowever, I still have the frelling fungus in my inventory. I've not done the Den Mother quest - is this at all related to that? Or can I just destroy it from my inventory, and chalk it up to a glitch?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-05-17T19:18:59-05:00",
+   "body": "ok you say where to go for the lunar stuff but where for earthroot? i cant find ne one that sells it either. ive been to every cave there.\nne one help?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-08-08T03:08:44-05:00",
+   "body": "Go in the Moonkin caves, and you'll find little mushrooms(red with white spots, i think). Collect twelve of them. For Earthroot, either go to dolanaar and kill millions of Timberlings, or take the left boat at Auberdine. This will take you to Menethil Bay. Make sure you open the flight route. Follow the road leading to Loch Modan. Note: STAY ON THE ROAD IF YOU ARE AT THE LEVEL THIS QUEST IS INTENDED FOR. There are level 20+ creeps around. After you head down enough, there will be a little vendor who sells herbs. If the doesn't give you enough, follow the road and head to Ironforge. Again, STAY ON THE ROAD. After you pass many tunnels, the level of the creeps get a bit lower so you can relax a bit. When you get to Ironforge, be sure to open the flight routes. Head to the auction area and hope someone has some Earthroot to sell. Afterwards, you can fly back to Menethil Bay (if you opened both flight routes) and take the boat back to Auberdine.",
+   "replies": [
+    "After making the long run to iron forge and finding no earth root in the AH I returned to Dolanaar. Found leveling herbalism to 15 and gathering the earth root only took me maybe 45 mins vs. killing thousands of timberlings with a ridiculous drop rate. Also, the vendor in the wetlands did not have any earth root for sale. Perhaps I found the wrong one?"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-12-16T13:13:36-06:00",
+   "body": "I started on this quest yesterday.  Got the water sample, turned it in and got the quest for earthroot and lunar fungus.  I have the earthroot as I am a herbalist but I looked in every moonkin cave in Darkshore and cannot find any mushroom that I can gather.  I saw plenty of different kinds in the caves, but cannot select them at all.  I spent 2 hours running around looking.  The area was full of higher levels gathering small eggs for the Winter's veil cookies quest, but no low level Druids that would have been gathering the fungus as well.  Anyone else have this problem?",
+   "replies": [
+    "I put this off and just completed this quest at lvl 36.  You need to start the quest in Darnassus with Mathrengyl Bearwalker.  \n\nThe trip up the north side of the river is pretty uneventful until you get to the rise towards the falls.  You will have to fight 2 mobs to get to shallow pool by the falls to fill your vial.  Have your pack open & get your wits about you to run away from the Stormscale Myrmidon who spawns after.  My guy was lvl 17.  \n\nUnfortunately I missed the post about Kixxle the Potions & Herbs vendor selling the earthroot: [npc=8305] & bought them for TOO much at the auction ho"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-04-15T19:23:02-05:00",
+   "body": "is this part of the quest doable without herbalism?  In addition, any tips on finding the earthroot?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-18T12:19:49-05:00",
+   "body": "At 43.50 there is a serioes of caves right here that you cna get the fungs,at.\nI think they guy above ws leading pple on a wild goose chase..",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-07-07T16:52:35-05:00",
+   "body": "Blackwood tracker will appear if u take the \"One Shot. One Kill.\" quest. I got my earthroot by it.",
+   "replies": [
+    "I took the \"One shot one kill\" quest and got the Blackwood Tracker mobs to spawn, killed them all but no loot from any of them.  I am lvl 16 atm."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2007-02-25T19:56:41-06:00",
+   "body": "found the fungus easily in the moonkin caves - they are rather small things!\n\nJust been to the vendor in Wetlands (kixie?), but he had no earthroot - now going to try and find some in ironforge!",
+   "replies": [
+    "just gone to the auction house and bidded 42s for some earthroot! Ooops... wasn't clued up on how this works and have got to wait up to 8 hours before we find out if we won it! "
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-03-19T02:47:56-06:00",
+   "body": "I bought the earthroot from the Auction House for 5s. The fungi can be found from the caves that moonkins reside in (around Auberdine). Some cave locations are:\n(43,49)\n(42,52)\n(45,50)\n(45,53)\nEach cave has about two or three of these mushrooms. And they are the smallest mushrooms! Each looting gives you 1 or 2 fungus. So it can be done very fast. As for the moonkins that you have to kill, they are all around lvl 11-12 so that should be like child play for you.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-07-25T19:04:51-05:00",
+   "body": "I've been looking in the caves, and killing dozens of moonkin, but nothing. I've been all over these caves, man.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-05-11T04:45:53-05:00",
+   "body": "You can just ask in General for Earthroot.  There's almost always someone willing to sell it, although at a premium.  You shouldn't pay more than 5s each.  It's only 1-2s each on the AH.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-03-19T14:36:29-06:00",
+   "body": "The cave at 38,33 had four spawns in it when I went there.  The cave is furthest back toward the glowing rock on the south.\n\nAnother cave at 38,48 had two spawns in it of the mushrooms.\n\nThe cave at 43,48 had two spawns.\n\nThe moonkin stone cave at 43,45 had three spawns in it when i got there but i only needed one spawn to complete my 12.\n\nEdited, Sat Mar 19 08:42:52 2005",
+   "replies": [
+    "What server are you on? At 38, 33 on Skywall there's a huge rock but no cave to be seen."
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2007-05-19T15:42:44-05:00",
+   "body": "Thank you Blizzard again for coming up with the great idea that all droods are herbalist / alchemist.\r\n\r\nCrappy Earthroot :E",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2019-09-08T13:04:02-05:00",
+   "body": "I seemed to have one extra in my bag after - destroyed as i dont think its needed",
+   "replies": []
+  }
+ ]
+}

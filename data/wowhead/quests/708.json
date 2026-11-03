@@ -1,0 +1,82 @@
+{
+ "id": 708,
+ "name": "The Black Box",
+ "level": 40,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 3,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 2350,
+ "start": null,
+ "end": null,
+ "patch": "1.13.2.30682",
+ "objectiveText": "Take the Corroded Black Box to the Hall of Arms in Ironforge. Corroded Black Box (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 4613,
+   "name": "Corroded Black Box",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": [
+  {
+   "rating": 5,
+   "date": "2005-12-25T02:41:03-06:00",
+   "body": "He doesn't seem to drop the Black Box anymore. I guess they decided to disable that quest for the moment being.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2019-09-13T12:29:40-05:00",
+   "body": "So I killed Zaricotl today, but it didnt drop the item. Quest is probably not in game or something.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2020-06-27T04:47:00-05:00",
+   "body": "Has anyone had the item that starts this quest drop in WoW Classic?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-17T19:17:23-06:00",
+   "body": "where can we find this blackbox? Is it a random drop or from a specific chest or something?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-21T00:32:07-06:00",
+   "body": "I'm assuming this is just a faction quest with little value to those who don't need Ironforge faction.",
+   "replies": [
+    "no, its not a repeatable quest and killing an elite over and over would be a weird faction quest. Anyhoo, if you were bored and kill him, you'd get that easy quest for 50s and some exp."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-29T15:23:46-05:00",
+   "body": "Just soloed him, 54 shaman, dropped Swashbuckler's Eyepatch of the Wolf.\n\nPretty easy for an elite =)",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2005-03-07T16:14:24-06:00",
+   "body": "its dropped by a level 55 elite buzzard at the badlands. name starts with a z forgot what it was called though.",
+   "replies": [
+    "The name is Zaricotl.  If it kills someone, it eats them and becomes satiated, making it a neutral NPC for a while."
+   ]
+  },
+  {
+   "rating": -9,
+   "date": "2006-03-24T05:31:27-06:00",
+   "body": "killed it as lev 38 hunter, with some help from a lev 39 Priest. Lots and lots of kiting involved.\nDropped junk",
+   "replies": []
+  }
+ ]
+}

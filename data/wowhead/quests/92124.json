@@ -1,0 +1,114 @@
+{
+ "id": 92124,
+ "name": "Book Inventory",
+ "level": 2,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 15,
+ "start": {
+  "type": "npc",
+  "id": 951,
+  "name": "Brother Paxton",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    49.4,
+    40.4
+   ],
+   [
+    49.6,
+    40.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 247229,
+  "name": "Daniel",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    49.4,
+    40.4
+   ],
+   [
+    49.4,
+    40.6
+   ],
+   [
+    49.6,
+    40.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak to Daniel , Brother Paxton 's assistant in the library.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 247229,
+   "name": "Daniel",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 951,
+   "name": "Brother Paxton",
+   "coord": [
+    49.4,
+    40.4
+   ],
+   "coords": [
+    [
+     49.4,
+     40.4
+    ],
+    [
+     49.6,
+     40.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 247229,
+   "name": "Daniel",
+   "coord": [
+    49.4,
+    40.6
+   ],
+   "coords": [
+    [
+     49.4,
+     40.4
+    ],
+    [
+     49.4,
+     40.6
+    ],
+    [
+     49.6,
+     40.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

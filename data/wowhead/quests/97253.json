@@ -1,0 +1,131 @@
+{
+ "id": 97253,
+ "name": "Parts and Pieces",
+ "level": 14,
+ "reqlevel": 9,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 980,
+ "start": {
+  "type": "npc",
+  "id": 7161,
+  "name": "Wrenix the Wretched",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    63,
+    36.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7161,
+  "name": "Wrenix the Wretched",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    63,
+    36.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect 5 Handfuls of Complicated Parts from the upper pirate camp south of Ratchet, then return to Wrenix the Wretched in Ratchet. Handful of Complicated Parts  ( 5 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 7161,
+   "name": "Wrenix the Wretched",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 277331,
+   "name": "Handful of Complicated Parts",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Handful of Complicated Parts",
+   "count": 5,
+   "type": "item",
+   "id": 277331
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 7161,
+   "name": "Wrenix the Wretched",
+   "coord": [
+    63,
+    36.4
+   ],
+   "coords": [
+    [
+     63,
+     36.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 7161,
+   "name": "Wrenix the Wretched",
+   "coord": [
+    63,
+    36.4
+   ],
+   "coords": [
+    [
+     63,
+     36.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 2,
+   "date": "2026-10-01T01:05:32-05:00",
+   "body": "You will be looking for silver bolts and parts lying on the ground in the area. A full quest guide and walkthrough can be found here https://youtu.be/MVWHURorWuo",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-26T02:17:45-05:00",
+   "body": "Looks like trash on the ground, near and inside tents",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-29T08:30:02-05:00",
+   "body": "[b]Usually found near tents, outside of them, not inside a tent.[/b]",
+   "replies": [
+    "they can deffo be inside tents too."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-08T03:04:43-05:00",
+   "body": "This quest is available to [b]both factions[/b].\r\n\r\nThis is one of the easiest ways to earn an [b]8 slot bag[/b] early on. Go [b]up the hill[/b] and search around the pirate camps for [b]nuts and bolts[/b]. If you can loot any through walls, you won't always even need to fight for them.\r\n\r\nAlliance players heading out to Wailing Caverns can quickly finish this quest, then complete parts of the [url=https://www.wowhead.com/forever/quest=79008/and-that-note-you-found]sleeping bag quest chain[/url] for a [url=https://www.wowhead.com/forever/item=221498/old-toolbox]12 slot bag[/url], and then finally head out to the dungeon for 2 more potential 10-slotters [i]([url=https://www.wowhead.com/forever/item=6446/snakeskin-bag]1[/url], [url=https://www.wowhead.com/forever/item=918/deviate-hide-pack]2[/url])[/i] in one [b]massive[/b] bag extravaganza. The only small problem remains logistics...\r\n\r\nOther [b]new[/b] 8-slotters include:\r\n[ul][li][item=5603] (Alliance only)[/li]\r\n[li][item=1537] (Alliance only)[/li]\r\n[li][item=5762] (70 Tailoring)[/li][/ul]",
+   "replies": []
+  }
+ ]
+}

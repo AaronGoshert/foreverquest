@@ -1,0 +1,738 @@
+{
+ "id": 4297,
+ "name": "Food for Baby",
+ "level": 47,
+ "reqlevel": 38,
+ "side": 1,
+ "zoneId": 357,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 4200,
+ "start": {
+  "type": "npc",
+  "id": 9660,
+  "name": "Agnar Beastamer",
+  "zone": "The Hinterlands",
+  "zoneId": 47,
+  "coords": [
+   [
+    14,
+    43.4
+   ],
+   [
+    14,
+    43.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 9660,
+  "name": "Agnar Beastamer",
+  "zone": "The Hinterlands",
+  "zoneId": 47,
+  "coords": [
+   [
+    14,
+    43.4
+   ],
+   [
+    14,
+    43.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Bring 5 Silvermane Stalker Flanks to Agnar Beastamer in Hinterlands. Silvermane Stalker Flank  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11472,
+   "name": "Silvermane Stalker Flanks",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Silvermane Stalker Flank",
+   "count": 5,
+   "type": "item",
+   "id": 11472
+  }
+ ],
+ "series": [
+  3843,
+  4297,
+  4298
+ ],
+ "points": [
+  {
+   "zoneId": 47,
+   "zone": "The Hinterlands",
+   "point": "start",
+   "type": 1,
+   "id": 9660,
+   "name": "Agnar Beastamer",
+   "coord": [
+    14,
+    43.6
+   ],
+   "coords": [
+    [
+     14,
+     43.4
+    ],
+    [
+     14,
+     43.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 47,
+   "zone": "The Hinterlands",
+   "point": "end",
+   "type": 1,
+   "id": 9660,
+   "name": "Agnar Beastamer",
+   "coord": [
+    14,
+    43.6
+   ],
+   "coords": [
+    [
+     14,
+     43.4
+    ],
+    [
+     14,
+     43.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 47,
+   "zone": "The Hinterlands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 2926,
+   "name": "Silvermane Stalker",
+   "coord": [
+    71,
+    64.6
+   ],
+   "coords": [
+    [
+     51.6,
+     54.4
+    ],
+    [
+     51.6,
+     54.6
+    ],
+    [
+     52.2,
+     53
+    ],
+    [
+     52.4,
+     56.6
+    ],
+    [
+     52.6,
+     50.8
+    ],
+    [
+     52.6,
+     56.8
+    ],
+    [
+     52.8,
+     49.8
+    ],
+    [
+     53.2,
+     49.4
+    ],
+    [
+     53.2,
+     55.4
+    ],
+    [
+     53.2,
+     55.6
+    ],
+    [
+     53.6,
+     56.2
+    ],
+    [
+     54.2,
+     42.8
+    ],
+    [
+     54.2,
+     45.4
+    ],
+    [
+     54.2,
+     45.6
+    ],
+    [
+     54.2,
+     50.6
+    ],
+    [
+     54.2,
+     54.2
+    ],
+    [
+     54.4,
+     44
+    ],
+    [
+     54.6,
+     42.6
+    ],
+    [
+     55.2,
+     51.8
+    ],
+    [
+     55.2,
+     53
+    ],
+    [
+     55.4,
+     51.4
+    ],
+    [
+     55.8,
+     45.4
+    ],
+    [
+     55.8,
+     45.8
+    ],
+    [
+     56,
+     53.2
+    ],
+    [
+     56,
+     54.2
+    ],
+    [
+     56.2,
+     46.8
+    ],
+    [
+     57,
+     51.4
+    ],
+    [
+     57,
+     51.6
+    ],
+    [
+     57.6,
+     54.2
+    ],
+    [
+     58.4,
+     47
+    ],
+    [
+     58.4,
+     53
+    ],
+    [
+     58.6,
+     46.8
+    ],
+    [
+     58.6,
+     53.2
+    ],
+    [
+     58.8,
+     49
+    ],
+    [
+     59,
+     51.2
+    ],
+    [
+     59.4,
+     51.6
+    ],
+    [
+     59.4,
+     54.2
+    ],
+    [
+     59.8,
+     54.6
+    ],
+    [
+     60.4,
+     54.4
+    ],
+    [
+     60.4,
+     55.8
+    ],
+    [
+     60.6,
+     54.4
+    ],
+    [
+     60.8,
+     55.6
+    ],
+    [
+     61.2,
+     46.8
+    ],
+    [
+     61.2,
+     55.4
+    ],
+    [
+     61.4,
+     41.6
+    ],
+    [
+     61.6,
+     41.8
+    ],
+    [
+     61.6,
+     47
+    ],
+    [
+     61.8,
+     43.8
+    ],
+    [
+     62,
+     55.8
+    ],
+    [
+     62.2,
+     45.4
+    ],
+    [
+     62.2,
+     45.6
+    ],
+    [
+     62.2,
+     49.8
+    ],
+    [
+     62.4,
+     40.8
+    ],
+    [
+     62.4,
+     49.4
+    ],
+    [
+     62.6,
+     40.8
+    ],
+    [
+     62.6,
+     45.4
+    ],
+    [
+     62.6,
+     45.6
+    ],
+    [
+     63,
+     42.8
+    ],
+    [
+     63.4,
+     49.8
+    ],
+    [
+     63.8,
+     49.4
+    ],
+    [
+     63.8,
+     49.6
+    ],
+    [
+     63.8,
+     53.4
+    ],
+    [
+     63.8,
+     54.6
+    ],
+    [
+     64,
+     54.2
+    ],
+    [
+     65.4,
+     57.2
+    ],
+    [
+     65.4,
+     57.6
+    ],
+    [
+     65.6,
+     57.2
+    ],
+    [
+     65.6,
+     57.6
+    ],
+    [
+     66.4,
+     59.4
+    ],
+    [
+     66.6,
+     57.2
+    ],
+    [
+     66.6,
+     60.6
+    ],
+    [
+     66.8,
+     60.4
+    ],
+    [
+     67.6,
+     48
+    ],
+    [
+     68,
+     61.2
+    ],
+    [
+     68.2,
+     53.4
+    ],
+    [
+     68.2,
+     58.6
+    ],
+    [
+     68.2,
+     62.4
+    ],
+    [
+     68.4,
+     58
+    ],
+    [
+     68.4,
+     62.6
+    ],
+    [
+     68.6,
+     47.2
+    ],
+    [
+     68.6,
+     57.6
+    ],
+    [
+     68.6,
+     62.6
+    ],
+    [
+     68.8,
+     45.4
+    ],
+    [
+     68.8,
+     60
+    ],
+    [
+     69,
+     45.6
+    ],
+    [
+     69,
+     50.4
+    ],
+    [
+     69,
+     50.6
+    ],
+    [
+     69,
+     54.4
+    ],
+    [
+     69,
+     54.6
+    ],
+    [
+     69.2,
+     59.4
+    ],
+    [
+     69.4,
+     62.4
+    ],
+    [
+     69.6,
+     62.4
+    ],
+    [
+     69.8,
+     55.8
+    ],
+    [
+     70,
+     61.2
+    ],
+    [
+     70,
+     62.6
+    ],
+    [
+     70.4,
+     57.6
+    ],
+    [
+     70.4,
+     63.6
+    ],
+    [
+     70.6,
+     57.4
+    ],
+    [
+     70.6,
+     63.4
+    ],
+    [
+     70.8,
+     64.4
+    ],
+    [
+     71,
+     64.6
+    ],
+    [
+     71.2,
+     53.8
+    ],
+    [
+     71.4,
+     53.4
+    ],
+    [
+     71.4,
+     59.2
+    ],
+    [
+     71.4,
+     61.4
+    ],
+    [
+     71.6,
+     57
+    ],
+    [
+     71.6,
+     59.2
+    ],
+    [
+     71.6,
+     60.8
+    ],
+    [
+     71.6,
+     61.6
+    ],
+    [
+     71.6,
+     65.2
+    ],
+    [
+     71.8,
+     53
+    ],
+    [
+     71.8,
+     60
+    ],
+    [
+     71.8,
+     62.8
+    ],
+    [
+     72,
+     65.6
+    ],
+    [
+     72.2,
+     52.2
+    ],
+    [
+     72.4,
+     58.2
+    ],
+    [
+     73,
+     52
+    ],
+    [
+     73,
+     56.4
+    ],
+    [
+     73,
+     56.6
+    ],
+    [
+     73.2,
+     52.6
+    ],
+    [
+     73.6,
+     55.4
+    ],
+    [
+     73.6,
+     55.6
+    ],
+    [
+     74.8,
+     48.4
+    ],
+    [
+     74.8,
+     48.6
+    ],
+    [
+     75.8,
+     55
+    ],
+    [
+     76.2,
+     49
+    ],
+    [
+     76.2,
+     53.8
+    ],
+    [
+     78,
+     48.6
+    ],
+    [
+     78.2,
+     51
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 21,
+   "date": "2005-03-04T02:26:21-06:00",
+   "body": "I completed this at level 49 and got 4200 XP. I also got increases in my reputations with Darnassus and Wildhammer Clan.",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2006-05-30T10:05:16-05:00",
+   "body": "Silvermane stalker is the highest level of silvermane encountered in hinterlands. The ones I fought are all lv48. And they can stealth, which is just pain in the butt. If you start out of AP, the alliance town, you'll travel east. Along the way you'll encounter 2 types of silvermane, mangy silvermane (lv40-41) and silvermane something (lv43-44). You will have to continue to the east. The best way to spot a silvermane stalker is simply to walk in the woods, hope to walk in front of one and spot him before he sees you.",
+   "replies": [
+    "Near there are quite a few of them. :)"
+   ]
+  },
+  {
+   "rating": 14,
+   "date": "2006-10-23T10:05:16-05:00",
+   "body": "This quest series begins with an elf in Feralas at (65, 45). \n\nFreedom for All Creatures, Free 6 sprites \n\nDoling Justice (part 1) Kill the Taurens \n\nDoling Justice (part 2) Go to Darnassus \n\nAn Orphan Looking For A Home, Come back to the Elf in Azshara to get this quest, go to Thousand Needles \n\nA Short Incubation, Bring 2 Elixir of Fortitudes \n\nThe Newest Member of the Family, Go to Hinterlands in less than one hour \n\nFood for Baby, Get 5 Silvermane Stalker Flank \n\nBecoming A Parent, Get your Sprite Darter Egg!",
+   "replies": [
+    "As previously posted - nothing in this series happens in Aszhara.\n\nThe NE's are in Feralas - behind a Grimtotem Compound. (68,46)"
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2006-07-05T22:05:16-05:00",
+   "body": "The person above was correct - just keep heading east.&nbsp; I killed 7 to get the 5 flanks starting around 54, 52 and heading slightly further east with each kill.\n\nIf you are with a lock or near one, you might ask for the detect greater invisibility buff.&nbsp; I don't know if it helped, but I could see them easily and get them before they noticed me.\n\nThe sprite darter is adorable.\n\nRionach, Warlock, Devotion Guild on Alleria",
+   "replies": [
+    "Things are stated to be 11% drop rate (approx) yet it's taken me three hours to get two flanks. I acquired the final 3 flanks two more hours later with a total of 417 kills at lvl 43 as a hunter."
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2007-04-11T22:20:45-05:00",
+   "body": "Drop rate is alittle low, I guess around 35% and the stalkers are at the eastern coast of the Hinderlands. They are invisible so Catseye Goggles or some sort of stealth detection is handy.",
+   "replies": [
+    "\"a little\" does not quite cut it. I just spent half an hour just killing those things and I got ZERO flanks. If my count is right, I put down 12 of them. Some sort of stealth detection would have been nice, but I asked my guild if there was some sort of aid to it and some of them said no. The rest didn't correct him (grumble). On the other hand, I levelled while killing them (rested xp) so I'm not level 50."
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2006-05-30T10:05:16-05:00",
+   "body": "drop is worst then ever. i killed 15 wolves and got 1 flank",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-02T19:41:16-05:00",
+   "body": "i killed maybe 8 and got all... i had a good drop rating.. my luck :D\n\ni just did what the man aboven said.. go to 54.52 and just go east and you will find enough",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-02-14T17:09:42-06:00",
+   "body": "[Red]Faerie Dragons are soooo cute![/Red]",
+   "replies": [
+    "The wolves range in the north of the Hinterlands, in the grass & trees just south of the Overlook Cliffs, especially at the entrance to the path down to the turtle beach."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-08T16:43:05-06:00",
+   "body": "Seems like the best drops were on the eastern-side of the Hinterlands, near the Overlook Cliffs.  The Stalkers there dropped the meat nearly 100% of the time.  While the other stalkers more inland (yes they were Silvermane Stalkers) didn't drop any at all.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-11T03:23:17-05:00",
+   "body": "In the hinterlands the Stalkers are along the mountains near the coast. They are stealthed and near lvl 47-49. They walk along 77,48 to 69,61.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-12-09T23:49:37-06:00",
+   "body": "Very easy to do with the macro \"/target Silvermane Stalker\" When the target frame pops up, just look around to see where the enemy is.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-09T16:13:12-05:00",
+   "body": "Hi just to let you know where to start looking for these things.. in the Hinterlands go to 54,53 and work your way up the side from there.. these above comments didn't help me much to find them... east is very broad when your looking a map",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2005-06-21T14:48:16-05:00",
+   "body": "alluania they r cute but horde cant get em:(",
+   "replies": [
+    "Horde get the option to cut them down and make pretty cloaks from their wings.  Sorry."
+   ]
+  }
+ ]
+}

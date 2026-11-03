@@ -1,0 +1,136 @@
+{
+ "id": 6721,
+ "name": "The Hunter's Path",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": 1537,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 85,
+ "start": {
+  "type": "npc",
+  "id": 5116,
+  "name": "Olmin Burningbeard",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    70,
+    84.6
+   ],
+   [
+    70.4,
+    83.4
+   ],
+   [
+    70.4,
+    83.8
+   ],
+   [
+    70.6,
+    83.4
+   ],
+   [
+    70.6,
+    83.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3601,
+  "name": "Dazalar",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    56.6,
+    59.4
+   ],
+   [
+    56.6,
+    59.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.31446",
+ "objectiveText": "Speak with Dazalar in Dolanaar.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3601,
+   "name": "Dazalar",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  6721,
+  94979,
+  6101,
+  6102,
+  6103
+ ],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 5116,
+   "name": "Olmin Burningbeard",
+   "coord": [
+    70.6,
+    83.8
+   ],
+   "coords": [
+    [
+     70,
+     84.6
+    ],
+    [
+     70.4,
+     83.4
+    ],
+    [
+     70.4,
+     83.8
+    ],
+    [
+     70.6,
+     83.4
+    ],
+    [
+     70.6,
+     83.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 3601,
+   "name": "Dazalar",
+   "coord": [
+    56.6,
+    59.6
+   ],
+   "coords": [
+    [
+     56.6,
+     59.4
+    ],
+    [
+     56.6,
+     59.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

@@ -1,0 +1,168 @@
+{
+ "id": 779,
+ "name": "Seal of the Earth",
+ "level": 50,
+ "reqlevel": 40,
+ "side": 1,
+ "zoneId": 3,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "object",
+  "id": 2933,
+  "name": "Seal of the Earth",
+  "zone": "Badlands",
+  "zoneId": 3,
+  "coords": [
+   [
+    81.4,
+    49.8
+   ],
+   [
+    81.7,
+    49.9
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 2933,
+  "name": "Seal of the Earth",
+  "zone": "Badlands",
+  "zoneId": 3,
+  "coords": [
+   [
+    81.4,
+    49.8
+   ],
+   [
+    81.7,
+    49.9
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Progress The Seal of the Earth lies here, with three recessed alcoves for the Amethyst Runestone , the Opal Runestone , and the Diamond Runestone . Diamond Runestone  ( 1 ) Opal Runestone  ( 1 ) Amethyst Runestone  ( 1 )",
+ "objectives": [
+  {
+   "type": "object",
+   "id": 2933,
+   "name": "Seal of the Earth",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4844,
+   "name": "Opal Runestone",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4845,
+   "name": "Diamond Runestone",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4843,
+   "name": "Amethyst Runestone",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Diamond Runestone",
+   "count": 1,
+   "type": "item",
+   "id": 4845
+  },
+  {
+   "text": "Opal Runestone",
+   "count": 1,
+   "type": "item",
+   "id": 4844
+  },
+  {
+   "text": "Amethyst Runestone",
+   "count": 1,
+   "type": "item",
+   "id": 4843
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 3,
+   "zone": "Badlands",
+   "point": "start",
+   "type": 2,
+   "id": 2933,
+   "name": "Seal of the Earth",
+   "coord": [
+    81.7,
+    49.9
+   ],
+   "coords": [
+    [
+     81.4,
+     49.8
+    ],
+    [
+     81.7,
+     49.9
+    ]
+   ]
+  },
+  {
+   "zoneId": 3,
+   "zone": "Badlands",
+   "point": "end",
+   "type": 2,
+   "id": 2933,
+   "name": "Seal of the Earth",
+   "coord": [
+    81.7,
+    49.9
+   ],
+   "coords": [
+    [
+     81.4,
+     49.8
+    ],
+    [
+     81.7,
+     49.9
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 3,
+ "comments": [
+  {
+   "rating": 13,
+   "date": "2007-05-21T02:49:12-05:00",
+   "body": "opal 77.3 - 66.9\r\ndiamond 83.5 - 32.9\r\namethyst 81.3 - 64.0",
+   "replies": [
+    "Very helpful t.",
+    "Opal is at 72,67"
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2019-10-01T17:33:09-05:00",
+   "body": "They are level 50 elite both. \r\n1) after summoning them run away until they leash. Then you can pull one by one. \r\nWe did it with 44-45 group 2 tanks, 2 healers ,1 warlock. \r\nBut thats quite hard, not much sticks to mob at this level difference.\r\nNote, they are are immune to fire - as healer I had only fire wand...",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-10-31T13:41:42-06:00",
+   "body": "if you are below level 50 dont even bother, you caqn get the three stones very easily but the last part summons two (at lvl 41) ? dragons, in an area full of lvl 40 - 45 elite dragons. The good news you have to be close enough to touch the elite dragons to agro them.",
+   "replies": []
+  }
+ ]
+}

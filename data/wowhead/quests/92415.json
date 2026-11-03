@@ -1,0 +1,102 @@
+{
+ "id": 92415,
+ "name": "Remember That I Love You",
+ "level": 22,
+ "reqlevel": 15,
+ "side": 1,
+ "zoneId": 16611,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2600,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 14450,
+  "name": "Orphan Matron Nightingale",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    47.2,
+    38.4
+   ],
+   [
+    47.4,
+    38.6
+   ],
+   [
+    47.6,
+    39
+   ],
+   [
+    56.2,
+    54.2
+   ],
+   [
+    56.2,
+    54.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Bring the Blood-Stained Letter to Orphan Matron Nightingale in Stormwind City. Blood-Stained Letter (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 251522,
+   "name": "Blood-Stained Letter",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  92415,
+  95161
+ ],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 14450,
+   "name": "Orphan Matron Nightingale",
+   "coord": [
+    47.2,
+    38.4
+   ],
+   "coords": [
+    [
+     47.2,
+     38.4
+    ],
+    [
+     47.4,
+     38.6
+    ],
+    [
+     47.6,
+     39
+    ],
+    [
+     56.2,
+     54.2
+    ],
+    [
+     56.2,
+     54.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 4,
+   "date": "2026-09-20T21:17:36-05:00",
+   "body": "The \"Blood-Stained Letter\" can be found in the Dungeon Ruins of Lordaeron at Undercity.\r\nIt is located at the Graveyard deep inside the dungeon at one of the bosses. \r\nAfter picking it up, bring it to Orphan Matron Nightingale infront of the Stormwind Cathedral.\r\nShe will send you to Darkshire in Duskwood where your gonna talk to Avette Fellwood, to give her the letter and turn in the 2nd quest.",
+   "replies": []
+  }
+ ]
+}

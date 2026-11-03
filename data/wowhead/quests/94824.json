@@ -1,0 +1,105 @@
+{
+ "id": 94824,
+ "name": "Confounding Flash",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 1,
+ "zoneId": -262,
+ "reqclass": 16,
+ "status": "new",
+ "xp": 210,
+ "start": {
+  "type": "npc",
+  "id": 1226,
+  "name": "Maxan Anvol",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    47.2,
+    52.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 258785,
+  "name": "High Priestess Mims",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    24.8,
+    9.4
+   ],
+   [
+    24.8,
+    10
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak to High Priestess Mims in Ironforge.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 258785,
+   "name": "High Priestess Mims",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1226,
+   "name": "Maxan Anvol",
+   "coord": [
+    47.2,
+    52.2
+   ],
+   "coords": [
+    [
+     47.2,
+     52.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 258785,
+   "name": "High Priestess Mims",
+   "coord": [
+    24.8,
+    10
+   ],
+   "coords": [
+    [
+     24.8,
+     9.4
+    ],
+    [
+     24.8,
+     10
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-26T00:07:53-05:00",
+   "body": "This quest is a must-complete for all new [b]Gnome Priests[/b], as it teaches you the new racial ability [spell=1277455]. Pick it up from inside the [b]Kharanos[/b] inn and head to Ironforge's [b]Mystic Ward[/b] to your [url=https://www.wowhead.com/forever/npc=258785/high-priestess-mims#map]class trainer[/url].\r\n\r\nNote that the quest description here says to head to Stormwind instead of Ironforge. I recommend going to Ironforge. They likely created multiples of this same quest to start from Elwynn Forest, Dun Morogh and Teldrassil/Darkshore so that you won't miss it even if you leave Dun Morogh before reaching level 10, but I guess we'll have to wait for confirmation there.\r\n\r\nAt 20, don't forget [spell=1277462].",
+   "replies": []
+  }
+ ]
+}

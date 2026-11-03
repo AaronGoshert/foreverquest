@@ -1,0 +1,183 @@
+{
+ "id": 146,
+ "name": "Messenger to Darkshire",
+ "level": 18,
+ "reqlevel": 18,
+ "side": 1,
+ "zoneId": 44,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 340,
+ "start": {
+  "type": "npc",
+  "id": 263,
+  "name": "Lord Ello Ebonlocke",
+  "zone": "Duskwood",
+  "zoneId": 10,
+  "coords": [
+   [
+    71.8,
+    46.4
+   ],
+   [
+    72,
+    46.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 344,
+  "name": "Magistrate Solomon",
+  "zone": "Redridge Mountains",
+  "zoneId": 44,
+  "coords": [
+   [
+    24.8,
+    44.2
+   ],
+   [
+    29.8,
+    44.6
+   ],
+   [
+    30,
+    44.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Return to Magistrate Solomon with Lord Ebonlocke's letter of response. Ebonlocke's Response to Solomon (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 344,
+   "name": "Magistrate Solomon",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 1410,
+   "name": "Ebonlocke's Response to Solomon",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  145,
+  146
+ ],
+ "points": [
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "start",
+   "type": 1,
+   "id": 263,
+   "name": "Lord Ello Ebonlocke",
+   "coord": [
+    71.8,
+    46.4
+   ],
+   "coords": [
+    [
+     71.8,
+     46.4
+    ],
+    [
+     72,
+     46.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 44,
+   "zone": "Redridge Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 344,
+   "name": "Magistrate Solomon",
+   "coord": [
+    30,
+    44.2
+   ],
+   "coords": [
+    [
+     24.8,
+     44.2
+    ],
+    [
+     29.8,
+     44.6
+    ],
+    [
+     30,
+     44.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 24,
+   "date": "2007-01-18T06:14:13-06:00",
+   "body": "It seems like this is a pre-requisite for another quest or series of quests, but Solomon doesn't seem to give another.&nbsp; Anyone know if this unlocks something in another NPC?",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2007-05-04T21:35:49-05:00",
+   "body": "I actually got into this questline on my alt. Interesting story. I wanna know what unfolds now but there seem to be no more quests...anyone have any info? Thanks.",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2004-12-26T13:52:56-06:00",
+   "body": "Exp for this. at lvl 19 : 340",
+   "replies": [
+    "does this quest line have any point or does it end here?"
+   ]
+  },
+  {
+   "rating": 6,
+   "date": "2005-12-12T18:14:13-06:00",
+   "body": "Quest chain.&nbsp; 8 Quests of back and forth each time worth 50-250 exp.&nbsp; What a joke!&nbsp; Not worth it!",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-05-07T18:14:13-05:00",
+   "body": "Haha I completed it at 57, gained 25 xp and 1s 50c for both quests, only 5 rep gain for the first and 3 for the second.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-12T18:14:13-06:00",
+   "body": "Agreed, 100%, very weak.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-23T18:14:13-06:00",
+   "body": "Better for rep though...25-50 per turn in for Stormwind.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-02T15:08:35-06:00",
+   "body": "I got 1000 for first turn in at level 18",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-10-22T07:53:15-05:00",
+   "body": "theres no point to this line of quests. so dont really bother and u dont get any good exp only like 500 total.",
+   "replies": [
+    "Well the point is to get you to explore the various areas.  Which is useful to someone new to the game.  I suppose there is wow lore involved too.\n\nBut hey Xp + rep without having to kill anything.. sounds easy enough to me."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "id": 94217,
+ "name": "Craftsman's Writ: Lesser Troll's Blood Elixir",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 14508,
+  "name": "Short John Mithril",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    29.4,
+    47.4
+   ],
+   [
+    29.6,
+    47.4
+   ],
+   [
+    29.6,
+    47.6
+   ],
+   [
+    30,
+    48.8
+   ],
+   [
+    31,
+    48.4
+   ],
+   [
+    31,
+    48.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Lesser Troll's Blood Elixir  ( 1 ) Lesser Troll's Blood Elixir  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264017,
+   "name": "Craftsman's Writ: Lesser Troll's Blood Elixir",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3388,
+   "name": "Lesser Troll's Blood Elixir",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Lesser Troll's Blood Elixir",
+   "count": 1,
+   "type": "item",
+   "id": 264017
+  },
+  {
+   "text": "Lesser Troll's Blood Elixir",
+   "count": 1,
+   "type": "item",
+   "id": 3388
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "end",
+   "type": 1,
+   "id": 14508,
+   "name": "Short John Mithril",
+   "coord": [
+    29.6,
+    47.4
+   ],
+   "coords": [
+    [
+     29.4,
+     47.4
+    ],
+    [
+     29.6,
+     47.4
+    ],
+    [
+     29.6,
+     47.6
+    ],
+    [
+     30,
+     48.8
+    ],
+    [
+     31,
+     48.4
+    ],
+    [
+     31,
+     48.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

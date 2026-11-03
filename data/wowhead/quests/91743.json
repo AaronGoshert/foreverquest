@@ -1,0 +1,446 @@
+{
+ "id": 91743,
+ "name": "Rascally Rodents",
+ "level": 2,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 170,
+ "start": {
+  "type": "npc",
+  "id": 951,
+  "name": "Brother Paxton",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    49.4,
+    40.4
+   ],
+   [
+    49.6,
+    40.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 951,
+  "name": "Brother Paxton",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    49.4,
+    40.4
+   ],
+   [
+    49.6,
+    40.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Retrieve 8 Stolen Books from kobolds in Northshire Valley and return them to Brother Paxton . Stolen Book  ( 8 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 247839,
+   "name": "Stolen Books",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Stolen Book",
+   "count": 8,
+   "type": "item",
+   "id": 247839
+  }
+ ],
+ "series": [
+  91741,
+  91743,
+  91745,
+  91752,
+  91758,
+  91772,
+  91775,
+  91777
+ ],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 951,
+   "name": "Brother Paxton",
+   "coord": [
+    49.4,
+    40.4
+   ],
+   "coords": [
+    [
+     49.4,
+     40.4
+    ],
+    [
+     49.6,
+     40.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 951,
+   "name": "Brother Paxton",
+   "coord": [
+    49.4,
+    40.4
+   ],
+   "coords": [
+    [
+     49.4,
+     40.4
+    ],
+    [
+     49.6,
+     40.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 6,
+   "name": "Kobold Vermin",
+   "coord": [
+    47.4,
+    36.2
+   ],
+   "coords": [
+    [
+     47.4,
+     35
+    ],
+    [
+     47.4,
+     36.2
+    ],
+    [
+     47.4,
+     36.6
+    ],
+    [
+     47.6,
+     35
+    ],
+    [
+     47.6,
+     36
+    ],
+    [
+     47.6,
+     36.8
+    ],
+    [
+     47.8,
+     37.6
+    ],
+    [
+     48.8,
+     35
+    ],
+    [
+     49,
+     36.4
+    ],
+    [
+     49,
+     37.6
+    ],
+    [
+     49.2,
+     37
+    ],
+    [
+     49.4,
+     34.4
+    ],
+    [
+     49.6,
+     35.2
+    ],
+    [
+     49.6,
+     35.8
+    ],
+    [
+     50.2,
+     37.4
+    ],
+    [
+     50.4,
+     37.6
+    ],
+    [
+     50.8,
+     37.6
+    ],
+    [
+     51.2,
+     36
+    ],
+    [
+     51.2,
+     37.4
+    ],
+    [
+     51.6,
+     37
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 80,
+   "name": "Kobold Laborer",
+   "coord": [
+    48.4,
+    29.2
+   ],
+   "coords": [
+    [
+     47.4,
+     30.2
+    ],
+    [
+     47.6,
+     31.8
+    ],
+    [
+     47.8,
+     31.2
+    ],
+    [
+     48.2,
+     30.2
+    ],
+    [
+     48.4,
+     26.6
+    ],
+    [
+     48.4,
+     28
+    ],
+    [
+     48.4,
+     29.2
+    ],
+    [
+     48.6,
+     27.4
+    ],
+    [
+     48.6,
+     27.8
+    ],
+    [
+     49,
+     29
+    ],
+    [
+     49.4,
+     25.8
+    ],
+    [
+     49.8,
+     25.4
+    ],
+    [
+     50.2,
+     26.2
+    ],
+    [
+     50.2,
+     26.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 257,
+   "name": "Kobold Worker",
+   "coord": [
+    47.8,
+    31.6
+   ],
+   "coords": [
+    [
+     46.4,
+     32.4
+    ],
+    [
+     46.4,
+     32.6
+    ],
+    [
+     47,
+     33.8
+    ],
+    [
+     47.2,
+     35
+    ],
+    [
+     47.4,
+     32.4
+    ],
+    [
+     47.4,
+     32.6
+    ],
+    [
+     47.4,
+     36
+    ],
+    [
+     47.4,
+     37
+    ],
+    [
+     47.6,
+     32.8
+    ],
+    [
+     47.6,
+     36
+    ],
+    [
+     47.6,
+     36.8
+    ],
+    [
+     47.8,
+     31.4
+    ],
+    [
+     47.8,
+     31.6
+    ],
+    [
+     48,
+     35.4
+    ],
+    [
+     48.4,
+     33.6
+    ],
+    [
+     48.6,
+     33.8
+    ],
+    [
+     48.8,
+     32.8
+    ],
+    [
+     48.8,
+     36
+    ],
+    [
+     49,
+     35.2
+    ],
+    [
+     49.6,
+     34.6
+    ],
+    [
+     49.6,
+     35.6
+    ],
+    [
+     50,
+     33.2
+    ],
+    [
+     50,
+     34.4
+    ],
+    [
+     51,
+     35.4
+    ],
+    [
+     51,
+     35.6
+    ],
+    [
+     51,
+     38.6
+    ],
+    [
+     51.2,
+     37.8
+    ],
+    [
+     51.4,
+     36.6
+    ],
+    [
+     51.6,
+     36.4
+    ],
+    [
+     51.6,
+     36.6
+    ],
+    [
+     51.6,
+     37.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 2,
+   "date": "2026-09-25T23:02:54-05:00",
+   "body": "Good drop rate. I found all books easily without any separate kobold grinding required outside of finishing the three old slaying quests [i](10 vermin, 10 workers, 12 laborers)[/i].\r\n\r\nThis quest is part of a new chain that leads you outside of the starting area and involves objectives in the broader Elwynn Forest area. It's very much worth completing, as the final part rewards you with [b]green quality weapons[/b].",
+   "replies": [
+    "I don't understand how this can be described as a \"good\" drop rate. I have done this quest thrice now and at best I have had to kill double as many workers as I needed for the books",
+    "Abysmal drop rate. I have killed around 20 Kobolds since picking the quest up and have exactly one book. EDIT: at 22 kills I got my second one. Edit 2: I stopped counting around 40, but I'd say I ended up at at least 60 kills for all the books (and I didn't pick the quest up until after I was done with the vermins)"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-08T05:41:23-05:00",
+   "body": "The title of this quest is a reference to [url=https://en.wikipedia.org/wiki/Elmer_Fudd]Elmer Fudd[/url] who is famous for hunting \"wascawwy wabbits\".",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-19T20:56:16-05:00",
+   "body": "Investigate Echo Ridge quest requires 10 kills. At the end of that quest I had 1 book. This is a 10% drop rate from the Workers.\nSkirmish at Echo Ridge quest requires 12 kills. At the end of that quest I had 7 books. This is a 50% drop rate from the Laborers during the quest.\nI killed five more Laborers for the last book. Giving 17 laborers yield 7 books, and an overall Laborer drop rate of 41% from the Laborers, total.\nThe over all total was 27 kills for 8 books, which is a total drop rate of 30% from both Workers and Laborers combined..",
+   "replies": []
+  }
+ ]
+}

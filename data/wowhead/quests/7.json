@@ -1,0 +1,283 @@
+{
+ "id": 7,
+ "name": "Kobold Camp Cleanup",
+ "level": 2,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 170,
+ "start": {
+  "type": "npc",
+  "id": 197,
+  "name": "Marshal McBride",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    48.8,
+    41.4
+   ],
+   [
+    48.8,
+    41.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 197,
+  "name": "Marshal McBride",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    48.8,
+    41.4
+   ],
+   [
+    48.8,
+    41.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Kill 10 Kobold Vermin , then return to Marshal McBride .   Kobold Vermin slain  ( 10 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 6,
+   "name": "Kobold Vermin",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Kobold Vermin slain",
+   "count": 10,
+   "type": "npc",
+   "id": 6
+  }
+ ],
+ "series": [
+  783,
+  7
+ ],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 197,
+   "name": "Marshal McBride",
+   "coord": [
+    48.8,
+    41.6
+   ],
+   "coords": [
+    [
+     48.8,
+     41.4
+    ],
+    [
+     48.8,
+     41.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 197,
+   "name": "Marshal McBride",
+   "coord": [
+    48.8,
+    41.6
+   ],
+   "coords": [
+    [
+     48.8,
+     41.4
+    ],
+    [
+     48.8,
+     41.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "requirement",
+   "type": 1,
+   "id": 6,
+   "name": "Kobold Vermin",
+   "coord": [
+    47.4,
+    36.2
+   ],
+   "coords": [
+    [
+     47.4,
+     35
+    ],
+    [
+     47.4,
+     36.2
+    ],
+    [
+     47.4,
+     36.6
+    ],
+    [
+     47.6,
+     35
+    ],
+    [
+     47.6,
+     36
+    ],
+    [
+     47.6,
+     36.8
+    ],
+    [
+     47.8,
+     37.6
+    ],
+    [
+     48.8,
+     35
+    ],
+    [
+     49,
+     36.4
+    ],
+    [
+     49,
+     37.6
+    ],
+    [
+     49.2,
+     37
+    ],
+    [
+     49.4,
+     34.4
+    ],
+    [
+     49.6,
+     35.2
+    ],
+    [
+     49.6,
+     35.8
+    ],
+    [
+     50.2,
+     37.4
+    ],
+    [
+     50.4,
+     37.6
+    ],
+    [
+     50.8,
+     37.6
+    ],
+    [
+     51.2,
+     36
+    ],
+    [
+     51.2,
+     37.4
+    ],
+    [
+     51.6,
+     37
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 4,
+   "date": "2007-01-12T20:10:06-06:00",
+   "body": "How hard cud it possibly be...",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-03-28T03:41:34-06:00",
+   "body": "After the completetion of A Threat Within [Green]Marshal McBride[/Green] will automatically display this quest. Accept it to begin this quest.\n\n1. Leave the [Yellow]Northshire Abby[/Yellow] and head North (to the right). \n\n1a. Head in that direction until you reach the corner of the first part of the castle (past three threes). Turn east (right) and you will spot [Green]Eagan Peltskinner [/Green] ([Silver]Coordinates: 49, 40 Elwynn Forest[/Silver]). He will offer you to start the quest [Orange]Wolves Across the Border[/Orange]. This is another easy quest that can be done at the same time.\n\n2. Contune in that direction past all the wolves until you reach a camp ([Silver]Coordinates: 48, 36 Elwynn Forest[/Silver]).\n\n3. Here you will see an assortment of Kobolds. You need the Kobold Vermin (level 1-2) which are dressed in red. Kill 10 of these.\n\n        Note: Save everything you get from them! Then you can sell it to the merchant for some money. It may only be a few copper, but you will need it when you comes time to buy your skills. Don't buy anything at this point either. \n\n        You gain about 50 experiance for killing level 1's and 52 experiance for killing level 2's. You should level by the time you have killed 10 of these.\n\n4. Once you have killed 10 of these head back to the [Yellow]Northshire Abby [/Yellow] and talk to [Green]Marshal McBride [/Green] ([Silver]Coordinates: 48, 43 Elwynn Forest[/Silver]). He should be indicated on your map with a gold dot.\n\n[Blue]     Money Gained: 25 copper\n     Experience gained: 170. \n     Reputation gained: 110 for Stormwind.[/Blue]\n\nThis quest leads to [Orange]Investigate Echo Ridge [/Orange] as well as a class specific quest, [Orange]Consecrated Letter[/Orange].",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-05T00:06:28-06:00",
+   "body": "Continue Text:\n\n\"How goes the hunting, <name>? Have you found and defeated those vermin?\"",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-12T20:10:06-06:00",
+   "body": "This quest is really hard",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-12-23T01:14:44-06:00",
+   "body": "[b]Location:[/b]  Northshire Abbey; 48.41 (To recieve as well as complete the quest).  Northshire Valley; 51.37 (Kobold Vermin)\n\n[b]Description:[/b]  Level range is 1-2.  There is no aggro proximity here, therefore I don't include level 3 Kobold Workers that are also near.\n\n[b]Experience:[/b] 170\n\n[b]Reputation:[/b]  110 points with Stormwind     \n\n[b]Character:[/b]  Level 2 \n\n[b]Version:[/b]  1.8.4\n\nEdited, Fri Dec 23 06:03:26 2005",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-02-03T16:21:19-06:00",
+   "body": "Once you have the quest from Marshal McBride, head a little north from abbey and you will find the Kobold vermins. Kill 10 of them, and return to Marshal. Typical quest in WoW. :)\n\n-------------------------------------------------\nLast update - 4.2.2006 \n\nEntWarrior - Level 22 Human Warrior \n\nMining - 51, Blacksmithing - 36 \n\nGuild - Phoenix Knights \n\nServer - Im playing on private servers because i dont have the money to buy the real game (im only 13 :D), but soon I'll have. The name of the private server is Knights Legion WoW server (you can find it on Wowstatus.net). =) \n\nAbout the private servers... \nLatency: Depends on how many people plays. But usually its about 300-400. Very bad. \nPopulation: 20-30 people online, always. \nBugs: It has few more bugs than bliz server, but its still playable. \n------------------------------------------------- \nI cant wait to get real WoW :). \n\n\nEdited, Sat Feb  4 01:17:38 2006",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-27T00:29:18-05:00",
+   "body": "I did not have any problems with this quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-16T09:45:14-06:00",
+   "body": "+100 Stormwind rep",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-12T07:38:59-05:00",
+   "body": "U hav 2 leave the Northshire Abbey and go North until u reach a mine called the \"Echo Ridge Mine\".\n \nThen u go into the camp with lots of Kobolds(they \nr humanoids)and look for Kobolds labelled \"Kobold \nVermin. Don't go into the mine yet,they r for the \nnext quest(anyway, if u r lvl 2, they r lvl,3-4).",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-01T02:58:30-05:00",
+   "body": "these quests are pretty pointless but you get rep from them",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-29T06:26:40-05:00",
+   "body": "Hi all\r\n\r\nOn this quest you need to kill 10 [npc=6] you can find them on north from Northshire Abbey. Quest is gives [npc=197] and return to him, He is located inside Northshire Abbey.\r\n\r\nSee My Video if need it - https://youtu.be/I7d7_zz5jp4\r\n\r\nThank You :)",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-22T14:45:42-06:00",
+   "body": "I wonder when they will add all the missing information that has been posted so far...",
+   "replies": []
+  }
+ ]
+}

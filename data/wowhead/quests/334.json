@@ -1,0 +1,204 @@
+{
+ "id": 334,
+ "name": "Package for Thurman",
+ "level": 2,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 130,
+ "start": {
+  "type": "npc",
+  "id": 1428,
+  "name": "Rema Schneider",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    49.4,
+    55.4
+   ],
+   [
+    49.4,
+    55.6
+   ],
+   [
+    49.6,
+    55.4
+   ],
+   [
+    49.6,
+    55.6
+   ],
+   [
+    58,
+    67.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1429,
+  "name": "Thurman Schneider",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    42.2,
+    76.6
+   ],
+   [
+    42.4,
+    76.4
+   ],
+   [
+    52.4,
+    83.4
+   ],
+   [
+    52.4,
+    83.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Go to the Larson Clothiers in the Stormwind Mage Quarter, and give Thurman Schneider his Sewing Kit. Thurman's Sewing Kit (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1429,
+   "name": "Thurman Schneider",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 2760,
+   "name": "Thurman's Sewing Kit",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 1428,
+   "name": "Rema Schneider",
+   "coord": [
+    49.6,
+    55.4
+   ],
+   "coords": [
+    [
+     49.4,
+     55.4
+    ],
+    [
+     49.4,
+     55.6
+    ],
+    [
+     49.6,
+     55.4
+    ],
+    [
+     49.6,
+     55.6
+    ],
+    [
+     58,
+     67.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 1429,
+   "name": "Thurman Schneider",
+   "coord": [
+    42.4,
+    76.4
+   ],
+   "coords": [
+    [
+     42.2,
+     76.6
+    ],
+    [
+     42.4,
+     76.4
+    ],
+    [
+     52.4,
+     83.4
+    ],
+    [
+     52.4,
+     83.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 13,
+   "date": "2006-08-09T15:43:51-05:00",
+   "body": "lol, epic quest chain.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-07-04T03:43:51-05:00",
+   "body": "The first coord are correct.&nbsp; the second one takes you to Canal Taylor & Fit Shop----THE WRONG ONE.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-04-22T03:43:51-05:00",
+   "body": "Rema Schneider is at (50; 56).",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-12-12T19:05:06-06:00",
+   "body": "Rema Schneider is at the coordinates 49, 55 and Thurman is at the coordinates 42, 76.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-08-09T15:43:51-05:00",
+   "body": "Thurman 42.76 at Mage Quarter",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-05-28T15:43:51-05:00",
+   "body": "She is actually @ 49:55, the canals, in the Canal Fit and Tailor shop",
+   "replies": [
+    "she is actually at 49.55 and thurman is at 42.76"
+   ]
+  },
+  {
+   "rating": -3,
+   "date": "2005-03-16T09:57:39-06:00",
+   "body": "+75 Stormwind\n+~19 Darnassus, Gnomeregan Exiles, and Ironforge",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2007-02-10T02:43:27-06:00",
+   "body": "Thurman Schneider is in Larson Clothiers in the Mage Quarter (as the quest says) at co-ord 42,76",
+   "replies": []
+  }
+ ]
+}

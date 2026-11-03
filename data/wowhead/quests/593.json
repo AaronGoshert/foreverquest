@@ -1,0 +1,117 @@
+{
+ "id": 593,
+ "name": "Filling the Soul Gem",
+ "level": 46,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 2530,
+  "name": "Yenniku",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    39,
+    58.2
+   ],
+   [
+    39.2,
+    57.4
+   ],
+   [
+    39.4,
+    58.6
+   ],
+   [
+    39.6,
+    58.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Progress Yenniku stands stunned before you, his mind in another place... Soul Gem  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2530,
+   "name": "Yenniku",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3912,
+   "name": "Soul Gem",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Soul Gem",
+   "count": 1,
+   "type": "item",
+   "id": 3912
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "end",
+   "type": 1,
+   "id": 2530,
+   "name": "Yenniku",
+   "coord": [
+    39,
+    58.2
+   ],
+   "coords": [
+    [
+     39,
+     58.2
+    ],
+    [
+     39.2,
+     57.4
+    ],
+    [
+     39.4,
+     58.6
+    ],
+    [
+     39.6,
+     58.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2006-10-01T04:02:17-05:00",
+   "body": "<NT>",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-07T20:05:56-05:00",
+   "body": "I killed him and I was bored so I killed Zanzil then I got pwned by mass when I tried to loot so I did FD and then I was in front of Yenniku and it said \"Yenniku's spirit is free...\" and nothing happened no quest finish nothing.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-09-13T08:22:53-05:00",
+   "body": "Quest is still bugged.  The gem will stun Yenniku but you can't do anything else and then he despawns.",
+   "replies": []
+  }
+ ]
+}

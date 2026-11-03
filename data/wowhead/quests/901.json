@@ -1,0 +1,219 @@
+{
+ "id": 901,
+ "name": "Samophlange",
+ "level": 14,
+ "reqlevel": 10,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 740,
+ "start": {
+  "type": "object",
+  "id": 4141,
+  "name": "Control Console",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    52.4,
+    11.7
+   ],
+   [
+    52.5,
+    11.7
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 4141,
+  "name": "Control Console",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    52.4,
+    11.7
+   ],
+   [
+    52.5,
+    11.7
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Get the Console Key from Tinkerer Sniggles to use on the control console . Console Key  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5089,
+   "name": "Console Key",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Console Key",
+   "count": 1,
+   "type": "item",
+   "id": 5089
+  }
+ ],
+ "series": [
+  894,
+  900,
+  901,
+  902
+ ],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 2,
+   "id": 4141,
+   "name": "Control Console",
+   "coord": [
+    52.4,
+    11.7
+   ],
+   "coords": [
+    [
+     52.4,
+     11.7
+    ],
+    [
+     52.5,
+     11.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 2,
+   "id": 4141,
+   "name": "Control Console",
+   "coord": [
+    52.4,
+    11.7
+   ],
+   "coords": [
+    [
+     52.4,
+     11.7
+    ],
+    [
+     52.5,
+     11.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 3471,
+   "name": "Tinkerer Sniggles",
+   "coord": [
+    52.8,
+    10.4
+   ],
+   "coords": [
+    [
+     52.8,
+     10.4
+    ],
+    [
+     53,
+     10.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 21,
+   "date": "2004-11-15T18:33:58-06:00",
+   "body": "Just up to the northeast of the machine is a little hut.  Tinkerer Sniggles spawns inside of the hut.  Kill him to get the key and go back to the control console yet again.",
+   "replies": [
+    "53,10"
+   ]
+  },
+  {
+   "rating": 13,
+   "date": "2006-10-11T13:05:04-05:00",
+   "body": "Sniggles is right up the hill from the controls, inside the hut. 52, 10.\r\n\r\nHe's alone in the room, so it's an easy kill.",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2019-08-28T18:55:49-05:00",
+   "body": "This one especially sucks in Classic WoW with 7 minute respawn timer.",
+   "replies": [
+    "Even worse if doing quest as alliance on alliance dominated server, trying to avoid bottlenecks in other zones. All other quests are fine, this one competes with very few horde that do exist."
+   ]
+  },
+  {
+   "rating": 10,
+   "date": "2006-06-10T10:00:47-05:00",
+   "body": "Takes 7 minutes to respawn.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-09-27T22:00:47-05:00",
+   "body": "53,11\ninside house.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-09-27T22:00:47-05:00",
+   "body": "its a lone smoke stack, can be found around 53,12",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-12-09T22:00:47-06:00",
+   "body": "He's located at exactly! 52.10..in a little hut thing. I'm standing in it lookin' at my coords right now. 52.10",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-12-07T19:49:52-06:00",
+   "body": "Their some guards around, but it's fairly easy to kill them. Just don't get more then 1 mob attacking you at one time.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-07T19:48:02-05:00",
+   "body": "For horde leads to: https://www.wowhead.com/forever/quest=3921",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-06-10T10:00:47-05:00",
+   "body": "Hes in the hut on the hill near the consule",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-04T22:00:47-05:00",
+   "body": "Where do i find the Samophlange site, from the Crossroads?&nbsp; I dont know how to use the grid coordinates, so if someone could give me directions from Crossroads, that would be excellent.\nThanks so much in advance.",
+   "replies": [
+    "Go north...and RIGHT before you go into the next section, right before the mountains you see, turn right"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2019-06-21T14:02:13-05:00",
+   "body": "This quest can be done by both Alliance and Horde.",
+   "replies": []
+  }
+ ]
+}

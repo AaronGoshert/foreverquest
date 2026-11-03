@@ -1,0 +1,168 @@
+{
+ "id": 98387,
+ "name": "Blackrock Blockade",
+ "level": 21,
+ "reqlevel": 18,
+ "side": 1,
+ "zoneId": 44,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1650,
+ "start": {
+  "type": "npc",
+  "id": 382,
+  "name": "Marshal Marris",
+  "zone": "Redridge Mountains",
+  "zoneId": 44,
+  "coords": [
+   [
+    28.2,
+    49
+   ],
+   [
+    33.4,
+    48.8
+   ],
+   [
+    33.6,
+    48.4
+   ],
+   [
+    33.6,
+    48.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 382,
+  "name": "Marshal Marris",
+  "zone": "Redridge Mountains",
+  "zoneId": 44,
+  "coords": [
+   [
+    28.2,
+    49
+   ],
+   [
+    33.4,
+    48.8
+   ],
+   [
+    33.6,
+    48.4
+   ],
+   [
+    33.6,
+    48.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring 8 Stolen Weapons and 10 Blackrock Supplies to Marshal Marris in Lakeshire. Stolen Weapon  ( 8 ) Blackrock Supplies  ( 10 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 280841,
+   "name": "Stolen Weapons",
+   "count": 8,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 280839,
+   "name": "Blackrock Supplies",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Stolen Weapon",
+   "count": 8,
+   "type": "item",
+   "id": 280841
+  },
+  {
+   "text": "Blackrock Supplies",
+   "count": 10,
+   "type": "item",
+   "id": 280839
+  }
+ ],
+ "series": [
+  20,
+  19
+ ],
+ "points": [
+  {
+   "zoneId": 44,
+   "zone": "Redridge Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 382,
+   "name": "Marshal Marris",
+   "coord": [
+    33.4,
+    48.8
+   ],
+   "coords": [
+    [
+     28.2,
+     49
+    ],
+    [
+     33.4,
+     48.8
+    ],
+    [
+     33.6,
+     48.4
+    ],
+    [
+     33.6,
+     48.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 44,
+   "zone": "Redridge Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 382,
+   "name": "Marshal Marris",
+   "coord": [
+    33.4,
+    48.8
+   ],
+   "coords": [
+    [
+     28.2,
+     49
+    ],
+    [
+     33.4,
+     48.8
+    ],
+    [
+     33.6,
+     48.4
+    ],
+    [
+     33.6,
+     48.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-01T17:51:14-05:00",
+   "body": "Look for [b]Stolen Weapons[/b] (looks like swords on the ground) or [b]Weapon Racks[/b] for the stolen weapons.\n\nLook for [b]Grain Sacks[/b], [b]Meat Haunches[/b] and [b]Water Barrels[/b] for the stolen supplies.\n\nIn my experience, the supplies were harder to gather.\n\nBest combined with [quest=20] and [quest=95999].",
+   "replies": []
+  }
+ ]
+}

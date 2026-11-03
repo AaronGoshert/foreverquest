@@ -1,0 +1,272 @@
+{
+ "id": 92544,
+ "name": "Al'Aketh Thugs",
+ "level": 5,
+ "reqlevel": 2,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 560,
+ "start": {
+  "type": "npc",
+  "id": 252095,
+  "name": "Hanaa Nightwind",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    38.2,
+    30.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252095,
+  "name": "Hanaa Nightwind",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    38.2,
+    30.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Slay 6 Al'Aketh Brutes , 4 Al'Aketh Neophytes , and Malduko Cloudcrush in Thendal Grove.   Al'Aketh Brute slain  ( 6 )   Al'Aketh Neophyte slain  ( 4 )   Malduko Cloudcrush slain  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 251145,
+   "name": "Al'Aketh Brutes",
+   "count": 6,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 251448,
+   "name": "Al'Aketh Neophyte",
+   "count": 6,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 256935,
+   "name": "Malduko Cloudcrush",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Al'Aketh Brute slain",
+   "count": 6,
+   "type": "npc",
+   "id": 251145
+  },
+  {
+   "text": "Al'Aketh Neophyte slain",
+   "count": 4,
+   "type": "npc",
+   "id": 251448
+  },
+  {
+   "text": "Malduko Cloudcrush slain",
+   "count": 1,
+   "type": "npc",
+   "id": 256935
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252095,
+   "name": "Hanaa Nightwind",
+   "coord": [
+    38.2,
+    30.2
+   ],
+   "coords": [
+    [
+     38.2,
+     30.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252095,
+   "name": "Hanaa Nightwind",
+   "coord": [
+    38.2,
+    30.2
+   ],
+   "coords": [
+    [
+     38.2,
+     30.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 251145,
+   "name": "Al'Aketh Brute",
+   "coord": [
+    37.8,
+    32.8
+   ],
+   "coords": [
+    [
+     35.4,
+     33.4
+    ],
+    [
+     35.4,
+     33.8
+    ],
+    [
+     35.7,
+     32.9
+    ],
+    [
+     35.8,
+     34.4
+    ],
+    [
+     35.9,
+     31.9
+    ],
+    [
+     36.6,
+     33
+    ],
+    [
+     37,
+     32.3
+    ],
+    [
+     37,
+     33.5
+    ],
+    [
+     37.5,
+     32
+    ],
+    [
+     37.6,
+     33.5
+    ],
+    [
+     37.8,
+     32.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 251448,
+   "name": "Al'Aketh Neophyte",
+   "coord": [
+    35.4,
+    32.6
+   ],
+   "coords": [
+    [
+     34.9,
+     33.7
+    ],
+    [
+     35.4,
+     32.6
+    ],
+    [
+     35.5,
+     31.4
+    ],
+    [
+     36.1,
+     31.6
+    ],
+    [
+     36.4,
+     33.3
+    ],
+    [
+     36.6,
+     31.4
+    ],
+    [
+     36.9,
+     31.9
+    ],
+    [
+     37.1,
+     32.7
+    ],
+    [
+     37.4,
+     34.1
+    ],
+    [
+     37.5,
+     32.8
+    ],
+    [
+     37.5,
+     33.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 256935,
+   "name": "Malduko Cloudcrush",
+   "coord": [
+    36.4,
+    33.2
+   ],
+   "coords": [
+    [
+     36,
+     33.5
+    ],
+    [
+     36.4,
+     33.2
+    ],
+    [
+     36.6,
+     33.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-21T06:02:51-05:00",
+   "body": "Quest to cull out thug threat. \nBrutes are shaman like mobs with melee and shocks.\nNeophytes are the more elemental shaman type but they will still primarly melee.\nMalduko shock like shaman. Careful with him, pull him away, at least in his current state he respawns instantly.\n\nSmall chest can spawn behind a pillar where the miniboss is.\nLey line available behind for buff.",
+   "replies": []
+  }
+ ]
+}

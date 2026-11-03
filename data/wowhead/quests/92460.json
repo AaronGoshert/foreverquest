@@ -1,0 +1,106 @@
+{
+ "id": 92460,
+ "name": "Coming of Age",
+ "level": 1,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 40,
+ "start": {
+  "type": "npc",
+  "id": 251362,
+  "name": "Ailee Farheart",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    42.8,
+    23.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251361,
+  "name": "Rorian the Dayseeker",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    42,
+    23.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak with Rorian the Dayseeker in Thendal Grove.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 251361,
+   "name": "Rorian the Dayseeker",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  92460,
+  92461
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 251362,
+   "name": "Ailee Farheart",
+   "coord": [
+    42.8,
+    23.4
+   ],
+   "coords": [
+    [
+     42.8,
+     23.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251361,
+   "name": "Rorian the Dayseeker",
+   "coord": [
+    42,
+    23.4
+   ],
+   "coords": [
+    [
+     42,
+     23.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-21T02:29:48-05:00",
+   "body": "The game just welcoming you !",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-18T21:14:25-05:00",
+   "body": "[ul]\r\n[li][b]Starts:[/b] [npc=251362] (42.8,23.4)[/li]\r\n[li][b]Ends:[/b] [npc=251361] (42.1,23.5)[/li]\r\n[/ul]\r\n\r\nThis is the first quest of the zone, and as with most starting out quests, you're tasked with running over to Rorian who isn't too far off to the right, standing outside the entrance to a building.",
+   "replies": []
+  }
+ ]
+}

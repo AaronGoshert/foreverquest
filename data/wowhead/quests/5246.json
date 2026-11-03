@@ -1,0 +1,332 @@
+{
+ "id": 5246,
+ "name": "Fragments of the Past",
+ "level": 56,
+ "reqlevel": 53,
+ "side": 1,
+ "zoneId": 139,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 5800,
+ "start": {
+  "type": "npc",
+  "id": 10304,
+  "name": "Aurora Skycaller",
+  "zone": "Eastern Plaguelands",
+  "zoneId": 139,
+  "coords": [
+   [
+    53.4,
+    22
+   ],
+   [
+    53.6,
+    22
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 10304,
+  "name": "Aurora Skycaller",
+  "zone": "Eastern Plaguelands",
+  "zoneId": 139,
+  "coords": [
+   [
+    53.4,
+    22
+   ],
+   [
+    53.6,
+    22
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Find the Sacred Highborne Writings in the Temple of Zin-Malor in Azshara, and bring them to Aurora Skycaller near the Northpass Tower in Eastern Plaguelands . Sacred Highborne Writings  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 13313,
+   "name": "Sacred Highborne Writings",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Sacred Highborne Writings",
+   "count": 1,
+   "type": "item",
+   "id": 13313
+  }
+ ],
+ "series": [
+  5249,
+  5244,
+  5245,
+  5246,
+  5247
+ ],
+ "points": [
+  {
+   "zoneId": 139,
+   "zone": "Eastern Plaguelands",
+   "point": "start",
+   "type": 1,
+   "id": 10304,
+   "name": "Aurora Skycaller",
+   "coord": [
+    53.4,
+    22
+   ],
+   "coords": [
+    [
+     53.4,
+     22
+    ],
+    [
+     53.6,
+     22
+    ]
+   ]
+  },
+  {
+   "zoneId": 139,
+   "zone": "Eastern Plaguelands",
+   "point": "end",
+   "type": 1,
+   "id": 10304,
+   "name": "Aurora Skycaller",
+   "coord": [
+    53.4,
+    22
+   ],
+   "coords": [
+    [
+     53.4,
+     22
+    ],
+    [
+     53.6,
+     22
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 63,
+   "date": "2005-08-31T01:17:47-05:00",
+   "body": "[url=http://www.skratch-pad.com/gamedata/wow/sacred_highborne_writings.jpg]screen shot[/url] of the book location. Minimap moved and photoshopped to show location inside the temple.\n\nEdited, Tue Aug 30 21:35:04 2005",
+   "replies": [
+    "You are my hero :D",
+    "You rock!  <3 people that take extra time to help others.  Good travels to you!  :)",
+    "And hurrah for using a webhost with a URL that still works, 14 years later."
+   ]
+  },
+  {
+   "rating": 35,
+   "date": "2005-11-22T00:32:43-06:00",
+   "body": "If you go in the temple... and you see the Warlord, it's behind him. Not in the pool or anything. It's on a ledge behind him. It's small.",
+   "replies": []
+  },
+  {
+   "rating": 30,
+   "date": "2006-12-14T20:26:56-06:00",
+   "body": "Location 41, 52",
+   "replies": [
+    "On the first floor in-case anyone (like me) thought it was upstairs"
+   ]
+  },
+  {
+   "rating": 17,
+   "date": "2005-10-16T12:32:43-05:00",
+   "body": "item located at 41 52",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2005-01-23T06:26:34-06:00",
+   "body": "The book is in the Timple of Zin-Malor in the Ruins of Eldarath.  It is sitting on a short ledge to the left of the center as you walk in.\n\nAsenath of Noble Blade",
+   "replies": [
+    "Book found at 41,52\n",
+    "the book is on the small left ledge right before the ramp that will take u to the second story of the building with Warlord Krellian in the middle of it",
+    "yup, found it jus about there :)",
+    "Odd, I did not find it on any of the ledges nor near the ramp, nor anywhere inside or outside the building at all.  This may be broken as of this writing.\n\nEDIT:  Okay, I suppose it depends on which way you are approaching the ramp.  The book is on a small ledge which is part of the inside circle surrounding the Warlord.  As you are facing the ramp (ready to go up), the book is to your right.\n\nEdited, Sun Aug 21 12:44:57 2005"
+   ]
+  },
+  {
+   "rating": 15,
+   "date": "2007-05-11T19:18:03-05:00",
+   "body": "The temple is at the very east end of the Ruins of Eldarath and hard to miss.  If you walk in you will see Warlord Krellian standing on a round platform in the middle of a pool.\r\n\r\nBehind that pool are two moon-shaped ledges, on the left one (looking from the entrance) is the quest item.\r\n\r\nSee also the screenshots that have been attached by other users.\r\n\r\nBTW the mobs in the temple are not a problem if you meet a reasonable level requirement for running BRD (55+).",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2005-11-22T00:32:43-06:00",
+   "body": "Yes the book is there exactly at 42.52 just behind the levle 55 lord that stand in the middle of the altar.. Enjoy",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2006-09-10T00:32:43-05:00",
+   "body": "the temple is at about 40,52, straight down the road from the alliance flight point. \n\nthe book is sitting on the short wall that encircles the pool, behind the warlord naga.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-12-07T12:06:46-06:00",
+   "body": "The writings can be found near the back of the temple in Azshrara. It's a small book lying on the ledge, I had a hard time finding it the first time around.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-05-23T12:32:43-05:00",
+   "body": "The object is indeed at 41,52; however many of the descriptions here do not describe the exact location of the book well enough to find it (in fact some are downright misleading).\n\nAs you enter the temple, you'll see Warlord Krellian in the middle of the pool on an island.&nbsp; If you continue straight, moving directly across the room to the east and past the island. you will come to an spot between two small alcoves (recesses with ledges near the pool).&nbsp; \n\nThe book is in the left alcove, on top of the ledge at the far end (closer to the entrance).",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-11-22T00:32:43-06:00",
+   "body": "When approaching the entrance take out the mob guarding entrance then as you enter go to right against wall, kill 3/4 mobs and the book is on a low wall against waters edge, approach from wall and take book without having to fight the lord.\nTook me 7 mins from entering. then i hearthstoned back to IF",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-03-11T12:32:43-06:00",
+   "body": "Completed this at lvl 60. Received the following rewards: \n-6000 Experience \n-Repuation with Alliance increased by 25 \n\nAlso the NPC's gives a new quest chain which ends with your choice of three green items (which I didn't find useful): \nhttps://www.wowhead.com/forever/quest=5248/tormented-by-the-past \n\nHope this helps!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-12-26T12:59:07-06:00",
+   "body": "Did this quest at 54 (decided to finally get around to doing it - us lazy druids :P) grabbed the book and decided to kill the 55 Warlord in the middle. .dropped some money and a big mouth clam. . inside was a Golden Pearl (w00t!) Not bad for the day after christmas :)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-18T14:13:15-06:00",
+   "body": "Found the book to the right of the bottom of the ramp behind Warlord Krillian. Easy to miss if you're not paying attention. Also killed rare spawn General Fangferror upstairs, got Heavy Lamellar Vambraces of the Bear as well as 3 black pearls and 1 iridescent. All in all, a good run.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-02-03T00:32:43-06:00",
+   "body": "what you need to finish the quest is Sacred Highborne Writings. Its a book, in the Temple of Zin-Malor. The cords are 42, 53.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-11T12:32:43-06:00",
+   "body": "The book is directly behind the warlord on the ledge.&nbsp; It is very small as others have said.&nbsp; I stayed in there and farmed soul-shards from the easy mermen in there.&nbsp; There is a fairly fast respawn for the temple.&nbsp; You can go upstairs and kill the top floor, then go to the bottom and kill all, repeat, rinse.&nbsp; Good xp even at lev 56.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-11T12:32:43-06:00",
+   "body": "But the Correct coordinates for the book are 41.52...It will be lying on the floor and I had to fight absolutely noone to get this completed",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-29T00:32:43-05:00",
+   "body": "BOOK LOCATED AT 41,52\n\nGROUND LEVEL AT THE BACK. LOOK BEHIND THE PLATFORM THE LVL 55 BAD GUY SITS ON. THERE IS A SMALL WALL THERE AND THE BOOK IS ON IT. LOOK CAREFULLY AS IT IS EASY TO MISS",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-10T00:32:43-05:00",
+   "body": "The two high elves are now at the foot of Quel'Lithien Lodge - north of Northpass Tower. They moved the two for the BG.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-17T00:32:43-05:00",
+   "body": "51,29 ends QUEST",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-23T08:26:16-05:00",
+   "body": "Go into the temple.\nWork around to your left.\nGet to the bottom of the ramp.\nSwing 90 degrees to your right.\nLook on the little ledge around the warlord nearest you.\nThe tiny little book is there!\n\nDon't do what I did and kill everything...you could do this as a lvl 50/1 as nothing you need to kill is above 4 or 5 x lvl 52's!  You don't even need the lvl 55 in the centre.  He just gives cash to me anyway",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-03T00:32:43-06:00",
+   "body": "Did it as a 57 warlock without aggroing a single mob. I just walked in the front, stayed along the wall, and grabbed the book (on a ledge near the middle, in back) while the guy nearby walked away a few feet.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-11T12:32:43-06:00",
+   "body": "there is a temple in eastern plaguelands at those coords... i thought i was going nuts, make sure you are in aszhara",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-11T12:32:43-06:00",
+   "body": "Okay, this quest is easy to solo if you do it right.\nAs said earlier simply kill the first mob by the door and stick to the right.&nbsp; Although I felt that this quest was far to easy for a level 55 pally.&nbsp; Getting to Aurora before this quest was much harder I thought.\nI killed the level 55 simply for fun, I could've easily ran off with the book without him even noticing.\nThere are no elites in this temple.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-11T12:32:43-06:00",
+   "body": "If you look behind the warlord there are 2 semi circular benches built into the floor.\nThe book is on the left hand one.&nbsp; It's a grey book on a grey bench so you miss it at first glance!\n\nNo trouble doing this as a 54 mage.&nbsp; Quick clean kills. You can pull them 1 at a time or even avoid the lot altogether if you want to. (might as well get the kills for all that trouble getting there from EP and then going back again!).&nbsp; Got a few nice drops to sell at AH as well...:-)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-29T00:32:43-05:00",
+   "body": "I did this solo as a 53 druid.&nbsp; Easy!&nbsp; Thanks for the pic, helps a lot!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-13T01:38:54-05:00",
+   "body": "Went to the temple found the book no problem. clicked on it , it opened and nothing more happened.  Tried several times still could not read or pick up the book .  Will try tomorrow again to see if i can get it then.  If not must be broken",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-20T08:18:13-05:00",
+   "body": "I found the book relatively quick but could not click on it.  After logging out and back in I then got the gear cursor and picked up book no problem.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-22T23:04:05-05:00",
+   "body": "FUND IT GOD WORK",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-18T16:22:17-05:00",
+   "body": "OK went back and same thing again.  But this time I logged and relogged and got the book NP.  So if it doesnt work try to relog should be ok just bugged",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-27T01:54:53-06:00",
+   "body": "Here's a picture for help finding the book. I had a bit of a hard time finding it since it's so small.\nhttp://i7.photobucket.com/albums/y289/ajathefool/SacredHighborneWritings.jpg",
+   "replies": [
+    "Is this in EPL?\n",
+    "read the quest description for once instead of relying entirely on forums and you will know the answer"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-11T15:36:17-05:00",
+   "body": "No problems with the pics, thanks :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-26T00:06:00-06:00",
+   "body": "the book itself is at 41, 52",
+   "replies": []
+  }
+ ]
+}

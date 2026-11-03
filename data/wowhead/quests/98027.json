@@ -1,0 +1,123 @@
+{
+ "id": 98027,
+ "name": "Gleaming Crescent Necklace",
+ "level": 26,
+ "reqlevel": 22,
+ "side": 1,
+ "zoneId": 331,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1600,
+ "start": {
+  "type": "object",
+  "id": 669176,
+  "name": "Gleaming Crescent Pendant",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    63,
+    71.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3961,
+  "name": "Maliynn",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    36.6,
+    49.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Deliver the Crescent Necklace to Maliynn in Astranaar.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 3961,
+   "name": "Maliynn",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 279274,
+   "name": "Gleaming Crescent Necklace",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Gleaming Crescent Necklace",
+   "count": 1,
+   "type": "item",
+   "id": 279274
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "start",
+   "type": 2,
+   "id": 669176,
+   "name": "Gleaming Crescent Pendant",
+   "coord": [
+    63,
+    71.6
+   ],
+   "coords": [
+    [
+     63,
+     71.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 3961,
+   "name": "Maliynn",
+   "coord": [
+    36.6,
+    49.8
+   ],
+   "coords": [
+    [
+     36.6,
+     49.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-04T16:01:03-05:00",
+   "body": "I cant find it, someone already found this item?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-06T17:10:51-05:00",
+   "body": "I found this in the river exactly where the picture shows: [b]63, 71.5[/b]. It's a very small white object, but the huge exclamation mark on top of it is quite helpful... You'll see the exclamation mark in your minimap as you're approaching from the road. No need to parkour too much out in the wild for this one, and I didn't need to kill a single mob to loot it.\r\n\r\nThe reward is superb, considering how easy it is to pick up. At 25, your necklace options are [i]very[/i] scarce. You could very well be using this up to level [b]~40[/b] if you're not buying upgrades from the Auction House.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-17T15:07:40-05:00",
+   "body": "I picked this up at lvl23, but my friend could not pick it up at lvl19.",
+   "replies": []
+  }
+ ]
+}

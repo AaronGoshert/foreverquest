@@ -1,0 +1,87 @@
+{
+ "id": 94239,
+ "name": "Craftsman's Writ: Fine Leather Pants",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 257304,
+  "name": "Alyce",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    34,
+    23.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Fine Leather Pants  ( 1 ) Fine Leather Pants  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264039,
+   "name": "Craftsman's Writ: Fine Leather Pants",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5958,
+   "name": "Fine Leather Pants",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Fine Leather Pants",
+   "count": 1,
+   "type": "item",
+   "id": 264039
+  },
+  {
+   "text": "Fine Leather Pants",
+   "count": 1,
+   "type": "item",
+   "id": 5958
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 1,
+   "id": 257304,
+   "name": "Alyce",
+   "coord": [
+    34,
+    23.2
+   ],
+   "coords": [
+    [
+     34,
+     23.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-22T01:01:46-05:00",
+   "body": "In WoW Forever, this item is required by a crafting daily. Both factions have the same quest and requirements, with a reward of 75 reputation:\n\n[quest=94239]",
+   "replies": []
+  }
+ ]
+}

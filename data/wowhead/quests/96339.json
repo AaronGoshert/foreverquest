@@ -1,0 +1,82 @@
+{
+ "id": 96339,
+ "name": "Legacy Reward: Replica Ironforge Air Rifle",
+ "level": 60,
+ "reqlevel": 0,
+ "side": 3,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 6791,
+  "name": "Innkeeper Wiley",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62,
+    39.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 6791,
+  "name": "Innkeeper Wiley",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    62,
+    39.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.70291",
+ "objectiveText": "Completion Wait, wait, you said your name was <name>? <name>! I am so glad to finally meet you. Someone delivered a package here addressed to you and assured me that you would eventually come to pick it up. I tried to tell them that we don't do that around here, but before I could get a word in, they were already gone! Your timing is great, too. It was gonna be lumped up with all the other garbage that I toss into the sea nightly. What? We all do it. Ugh, just take your package and go!",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 6791,
+   "name": "Innkeeper Wiley",
+   "coord": [
+    62,
+    39.4
+   ],
+   "coords": [
+    [
+     62,
+     39.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 6791,
+   "name": "Innkeeper Wiley",
+   "coord": [
+    62,
+    39.4
+   ],
+   "coords": [
+    [
+     62,
+     39.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

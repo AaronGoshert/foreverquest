@@ -1,0 +1,113 @@
+{
+ "id": 97918,
+ "name": "Camping 101: Engineering",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 263399,
+  "name": "Sam Sarsaparilla",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    44.8,
+    63.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11026,
+  "name": "Sprite Jumpsprocket",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    54.6,
+    8
+   ],
+   [
+    54.8,
+    8.8
+   ],
+   [
+    61.8,
+    30.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Speak with Sprite Jumpsprocket in Stormwind to learn to craft a camping item for your profession once you have shown proficiency in your skill.   Raise your engineering skill to 20  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 11026,
+   "name": "Sprite Jumpsprocket",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Raise your engineering skill to 20",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 263399,
+   "name": "Sam Sarsaparilla",
+   "coord": [
+    44.8,
+    63.2
+   ],
+   "coords": [
+    [
+     44.8,
+     63.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 11026,
+   "name": "Sprite Jumpsprocket",
+   "coord": [
+    54.6,
+    8
+   ],
+   "coords": [
+    [
+     54.6,
+     8
+    ],
+    [
+     54.8,
+     8.8
+    ],
+    [
+     61.8,
+     30.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

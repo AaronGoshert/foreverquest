@@ -1,0 +1,516 @@
+{
+ "id": 1079,
+ "name": "Covert Ops - Alpha",
+ "level": 22,
+ "reqlevel": 17,
+ "side": 1,
+ "zoneId": 406,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2200,
+ "start": {
+  "type": "npc",
+  "id": 4077,
+  "name": "Gaxim Rustfizzle",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59.4,
+    67.2
+   ],
+   [
+    59.6,
+    67
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4077,
+  "name": "Gaxim Rustfizzle",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59.4,
+    67.2
+   ],
+   [
+    59.6,
+    67
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Retrieve the Venture Co.'s Engineering Plans from the lumber mill in Windshear Crag. Venture Co. Engineering Plans  ( 1 ) NG-5 Explosives (Blue)  ( 1 ) NG-5 Explosives (Red)  ( 1 ) Remote Detonator (Blue)  ( 1 ) Remote Detonator (Red)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5718,
+   "name": "Venture Co. Engineering Plans",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5695,
+   "name": "NG-5 Explosives (Blue)",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5694,
+   "name": "NG-5 Explosives (Red)",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5693,
+   "name": "Remote Detonator (Blue)",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5692,
+   "name": "Remote Detonator (Red)",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 5738,
+   "name": "Covert Ops Pack",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Venture Co. Engineering Plans",
+   "count": 1,
+   "type": "item",
+   "id": 5718
+  },
+  {
+   "text": "NG-5 Explosives (Blue)",
+   "count": 1,
+   "type": "item",
+   "id": 5695
+  },
+  {
+   "text": "NG-5 Explosives (Red)",
+   "count": 1,
+   "type": "item",
+   "id": 5694
+  },
+  {
+   "text": "Remote Detonator (Blue)",
+   "count": 1,
+   "type": "item",
+   "id": 5693
+  },
+  {
+   "text": "Remote Detonator (Red)",
+   "count": 1,
+   "type": "item",
+   "id": 5692
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 4077,
+   "name": "Gaxim Rustfizzle",
+   "coord": [
+    59.4,
+    67.2
+   ],
+   "coords": [
+    [
+     59.4,
+     67.2
+    ],
+    [
+     59.6,
+     67
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 4077,
+   "name": "Gaxim Rustfizzle",
+   "coord": [
+    59.4,
+    67.2
+   ],
+   "coords": [
+    [
+     59.4,
+     67.2
+    ],
+    [
+     59.6,
+     67
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 5,
+ "comments": [
+  {
+   "rating": 174,
+   "date": "2005-09-29T04:17:12-05:00",
+   "body": "Both quests are easy enough if you know when and where to pull.&nbsp; I did both of them by myself.&nbsp; If you are a druid or rogue, the best thing to do is prowl around the areas so you can get a good idea of where people are, where the plans and letters are, and where to run.\n\nCovert Ops Alpha - The wagon is in front of the mill on a small hill.&nbsp; It sits by itself and has some firework looking things on top.&nbsp; For those with Cosmos or map coordinates, the mill is at 66,50.&nbsp; There are two loggers close to it, so take them out.&nbsp; Then attach the explosives, blow it up, and run along the bottom of the hill towards the mill.&nbsp; Not all of the Venture guys will leave, but that's okay.&nbsp; The plans are on the west/left side of the mill, on a tree stump.&nbsp; It looks like a piece of rolled-up parchment.&nbsp; I shifted to cat from as soon as it blew, prowled over to the parchment, shifted up, grabbed it, and ran out with only 1 aggroed Deforester to take care of behind the mill.\n\nCovert Ops Beta - This is a little more difficult than Alpha.&nbsp; The wagon for this one is on a small hill in front of the mine.&nbsp; The mine is located at about 74,58 or so.&nbsp; There are no guards on this wagon, just an operator, and he's far enough away where he won't aggro.&nbsp; Slightly behind the wagon there is a small hill.&nbsp; You can blow the wagon if you stand on that hill and keep the wagon to your right.\n\nThe letters for this one are on the right/east side of the mine entrance, on a tree stump.&nbsp; They look like a stack of books.\n\nHere's the trick for Beta...the kobolds don't run when you blow the wagon.&nbsp; So, you need to kill some of them before setting the explosives.&nbsp; On the west side of the mine, there is another small hill with three kobolds wandering.&nbsp; Take them out.&nbsp; On the east side of the mine, along the ridge, there are two other kobolds.&nbsp; Take them out too.&nbsp; There is another kobold closer to the letters, but if you attack him you'll draw the attention of everyone else, so leave him alone.\n\nRun over to the wagon (don't let anyone see you!) and set the explosives.&nbsp; Get over to the hill and set them off, then take off running.&nbsp; Head over the hill where you killed the first kobolds, then turn to the mine and get the plans.&nbsp; Then run AWAY from the mine (I went to the east, along the cliffs).&nbsp; The kobold you didn't kill will most likely aggro, but if you stop to kill him the rest of the Venture guys will be back and aggro.&nbsp; Just make sure your health is full and run along the cliffs.&nbsp; He stops giving chase soon.\n\nGood luck, and I hope this helps!",
+   "replies": [
+    "Greet explanation. Hlped me out great. Did it with a druid."
+   ]
+  },
+  {
+   "rating": 25,
+   "date": "2004-12-10T17:25:33-06:00",
+   "body": "When you accept this quest a black bag will be placed in your inventory. This bag contains the instructions, as well as explosives and detonators for both Covert Ops A and Covert Ops B quests. To get these out of your bag you click on them, and accept the question asking if you want to bind them to you. This takes them from the bag and places them in your regular inventory to be used.\n\nThe wagon is on a hill south of the mill. You place the explosives on the wagon by getting close to it, then right-clicking on them.\n\nOnce placed, move to a hillock which is slightly east of a line between the wagon and mill, and about halfway in between. From here you can blow up the wagon and watch as most of the mill guards move to check it out. Once that's done, you can move in quickly to loot the plans.\n\nNot all guards may leave, so this may best be done with a partner to help clean up the stragglers quickly before the other guards return from the wagon.\n\nThe plans themselves are found on top of a crate out front of the mill. They are just outside the south side of the building, west of the ramp that runs up into the building.\n\nYou get 2,200 exp for completing this quest.",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2006-08-17T19:01:59-05:00",
+   "body": "The wagon is at 65, 54.\n\nThe plans are at 66, 51.\n\nWhen you set the explosives, back away from the wagon and move away from the logging camp.  When you blow up the wagon, about a dozen Venture Co. personnel will run over to where the wagon was, which should allow you to run in and nab the plans.",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2007-04-17T12:03:59-05:00",
+   "body": "This is part of the long & fun quest chain originating from \"On Guard in Stonetalon\" (https://www.wowhead.com/forever/quest=1070) in Ashenvale.\n\nPrerequisites for this quest are:\n-Ineptitude + Chemicals = Fun (https://www.wowhead.com/forever/quest=1074)\n-Special Delivery for Gaxim (https://www.wowhead.com/forever/quest=1077)\n\nThis quest leads to:\n- Covert Ops - Beta (https://www.wowhead.com/forever/quest=1080)",
+   "replies": [
+    "Correction:  Covert Ops - Beta (https://www.wowhead.com/forever/quest=1080) is offered AT THE SAME TIME as this quest.  When both Alpha & Beta are completed, the next quest in line \"Kaela's Update\" (https://www.wowhead.com/forever/quest=1091) will be available.   Apologies for the mix up."
+   ]
+  },
+  {
+   "rating": 16,
+   "date": "2004-12-15T17:39:41-06:00",
+   "body": "So...let's say a huntress gets impatient and decides to try to solo this one, and blows up the cart but then gets killed...are the plans something that only appear right after the explosion, or with a couple friends to clear the lumber mill area, could I possibly get in and loot the plans off of the crate without the explosion, as I'm not really sure how to go about redoing the part of the quest to get the explosives again.\n\nTeory\nCelestial Navigators\nWhisperwind Server",
+   "replies": [
+    "If you want new explosives, simply abandon the quest and start over.\n\nThe plans are always in the mill. You do not have to set the bomb off for either of these quests. Visually, its a scroll sitting on top of a small table.\n\nBest of luck."
+   ]
+  },
+  {
+   "rating": 16,
+   "date": "2004-12-17T22:19:53-06:00",
+   "body": "Ok, answered my own question.  The plans are always there and the bomb just makes a \"semi-handy\" way of getting to the plans.  There was still a fair bit of killin and dying involved but luckily there were two of us and handled it quite nicely at level 22.  My only problem was that the next step after seems a bit unrelated - the Elf next to Gaxim sends you the Charred Vale to kill things that are around levels 26-28 so will be a bit before the 2 of us can continue on with the quest.",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2007-04-13T08:06:15-05:00",
+   "body": "I just wanted to note that when doing this quest, you don't actually need to use the explosives/detonator -- but it's kind of fun, so do it anyway.  The quest items are right out in plain sight, so all the explosives do is make it easier for you to go in and grab the item needed. So if you were like me and detonated the explosives and then wondered what the heck to do next (I was searching in the wrong area, eep!), have no fear, you can just clear the mobs the old fashioned way and nab the quest item.\r\n\r\nThis is fairly straight forward. You can see the lumber mill from the entrance of Windshear Crag, and right in front of it is a small wagon of explosives. Kill any mobs near the wagon then set the blue explosives (by right clicking on the blue explosives in your bags). There's no timer on the explosives, so don't feel like you have to rush out as soon as you place it.\r\n\r\nTo the left of the front of the lumber mill (looking from the wagon) is a crate with a clickable item -- these are the plans you need. Move away a bit from the wagon, edging up to the crate -- but not too far as the detonator has a pretty small radius to work (I think like 20 yards). When you're ready, use your blue detonator (click it in your bags) and the wagon of explosives will... well, explode. The mobs in the mill will run out to see what's going on -- unfortunately, it's mostly the mobs from the front/inside, and this doesn't help much as the mobs you want are on the left. But it's less to clear, so clear the 2-3 mobs left around the crate, zip in, snag the quest item, and zip out before the crowd comes back to the mill. Personally, I think the explosives sort of complicate things more than needed, but explosions are always fun I suppose.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2006-11-15T12:47:53-06:00",
+   "body": "Plans are outside the mill, not inside at 66, 51 (map: https://www.wowhead.com/forever/object=19602).\n\nThe wagon to blow up is at 65, 54.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2007-01-16T16:17:12-06:00",
+   "body": "Haha well there is one reason to use the explosives although its not really to distract the venture co...\nBut anyways here's what I did with them. \n\nI'm in the alliance so walking into stonetalon I'm immediately alert to any horde that are around me (paranoid of ganking I guess haha). I'm not usually too keen to pvping so I generally walk in unflagged and just wave at any horde passing by so they know I'm there and that I'm not there to gank them (surely no ganker is going to give away that they're there). \n\nUnfortunately while I was doing this quest that got a group of 5 blood elves (all around my level) to chase me and /spit. Now being the non-pvp minded person I am, if I'm not going to attack 1, I'm certainly not going to take on 5 so I just continue walking to the wagon full of explosives to do this quest. But they keep following me and /spitting me all the way to the explosive wagon and while I set up the explosive.\n\nNow I don't know if any hordes know what that wagon is there for or if they ever use it. But surely if there's a person, sitting in front of a wagon full of explosives you gotta clue in, the guy is going to blow them. Unfortunately these hordes didn't and I waited for them to go away so they wouldn't get killed by the mob that would come. I told them \"You guys might want to get out of here\", but they stick around /spitting me and I remember that my messages are scrambled anyways. I point over the horizon to tell them to move away, but they're still standing. So I give up, wait for one last minute hoping that they'll move away, but that also runs out. So I detonate them.\n\nlike 20-30 venture company goons ran to the wagon I was sitting in front of. Since I knew what was going to happen I was already making my getaway, but I guess the blood elves behind me got confused by the explosion and stood there. While I run, I turn around to see if they clued in by the explosion to get away, and I see them getting hopelessly mobbed by the venture company goons. First they tried to take them on (a fruitless endeavour as they're all around the same level). Then I see them running... and dying.\n\nSo moral of this story. If you're horde and see an unflagged alliance person sitting in front of a wagon full of explosives, before you run in and /spit him/her think for a second. What would an alliance person be doing in front of a wagon full of explosives? Then realize that backing off is the wiser decision. If you're alliance, know there are other fun ways to use that explosive than simply doing the quest ;).",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-12-15T07:10:52-06:00",
+   "body": "Covert Ops Alpha - The wagon is in front of the mill on a small hill.  It sits by itself and has some firework looking things on top.  For those with Cosmos or map coordinates, the mill is at 66,50.  There are two loggers close to it, so take them out.  Then attach the explosives, blow it up, and run along the bottom of the hill towards the mill.  Not all of the Venture guys will leave, but that's okay.  The plans are on the west/left side of the mill, on a tree stump.  It looks like a piece of rolled-up parchment.  I shifted to cat from as soon as it blew, prowled over to the parchment, shifted up, grabbed it, and ran out with only 1 aggro - Deforester - to take care of behind the mill. \r\n\r\nAfter you finish it, you can check out the next part and the next set of directions here:\r\n\r\nhttps://www.wowhead.com/forever/quest=1080\r\n\r\nGood luck :)",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-03-30T16:17:12-05:00",
+   "body": "66,51 for Alpha\n74.59 for Beta,\n\nU can pick the plans there . U dont even need to blast the bombs but U might need to clear the area.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2026-09-28T15:27:46-05:00",
+   "body": "Quest in classic Forever beta seems to be bugged  no quest item on a crate in alpha mill but Beta Mine was  abonded and re take quest didnt help  i checked and it is right spot quest item is just not on crate and nothing to clickable there is some gray books but cant loot those reported in Blizzard via ingame f6 report form as a bug hopefully fixed soon also site Beta Mine feel weirdly hard even using dynamate in wagon near by they keep pawn back instantly almost i needed 2 man to do it and loot an quest item  Lumber mill however seems to be super easy and Horde players keep farming those npcs some reason  so quest loot spot is clear often least that is going on now im 20lvl Druid since it is beta cap now",
+   "replies": [
+    "Also experienced this, did bug report too."
+   ]
+  },
+  {
+   "rating": 6,
+   "date": "2005-09-29T04:17:12-05:00",
+   "body": "I had the same trouble for a while, but you have to be quite close to the wagon for it to work.&nbsp; btw, the plans are on top of a crate next to some books on the western entrance to the lumber mill",
+   "replies": [
+    "I found this one hard too. I first put the explosives up, couldn't detonate for a while than finally did. Didn't make much difference, had no idea where the plans were but got there in the end. Your comment helped. Thx"
+   ]
+  },
+  {
+   "rating": 6,
+   "date": "2007-04-30T06:41:12-05:00",
+   "body": "For those who could not set off the blue detonator:&nbsp; You're at the wrong wagon.&nbsp; I did the same thing.&nbsp; There is a wagon to the north of the lumber mill that is not used in the alpha or beta quest...it's just part of the scenery I guess.&nbsp; Go south of it and find the wagon that's just south of the lumber mill.&nbsp; That is the blue wagon for the Alpha quest!",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2026-10-02T10:38:44-05:00",
+   "body": "It's not just you. The ground spawn item atop the box at the lumber mill is still missing in the 10/1 beta build.",
+   "replies": [
+    "you mean the explosives for the cart? i couldn't ever find it"
+   ]
+  },
+  {
+   "rating": 6,
+   "date": "2026-10-10T01:31:48-05:00",
+   "body": "Still bugged for Forever Beta in build 1.60.1.70338 - tested 10th October 2026",
+   "replies": [
+    "can confirm, same build on 11th October 2026",
+    "Fixed now as another poster has suggested in build 1.60.1.70450 tested on 18th October 2026"
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2007-01-16T16:17:12-06:00",
+   "body": "I didn't even use the explosives, I just killed a few loggers and got the documents both for alpha and beta part.\n\nYou have to get the explosives otherwise you can't get to this part of the quest, but you really don't need to waste time looking for the wagons and blow them up. Just look for the documents (coordinates already provided by other players)",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-09-29T04:17:12-05:00",
+   "body": "Though you should keep some distance from the wagon, you must be CLOSE enough to the wagon to trigger that explosive =.=",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-06-11T16:17:12-05:00",
+   "body": "...unless you have stealth and can locate the plans before setting off the wagons.\n\nOtherwise, it's difficult or impossible to locate them in advance (without fighting your way in close enough which defeats the purpose of a \"distraction\") as the plans don't make your cursor turn into a gear until you're right on top of them anyway.\n\nWhich means you spend 50% of the (brief) time available fighting the 1-2 mobs that stayed behind, and the other 50% scrambling around looking for the plans, which you'll discover as the others are returning (on Alpha I was 90% done opening the #@$!& thing when an operator attacked me and thereby cancelled my action).\n\nAt which point you'll say @#$!& it, might as well just kill em all and eventually fish the stupid letters/plans from a sea of glittering corpses.\n\nMy advice - if you have stealth, do it as intended, or if you have cosmos go ahead and use the above instructions.&nbsp; If you're like me and have neither, then get 1-2 mates and fight your way in, and set off the fireworks after for a pretty light show.\n\nMeh.&nbsp; 2/10.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-02-22T04:17:12-06:00",
+   "body": "Every time i go to gaxim he doesnt have any quests left for me to take how do i get this?",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2026-10-05T21:58:32-05:00",
+   "body": "Still bugged in Forever Beta, 1.60.1.70235 on 2026-10-05",
+   "replies": [
+    "Working for me today in Forever Beta 1.60.1.70425, plans show up on the box as expected and are interactable!"
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2006-02-22T04:17:12-06:00",
+   "body": "Not really as bad as everyone makes it out to be.&nbsp; Just did it with my lvl 24 rogue.&nbsp; Just stealth until you find the documents.&nbsp; Then go to the wagon directly south of the mill and kill the two mobs that may be there.&nbsp; Plant your explosives and then run to the little island to the west.&nbsp; Hit your detonator and then hit stealth again. Walk up to the documents and \"hide\" on the outside of the building while you take the documents.&nbsp; I was able to do this without angering the mob right next to them.&nbsp; Stealthed right back out.&nbsp; Not bad for the xp involved.&nbsp; Didn't have to kill but two mobs.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-06-11T16:17:12-05:00",
+   "body": "Just a little addition to the GREAT above explanation by Mirielle:\nIf you've got some kind of shiald (eg. Power Word: Shield, Sacrifice etc), then just blow up the wagon, run to the plans and use your shield. Then you wont get interrupted. Then grab the plans and RUN, RUN, RUN!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-16T16:17:12-06:00",
+   "body": "If you have placed a charge, and then you die - the charge may not be there when you get back.\n\nI died many times of this quest, and if I died after placing the charge but before blowing it up, I had to go back and get a new charge.\n\n(Note that this will produce the \"need blue/red\" message. It needs it because it vanished while you were dead.\n\n--------------\n\nIf you fail to finish either Alpha or Beta for any reason and your charge is gone, you need to:\n\n1. abandon the quest\n2. destroy all of the stuff from the now-abandoned quest\n3. get the quest again.\n\nI found that if I didn't destroy all the old items, the backpack would not contain everything I needed, especially the explosive charges.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-18T02:50:48-05:00",
+   "body": "I was able to use stealth to get both sets.&nbsp; The first time, by the mill I some how messed up setting the charged so I stealthed in and got the plans.&nbsp; At the mine I was able to set the charge correctly but had already stealthed in and got the plans!&nbsp; There is hope on this one!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-04-27T05:43:36-05:00",
+   "body": "Nice story LimeD :D, would have been greater if you blew them apart with the explosives :P\n\nMirielle posted some good advise some posts above. On both Alpha and Beta I'd suggest you read her post, so you know a bit where the plans are. Take some distance of both camps and locate the plans with your mouse. That way you won't lose time locating the plans, when you have detonated the explosives.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-05-17T00:56:32-05:00",
+   "body": "For this one, even I'm going over to the Beaner side and giving coordinates.\n\nThe \"Venture Co. Engineering Plans\" are at (66, 51), on toip of a crate at the western side of the sawmill.\n\nThe wagon is more like at (65, 53): more SSW of the mill than strictly south. You have to be in a certain radius of it for the detonator to work.\n\nMy experience with it was not good. First, I must have been in the path of the investigating minions, because one of them paused in his mad dash to the cart to start fighting me. His friends joined in after they had returned, and I went down.\n\nOK, so I don't really want to retrieve my corpse, go back for more explosives, and try it again. I attempt to clear the area and grab the plans. Mistake number two. The mobs here are either linked, or are close enough so their hate range is overlapping. More deaths.\n\nFinally I did succeed in clearing the place out, and grabbed the plans. Huz freakin' zah. Oh! And the cart doesn't highlight when you mouse over it, so you can't Myst your way around this quest.\n\n[i][small]Edited, May 17th 2007 12:09am by ClemSnide[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2020-03-17T23:56:31-05:00",
+   "body": "The Questie addon showed this and [quest=1080] as available on my map after I turned in [quest=1077] but before I was done with [quest=1074]. This is in error and you need to complete both quests for the two covert ops quests to show up.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-29T04:17:12-05:00",
+   "body": "yes - quite helpful!\n\nThe first (blue) wagon is almost directly south of the mill across the stream/river.\n\nAnd there IS a wagon in between the lumber mill & the mine that isn't for either.&nbsp; That's what can be confusing for folks.\n\nAnoel",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-16T16:17:12-06:00",
+   "body": "Has anyone had a problem getting this quest from Gaxim?&nbsp; I am a level 29 Druid and have received other quests from Gaxim, but he does not give me these!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-16T16:17:12-06:00",
+   "body": "@catea\nyou have to do the other quests first\njust finish them all and he will give alpha and beta to you\nbye",
+   "replies": [
+    "Don't forget to complete this questline.&nbsp; I've done the quests on many other toons, and the one time I skip the \"Ineptitude + Chemicals = Fun\" quest was when I could not unlock the Alpha and Beta quests from Gaxim.&nbsp; It's worth it to do them all though because after you do them, it unlocks the two from Kaela Shadowspear that send you to The Charred Vale:\nEnraged Spirits\n[url=https://www.wowhead.com/forever/quest=1083/enraged-spirits]https://www.wowhead.com/forever/quest=1083/enraged-spirits[/url]\nand\nWounded Ancients\n[url=https://www.wowhead.com/forever/quest=1084/wounded-ancients]https://www.wowhead.com/forever/quest=1084/wounded-ancients[/url]"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-06T04:17:12-05:00",
+   "body": "level 23 druid just pulled guys and killed em one by one for plans at mine. stealthed in at mill, didnt kill anybody, got plans and left. didnt even use explosives. no problem.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-18T04:17:12-05:00",
+   "body": "yeah this quest seems like a mess to me.\n\nI got in there with a lvl 21 druid, hit right-click to use the blue charges, then I tried using the blue detonator from all over the place, including right on top of the damn wagon, every time, I get \"requires blue charges.\" this quest is easily the most frustrating and least fun of all the quests I've played in this entire game. the instructions are totally unclear, the plans pouch is easily missed, it's difficult to figure out what the hell you're supposed to be doing, and if you accidentally die while fidgeting about with the detonator like an idiot, it takes you forever to get to safety again.\n\nI'm working on Alpha, probably just going to chuck it and steal the plans the old-fashioned way instead of messing around with this ridiculous, frustrating, total failure of an alleged distraction.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T04:17:12-05:00",
+   "body": "Well, I tried to complete this. Beta was no problem. But Alpha won't work. It keeps saying \"Needs Venture Co. Wagon (Blue)\". Tried it alot of times but finally just abandoned it. I'd like to hear if anyone else was able to do this...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-29T04:17:12-05:00",
+   "body": "no success either.\nI'm not able to place the charges.. :|\n\nwrong wagon!\nthe right one is south-west of the lumber mill! really close to it in fact.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-28T20:36:43-06:00",
+   "body": "According to the previous posts, plans should be at 66,51.  I have searched the ENTIRE area,  even had to take out an Elite.\n\nBut NO PLANS anywhere.  Any advice please.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-31T11:55:41-06:00",
+   "body": "Too bad you can't use the bag for other things later.  Would be nice to have a bag that fits inside of another bag.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-24T02:18:06-05:00",
+   "body": "The hardest part I found as a 25 hunter was finding the documents at the mill. They're not inside. They're outside on the west side, to the south end of the wall, on a crate. When you detonate the cart (should you need to do that, I did it just to see what it looked like) head to the left of the building.",
+   "replies": [
+    "Thanks for that clue.  I searched all over, even ran across a number of *locked* footlockers, etc., but reading this let me know where to look.\n\nThanks!"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-25T02:19:59-05:00",
+   "body": "Here's the prereq quest:\n\n[quest=1074]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-28T07:57:53-06:00",
+   "body": "When they say \"Wagon\" they don't mean the [b]big iron tank[/b] with the saw and all? They mean the [b]small wooden thing[/b] with all the dynamite stuff right?\n\nI've been spending [u]hours[/u] with this quest and didn't find out -.-\n\nBad",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-20T20:35:02-05:00",
+   "body": "Ok, I did the ineptitude+chemicals=fun quest, but for some reason he won't give me the covert ops quests.  What's up?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-05T02:33:15-06:00",
+   "body": "Did this easy as a 22 Rogue.  Just stealthed up to the wagon, and set the charge.  Had to fight one guy, but took him out easy.  Then I got a little ways away and detonated.  Stealthed up to the plans, grabbed them, and stealthed out.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-06T06:28:53-05:00",
+   "body": "Presumably completing this quest leads to Covert Ops - Beta:\n\n[quest=1080]",
+   "replies": [
+    "Sorry, no - you can do covert ops alpha and beta at the same time.  Beta may be attain 22, however."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-27T09:39:06-05:00",
+   "body": "I've been chasing round looking for the guide to part B, can't find it. I managed to get Part A done without any problem after I died once to the Elite task master. (That'll teach me to shoot first without IDing the mob. Painful indeed.) Otherwise it was a cakewalk solo at 24 with my bow hunter n cat. \n\nSabre",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-15T01:32:10-06:00",
+   "body": "Because not everyone uses coordinates, and they aren't always good enough:\n\nThe Plans aren't actually [i]in[/i] the mill; they are on a crate just [i]outside[/i] the mill along the southwest opening, right beside the large sawblade.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-20T04:49:22-06:00",
+   "body": "As stated under Ineptitude+chemicals=fun quest,\nthe thread continues with this and the Beta equivalent.\n\nI had some trouble following Gaxims guidelines,\nbut found out, that you used the explosives on a\nsafe distance from the wagon, then without moving\nused the detonator.\nNot sure how far from the wagon it works but it must be in clear view from where you do the above.\n\nBoth this and the Beta equivalent are needed to unlock another quest, namely Kaela's Update.\n\nReading my post under Covert Ops: Beta will lead you back here...\nFurther info under Kaela's Update...\n\nEdited, Mon Dec 19 23:00:52 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-01-04T18:47:26-06:00",
+   "body": "I don't know if they've changed these but my mage stood a short distance away from the back of the mill and killed everything within sight, one by one. There was one goblin (or whatever) that was attached to another but they're not hard. Don't loot and they won't respawn for a while. Then walk through the mill and pick up the plans off he small table. All the \"defenders\" that you haven't killed are looking up the hill, not at the table.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-14T00:19:48-05:00",
+   "body": "Still bugged as of 10/14/2026,\r\nBlowing up the wagon [i]doesn't cause the plans to show up on top of the crate either[/i]. Unless there's some new requirement to get the plans to show up, this quest can't be completed in the beta until it is fixed.",
+   "replies": [
+    "plans show up for me but not interact-able"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-29T04:17:12-05:00",
+   "body": "Thanks to Mirielle for her wonderfully-detailed approach to the problem. I followed her instructions to the letter, sort of. In the case of Alpha, a great explosion and I ran around to the left of the wagon. Everyone ran out of the mill right at me. I think fourteen Venture Co. goons attacked me at once. My 24 Druid managed to hold them off for about 2 nanoseconds. Hmmm. That didn't work, and no more explosives.\n\nWhat did work is that I stealthed up to the \"plans\" side of the mill, tried to pull the closest goblin (he is a flamethrower and won't be pulled) then just attacked and killed him. Surprisingly, the others didn't aggro. I grabbed the plans and ran, at which point some of the others chased me but not seriously.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-16T16:17:12-06:00",
+   "body": "Thanks to Mirielle for her excellent description of the execution of this quest.\n\nI couldn't remember exactly how I had done this before, so my 24 Druid stealthed up to the mill to check the location of the plans. They were guarded by three or four goblins, so I thought I might just try eliminating some of the entertainment committee before setting off any explosives. Leather armor guys quickly learn to kill the flamethrowers first and two more followed easily.\n\nAnd that was that. Pick up the plans. Walk away. Wish Beta was that easy.\n\nSeems to me that anyone who can pull a mob (sorry, Pallies) can handle this more easily by just knocking off the goblins near the plans rather than by taking the risk of having the explosives malfunction.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-16T16:17:12-06:00",
+   "body": "just talked to the npc which assigns this quest and I didn't receive any explosives... is this messed up? also, he said in the quest log to read the pages for more info... didn't get the pages.&nbsp; contacted GM, will see what is up.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-16T16:17:12-06:00",
+   "body": "....just done this Q with a 'lock alt and it was a piece of cake. \n\nI guess that it must have been fixed at last.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-03-30T16:17:12-06:00",
+   "body": "Wat the hell with these both quest that pple complt bout?\n\nThis quest is so easy soloable at lvl 23mage.&nbsp; Dun bother bout the explosive and denonator...clear the monster and click on the letter and plan.&nbsp; That it. Sweeet and easy.\n\nHope u guy read this commment before trying to read the lengthy explaination above :P\n\nMaybe there's a patch for the quest........",
+   "replies": []
+  }
+ ]
+}

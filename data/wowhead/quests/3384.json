@@ -1,0 +1,36 @@
+{
+ "id": 3384,
+ "name": "<UNUSED>",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 3,
+ "zoneId": 16,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": null,
+ "end": null,
+ "patch": "1.13.2.30786",
+ "objectiveText": "Roland's Mana Gem  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 10478,
+   "name": "Roland's Mana Gem",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Roland's Mana Gem",
+   "count": 1,
+   "type": "item",
+   "id": 10478
+  }
+ ],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

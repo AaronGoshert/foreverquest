@@ -1,0 +1,188 @@
+{
+ "id": 79008,
+ "name": "... and that note you found",
+ "level": 22,
+ "reqlevel": 14,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 1750,
+ "start": {
+  "type": "object",
+  "id": 415107,
+  "name": "Burned-Out Remains",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    37.4,
+    50.6
+   ],
+   [
+    37.5,
+    50.7
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 415106,
+  "name": "Burned-Out Remains",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    37.4,
+    50.6
+   ],
+   [
+    37.5,
+    50.7
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Charred remains of the note serve as your only guide.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [
+  79008,
+  79192,
+  79980,
+  79974,
+  79975,
+  79976
+ ],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "start",
+   "type": 2,
+   "id": 415107,
+   "name": "Burned-Out Remains",
+   "coord": [
+    37.5,
+    50.7
+   ],
+   "coords": [
+    [
+     37.4,
+     50.6
+    ],
+    [
+     37.5,
+     50.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 2,
+   "id": 415106,
+   "name": "Burned-Out Remains",
+   "coord": [
+    37.5,
+    50.7
+   ],
+   "coords": [
+    [
+     37.4,
+     50.6
+    ],
+    [
+     37.5,
+     50.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 2,
+   "id": 415106,
+   "name": "Burned-Out Remains",
+   "coord": [
+    46.4,
+    73.9
+   ],
+   "coords": [
+    [
+     46.4,
+     73.9
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 2,
+   "id": 417072,
+   "name": "Nailed Plank",
+   "coord": [
+    46.4,
+    73.8
+   ],
+   "coords": [
+    [
+     46.4,
+     73.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 26,
+   "date": "2026-09-22T16:34:33-05:00",
+   "body": "[b][u]Horde: follow below; Alliance: swap the order of first 2 steps[/u][/b]\n\nHow to obtain [item=211527] & 5 [item=216619]:\n\n1. 1. Travel to 46, 73 in [zone=17]\nHere, interact with [object=415106] and accept the quest.\n\n2. Travel to 37, 50 in [zone=40]\nInteract with [object=424010]\n\n3. Travel to 51, 51 in [zone=406]\nFrom the road, follow the opening into the mountains, and follow the path until you reach the camp\nAt the camp, interact with [object=424005]\nRun through the camp and jump down the mountains to reach the ledge with [object=424012] that you have to interact with\n\n4. Travel to the Dam at 49, 12 in [zone=38]\nJump down to the ledge and interact with [object=424007]\n\n5. Travel to 81, 56 in [zone=267]\nWhile facing the gate toward [zone=45], turn left and follow the wall until you reach the fallen cart\nFollow the little jumping puzzle toward the camp\nInteract with [object=406918] then interact with [object=424006]\n\n[b][u]Orc Hunter Journey to unlock it:[/u][/b] https://www.youtube.com/watch?v=W_Yl_7lE_9Q\n\n[b][u]It was originally recorded for SoD, but the same quest carried over.[/u][/b]",
+   "replies": [
+    "Well detailed and very helpful. Hats off good sir/madam!",
+    "Everything worked fine up until the Carve Figuring at Lock Modan. The only thing to interact there is the telescope (Beta).",
+    "Thank you. This helps a lot.",
+    "The lint does not seem to be respawning anymore, anyone confirm?"
+   ]
+  },
+  {
+   "rating": 13,
+   "date": "2026-09-21T23:25:03-05:00",
+   "body": "So glad this made it's way into WoW Forever. \n\nYou get the [url=https://www.wowhead.com/forever/item=211527/cozy-sleeping-bag]Cozy Sleeping Bag[/url], the [b]12-slot bag [/b]named the [url=https://www.wowhead.com/forever/item=221498/old-toolbox]Old Toolbox[/url], and a decent chunk of XP and silver along the way.\n\n[b]Alliance[/b] [url=https://www.wowhead.com/forever/quest=79008/and-that-note-you-found]start the chain here[/url] in Westfall then head to the Barrens.\n\n[b]Horde[/b] [url=https://www.wowhead.com/forever/quest=79007/and-that-note-you-found]start the chain here[/url] in the Barrens then head to Westfall.\n\nEnjoy!",
+   "replies": [
+    "I have the quest, am alliance and can't interact with the nailed plank in westfall.",
+    "You pick up the quest in Westfall and then go to the Barrens."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2026-10-04T17:06:25-05:00",
+   "body": "I can't interact with The Pocket Litter.",
+   "replies": [
+    "I cant interact with the plank at the first start..."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-12T11:10:32-05:00",
+   "body": "For those with TomTom. Alliance does these in order. Horde reverses steps 1 and 2.\r\n\r\nStep 1 is Westfall.\r\nStep 2 is the Barrens.\r\nStep 3 is Stonetalon Mountains.\r\nStep 4 is Loch Modan.\r\nStep 5 is the wall between Hillsbrad Foothills and Arathi Highlands.\r\n\r\n/way #1436 37.46 50.80 1 - Nailed Plank\r\n/way #1413 46.36 73.83 2 - Burned-Out Remains\r\n/way #1442 50.92 52.34 3a - Path to Pocket Litter\r\n/way #1442 40.76 52.58 3b - Pocket Litter\r\n/way #1442 40.26 50.93 3c - Jump towards Dirt Mound\r\n/way #1442 39.63 49.80 3d - Mound of Dirt\r\n/way #1432 49.55 13.39 4a - Walk Backwards off Dam\r\n/way #1432 49.41 12.89 4b - Carved Figurine\r\n/way #1424 87.50 47.74 5a - Jumping Puzzle Start\r\n/way #1417 22.46 24.15 5b - Messenger Bag and Sleeping Bag\r\n\r\nAt 3c/3d, if you jump and miss, you'll just slide down a bit. You can run left, hugging the wall to your right, and still get to the objective.\r\n\r\nAt 4a/4b, I would walk backward so you don't accidentally run off the dam.\r\n\r\nGetting to 5a, I ran along the wall on the Arathi side, because there were fewer enemies to gank me at level 20. Once at 5a, it's kind of annoying. I jumped onto the drum inside the cart, then slightly right onto the right rail of the cart. Walked up slightly, then jumped left to the fallen ladder at the top. Then another jumping puzzle from rock to rock. I started at the left, jumped to the nearby rock, then the next rock, then up a rock, then up and over the top.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-20T07:05:05-05:00",
+   "body": "Thank you for this great guide! Especially the video was crucial to me, because I'm so bad at these jumping thingies. :D",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2026-09-20T11:28:31-05:00",
+   "body": "Completed the chain at level 17 on my mage in Beta.   \nThe student fodders give you the quick run speed for a few seconds but the rested XP boost you got in sod is not working. \nYou do get all the added items though like the 12 slot bag and the Sleeping bag is confirmed working for the 3% increased XP",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "id": 98403,
+ "name": "Twisted Hatred",
+ "level": 12,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 910,
+ "start": {
+  "type": "npc",
+  "id": 3567,
+  "name": "Tallonkai Swiftroot",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    55.4,
+    56.8
+   ],
+   [
+    55.6,
+    56.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3567,
+  "name": "Tallonkai Swiftroot",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    55.4,
+    56.8
+   ],
+   [
+    55.6,
+    56.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Kill 8 Befouled Webwoods and bring Xethorr the Wicked's Mature Fel Moss to Tallonkai Swiftroot in Dolanaar.   Befouled Webwood slain  ( 8 ) Mature Fel Moss  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 272096,
+   "name": "Befouled Webwoods",
+   "count": 8,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 281023,
+   "name": "Mature Fel Moss",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Befouled Webwood slain",
+   "count": 8,
+   "type": "npc",
+   "id": 272096
+  },
+  {
+   "text": "Mature Fel Moss",
+   "count": 1,
+   "type": "item",
+   "id": 281023
+  }
+ ],
+ "series": [
+  932,
+  98403
+ ],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 3567,
+   "name": "Tallonkai Swiftroot",
+   "coord": [
+    55.4,
+    56.8
+   ],
+   "coords": [
+    [
+     55.4,
+     56.8
+    ],
+    [
+     55.6,
+     56.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 3567,
+   "name": "Tallonkai Swiftroot",
+   "coord": [
+    55.4,
+    56.8
+   ],
+   "coords": [
+    [
+     55.4,
+     56.8
+    ],
+    [
+     55.6,
+     56.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "requirement",
+   "type": 1,
+   "id": 272096,
+   "name": "Befouled Webwood",
+   "coord": [
+    48.4,
+    50.2
+   ],
+   "coords": [
+    [
+     48.3,
+     37.3
+    ],
+    [
+     48.4,
+     50.2
+    ],
+    [
+     48.7,
+     48.7
+    ],
+    [
+     48.7,
+     50
+    ],
+    [
+     48.8,
+     37.3
+    ],
+    [
+     49.2,
+     47.6
+    ],
+    [
+     49.3,
+     39.4
+    ],
+    [
+     49.3,
+     46.9
+    ],
+    [
+     49.4,
+     45.9
+    ],
+    [
+     49.5,
+     39.8
+    ],
+    [
+     49.5,
+     48
+    ],
+    [
+     49.6,
+     44.6
+    ],
+    [
+     49.7,
+     42.9
+    ],
+    [
+     49.8,
+     43.6
+    ],
+    [
+     50.1,
+     41.4
+    ],
+    [
+     50.1,
+     41.9
+    ],
+    [
+     50.5,
+     42
+    ],
+    [
+     50.9,
+     42.8
+    ],
+    [
+     51.3,
+     44
+    ],
+    [
+     51.4,
+     44.5
+    ],
+    [
+     51.6,
+     44.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 272116,
+   "name": "Xethorr the Wicked",
+   "coord": [
+    51.3,
+    45.4
+   ],
+   "coords": [
+    [
+     51.3,
+     45.4
+    ],
+    [
+     51.4,
+     43.4
+    ],
+    [
+     51.4,
+     44.2
+    ],
+    [
+     51.4,
+     45.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-06T18:22:01-05:00",
+   "body": "New follow-up to [quest=932].\r\n\r\nThe spiders are a piece of cake, but the [b]Mature Fel Moss[/b] drops from [npc=272116], a level 12 elite demon that has a relatively [b]large health pool[/b] and also deals nasty Shadow damage with [b]Curse of Agony[/b]/[b]Drain Life[/b]. You may want to group up for this one.\r\n\r\nSimply move up the hill killing spiders until you reach a small cave with the demon inside.",
+   "replies": []
+  }
+ ]
+}

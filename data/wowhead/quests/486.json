@@ -1,0 +1,460 @@
+{
+ "id": 486,
+ "name": "Ursal the Mauler",
+ "level": 12,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1150,
+ "start": {
+  "type": "npc",
+  "id": 2078,
+  "name": "Athridas Bearmantle",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    56,
+    57.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2078,
+  "name": "Athridas Bearmantle",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    56,
+    57.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Kill Ursal the Mauler and return to Athridas Bearmantle in Dolanaar.   Ursal the Mauler slain  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2039,
+   "name": "Ursal the Mauler",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Ursal the Mauler slain",
+   "count": 1,
+   "type": "npc",
+   "id": 2039
+  }
+ ],
+ "series": [
+  475,
+  476,
+  483,
+  486
+ ],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 2078,
+   "name": "Athridas Bearmantle",
+   "coord": [
+    56,
+    57.4
+   ],
+   "coords": [
+    [
+     56,
+     57.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 2078,
+   "name": "Athridas Bearmantle",
+   "coord": [
+    56,
+    57.4
+   ],
+   "coords": [
+    [
+     56,
+     57.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "requirement",
+   "type": 1,
+   "id": 2039,
+   "name": "Ursal the Mauler",
+   "coord": [
+    39.4,
+    80.2
+   ],
+   "coords": [
+    [
+     38.8,
+     79.4
+    ],
+    [
+     39.4,
+     80.2
+    ],
+    [
+     39.4,
+     80.6
+    ],
+    [
+     39.6,
+     80.2
+    ],
+    [
+     39.8,
+     80.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 42,
+   "date": "2005-09-29T03:26:56-05:00",
+   "body": "Ursal is at 38/80.&nbsp; There is a descent number of guys you need to go through to get to 'em.",
+   "replies": []
+  },
+  {
+   "rating": 37,
+   "date": "2006-02-22T03:26:56-06:00",
+   "body": "here is the map :\n\n[url=http://img.photobucket.com/albums/v245/slopa/WoWScrnShot_020406_144447.jpg]http://img.photobucket.com/albums/v245/slopa/WoWScrnShot_020406_144447.jpg[/url]",
+   "replies": [
+    "When I searched for this is punted me to classic wowhead. I didn't realize it until I died a few times by the crazy pats in the sw area. Ursal the Mauler is up around /way 50 38 in bfa. Path leading up to the location is around /way 47 42"
+   ]
+  },
+  {
+   "rating": 26,
+   "date": "2005-09-29T03:26:56-05:00",
+   "body": "The best way to do this is to go down to the SW corner (look on the map it is as close in the bottom left corner as it can be).\n\nWalk a little bit up north (like an cm on your map). Find the pink flashing tree (you will know what i mean when you see it). This tree is right outside the main enterance to the camp.\n\nJust to the right for the main enterance (west from the pink glowing tree) there is a small path that leads uphill. Follow this path and you will end up in the corner of the camp where Mauler is located. You do need to kill approx. 5 mobs before Mauler, but these are easy pullable one and one.\n\nThen kill Mauler! \n\nBE AWARE: This path is ONE WAY only! You are not able to take the same way out so be prepared with your stone for transportation to your home inn.",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2007-03-11T22:29:44-05:00",
+   "body": "Location 38, 79",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2005-09-29T03:26:56-05:00",
+   "body": "To find Ursal go SW like the quest says, past the two camps you probably already know about (one in a cave, two on hill sides) keep heading south around the mountains almost to the lake.&nbsp; Look for a tree with lots of purple around it.&nbsp; Follow a path that goes up into the hills.&nbsp; Ursal's camp is up there.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2004-11-13T14:45:39-06:00",
+   "body": "Ursal is a big giant bear in the very southwest corner of the map.  He is protected by many, many Gnarlpines levels ~9-12? \n\nWe could have done it much sooner than we did.  A Rouge 13 and preist 12 made short work of Ursal and the 3 or 4 links.",
+   "replies": [
+    "I've been in the very SW corner, and I still can't find him.  Of course, I keep finding myself as a ghost, even at level 10.  What camp/huts does he spawn at?  \n\nI appreciate your help !\n\nedit 2 mins later:\nwell, I see areas and squares that I'm not used to seeing here at Alla....I think I will find him/her now...\n\nEdited, Fri Nov 26 23:54:09 2004"
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2005-09-29T03:26:56-05:00",
+   "body": "u dont need to kill 100 dudes to get to ursal. Just take the path to the hills (with trees and bushes in it) Then u only need to pull 4 guys or so and then u can pull ursal. It wasnt easy with lvl 10 rogue but possible.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-09-29T03:26:56-05:00",
+   "body": "it's easy.. Just go south-west.\n\n[b]38, 80[/b]\n\n____________________________________________________",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-12-11T03:26:56-06:00",
+   "body": "Coming straight out of Darnassus, head due south where the path begins to go north. Before this bend, the path will be going west. Continue south (you might have to fight moonstalkers and some spiders) until you reach the lake. There you will find a camp of furlbogs. Ignore it. Keep going. There will be more camps along the way. When you come to the tree surrounded by pink, the Glowing Fruit Tree, (its pretty far south) look straight east. You&nbsp; will see a ravine type thing with trees in it. There is a spider in front of it. It doesnt look like much but you must follow it. This will put you in the back of the camp. You will have to kill a few pathfinders and maybe a totmic. The guy you have to kill, Ursal, is the only black one. Wait in the ravine until he's close. He walks in circles and will stop breifly in front of the ravine. Pull him in. He is a level 12. I was level 11, warlock, when I did this. I died once but came back with more spells and buffs. That time, I got him. Good Luck. Once you kill him you can't go back up into the ravine. You will have to fight your way out.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-05-05T10:01:11-05:00",
+   "body": "I took this guy out easy at lvl 11. Sneak back in the corner kill mobs one at a time until Ursal can be single pulled. Only killed 2 other mobs besides Ursal all single pulls. Ursal was a close fight but nothing bad. Sneak back out of camp and you're done.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2019-08-11T17:50:14-05:00",
+   "body": "To complete the quest you need to find and kill [b][npc=2039][/b].\nThis boi is a bit hard to find. There is a valley south of Darnassus entrance.\nYou need to go through the valley, there's a lake you will see. Keep moving south along the lake and further.\nThere is an area named Gnarlpine Hold. [b][npc=2039][/b] is near some kind of house. There are lots of mobs as well.\nClear the area carefully (really carefully) to avoid overpull. Kill the quest mob. Profit.\nKeep in mind there are 11-12 lvl mobs, so you better be at least the same level.\n\n[quote][b][npc=2039][/b] location coordinates are [b]38 80[/b][/quote]\n[b][quest=486][/b] - www.youtube.com/watch?v=1Jg9-5OfPGg",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-03-30T15:26:56-06:00",
+   "body": "Did this level 10 on own.Rogue. This i think you will need to be higher if non rogue as large amounts of pathfinders and totom Gnarlpine.\n\nEasy way As Rogue\n1.Go to co-ords 38,80. As per picture. Stealth unless you want to kill 20/30 mobs to get to boss.3/4 at a time as they are very close.\n\n2.Go to a tree 37,82 hanging off the cliff to the left of the boss. This is your starting point for attacks as the tree is out of their range and they break off attacks when you back onto the tree if for any strange reason things go wrong for you.\n\n3.Use bow or distance weapon to kill 2 mobs near tree.\n\n4.Kill 3 casters next to boss easily 1 or 2 at time.5.Pull boss to start of tree and kill. The enslaved druids then fly off task complete\n\nThen stealth out or stone out(easier). Simple.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-04-18T02:00:32-05:00",
+   "body": "For rogues (i spelt rogue right!) its easy just stealth and sneak around back if you want to make it a fast trip.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-04-24T03:55:44-05:00",
+   "body": "Giving directions is hard because ppl usually approach from different places...but here goes. Go to SW corner of Lake Al'Ameth by hugging NORTH shore of lake--killing the occaisional Timer-dude. As you near the end of the lake on the N side, look for a biiiig log laying down. Almost directly across from the log is a large, tall rock AT the waters edge. Jump on this rock, and look almost due South. You will see a path heading into more rocks. Cant miss it. (See that Oakenscowl's den is directly across the lake from you.). When you head into rocks, start looking on map for perfectly round crater/rock/hill type form on map. Ursal's camp is just behind it sort of right. Also, look for glowing purple tree..approach from this direction. There will be Gnarlpine camps on left and right. Ursal is toward the right but be careful. I killed some on left then went right but picked Ursal out before engaging others around him so not to get mobbed. If you kill them all, you'll get nice goodies...and, camp on left has trunk to pick with nice goodies to sell. I was NE Rogue lvl 14.10 going in. Draw them out and only once in a while is it 2 to 1...Good luck!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-12-11T03:26:56-06:00",
+   "body": "yeah guys it is not very hard\ngo to the 38,80 and he is a lvl 12 guy.\nbtw you hava to go right to the back to get him.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-09-29T03:26:56-05:00",
+   "body": "39,80\n\nUrsal walks between two camps, they are tightly grouped so watch your agro",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-03-30T15:26:56-05:00",
+   "body": "If your a druid, easy, sneak in back, kill adds, when he comes near you, Rejuvenation, (make sure your buffed too!) Moonfire, meele him down. DON'T USE WRATH! Save all your mana for Heals. This was what I used for a level 9 drood.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-03-27T19:17:20-05:00",
+   "body": "Thought he'd be pretty hard, but since I do pretty well for myself solo as a rogue, I thought I'd take someone with me that needed help. Picked up a level 9 druid (I was level 11) and we found the place easily and, right when we got there, pulled him successfully and killed him off quickly. Cake.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-29T03:26:56-05:00",
+   "body": "the directions here are wrong. it took me like 3 freaking hours to figure that out. he said that you need to go \"almost to the lake\" and go inside the mountains. that made me think it was the central mountains there where those camps were next to but it's not. you need to PASS the southern lake there and keep going as far SW as the game will let you, it's in the corner there and you want to go into the mountains at the border of the island there. i had to die once to find the guy (used my spirit to find where he was first before i resurrected cuz he blends in well with the million of gnarlpine dudes. hope that helps!",
+   "replies": [
+    "Thank you..I found and followed the path..\nshielded and \"called\" 1 @ a time.... :-)\n\nTYVM...Killed Ursal twice..spawns so fast...\nHowever...The path was impossible to climb up \nto get out <for me>...dieing once and getting this done, for a lvl 11 priest was a great exchange."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-29T03:26:56-05:00",
+   "body": "I took him out at lvl10 (priest) although i did have to use a pot, he hits quite hard and fast, i also found that the mobs respawned quite fast around that area so either HS out of there, or just run and heal/hope you survive/pot\n\nconfirmed loc",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-30T15:26:56-06:00",
+   "body": "I did this solo with my lvl 11 druid without bear form. Its not as hard as people said it was, just run down south of the pools of arlithrien until you reach the purple mushroom that starts a separate quest, make a right, and kill everyone one at a time and stay right. Sometimes I aggroed 2 if they're right next to each other so just make sure you kill one and run and come back to kill the other, I did that until I saw ursal, he walked in a circle so I waited until he came close, then moonfired him, ran back, entangled him and shot at him like crazy, I only lost half health, didnt even use pot and I couldnt use hearth so I just walked back and advoided the respawned mobs, only aggroed one mob.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-11T15:26:56-05:00",
+   "body": "Ok so heres how i killed ihm as a lvl 10 Priest, Sneak up the back hill, get just within range, and shield myself, then cast StarShard fallowed by Mindblast and smite, and repeating this mixture until the Totomic is kill *the hardest thing to kill there*&nbsp; then i killed all the white things near the runkim hidin at then i went behind the trunk under the leafs, and shadowmelded the repeated the steps above, except fo rme it was, Shield, Star, Mind, Smite, Mind, Star&nbsp; and it killed him",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-18T03:26:56-05:00",
+   "body": "I kill him again and again and I dont get mission finished?",
+   "replies": [
+    "...that's odd. Honestly, I don't know why the quest isn't finishing. The best thing I can suggest is abandoning that quest and getting it again. Retry it. If it [i]still[/i] doesn't work, then you might want to report it to Blizzard or whatever the guys names are that you can talk to...\n\nHint: If you want to get to it QUICKLY, I suggest getting a lvl 40 Hunter who can use Aspect of the Pack. Gets you there fast. You may not get xp from the kills, but you'll get it from the quest.",
+    "There are 2 dark colored critters\n...and only one has the right name.\nThe first one you meet is not the right one, if you\ntry to go through the 2 tribes. \nIf you take that path that was mentioned above .\n(north of the 2 camps, behind trees and brush)\nyou will find the right one, and likely your death.\nI got the local helper as he wandered away\nI got him as he wandered over to me, I got 2 others on me, and as the poster said, it is a one way path.\nYour only hope is to have time for your hearth stone.\nSean"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-29T03:26:56-05:00",
+   "body": "Loc; 40.80 12lvl Hunter",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-16T15:26:56-06:00",
+   "body": "Soloed as lvl 11 NE Hunter with lvl 11 pet. Took one by one. Killed Lvl 11 rare. Grimmaw In process. They are all lvl 9 & 10. Got up the end & Ursal the Mauler was right there, he's lvl 12. Just waited till he was walking my way than I attacked from afar to make him come than I attacked from afar while my pet attacked him, it was so easy. I had to kill a small grp of respawned lvl 9 and 10 but it was very eady. Also, the moment I killed Ursal, I lvled to 12 :D:D:D",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-02-22T03:26:56-06:00",
+   "body": "[b]39,80[/b] Careful though, this guy respawns fast, and will respawn with a healing wand",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-11T03:26:56-06:00",
+   "body": "if u ask where it is, take locs or look at map. Thats the reason why there is a map :))",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-06T03:26:56-05:00",
+   "body": "Solo'd as a lvl 9 dr00d. Root her as much as you can, rejuv, just takes patience and distance.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-23T15:26:56-05:00",
+   "body": "... is at 41,75. Ursal is easy to get to from the back, as stated above.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-15T11:46:58-06:00",
+   "body": "Noticed no one has posted coordinates for cosmos on here so figured I would.  The basic coordinates are 38,79, he patrols between two camps which is why that's the basic coordinates.  The tree that SoylentChewToy mentioned is at 42,76 and you should know by now where the guy is to return it, he is the guy that is all worried about the infection among the things on the tree.\n\nEdited, Wed Feb 15 05:42:24 2006",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-07T00:23:04-06:00",
+   "body": "i did it at level 41! was really easy",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-01T19:00:30-06:00",
+   "body": "The quest:\n\n[b]Continent[/b]: Kalimdor\n[b]Zone[/b]: Teldrassil\n[b]Coordinates[/b]: The mob itself is at in sight when standing at 40, 80.\n[b]\nDescription[/b]:\nGo to the south-west of the Zone, there you will find a camp of Gnarlpines.\nKill them and go to the right side of the camp, you will see moe monsters and at the end is a group with Ursal the mauler in the middle of it.\n\n[i][small]Edited, Feb  1st 2007  4:01pm by Tezox[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-11T04:41:37-05:00",
+   "body": "Solo'd as a lvl 9 druid, needed a life pot, but doable",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-05T02:22:20-05:00",
+   "body": "I found him at 40,80 - straight forward lvl 12 mob",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-31T04:20:43-05:00",
+   "body": "I soloed this as a lvl 11 Rogue. Theres a mountain wall right beside the sleeping druids. If you can get on that wall (theres some sort of tree trunk I kinda tucked myself behind) you can pull from there and avoid aggro fairly easily. I simply stealthed in, killed him, and stealthed out like any honest rogue would do. Happy hunting",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-16T04:20:51-06:00",
+   "body": "Soloed as a level 9 rouge. Stealthed in, got on a rock, and lured him over with some thrown daggers. Sinister Strike Rank 2 then Eviscerate after four Sinister Strikes. Then stealth out. Eaaasy.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-30T18:56:28-05:00",
+   "body": "Soloed quest with level 12 hunter. Some advantage with a level 12 pet, but could have lived without ;)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-30T21:37:47-05:00",
+   "body": "I just sat back up above the one hut and pulled singles until I got Ursal.  Then I just pulled him and blasted away.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-16T13:38:22-06:00",
+   "body": "cleared.. lvl 11 priest solo ^^\n\nu can backdoor the creeps, and then take them out 1 by 1",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-07T14:56:22-05:00",
+   "body": "Did this quest as a level 14 hunter with a level 12 priest, just pulled with my bow and got Ursal only with one guy. Pretty easy, just do not go alone.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-06T15:40:43-05:00",
+   "body": "I solo'd this quest just as I leveled to 12 as a druid. I cleared the area to stand on the rock just as you enter the camp. Key is, don't loot the bodies right away! Pulled them out one at a time and got Ursal with no problems. Gained 1150 xp for the quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-27T11:40:39-06:00",
+   "body": "Easy quest for a level 12 hunter, be sure to pick up the glowing fruit quest here.  A little northeast of Ursal's camp you'll find a tree with a purple aura.  Search it and take the fruit to the NPC on the east side of the lake south of Dolanaar for an extra 850 exp.\n\nFWIW, this quest gives 1150 exp.\n\nEdited, Thu Jan 27 05:41:38 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-20T01:01:51-06:00",
+   "body": "On the right as you're facing the entrance to the valley there's a bit of a path leading up that allows you to work up behind the Gnarlpine Hold.  It's before you really have to deal with the furbolgs, but slightly tricky since you eventually reach a point with the slope on the left and a tree to the right that requires jumping a few times to get up and through.  The advantage of this route is that it brings you down behind one of the huts in the main area - two mobs to kill there, another to the right you might aggro and you've got a clean line to pull Ursal as he roams.\n\nI don't think you can get back out the way you came in, but hearthing out means you can do it with a total of 3-5 mobs and only one (unlinked) double-pull.",
+   "replies": [
+    "39.56,76.64",
+    "This is a great way around.  I soloed as a lvl 10 rogue and knocked this one out easy.  Just lured furlbogs to me one at a time using thrown knives and did the same to Ursal when all the others were taken out.  Hearthed out and got my reward :-)"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-11T03:08:41-06:00",
+   "body": "Hey guys! Where and HOW do I get the coordinates of where I am?",
+   "replies": [
+    "You need to download the add-on first.",
+    "Ok everyone,\n\nYou do NOT need an add-on to see coords. Create a macro (from the root menu, or just type /macro) and type or copy/paste this in:\n\n/script px,py=GetPlayerMapPosition(\"player\")\n/script DEFAULT_CHAT_FRAME:AddMessage(format(\"[ %s ] %i , %i\",GetZoneText(),px*100,py*100));\n\nThen put the button on your actionbar. Coordinate problem solved, and you don't need to download/install anything.\n\nNOTE: If you enter a new area and the button shows 0,0 as the coords, open/close the map and it'll fix the loc."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-08T08:43:36-06:00",
+   "body": "There's a camp of Gnarlpine avengers and such in the corner sw corner where the mountain range meets the end of the area map. The mob is way back int he back behind a huge camp most of the mobs appeared to be in the  10's when i was back there and urs. is a 12 grey lookin mob.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-21T01:30:28-05:00",
+   "body": "I did this quest really easy with my lvl 12 hunter i had a lvl 12 druid and a lvl 10 warrior helping me, but that just made it to easy.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-14T21:20:27-06:00",
+   "body": "wheres the gnarlpaine hold?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-05T21:00:29-06:00",
+   "body": "hey guys man i tried to copy and past that thing instead of installing it but i couldnt copy and paste so i wrote it down and typed and it still didnt work so is there a website that i install it at?",
+   "replies": [
+    "copy the text.  when in game use /ctrl + v to insert it into your macro.\n\nI tried typing it too and couldn't get it to work.  ctrl + v worked for me."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2006-05-06T03:26:56-05:00",
+   "body": "Great I found him thanks! Im interested in something, what program I should download to see coordinates in wow?this is my e-mail where u can answer me! see ya all",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-11-27T04:06:41-06:00",
+   "body": "lvl 9 priest when i soloed",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2005-02-23T02:05:56-06:00",
+   "body": "camp at the branch that juts out and pull back mobs safley until you can pull him with no links.",
+   "replies": []
+  }
+ ]
+}

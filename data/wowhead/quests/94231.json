@@ -1,0 +1,87 @@
+{
+ "id": 94231,
+ "name": "Craftsman's Writ: Moonsight Rifle",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 257317,
+  "name": "Grembly",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    82.2,
+    50.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Moonsight Rifle  ( 1 ) Moonsight Rifle  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264031,
+   "name": "Craftsman's Writ: Moonsight Rifle",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4383,
+   "name": "Moonsight Rifle",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Moonsight Rifle",
+   "count": 1,
+   "type": "item",
+   "id": 264031
+  },
+  {
+   "text": "Moonsight Rifle",
+   "count": 1,
+   "type": "item",
+   "id": 4383
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 257317,
+   "name": "Grembly",
+   "coord": [
+    82.2,
+    50.8
+   ],
+   "coords": [
+    [
+     82.2,
+     50.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-10T00:09:40-05:00",
+   "body": "This guy is a reference to Gwimbly and his quest references the Gwimbly Gun from Smiling Friends.",
+   "replies": []
+  }
+ ]
+}

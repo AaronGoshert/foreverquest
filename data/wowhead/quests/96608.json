@@ -1,0 +1,104 @@
+{
+ "id": 96608,
+ "name": "The Great Outdoors",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 405,
+ "start": {
+  "type": "npc",
+  "id": 265813,
+  "name": "Eric Brighthammer",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    46.6,
+    53.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 265813,
+  "name": "Eric Brighthammer",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    46.6,
+    53.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Sit near Eric's Basic Campfire and wait until you receive the Boosted Rest buff.   Sit near the campfire  ( 1 )   Gain the Boosted Rest buff  ( 1 )",
+ "objectives": [],
+ "objectiveRows": [
+  {
+   "text": "Sit near the campfire",
+   "count": 1,
+   "type": "event",
+   "id": null
+  },
+  {
+   "text": "Gain the Boosted Rest buff",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 265813,
+   "name": "Eric Brighthammer",
+   "coord": [
+    46.6,
+    53.8
+   ],
+   "coords": [
+    [
+     46.6,
+     53.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 265813,
+   "name": "Eric Brighthammer",
+   "coord": [
+    46.6,
+    53.8
+   ],
+   "coords": [
+    [
+     46.6,
+     53.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 4,
+   "date": "2026-09-20T16:10:04-05:00",
+   "body": "Several players noted the \"Boosted Rest\" buff wasn't triggering despite sitting in the camp for a long time. This could be fixed by simply [b]relogging and sitting down again[/b]. I, too, was only able to complete that objective following a quick relog.\n\n[i]EDIT: Apparently also abandoning and retaking the quest may work.[/i]",
+   "replies": [
+    "I tried the relog (and even complete game exit and restart) but to no avail. Abandoning and retaking worked though, didn't even need to wait for the buff again as it just auto completed that part."
+   ]
+  }
+ ]
+}

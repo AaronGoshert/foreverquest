@@ -1,0 +1,145 @@
+{
+ "id": 98459,
+ "name": "A Lack of Virtue",
+ "level": 21,
+ "reqlevel": 18,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 165,
+ "start": {
+  "type": "npc",
+  "id": 254078,
+  "name": "Tom \"Half-fish\" Wilson",
+  "zone": "Hillsbrad Foothills",
+  "zoneId": 267,
+  "coords": [
+   [
+    51,
+    66.6
+   ],
+   [
+    51.2,
+    66.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1481,
+  "name": "Bart Tidewater",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    7.8,
+    57.4
+   ],
+   [
+    7.8,
+    57.8
+   ],
+   [
+    8.4,
+    58.6
+   ],
+   [
+    8.6,
+    58.2
+   ],
+   [
+    8.6,
+    58.6
+   ],
+   [
+    8.8,
+    59.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Deliver Tom's Gift to Bart Tidewater in Menethil Harbor in the Wetlands . Tom's Gift (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 281240,
+   "name": "Tom's Gift",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 267,
+   "zone": "Hillsbrad Foothills",
+   "point": "start",
+   "type": 1,
+   "id": 254078,
+   "name": "Tom \"Half-fish\" Wilson",
+   "coord": [
+    51.2,
+    66.4
+   ],
+   "coords": [
+    [
+     51,
+     66.6
+    ],
+    [
+     51.2,
+     66.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 1481,
+   "name": "Bart Tidewater",
+   "coord": [
+    8.8,
+    59.8
+   ],
+   "coords": [
+    [
+     7.8,
+     57.4
+    ],
+    [
+     7.8,
+     57.8
+    ],
+    [
+     8.4,
+     58.6
+    ],
+    [
+     8.6,
+     58.2
+    ],
+    [
+     8.6,
+     58.6
+    ],
+    [
+     8.8,
+     59.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-06T17:29:01-05:00",
+   "body": "Not worth doing a separate trip for. Just [b]170 XP/10 SW rep[/b] until 26, after which it starts diminishing, and there's no follow-up. Just keep this in your log and turn it in when you happen to visit Menethil Harbor for other reasons.\r\n\r\n[url=https://www.wowhead.com/forever/npc=1481/bart-tidewater#map]Bart[/url] is the guy wearing a pirate hat by the pier.",
+   "replies": []
+  }
+ ]
+}

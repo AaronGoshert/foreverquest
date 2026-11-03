@@ -1,0 +1,177 @@
+{
+ "id": 96139,
+ "name": "The Valor Family",
+ "level": 23,
+ "reqlevel": 18,
+ "side": 1,
+ "zoneId": 10,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1400,
+ "start": {
+  "type": "npc",
+  "id": 268,
+  "name": "Sirra Von'Indi",
+  "zone": "Duskwood",
+  "zoneId": 10,
+  "coords": [
+   [
+    72.4,
+    47.4
+   ],
+   [
+    72.4,
+    47.6
+   ],
+   [
+    72.6,
+    47.4
+   ],
+   [
+    72.6,
+    47.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 268,
+  "name": "Sirra Von'Indi",
+  "zone": "Duskwood",
+  "zoneId": 10,
+  "coords": [
+   [
+    72.4,
+    47.4
+   ],
+   [
+    72.4,
+    47.6
+   ],
+   [
+    72.6,
+    47.4
+   ],
+   [
+    72.6,
+    47.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Search Raven Hill for anything of interest and return to Sirra Von'Indi in Darkshire. Raven Hill Tome  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 268,
+   "name": "Sirra Von'Indi",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 281046,
+   "name": "Raven Hill Tome",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Raven Hill Tome",
+   "count": 1,
+   "type": "item",
+   "id": 281046
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "start",
+   "type": 1,
+   "id": 268,
+   "name": "Sirra Von'Indi",
+   "coord": [
+    72.6,
+    47.6
+   ],
+   "coords": [
+    [
+     72.4,
+     47.4
+    ],
+    [
+     72.4,
+     47.6
+    ],
+    [
+     72.6,
+     47.4
+    ],
+    [
+     72.6,
+     47.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "end",
+   "type": 1,
+   "id": 268,
+   "name": "Sirra Von'Indi",
+   "coord": [
+    72.6,
+    47.6
+   ],
+   "coords": [
+    [
+     72.4,
+     47.4
+    ],
+    [
+     72.4,
+     47.6
+    ],
+    [
+     72.6,
+     47.4
+    ],
+    [
+     72.6,
+     47.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-23T14:33:17-05:00",
+   "body": "[b]New lore and quest line in Duskwood![/b]\r\n\r\nThis quest introduces a new story around the [b]Valor family of Raven Hill[/b]. They were a family of local protectors: Grant was a celebrated hero, Silvia became a Raven Hill Guard, Merrick watched the roads, and Ira ranged the surrounding woods. Their spirits are now scattered around Duskwood as the four \"Lost\" NPCs.\r\n\r\nSirra Von'Indi sends you to Raven Hill to search for anything of interest. This rewards [url=https://www.wowhead.com/forever/item=281149/memories-of-valor]Memories of Valor[/url], a readable book about the family, and opens up Sirra's gossip about the Valors.\r\n\r\n[b]Valor Family / Lost NPC locations[/b]\r\n\r\n[ul]\r\n[li][url=https://www.wowhead.com/forever/npc=272260/lost-stalker]Lost Stalker[/url] = Ira Valor. Seen around [b]53,66[/b]. Drops [url=https://www.wowhead.com/forever/item=281143/iras-dagger]Ira's Dagger[/url], which starts [url=https://www.wowhead.com/forever/quest=96137/iras-dagger]Ira's Dagger[/url].[/li]\r\n\r\n[li][url=https://www.wowhead.com/forever/npc=272273/lost-watcher]Lost Watcher[/url] = Merrick Valor. Found around [b]62,65[/b] near [b]The Rotting Orchard[/b]. Drops [url=https://www.wowhead.com/forever/item=281142/merricks-bow]Merrick's Bow[/url], which starts [url=https://www.wowhead.com/forever/quest=96138/merricks-bow]Merrick's Bow[/url].[/li]\r\n\r\n[li][url=https://www.wowhead.com/forever/npc=272284/lost-defender]Lost Defender[/url] = Silvia Valor. Found around [b]64,70[/b] near [b]The Rotting Orchard[/b], and also around [b]50,75[/b] at [b]Yorgen Farmstead[/b]. Drops [url=https://www.wowhead.com/forever/item=281145/silvias-sword]Silvia's Sword[/url], which starts [url=https://www.wowhead.com/forever/quest=79363/silvias-sword]Silvia's Sword[/url]. The quest sends you to kill Defias at Addle's Stead. She appears to patrol or have multiple spawn points.[/li]\r\n[li][url=https://www.wowhead.com/forever/npc=272291/lost-knight]Lost Knight[/url] = Grant Valor. Found in [b]Raven Hill Cemetery[/b]. Drops [url=https://www.wowhead.com/forever/item=281147/grants-shield]Grant's Shield[/url], which starts [url=https://www.wowhead.com/forever/quest=79362/grants-shield]Grant's Shield[/url]. Find Grant's Mace on one of the skeletons in the cemetery, then return to Sirra Von'Indi.[/li]\r\n[/ul]\r\nAfter dealing with the four Valor ghosts, there is a second quest also called [url=https://www.wowhead.com/forever/quest=98447/the-valor-family]The Valor Family[/url]. This one sends you back to Raven Hill to investigate why the attacks have continued. At the current level 20 cap beta phase, Sirra does not seem to offer this later follow-up after all four quests. The second The Valor Family quest is level 27, so the continuation may simply not be enabled yet.\r\n\r\n[url=https://www.wowhead.com/forever/npc=272450/ol-sandy]Ol' Sandy[/url] at roughly [b]17.4,54.0[/b] is tied to its \"Raven Hill investigated\" objective. She may be connected to Cassandra Valor, but that part is still speculation. \r\nMaybe this is old lore for [url=https://www.wowhead.com/forever/item=13102/cassandras-grace]Cassandra's Grace[/url]..?\r\n\r\nHappy ghost hunting!",
+   "replies": [
+    "There are 1-2 other spawn points I've found the Lost Stalker, Watcher, and Knight at. Stalker being near the worgen/shore to elwynn around 70,22. Watcher near the road close to westfall 17,64. Knight I found stuck in a tree near the ghost comb house; I think he is supposed to wonder to tranquil gardens as the book mentions he pathed the cemeteries.",
+    "I did encounter someone unable to find the knight! I reported it as a bug",
+    "thank you for this post. at level 30, i did all of the \"lost\" NPC quests but did not receive any followups. guess its just there for lore and XP.",
+    "I did all 4 quests too, on the last day of beta I found the last ghost. Like others say, the followup quest does not seem to be in game. This is really interesting though! Let's hope it's there on release.",
+    "My general rule of thumb for finding the ghosts is that they spawn where the enemies you have to defeat later spawn. So Knight spawns anywhere where the skeletons you need to kill spawn, Stalker spawns wherever Ravagers do, Defender near the Defias. The only exception seems to be the Watcher, he spawns in multiple places which have nothing to do with Ogres."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2026-10-02T14:12:38-05:00",
+   "body": "Unless you're into lore stuff, the book reward can safely be deleted for bag space.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-27T07:38:16-05:00",
+   "body": "The Raven Hill Tome is at 21.2, 55.7, inside a house, on a broken down octagonal table.",
+   "replies": []
+  }
+ ]
+}

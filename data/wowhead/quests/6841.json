@@ -1,0 +1,21 @@
+{
+ "id": 6841,
+ "name": "<UNUSED>",
+ "level": 55,
+ "reqlevel": 54,
+ "side": 3,
+ "zoneId": 1497,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2800,
+ "start": null,
+ "end": null,
+ "patch": "1.13.2.30786",
+ "objectiveText": "x",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

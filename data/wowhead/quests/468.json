@@ -1,0 +1,265 @@
+{
+ "id": 468,
+ "name": "Report to Mountaineer Rockgar",
+ "level": 21,
+ "reqlevel": 19,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 165,
+ "start": {
+  "type": "npc",
+  "id": 1340,
+  "name": "Mountaineer Kadrell",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    32.8,
+    49.6
+   ],
+   [
+    33.2,
+    49.2
+   ],
+   [
+    33.6,
+    48.6
+   ],
+   [
+    34,
+    48
+   ],
+   [
+    34.4,
+    47.4
+   ],
+   [
+    34.6,
+    47.2
+   ],
+   [
+    35.6,
+    46.6
+   ],
+   [
+    36,
+    46.4
+   ],
+   [
+    36.6,
+    46.2
+   ],
+   [
+    36.8,
+    42
+   ],
+   [
+    37.2,
+    43.4
+   ],
+   [
+    37.2,
+    44
+   ],
+   [
+    37.2,
+    45.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1342,
+  "name": "Mountaineer Rockgar",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    25.4,
+    10.4
+   ],
+   [
+    25.4,
+    10.6
+   ],
+   [
+    25.6,
+    10.4
+   ],
+   [
+    25.6,
+    10.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Speak with Mountaineer Rockgar .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1342,
+   "name": "Mountaineer Rockgar",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  468,
+  455
+ ],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 1340,
+   "name": "Mountaineer Kadrell",
+   "coord": [
+    32.8,
+    49.6
+   ],
+   "coords": [
+    [
+     32.8,
+     49.6
+    ],
+    [
+     33.2,
+     49.2
+    ],
+    [
+     33.6,
+     48.6
+    ],
+    [
+     34,
+     48
+    ],
+    [
+     34.4,
+     47.4
+    ],
+    [
+     34.6,
+     47.2
+    ],
+    [
+     35.6,
+     46.6
+    ],
+    [
+     36,
+     46.4
+    ],
+    [
+     36.6,
+     46.2
+    ],
+    [
+     36.8,
+     42
+    ],
+    [
+     37.2,
+     43.4
+    ],
+    [
+     37.2,
+     44
+    ],
+    [
+     37.2,
+     45.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 1342,
+   "name": "Mountaineer Rockgar",
+   "coord": [
+    25.4,
+    10.4
+   ],
+   "coords": [
+    [
+     25.4,
+     10.4
+    ],
+    [
+     25.4,
+     10.6
+    ],
+    [
+     25.6,
+     10.4
+    ],
+    [
+     25.6,
+     10.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 13,
+   "date": "2006-05-02T02:40:36-05:00",
+   "body": "Rockgar (and coords 25,10) are in Loch Modan even though the quest appears in the Wetlands category in your quest log.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-08-19T14:40:36-05:00",
+   "body": "How do you get this quest? Do you need to be level 19 or are there other quests you must do before this one? (I have done all other Kadrell quests to this point)",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-04-15T03:15:22-05:00",
+   "body": "he's at the gate to dun algaz in LOCH MODAN\r\n\r\ncoordinates are 25,10",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-09-25T02:40:36-05:00",
+   "body": "Rockgar is standing at the gate.\nCord: 25.10",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-07-14T02:40:36-05:00",
+   "body": "Think there's a prerequisite quest - maybe to do with the keg of evershine...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-11T09:20:54-05:00",
+   "body": "Verified today it is attain at level 19.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-20T21:30:08-05:00",
+   "body": "This quest leads to [quest=455] which rewards a measly 1,250 exp. Not worth doing imo.\n\nEdit: If you are able to kill things extremely fast (ie, multiboxer, or have a group), and you're already en route to wetlands, this can be a decently efficient quest to do.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-08-06T02:27:39-05:00",
+   "body": "This says Attain 18, but I am level 18 and its not yet available. Unfortunate too, cause I have to go to Dun Modr for the next part of A Dark Threat Looms, which is level 18.",
+   "replies": [
+    "hmmm...\n\nForgot about this and levelled to 20. The quest can definitely be obtained at level 20. As for 19, on my next reroll/alt I will try and verify this.\n\n:)\n\n[i][small]Edited, Jan 20th 2007 11:49am by Zoopsie[/small][/i]\n\n[i][small]Edited, Jan 20th 2007 10:06pm by Zoopsie[/small][/i]",
+    "Going to check this today, 18 definitely is not the cut to get the quest..."
+   ]
+  }
+ ]
+}

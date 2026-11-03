@@ -1,0 +1,416 @@
+{
+ "id": 923,
+ "name": "Tumors",
+ "level": 9,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 980,
+ "start": {
+  "type": "npc",
+  "id": 3517,
+  "name": "Rellian Greenspyre",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    38.4,
+    20.4
+   ],
+   [
+    38.4,
+    21.4
+   ],
+   [
+    38.4,
+    21.6
+   ],
+   [
+    38.6,
+    21.4
+   ],
+   [
+    38.6,
+    21.8
+   ],
+   [
+    38.8,
+    22.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3517,
+  "name": "Rellian Greenspyre",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    38.4,
+    20.4
+   ],
+   [
+    38.4,
+    21.4
+   ],
+   [
+    38.4,
+    21.6
+   ],
+   [
+    38.6,
+    21.4
+   ],
+   [
+    38.6,
+    21.8
+   ],
+   [
+    38.8,
+    22.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 5 Mossy Tumors to Rellian Greenspyre in Darnassus. Mossy Tumor  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5170,
+   "name": "Mossy Tumors",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Mossy Tumor",
+   "count": 5,
+   "type": "item",
+   "id": 5170
+  }
+ ],
+ "series": [
+  918,
+  922,
+  923
+ ],
+ "points": [
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "start",
+   "type": 1,
+   "id": 3517,
+   "name": "Rellian Greenspyre",
+   "coord": [
+    38.4,
+    21.6
+   ],
+   "coords": [
+    [
+     38.4,
+     20.4
+    ],
+    [
+     38.4,
+     21.4
+    ],
+    [
+     38.4,
+     21.6
+    ],
+    [
+     38.6,
+     21.4
+    ],
+    [
+     38.6,
+     21.8
+    ],
+    [
+     38.8,
+     22.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 3517,
+   "name": "Rellian Greenspyre",
+   "coord": [
+    38.4,
+    21.6
+   ],
+   "coords": [
+    [
+     38.4,
+     20.4
+    ],
+    [
+     38.4,
+     21.4
+    ],
+    [
+     38.4,
+     21.6
+    ],
+    [
+     38.6,
+     21.4
+    ],
+    [
+     38.6,
+     21.8
+    ],
+    [
+     38.8,
+     22.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 25,
+   "date": "2005-10-27T07:29:55-05:00",
+   "body": "Drop wasn't that bad for me.. killed like 12-15 of the Elder Timberlings and got my 5 Moss.\n\nTo get to them just go to the Oracle Glade and turn right till you hit a Lake/River.",
+   "replies": []
+  },
+  {
+   "rating": 22,
+   "date": "2006-06-03T07:29:55-05:00",
+   "body": "I read most of the posts on here and you all really confused me.&nbsp; The place you can find the timberlings that drop the tumbers is about half way between Dolnaar and Darnassus.&nbsp; It is north of the road (43, 41).&nbsp; The south end of the lake makes like a circle (it pools) and there is a dock... if you see that you are in the right spot.&nbsp; All of the different types of timberlings will drop the required items.&nbsp; I only had to kill like 10 of them to get the five tumors.&nbsp; DO NOT GO TO LAKE AL'AMETH the timberlings there do no drop the tumors. I hope this will help and happy hunting.",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2005-10-27T07:29:55-05:00",
+   "body": "There are lots of timberling who will drop the tumors at 43,26 good luck...",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2006-03-22T07:29:55-06:00",
+   "body": "For those who have been mislead, you can find Rellian Greenspyre at the Cenarion Enclave in Darnassus. The coordinates are (38,21).",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2007-03-21T01:15:40-05:00",
+   "body": "This is the lake with southern point at 42,42. Drop rate is decent maybe 30% or so.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-27T07:29:55-05:00",
+   "body": "Couldn't find Rellian when I had done the Q, (meybe because I don't know Darnassus so well yet) but if you have the same prob, /tloc 38,22 is his pos. in Darnassus..\n\nThottbot, says he's in darkshore :S",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-27T07:29:55-05:00",
+   "body": "found at Wellspring River just east of Oracle Glade,Teldrassil. Timberlings Dire Beast drops more often than elder timberlings... only wasted about 5-10mins. there's also a millin of em at Lake Al'Meth just south of Dolanaar.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-07T06:20:46-06:00",
+   "body": "50% drop rate for me killing both of them (the yellow and the blue ones)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-08T07:29:55-06:00",
+   "body": "44,26",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-08-15T07:29:55-05:00",
+   "body": "EASY! Go to wellspring lake, just right of the oracle glade and you will find it. Just kill about ten timberlings and u will get the tumors, u should be about level ten if u want it EASY!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-08T07:29:55-06:00",
+   "body": "just go south at the lake amreth or how its spelled... there youll find a cave with some timberling barklings and stamplers... i got the tumors in less than a hour. plus there is a lvl 9 elite waiting for you.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-22T07:29:55-06:00",
+   "body": "Around 43,35 I got like a 50% drop rate off Timberling Mire Beasts.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-22T07:29:55-06:00",
+   "body": "Wellspring Lake I think it was.I'm having a bear trying to kill a Rare monster..every1, I would recommend hovering ur cursor over the blue ones just in case u see a rare monster...I did :).(Yet died)\nI got the tumor from the first guy I killed.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-22T07:29:55-06:00",
+   "body": "I've got 5 mossy tumors after killing only 5 timberlings!\ni dont know why you other had to kill so many..",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-27T19:29:55-05:00",
+   "body": "[b]42,33[/b] I got [u]ALL 5[/u] in under ten minutes here from the Timberling Mire Beasts. I think this is a good spot.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-27T19:29:55-05:00",
+   "body": "I'm standing right in front of him as I write this...Cenarion Enclave 38,21",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-03T07:29:55-05:00",
+   "body": "Oh and when I went to turn in Mr. Greenspyre was in the exact s, pot he was at when I got the quest.. Darnassus (38, 21).",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-09T19:29:55-05:00",
+   "body": "Omg i killed 6 at Wellspring Lake...really easy for lvl 10 rogue. Really Easy\n\nREMEBER! WELLSPRING LAKE NOT LAKE AL'AMETH!\n\nand the 9 elite (Oakenscowl) in the cave at Lake Alemeth is for a quest after this one!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-09T19:29:55-05:00",
+   "body": "Its not that hard. \n\nKilled 5 Timberling Tramplers at Wellspring River and got 5 Tumors. Took me ten minutes.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-20T19:29:55-05:00",
+   "body": "Level 9 Druid Comments:\n\nTimberling Mire beasts at the above coords dropped almost all the time.&nbsp; Only one beast failed to give me what I need.&nbsp; Mobs were level 9-10 so it was a cakewalk.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-08T07:29:55-06:00",
+   "body": "i went to the spot i needed to go to, killed about 10 or 12 of them and had 4 tumors. i was a ways up the river so i headed back to darnssaus, planing on killing 2 or 3 of them on the way back. i killed about 20 and went back up the river. killed the first lvl 10 i saw and got the tumor. i came up with this. only kill lvl 10's or higher. better drop rate i guess.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-21T21:53:55-05:00",
+   "body": "Co-ordinates are around... 43, 26\n\nThat's the top of the river, they are found south of that as well.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-25T19:35:12-05:00",
+   "body": "[small]easy with lv 10 druid.\nBlueish-green elementals are pretty easy - though I had to sit and drink to regain my mana after each battle.[/small]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-04T21:16:57-05:00",
+   "body": "42,43 and north all along the waters edge, some in the water.\n\n[i][small]Edited, Aug  4th  2006 at  5:22pm EDT by xgecko[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-09T16:45:47-06:00",
+   "body": "level 9 druid:\nDidnt drink..  got no forms, 1 pot for fun, go melee(with staff).\nDamn easy q",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-27T03:58:42-06:00",
+   "body": "found on the banks of wellspring river.\n\nEdited, Sat Feb 26 22:20:21 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-13T10:59:11-06:00",
+   "body": "It's tough to compare drop rates with only 5 items needed, but this is what I had:\n\nElder Timberling: 3 killed, 1 drop\nTimberling Mire Beast: 4 killed, 3 drops\nTimberling Trampler: 4 killed, 1 drop\n\nIf I go through this area with another low level character, I'll be targetting the mire beasts - those are the dark blueish/green ones",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-30T19:03:01-05:00",
+   "body": "Drop rate of about 95% not bad considering the first time I tried with a level 9 rogue. Went back with a level 11 hunter (with a level 10 pet) and massacred them ;)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-26T13:49:34-06:00",
+   "body": "Easy quest that earns 975 experience and a nice lowbie dagger for a level 9 hunter.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-13T17:33:47-06:00",
+   "body": "Did it as a lvl 8 Priest\n/dance",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-05T00:26:19-05:00",
+   "body": "Been at this a good 30 mins now. 0 drops for me :/",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-02T10:17:36-05:00",
+   "body": "Just did the quest with my lvl 9 hunter. Killed about 18 with only 2 drops. Logged out, logged back in, first one dropped. Did this 2 more times to complete it. Everytime you relog it seems to drop... Weird bugged quest but completed it anyway...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-23T16:45:12-06:00",
+   "body": "Trampler: 5 killed, 3 drop\nMire: 2 Killed, 2 drop\n\nEasy.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-03T02:42:39-05:00",
+   "body": "Level 10 elf druid.\nKilled 7 Timberling Trampler's at Wellspring Lake (43:41).\nThey dropped every other dropn then all dropped - I've noticed if you're a higher level then the thing you're killing then the drop rate is higher.\nExperience gained: 975.\nReputation with Darnassus increased by 350.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-12-02T19:29:55-06:00",
+   "body": "This quest turned me into a lvl 13 druid on Nov. 28 it was pretty fun im lvl 16 currently.I liked it and by the way the blue timberlings over in Tedrassil are the ones u need the tumors from.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-07-09T19:29:55-05:00",
+   "body": "Kill the dark ones (Timberling Mire Beasts) not the light ones (Timblering Tramper).&nbsp; They are by the dock at the end of the lake, or just north of it.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-07-09T19:29:55-05:00",
+   "body": "Forgot to add that they dropped % for me.&nbsp; Just dont go to far from the dock or they wont drop.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-07-09T19:29:55-05:00",
+   "body": "This quest is simple. around 42,35 kill the mire ones. 100% drop for me solo lvl 9 hunter",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-09-20T19:29:55-05:00",
+   "body": "Yes, go to the wellspring lake.&nbsp; You can kill both the tramplings and the mires.&nbsp; I got tumors from both of them.&nbsp; The quest only took me about 15-20 min.\n\nHope this helps!\n\nGL :)",
+   "replies": []
+  }
+ ]
+}

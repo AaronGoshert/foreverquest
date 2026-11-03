@@ -1,0 +1,132 @@
+{
+ "id": 99127,
+ "name": "A Net Disaster",
+ "level": 7,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 630,
+ "start": {
+  "type": "npc",
+  "id": 383,
+  "name": "Jason Mathers",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    47.4,
+    62.2
+   ],
+   [
+    47.6,
+    62.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 383,
+  "name": "Jason Mathers",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    47.4,
+    62.2
+   ],
+   [
+    47.6,
+    62.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Check the fishing traps in Crystal Lake. Half-Eaten Fish  ( 7 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 286205,
+   "name": "Half-Eaten Fish",
+   "count": 7,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Half-Eaten Fish",
+   "count": 7,
+   "type": "item",
+   "id": 286205
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 383,
+   "name": "Jason Mathers",
+   "coord": [
+    47.4,
+    62.2
+   ],
+   "coords": [
+    [
+     47.4,
+     62.2
+    ],
+    [
+     47.6,
+     62.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 383,
+   "name": "Jason Mathers",
+   "coord": [
+    47.4,
+    62.2
+   ],
+   "coords": [
+    [
+     47.4,
+     62.2
+    ],
+    [
+     47.6,
+     62.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 5,
+   "date": "2026-09-24T01:35:22-05:00",
+   "body": "This is actually a chain of quests:\n1. [url=https://www.wowhead.com/forever/quest=99127/a-net-disaster]A Net Disaster[/url]\n2. [url=https://www.wowhead.com/forever/quest=99128/slimy-menace]Slimy Menace[/url]\n3. [url=https://www.wowhead.com/forever/quest=99129/a-man-about-a-murloc]A Man About a Murloc[/url]\n4. [url=https://www.wowhead.com/forever/quest=99130/an-enticing-offer]An Enticing Offer[/url]\n5. [url=https://www.wowhead.com/forever/quest=99131/baited-for-success]Baited for Success[/url]\n\nIt will be impractical to attempt this chain on launch. There are less than 10 cage spawns for step 1 and they appear to operate on the \"when one is looted, a different one spawns\" method. So you'll be camping one spawn trying to loot it 7 times to get an item, likely completing with multiple others.\nThe second step will also be camped to oblivion; even with hyperspawns on the beta the entire murloc population was being wiped out.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2026-09-20T10:44:08-05:00",
+   "body": "These nets are really hard to see, but they will spawn right in the shallow water along the shores of the lake.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2026-09-26T14:47:24-05:00",
+   "body": "The lake was overrun with players, but I noticed [b]the river leading up towards Northshire Valley also had many trap spawns[/b]. Make sure to check this area as well. Some also spawned all the way underwater, so they're not just around the shoreline.",
+   "replies": []
+  }
+ ]
+}

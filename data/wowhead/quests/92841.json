@@ -1,0 +1,119 @@
+{
+ "id": 92841,
+ "name": "Valley of Bones",
+ "level": 40,
+ "reqlevel": 35,
+ "side": 1,
+ "zoneId": 16651,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 315,
+ "start": {
+  "type": "npc",
+  "id": 5398,
+  "name": "Warug",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    74.8,
+    68
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253136,
+  "name": "Orgrul",
+  "zone": "Shen'dralas",
+  "zoneId": 16651,
+  "coords": [
+   [
+    35.6,
+    12
+   ],
+   [
+    35.8,
+    13
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Improve your reputation with the Magram, and locate Orgrul near the Valley of Bones south of Magram Village.   Magram Clan Centaur  ( Honored )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 253136,
+   "name": "Orgrul",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  1385,
+  1386,
+  1369,
+  92743,
+  92841,
+  92846,
+  92847,
+  92873,
+  92894,
+  93066,
+  93072,
+  93188,
+  93196
+ ],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 5398,
+   "name": "Warug",
+   "coord": [
+    74.8,
+    68
+   ],
+   "coords": [
+    [
+     74.8,
+     68
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "end",
+   "type": 1,
+   "id": 253136,
+   "name": "Orgrul",
+   "coord": [
+    35.6,
+    12
+   ],
+   "coords": [
+    [
+     35.6,
+     12
+    ],
+    [
+     35.8,
+     13
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-09T16:46:08-05:00",
+   "body": "As of Thurs. Oct 8 this quest and the rest of the chain are minimum player level 35 to obtain. It's a dead chain in beta now.",
+   "replies": []
+  }
+ ]
+}

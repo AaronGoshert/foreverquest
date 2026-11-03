@@ -1,0 +1,149 @@
+{
+ "id": 93172,
+ "name": "Free the Hollows",
+ "level": 13,
+ "reqlevel": 8,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 680,
+ "start": {
+  "type": "npc",
+  "id": 251684,
+  "name": "Strange Hermit",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    54,
+    39
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251684,
+  "name": "Strange Hermit",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    54,
+    39
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Destroy 10 Wind Hollows in Shadowgale Forest.   Wind Hollow freed  ( 10 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 251676,
+   "name": "Wind Hollows",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Wind Hollow freed",
+   "count": 10,
+   "type": "npc",
+   "id": 251676
+  }
+ ],
+ "series": [
+  93172
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 251684,
+   "name": "Strange Hermit",
+   "coord": [
+    54,
+    39
+   ],
+   "coords": [
+    [
+     54,
+     39
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251684,
+   "name": "Strange Hermit",
+   "coord": [
+    54,
+    39
+   ],
+   "coords": [
+    [
+     54,
+     39
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 251676,
+   "name": "Wind Hollow",
+   "coord": [
+    59,
+    34.3
+   ],
+   "coords": [
+    [
+     57,
+     29.4
+    ],
+    [
+     57,
+     33.7
+    ],
+    [
+     58.2,
+     31
+    ],
+    [
+     58.3,
+     32.7
+    ],
+    [
+     58.4,
+     32.4
+    ],
+    [
+     58.7,
+     31.1
+    ],
+    [
+     58.7,
+     32.4
+    ],
+    [
+     58.8,
+     32.6
+    ],
+    [
+     59,
+     34.3
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

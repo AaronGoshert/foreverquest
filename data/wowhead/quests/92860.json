@@ -1,0 +1,105 @@
+{
+ "id": 92860,
+ "name": "In Service of Zephras",
+ "level": 12,
+ "reqlevel": 6,
+ "side": 1,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 225,
+ "start": {
+  "type": "npc",
+  "id": 252475,
+  "name": "Elaadrin Evengale",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    66.4,
+    79.8
+   ],
+   [
+    66.6,
+    79.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252383,
+  "name": "Valennia Stormfist",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    66.2,
+    76.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Report to Valennia Stormfist and let her know that the High Order is with them in their fight against the Al'Aketh.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 252383,
+   "name": "Valennia Stormfist",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  92849,
+  92850,
+  99260,
+  92840,
+  92834,
+  92860
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252475,
+   "name": "Elaadrin Evengale",
+   "coord": [
+    66.6,
+    79.8
+   ],
+   "coords": [
+    [
+     66.4,
+     79.8
+    ],
+    [
+     66.6,
+     79.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252383,
+   "name": "Valennia Stormfist",
+   "coord": [
+    66.2,
+    76.6
+   ],
+   "coords": [
+    [
+     66.2,
+     76.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

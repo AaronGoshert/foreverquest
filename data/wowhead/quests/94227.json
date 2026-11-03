@@ -1,0 +1,103 @@
+{
+ "id": 94227,
+ "name": "Craftsman's Writ: Big Bronze Knife",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 6626,
+  "name": "\"Plucky\" Johnson",
+  "zone": "Thousand Needles",
+  "zoneId": 400,
+  "coords": [
+   [
+    79.4,
+    75.6
+   ],
+   [
+    79.6,
+    75.4
+   ],
+   [
+    79.6,
+    75.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Big Bronze Knife  ( 1 ) Big Bronze Knife  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264027,
+   "name": "Craftsman's Writ: Big Bronze Knife",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 3848,
+   "name": "Big Bronze Knife",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Big Bronze Knife",
+   "count": 1,
+   "type": "item",
+   "id": 264027
+  },
+  {
+   "text": "Big Bronze Knife",
+   "count": 1,
+   "type": "item",
+   "id": 3848
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 400,
+   "zone": "Thousand Needles",
+   "point": "end",
+   "type": 1,
+   "id": 6626,
+   "name": "\"Plucky\" Johnson",
+   "coord": [
+    79.6,
+    75.6
+   ],
+   "coords": [
+    [
+     79.4,
+     75.6
+    ],
+    [
+     79.6,
+     75.4
+    ],
+    [
+     79.6,
+     75.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-08T02:15:27-05:00",
+   "body": "Completed in Forever Beta (10/8/26) \r\n\r\nReceived 75 Rep with Azeroth Commerce Authority and Coin Pouch containing 39 Silver 9 Copper",
+   "replies": []
+  }
+ ]
+}

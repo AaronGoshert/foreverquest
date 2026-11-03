@@ -1,0 +1,317 @@
+{
+ "id": 98372,
+ "name": "An Unfortunate End",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 0,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 271866,
+  "name": "Night Watch Guard",
+  "zone": "Duskwood",
+  "zoneId": 10,
+  "coords": [
+   [
+    17,
+    54.8
+   ],
+   [
+    17.2,
+    54.4
+   ],
+   [
+    23.4,
+    33.4
+   ],
+   [
+    23.6,
+    33.2
+   ],
+   [
+    45.4,
+    79
+   ],
+   [
+    45.4,
+    79.6
+   ],
+   [
+    45.6,
+    79
+   ],
+   [
+    47.4,
+    59.8
+   ],
+   [
+    47.6,
+    59.4
+   ],
+   [
+    47.6,
+    59.6
+   ],
+   [
+    66,
+    33.8
+   ],
+   [
+    68.8,
+    69.2
+   ],
+   [
+    68.8,
+    69.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 271866,
+  "name": "Night Watch Guard",
+  "zone": "Duskwood",
+  "zoneId": 10,
+  "coords": [
+   [
+    17,
+    54.8
+   ],
+   [
+    17.2,
+    54.4
+   ],
+   [
+    23.4,
+    33.4
+   ],
+   [
+    23.6,
+    33.2
+   ],
+   [
+    45.4,
+    79
+   ],
+   [
+    45.4,
+    79.6
+   ],
+   [
+    45.6,
+    79
+   ],
+   [
+    47.4,
+    59.8
+   ],
+   [
+    47.6,
+    59.4
+   ],
+   [
+    47.6,
+    59.6
+   ],
+   [
+    66,
+    33.8
+   ],
+   [
+    68.8,
+    69.2
+   ],
+   [
+    68.8,
+    69.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70009",
+ "objectiveText": "Completion The deceased Night Watchman lying before you is covered in deep gashes and cuts. It's clear to see that he was mauled by some sort of large beast. You notice that the corpse has an unlit torch in his hand. You reach down and pry it from his stiff fingers. This could be useful in your travels through Duskwood and beyond to reveal things hidden by darkness.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "start",
+   "type": 1,
+   "id": 271866,
+   "name": "Night Watch Guard",
+   "coord": [
+    17,
+    54.8
+   ],
+   "coords": [
+    [
+     17,
+     54.8
+    ],
+    [
+     17.2,
+     54.4
+    ],
+    [
+     23.4,
+     33.4
+    ],
+    [
+     23.6,
+     33.2
+    ],
+    [
+     45.4,
+     79
+    ],
+    [
+     45.4,
+     79.6
+    ],
+    [
+     45.6,
+     79
+    ],
+    [
+     47.4,
+     59.8
+    ],
+    [
+     47.6,
+     59.4
+    ],
+    [
+     47.6,
+     59.6
+    ],
+    [
+     66,
+     33.8
+    ],
+    [
+     68.8,
+     69.2
+    ],
+    [
+     68.8,
+     69.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "end",
+   "type": 1,
+   "id": 271866,
+   "name": "Night Watch Guard",
+   "coord": [
+    17,
+    54.8
+   ],
+   "coords": [
+    [
+     17,
+     54.8
+    ],
+    [
+     17.2,
+     54.4
+    ],
+    [
+     23.4,
+     33.4
+    ],
+    [
+     23.6,
+     33.2
+    ],
+    [
+     45.4,
+     79
+    ],
+    [
+     45.4,
+     79.6
+    ],
+    [
+     45.6,
+     79
+    ],
+    [
+     47.4,
+     59.8
+    ],
+    [
+     47.6,
+     59.4
+    ],
+    [
+     47.6,
+     59.6
+    ],
+    [
+     66,
+     33.8
+    ],
+    [
+     68.8,
+     69.2
+    ],
+    [
+     68.8,
+     69.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 4,
+   "date": "2026-10-12T17:15:00-05:00",
+   "body": "If Blizzard is going to add cool toys like this, I feel like they should add the toy collection tab like in retail to free up bag space and to be shared between your alt. I really like this torch, but it sucks that it take up bag space and while I don't mind having to run over to Duskwood to get it once. I don't want to do it 9+ times.",
+   "replies": [
+    "idk why this was downvoted, I agree. They already have collections for everything else."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2026-10-13T00:43:30-05:00",
+   "body": "I hope they add more of these. Specifically light sources like this. Like a lantern or something",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2026-09-28T14:02:56-05:00",
+   "body": "Found at 47, 59 at 12:03pm server on the pvp ruleset.",
+   "replies": [
+    "Dude you are a god, it was right there on this location"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-04T12:39:44-05:00",
+   "body": "Found at 22, 73 at 9:57 AM PVE beta.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-06T22:15:04-05:00",
+   "body": "Spawn seems to move. found at [b]23.7, 33.2[/b] near Raven Hill, so the spawn moves.\r\n(Beta 70235)",
+   "replies": [
+    "My guess is there are multiple spawn points that all start the same quest to get the torch. I found mine on the south edge of Duskwood after just barely entering the zone."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-09T23:55:54-05:00",
+   "body": "Found at 45.6, 79.2 PVE Ruleset 10/09/26 around 1055 pm",
+   "replies": []
+  }
+ ]
+}

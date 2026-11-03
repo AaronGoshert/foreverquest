@@ -1,0 +1,338 @@
+{
+ "id": 4496,
+ "name": "Bungle in the Jungle",
+ "level": 53,
+ "reqlevel": 50,
+ "side": 3,
+ "zoneId": 440,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 5250,
+ "start": {
+  "type": "npc",
+  "id": 5594,
+  "name": "Alchemist Pestlezugg",
+  "zone": "Tanaris",
+  "zoneId": 440,
+  "coords": [
+   [
+    50.8,
+    27
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5594,
+  "name": "Alchemist Pestlezugg",
+  "zone": "Tanaris",
+  "zoneId": 440,
+  "coords": [
+   [
+    50.8,
+    27
+   ]
+  ]
+ },
+ "patch": "1.13.2.31687",
+ "objectiveText": "Bring a Gorishi Scent Gland and 5 Un'Goro Soil samples to Alchemist Pestlezugg in Gadgetzan. Gorishi Scent Gland  ( 1 ) Un'Goro Soil  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11837,
+   "name": "Gorishi Scent Gland",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11018,
+   "name": "Un'Goro Soil",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Gorishi Scent Gland",
+   "count": 1,
+   "type": "item",
+   "id": 11837
+  },
+  {
+   "text": "Un'Goro Soil",
+   "count": 5,
+   "type": "item",
+   "id": 11018
+  }
+ ],
+ "series": [
+  4494,
+  4496
+ ],
+ "points": [
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "start",
+   "type": 1,
+   "id": 5594,
+   "name": "Alchemist Pestlezugg",
+   "coord": [
+    50.8,
+    27
+   ],
+   "coords": [
+    [
+     50.8,
+     27
+    ]
+   ]
+  },
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "end",
+   "type": 1,
+   "id": 5594,
+   "name": "Alchemist Pestlezugg",
+   "coord": [
+    50.8,
+    27
+   ],
+   "coords": [
+    [
+     50.8,
+     27
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 37,
+   "date": "2005-10-03T17:38:53-05:00",
+   "body": "Yes, well apparently I'm the one paying for your fast loots - killed about 100 of those damn beasts and no glands yet... If I have to kill 100 more I think I'm gonna produce glands myself :(",
+   "replies": []
+  },
+  {
+   "rating": 21,
+   "date": "2007-02-28T12:07:41-06:00",
+   "body": "Leads to https://www.wowhead.com/forever/quest=4507",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2005-10-03T17:38:53-05:00",
+   "body": "Its the insects in Un'Goro\n\n Not Tanaris",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2006-12-13T21:35:20-06:00",
+   "body": "Un'Goro soil can be found on various mobs in Un'Goro. They can also found within Un'Goro dirt piles. The dirt piles generally yeild multiple samples of soil.",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2006-12-25T22:22:41-06:00",
+   "body": "Killed about 35-45 various different bug types to finally get my Gorishi Scent Gland. \r\n\r\nI got mine from a Worker. Don't know if the others drop or not. But if its not dropping, keep killing. Might take a while.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2005-10-03T17:38:53-05:00",
+   "body": "tloc 55,76 First kill ^ ^",
+   "replies": [
+    "tloc 54,77 Eighty-eight kills ^ ^"
+   ]
+  },
+  {
+   "rating": 11,
+   "date": "2007-01-21T05:38:53-06:00",
+   "body": "The Workers have highest drop rate\n\nConfirmed",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-10-03T17:38:53-05:00",
+   "body": "Yep killed wasp at 55,76 got gland straight away",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2007-04-04T05:38:53-05:00",
+   "body": "looool \nthis is from Jethro Tull song\nbungle in the jungleee\nvery nice blizz !",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2007-04-03T11:16:28-05:00",
+   "body": "The quest actually starts in Darnassus which is why some may not be able to get. You get the quest in Temple of the Moon then you must go to Gadgetzan to get next part!",
+   "replies": [
+    "What is the name of this quest?"
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2005-11-09T05:38:53-06:00",
+   "body": "I also got the gland on my first kill from a level 51 Gorishi Wasp.&nbsp; For those without coordinates, if you go in the crater from Tanaris and go left at the bottom of the path, then skirt the wall, you will run right into them after some raptors.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-02-26T17:38:53-06:00",
+   "body": "Hey Guys, \n\n55.76 is the real deal i have party notes so i just went to 55.76 loc on my map put a party note on it and killed a Gorishi Wasp. I got the gland. So if you guys are having trouble go to 55.76",
+   "replies": [
+    "I spent 20 minutes farming mobs on the west side of the spawn zone without any luck. Read this comment, went straight to 55.76, killed the wasp I saw there, and got the drop."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2007-02-26T17:38:53-06:00",
+   "body": "Got the gland on the eight kill at 47,86 from a Gorishi worker.\n\nHate those insects...",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-12-15T17:38:53-06:00",
+   "body": "Got mine off a Goroshi Reaver just inside the hive at 49, 82\n\nIf you aren't getting the drop try mobs in a different area. The drop isn't that rare it just only drops in certain areas.\n\nHope this helps.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-12-15T17:38:53-06:00",
+   "body": "I killed workers for over an hour.&nbsp; I read the post near the top of the thread and went over to the area around 55, 77.&nbsp; I killed the wasp at 53, 76 and the gland dropped.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-21T05:38:53-06:00",
+   "body": "Spent about half hour killing everything and then I checked thottbot that Workers have the highest drop rate.&nbsp; Focused my killing on the workers and it dropped within 5 minutes",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-09-24T17:32:35-05:00",
+   "body": "This is the kind of quest drop you either get within your first five kills, or you'll still be looking for one after 100+ dead bugs. Godspeed!",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-12-25T08:38:27-06:00",
+   "body": "You'll be killing a lot of bugs to get the gland to drop so you might as well be doing the [quest=3883] quest at the same time. For me the gland dropped from one of the stingers when I was on my way in to the hive for that quest.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-03-31T15:47:15-05:00",
+   "body": "First hit on a Goroshi Reaver at 57,84. Yahoo!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-19T16:35:59-06:00",
+   "body": "7th kill dropped.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-15T09:33:49-05:00",
+   "body": "I have a level 53 blood elf who cannot get this quest from the quest giver.  Is there a prerequisite?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-01T06:05:11-06:00",
+   "body": "Well i was tryin to kill the workers who had the highest drop rate and didn't drop nothing but the soil , and all of a sudden i killed a wasp and there gland was.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-24T14:45:35-05:00",
+   "body": "Lol i scrolled down and read ur post to check if i really were gonna have to kill liek 999 of those bugs, and that u said \"omg had to kill 40 of them\" didn't make me happy. but hey, everyone's got a lucky day, this was mine. got it on first kill! xD",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-17T21:17:04-05:00",
+   "body": "Think the drop rate was changed, got mine on the 5th kill.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-01T06:03:24-05:00",
+   "body": "Actually any mob in un'goro can drop the soil. And trying not to think about how many bugs I had to kill before I got gland. :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-21T07:54:23-06:00",
+   "body": "got the gland from my 2nd kill\nungoro soil is usually found around any one of the big trees",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-28T22:21:04-06:00",
+   "body": "Jethro Tull reference.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-30T22:45:55-05:00",
+   "body": "I also could not get this qeust any one tell me why i am a level 53 rouge",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-03-24T04:11:26-06:00",
+   "body": "As soon as you enter the Un'Goro crater, you will probably see really big Dinosaurs....they drop the Un'Goro soil or alternatively, you can find dirt patches to uncover on the ground to aquire them also. Bloodpetal Flayers (neutral monsters) will also drop the soil.\n\nFor the Gorishi Scent Gland, you'll need to go around roughly 50,80 to find the Slithering Scar area for the Gorishi creatures... they pack a nice whollop...so be careful :p\n\nEdited, Wed Mar 23 22:18:14 2005",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-05-18T21:17:11-05:00",
+   "body": "I looted the gland after like 7 or 8 kills.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-08-01T05:45:28-05:00",
+   "body": "Actually any mob in un'goro can drop the soil. And trying not to think about how many bugs I had to kill before I got gland. :)",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-07-20T02:01:14-05:00",
+   "body": "Had to kill at least 40 bugs :(",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-09-11T01:23:53-05:00",
+   "body": "Does this happen to be named after a Jethro Tull song?",
+   "replies": [
+    "Very observant\nJethro Tull - War Child - song 7 - Bungle in the Jungle"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-06-09T13:07:12-05:00",
+   "body": "Hi everybody i would like to know how you guys can see the coordinates of the location where you are? because im having a hard time to find the places",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-09-21T07:04:34-05:00",
+   "body": "drop the soil, but also drop the Savage Fronds at a pretty nice rate. Even if you don't need them for your own quests, they're selling nicely on the AH while everyone is pushing their AD rep for Naxx.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-08-20T18:23:05-05:00",
+   "body": "so i was expecting to kill 40 bugs when i got to the place in Ungoro, and it was funny cause i got the gland on my first kill... LMAO!",
+   "replies": []
+  }
+ ]
+}

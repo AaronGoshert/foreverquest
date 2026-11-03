@@ -1,0 +1,353 @@
+{
+ "id": 459,
+ "name": "The Woodland Protector",
+ "level": 3,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 250,
+ "start": {
+  "type": "npc",
+  "id": 1992,
+  "name": "Tarindrella",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    57.8,
+    45
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1992,
+  "name": "Tarindrella",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    57.8,
+    45
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Collect 8 Fel Moss and bring them to Tarindrella . Fel Moss  ( 8 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 3297,
+   "name": "Fel Moss",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Fel Moss",
+   "count": 8,
+   "type": "item",
+   "id": 3297
+  }
+ ],
+ "series": [
+  458,
+  459
+ ],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 1992,
+   "name": "Tarindrella",
+   "coord": [
+    57.8,
+    45
+   ],
+   "coords": [
+    [
+     57.8,
+     45
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 1992,
+   "name": "Tarindrella",
+   "coord": [
+    57.8,
+    45
+   ],
+   "coords": [
+    [
+     57.8,
+     45
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1988,
+   "name": "Grell",
+   "coord": [
+    56.4,
+    45.6
+   ],
+   "coords": [
+    [
+     55.4,
+     44.8
+    ],
+    [
+     55.8,
+     44.2
+    ],
+    [
+     56.2,
+     41.8
+    ],
+    [
+     56.4,
+     41.4
+    ],
+    [
+     56.4,
+     45.4
+    ],
+    [
+     56.4,
+     45.6
+    ],
+    [
+     56.6,
+     41.6
+    ],
+    [
+     56.6,
+     45.4
+    ],
+    [
+     56.6,
+     45.6
+    ],
+    [
+     56.8,
+     44.4
+    ],
+    [
+     61,
+     45
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1989,
+   "name": "Grellkin",
+   "coord": [
+    55,
+    44.6
+   ],
+   "coords": [
+    [
+     54,
+     39.6
+    ],
+    [
+     54.2,
+     39.2
+    ],
+    [
+     54.4,
+     38.4
+    ],
+    [
+     54.4,
+     43.4
+    ],
+    [
+     54.4,
+     43.6
+    ],
+    [
+     54.6,
+     38.4
+    ],
+    [
+     54.6,
+     38.8
+    ],
+    [
+     54.8,
+     44
+    ],
+    [
+     55,
+     39.6
+    ],
+    [
+     55,
+     43.2
+    ],
+    [
+     55,
+     44.6
+    ],
+    [
+     55.6,
+     44.8
+    ],
+    [
+     56,
+     38.4
+    ],
+    [
+     56.2,
+     38.6
+    ],
+    [
+     56.4,
+     34.2
+    ],
+    [
+     56.4,
+     35
+    ],
+    [
+     56.4,
+     35.8
+    ],
+    [
+     56.6,
+     34.4
+    ],
+    [
+     56.6,
+     35.2
+    ],
+    [
+     56.6,
+     35.6
+    ],
+    [
+     57.8,
+     33.2
+    ],
+    [
+     58,
+     33.6
+    ],
+    [
+     59.2,
+     35.6
+    ],
+    [
+     59.4,
+     35.4
+    ],
+    [
+     59.6,
+     35.4
+    ],
+    [
+     59.6,
+     35.6
+    ],
+    [
+     61.2,
+     34.4
+    ],
+    [
+     61.2,
+     34.6
+    ],
+    [
+     61.8,
+     39.6
+    ],
+    [
+     62,
+     38.4
+    ],
+    [
+     62,
+     39
+    ],
+    [
+     62.4,
+     36
+    ],
+    [
+     62.6,
+     36
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 19,
+   "date": "2006-06-11T07:54:09-05:00",
+   "body": "56,46",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2006-05-05T19:54:09-05:00",
+   "body": "Kill the grellkins",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2006-09-28T19:54:09-05:00",
+   "body": "south west of Shadowglen map",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-03-30T07:54:09-05:00",
+   "body": "[b]/tloc 56,46 - Just slightly North-West of her is the Grell Camp.[/b]",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-04-19T00:10:37-05:00",
+   "body": "The moss is droped by the grell not to far east of the quest start they are oarnge little demons easyly killed with a high drop rate finshed as a lv 2 Druid.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-08-23T07:54:09-05:00",
+   "body": "that is the right coords",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-28T19:54:09-05:00",
+   "body": "those Grell things that are roming around north of the main place, is where the moss comes from.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-14T22:58:08-06:00",
+   "body": "Go attack the Grel & Grelkin near 55,45 & 54,44.",
+   "replies": []
+  }
+ ]
+}

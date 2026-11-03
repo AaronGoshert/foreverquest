@@ -1,0 +1,138 @@
+{
+ "id": 94503,
+ "name": "Call of Water",
+ "level": 23,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 185,
+ "start": {
+  "type": "object",
+  "id": 619896,
+  "name": "Forgotten Shrine",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    45.4,
+    60.1
+   ],
+   [
+    45.6,
+    59.9
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5895,
+  "name": "Minor Manifestation of Water",
+  "zone": "Silverpine Forest",
+  "zoneId": 130,
+  "coords": [
+   [
+    38.4,
+    44.4
+   ],
+   [
+    38.4,
+    44.6
+   ],
+   [
+    38.6,
+    44.4
+   ],
+   [
+    38.6,
+    44.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak to the Minor Manifestation of Water in Westfall.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 5895,
+   "name": "Minor Manifestation of Water",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  94495,
+  94497,
+  94499,
+  94500,
+  94501,
+  94502,
+  94503,
+  94505
+ ],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "start",
+   "type": 2,
+   "id": 619896,
+   "name": "Forgotten Shrine",
+   "coord": [
+    45.6,
+    59.9
+   ],
+   "coords": [
+    [
+     45.4,
+     60.1
+    ],
+    [
+     45.6,
+     59.9
+    ]
+   ]
+  },
+  {
+   "zoneId": 130,
+   "zone": "Silverpine Forest",
+   "point": "end",
+   "type": 1,
+   "id": 5895,
+   "name": "Minor Manifestation of Water",
+   "coord": [
+    38.6,
+    44.6
+   ],
+   "coords": [
+    [
+     38.4,
+     44.4
+    ],
+    [
+     38.4,
+     44.6
+    ],
+    [
+     38.6,
+     44.4
+    ],
+    [
+     38.6,
+     44.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-29T00:03:29-05:00",
+   "body": "If you mess up like me and leave before you talk to the Water elemental cus last quest told you to go right back to loch modan don't worry.  Just drop the quest and it will be available to pick up, and it will spawn the light and the elementals.",
+   "replies": []
+  }
+ ]
+}

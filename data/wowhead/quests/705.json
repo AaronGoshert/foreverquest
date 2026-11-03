@@ -1,0 +1,1192 @@
+{
+ "id": 705,
+ "name": "Pearl Diving",
+ "level": 37,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": 3,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 3550,
+ "start": {
+  "type": "npc",
+  "id": 2817,
+  "name": "Rigglefuzz",
+  "zone": "Badlands",
+  "zoneId": 3,
+  "coords": [
+   [
+    42.4,
+    52.4
+   ],
+   [
+    42.4,
+    52.8
+   ],
+   [
+    42.6,
+    53
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2817,
+  "name": "Rigglefuzz",
+  "zone": "Badlands",
+  "zoneId": 3,
+  "coords": [
+   [
+    42.4,
+    52.4
+   ],
+   [
+    42.4,
+    52.8
+   ],
+   [
+    42.6,
+    53
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Bring 9 Blue Pearls to Rigglefuzz in the Badlands . Blue Pearl  ( 9 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 4611,
+   "name": "Blue Pearls",
+   "count": 9,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Blue Pearl",
+   "count": 9,
+   "type": "item",
+   "id": 4611
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 3,
+   "zone": "Badlands",
+   "point": "start",
+   "type": 1,
+   "id": 2817,
+   "name": "Rigglefuzz",
+   "coord": [
+    42.4,
+    52.8
+   ],
+   "coords": [
+    [
+     42.4,
+     52.4
+    ],
+    [
+     42.4,
+     52.8
+    ],
+    [
+     42.6,
+     53
+    ]
+   ]
+  },
+  {
+   "zoneId": 3,
+   "zone": "Badlands",
+   "point": "end",
+   "type": 1,
+   "id": 2817,
+   "name": "Rigglefuzz",
+   "coord": [
+    42.4,
+    52.8
+   ],
+   "coords": [
+    [
+     42.4,
+     52.4
+    ],
+    [
+     42.4,
+     52.8
+    ],
+    [
+     42.6,
+     53
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 871,
+   "name": "Saltscale Warrior",
+   "coord": [
+    24.8,
+    23
+   ],
+   "coords": [
+    [
+     23.2,
+     25
+    ],
+    [
+     23.4,
+     25.6
+    ],
+    [
+     23.8,
+     25.6
+    ],
+    [
+     24,
+     25.4
+    ],
+    [
+     24,
+     28.8
+    ],
+    [
+     24.4,
+     23.4
+    ],
+    [
+     24.4,
+     24
+    ],
+    [
+     24.4,
+     28
+    ],
+    [
+     24.6,
+     24.8
+    ],
+    [
+     24.6,
+     27.2
+    ],
+    [
+     24.8,
+     23
+    ],
+    [
+     25,
+     23.6
+    ],
+    [
+     25.2,
+     29.2
+    ],
+    [
+     25.2,
+     29.6
+    ],
+    [
+     25.4,
+     26.2
+    ],
+    [
+     26,
+     28.8
+    ],
+    [
+     26.4,
+     26.2
+    ],
+    [
+     26.4,
+     26.6
+    ],
+    [
+     26.6,
+     26.6
+    ],
+    [
+     26.8,
+     22.2
+    ],
+    [
+     26.8,
+     26
+    ],
+    [
+     27,
+     23.2
+    ],
+    [
+     27,
+     24
+    ],
+    [
+     27,
+     25.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 877,
+   "name": "Saltscale Forager",
+   "coord": [
+    26.6,
+    26.6
+   ],
+   "coords": [
+    [
+     23.2,
+     25
+    ],
+    [
+     23.4,
+     24.4
+    ],
+    [
+     23.4,
+     25.6
+    ],
+    [
+     24,
+     25.4
+    ],
+    [
+     24,
+     25.6
+    ],
+    [
+     24,
+     28.8
+    ],
+    [
+     24.4,
+     27.2
+    ],
+    [
+     24.4,
+     28
+    ],
+    [
+     24.6,
+     27.2
+    ],
+    [
+     24.6,
+     27.6
+    ],
+    [
+     25,
+     25.4
+    ],
+    [
+     25.2,
+     29.4
+    ],
+    [
+     25.2,
+     29.6
+    ],
+    [
+     25.4,
+     26.2
+    ],
+    [
+     25.6,
+     29.2
+    ],
+    [
+     25.6,
+     29.8
+    ],
+    [
+     26.4,
+     22
+    ],
+    [
+     26.4,
+     26.2
+    ],
+    [
+     26.4,
+     26.6
+    ],
+    [
+     26.6,
+     26.6
+    ],
+    [
+     26.6,
+     27.6
+    ],
+    [
+     26.8,
+     22.2
+    ],
+    [
+     26.8,
+     26.2
+    ],
+    [
+     27,
+     23
+    ],
+    [
+     27,
+     24.2
+    ],
+    [
+     27,
+     25.4
+    ],
+    [
+     27.6,
+     22.4
+    ],
+    [
+     27.6,
+     22.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 879,
+   "name": "Saltscale Hunter",
+   "coord": [
+    24.8,
+    23.2
+   ],
+   "coords": [
+    [
+     23.2,
+     25
+    ],
+    [
+     23.4,
+     25.6
+    ],
+    [
+     24,
+     25.4
+    ],
+    [
+     24,
+     28.8
+    ],
+    [
+     24.4,
+     23.8
+    ],
+    [
+     24.4,
+     28.2
+    ],
+    [
+     24.6,
+     24.8
+    ],
+    [
+     24.6,
+     27.2
+    ],
+    [
+     24.8,
+     23.2
+    ],
+    [
+     25.2,
+     24
+    ],
+    [
+     25.4,
+     26.2
+    ],
+    [
+     25.4,
+     29.4
+    ],
+    [
+     26.2,
+     26.2
+    ],
+    [
+     26.4,
+     26.6
+    ],
+    [
+     26.6,
+     26.6
+    ],
+    [
+     26.8,
+     22
+    ],
+    [
+     26.8,
+     26
+    ],
+    [
+     27,
+     24.2
+    ],
+    [
+     27,
+     25.4
+    ],
+    [
+     27.4,
+     22.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "sourcerequirement",
+   "type": 2,
+   "id": 2744,
+   "name": "Giant Clam",
+   "coord": [
+    25.7,
+    22.9
+   ],
+   "coords": [
+    [
+     23.6,
+     23.4
+    ],
+    [
+     23.6,
+     23.5
+    ],
+    [
+     23.7,
+     27.2
+    ],
+    [
+     23.7,
+     29.7
+    ],
+    [
+     23.8,
+     29.1
+    ],
+    [
+     23.9,
+     26.1
+    ],
+    [
+     24,
+     25.4
+    ],
+    [
+     24.4,
+     28
+    ],
+    [
+     24.6,
+     27.3
+    ],
+    [
+     24.8,
+     29.5
+    ],
+    [
+     24.9,
+     29.1
+    ],
+    [
+     25.3,
+     25
+    ],
+    [
+     25.3,
+     26.4
+    ],
+    [
+     25.3,
+     27.5
+    ],
+    [
+     25.4,
+     22.7
+    ],
+    [
+     25.4,
+     24.1
+    ],
+    [
+     25.4,
+     30.6
+    ],
+    [
+     25.7,
+     22.9
+    ],
+    [
+     25.7,
+     25.3
+    ],
+    [
+     25.7,
+     29.7
+    ],
+    [
+     25.8,
+     23.7
+    ],
+    [
+     25.8,
+     28
+    ],
+    [
+     26,
+     29.4
+    ],
+    [
+     26.1,
+     30.6
+    ],
+    [
+     26.3,
+     26.1
+    ],
+    [
+     26.4,
+     27.1
+    ],
+    [
+     26.5,
+     24.5
+    ],
+    [
+     26.5,
+     29.4
+    ],
+    [
+     26.6,
+     30.2
+    ],
+    [
+     26.9,
+     30.8
+    ],
+    [
+     27,
+     22.4
+    ],
+    [
+     27.1,
+     26.5
+    ],
+    [
+     27.2,
+     25.5
+    ],
+    [
+     27.3,
+     23.4
+    ],
+    [
+     27.3,
+     24
+    ],
+    [
+     27.3,
+     27.9
+    ],
+    [
+     27.5,
+     24.2
+    ],
+    [
+     27.6,
+     25.6
+    ],
+    [
+     27.6,
+     29.2
+    ],
+    [
+     27.7,
+     30.3
+    ],
+    [
+     27.8,
+     23
+    ],
+    [
+     27.8,
+     25.3
+    ],
+    [
+     27.8,
+     27.7
+    ],
+    [
+     28,
+     26.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "sourcerequirement",
+   "type": 2,
+   "id": 2744,
+   "name": "Giant Clam",
+   "coord": [
+    64,
+    51
+   ],
+   "coords": [
+    [
+     63.5,
+     50
+    ],
+    [
+     63.5,
+     52.9
+    ],
+    [
+     63.9,
+     40.2
+    ],
+    [
+     63.9,
+     51.7
+    ],
+    [
+     64,
+     51
+    ],
+    [
+     64.6,
+     55.9
+    ],
+    [
+     64.8,
+     40.5
+    ],
+    [
+     66.4,
+     41.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "sourcerequirement",
+   "type": 2,
+   "id": 2744,
+   "name": "Giant Clam",
+   "coord": [
+    22.8,
+    85.6
+   ],
+   "coords": [
+    [
+     20.5,
+     30.7
+    ],
+    [
+     22.8,
+     71.3
+    ],
+    [
+     22.8,
+     85.6
+    ],
+    [
+     23.9,
+     10.9
+    ],
+    [
+     24.5,
+     79.6
+    ],
+    [
+     24.6,
+     79.4
+    ],
+    [
+     25.4,
+     22.6
+    ],
+    [
+     28.5,
+     89.3
+    ],
+    [
+     29.1,
+     14.6
+    ],
+    [
+     31.3,
+     93.4
+    ],
+    [
+     31.6,
+     89.3
+    ],
+    [
+     35.4,
+     93.7
+    ],
+    [
+     38.2,
+     6.3
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "sourcerequirement",
+   "type": 2,
+   "id": 2744,
+   "name": "Giant Clam",
+   "coord": [
+    33.4,
+    45.6
+   ],
+   "coords": [
+    [
+     33.2,
+     51.9
+    ],
+    [
+     33.4,
+     45.6
+    ],
+    [
+     33.5,
+     49
+    ],
+    [
+     34.4,
+     34.2
+    ],
+    [
+     34.8,
+     38.1
+    ],
+    [
+     35.5,
+     36.2
+    ],
+    [
+     36,
+     39.3
+    ],
+    [
+     36.5,
+     32
+    ],
+    [
+     47.8,
+     15.7
+    ],
+    [
+     50,
+     18.8
+    ],
+    [
+     56,
+     12.1
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 73,
+   "date": "2006-11-12T10:38:32-06:00",
+   "body": "You can pick Blue Pearls (in Stranglethorn Vale [STV]), even if you don't have the quest. If you quest in Stranglethorn Vale, I suggest you to get the 9 of these Blue Pearls before leaving to Badlands.",
+   "replies": [
+    "I used an underwater breathing potion, swam around the Vile Reef for only 10 minutes collecting all the pearls. I did not fight a single Murloc.",
+    "Wish I knew this before starting this quest, no way am I going that far out of the way for a quest. -,-"
+   ]
+  },
+  {
+   "rating": 25,
+   "date": "2006-12-27T04:31:39-06:00",
+   "body": "Easy to farm these whilst doing another quest: https://www.wowhead.com/forever/quest=1107",
+   "replies": []
+  },
+  {
+   "rating": 25,
+   "date": "2005-10-13T19:20:00-05:00",
+   "body": "(NE 46 Warrior) this wasnt too hard for me considering the mobs are 36 elite. I had to get pretty close to agro them. I was able to get all the pearls and only had to kill 2 or 3 murlocs. When i had to kill one, I would have to kill, swim to surface, swim back down, loot. \n\nclams for me were at:\n24,28\n23,27\n23,26\n23,25\n23,23\n27,24",
+   "replies": [
+    "26,24\n23,29\n27,29\n27,25",
+    "For those coming back to this in Classic, I found my clams at: 26.7 23.3 - 25.3 25.5 - 24 25 - 24 25.8 - 24.4 26.5 - 24.3 27.4 - 25.9 59.5 - 24.6 30.1 - 24.5 27.7"
+   ]
+  },
+  {
+   "rating": 23,
+   "date": "2005-01-27T03:35:08-06:00",
+   "body": "3550 XP at level 40 (when the quest is green).",
+   "replies": [
+    "At level 45:\n\nYou gain 1400 experience.\nYour reputation with Booty Bay has slightly increased.\nYour reputation with Bloodsail Buccaneers has greatly decreased.\n\nTook about 20 minutes and didn't fight anything. I recommend doing much earlier along with [b]The Vile Reef[/b] quest.\n"
+   ]
+  },
+  {
+   "rating": 16,
+   "date": "2019-12-30T19:24:50-06:00",
+   "body": "[b]For those playing Classic Wow: [/b]\n\nI was able to solo this at level 32 as a warrior. \n\nHowever [i][u]my class does not matter[/u].[b][/b][/i] as I did not fight anything or use any \"warrior-ish\" abilities to complete the quest.\n\nIt's my opinion [i]any class[b][/b][/i] can solo this if [i]patient[/i] enough and willing to take a few extra minutes to carefully scope things out before you dive every-time you see a clam.\n\nYou may (do) want a water breathing potion with you. (I didn't have one and it likely took me a lot of extra time having to resurface for air after every single dive down)\n\n[b]The Details[/b]:\n\nWhat you need to do (besides keep a careful eye out for murloc elites and hopefully (do) bring a breathing potion, is stay away from the main concentration of murlocs.  ie: The underwater city /ruins. \n\nHow?\n\nIf you have a quest helper addon, (cheater) stay to the farthest \"outer rim\" or edge of where it shows the quest location area. \n\nIf you don't have an addon (and many on Classic wont because Classic players never cheat...) swim out as far as you can from the murloc populated ruins [i][b]while still being able to spot clams in the water below you.[/b]\n[/i]\n\n[b]Recap[i][/i][/b]:\n\nYou need to swim out as far away from those murloc infested ruins as you are able to go [i]where clams still spawn and murloc elites are far more scarce) \n[b][/b][/i]\n\nThis is where some of that patented Classic Wow patience (and of course non-cheating) will come in handy.\n\nYou'll almost certainly [i]need[b][/b][/i] to be patient to spot the clams. Not only that but patience to spot clams away from those murloc badies waiting to ruin your day. \n\nFor me, I panned the camera angle directly down into the water from above my toon's head, but you should do it whatever way is best for you.\n\nSome clams are hidden by the terrain and / or even almost completely \"buried\" in the surrounding scenery. \n\nFor me, mousing over the areas I was checking was a huge help (You'll see your cursor become a gear wheel when you mouse over a clam)  \n\nBe sure there are no murlocs too close to where you dive or they will attack you. \n\nI was spotted by one of the elite murlocs and attacked only once but I was fortunately able to swim away before I was rendered into warrior pate' \n\n[b](You can also skip all of the above if you have the gold. Check the auction house as they are able to be farmed and sold there as well)[i][u][/u][/i][/b]\n\nHappy pearl hunting. \n\n[small]Disclaimer\n\nI personally don't think anyone is cheating when using (most) addons in Classic Wow. \n\nMerely jesting.\n\nNo elite murlocs (or low level warriors) were harmed in the making of this post[/small]",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2007-04-02T10:06:55-05:00",
+   "body": "If you are an engineer he will offer you the Schematic for the flash bomb aswell",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2007-04-29T02:12:40-05:00",
+   "body": "Its at the Vile Reef and you find them in giant clams around 25:23. They are located in a large area and there are loads of Murlocsl. The murlocs are lvl35-36 elites and gives nice xp.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2006-08-01T19:20:00-05:00",
+   "body": "This quest can be done at the same time as the Encrusted Fins quest, recieved in Shimmering Flats. Every clam had a pearl in it, and every Murloc dropped a Fin as well. Make sure to have some waterbreathing buff, however. \n\nIf you swim what looks like a few \"meters\" below the surface (inches on your screen) around the outside edge of the dark area on the map that is Vile Reef, you should be able to see the clams clearly when looking down. They are located near rocks or at the base of large tree-like kelpweed areas on the sides of the reef valley.Murlocs guard about half of the clams, and can be tough (at least for my clothie mage), and they like to run when they get low on health so save your nuke weapon or spell for that. \n\nSorry, I don't use coordinates, but Vile Reef is located off-shore, directly west of the Horde Grom'Gol Base Camp on the western shore of Stranglethorn. Both quests can be done here.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-12-25T19:20:00-06:00",
+   "body": "I loved doing this quest.... the underwater world rocks.\nSo peaceful underwater (read no ganking ;)",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-02T08:35:45-05:00",
+   "body": "A use for my diving helm at last!  ^^",
+   "replies": [
+    "[quote=Yunoh]A use for my diving helm at last!  ^^[/quote]\n\nGoddess bless the Deepdive Helmet.  Goddess bless it.  A-effing-men."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2006-04-14T07:20:00-05:00",
+   "body": "Lvl 42 pally - bought a potion of underwater breathing at th AH - make sure you have \"The Curse of Tides\" and \"Encrusted Tail Fins\" quests as well.&nbsp; Can do all three with one potion if you're fast (30 minutes).\n\nLike they said above - just swim along the blue line on the map using the num lock key and look down and around for the clams, I had to off two murlocs while I was doing it.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-06-26T07:20:00-05:00",
+   "body": "i found the clam where no Murlocs around and shallow area.\n\n24.27\n24.25\n26.22\n\nthey are between rocks or seaweed thing.\ni just backandforth those area and got all 9 pearl",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-04-04T08:51:47-05:00",
+   "body": "This should be the MOST boring quest EVER.\n\nWith the exception to kill the steath dudes in badlands that you have to walk in the water to find them for the Green warden, this q is soo boring.\n\nI have a lock and unending breath, and the clams are quite spread out...\nAint worht the hussle for 3000XP all the way from badlands to BB...",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-06-02T08:05:42-05:00",
+   "body": "26,26 \n25,26\n25,24 \n26,23\n27,29\n \nThese are the locations of where I got the clams.  Hope this helps cause this was a pain in the butt.  YOU WILL NEED NO MATTER WHAT A BREATHING POTION ETC.\nThe clams respawn so there are not 9 but that will do.\n\nRiley",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-13T19:20:00-05:00",
+   "body": "I also received plans to make Flash Bombs along with the normal quest rewards. Is this additional award only for those with Engineering skill?",
+   "replies": [
+    "I found lots of them at the vile reef while killing saltscale murlocks 35 t0 37 elite, just look around and find the giant clams. Make sure you have a way of breathing under water, like potions or buffs, Cause its deep there! Deep dive helm is AWSOME! NEVER have to come up for air. Have to be engineer though to wear it, which i am. :P&nbsp; Ps. If you aggro a murloc just remember that they run away just before they die so slow them down when they are low health.&nbsp; \n Good luck",
+    "[i]IN THE AREA OF 27.29 - 25.29[/i]\n\nI'VE FOUND [b]5[/b] pearls, good place to look"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-11-19T07:20:00-06:00",
+   "body": "the hacker.. your a dumbass.. anyways\n\nmy pearls: 25,27\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 24,28\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 25,25\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 27,23\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 26,26(it was guarded by an elite)\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 24,27(also gaurded)\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 23,25(guarded)\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 23,23\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 25,25(i got it after it spawned)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-08-01T19:20:00-05:00",
+   "body": "Here's a tip for everyone, there is an item that drops in Gnomeregan calle Hydrocane, it drops off a boss that's fairly early on and fairly easy to defeat if you just grab a couple friends.&nbsp; Hydrocane has only the requirement of being able to use staves, which is much easier then the engineering helm, which is a pain in the butt to build up to, and allows you to breathe underwater.&nbsp; I'm a 47 hunter, got it by the fact that no one else wanted it, and use it for stuff like this and underwater mining since I mostly just use my gun if I run into something.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-07T07:20:00-05:00",
+   "body": "If you can re-set the video options for high-detail, you can see the clamshells a little easier. Everyone is right that you can avoid the elite murlocs and you should because they have three annoying traits. \n\n1) Almost all of them are paired or tripled, but the second one is hidden, stealthed or behind some seaweed. Combine that with an odd patrol pattern and a long aggro range and it's hard to fight just one, so be prepared. 2) Although most don't hit very hard (lots of hit points, though), some of the Saltscale Foragers have some kind of random spell. One killed my 39 Voidwalker in 2 hits (twinked murlocs?) and another killed a 41 shielded priest at nearly full health in about 3 blows. Boy, was she surprised, and not very happy because these are 36-38 elites. Weird. 3) Of course everyone tries to pull them from their pals, which is a good tactic, particularly if you can keep hitting them but be careful, if you lose the pull and they stop or start to turn back, they will jump back to full health immediately. Very annoying if you've spent five minutes hammering away on one. Even more annoying when you work hard to kill one for a long battle and he drops 83 copper. I can hear the designers' sarcastic laughter now.\n\nThe clams don't respawn very quickly, so for best results (the most amount of clams), go in the early morning or late at night, server time. Otherwise it will take you 45 minutes to an hour to find nine. The rewards aren't much (unless you're an engineer) but the XP is great and the Vile Reef is scenic.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-07T07:20:00-05:00",
+   "body": "I started this quest and as soon as I started fighting the murlocs I would have to swim back to the surface. I drowned a lot. Here's what you do. Get close enough the murlocs to agro them, then simply swim back to the surface, with murloc trailing behind you. Once you are safely breathing the cool ocean air, you are then free to kill murloc. Once murloc is dead then swim down to get the clams. You may have to do this a few times(depending on the amount of murlocs). I hope this helps you.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-03-08T19:20:00-06:00",
+   "body": "The Giant Clams are in the reefs surounding the temple.&nbsp; Every clam had a blue pearl.&nbsp; Its easy to avoid the mobs",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-20T19:20:00-05:00",
+   "body": "Very quick & easy quest and good XP. I did the quest in under 10 mins (following the black reef line as someone suggested). The way I did it was to find a clam and resurface for air, when I went back down to get the clam, I would click it so it tagets and auto opens, while the character was diving to get it, I would be panning around to find others as they tended to all be close together.\n\nQuick tip: If you have less that 3/4 breath when diving, forget about it as this is a struggle at certain depths to get back up on time, then energy drained form me at a rate of 415hp every 2 seconds while I was out of breath!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-09T22:20:52-05:00",
+   "body": "24,28\n25,30\n24,29",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-04T18:53:59-05:00",
+   "body": "None of those coords coordinate with MetaMap. I just picked ones at the following locations unguarded...\n\n26.25\n26.28\n26.30\n\nThose are extremely hard to see, but run this line 3 times (have to wait for spawns anyways) and you'll be done. I also don't doubt that there are more, but I don't want to waste that much time finding them. lol",
+   "replies": [
+    "very good coords. hit these up then swan in a circle looking for more. only need 5 was done in 10 mins.",
+    "Thanks man, these were great!"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-03T10:40:05-06:00",
+   "body": "BEST POST EVER!\n\njust like rileyporter said:\n26,26\n25,26\n25,24\n26,23\n27,29 \nevery loc is correct, only correction to the previous post is that i didnt need breathing spell, probably becuase i did it as a 42 pally (less aggro).  Other than that, the BEST POST EVER",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-09T07:32:18-06:00",
+   "body": "Look @ this quest [url=/quest=1107][quest=1107]] too (starts in Thousand Needles).\n& take a shaman w/ you - its deep and the air is not enough! ;)",
+   "replies": [
+    "dont need to do it all at the bottom... just pull them to the top and fight there... "
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-09T13:25:49-06:00",
+   "body": "Got 2150 XP, Booty Bay Rep +385 and Bloodsail Buccaneers Rep -350 at Lvl 44.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-06T00:49:21-06:00",
+   "body": "When I handed this in, he also gave me the Flash Bomb Engineering formula as a reward.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-11T06:33:34-06:00",
+   "body": "Is this quest for engineer's only? Been carrying around 9 Blue Pearls for forever and when I last saw Rigglefuzz it was only for his Powerstones quest and he didn't give me any other quests.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-24T14:13:38-05:00",
+   "body": "I did it on lvl40 without any underwater breathing thing within about 20 minutes.\nSimply swim tightly under surface and when u will see calm get it and you will still have time to return up with almost half of breath (if you are attacked with murlock swim up first, and kill him then ;)). Clams are around ruins, many of them.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-16T14:01:50-05:00",
+   "body": "For me, didn't find anything at previously listed coordinates.  Found them along a diagonal line from 24,28 to 27,26 with one up at 27,24.  Wasn't very patient, so found about half without fight and other half had to kill one mob.  Perhaps spawn locations vary.  Clams are not all tha big but are a fairly light white and pretty noticeable - just not very large compared to the other bottom clutter.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-01-13T02:35:12-06:00",
+   "body": "It might be fixed, but the return for the time and stress involved is horrid.  This is a bad one.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-13T19:18:26-05:00",
+   "body": "First look for clams around the altar where you complete Curse of the Tides.  Swim all around that area, especially along the dark line (for the trench) that you see on the mini map.  On the larger map of STV, you should be looking around the area just above the \"The\" in \"The Vile Reef\".  If there are elite murlocs around, that's where you need to be.  It took me about 5-10 mins to get nine.\n\nAt level 44: 2150xp, +99 rep with Booty Bay, -750 rep with Bloodsail",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-15T17:26:44-05:00",
+   "body": "I just completed this as a 38 rogue without a single fight and without a breathing spell.  Using the coordinates listed I would find a clam and if it wasn't too close to a mob simply went down (stealthed) and got it.  If there was a mob close I stealthed, went down, sapped the mob, opened the clam and vanished.  quick and easy.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-02-22T06:25:26-06:00",
+   "body": "Best place i've found is in STV Vile Reef. Some are gaurded by 35-36Elite Murlocs. Buy, make or trade for [elixer of water breathing] its a must. 100% drop rate with a 1/9 ratio of dropping small lustruos pearl. Clam meat is a 50% drop or so.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-04-24T21:34:26-05:00",
+   "body": "[url=/item=9452]Hyrdrocane[/url] is your friend.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-07T03:29:19-05:00",
+   "body": "piece of cake for a lvl 42 paladin. finished this quest in 20 mins.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-31T17:59:13-05:00",
+   "body": "Finshed This Quest with LVL 44 Human Mage, Received:\n\nExperience Gained: 2150\nReputation With BB Increased By: 385\nReputation With Bloodsail Buccs Decreased By: 350\n\nI disenchanted the Wand and received [Greater Mystic Essence]x2",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-15T07:12:41-06:00",
+   "body": "Found all mine in the Vile Reef soloed it at lvl 30.   Most likely this is the lowest lvl you can be to abtain this quest.  Definitly worth it if your an engineer trying to get the flash bomb schematic =)  Took me about an hour all together and I recieved 3550 XP.  Figured I get more but it was worth it just for the schematic.  Every clam you open gives you a blue pearl its pretty nice.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-14T18:31:54-06:00",
+   "body": "opened clams in the reef ad naseum for over two hours,  and killed many murlocs too!\n\nfor my efforts yes i did manage to loot 10 lumious pearls and several stacks of clam meat\nbut nary one blue pearl was found,\n\n\nam I doing something wrong?\n\n\nMiina\n39 Night Elf Druid\nMaster Alchemest\n<Gnomercy>\nDoomhammer",
+   "replies": [
+    "It was broken and now they ahve fixed it.  I recieved a blue pearl today in a giant clam near the altar of storms."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-13T11:28:14-05:00",
+   "body": "I managed to find eight different clams, most at or near riley's coords. Only one clam was guarded by an elite murlocs (lvl 35). Took me a little less than half an hour to complete (not counting travel time), so a regular elixir of under water breathing should be fine. Or you could just skip it and buy the pearls at the AH.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-24T12:13:16-06:00",
+   "body": "With using the co-ords from one of they others swim till you can look down and see an area that you think it will be in and run the mose over the area till  you find the clams it'll take less time about 5 mins to complete myself but it will give you a birds eye view of the area and let you choose the ones that are un-guarded lol thank to all who give co-ords without them it would take longer :-)\n\n--------------------------------------------------------------------------------\n\nFullaura Lvl 44 Warlock- icecrown\nLord of the dragoons",
+   "replies": [
+    "co-ords i used are 25,26 or 25,30 they had some in the area srry"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-01T23:09:25-05:00",
+   "body": "my bad i didnt see the level 37 but anyways:)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-01T23:08:23-05:00",
+   "body": "whats the minnimum level you have to be and also why would a level 40 want any of these items?  to disenchant or what",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-20T10:32:17-06:00",
+   "body": "I soloed this as a lvl40 warrior, and I didn't need any water breathing.  I managed to find all nine clams, here's the coords:\n\n26,23\n25,24 (Guarded)\n27,27\n25,27\n25,28 (Guarded)\n24,29 (Guarded)\n28,29\n25,31\n25,29\n\nThe clam at 25,24 was guarded by an oracle, while the other two had warriors.  Level 35-36 elites for the most part.",
+   "replies": [
+    "26,24\n23,29\n27,29\n27,25"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-22T00:01:30-06:00",
+   "body": "so..i saw a friend doing this quest...and while i was doing the curse of tides i also collected about 20 blue pearls at lvl 40. kept them until i got to badlands. Best with a 30 min. waterbreathing potion and the lvl 35-17 elite murlocs are quite nasty...but they will not aggro on you too much.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-10T00:01:40-06:00",
+   "body": "Right the c-ords are great  and all, but can someone tell me WHERE the Vile Reef itself is please? Can't find the damn area to search.",
+   "replies": [
+    "Stranglethorn Vale, on the coast"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-16T14:49:33-05:00",
+   "body": "If you're attempting the completion of  early, this is a non-exhaustive list of lootable clams that aren't near mobs. Tested at level 30, results may vary depending on the player pull radius.\r\nHappy wanding priests!\r\n\r\n/way #1434 24.58 30.17\r\n/way #1434 26.88 30.83\r\n/way #1434 25.87 27.34\r\n/way #1434 26.09 22.95\r\n/way #1434 27.04 22.46\r\n/way #1434 27.33 27.94\r\n/way #1434 26.54 29.41\r\n/way #1434 24.13 26.90\r\n/way #1434 23.96 24.56\r\n/way #1434 23.68 24.43\r\n/way #1434 25.67 22.90",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-12T16:15:35-06:00",
+   "body": "After the 2.0 patch the rep is 350 with Booty Bay and -350 with the Bloodsail Buccaneers",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-07T18:37:22-06:00",
+   "body": "That's a big waste of time, IMO. If you can buy the Blue Pearls, or if you can do it before you have the quest, do it.\r\nThe XP is good though, that's the only good point of this quest.\r\n\r\nBut if you don't have Underwater Breath, or any \"breathable\" potions, you'll find this quest boring as hell.\r\n\r\nJust an advice from someone who has just done it.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-12T17:38:11-05:00",
+   "body": "Any cords on where they might be atleast^^",
+   "replies": [
+    "Precisely... -_-"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-13T23:12:05-05:00",
+   "body": "I dunno, maybe the area was farmed before I got there, but I found only 2 clams in about an hour. During this time I was able to get all 10 Encrusted Tail Fins. So, noticing that Blue Pearls were a Trade Goods item.... I stopped by AH and bought the other 7.\n\nIMHO, getting them for yourself isn't worth the bother.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-01-07T05:51:39-06:00",
+   "body": "I went by a number of the coordinates listed here and despite their well-intentioned recording the quest is still a hide-and-seek.  The coordinates each cover an area which, while totally visible on land, is mired with plants, rocks, hills, and reefs undersea.  Put it this way - if you like Easter Egg hunts, you'll love this.\n\nThe good news is that I counted at least 15 separate clam locations, so you are very likely to bump into 9 of them.  The general areas indicated by the coords are the most fruitful.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-05-18T18:52:26-05:00",
+   "body": "About the coords. I mean, the clams are like... Everywhere. And you don't have to kill the murlocs either if you don't feel to. I were looking for a Irridescent pearl, or what they are called, and got about 30 Blue Pearls... But it's boring. I had Aquatic form so I didn't need to breath but... It's -really- boring.",
+   "replies": [
+    "Or very relaxing, depending on your point of view."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2007-05-16T17:20:24-05:00",
+   "body": "The Pearls are found Underwater just next to Grom'Gol Base Camp, you may see a sunken ship in the water, go out to it, then do some diving and look for the Pearls.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2019-10-06T13:40:03-05:00",
+   "body": "If you are going to solo the quest you should be 40+ lvl. Murlocs are 35 lvl elite and they have around 200 dps. I died multiple times as lvl 38 feral. Ignore addons that shows it as lvl 37 quest. It's impossible as lvl 37 if you are not a mage ofc.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2006-01-23T06:34:44-06:00",
+   "body": "I went and grabbed the pearls on another character while doing the quest for him, tossed them on my 34, and was able to hand them in and get a new gun.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-02-02T01:59:15-06:00",
+   "body": "I found all the pearls in like 30mins, don't have quest yet but will let you know xp gain at lvl 38\nfound them by the vile reef in stranglethorn vile btw. good luck",
+   "replies": []
+  }
+ ]
+}

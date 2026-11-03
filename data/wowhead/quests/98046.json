@@ -1,0 +1,157 @@
+{
+ "id": 98046,
+ "name": "Crown of the Earth",
+ "level": 11,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 90,
+ "start": {
+  "type": "npc",
+  "id": 3516,
+  "name": "Arch Druid Fandral Staghelm",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    34.4,
+    8.4
+   ],
+   [
+    34.4,
+    8.6
+   ],
+   [
+    34.6,
+    8.4
+   ],
+   [
+    34.8,
+    8.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4092,
+  "name": "Lariia",
+  "zone": "Darnassus",
+  "zoneId": 1657,
+  "coords": [
+   [
+    40,
+    87.4
+   ],
+   [
+    40.2,
+    88.2
+   ],
+   [
+    40.2,
+    88.6
+   ],
+   [
+    40.6,
+    88.2
+   ],
+   [
+    40.6,
+    88.6
+   ],
+   [
+    41,
+    89.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Bring the Drained Vessel to Lariia in the Temple of the Moon in Darnassus. Drained Vessel (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 279291,
+   "name": "Drained Vessel",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  98046,
+  98065
+ ],
+ "points": [
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "start",
+   "type": 1,
+   "id": 3516,
+   "name": "Arch Druid Fandral Staghelm",
+   "coord": [
+    34.8,
+    8.8
+   ],
+   "coords": [
+    [
+     34.4,
+     8.4
+    ],
+    [
+     34.4,
+     8.6
+    ],
+    [
+     34.6,
+     8.4
+    ],
+    [
+     34.8,
+     8.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1657,
+   "zone": "Darnassus",
+   "point": "end",
+   "type": 1,
+   "id": 4092,
+   "name": "Lariia",
+   "coord": [
+    40.2,
+    88.2
+   ],
+   "coords": [
+    [
+     40,
+     87.4
+    ],
+    [
+     40.2,
+     88.2
+    ],
+    [
+     40.2,
+     88.6
+    ],
+    [
+     40.6,
+     88.2
+    ],
+    [
+     40.6,
+     88.6
+    ],
+    [
+     41,
+     89.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

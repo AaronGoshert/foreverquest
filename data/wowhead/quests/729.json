@@ -1,0 +1,341 @@
+{
+ "id": 729,
+ "name": "The Absent Minded Prospector",
+ "level": 20,
+ "reqlevel": 15,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 1150,
+ "start": {
+  "type": "npc",
+  "id": 2913,
+  "name": "Archaeologist Hollee",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    37.4,
+    41.8
+   ],
+   [
+    37.6,
+    41.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2917,
+  "name": "Prospector Remtravel",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    35.2,
+    84.8
+   ],
+   [
+    35.4,
+    84.4
+   ],
+   [
+    35.8,
+    83.6
+   ],
+   [
+    36.2,
+    85.4
+   ],
+   [
+    36.2,
+    86.2
+   ],
+   [
+    36.2,
+    86.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Travel south and check on Prospector Remtravel .",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2917,
+   "name": "Prospector Remtravel",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  730,
+  729
+ ],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 2913,
+   "name": "Archaeologist Hollee",
+   "coord": [
+    37.4,
+    41.8
+   ],
+   "coords": [
+    [
+     37.4,
+     41.8
+    ],
+    [
+     37.6,
+     41.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 2917,
+   "name": "Prospector Remtravel",
+   "coord": [
+    35.8,
+    83.6
+   ],
+   "coords": [
+    [
+     35.2,
+     84.8
+    ],
+    [
+     35.4,
+     84.4
+    ],
+    [
+     35.8,
+     83.6
+    ],
+    [
+     36.2,
+     85.4
+    ],
+    [
+     36.2,
+     86.2
+    ],
+    [
+     36.2,
+     86.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 30,
+   "date": "2005-09-30T20:04:41-05:00",
+   "body": "From Auberdine, travel south past the Grove of the Ancients until you come to The Master's Glaive. It's filled with lvl 18s but you can simply walk around it. To the west of the Master's Glaive, you'll find Remtravel's Excavation. I found Remtravel right at the entrance to the excavation.\n\nThe excavation has a lot of annoying 19s & 20s. The quest you get from Remtravel is to accompany him around the excavation while he looks for his underwear or something... Not a solo unless you're 20+ but could be done by 2 16-19s. Very annoying but 1150XP for finding Remtravel & lots more later in the series.\n\nWhen you get to the excavation, just ask if anyone might be willing to help you. If you're on a busy server, there will probably be someone near doing another quest (in the Grove of the Ancients there are about 3 or 4). Worked for me.",
+   "replies": []
+  },
+  {
+   "rating": 23,
+   "date": "2007-02-16T18:29:07-06:00",
+   "body": "35,84 for those with coords!",
+   "replies": []
+  },
+  {
+   "rating": 18,
+   "date": "2004-11-18T15:02:45-06:00",
+   "body": "Go south towards Ashenvale.  See the map below.\n\n[npc=2917]",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-09-30T20:04:41-05:00",
+   "body": "Found him @ 35.83",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-12-28T09:57:14-06:00",
+   "body": "Even if you can skip to Step 2, this step is worth 1150xp basically just for finding the guy. So I wouldn't recommend missing out on that.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-12-30T05:05:44-06:00",
+   "body": "If you're coming from Auberdine, the excavation (called Remtravel's Excavation), is on your right side, the west side - closer to the sea.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-09-30T20:04:41-05:00",
+   "body": "WEST of the Temple of the Moon.. I spent soooo long searching for him east.. got me annoying :P",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2004-12-01T23:24:49-06:00",
+   "body": "The key is to start not from the miner but from the other side of the pit. After slaughtering all the wood/stone robots, you can talk to the miner and then it's easy for two ppl to guard the old guy around the pit when he is studying the thing.",
+   "replies": [
+    "This may have worked for you but it did not work for me.  I killed everything in the pit but they respawned with a quickness once I started the quest.  I had grouped with a buddy and things were going pretty smoothly until the second set respawned and the prospector was overtaken.  \n\nI think starting the quest resets the mobs.  Just my observation.",
+    "I second this. I tried to clear out the area of mobs first, but not only did they respawn incredibly fast, but some mobs only show up to attack while the dwarf is actually walking around the place. "
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-30T20:04:41-05:00",
+   "body": "Southwest corner of zone to the west of the Temple. Loc 31,84",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-05-07T20:04:41-05:00",
+   "body": "I have yet to complete this quest. This is due to the fact I am only level 18. If I were you I would wait until I was at least level 21 before trying it solo. There are a lot of lever 19 and 20 monsters that the dumb-ass prospector picks fights with.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-18T08:04:41-06:00",
+   "body": "The Absent Minded Prospector: 35,83",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-09-01T12:58:01-05:00",
+   "body": "He died in 4 hits to a single mob. Take aggro asap.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-30T20:04:41-05:00",
+   "body": "What happens if you fail the quest?",
+   "replies": [
+    "\"Abandon Quest\" and he will spawn within&nbsp; minutes. The you can pick up the quest again."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-18T08:04:41-06:00",
+   "body": "I failed this quest, so abandoned it and headed back to Hollee. However, can't get the quest from him now. :( How can I retake it? Is the only way to join a group that already have the quest? Or will even that work?\n\nP.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-12-12T20:04:41-06:00",
+   "body": "If you're a healer type, I imagine that you can keep the prospector healed.&nbsp; However, I'm a solo Hunter (level 22) and failed the first time even though I had gone through the site beforehand and killed off all the golems.&nbsp; The problem was the ambushes by the Gnolls (or whatever) when the prospector entered the tents and other spaces while looking for his fossil.&nbsp; Two level 20s jumped out at him and one of them killed him while my pet was drawing aggro from the other.\n\nThe golems respawn so fast that by the time you clear out the camp, they have already started respawning again.\n\nSo unless you can heal or are very lucky, I recommend a group.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-18T08:04:41-06:00",
+   "body": "I tried to Solo as a lvl 23 Rouge.&nbsp; The Golems are easy, just dont loot the bodies, and it should stop them from rezzing faster.The Gnolls or whatever appear when the prospector is searching. Couldnt kill then fast enough before one killed the prospector..Not that hard, but a group or Hunter/Warlock should be able to do it solo.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-19T20:04:41-05:00",
+   "body": "Found right out side of sight. died once because it gets ahead of u. if u heal HEAL. prospecter is only lvl 16.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-12T20:04:41-06:00",
+   "body": "Soloed as a 18 Hunter, Use First Aid and/or potions ( realy helped ALOT ) ;-)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-23T20:04:41-06:00",
+   "body": "another easy quest....high teen and low 20 level.....the correct coords this run are..(Darkshore: 35, 83)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-23T20:04:41-06:00",
+   "body": "..becouse i have done solo 2 times as a Pal_22[pro/ret]and during that walk u need to take care of 1 out of 4 Ravager groups beside golems..the only 1 trully dangerous is lurking on the dead_end/turnover path..the Ravager is fire based [fireballs]\n\nthe rest is like poem =J",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-01T08:04:41-05:00",
+   "body": "If you failed the first attempt wait for the prospector to show back up... it takes a little while but he will show back up. Once he is back abandon the quest and he will offer it to you a second time.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-26T10:57:29-05:00",
+   "body": "hmmm from reading what your saying i wont do it yet then,im only lv 15 ¬__¬ it says obtained at 14 wtf argh oh well i know were he is i just cant get to it its by grove of ancients.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2004-12-03T17:23:41-06:00",
+   "body": "Listen to redoo.  Also, i found that i had to kill most of the stuff in the pit for him to appear.  That maybe that someone had just completed quest before i got there. Not sure.\n\nIn addition, its good to have about 3 people in grp...because as you are fighting the mob the miner aggros, it will switch aggro to you, then he will start moving again...so while you are killing he will aggro another mob, so the mob he aggros another member shud steal aggro from him so he wont die, so on and so on.  kinda like leap frog.\n\nIf you are over 20lvl you maybe able to kill mobs fast enough to keep up..dunno i wasnt....\n\nIn addition, if he dies, you can get quest again from him.  Kill the mobs in pit again then run back to entrance and shud have returned",
+   "replies": [
+    "You do not have to kill anything for him to appear.  He's always in the same spot right by the entrance, unless someone else is in the process of taking him through the quest."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2004-11-16T06:47:09-06:00",
+   "body": "Anybody have any additional info on where to go?\n\n- Sabriel -",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-11T03:39:30-05:00",
+   "body": "I've been having the same problem, I go and kill all the stone people, but the professor is so slow, they aggro too fast and then the stonesplitters come, so you need more than 1 person to handle this quest.  One question though, does anyone know where the fossil is?  Does the professor have to find it or can the player?  Just wondering, but if he has to find it, he sure takes his time.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-11T22:40:00-05:00",
+   "body": "Solo:ed it at 20, just let him agro the golems, then attack, he'll help.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-06T18:52:56-05:00",
+   "body": "No he does not have the fossil, but you have to complete the mission to find it",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-31T22:56:08-06:00",
+   "body": "loc 36, 84",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-03-10T19:22:20-05:00",
+   "body": "I am trying to pick this quest up, I am level 22. The quest giver Archaeologist Hollee does not have any quests to offer me. What am I missing? Anyone?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-28T21:31:05-05:00",
+   "body": "Can anybody tell me where to find the Flagongut's Fossil please in the Wetlands.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-11-17T09:21:27-06:00",
+   "body": "I want the dagger at the end of this series of quests, can I start the chain at 25? I believe grey quests are not even given to a player anymore",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2006-01-20T01:14:51-06:00",
+   "body": "stay on the grass rightbefor the sand and run the southern most of darkshire, youl run intot he excavation sight and hell be standing right infront of a big stone, cant miss him or the site the golems are level 18-20 i am a level 20 mage using my fireball i kill in 3-4 nukes per golem so easy kills, and at level 20 i got no less then 132 exp for a kill and no higher then 145 exp so its great exp too if your up to just fight for exp and not quest",
+   "replies": []
+  }
+ ]
+}

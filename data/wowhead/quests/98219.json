@@ -1,0 +1,122 @@
+{
+ "id": 98219,
+ "name": "The Shamed Lieutenant",
+ "level": 30,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 245,
+ "start": {
+  "type": "npc",
+  "id": 928,
+  "name": "Lord Grayson Shadowbreaker",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    37.2,
+    33
+   ],
+   [
+    37.6,
+    32.6
+   ],
+   [
+    48.4,
+    50
+   ],
+   [
+    48.6,
+    50
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2228,
+  "name": "Lieutenant Farren Orinelle",
+  "zone": "Hillsbrad Foothills",
+  "zoneId": 267,
+  "coords": [
+   [
+    51.4,
+    58.4
+   ],
+   [
+    51.4,
+    58.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Speak to Lieutenant Farren Orinelle in Southshore in Hillsbrad Foothills.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 2228,
+   "name": "Lieutenant Farren Orinelle",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 928,
+   "name": "Lord Grayson Shadowbreaker",
+   "coord": [
+    37.2,
+    33
+   ],
+   "coords": [
+    [
+     37.2,
+     33
+    ],
+    [
+     37.6,
+     32.6
+    ],
+    [
+     48.4,
+     50
+    ],
+    [
+     48.6,
+     50
+    ]
+   ]
+  },
+  {
+   "zoneId": 267,
+   "zone": "Hillsbrad Foothills",
+   "point": "end",
+   "type": 1,
+   "id": 2228,
+   "name": "Lieutenant Farren Orinelle",
+   "coord": [
+    51.4,
+    58.4
+   ],
+   "coords": [
+    [
+     51.4,
+     58.4
+    ],
+    [
+     51.4,
+     58.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

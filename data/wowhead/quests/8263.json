@@ -1,0 +1,42 @@
+{
+ "id": 8263,
+ "name": "Defiler's Basic Care Package",
+ "level": 34,
+ "reqlevel": 25,
+ "side": 3,
+ "zoneId": 3358,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 270,
+ "start": null,
+ "end": null,
+ "patch": "1.13.4.33920",
+ "objectiveText": "The Defilers  ( Friendly )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 20229,
+   "name": "Defiler's Basic Care Package",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2005-11-23T06:20:17-06:00",
+   "body": "Is it? Cos it wud be great... hehe, the bread and bandage is very useful.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-22T20:25:43-06:00",
+   "body": "Can anyone tell me how much XP you got for doing the quest?  And the level you were when you turned it in.  I am just about maxed out for 29 bracket and don't want to level up.  Blizzard has this quest in front of my ability to access the gear.",
+   "replies": []
+  }
+ ]
+}

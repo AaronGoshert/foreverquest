@@ -1,0 +1,139 @@
+{
+ "id": 274,
+ "name": "A Dark Threat Looms",
+ "level": 18,
+ "reqlevel": 16,
+ "side": 1,
+ "zoneId": 38,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 340,
+ "start": {
+  "type": "npc",
+  "id": 1073,
+  "name": "Ashlan Stonesmirk",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    50,
+    18.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1093,
+  "name": "Chief Engineer Hinderweir VII",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    46,
+    13.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Ashlan Stonesmirk wants you to return to Chief Engineer Hinderweir and inform him of the new discovery. Disarming Colloid (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1073,
+   "name": "Ashlan Stonesmirk",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 2609,
+   "name": "Disarming Colloid",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  250,
+  199,
+  161,
+  274,
+  278,
+  280,
+  283
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 1073,
+   "name": "Ashlan Stonesmirk",
+   "coord": [
+    50,
+    18.2
+   ],
+   "coords": [
+    [
+     50,
+     18.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "end",
+   "type": 1,
+   "id": 1093,
+   "name": "Chief Engineer Hinderweir VII",
+   "coord": [
+    46,
+    13.6
+   ],
+   "coords": [
+    [
+     46,
+     13.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 9,
+   "date": "2005-11-04T13:18:05-06:00",
+   "body": "Coords,\n\n[b]46,13[/b]&nbsp; - Loch Modan\n\nAs the above post mentions, he is standing in the middle of the Stonewrought Dam beneath a tent.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-09-29T01:18:05-05:00",
+   "body": "This little dude is on the Dam - he's right about in the middle.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-05T22:31:37-05:00",
+   "body": "For those of U with Coords he is at 46,13",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-30T14:42:13-05:00",
+   "body": "You get 340 exp. for this quest.",
+   "replies": [
+    "I'm having trouble on the ogre things, there all elites, i can kill maybe 1 at a time, but it's just awkward when you dont know were the crystal is located =\\\n",
+    "Check out the next quest in this series. I (and others) have posted useful information about it."
+   ]
+  },
+  {
+   "rating": -2,
+   "date": "2007-05-08T19:48:07-05:00",
+   "body": "For those without, after entering wetlands, take the second intersection to the north.  The turn will have a dwarf npc with a quest and a goblin vender.  Go north and right before you hit Thandol Span (the big bridge) you'll fine the dude.",
+   "replies": []
+  }
+ ]
+}

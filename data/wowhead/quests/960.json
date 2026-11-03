@@ -1,0 +1,139 @@
+{
+ "id": 960,
+ "name": "Onu is Meditating",
+ "level": 1,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 148,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 3616,
+  "name": "Onu",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    43.4,
+    76.2
+   ],
+   [
+    43.6,
+    76.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 3616,
+  "name": "Onu",
+  "zone": "Darkshore",
+  "zoneId": 148,
+  "coords": [
+   [
+    43.4,
+    76.2
+   ],
+   [
+    43.6,
+    76.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Completion I am meditating on your task, <name>.  Meditating on reasons why the Twilight's Hammer and naga are here. When you are ready, use the phial of scrying to create a scrying bowl.  Then, contact me through the bowl. If you have lost your phial of scrying , then here is another.",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5251,
+   "name": "phial of scrying",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "start",
+   "type": 1,
+   "id": 3616,
+   "name": "Onu",
+   "coord": [
+    43.6,
+    76.4
+   ],
+   "coords": [
+    [
+     43.4,
+     76.2
+    ],
+    [
+     43.6,
+     76.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 148,
+   "zone": "Darkshore",
+   "point": "end",
+   "type": 1,
+   "id": 3616,
+   "name": "Onu",
+   "coord": [
+    43.6,
+    76.4
+   ],
+   "coords": [
+    [
+     43.4,
+     76.2
+    ],
+    [
+     43.6,
+     76.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 4,
+   "date": "2006-12-27T10:54:28-06:00",
+   "body": "The subject says it all.",
+   "replies": [
+    "Nope. This quest exists to provide you with an additional bowl if, God forbid, you can't manage to advance to the next quest segment on the first 5 charges. :)\n\n[i][small]Edited, Oct  9th 2007  8:29am by Ytrill[/small][/i]"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-07T17:42:28-06:00",
+   "body": "This is in fact the quest \"The Twilight Camp\"",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-23T17:26:57-06:00",
+   "body": "As far as I can tell, if you get this message you have not completed the task in The Master's Glaive. I got this message when I didn't complete the task at hand.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-01T23:19:31-05:00",
+   "body": "I think that you can use too many of the scrying potions... i think this gives you a chanc to get more?  im past the point where i can see.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-11T11:44:01-05:00",
+   "body": "They left out the text, but this \"quest\" indeed exists only to give you more phials of scrying, just in case you feel the need to fill the landscape with bowls.",
+   "replies": []
+  }
+ ]
+}

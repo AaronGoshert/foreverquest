@@ -1,0 +1,538 @@
+{
+ "id": 1690,
+ "name": "Wastewander Justice",
+ "level": 43,
+ "reqlevel": 40,
+ "side": 3,
+ "zoneId": 440,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 3600,
+ "start": {
+  "type": "npc",
+  "id": 7407,
+  "name": "Chief Engineer Bilgewhizzle",
+  "zone": "Tanaris",
+  "zoneId": 440,
+  "coords": [
+   [
+    52.4,
+    28.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7407,
+  "name": "Chief Engineer Bilgewhizzle",
+  "zone": "Tanaris",
+  "zoneId": 440,
+  "coords": [
+   [
+    52.4,
+    28.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Take down 10 Wastewander Bandits and Thieves east of Gadgetzan, then report back to Chief Engineer Bilgewhizzle .   Wastewander Bandit slain  ( 10 )   Wastewander Thief slain  ( 10 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 5618,
+   "name": "Wastewander Bandits",
+   "count": 10,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 5616,
+   "name": "Wastewander Thief",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Wastewander Bandit slain",
+   "count": 10,
+   "type": "npc",
+   "id": 5618
+  },
+  {
+   "text": "Wastewander Thief slain",
+   "count": 10,
+   "type": "npc",
+   "id": 5616
+  }
+ ],
+ "series": [
+  1690,
+  1691
+ ],
+ "points": [
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "start",
+   "type": 1,
+   "id": 7407,
+   "name": "Chief Engineer Bilgewhizzle",
+   "coord": [
+    52.4,
+    28.4
+   ],
+   "coords": [
+    [
+     52.4,
+     28.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "end",
+   "type": 1,
+   "id": 7407,
+   "name": "Chief Engineer Bilgewhizzle",
+   "coord": [
+    52.4,
+    28.4
+   ],
+   "coords": [
+    [
+     52.4,
+     28.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "requirement",
+   "type": 1,
+   "id": 5616,
+   "name": "Wastewander Thief",
+   "coord": [
+    62.8,
+    30.4
+   ],
+   "coords": [
+    [
+     58.8,
+     23.4
+    ],
+    [
+     58.8,
+     23.6
+    ],
+    [
+     59.4,
+     24.8
+    ],
+    [
+     59.8,
+     23.8
+    ],
+    [
+     60.2,
+     22.4
+    ],
+    [
+     60.2,
+     22.6
+    ],
+    [
+     60.4,
+     24.6
+    ],
+    [
+     60.6,
+     23.4
+    ],
+    [
+     60.6,
+     24.6
+    ],
+    [
+     60.8,
+     24.2
+    ],
+    [
+     62.8,
+     30.4
+    ],
+    [
+     62.8,
+     30.6
+    ],
+    [
+     63.2,
+     32.4
+    ],
+    [
+     63.2,
+     32.6
+    ],
+    [
+     63.2,
+     34
+    ],
+    [
+     63.4,
+     29.4
+    ],
+    [
+     63.6,
+     29.6
+    ],
+    [
+     63.6,
+     32.8
+    ],
+    [
+     63.6,
+     34
+    ],
+    [
+     63.8,
+     31
+    ],
+    [
+     63.8,
+     31.6
+    ],
+    [
+     64,
+     29.2
+    ],
+    [
+     65.2,
+     32.8
+    ],
+    [
+     65.2,
+     33.6
+    ],
+    [
+     65.4,
+     32.2
+    ],
+    [
+     65.6,
+     32.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "requirement",
+   "type": 1,
+   "id": 5618,
+   "name": "Wastewander Bandit",
+   "coord": [
+    62.8,
+    30.4
+   ],
+   "coords": [
+    [
+     58.8,
+     23.4
+    ],
+    [
+     58.8,
+     23.6
+    ],
+    [
+     59.4,
+     24.8
+    ],
+    [
+     59.8,
+     23.8
+    ],
+    [
+     60.2,
+     22.4
+    ],
+    [
+     60.2,
+     22.6
+    ],
+    [
+     60.4,
+     24.6
+    ],
+    [
+     60.6,
+     23.4
+    ],
+    [
+     60.6,
+     24.6
+    ],
+    [
+     60.8,
+     24.2
+    ],
+    [
+     62.4,
+     33.2
+    ],
+    [
+     62.8,
+     30.4
+    ],
+    [
+     62.8,
+     30.6
+    ],
+    [
+     63.2,
+     32.4
+    ],
+    [
+     63.2,
+     32.6
+    ],
+    [
+     63.2,
+     34
+    ],
+    [
+     63.4,
+     29.4
+    ],
+    [
+     63.6,
+     29.6
+    ],
+    [
+     63.6,
+     31.2
+    ],
+    [
+     63.6,
+     31.6
+    ],
+    [
+     63.6,
+     32.8
+    ],
+    [
+     63.6,
+     34
+    ],
+    [
+     63.8,
+     29.2
+    ],
+    [
+     65.2,
+     32.6
+    ],
+    [
+     65.2,
+     33.6
+    ],
+    [
+     65.4,
+     32.2
+    ],
+    [
+     65.6,
+     32.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 102,
+   "date": "2005-10-13T12:57:58-05:00",
+   "body": "63,32",
+   "replies": [
+    "concise and straight to the point. this is what thottbot is for! i love it. Thankyou. and yes, yes I am going way over the top with this!"
+   ]
+  },
+  {
+   "rating": 25,
+   "date": "2005-02-03T04:32:39-06:00",
+   "body": "I completed this quest at level 42, and I got 3600 XP and an \"increase\" in Gadgetzan reputation.",
+   "replies": []
+  },
+  {
+   "rating": 24,
+   "date": "2007-03-08T12:57:58-06:00",
+   "body": "For those that do have Cosmos the coords are:\n60,24 for Bandits and a few Thiefs.\n63,32 for more Thiefs than bandits with a few mages.\n\nFor those without Cosmose:\nGo out the West gate at Gadgetzan and follow the mountains Northeast. You'll see some ruins,Noonshade,in the distance.&nbsp; That's the location for Bandits and a few thiefs. After you clear that camp head Southwest and you will see a water tower off in the distance.&nbsp; That is the location for more Thiefs than bandits with mages.&nbsp; Remember this location because you'll need it for the next part of this chain.\n\nHope that helps.",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2006-10-07T02:50:16-05:00",
+   "body": "These guys are all around south of Steamwheedle port, near the coords 62,35-ish. I soloed this as a 41 Human Mage. Pretty easy to do even if you accidentally pull several at a time. It seemed to me that bandits are much more prevalent than thieves.",
+   "replies": [
+    "I found them at 63,33."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2019-10-28T07:42:42-05:00",
+   "body": "[Classic] Both of the quest mobs share spawns with one another plus some Shadow Mages. Kill the others too rather than running around mindlessly looking for spawns you need.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-01-31T00:57:58-06:00",
+   "body": "i found a lot more mobs around 63,30",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-08-01T12:57:58-05:00",
+   "body": "lol i was looking for ages,&nbsp; but they were only 2 mins away, just go to the noonshade ruins east of Gadzetan and west of Steamwheeldle Port right in the middel of the 2 is a camp full of both targets \n\nHappy Hunting \n\n:D",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-12-31T20:45:16-06:00",
+   "body": "When I did this I farmed the mobs at about 60.24 in the ruins. Often you will get either thieves or bandits faster than the other kind, and you may want to get respawns. It seems to be random whether thieves or bandits spawn, so kill both kinds, as they are very nice grinding targets anyhow.\n\nYou might wanna pick up the wastewander pouches both for the quest, and for turn-ins at Gadgetzan.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-11-19T00:57:58-06:00",
+   "body": "I found them at Noonshade Ruins East of Gadz.\n\nHope that helps on coords.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-11-19T00:57:58-06:00",
+   "body": "East of Gadgetzen. I did this quest solo and found them all there. Don't do this for the next quest however. :P",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-11-19T00:57:58-06:00",
+   "body": "60,24 are the cosmos coords",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-03-08T12:57:58-06:00",
+   "body": "I love people who say they can't run addons. Anyone who can run wow and says they can't run addons is lying or is a moron. To run a tiny coordinate addon takes a miniscule amount of system resources, and if you have enough to run wow, you have enough to run the addon.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-04-17T09:41:43-05:00",
+   "body": "Doing it at lvl 43, easy quest, good xp, good item drops. Love it.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-04-11T11:02:23-05:00",
+   "body": "around 63,32 with cosmos coordinates",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-14T00:57:58-05:00",
+   "body": "For those of you without coords...\n\nYou can find some thieves and bandits at noonshade ruins directly east of Gadgetztan as some people said already.&nbsp; \n\nBut you can also find more further east and slightly south of noonshade right before you get to steamwheel port.&nbsp; There are also more south of those mobs.&nbsp; Just look for the tents and check around the tents.&nbsp; I think the area is called Waterspring something.&nbsp; Good luck.&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-26T00:57:58-05:00",
+   "body": "Follow the road east out of Gadgetazan until you're almost to Steamwheedle Port.&nbsp; Directly south of the road these guys spawn in pretty decent numbers.&nbsp; They are pretty hard to miss.\n\nHappy hunting!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-07T00:57:58-05:00",
+   "body": "59,23",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-10-13T12:57:58-05:00",
+   "body": "64.32 more thief\n60.25 bandit",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-12-25T12:57:58-06:00",
+   "body": "The tower at 63,31 has a bunch around it and around this area usually near the warlock ones.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-08T12:57:58-06:00",
+   "body": "Level 48 Druid, Horde... I've killed about 8 of the guys and so far haven't gotten credit for one kill. Anyone else having this problem?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-13T12:57:58-05:00",
+   "body": "Coordinates for these guys are 60,24.&nbsp; Locations of areas for those without coordinates is Noonshade ruins, Waterspring field and Wavestrider beach.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-08T12:57:58-06:00",
+   "body": "Found them at&nbsp; Noonshade Ruins (60,24)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-14T05:45:58-05:00",
+   "body": "All the guys you need are at the coords given above (due east of Gad, just before you reach the coast, if you don't have the coords addon). Most;y easy to pull the guys you need, they don't mob too much. Only watch for the guy who breaks off and runs off to get his buddies - I let that happen once or twice.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-26T18:34:37-05:00",
+   "body": "Level 40 feral druid; ain't such a hard quest when critting a bit. +5 Gadgetzan rep every kill. Suggest you combine this quest with the water pouch quest, the drop rate is low but you need the kills anyway..",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-09T17:32:44-05:00",
+   "body": "Sucks that you can't obtain this quest till 40, the mobs are 40-41, with the occasional 42",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-01T19:06:03-05:00",
+   "body": "Bandits (60,25) Noonshade Ruins (pattern drop)\nThieves (64,33) Waterspring Field\n3600 Xp (+ about 250 each kill)\n100 Rep w/Gadgetzan increase (+ 5 per kill)\n60 silver\nSolo'd this as a 41 Holy Priest, np.\nKeep all the waterpouches to turn in to Spigot Operator Luglunker. He takes them 5 at a time (repeatable) in exchange for \"carepackage\" which is basically pumpkins, or moonberry juice.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-19T13:22:38-05:00",
+   "body": "I had a great drop rate. By half way through the mobs I had all of the Pouches I needed. ^^",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-05-19T05:20:09-05:00",
+   "body": "a manageable quest, do take note not to sell the pouches though, just keep them to finish the first pouch quest provided by the same questgiver. you could choose to sell the leftovers, since the rewards for the pouch quest (if you repeat it, that is) does not give exp, just rep and the crate. your choice, anyhow.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-08-01T12:57:58-05:00",
+   "body": "Well theres alot of both parts at the noonsahde ruin\n\nCods '' 60,25''\n\nGood luck mobs lvl 40-43",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-07-23T14:35:44-05:00",
+   "body": "confirmed on coordinates 63,32\n2900xp\n60s\nrep with Gadgetzan increased",
+   "replies": []
+  }
+ ]
+}

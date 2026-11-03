@@ -1,0 +1,296 @@
+{
+ "id": 95212,
+ "name": "Never Saddle on Quality",
+ "level": 10,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 630,
+ "start": {
+  "type": "npc",
+  "id": 1265,
+  "name": "Rudra Amberstill",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    63,
+    49.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1265,
+  "name": "Rudra Amberstill",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    63,
+    49.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect 6 Pristine Leopard Pelts and deliver them to Amberstill Ranch. Pristine Leopard Pelt  ( 6 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 267414,
+   "name": "Pristine Leopard Pelts",
+   "count": 6,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Pristine Leopard Pelt",
+   "count": 6,
+   "type": "item",
+   "id": 267414
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 1265,
+   "name": "Rudra Amberstill",
+   "coord": [
+    63,
+    49.8
+   ],
+   "coords": [
+    [
+     63,
+     49.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1265,
+   "name": "Rudra Amberstill",
+   "coord": [
+    63,
+    49.8
+   ],
+   "coords": [
+    [
+     63,
+     49.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 260157,
+   "name": "Elder Snow Leopard",
+   "coord": [
+    72.8,
+    55.3
+   ],
+   "coords": [
+    [
+     71.4,
+     53
+    ],
+    [
+     71.4,
+     62
+    ],
+    [
+     71.6,
+     53
+    ],
+    [
+     71.6,
+     61.6
+    ],
+    [
+     71.8,
+     53.6
+    ],
+    [
+     71.8,
+     61.4
+    ],
+    [
+     72.2,
+     59.2
+    ],
+    [
+     72.2,
+     60
+    ],
+    [
+     72.3,
+     54.6
+    ],
+    [
+     72.4,
+     55.8
+    ],
+    [
+     72.6,
+     55.6
+    ],
+    [
+     72.6,
+     60.4
+    ],
+    [
+     72.8,
+     55.3
+    ],
+    [
+     73.2,
+     60.6
+    ],
+    [
+     73.4,
+     52.6
+    ],
+    [
+     73.4,
+     54.2
+    ],
+    [
+     73.6,
+     54.2
+    ],
+    [
+     73.6,
+     54.6
+    ],
+    [
+     73.6,
+     61
+    ],
+    [
+     74,
+     52.4
+    ],
+    [
+     74,
+     52.8
+    ],
+    [
+     75.4,
+     56.2
+    ],
+    [
+     75.4,
+     56.6
+    ],
+    [
+     75.6,
+     56.6
+    ],
+    [
+     75.8,
+     56.4
+    ],
+    [
+     75.8,
+     61.4
+    ],
+    [
+     75.8,
+     61.8
+    ],
+    [
+     76.4,
+     58
+    ],
+    [
+     76.8,
+     58
+    ],
+    [
+     77,
+     57.2
+    ],
+    [
+     77.8,
+     61
+    ],
+    [
+     78,
+     60
+    ],
+    [
+     78.3,
+     58.7
+    ],
+    [
+     78.4,
+     56.4
+    ],
+    [
+     78.4,
+     56.8
+    ],
+    [
+     78.6,
+     57
+    ],
+    [
+     78.8,
+     55.4
+    ],
+    [
+     79,
+     55.6
+    ],
+    [
+     81,
+     55
+    ],
+    [
+     81,
+     57.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-20T16:29:42-05:00",
+   "body": "The drop rate for this quest was the worst out of any Dun Morogh quest I did in the beta, but it was still quite trivial to complete. I personally found it best to complete this alongside [quest=95214] and [quest=96390], as all quests take place roughly in the same area.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-27T19:54:31-05:00",
+   "body": "Based upon the spawn rate of the Leopards, they should drop about 45 Pelts per kill.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-28T09:47:40-05:00",
+   "body": "Do the leopards share spawn points with other mobs or something? There's a million boars and a million troggs but barely any leopards.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-08T09:52:15-05:00",
+   "body": "This quest was miserable! The drop rate is horrible and the leopards just don't spawn that much.",
+   "replies": []
+  }
+ ]
+}

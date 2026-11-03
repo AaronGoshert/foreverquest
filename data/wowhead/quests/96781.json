@@ -1,0 +1,127 @@
+{
+ "id": 96781,
+ "name": "What's the Big Idea?",
+ "level": 36,
+ "reqlevel": 24,
+ "side": 3,
+ "zoneId": -162,
+ "reqclass": 8,
+ "status": "new",
+ "xp": 2800,
+ "start": {
+  "type": "npc",
+  "id": 13085,
+  "name": "Myrokos Silentform",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    85,
+    80.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 13085,
+  "name": "Myrokos Silentform",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    85,
+    80.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Steal Barton's Scouting Report by pickpocketing it from him. Then, bring the report to Myrokos Silentform at Ravenholdt Manor. Barton's Scouting Report  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 275482,
+   "name": "Barton's Scouting Report",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Barton's Scouting Report",
+   "count": 1,
+   "type": "item",
+   "id": 275482
+  }
+ ],
+ "series": [
+  96781,
+  96782
+ ],
+ "points": [
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 13085,
+   "name": "Myrokos Silentform",
+   "coord": [
+    85,
+    80.4
+   ],
+   "coords": [
+    [
+     85,
+     80.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 13085,
+   "name": "Myrokos Silentform",
+   "coord": [
+    85,
+    80.4
+   ],
+   "coords": [
+    [
+     85,
+     80.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-06T21:30:26-05:00",
+   "body": "He is at 63, 44 in Alterac Valley, inside a house in Strahnbrad. Just have to pickpocket him, there are other stealthed mobs around so be careful if you're a lower level.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2026-10-09T02:38:16-05:00",
+   "body": "Definitely have master of deception if you are below his level. If not, you can distract him, pop vanish for the improved stealth and move up behind him to pickpocket safely.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2026-10-12T16:04:50-05:00",
+   "body": "Did at level 29, 3/3 Master of Deception. I ran out of flash powder so i could not vanish, it took maybe 12 tries of using distract and not missing and then pick pocketing without it missing.\r\n\r\nJust do it at 30 or bring a Flash powder for vanish for improved stealth.",
+   "replies": [
+    "Same here, pick pocket missed 5x so it took quite some time waiting for vanish resets"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-16T22:45:03-05:00",
+   "body": "Lvl 27 Rouge & 30 Druid. Druid sits there and tank while rouge trys over and ove4r until he gets it worked like a charm.",
+   "replies": []
+  }
+ ]
+}

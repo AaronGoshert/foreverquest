@@ -1,0 +1,172 @@
+{
+ "id": 669,
+ "name": "Sunken Treasure",
+ "level": 40,
+ "reqlevel": 35,
+ "side": 3,
+ "zoneId": 45,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 3150,
+ "start": {
+  "type": "npc",
+  "id": 2610,
+  "name": "Shakes O'Breen",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    32.2,
+    81.4
+   ],
+   [
+    32.2,
+    81.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2487,
+  "name": "Fleet Master Seahorn",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    27.2,
+    77
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Take the Sample Elven Gem to Fleet Master Seahorn in Booty Bay. Sample Elven Gem (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 4502,
+   "name": "Sample Elven Gem",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  665,
+  666,
+  668,
+  669,
+  670
+ ],
+ "points": [
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "start",
+   "type": 1,
+   "id": 2610,
+   "name": "Shakes O'Breen",
+   "coord": [
+    32.2,
+    81.4
+   ],
+   "coords": [
+    [
+     32.2,
+     81.4
+    ],
+    [
+     32.2,
+     81.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "end",
+   "type": 1,
+   "id": 2487,
+   "name": "Fleet Master Seahorn",
+   "coord": [
+    27.2,
+    77
+   ],
+   "coords": [
+    [
+     27.2,
+     77
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 6,
+   "date": "2005-10-04T13:24:42-05:00",
+   "body": "Is this quest still bugged wit the reputation? (just found it by browsing the Arathi quests and not sure if its worth doing if it will screw my rep up!)",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-02-27T13:24:42-06:00",
+   "body": "Has anyone determined if this quest is still bugged?&nbsp; (Feb 06) I've been carying the quest item around for a while but the quest isn't worth a reputation drop if it's still bugged.",
+   "replies": [
+    "I can now confirm that it has been fixed"
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2005-04-26T04:08:33-05:00",
+   "body": "I did this quest on 4/25/2005 and got positive faction for Booty Bay and negative faction change for Bloodsail Buccaneers.\n\nIt appears it has been fixed/",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-04T13:24:42-05:00",
+   "body": "Same happened to me, incresed and then greatly decresed my standing with Booty Bay.&nbsp; I personally believe this is an error and it should have increased reputation with Booty Bay, and greatly decresed reputation with the Bloodsail Buccaneers.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-06-17T01:24:42-05:00",
+   "body": "03/06/06\nI'v just done the q'st and it worked fine.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-04T13:24:42-05:00",
+   "body": "I just did this quest and it said, \"Your reputation in Booty Bay has increased.\" then said \"Your reputation in Booty Bay has greatly decreased.\" (instead of Bloodsail Buccaneers) anyone else notice that when doing this quest? It took a damned big chunk off---not even friendly to them anymore.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-04T13:24:42-05:00",
+   "body": "Still the same on March 3, an increase and great decrease with Booty Bay, one right after another.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-04T13:24:42-05:00",
+   "body": "Well,what the heck is going on with this Quest? I delivered the letter from Fleetmaster in BB to The Captain and Now he has another part--Says The Naga will be comming en Masse Up the River to Kill Him and Wants Me to \"Man the Cannon\" to Hold them off and Kill them. What damn CANNON? I suppose its One on the Ship--but WHICH One? And How Do You Fire off the Cannon anyways? I did Not get a \"Completed\" on this set of Quests. Dunno Whats Happening. Anyone Know HOW You are Supposed to Complete this Quest?",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-11T19:51:12-06:00",
+   "body": "Since when does this give Aldor and Scryer rep?  Smells a mistake.",
+   "replies": [
+    "This is no mistake. I am playing a BE paladin and did this quest. On my way to the Aldor-Inn in Shattrath City i got banished from the city... I was surprised, cause I never did any Quests for Aldor or scryer reputation(I was lvl54 at this time ;) ). My reputation panel confirms this as I gained 250 reputation with The Scryers.  looks like a bug though.."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-01-23T03:54:07-06:00",
+   "body": "Just a warning if anyone's reading: I just finished this quest and the reputation adjustments are bugged. Your reputation with BB increases, then it greatly decreases (supposed to be bloodsail bucaneers). Watch for fix message in the next patch, I did bug report the issue.\n\nEdited, Sat Jan 22 21:54:09 2005",
+   "replies": [
+    "Confirmed as bugged as of 2/6/05.  And I was just getting near honorable too :(\n\nEdited, Sun Feb  6 13:41:23 2005",
+    "As of March 20th, 2005. The reputation bug has still gone unfixed."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,756 @@
+{
+ "id": 1083,
+ "name": "Enraged Spirits",
+ "level": 26,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": 406,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2100,
+ "start": {
+  "type": "npc",
+  "id": 4080,
+  "name": "Kaela Shadowspear",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59.8,
+    66.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 4080,
+  "name": "Kaela Shadowspear",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59.8,
+    66.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 8 Smoldering Embers from any of the fire elementals in the Charred Vale to Kaela Shadowspear in Stonetalon. Smoldering Embers  ( 8 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5659,
+   "name": "Smoldering Embers",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Smoldering Embers",
+   "count": 8,
+   "type": "item",
+   "id": 5659
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 4080,
+   "name": "Kaela Shadowspear",
+   "coord": [
+    59.8,
+    66.8
+   ],
+   "coords": [
+    [
+     59.8,
+     66.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 4080,
+   "name": "Kaela Shadowspear",
+   "coord": [
+    59.8,
+    66.8
+   ],
+   "coords": [
+    [
+     59.8,
+     66.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 4036,
+   "name": "Rogue Flame Spirit",
+   "coord": [
+    36.8,
+    60.4
+   ],
+   "coords": [
+    [
+     33.4,
+     63.4
+    ],
+    [
+     33.4,
+     63.8
+    ],
+    [
+     33.8,
+     63.4
+    ],
+    [
+     33.8,
+     63.8
+    ],
+    [
+     34.2,
+     64.6
+    ],
+    [
+     34.4,
+     59.4
+    ],
+    [
+     34.4,
+     60
+    ],
+    [
+     34.4,
+     60.6
+    ],
+    [
+     34.6,
+     59.2
+    ],
+    [
+     34.6,
+     60
+    ],
+    [
+     34.6,
+     60.6
+    ],
+    [
+     35.2,
+     53.4
+    ],
+    [
+     35.2,
+     53.6
+    ],
+    [
+     35.6,
+     47.4
+    ],
+    [
+     35.6,
+     53
+    ],
+    [
+     35.8,
+     47.6
+    ],
+    [
+     36.4,
+     49.4
+    ],
+    [
+     36.4,
+     49.6
+    ],
+    [
+     36.4,
+     51.4
+    ],
+    [
+     36.4,
+     51.8
+    ],
+    [
+     36.4,
+     60.4
+    ],
+    [
+     36.6,
+     49.6
+    ],
+    [
+     36.6,
+     51.4
+    ],
+    [
+     36.6,
+     51.6
+    ],
+    [
+     36.8,
+     60.4
+    ],
+    [
+     37,
+     48.6
+    ],
+    [
+     37,
+     60.6
+    ],
+    [
+     37.2,
+     45.4
+    ],
+    [
+     37.2,
+     46.2
+    ],
+    [
+     37.2,
+     48.4
+    ],
+    [
+     37.3,
+     47
+    ],
+    [
+     42.3,
+     42.6
+    ],
+    [
+     42.7,
+     42.5
+    ],
+    [
+     43.4,
+     41.4
+    ],
+    [
+     43.4,
+     41.6
+    ],
+    [
+     43.6,
+     41.4
+    ],
+    [
+     43.6,
+     41.6
+    ],
+    [
+     44,
+     39.4
+    ],
+    [
+     44,
+     39.8
+    ],
+    [
+     44.4,
+     43.2
+    ],
+    [
+     44.8,
+     43.2
+    ],
+    [
+     45.4,
+     44
+    ],
+    [
+     45.6,
+     44
+    ],
+    [
+     66.4,
+     89.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 4037,
+   "name": "Burning Ravager",
+   "coord": [
+    35.2,
+    65.6
+   ],
+   "coords": [
+    [
+     28,
+     66.2
+    ],
+    [
+     28,
+     66.6
+    ],
+    [
+     28.2,
+     65.4
+    ],
+    [
+     28.4,
+     63.2
+    ],
+    [
+     28.4,
+     63.6
+    ],
+    [
+     28.6,
+     63.4
+    ],
+    [
+     28.6,
+     63.6
+    ],
+    [
+     28.6,
+     65.4
+    ],
+    [
+     28.6,
+     66.6
+    ],
+    [
+     28.8,
+     62.4
+    ],
+    [
+     28.8,
+     65.8
+    ],
+    [
+     30,
+     65.4
+    ],
+    [
+     30,
+     65.6
+    ],
+    [
+     30.4,
+     66.6
+    ],
+    [
+     31,
+     66.4
+    ],
+    [
+     31,
+     67.2
+    ],
+    [
+     31.2,
+     67.6
+    ],
+    [
+     32.4,
+     67.4
+    ],
+    [
+     32.4,
+     67.6
+    ],
+    [
+     32.6,
+     67.4
+    ],
+    [
+     32.6,
+     67.6
+    ],
+    [
+     34,
+     65.4
+    ],
+    [
+     34,
+     65.6
+    ],
+    [
+     35,
+     66.6
+    ],
+    [
+     35.2,
+     65.4
+    ],
+    [
+     35.2,
+     65.6
+    ],
+    [
+     35.6,
+     65.6
+    ],
+    [
+     36,
+     64.6
+    ],
+    [
+     36.2,
+     64.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 4038,
+   "name": "Burning Destroyer",
+   "coord": [
+    31.8,
+    70.8
+   ],
+   "coords": [
+    [
+     29.4,
+     72.4
+    ],
+    [
+     29.4,
+     72.6
+    ],
+    [
+     29.6,
+     72.2
+    ],
+    [
+     30,
+     73.6
+    ],
+    [
+     30.2,
+     73.2
+    ],
+    [
+     31.2,
+     69.8
+    ],
+    [
+     31.2,
+     73.4
+    ],
+    [
+     31.2,
+     73.6
+    ],
+    [
+     31.8,
+     70.8
+    ],
+    [
+     32,
+     70.4
+    ],
+    [
+     32,
+     72.6
+    ],
+    [
+     32.4,
+     73.6
+    ],
+    [
+     33.2,
+     74.4
+    ],
+    [
+     33.2,
+     74.6
+    ],
+    [
+     33.4,
+     70.4
+    ],
+    [
+     33.4,
+     70.6
+    ],
+    [
+     33.6,
+     70.4
+    ],
+    [
+     33.8,
+     71.4
+    ],
+    [
+     33.8,
+     71.6
+    ],
+    [
+     34.4,
+     72.6
+    ],
+    [
+     34.6,
+     72.4
+    ],
+    [
+     35.4,
+     73.4
+    ],
+    [
+     35.4,
+     73.6
+    ],
+    [
+     35.6,
+     73.4
+    ],
+    [
+     35.6,
+     73.6
+    ],
+    [
+     36,
+     72.2
+    ],
+    [
+     36.4,
+     71
+    ],
+    [
+     36.6,
+     71.2
+    ],
+    [
+     36.6,
+     71.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 20,
+   "date": "2006-07-15T07:06:31-05:00",
+   "body": "You must have lucked out, because I've been at it for about three hours total, and I've currently got four. I always hear Sida's Bag has a terrible drop rate and both of my characters got it first kill. I guess this is payback for that...",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2007-02-21T17:01:55-06:00",
+   "body": "The drop rate for the embers in this quest are stupidly rare... Be prepared to run around killing a bunch of fire elementals, which in themselves are a pain to kill due to being spread around with all the harpies :",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2004-12-22T18:50:53-06:00",
+   "body": "You can find fire elementals on the path down to the Charred Vale, or in the vale itself. The ones on the path are lower level (about 23) while those in the vale were 26-27.\n\nDrop rate was pretty good, about one per two kills, maybe a little better.",
+   "replies": []
+  },
+  {
+   "rating": 11,
+   "date": "2005-09-26T07:06:31-05:00",
+   "body": "This one became available after completing the Covert Ops quests.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2006-01-13T19:06:31-06:00",
+   "body": "Since I last did this quest, it appears to me that the drop rate has been increased. Don't neglect the two Fire Elementals outside the entrance to the Charred Vale near Mirkfallon Lake. They dropped two embers for me on the way into the Vale and another two on the way out, which is almost like a 200% rate.\n\nThe higher-level (27) Fire Destroyers near the Southern part of the Vale dropped nothing. Not even copper. Nada, and I killed each of them about three times as they respawn quickly. Just ignore them. The rate seems to increase as you head North through the Vale.\n\nMy 25 Druid got 2100XP and 20 Silver. Not bad for the level of difficulty.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-05-03T07:06:31-05:00",
+   "body": "The droprate is still really bad, and it appears there's at most 5-6 in the zone at the same time. I've run up and down the path and a little bit into the vale like 100 times now and I'm at 5/8. \n\nI thought the harpies was bad; this is even worse. \n\n2h and counting.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-12-08T07:06:31-06:00",
+   "body": "The charred vale is west of Mirkfallon Lake down the path. In Stonetalon Mountains",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-03-27T19:06:31-06:00",
+   "body": "I was able to get the Fire Embers in about 15 min. Just stick to this area 35, 57 and you should be good. Just keep running up and down that path and you&nbsp; will find enough elementals to complete with quest.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-04-07T12:06:43-05:00",
+   "body": "Droprate is indeed very bad.\r\n\r\nFollowup quest: https://www.wowhead.com/forever/quest=1082",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-04-21T07:35:19-05:00",
+   "body": "Have enraged me!..I have never spent so much time for so little reward!",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-04-21T07:35:19-05:00",
+   "body": "Uh... despite what everyone says, I got all 8 in 20 fire guys. LV27/28s and lv23/24/25s alike. I got some from each of them, took me maybe 40 minutes.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-04-30T10:28:07-05:00",
+   "body": "Drop rate is terrible.&nbsp; Bleh.&nbsp; 20 silver...it's worth it for me though.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-26T07:06:31-05:00",
+   "body": "My 25 Druid must have killed every flame elemental in the Charred Vale and 1 ember dropped from the guy outside the Vale. Has anyone else had such bad luck?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-12-08T07:06:31-06:00",
+   "body": "Plan on doing this for a good couple hours cause the drop rate is really low and the mobs don't spawn much either.",
+   "replies": [
+    "It looked to me that the droprate is somehow better just north of Charred Vale. Still they don�t spawn to often...\n\nLoc 36.50 or so... Got 4 in 6-7 mins..."
+   ]
+  },
+  {
+   "rating": 3,
+   "date": "2006-03-27T19:06:31-06:00",
+   "body": "Despite what people are saying the drop rate has not increased. I've put about 5 hours into this quest and so far I have 4 out of 8. The flame spirits usually drop nothing at all so don't pick up this quest. It is a total waste of time. Blizzard really knows how to suck it up on a lot of things lately.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-12-09T02:15:31-06:00",
+   "body": "FYI: You must complete \"Covert Ops - Alpha\" & \"Covert Ops - Beta\" which gets you \"Kaela's Update\" which unlocks this quest.\n\nI tried to access this one before I finished the quests for Gaxim and I was not able to obtain it.  I am a lev 32 Hunter, BTW so the level requirement wasn't an issue.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-11T02:03:53-05:00",
+   "body": "The Fire Elementals (called Rogue Flame Spirits) are immune to fire based attacks (duh) so if you are a Mage use cold or arcane based attacks to kill the Rogue Flame Spirits.\n\nYou can also make good use of the spell Fire Ward on this quest too.\n\nEdited, Sat Jun 10 20:57:38 2006",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2019-12-18T20:35:17-06:00",
+   "body": "I'm [i][b]not[/b][/i] saying there is causation, but I was getting nothing but empty loot windows on my Druid in Cat Form for an hour.  When I started switching out of Cat Form and holding down my Loot Key (to [i]prevent [/i]Auto Looting), my drop rate skyrocketed.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2021-03-01T23:39:25-06:00",
+   "body": "I did the quest at level 60, and the droprate is so awful, that I doubt it would make any difference if you are a level 60 or a level 25. This is one of the most boring quests you can do, because after killing maybe 10 mobs, you might get 1-2 quest items for doing it.\n\nEdit: After 30 minutes on this quest I had only 4/8 smoldering embers.\nEdit 2: Quest took maybe 45 minutes for a level 60 warrior. I only went for the fire elementals.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2021-03-31T19:42:18-05:00",
+   "body": "This quest after all these many years is still the same major pain to complete for so little reward.\r\nI was so frustrated after 2 hours on my hunter for having only 6 of the quest items. \r\nI'm not levelling any other chars through Stonetalon just because of this, it's a zone that I like, but no more, ever again!",
+   "replies": [
+    "I got 4/8 after 45 minutes on my 27 Holy Priest and all the other quests done with no major problems. I went back at 30 (from Desolace) to look around, killed one (no drop) and realized I'd need to spend another 30-45 minutes there killing random mobs just to get the chance of completing the quest for... 2,100 XP and 20S? Everybody's right - it really makes no sense unless you're hunting rares or really like the Charred Vale for some other reason."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-18T10:48:45-05:00",
+   "body": "Drop rate for me was about 25% but its a good grinding quest and the rep reward is nice",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-20T19:06:31-05:00",
+   "body": "Why cant blizzard fix this it took so long for so little. Other posters are right about running the path but still took almost 1.5 hours.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-10T19:44:27-06:00",
+   "body": "Low drop rate, be prepared to kill a lot of these. There are a few in the entrance canyon that are level 23ish (approx 37,43 to 37,53) and more all along the southern edge of the Charred Vale that are levels 24-26 (approx 27,70 to 37,70)\n\nGot drops from all versions of this fire elemental.\n\nI would do this quest with Retrival for Mauren (basilisks), Reclaiming the Charred Vale (harpies),and Wounded Ancients (corroded shrapnel)\n\nI am a level 29 Dwarf Paladin - not too much trouble solo but only 2 at a time at most...",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2019-10-20T15:36:48-05:00",
+   "body": "[Classic] Annoyingly, the elementals are spread throughout the vale and mixed in with all the other enemies there - basilisks, harpies and chimaera. If you've been questing in Stonetalon already you'll likely have more quests to kill other enemies in the vale, so if you combine the quests it's not really an issue. Drop rate was reasonable for me. As with most quests similar to this, the higher level enemies (which are found towards the southern border of the charred vale) likely have a better drop rate.\r\n\r\nThe enemies for this quest also drop the valuable [item=7068] which can sell for a couple of gold on the AH. Consequently, you'll probably stumble on some competition including higher level players - so watch your back on a PvP server.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-11-01T19:06:31-06:00",
+   "body": "I just finished this one.&nbsp; The drop rate is HORRIBLE, but eventually you'll get all eight.&nbsp; It took me a couple of days coming and going before I got it.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-11-01T19:06:31-06:00",
+   "body": "where are they? there are so few of them!",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-11-01T19:06:31-06:00",
+   "body": "is horrible\nanother boring evil random drop quest",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-05-03T07:06:31-05:00",
+   "body": "I did this quest and it only took me about 15 min.I killed 10 Rouge Spirits and 8 embers droped. It was pretty easy",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-07-15T07:06:31-05:00",
+   "body": "The drop rates must have increased. I got an ember once out of every 2 or 3 kills. Took me 15 minutes tops.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-13T19:06:31-06:00",
+   "body": "It took me 20 mins to get 'em\n\nHealyou\n23 Priest",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-05T19:58:04-06:00",
+   "body": "There is a lone Rogue Flame Spirit that wanders (37,61). So far, he's been dropping the quest item every time.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-12-20T05:14:57-06:00",
+   "body": "As already stated this is unlocked by doing the Kaela's Update, along with 'Wounded Ancients' it also unlocks 'Update for Sentinel Thenysil'\n\nSee further under 'Update for Sentinel Thenysil'",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-01-28T20:14:38-06:00",
+   "body": "The drop rate I got for these things wasn't as good as gaeolas'.  Mine was more like one every four or five.  It seemed to take forever. \nSpecial not to the miners out there:  If someone's already mining a vein that you're approaching, don't be an idiot and start mining the same one.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-04-30T07:39:11-05:00",
+   "body": "I have done this quest three times and each time its taken me about 5 to 6 kills to get one ember.",
+   "replies": []
+  }
+ ]
+}

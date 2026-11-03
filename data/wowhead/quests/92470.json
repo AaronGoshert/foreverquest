@@ -1,0 +1,231 @@
+{
+ "id": 92470,
+ "name": "Foul Matriarch",
+ "level": 5,
+ "reqlevel": 2,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 560,
+ "start": {
+  "type": "npc",
+  "id": 251366,
+  "name": "Aetheen of the Gales",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    42.6,
+    23.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251366,
+  "name": "Aetheen of the Gales",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    42.6,
+    23.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Slay 8 Ursera Scavengers and collect the head of the den mother, Urs'anah in Thendal Grove.   Ursera Scavenger slain  ( 8 ) Head of Urs'anah  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 250937,
+   "name": "Ursera Scavengers",
+   "count": 8,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 252665,
+   "name": "Head of Urs'anah",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Ursera Scavenger slain",
+   "count": 8,
+   "type": "npc",
+   "id": 250937
+  },
+  {
+   "text": "Head of Urs'anah",
+   "count": 1,
+   "type": "item",
+   "id": 252665
+  }
+ ],
+ "series": [
+  92464,
+  92465,
+  92469,
+  92470,
+  92472
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 251366,
+   "name": "Aetheen of the Gales",
+   "coord": [
+    42.6,
+    23.6
+   ],
+   "coords": [
+    [
+     42.6,
+     23.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251366,
+   "name": "Aetheen of the Gales",
+   "coord": [
+    42.6,
+    23.6
+   ],
+   "coords": [
+    [
+     42.6,
+     23.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 250937,
+   "name": "Ursera Scavenger",
+   "coord": [
+    35.6,
+    25.2
+   ],
+   "coords": [
+    [
+     35.4,
+     24.2
+    ],
+    [
+     35.4,
+     25
+    ],
+    [
+     35.6,
+     24.4
+    ],
+    [
+     35.6,
+     25.2
+    ],
+    [
+     35.6,
+     25.6
+    ],
+    [
+     35.8,
+     23.2
+    ],
+    [
+     36.8,
+     24
+    ],
+    [
+     37.2,
+     24.6
+    ],
+    [
+     37.4,
+     25.6
+    ],
+    [
+     37.4,
+     26.8
+    ],
+    [
+     37.6,
+     25.4
+    ],
+    [
+     37.6,
+     26
+    ],
+    [
+     38.2,
+     27.2
+    ],
+    [
+     38.2,
+     27.6
+    ],
+    [
+     38.6,
+     27.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 251115,
+   "name": "Urs'anah",
+   "coord": [
+    35.6,
+    26
+   ],
+   "coords": [
+    [
+     35.2,
+     25.4
+    ],
+    [
+     35.3,
+     24.2
+    ],
+    [
+     35.4,
+     25.6
+    ],
+    [
+     35.6,
+     25.2
+    ],
+    [
+     35.6,
+     26
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-21T05:47:38-05:00",
+   "body": "First quest in an actual cave, I think the cave is same as the old model used in Dun'Morogh but flipped over to the left.\nIf you are all alone in there and respawn is still high consider hearthstone out once done.\nProvides the first very good weapon upgrade as reward.",
+   "replies": []
+  }
+ ]
+}

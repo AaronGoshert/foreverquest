@@ -1,0 +1,80 @@
+{
+ "id": 94246,
+ "name": "Craftsman's Writ: Red Whelp Gloves",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 8305,
+  "name": "Kixxle",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    50.2,
+    37.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Red Whelp Gloves  ( 1 ) Red Whelp Gloves  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264046,
+   "name": "Craftsman's Writ: Red Whelp Gloves",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 7284,
+   "name": "Red Whelp Gloves",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Red Whelp Gloves",
+   "count": 1,
+   "type": "item",
+   "id": 264046
+  },
+  {
+   "text": "Red Whelp Gloves",
+   "count": 1,
+   "type": "item",
+   "id": 7284
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 8305,
+   "name": "Kixxle",
+   "coord": [
+    50.2,
+    37.8
+   ],
+   "coords": [
+    [
+     50.2,
+     37.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

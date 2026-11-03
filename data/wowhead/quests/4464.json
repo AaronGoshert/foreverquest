@@ -1,0 +1,120 @@
+{
+ "id": 4464,
+ "name": "Corrupted Songflower",
+ "level": 55,
+ "reqlevel": 48,
+ "side": 3,
+ "zoneId": 361,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": {
+  "type": "object",
+  "id": 174712,
+  "name": "Corrupted Songflower",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    40.1,
+    56.4
+   ],
+   [
+    40.2,
+    56.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "object",
+  "id": 174712,
+  "name": "Corrupted Songflower",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    40.1,
+    56.4
+   ],
+   [
+    40.2,
+    56.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Progress You have found a sickly, corrupted version of what appears to be a songflower plant.  A pungent, unhealthy odor emanates from the plant.  It desperately needs some sort of attention if it is to be turned back to normal. Cenarion Plant Salve  ( 2 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11516,
+   "name": "Cenarion Plant Salve",
+   "count": 2,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Cenarion Plant Salve",
+   "count": 2,
+   "type": "item",
+   "id": 11516
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "start",
+   "type": 2,
+   "id": 174712,
+   "name": "Corrupted Songflower",
+   "coord": [
+    40.2,
+    56.6
+   ],
+   "coords": [
+    [
+     40.1,
+     56.4
+    ],
+    [
+     40.2,
+     56.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 2,
+   "id": 174712,
+   "name": "Corrupted Songflower",
+   "coord": [
+    40.2,
+    56.6
+   ],
+   "coords": [
+    [
+     40.1,
+     56.4
+    ],
+    [
+     40.2,
+     56.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2005-03-29T04:24:59-06:00",
+   "body": "when u cleanse this plant, it gives u a buff +5% crit chance and +15 on all attributes. lasts 1 hour",
+   "replies": []
+  }
+ ]
+}

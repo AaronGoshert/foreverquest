@@ -1,0 +1,214 @@
+{
+ "id": 1371,
+ "name": "Gizmo for Warug",
+ "level": 35,
+ "reqlevel": 30,
+ "side": 3,
+ "zoneId": 405,
+ "reqclass": 0,
+ "status": "updated",
+ "xp": 2050,
+ "start": {
+  "type": "npc",
+  "id": 5398,
+  "name": "Warug",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    74.8,
+    68
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5398,
+  "name": "Warug",
+  "zone": "Desolace",
+  "zoneId": 405,
+  "coords": [
+   [
+    74.8,
+    68
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Maintain your reputation with the Magram, and bring an Advanced Target Dummy to Warug in the Magram Village in Desolace . Advanced Target Dummy  ( 1 )   Magram Clan Centaur  ( Friendly )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 4392,
+   "name": "Advanced Target Dummy",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Advanced Target Dummy",
+   "count": 1,
+   "type": "item",
+   "id": 4392
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "start",
+   "type": 1,
+   "id": 5398,
+   "name": "Warug",
+   "coord": [
+    74.8,
+    68
+   ],
+   "coords": [
+    [
+     74.8,
+     68
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "end",
+   "type": 1,
+   "id": 5398,
+   "name": "Warug",
+   "coord": [
+    74.8,
+    68
+   ],
+   "coords": [
+    [
+     74.8,
+     68
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 50,
+   "date": "2006-12-12T13:27:20-06:00",
+   "body": "you were interested in aquiring a dummy and you cant find on on AH AND you do not mind putting some money into it, then here's what you need: \r\n1 iron strut, 1 bronze framework, 1 gyrochronatom, 4 heavy leather, 1 Lvl 185 Engineer \r\n\r\nCant find that stuff you say? Here are the core elements: \r\n3 iron bars, 2 bronze bars, 1 gold bar, 4 heavy leather, 1 medium leather, 1 wool cloth \r\n\r\nGood luck and happy questing.",
+   "replies": []
+  },
+  {
+   "rating": 30,
+   "date": "2006-11-24T19:40:08-06:00",
+   "body": "This quest series continues with the quests \"Khan Shaka\" and finally \"Khan Hratha\"\r\n\r\nhttps://www.wowhead.com/forever/quest=1375\r\nhttps://www.wowhead.com/forever/quest=1381",
+   "replies": []
+  },
+  {
+   "rating": 29,
+   "date": "2007-04-08T16:12:42-05:00",
+   "body": "Both magram and gelkis suck, so just do the gelkis alliance.Thats why:\n1.Gelkis have better rewards.\n2.They have more sensible quests, as uthek is aiding her tribe while warug is just plain stupid and mean.\n3.Magram are actually easier to kill.Just watch for the pack runners.\n4.Gelkis chests in their caves you can loot when you are friendly with them.\n\nAll in all, centaurs suck.",
+   "replies": []
+  },
+  {
+   "rating": 26,
+   "date": "2006-06-20T16:12:42-05:00",
+   "body": "Why are you people confusing everyone? Coordinates for Warug are 75,68. I fyou don't know what you're talking about, please don't post!",
+   "replies": [
+    "finally a thottbot comment I can get behind. Preach!"
+   ]
+  },
+  {
+   "rating": 16,
+   "date": "2007-04-08T16:12:42-05:00",
+   "body": "&nbsp; &nbsp; ...Really. Warug asks for some stupid thing only skilled Engineers can make. I got mine by spamming the Trade Chat, and when I saw that after giving him the damned thing, he wanted me to kill some Khan, I just stopped. Sure I dd the next one but geez, what a lazy bum :D.\n&nbsp; &nbsp; If you want to stop here in this chain, it would be sensible. However, after leaving the Magram I saw that I had to go to STV. I didn't want to, so I clicked 'At War' on the Magram Rep Bar and turned around and started killing them.\n&nbsp; &nbsp; [b]I highly reccomend stopping here and turning traitor to helping the Gelkis. Take the Nijel's quest and the Gelkis quest chain, and you got yourself a good two more levels out of Desolace.[/b]",
+   "replies": []
+  },
+  {
+   "rating": 13,
+   "date": "2007-05-15T04:12:42-05:00",
+   "body": "I'm happy to make these for people at no charge, providing they send the mats.\n\nI play on Dunemaul as Gringel (alliance).\n\nThe mats list, for reference, are as follows:\n\nfour heavy leather\nthree iron bars\ntwo bronze bars\none gold bar\none medium leather\none wool cloth",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-10-08T04:12:42-05:00",
+   "body": "Looking at your local AH (That is were I ended up getting mine) or you can find and engineer with skill 185 or higher and have them make it for you.&nbsp; You can find the needed items to make it at the AH also.&nbsp; If you are a member of a guild, ask someone to help you, or if not, use the general chat area to ask for help in making it.&nbsp; Good look.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-12-20T04:12:42-06:00",
+   "body": "The easiest way to do this is find a engineer...",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-04-08T16:12:42-05:00",
+   "body": "As everyone is getting exited about Target Dummies can I point out that these will never seriously feature on the AH as you have to be an engineer to use them.&nbsp; If you are an engineer you can make them so why would you go to the AH to buy them!&nbsp; My alt has engineering but I dont put these on AH because they have no market. ( I am not enthusiastic about repeatedly losing my deposit).&nbsp; The hard word is - that this is a breeze for engineers or someone with a good guild profession organisation behind them.&nbsp; I suggest everyone else should consider abandoning the quest as it is not worth the effort.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-12-20T04:12:42-06:00",
+   "body": "hmm\nso to get the Advanced Target Dummy\ngo to AH and buy the Advanced Target Dummy \njust that! =)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-03-03T04:12:42-06:00",
+   "body": "First quest is in Nijel's Point this is the fourth quest.&nbsp; The first one brings you to friendly.&nbsp; All of them require you to stay friendly so you don't switch side to the Gelkis clan.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-06-24T20:08:29-05:00",
+   "body": "Bought the dummy in the AH in Orgrimmar, yup, expensive, but by this level one gold is not that terrible anymore. So on to the next quest, the head of Khan Shaka... \nDoing quests is sometimes more a collectors fest, instead of really getting lots of xp. \nGood luck!\nAldebaran on Llane",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-23T11:03:03-05:00",
+   "body": "If you were interested in aquiring a dummy and you cant find on on AH AND you do not mind putting some money into it, then here's what you need:\n1 iron strut, 1 bronze framework, 1 gyrochronatom, 4 heavy leather, 1 Lvl 185 Engineer\n\nCant find that stuff you say? Here are the core elements:\n3 iron bars, 2 bronze bars, 1 gold bar, 4 heavy leather, 1 medium leather, 1 wool cloth\n\nGood luck and happy questing.",
+   "replies": [
+    "I feel like I sold my soul to the devil when I took the first part of this quest...\"Brutal Politics\" Warug never seems to be satisfied, after returning to him with the broken crystal I knew even before turning the quest in he would want something else...Find your own doll Satan! Time for me to find a quest that is going to be lucrative, all I've done so far is piss off the Gelkis and turned myself into a slave for the Magram...Craziness! The drops were crap, some coinage and the occasional silk, every once in a great while you'd get a blue drop but if your grouped you have to roll and then cha"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-27T22:52:24-05:00",
+   "body": "I had to buy heavy leather and pay some hunter 2g to make this stupid thing. I guess I got lucky though, if i had bought mats myself it would have cost me around 5g or more. This was the biggest load of crap.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-06-01T22:00:09-05:00",
+   "body": "Yeah, everywhere I read it says that It can be bought in Ironforge. Just one problem, NOBODY SAYS WHO OR WHERE I CAN BUY IT! Wish people would clarify a little better.",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2019-09-15T16:38:00-05:00",
+   "body": "Current cost 60 silver on my server.",
+   "replies": [
+    "1g 80s on mine :("
+   ]
+  },
+  {
+   "rating": -6,
+   "date": "2005-03-16T16:58:07-06:00",
+   "body": "This has to go into my worst quest of all time notebook. I spent a few hours killing enough Gelkis clan centaur to get my reputation with the Magram to friendly, then got the Gizmo for Warug quest. By the time a friend made the advanced target dummy for me, my reputation with the Magram had changed back to neutral. I went back to mercilessly slay what must have been five-hundred Gelkis clan centaur (I'm not exaggerating here - I wiped all of them out from the cave to the camps at the top of the ridge about three times) only to get my reputation halfway through neutral before I gave up due to sheer boredom. This quest must be broken, if not it is the biggest waste of time you could ever imagine.",
+   "replies": [
+    "Hi mate, I do believe the quest has been updated.\nI took me only about half an hour to get a friendly rep. and im at the target dummy stage now (although there are not enough Kolkar centaurs) it is now a decent quest to do!\n"
+   ]
+  },
+  {
+   "rating": -9,
+   "date": "2005-03-31T09:16:05-06:00",
+   "body": "This is a stupid quest line. The rewards are absolutey not worth the effort. Don't waste your time with centaurs ans spending like 1 gold for this device on AH, even buying the ingredients for an engineer is useless considering the time you spent on this quest line. Go grinding, you get more xp, more money when selling the drops. Went 1/2 hr grinding = 20 silk = sold for around 90s on AH",
+   "replies": []
+  }
+ ]
+}

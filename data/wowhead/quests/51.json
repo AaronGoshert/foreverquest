@@ -1,0 +1,299 @@
+{
+ "id": 51,
+ "name": "Sweet Amber",
+ "level": 44,
+ "reqlevel": 40,
+ "side": 1,
+ "zoneId": 40,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 4650,
+ "start": {
+  "type": "npc",
+  "id": 239,
+  "name": "Grimbooze Thunderbrew",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    44.6,
+    80.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 239,
+  "name": "Grimbooze Thunderbrew",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    44.6,
+    80.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Bring a Sycamore Branch to Grimbooze Thunderbrew . A Sycamore Branch  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 742,
+   "name": "a Sycamore Branch",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "A Sycamore Branch",
+   "count": 1,
+   "type": "item",
+   "id": 742
+  }
+ ],
+ "series": [
+  48,
+  49,
+  50,
+  51,
+  53
+ ],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "start",
+   "type": 1,
+   "id": 239,
+   "name": "Grimbooze Thunderbrew",
+   "coord": [
+    44.6,
+    80.2
+   ],
+   "coords": [
+    [
+     44.6,
+     80.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 1,
+   "id": 239,
+   "name": "Grimbooze Thunderbrew",
+   "coord": [
+    44.6,
+    80.2
+   ],
+   "coords": [
+    [
+     44.6,
+     80.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 68,
+   "date": "2005-12-04T08:46:52-06:00",
+   "body": "while you're here, if you look above the pool in the south west corner of the map, you'll find the egg that you need for the egg-o-matic machine thingy in Gadgetzan.\nYou can't tell if its a good one till you get to Gadgetzan, and you can only carry one at a time...save yourself a trek and get one while you do this q.",
+   "replies": []
+  },
+  {
+   "rating": 49,
+   "date": "2005-01-14T04:33:20-06:00",
+   "body": "Sycamore Branch is dropped off a Cursed Sycamore Tree in Feralas, at Cosmos location 54,74\n\nAndreas",
+   "replies": [
+    "A cursed Scyamore tree is actually an elemental that walks around the area that Andreass mentioned. Did this part easy with a lvl 45 mage and a 44 warlock.\n\nIf you solo this quest be careful. There are a lot of 45 harpies around and you may get mobbed.",
+    "Hippogryphs not Harpies. Harpies are in a totally diffrent section."
+   ]
+  },
+  {
+   "rating": 25,
+   "date": "2007-03-31T10:58:58-05:00",
+   "body": "Cursed Sycamore in Feralas\r\n\r\nhttps://www.wowhead.com/forever/npc=5881",
+   "replies": []
+  },
+  {
+   "rating": 22,
+   "date": "2005-10-28T20:46:52-05:00",
+   "body": "i found him(the cursed sycamore) at 54,69",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2005-10-28T20:46:52-05:00",
+   "body": "Drops off a treant in Feralas called Cursed Sycamore.&nbsp; In the south-middle of the zone.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-02-15T08:46:52-06:00",
+   "body": "48 Hunter solo (with pet, natch).\n\n54,69 verified as good coords.\n\nRan mounted down into the hippo area, managed to avoid most of them and, by using Track Elementals, found Mr. Sycamore wandering around.\n\nMore through good luck than good planning, I only had to kill one hippo, then tapped Mr. Sycamore who charged valiantly (and died soon thereafter). The branch dropped just like clockwork.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-02-21T04:51:46-06:00",
+   "body": "I completed this at level 47, and I got 4650 XP and no reputation adjustment.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-04-29T08:46:52-05:00",
+   "body": "When you see a treant, make sure he's called Cursed Sycamore. I died a lot of times hunting down this other treant called Ancient Guardian (I think), and not only did he keep kicking my ass because he could heal, but it didn't even give me the drop. (Cursed Sycamore dropped on the first kill though.)",
+   "replies": [
+    "For people that don't have add ons that show the co-ords.\n\nFind the ogres at \"The Ruins of Isildien\" (my quotes) and staying on the west side of the ruins go to the back or to the base of the mountains. The small pond/lake is there. If as suggested you stay near lake and wait, the cursed sycamores wander close by. I had to kill one Frayfeather Patriach (lvl 46 hippogryph) who became interested in me.\n\nThe ruins can be found easily, as they are close to the road that runs through the map."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2005-04-11T16:39:27-05:00",
+   "body": "Wanders Frayfeather highlands for non cosmos folks",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-28T20:46:52-05:00",
+   "body": "54,69 good coords /tloc 54,69",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-02-15T08:46:52-06:00",
+   "body": "ty u so much i got the branch then listened to above n got the egg man u saved me so much time i ty tons *bows*",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-28T20:46:52-05:00",
+   "body": "He walk around the the area by the tree close to the lake in the south west.\n\nFound at 56,73.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-09-22T08:46:52-05:00",
+   "body": "It drops from a cursed sycamore that roams around the feral scare vale in feralas",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-28T20:46:52-05:00",
+   "body": "Lvl 41 druid solo.&nbsp; Ran on mount past everything til I got to him, ran up to the building near there where there werent any birds and killed the lvl 44 that followed me.&nbsp; Saw I was only 1000xp from 42 so I killed 2 more lvl 44s and lvled.&nbsp; Waitied til the treant got near and had no birds around and used moonfire to aggro him.&nbsp; The guy was easy, dropped faster than the birds did.&nbsp; Then I just hearthed out. :)\n\np.s. watch for the 46 elite, i almost aggro'd him by mistake >_<",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-28T20:46:52-05:00",
+   "body": "i did this as a lvl 45 disc/holy spec priest. i got on my mount and rode all the way down to the lake. if you hang around the lake (i had to wait around 10 min), eventually it passes by and you can pull it away from the hyppos a bit and kill it. i had the quest and the branch dropped the first time. i only had to kill 1 hyppo. quite easy.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-28T20:46:52-05:00",
+   "body": "The grifs were dense, so I ran to the side of a hill to get away and health/mana up.&nbsp; While sitting there a cursed sycamore walked by.&nbsp; So, I attacked it and got my branch with little trouble.\n\nMy suggested strategy:&nbsp; Instead of fighting your way through the grifs, find a nice spot and wait for one to come to you.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-23T20:46:52-06:00",
+   "body": "54,69 - yep, good coords\nactually he's non elite, 45 (or 44, forgot already)\nas long as you can avoid the birdies, he's easy",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-28T20:46:52-05:00",
+   "body": "I have killed the cursed sycamore three times now, and no branch.\nAnd yes, i have the quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-28T20:46:52-05:00",
+   "body": "I liked the sound of the pond idea. I went into the pond and came back out and thinned out the hippo,s and there was the sycamore. Not hard this way.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-29T08:46:52-05:00",
+   "body": "54,69 is about right, plenty of red Hippos around, so just watch out. Easy kill though, he went down in a few seconds and didn't do anything special.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-11T08:46:52-05:00",
+   "body": "the above message is spot on - I found the cursed sycamore near the ruins, killed it, the branch dropped, then i had to kill a gryphon - easy as a lvl 45 pala",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-11T08:46:52-05:00",
+   "body": "thats all good but the horde keep lynching the darned cursed sycamore's from me....but the above directions are spot on.....also loot a big egg from the hills here for research back in gadgetzen....double bonus :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-09T20:46:52-06:00",
+   "body": "Can it drop without you have the quest?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-07-22T19:57:55-05:00",
+   "body": "Easy! Go around the west side of the Ruins of Isildien in the south area of Feralas where the hippogriffs are. Theres a Cursed Sycamore that wanders around. DIFFERENT from an ELITE SYCAMORE that looks like it. Just kill and snatch the branch.",
+   "replies": [
+    "Yep - I just sat on the hill next to the highlighted points on the map, killed the odd Griff that came my way, sure enough the tree appeared...."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-02T01:21:31-05:00",
+   "body": "Responses here scared me into bringing a lvl 53 friend, but this would be completely soloable.\nI (43 Paladin) rode my mount all the way to the tree, by which time I'd lost all mobs who aggroed on the way. The tree was lvl 44 and easily soloable. While picking up the loot, I was attacked by a lvl 45 hippogryph, also easily soloable at my lvl.\n\nSo ride to the tree, kill it, kill any adds, pick the loot and HS back to Westfall.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-17T22:03:23-05:00",
+   "body": "Lies, foolishness and disinformation. No \"wandering elemental\" here. The only thing you'll get if you go in this area is zerged by birds.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-29T23:33:49-06:00",
+   "body": "two lvl 41 rogues managed this very easily. the tree came walking down the small incline towards the ruins, on his own, no mobs around.\nFYI, in the south west corner of the map, you'll see a little pool. On a ledge above it is the egg you need for that egg-o-matic machine in Gadgetzan. Since you can only carry one egg at a time, you might as well pick one up while you're here.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-08T19:28:22-06:00",
+   "body": "Cosmo coords are bascially right, although the sycamore does wander a bit. Tried this with my alt (NE warrior 45) Got mobbed by the flyin' nasties and died. SOooo I cheated? Left my alt's spirit next to the corpse. Then logged out, logged in my main (hunter 60, went to the spot, slaughtered everything that flew in the area. Logged my warrior back in,rezzed, took out the wandering sycamore and hearthed out. May not be purty but it got the desired results.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-04-16T04:15:09-05:00",
+   "body": "Did this one as a 40 feral druid, wasnt that hard, I killed 1 wandering tree dude wicht was hard because the low dmg I did was continuesly healed. The mob that I needed was actualy rlly easy, pulled him back to a corner without Hippogryphs and bled him dry. With charging into the high wilderniss on a mount, and then at the first time out of combat at the ruins, I stealthed.",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2006-02-23T14:24:41-06:00",
+   "body": "I completed this entire quest line with my lock at lvl 40, this part was the toughest :p",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2005-04-23T16:59:06-05:00",
+   "body": "This part is tough!\nThe area you need to reach at cosmos 54,74 it's crammed with aggressive gryphons.\nWhen I say crammed I really mean it.\nAs if not enough they wander around with no specific direction and they are level 45, 46, 47.\nAgain not only they attack you but they are able to cast \"hurricanes\" (you druids know what I mean).\nBy the way I was able to solo this as 44 NE druid.\nI was able to perceive only one Sycamore tree walking up and down.\nThis is what i suggest:\n\nwalk to the little pool/lake and stay there (I stealthed in cat form). There try to pull one at a time the 2 or 3 gryphons around you and wait for the walking tree to pass in front of you.\nAt that time pull it! (I used moonfire but any ranged attack will do).\nThe branch dropped from this first and only tree I killed.\n\nEdited, Sat Apr 23 12:59:59 2005",
+   "replies": [
+    "It drops 100% of the time if you have the quest. People have killed it many times without the quest, which is why the drop rate says is 11%. ^_^"
+   ]
+  }
+ ]
+}

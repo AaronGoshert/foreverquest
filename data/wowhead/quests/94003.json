@@ -1,0 +1,123 @@
+{
+ "id": 94003,
+ "name": "The Skybreaker Bulwark",
+ "level": 10,
+ "reqlevel": 10,
+ "side": 3,
+ "zoneId": -81,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 840,
+ "start": {
+  "type": "npc",
+  "id": 252377,
+  "name": "Seena Skybreaker",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    59.8,
+    72.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252377,
+  "name": "Seena Skybreaker",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    59.8,
+    72.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Reclaim the Skybreaker Bulwark from Zaal Stormshield at the Shrine of Akir. Skybreaker Bulwark  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 263993,
+   "name": "Skybreaker Bulwark",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Skybreaker Bulwark",
+   "count": 1,
+   "type": "item",
+   "id": 263993
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252377,
+   "name": "Seena Skybreaker",
+   "coord": [
+    59.8,
+    72.8
+   ],
+   "coords": [
+    [
+     59.8,
+     72.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252377,
+   "name": "Seena Skybreaker",
+   "coord": [
+    59.8,
+    72.8
+   ],
+   "coords": [
+    [
+     59.8,
+     72.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 257196,
+   "name": "Zaal Stormshield",
+   "coord": [
+    56.6,
+    50.3
+   ],
+   "coords": [
+    [
+     56.4,
+     50.5
+    ],
+    [
+     56.6,
+     50.3
+    ],
+    [
+     56.6,
+     50.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

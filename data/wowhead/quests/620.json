@@ -1,0 +1,252 @@
+{
+ "id": 620,
+ "name": "The Monogrammed Sash",
+ "level": 50,
+ "reqlevel": 35,
+ "side": 3,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 2350,
+ "start": null,
+ "end": null,
+ "patch": "1.13.2.30682",
+ "objectiveText": "Return the Monogrammed Sash to its owner. Monogrammed Sash (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 3985,
+   "name": "Monogrammed Sash",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": [
+  {
+   "rating": 23,
+   "date": "2005-09-30T07:43:45-05:00",
+   "body": "Um, quest description above states: \"Ends with Captain Hecklebury Smotts\".&nbsp; It really is best to read the quest description before posting for help...",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2007-01-17T19:43:45-06:00",
+   "body": "Turning this quest into Captain Hecklebury Smotts gives you a follow up quest \"The Captain's Cutlass\". You then speak to Sprogger (standing next to the captain) who gives you the quest \"Facing Negolash\". Once you complete that quest you receive Smott's Compass.",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2005-09-30T07:43:45-05:00",
+   "body": "Its a drop from Mekrosh the lvl 50 Elite located on the island immediately south of BB. Try and do him with a few mates will ya? :)",
+   "replies": [
+    "dropped him with my 55 druid while waiting for the boat. Swam out to see what that island was about and there he was. I know a mob 5 levels down (even elite) isn't that hard but I was still expecting better loot than this sash and some silver!\n\nat least the quest reward was 2100xp, so I can't complain. Not bad for 2 short swims and a few minutes fighting.\n\n[just swim back to BB and go for the yellow dot on your mini-map. He's near the boat to Ratchet landing place.]"
+   ]
+  },
+  {
+   "rating": 11,
+   "date": "2005-09-30T07:43:45-05:00",
+   "body": "It's in Booty Bay HS is the captain on the dock by the boat. don't remember exact name.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2005-09-30T07:43:45-05:00",
+   "body": "Rumors abound about his spawn time.&nbsp; Some say 24 hours.&nbsp; Some say it might be trigged by another quest.&nbsp; Put your thoughts here and combined we might figure it out.\n\nThis quest is prerequisite to the Negolash quest which drops the nice compass.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2006-07-19T07:43:45-05:00",
+   "body": "I had seen him yell a few time when waiting for the boat in BB. So I finaly decided to swim over and see. There was a 50 elite, so I thought i would take the oppertunity to kite him to the gaurds. they killed him and i got some clam meat, silver, mageweavae and a sash with 5 stamina and 10 int. (cloth)That begun a quest, basicly u have to give the sash to smotts, who stands by the boat. I got like 13 silver, probly could have sold the sash to a vendor for more -.-",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-09-30T07:43:45-05:00",
+   "body": "the elite sea giant in STV on island just west of BB",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-09-30T07:43:45-05:00",
+   "body": "He's the Pirate standing on the Dock near where the boat to Ratchet docks.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-09-30T07:43:45-05:00",
+   "body": "Yeah the guy spawns on the island with the giant goblin statue on it, hes annoying cause he yells all the time to the ppl in BB",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-17T19:43:45-06:00",
+   "body": "i was in a group of 3 low lvl 40's and all we did was send one guy to the island to pull him back to BB were we and the guards and everyone else there who saw him layed the smack down. easy enough that way.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-23T07:43:45-06:00",
+   "body": "Okey guys.. Well I just have to say.. I soloed him at lvl 38 as a hunter.. Just pull with your pet, use frost trap and concossucive shot at ALL time, and kite him to land, put on Aspect of cheetah. Then he is np :)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-09-06T15:20:42-05:00",
+   "body": "hi i would just like to know how long it takes for that monster respawns because i forgot to pick up quest and it is taking for ever to respawn, does any one know?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-08-07T01:52:48-05:00",
+   "body": "The sash belongs to Captian HeckleBerry Smits in Booty Bay.  He's at the bottom of the ramp coming out of the tunnel into BB",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-30T07:43:45-05:00",
+   "body": "there's a captain named Hecklebury Smotts (HS)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-31T19:43:45-06:00",
+   "body": "I've notticed thast he seems to start yelling either right before or right after the boat to ratchett arrives or leaves.",
+   "replies": [
+    "Has about 9600 HP. Damage per hit was 450 against my lvl 60 rogue with 1600 armor, so he is not that easy to defeat with a melee class."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-30T07:43:45-05:00",
+   "body": "Happened to catch (and kill) the giant on the island around 2am WoW time. At the time, I didn't realize he was a rare spawn, and therefore didn't take note of the exact time.\n\nGot the Monogrammed Sash, but have NO CLUE where its owner \"HS\" is. Was hoping someone would post that here. I'm headed back to Booty Bay now in the hopes that \"the owner\" will show up on my mini map when I get close.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-12T07:43:45-06:00",
+   "body": "It must be Smotts, because when i was getting near to the island, he yelled out \"Come out Smotts!\" or something like that.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-31T19:43:45-06:00",
+   "body": "i saw him but after 1min he was away not dead but on the way away from the goblin statue what time does he respawn and how long time would it take",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-07T07:43:45-05:00",
+   "body": "at 2am i heard him yell to booty bay and about 20minute before i checked 2 see if he was there{wasn't} i got a lv 60 2 help and kicked him easy. so i think he spawns at 2am.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-17T19:43:45-06:00",
+   "body": "I got the quest, but i cannot speak with captain Smotts, i do not know why. They who can help me plz make a char on Quel'Thalas and add Simenhunter. Ty",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-10T17:19:45-06:00",
+   "body": "Waiting around for 20 minutes - nothing",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-22T21:10:09-05:00",
+   "body": "Soloed him as 50 warlock, with chain fear and DoTs it was no problem. Going for the other giant now.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-01T00:02:57-05:00",
+   "body": "Lvl 42 hunter ... i just did a bit of damage to him then kited him to the BB guards and they did all the work while i got the loot GG",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-19T15:24:33-05:00",
+   "body": "I killed him with my 44 druid and my friend(who is a 47 hunter) at about 8:15pm today. we were swimming away from BB about to do a quest when we heard him yelling something. didnt know he was a rare spawn.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-01T10:29:41-05:00",
+   "body": "coord in BB at 26.73",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-15T23:11:28-05:00",
+   "body": "Hey guys, i go down o BB all the time and have not noticed this guy on any of my alts in my travels there since the launch of BC. was he axed? i was there today and didn't see him either and no one else in STV replied saying they had. let me know if he has been seen lately",
+   "replies": [
+    "No he is still there i just saw him a few minutes ago flying into Booty Bay"
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2005-09-30T07:43:45-05:00",
+   "body": "The one time i fought him i was in a group with a lvl 60 pally and we had just killed the thing for Captains Chest and he told me to come over there and check if the giant was there and he was, however i just tried that today with a group and it didnt work.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-09-30T07:43:45-05:00",
+   "body": "this is the NPC that the sash belongs to ... got the giant at 425am CST got the next quest.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-04-23T20:30:54-05:00",
+   "body": "he is on the docks near the boat",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-30T07:43:45-05:00",
+   "body": "is it worth waiting around for him?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-30T07:43:45-05:00",
+   "body": "MOB appeared at 5a in-game",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-03-31T19:43:45-06:00",
+   "body": "Level 47 SL lock, took him down with 14 HP left.\nForgot to activate Soul Link before the battle though :P Used my feldoggy, a healthstone and a 700-900 health potion. Fear kiting wins :)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-08-24T19:43:45-05:00",
+   "body": "I was a 54 warrior when I took him on.\n\nBow shot, swim towards dock.&nbsp; Hamstring, swim towards dock.&nbsp; Once a few guards are aggro'd on him, it's easy.\n\nHad to bandage, but since the guards throw nets over him repeately, it's easy to find the time.\n\nKinda ticks people off when you solo him because he can only be killed 365 times a year or so...hahaha.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-17T19:43:45-06:00",
+   "body": "Booyah! I killed it with my lvl 47 warlock alone :DD My hands are still shaking :D",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-05-01T09:38:57-05:00",
+   "body": "Just soloed him with level 50 Palladin.Had to use both of my bubbles and i runcloth bandages. Other than that--easy",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2020-03-23T21:30:07-05:00",
+   "body": "Soloed this guy as a lvl 48 Frost Mage with lvl 46 skillset, version of wow classic 1.13.4. It took two tries, but I did kill him with full hp. I had to use most of my skills, Cold Snap, Evocation, my mana gem, but I did not need to use Iceblock. Coldsnap was used so I got more use out of Frost Nova. Its doable, and not impossible. He is kitable and is not immune to chilled effect. Good luck fellow mages that want to try this on for size!",
+   "replies": []
+  }
+ ]
+}

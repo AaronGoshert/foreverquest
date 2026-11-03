@@ -1,0 +1,105 @@
+{
+ "id": 96050,
+ "name": "Camping 101: Fishing",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 265813,
+  "name": "Eric Brighthammer",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    46.6,
+    53.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1700,
+  "name": "Paxton Ganter",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    35.4,
+    40.2
+   ],
+   [
+    35.6,
+    40.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Speak with Paxton Ganter near Iceflow Lake in Dun Morogh to learn to craft a camping item for your profession once you have shown proficiency in your skill.   Raise your fishing skill to 20  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1700,
+   "name": "Paxton Ganter",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Raise your fishing skill to 20",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 265813,
+   "name": "Eric Brighthammer",
+   "coord": [
+    46.6,
+    53.8
+   ],
+   "coords": [
+    [
+     46.6,
+     53.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 1700,
+   "name": "Paxton Ganter",
+   "coord": [
+    35.4,
+    40.2
+   ],
+   "coords": [
+    [
+     35.4,
+     40.2
+    ],
+    [
+     35.6,
+     40.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

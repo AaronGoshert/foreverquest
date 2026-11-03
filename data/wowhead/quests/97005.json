@@ -1,0 +1,136 @@
+{
+ "id": 97005,
+ "name": "Chol'aruk the Ravener",
+ "level": 21,
+ "reqlevel": 15,
+ "side": 1,
+ "zoneId": 17,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2050,
+ "start": {
+  "type": "npc",
+  "id": 267309,
+  "name": "Bainham",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    61.8,
+    39.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 267309,
+  "name": "Bainham",
+  "zone": "The Barrens",
+  "zoneId": 17,
+  "coords": [
+   [
+    61.8,
+    39.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Bring Chol'aruk's Head to Bainham in the Barrens . Chol'aruk's Head  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 276070,
+   "name": "Chol'aruk's Head",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Chol'aruk's Head",
+   "count": 1,
+   "type": "item",
+   "id": 276070
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "start",
+   "type": 1,
+   "id": 267309,
+   "name": "Bainham",
+   "coord": [
+    61.8,
+    39.4
+   ],
+   "coords": [
+    [
+     61.8,
+     39.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "end",
+   "type": 1,
+   "id": 267309,
+   "name": "Bainham",
+   "coord": [
+    61.8,
+    39.4
+   ],
+   "coords": [
+    [
+     61.8,
+     39.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 17,
+   "zone": "The Barrens",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 267307,
+   "name": "Chol'aruk",
+   "coord": [
+    25.8,
+    23.8
+   ],
+   "coords": [
+    [
+     25.8,
+     23.8
+    ],
+    [
+     57.4,
+     27.2
+    ],
+    [
+     57.6,
+     27.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2026-09-20T16:31:43-05:00",
+   "body": "Cave entrance at 58, 25 in The Barrens. Cavern is filled with level 18 and higher elites.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-03T18:51:47-05:00",
+   "body": "Respawned in exactly [b]1[/b] minute. The mobs here don't seem to hit very hard, but they have a lot of health [i](Chol'aruk had [b]5k[/b])[/i]. This is a tank-and-spank encounter, as you can't back away through the cave due to elite respawns.",
+   "replies": []
+  }
+ ]
+}

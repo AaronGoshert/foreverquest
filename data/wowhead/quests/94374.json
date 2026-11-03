@@ -1,0 +1,153 @@
+{
+ "id": 94374,
+ "name": "Call of Earth",
+ "level": 4,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 257446,
+  "name": "Teo Hammerstorm",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    28.7,
+    66.1
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 5891,
+  "name": "Minor Manifestation of Earth",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    24.8,
+    61.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Find the Spirit Stone and drink the Earth Sapta .",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 6635,
+   "name": "Earth Sapta",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Earth Sapta",
+   "count": 1,
+   "type": "item",
+   "id": 6635
+  }
+ ],
+ "series": [
+  96243,
+  94373,
+  94374,
+  94375
+ ],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 257446,
+   "name": "Teo Hammerstorm",
+   "coord": [
+    28.7,
+    66.1
+   ],
+   "coords": [
+    [
+     28.7,
+     66.1
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 5891,
+   "name": "Minor Manifestation of Earth",
+   "coord": [
+    24.8,
+    61.8
+   ],
+   "coords": [
+    [
+     24.8,
+     61.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 14,
+   "zone": "Durotar",
+   "point": "end",
+   "type": 1,
+   "id": 5891,
+   "name": "Minor Manifestation of Earth",
+   "coord": [
+    44,
+    76
+   ],
+   "coords": [
+    [
+     44,
+     76
+    ]
+   ]
+  },
+  {
+   "zoneId": 215,
+   "zone": "Mulgore",
+   "point": "end",
+   "type": 1,
+   "id": 5891,
+   "name": "Minor Manifestation of Earth",
+   "coord": [
+    53.8,
+    80.4
+   ],
+   "coords": [
+    [
+     51.8,
+     80.2
+    ],
+    [
+     53.8,
+     80.4
+    ],
+    [
+     53.8,
+     80.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-21T11:57:55-05:00",
+   "body": "Head up the snowy hill at 26.4/68.00.\r\nIt is on top of the hill.\r\nTurn left at the small camp stone will be in the distance.",
+   "replies": []
+  }
+ ]
+}

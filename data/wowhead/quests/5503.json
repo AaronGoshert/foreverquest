@@ -1,0 +1,107 @@
+{
+ "id": 5503,
+ "name": "Argent Dawn Commission",
+ "level": 55,
+ "reqlevel": 50,
+ "side": 3,
+ "zoneId": 139,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 560,
+ "start": {
+  "type": "npc",
+  "id": 11039,
+  "name": "Duke Nicholas Zverenhoff",
+  "zone": "Eastern Plaguelands",
+  "zoneId": 139,
+  "coords": [
+   [
+    81.4,
+    59.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11039,
+  "name": "Duke Nicholas Zverenhoff",
+  "zone": "Eastern Plaguelands",
+  "zoneId": 139,
+  "coords": [
+   [
+    81.4,
+    59.8
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Completion All who fight evil on behalf of the Argent Dawn must don our commission.  Wearing such will earn your right to claim rewards our quartermasters have to offer. While under commission, you'll be able to acquire Scourgestones from slain Scourge; these are marks of insignia that they sometimes possess.  Procure these insignia and bring them to me.  For each set you turn in, you will receive our marker of heroism - the Argent Dawn Valor Token. Achieve your destiny, <class> - join the fight today!",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 139,
+   "zone": "Eastern Plaguelands",
+   "point": "start",
+   "type": 1,
+   "id": 11039,
+   "name": "Duke Nicholas Zverenhoff",
+   "coord": [
+    81.4,
+    59.8
+   ],
+   "coords": [
+    [
+     81.4,
+     59.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 139,
+   "zone": "Eastern Plaguelands",
+   "point": "end",
+   "type": 1,
+   "id": 11039,
+   "name": "Duke Nicholas Zverenhoff",
+   "coord": [
+    81.4,
+    59.8
+   ],
+   "coords": [
+    [
+     81.4,
+     59.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 7,
+   "date": "2006-10-08T08:23:05-05:00",
+   "body": "It can be upgraded via this quest: [quest=5213]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-18T14:04:09-05:00",
+   "body": "Dinged 50 yesterday and was able to get this.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-15T19:44:56-05:00",
+   "body": "Anyone know the starting level for this quest?  I'm 49 and can't get it yet, I'm guessing 50 maybe?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-31T01:03:43-06:00",
+   "body": "Also dinged to 50 today and was able to get this. If you're a Horde char. and dont know where to go then speak to [npc=10839] and he simply gives it to you. He's in Tirisfal Glades on the border of Western Plagelands\n\nIf you're alliance and want to know where to go.. tough :D\n\nEdited, Sun Oct 30 19:30:52 2005",
+   "replies": []
+  }
+ ]
+}

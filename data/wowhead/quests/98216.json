@@ -1,0 +1,164 @@
+{
+ "id": 98216,
+ "name": "Understanding Our Present",
+ "level": 31,
+ "reqlevel": 23,
+ "side": 1,
+ "zoneId": 11,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 3150,
+ "start": {
+  "type": "npc",
+  "id": 1077,
+  "name": "Prospector Whelgar",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    38.8,
+    52.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1077,
+  "name": "Prospector Whelgar",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    38.8,
+    52.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Use the Goaz Stone near the Goaz Warder and bring its Titanic Keystone back to Prospector Whelgar . Titanic Keystone  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 279996,
+   "name": "Goaz Stone",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 279993,
+   "name": "Titanic Keystone",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Titanic Keystone",
+   "count": 1,
+   "type": "item",
+   "id": 279993
+  }
+ ],
+ "series": [
+  299,
+  98216,
+  98310,
+  98313
+ ],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "start",
+   "type": 1,
+   "id": 1077,
+   "name": "Prospector Whelgar",
+   "coord": [
+    38.8,
+    52.2
+   ],
+   "coords": [
+    [
+     38.8,
+     52.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 1077,
+   "name": "Prospector Whelgar",
+   "coord": [
+    38.8,
+    52.2
+   ],
+   "coords": [
+    [
+     38.8,
+     52.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 270892,
+   "name": "Goaz Warder",
+   "coord": [
+    35,
+    52.6
+   ],
+   "coords": [
+    [
+     34.2,
+     46.7
+    ],
+    [
+     34.2,
+     52.2
+    ],
+    [
+     34.6,
+     52.4
+    ],
+    [
+     34.7,
+     46.4
+    ],
+    [
+     35,
+     52.6
+    ],
+    [
+     35.3,
+     47
+    ],
+    [
+     36.4,
+     41.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-14T16:47:19-05:00",
+   "body": "Goaz Warder is at 35.0, 52.4. Go up the hill to the tree at 31.2, 48.6. While facing the tree turn to the left. Continue up the hill, then up the boards. Jump off the edge slightly passed Sarltooth. You will find Goaz Warder on this ledge.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-15T15:40:05-05:00",
+   "body": "I reached the Goaz Warder through a somewhat unconventional route: exiting Whelgar's cave, I just turned [b]left[/b] and followed up the hillside. I got as far as I could with basic jumps, and I just took a leap of faith towards the warder's platform, and I landed and didn't perish to fall damage. This seems to be the fastest route, and it didn't require any advanced tricks. Recoup and start the encounter using your Goaz Stone on the golem.",
+   "replies": []
+  }
+ ]
+}

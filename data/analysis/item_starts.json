@@ -1,0 +1,1565 @@
+{
+ "examples": [
+  {
+   "id": 92544,
+   "name": "Al'Aketh Thugs",
+   "level": 5,
+   "item": 258882,
+   "xpRatio": 1.67,
+   "chain": false,
+   "guide": "1-9 Zephras Isle"
+  },
+  {
+   "id": 92528,
+   "name": "Among the Faithful",
+   "level": 8,
+   "item": 2454,
+   "xpRatio": 0.5,
+   "chain": true,
+   "guide": "1-9 Zephras Isle"
+  },
+  {
+   "id": 92551,
+   "name": "Stolen Supplies",
+   "level": 8,
+   "item": 257332,
+   "xpRatio": 0.76,
+   "chain": false,
+   "guide": "1-9 Zephras Isle"
+  },
+  {
+   "id": 99260,
+   "name": "Fillion's Mission",
+   "level": 10,
+   "item": 263313,
+   "xpRatio": 0.2,
+   "chain": true,
+   "guide": "9-13 Zephras Isle"
+  },
+  {
+   "id": 93320,
+   "name": "Tower Defense",
+   "level": 11,
+   "item": 263404,
+   "xpRatio": 0.67,
+   "chain": true,
+   "guide": "9-13 Zephras Isle"
+  },
+  {
+   "id": 94490,
+   "name": "Ripped Missive",
+   "level": 12,
+   "item": 265476,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "9-13 Zephras Isle"
+  },
+  {
+   "id": 97236,
+   "name": "Fang of Githyiss",
+   "level": 5,
+   "item": 277190,
+   "xpRatio": 1.34,
+   "chain": true,
+   "guide": "1-6 Shadowglen"
+  },
+  {
+   "id": 920,
+   "name": "Tenaron's Summons",
+   "level": 5,
+   "item": 277190,
+   "xpRatio": 0.13,
+   "chain": true,
+   "guide": "1-6 Shadowglen"
+  },
+  {
+   "id": 91741,
+   "name": "Nibbled-On Book",
+   "level": 2,
+   "item": 247834,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "1-6 Northshire"
+  },
+  {
+   "id": 91740,
+   "name": "Croaky's Head",
+   "level": 11,
+   "item": 247826,
+   "xpRatio": 1.33,
+   "chain": false,
+   "guide": "6-11 Elwynn Forest"
+  },
+  {
+   "id": 184,
+   "name": "Furlbrow's Deed",
+   "level": 9,
+   "item": 1972,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "6-11 Elwynn Forest"
+  },
+  {
+   "id": 123,
+   "name": "The Collector",
+   "level": 10,
+   "item": 1307,
+   "xpRatio": 0.5,
+   "chain": false,
+   "guide": "6-11 Elwynn Forest"
+  },
+  {
+   "id": 95213,
+   "name": "Stolen Blasting Powder",
+   "level": 10,
+   "item": 268548,
+   "xpRatio": 0.2,
+   "chain": true,
+   "guide": "6-11 Elwynn Forest"
+  },
+  {
+   "id": 96391,
+   "name": "Underground Map",
+   "level": 15,
+   "item": 274268,
+   "xpRatio": 1.57,
+   "chain": true,
+   "guide": "6-11 Elwynn Forest"
+  },
+  {
+   "id": 1642,
+   "name": "The Tome of Divinity",
+   "level": 12,
+   "item": 6775,
+   "xpRatio": 0.1,
+   "chain": true,
+   "guide": "11-13 Loch Modan"
+  },
+  {
+   "id": 1646,
+   "name": "The Tome of Divinity",
+   "level": 12,
+   "item": 6916,
+   "xpRatio": 0.1,
+   "chain": true,
+   "guide": "12-14 Loch Modan (Dwarf/Gnome)"
+  },
+  {
+   "id": 1784,
+   "name": "The Tome of Divinity",
+   "level": 13,
+   "item": 6866,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "12-14 Loch Modan (Dwarf/Gnome)"
+  },
+  {
+   "id": 92909,
+   "name": "Harvesting the Harvesters",
+   "level": 15,
+   "item": 255007,
+   "xpRatio": 1.19,
+   "chain": true,
+   "guide": "13-15 Westfall"
+  },
+  {
+   "id": 1138,
+   "name": "Fruit of the Sea",
+   "level": 17,
+   "item": 12238,
+   "xpRatio": 1.0,
+   "chain": false,
+   "guide": "14-16 Darkshore"
+  },
+  {
+   "id": 1141,
+   "name": "The Family and the Fishing Pole",
+   "level": 14,
+   "item": 12238,
+   "xpRatio": 1.32,
+   "chain": true,
+   "guide": "14-16 Darkshore"
+  },
+  {
+   "id": 2178,
+   "name": "Easy Strider Living",
+   "level": 12,
+   "item": 5469,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "14-16 Darkshore"
+  },
+  {
+   "id": 949,
+   "name": "The Twilight Camp",
+   "level": 17,
+   "item": 5251,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "16-19 Darkshore"
+  },
+  {
+   "id": 968,
+   "name": "The Powers Below",
+   "level": 18,
+   "item": 5352,
+   "xpRatio": 1.26,
+   "chain": false,
+   "guide": "16-19 Darkshore"
+  },
+  {
+   "id": 92,
+   "name": "Redridge Goulash",
+   "level": 18,
+   "item": 2296,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "19-20 Redridge"
+  },
+  {
+   "id": 1649,
+   "name": "The Tome of Valor",
+   "level": 20,
+   "item": 6776,
+   "xpRatio": 0.5,
+   "chain": true,
+   "guide": "19-20 Redridge"
+  },
+  {
+   "id": 5321,
+   "name": "The Sleeper Has Awakened",
+   "level": 20,
+   "item": 13536,
+   "xpRatio": 1.99,
+   "chain": false,
+   "guide": "19-21 Darkshore/Ashenvale"
+  },
+  {
+   "id": 945,
+   "name": "Therylune's Escape",
+   "level": 18,
+   "item": 13536,
+   "xpRatio": 1.0,
+   "chain": false,
+   "guide": "18-20 ADV Darkshore 3 Mage AoE"
+  },
+  {
+   "id": 950,
+   "name": "Return to Onu",
+   "level": 17,
+   "item": 13536,
+   "xpRatio": 0.76,
+   "chain": false,
+   "guide": "18-20 ADV Darkshore 3 Mage AoE"
+  },
+  {
+   "id": 731,
+   "name": "The Absent Minded Prospector",
+   "level": 20,
+   "item": 13536,
+   "xpRatio": 2.5,
+   "chain": true,
+   "guide": "18-20 ADV Darkshore 3 Mage AoE"
+  },
+  {
+   "id": 174,
+   "name": "Look to the Stars",
+   "level": 25,
+   "item": 4371,
+   "xpRatio": 1.33,
+   "chain": true,
+   "guide": "20-22 ADV Redridge 1 Mage AoE"
+  },
+  {
+   "id": 175,
+   "name": "Look to the Stars",
+   "level": 25,
+   "item": 4371,
+   "xpRatio": 0.67,
+   "chain": true,
+   "guide": "20-22 ADV Redridge 1 Mage AoE"
+  },
+  {
+   "id": 95195,
+   "name": "Bloodied Insignia",
+   "level": 22,
+   "item": 268535,
+   "xpRatio": 1.49,
+   "chain": false,
+   "guide": "18-19 Ruins of Lordaeron"
+  },
+  {
+   "id": 95189,
+   "name": "Crest of Lordaeron",
+   "level": 22,
+   "item": 268579,
+   "xpRatio": 1.49,
+   "chain": false,
+   "guide": "18-19 Ruins of Lordaeron"
+  },
+  {
+   "id": 373,
+   "name": "The Unsent Letter",
+   "level": 22,
+   "item": 2874,
+   "xpRatio": 0.5,
+   "chain": true,
+   "guide": "19-20 Deadmines"
+  },
+  {
+   "id": 104,
+   "name": "The Coastal Menace",
+   "level": 20,
+   "item": 814,
+   "xpRatio": 1.99,
+   "chain": false,
+   "guide": "19-20 Deadmines"
+  },
+  {
+   "id": 103,
+   "name": "Keeper of the Flame",
+   "level": 16,
+   "item": 814,
+   "xpRatio": 1.31,
+   "chain": true,
+   "guide": "19-20 Deadmines"
+  },
+  {
+   "id": 6981,
+   "name": "The Glowing Shard",
+   "level": 26,
+   "item": 10441,
+   "xpRatio": 1.26,
+   "chain": false,
+   "guide": "20-21 Darkshore/Ashenvale"
+  },
+  {
+   "id": 136,
+   "name": "Captain Sander's Hidden Treasure",
+   "level": 16,
+   "item": 1357,
+   "xpRatio": 0.66,
+   "chain": false,
+   "guide": "19-20 Redridge"
+  },
+  {
+   "id": 2945,
+   "name": "Grime-Encrusted Ring",
+   "level": 34,
+   "item": 9326,
+   "xpRatio": 1.0,
+   "chain": false,
+   "guide": "05. Gnomeregan"
+  },
+  {
+   "id": 1100,
+   "name": "Lonebrow's Journal",
+   "level": 34,
+   "item": 5791,
+   "xpRatio": 0.5,
+   "chain": false,
+   "guide": "06a. Razorfen Kraul"
+  },
+  {
+   "id": 2198,
+   "name": "The Shattered Necklace",
+   "level": 41,
+   "item": 7666,
+   "xpRatio": 1.35,
+   "chain": false,
+   "guide": "09. Uldaman"
+  },
+  {
+   "id": 8420,
+   "name": "Hot and Itchy",
+   "level": 52,
+   "item": 14256,
+   "xpRatio": 0.75,
+   "chain": true,
+   "guide": "12. Sunken Temple"
+  },
+  {
+   "id": 3373,
+   "name": "The Essence of Eranikus",
+   "level": 55,
+   "item": 10454,
+   "xpRatio": 1.33,
+   "chain": false,
+   "guide": "12. Sunken Temple"
+  },
+  {
+   "id": 4022,
+   "name": "A Taste of Flame",
+   "level": 54,
+   "item": 10575,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "13. Blackrock Depths"
+  },
+  {
+   "id": 4264,
+   "name": "A Crumpled Up Note",
+   "level": 58,
+   "item": 11446,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "13. Blackrock Depths"
+  },
+  {
+   "id": 5089,
+   "name": "General Drakkisath's Command",
+   "level": 60,
+   "item": 12780,
+   "xpRatio": 1.0,
+   "chain": false,
+   "guide": "14. Lower Blackrock Spire"
+  },
+  {
+   "id": 7761,
+   "name": "Blackhand's Command",
+   "level": 60,
+   "item": 18987,
+   "xpRatio": 1.0,
+   "chain": false,
+   "guide": "15. Upper Blackrock Spire"
+  },
+  {
+   "id": 5582,
+   "name": "Healthy Dragon Scale",
+   "level": 58,
+   "item": 13920,
+   "xpRatio": 0,
+   "chain": false,
+   "guide": "16. Scholomance"
+  },
+  {
+   "id": 5461,
+   "name": "The Human, Ras Frostwhisper",
+   "level": 60,
+   "item": 13544,
+   "xpRatio": 1.0,
+   "chain": false,
+   "guide": "16. Scholomance"
+  },
+  {
+   "id": 5466,
+   "name": "The Lich, Ras Frostwhisper",
+   "level": 60,
+   "item": 13544,
+   "xpRatio": 1.51,
+   "chain": false,
+   "guide": "16. Scholomance"
+  },
+  {
+   "id": 5462,
+   "name": "The Dying, Ras Frostwhisper",
+   "level": 60,
+   "item": 13544,
+   "xpRatio": 0.75,
+   "chain": true,
+   "guide": "17. Stratholme"
+  },
+  {
+   "id": 5262,
+   "name": "The Truth Comes Crashing Down",
+   "level": 60,
+   "item": 13250,
+   "xpRatio": 1.26,
+   "chain": true,
+   "guide": "17. Stratholme"
+  },
+  {
+   "id": 5243,
+   "name": "Houses of the Holy",
+   "level": 60,
+   "item": 13180,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "17. Stratholme"
+  },
+  {
+   "id": 1073,
+   "name": "Ineptitude + Chemicals = Fun",
+   "level": 21,
+   "item": 2455,
+   "xpRatio": 1.32,
+   "chain": true,
+   "guide": "23-24 Wetlands Hunter"
+  },
+  {
+   "id": 96137,
+   "name": "Ira's Dagger",
+   "level": 25,
+   "item": 281143,
+   "xpRatio": 1.33,
+   "chain": false,
+   "guide": "24-27 Duskwood/Redridge"
+  },
+  {
+   "id": 90,
+   "name": "Seasoned Wolf Kabobs",
+   "level": 25,
+   "item": 1015,
+   "xpRatio": 1.33,
+   "chain": true,
+   "guide": "24-27 Duskwood/Redridge"
+  },
+  {
+   "id": 96138,
+   "name": "Merrick's Bow",
+   "level": 28,
+   "item": 281142,
+   "xpRatio": 2.0,
+   "chain": false,
+   "guide": "24-27 Duskwood/Redridge"
+  },
+  {
+   "id": 79363,
+   "name": "Silvia's Sword",
+   "level": 26,
+   "item": 281145,
+   "xpRatio": 1.0,
+   "chain": false,
+   "guide": "24-27 Duskwood/Redridge"
+  },
+  {
+   "id": 79362,
+   "name": "Grant's Shield",
+   "level": 25,
+   "item": 281147,
+   "xpRatio": 1.33,
+   "chain": false,
+   "guide": "24-27 Duskwood/Redridge"
+  },
+  {
+   "id": 538,
+   "name": "Southshore",
+   "level": 38,
+   "item": 2794,
+   "xpRatio": 0.25,
+   "chain": false,
+   "guide": "27-29 Wetlands/Hillsbrad"
+  },
+  {
+   "id": 95810,
+   "name": "Lost Relic Carry",
+   "level": 31,
+   "item": 270865,
+   "xpRatio": 0.25,
+   "chain": true,
+   "guide": "27-29 Wetlands/Hillsbrad"
+  },
+  {
+   "id": 98824,
+   "name": "Prehistoric Prism",
+   "level": 31,
+   "item": 270865,
+   "xpRatio": 1.26,
+   "chain": false,
+   "guide": "27-29 Wetlands/Hillsbrad"
+  },
+  {
+   "id": 637,
+   "name": "Sully Balloo's Letter",
+   "level": 30,
+   "item": 4433,
+   "xpRatio": 1.0,
+   "chain": false,
+   "guide": "27-29 Wetlands/Hillsbrad"
+  },
+  {
+   "id": 1045,
+   "name": "Raene's Cleansing",
+   "level": 30,
+   "item": 5462,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "29-30 Ashenvale"
+  },
+  {
+   "id": 1046,
+   "name": "Raene's Cleansing",
+   "level": 30,
+   "item": 5462,
+   "xpRatio": 1.24,
+   "chain": false,
+   "guide": "29-30 Ashenvale"
+  },
+  {
+   "id": 337,
+   "name": "An Old History Book",
+   "level": 25,
+   "item": 2794,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "29-32 Duskwood"
+  },
+  {
+   "id": 522,
+   "name": "Assassin's Contract",
+   "level": 38,
+   "item": 3668,
+   "xpRatio": 0.25,
+   "chain": false,
+   "guide": "32-33 Hillsbrad/Arathi"
+  },
+  {
+   "id": 565,
+   "name": "Bartolo's Yeti Fur Cloak",
+   "level": 34,
+   "item": 3719,
+   "xpRatio": 1.0,
+   "chain": false,
+   "guide": "32-33 Hillsbrad/Arathi"
+  },
+  {
+   "id": 555,
+   "name": "Soothing Turtle Bisque",
+   "level": 31,
+   "item": 3712,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "32-33 Hillsbrad/Arathi"
+  },
+  {
+   "id": 627,
+   "name": "Favor for Krazek",
+   "level": 37,
+   "item": 4278,
+   "xpRatio": 0.74,
+   "chain": true,
+   "guide": "34-35 Stranglethorn Vale I"
+  },
+  {
+   "id": 622,
+   "name": "Return to Corporal Kaleb",
+   "level": 37,
+   "item": 4278,
+   "xpRatio": 1.0,
+   "chain": false,
+   "guide": "34-35 Stranglethorn Vale I"
+  },
+  {
+   "id": 1392,
+   "name": "Noboru the Cudgel",
+   "level": 39,
+   "item": 6196,
+   "xpRatio": 0.75,
+   "chain": true,
+   "guide": "38-39 Swamp of Sorrows"
+  },
+  {
+   "id": 635,
+   "name": "Crystal in the Mountains",
+   "level": 35,
+   "item": 4614,
+   "xpRatio": 0.79,
+   "chain": false,
+   "guide": "39-40 Alterac/Arathi"
+  },
+  {
+   "id": 551,
+   "name": "The Ensorcelled Parchment",
+   "level": 40,
+   "item": 3706,
+   "xpRatio": 0.25,
+   "chain": true,
+   "guide": "39-40 Alterac/Arathi"
+  },
+  {
+   "id": 1203,
+   "name": "Jarl Needs a Blade",
+   "level": 35,
+   "item": 3853,
+   "xpRatio": 2.03,
+   "chain": true,
+   "guide": "40-40 Dustwallow Marsh2"
+  },
+  {
+   "id": 705,
+   "name": "Pearl Diving",
+   "level": 37,
+   "item": 4611,
+   "xpRatio": 1.25,
+   "chain": true,
+   "guide": "41-41 Badlands"
+  },
+  {
+   "id": 713,
+   "name": "Coolant Heads Prevail",
+   "level": 37,
+   "item": 3829,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "41-41 Badlands"
+  },
+  {
+   "id": 714,
+   "name": "Gyro... What?",
+   "level": 37,
+   "item": 4389,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "41-41 Badlands"
+  },
+  {
+   "id": 716,
+   "name": "Stone Is Better than Cloth",
+   "level": 42,
+   "item": 2868,
+   "xpRatio": 0.74,
+   "chain": true,
+   "guide": "41-41 Badlands"
+  },
+  {
+   "id": 715,
+   "name": "Liquid Stone",
+   "level": 37,
+   "item": 3823,
+   "xpRatio": 0.74,
+   "chain": true,
+   "guide": "41-41 Badlands"
+  },
+  {
+   "id": 624,
+   "name": "Cortello's Riddle",
+   "level": 43,
+   "item": 4056,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "41-43 STV/Swamp of Sorrows"
+  },
+  {
+   "id": 2766,
+   "name": "Find OOX-22/FE!",
+   "level": 45,
+   "item": 8705,
+   "xpRatio": 1.0,
+   "chain": false,
+   "guide": "44-48 Feralas"
+  },
+  {
+   "id": 4281,
+   "name": "Thalanaar Delivery",
+   "level": 44,
+   "item": 11463,
+   "xpRatio": 0.75,
+   "chain": false,
+   "guide": "44-48 Feralas"
+  },
+  {
+   "id": 2750,
+   "name": "A Bad Egg",
+   "level": 60,
+   "item": 8646,
+   "xpRatio": 0,
+   "chain": true,
+   "guide": "48-49 Tanaris/Hinterlands"
+  },
+  {
+   "id": 2749,
+   "name": "An Ordinary Egg",
+   "level": 60,
+   "item": 8645,
+   "xpRatio": 0,
+   "chain": true,
+   "guide": "48-49 Tanaris/Hinterlands"
+  },
+  {
+   "id": 2748,
+   "name": "A Fine Egg",
+   "level": 60,
+   "item": 8644,
+   "xpRatio": 0,
+   "chain": true,
+   "guide": "48-49 Tanaris/Hinterlands"
+  },
+  {
+   "id": 2747,
+   "name": "An Extraordinary Egg",
+   "level": 60,
+   "item": 8643,
+   "xpRatio": 0,
+   "chain": true,
+   "guide": "48-49 Tanaris/Hinterlands"
+  },
+  {
+   "id": 485,
+   "name": "Find OOX-09/HL!",
+   "level": 48,
+   "item": 8704,
+   "xpRatio": 1.0,
+   "chain": false,
+   "guide": "48-49 Tanaris/Hinterlands"
+  },
+  {
+   "id": 351,
+   "name": "Find OOX-17/TN!",
+   "level": 48,
+   "item": 8623,
+   "xpRatio": 1.0,
+   "chain": false,
+   "guide": "49-50 Tanaris/Un'Goro"
+  },
+  {
+   "id": 2876,
+   "name": "Ship Schedules",
+   "level": 45,
+   "item": 9250,
+   "xpRatio": 1.24,
+   "chain": true,
+   "guide": "49-50 Tanaris/Un'Goro"
+  },
+  {
+   "id": 2874,
+   "name": "Deliver to MacKinley",
+   "level": 45,
+   "item": 9250,
+   "xpRatio": 1.0,
+   "chain": false,
+   "guide": "49-50 Tanaris/Un'Goro"
+  },
+  {
+   "id": 3884,
+   "name": "Williden's Journal",
+   "level": 50,
+   "item": 11116,
+   "xpRatio": 0.76,
+   "chain": true,
+   "guide": "49-50 Tanaris/Un'Goro"
+  },
+  {
+   "id": 4284,
+   "name": "Crystals of Power",
+   "level": 53,
+   "item": 11186,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "49-50 Tanaris/Un'Goro"
+  },
+  {
+   "id": 8552,
+   "name": "The Monogrammed Sash",
+   "level": 50,
+   "item": 3985,
+   "xpRatio": 0.5,
+   "chain": true,
+   "guide": "50-50 Stranglethorn Vale"
+  },
+  {
+   "id": 594,
+   "name": "Message in a Bottle",
+   "level": 45,
+   "item": 4098,
+   "xpRatio": 0.74,
+   "chain": false,
+   "guide": "50-50 Stranglethorn Vale"
+  },
+  {
+   "id": 4451,
+   "name": "The Key to Freedom",
+   "level": 47,
+   "item": 11818,
+   "xpRatio": 1.67,
+   "chain": true,
+   "guide": "50-51 Searing Gorge"
+  },
+  {
+   "id": 3181,
+   "name": "The Horn of the Beast",
+   "level": 48,
+   "item": 10000,
+   "xpRatio": 1.24,
+   "chain": false,
+   "guide": "50-51 Searing Gorge"
+  },
+  {
+   "id": 2585,
+   "name": "The Decisive Striker",
+   "level": 50,
+   "item": 8392,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "51-51 Blasted Lands"
+  },
+  {
+   "id": 2581,
+   "name": "Snickerfang Jowls",
+   "level": 50,
+   "item": 8393,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "51-51 Blasted Lands"
+  },
+  {
+   "id": 3501,
+   "name": "Everything Counts In Large Amounts",
+   "level": 55,
+   "item": 10593,
+   "xpRatio": 2.69,
+   "chain": true,
+   "guide": "51-51 Blasted Lands"
+  },
+  {
+   "id": 2521,
+   "name": "To Serve Kum'isha",
+   "level": 55,
+   "item": 8244,
+   "xpRatio": 4.02,
+   "chain": true,
+   "guide": "51-51 Blasted Lands"
+  },
+  {
+   "id": 3763,
+   "name": "Assisting Arch Druid Staghelm",
+   "level": 50,
+   "item": 11018,
+   "xpRatio": 0.1,
+   "chain": false,
+   "guide": "52-52 Felwood"
+  },
+  {
+   "id": 3764,
+   "name": "Un'Goro Soil",
+   "level": 50,
+   "item": 11018,
+   "xpRatio": 1.0,
+   "chain": false,
+   "guide": "52-52 Felwood"
+  },
+  {
+   "id": 939,
+   "name": "Flute of Xavaric",
+   "level": 54,
+   "item": 11668,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "52-52 Felwood"
+  },
+  {
+   "id": 7735,
+   "name": "Pristine Yeti Hide",
+   "level": 48,
+   "item": 18969,
+   "xpRatio": 0.5,
+   "chain": false,
+   "guide": "52-53 Feralas"
+  },
+  {
+   "id": 4244,
+   "name": "Chasing A-Me 01",
+   "level": 53,
+   "item": 10561,
+   "xpRatio": 0.75,
+   "chain": true,
+   "guide": "53-54 UnGoro Crater"
+  },
+  {
+   "id": 4245,
+   "name": "Chasing A-Me 01",
+   "level": 53,
+   "item": 10561,
+   "xpRatio": 1.25,
+   "chain": false,
+   "guide": "53-54 UnGoro Crater"
+  },
+  {
+   "id": 5083,
+   "name": "Winterfall Firewater",
+   "level": 56,
+   "item": 12771,
+   "xpRatio": 0.5,
+   "chain": true,
+   "guide": "54-55 Felwood/Winterspring"
+  },
+  {
+   "id": 5202,
+   "name": "A Strange Red Key",
+   "level": 55,
+   "item": 13140,
+   "xpRatio": 2.69,
+   "chain": true,
+   "guide": "54-55 Felwood/Winterspring"
+  },
+  {
+   "id": 4261,
+   "name": "Ancient Spirit",
+   "level": 56,
+   "item": 11445,
+   "xpRatio": 1.26,
+   "chain": false,
+   "guide": "54-55 Felwood/Winterspring"
+  },
+  {
+   "id": 8470,
+   "name": "Deadwood Ritual Totem",
+   "level": 55,
+   "item": 20741,
+   "xpRatio": 2.69,
+   "chain": true,
+   "guide": "54-55 Felwood/Winterspring"
+  },
+  {
+   "id": 6031,
+   "name": "Runecloth",
+   "level": 55,
+   "item": 14047,
+   "xpRatio": 2.69,
+   "chain": true,
+   "guide": "54-55 Felwood/Winterspring"
+  },
+  {
+   "id": 3913,
+   "name": "A Grave Situation",
+   "level": 52,
+   "item": 11243,
+   "xpRatio": 0.5,
+   "chain": true,
+   "guide": "54-55 Felwood/Winterspring"
+  },
+  {
+   "id": 6026,
+   "name": "That's Asking A Lot",
+   "level": 58,
+   "item": 12359,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "57-59 Western/Eastern Plaguelands"
+  },
+  {
+   "id": 9136,
+   "name": "Savage Flora",
+   "level": 60,
+   "item": 22529,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "57-59 Western/Eastern Plaguelands"
+  },
+  {
+   "id": 9124,
+   "name": "Cryptstalker Armor Doesn't Make Itself...",
+   "level": 60,
+   "item": 22525,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "57-59 Western/Eastern Plaguelands"
+  },
+  {
+   "id": 9126,
+   "name": "Bonescythe Digs",
+   "level": 60,
+   "item": 22526,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "57-59 Western/Eastern Plaguelands"
+  },
+  {
+   "id": 9128,
+   "name": "The Elemental Equation",
+   "level": 60,
+   "item": 22527,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "57-59 Western/Eastern Plaguelands"
+  },
+  {
+   "id": 9131,
+   "name": "Binding the Dreadnaught",
+   "level": 60,
+   "item": 22528,
+   "xpRatio": 1.0,
+   "chain": true,
+   "guide": "57-59 Western/Eastern Plaguelands"
+  },
+  {
+   "id": 5123,
+   "name": "The Final Piece",
+   "level": 59,
+   "item": 12842,
+   "xpRatio": 0.5,
+   "chain": true,
+   "guide": "59-59 Winterspring/Silithus part 1"
+  },
+  {
+   "id": 8308,
+   "name": "Brann Bronzebeard's Lost Letter",
+   "level": 60,
+   "item": 20461,
+   "xpRatio": 1.26,
+   "chain": true,
+   "guide": "59-59 Winterspring/Silithus part 1"
+  },
+  {
+   "id": 971,
+   "name": "Knowledge in the Deeps",
+   "level": 23,
+   "item": 5352,
+   "xpRatio": 1.49,
+   "chain": false,
+   "guide": "23-24 Wetlands"
+  }
+ ],
+ "xpFloor": 0.74,
+ "chainRate": 0.6065573770491803,
+ "quests": [
+  {
+   "quest": 95213,
+   "name": "Stolen Blasting Powder",
+   "level": 10,
+   "item": 268548,
+   "itemName": "Empty Powder Keg",
+   "zones": [
+    "Dun Morogh"
+   ],
+   "droppedBy": [
+    {
+     "npc": 1117,
+     "name": "Rockjaw Bonesnapper",
+     "level": 9,
+     "classification": 0,
+     "zones": [
+      1
+     ],
+     "chance": 0.0
+    },
+    {
+     "npc": 1115,
+     "name": "Rockjaw Skullthumper",
+     "level": 8,
+     "classification": 0,
+     "zones": [
+      1
+     ],
+     "chance": 0.0
+    },
+    {
+     "npc": 1118,
+     "name": "Rockjaw Backbreaker",
+     "level": 11,
+     "classification": 0,
+     "zones": [
+      1
+     ],
+     "chance": 2.3
+    },
+    {
+     "npc": 1116,
+     "name": "Rockjaw Ambusher",
+     "level": 9,
+     "classification": 0,
+     "zones": [
+      1
+     ],
+     "chance": 2.8
+    }
+   ],
+   "containedIn": [],
+   "xpRatio": 0.2,
+   "chain": [],
+   "worth": false,
+   "reasons": [
+    "low drop chance 2.8%"
+   ]
+  },
+  {
+   "quest": 91740,
+   "name": "Croaky's Head",
+   "level": 11,
+   "item": 247826,
+   "itemName": "Croaky's Head",
+   "zones": [
+    "Duskwood",
+    "Elwynn Forest"
+   ],
+   "droppedBy": [
+    {
+     "npc": 248278,
+     "name": "Croaky",
+     "level": 11,
+     "classification": 1,
+     "zones": [
+      12,
+      10
+     ],
+     "chance": 82.1
+    }
+   ],
+   "containedIn": [],
+   "xpRatio": 1.33,
+   "chain": [],
+   "worth": true,
+   "reasons": [
+    "XP 1.33x level median (guides include from 0.74x)",
+    "Croaky is elite/rare"
+   ]
+  },
+  {
+   "quest": 91746,
+   "name": "Elmpaw's Head",
+   "level": 12,
+   "item": 247862,
+   "itemName": "Elmpaw's Head",
+   "zones": [
+    "Elwynn Forest"
+   ],
+   "droppedBy": [
+    {
+     "npc": 248299,
+     "name": "Elmpaw",
+     "level": 12,
+     "classification": 1,
+     "zones": [
+      12
+     ],
+     "chance": 91.2
+    }
+   ],
+   "containedIn": [],
+   "xpRatio": 1.0,
+   "chain": [],
+   "worth": true,
+   "reasons": [
+    "XP 1.0x level median (guides include from 0.74x)",
+    "Elmpaw is elite/rare"
+   ]
+  },
+  {
+   "quest": 94490,
+   "name": "Ripped Missive",
+   "level": 12,
+   "item": 265476,
+   "itemName": "Ripped Missive",
+   "zones": [
+    "Zephras Isle"
+   ],
+   "droppedBy": [
+    {
+     "npc": 253622,
+     "name": "Commander Haalien",
+     "level": 10,
+     "classification": 0,
+     "zones": [
+      16593
+     ],
+     "chance": 47.1
+    }
+   ],
+   "containedIn": [],
+   "xpRatio": 1.0,
+   "chain": [],
+   "worth": true,
+   "reasons": [
+    "XP 1.0x level median (guides include from 0.74x)"
+   ]
+  },
+  {
+   "quest": 92910,
+   "name": "Harvesting the Harvesters",
+   "level": 15,
+   "item": 255155,
+   "itemName": "Precessive Autocognition Assembly",
+   "zones": [
+    "Duskwood",
+    "Westfall"
+   ],
+   "droppedBy": [
+    {
+     "npc": 115,
+     "name": "Harvest Reaper",
+     "level": 17,
+     "classification": 0,
+     "zones": [
+      40,
+      10
+     ],
+     "chance": 0.1
+    },
+    {
+     "npc": 36,
+     "name": "Harvest Golem",
+     "level": 11,
+     "classification": 0,
+     "zones": [
+      40
+     ],
+     "chance": 0.1
+    },
+    {
+     "npc": 480,
+     "name": "Rusty Harvest Golem",
+     "level": 9,
+     "classification": 0,
+     "zones": [
+      40
+     ],
+     "chance": 0.1
+    },
+    {
+     "npc": 114,
+     "name": "Harvest Watcher",
+     "level": 14,
+     "classification": 0,
+     "zones": [
+      40
+     ],
+     "chance": 0.1
+    }
+   ],
+   "containedIn": [],
+   "xpRatio": 1.19,
+   "chain": [],
+   "worth": false,
+   "reasons": [
+    "XP 1.19x level median (guides include from 0.74x)",
+    "low drop chance 0.1%"
+   ]
+  },
+  {
+   "quest": 96391,
+   "name": "Underground Map",
+   "level": 15,
+   "item": 274268,
+   "itemName": "Dark Iron Map",
+   "zones": [
+    "Dun Morogh"
+   ],
+   "droppedBy": [
+    {
+     "npc": 6123,
+     "name": "Dark Iron Spy",
+     "level": 9,
+     "classification": 0,
+     "zones": [
+      1
+     ],
+     "chance": 8.4
+    },
+    {
+     "npc": 6124,
+     "name": "Captain Beld",
+     "level": 11,
+     "classification": 0,
+     "zones": [
+      1
+     ],
+     "chance": 12.8
+    }
+   ],
+   "containedIn": [],
+   "xpRatio": 1.57,
+   "chain": [
+    96393
+   ],
+   "worth": true,
+   "reasons": [
+    "XP 1.57x level median (guides include from 0.74x)",
+    "starts a chain of 2 (1 new)"
+   ]
+  },
+  {
+   "quest": 98423,
+   "name": "The Treaty of Understanding",
+   "level": 16,
+   "item": 281030,
+   "itemName": "Treaty of Understanding",
+   "zones": [],
+   "droppedBy": [],
+   "containedIn": [],
+   "xpRatio": 1.31,
+   "chain": [],
+   "worth": true,
+   "reasons": [
+    "XP 1.31x level median (guides include from 0.74x)"
+   ]
+  },
+  {
+   "quest": 98028,
+   "name": "Baron Marinous",
+   "level": 21,
+   "item": 279275,
+   "itemName": "Clouded Water Globe",
+   "zones": [
+    "Darkshore"
+   ],
+   "droppedBy": [
+    {
+     "npc": 270294,
+     "name": "Baron Marinous",
+     "level": 21,
+     "classification": 1,
+     "zones": [
+      148
+     ],
+     "chance": 100.0
+    }
+   ],
+   "containedIn": [],
+   "xpRatio": 1.32,
+   "chain": [],
+   "worth": true,
+   "reasons": [
+    "XP 1.32x level median (guides include from 0.74x)",
+    "Baron Marinous is elite/rare"
+   ]
+  },
+  {
+   "quest": 95189,
+   "name": "Crest of Lordaeron",
+   "level": 22,
+   "item": 268579,
+   "itemName": "Crest of Lordaeron",
+   "zones": [
+    "zone -1",
+    "zone -3"
+   ],
+   "droppedBy": [],
+   "containedIn": [
+    {
+     "object": 614679,
+     "name": "Crest of Lordaeron",
+     "zones": [
+      -1,
+      -3
+     ]
+    }
+   ],
+   "xpRatio": 1.49,
+   "chain": [],
+   "worth": true,
+   "reasons": [
+    "XP 1.49x level median (guides include from 0.74x)"
+   ]
+  },
+  {
+   "quest": 96138,
+   "name": "Merrick's Bow",
+   "level": 28,
+   "item": 281142,
+   "itemName": "Merrick's Bow",
+   "zones": [
+    "Duskwood"
+   ],
+   "droppedBy": [
+    {
+     "npc": 272273,
+     "name": "Lost Watcher",
+     "level": 24,
+     "classification": 0,
+     "zones": [
+      10
+     ],
+     "chance": 100.0
+    }
+   ],
+   "containedIn": [],
+   "xpRatio": 2.0,
+   "chain": [],
+   "worth": true,
+   "reasons": [
+    "XP 2.0x level median (guides include from 0.74x)"
+   ]
+  },
+  {
+   "quest": 95810,
+   "name": "Lost Relic Carry",
+   "level": 31,
+   "item": 270865,
+   "itemName": "Titan Relic",
+   "zones": [
+    "Excavation Site: Wetlands"
+   ],
+   "droppedBy": [
+    {
+     "npc": 260326,
+     "name": "Relic Guardian",
+     "level": null,
+     "classification": 1,
+     "zones": [
+      16732
+     ],
+     "chance": 26.8
+    }
+   ],
+   "containedIn": [],
+   "xpRatio": 0.25,
+   "chain": [
+    98824
+   ],
+   "worth": true,
+   "reasons": [
+    "starts a chain of 2 (1 new)",
+    "Relic Guardian is elite/rare"
+   ]
+  },
+  {
+   "quest": 98471,
+   "name": "Message from the Supreme Magister",
+   "level": 35,
+   "item": 281330,
+   "itemName": "Message from the Supreme Magister",
+   "zones": [],
+   "droppedBy": [],
+   "containedIn": [],
+   "xpRatio": 0.79,
+   "chain": [],
+   "worth": true,
+   "reasons": [
+    "XP 0.79x level median (guides include from 0.74x)"
+   ]
+  },
+  {
+   "quest": 95534,
+   "name": "Strahnbrad Mystery",
+   "level": 36,
+   "item": 213421,
+   "itemName": "Singed Note",
+   "zones": [
+    "Alterac Mountains"
+   ],
+   "droppedBy": [
+    {
+     "npc": 2318,
+     "name": "Argus Shadow Mage",
+     "level": 35,
+     "classification": 0,
+     "zones": [
+      36
+     ],
+     "chance": 0.1
+    },
+    {
+     "npc": 2319,
+     "name": "Syndicate Wizard",
+     "level": 34,
+     "classification": 0,
+     "zones": [
+      36
+     ],
+     "chance": 0.0
+    }
+   ],
+   "containedIn": [],
+   "xpRatio": 1.0,
+   "chain": [],
+   "worth": false,
+   "reasons": [
+    "XP 1.0x level median (guides include from 0.74x)",
+    "low drop chance 0.1%"
+   ]
+  },
+  {
+   "quest": 98247,
+   "name": "Shipping Label",
+   "level": 60,
+   "item": 280179,
+   "itemName": "Shipping Label",
+   "zones": [],
+   "droppedBy": [],
+   "containedIn": [],
+   "xpRatio": 0.1,
+   "chain": [],
+   "worth": false,
+   "reasons": []
+  }
+ ]
+}

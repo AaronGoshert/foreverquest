@@ -1,0 +1,88 @@
+{
+ "id": 94250,
+ "name": "Craftsman's Writ: Small Silk Pack",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 3134,
+  "name": "Kzixx",
+  "zone": "Duskwood",
+  "zoneId": 10,
+  "coords": [
+   [
+    81.4,
+    19.8
+   ],
+   [
+    81.8,
+    19.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Small Silk Pack  ( 1 ) Small Silk Pack  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264050,
+   "name": "Craftsman's Writ: Small Silk Pack",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4245,
+   "name": "Small Silk Pack",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Small Silk Pack",
+   "count": 1,
+   "type": "item",
+   "id": 264050
+  },
+  {
+   "text": "Small Silk Pack",
+   "count": 1,
+   "type": "item",
+   "id": 4245
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "end",
+   "type": 1,
+   "id": 3134,
+   "name": "Kzixx",
+   "coord": [
+    81.8,
+    19.8
+   ],
+   "coords": [
+    [
+     81.4,
+     19.8
+    ],
+    [
+     81.8,
+     19.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

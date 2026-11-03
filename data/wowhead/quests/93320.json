@@ -1,0 +1,105 @@
+{
+ "id": 93320,
+ "name": "Tower Defense",
+ "level": 11,
+ "reqlevel": 6,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 440,
+ "start": {
+  "type": "npc",
+  "id": 252383,
+  "name": "Valennia Stormfist",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    66.2,
+    76.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252378,
+  "name": "Yorana Windyreed",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    69.4,
+    67.2
+   ],
+   [
+    69.6,
+    67
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Report to Yorana Windyreed at the eastern watchtower in the Gustberry Lowlands.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 252378,
+   "name": "Yorana Windyreed",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252383,
+   "name": "Valennia Stormfist",
+   "coord": [
+    66.2,
+    76.6
+   ],
+   "coords": [
+    [
+     66.2,
+     76.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252378,
+   "name": "Yorana Windyreed",
+   "coord": [
+    69.6,
+    67
+   ],
+   "coords": [
+    [
+     69.4,
+     67.2
+    ],
+    [
+     69.6,
+     67
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-21T19:05:56-05:00",
+   "body": "In order to unlock this quest you must first complete \"The Broken Construct\" quests chain from Riaani Nightwind.   There was no info on this which is crazy because the weapons at the end of Tower Defense are a massive upgrade.",
+   "replies": []
+  }
+ ]
+}

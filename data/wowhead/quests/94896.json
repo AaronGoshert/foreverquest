@@ -1,0 +1,127 @@
+{
+ "id": 94896,
+ "name": "Aid For The Refugees",
+ "level": 11,
+ "reqlevel": 8,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 880,
+ "start": {
+  "type": "npc",
+  "id": 259012,
+  "name": "Ealaane Nimbuswalker",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    65.8,
+    74.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 259012,
+  "name": "Ealaane Nimbuswalker",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    65.8,
+    74.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect 8 Abandoned Belongings from the ruins of Ban'aethal. Abandoned Belongings  ( 8 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 266433,
+   "name": "Abandoned Belongings",
+   "count": 8,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Abandoned Belongings",
+   "count": 8,
+   "type": "item",
+   "id": 266433
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 259012,
+   "name": "Ealaane Nimbuswalker",
+   "coord": [
+    65.8,
+    74.4
+   ],
+   "coords": [
+    [
+     65.8,
+     74.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 259012,
+   "name": "Ealaane Nimbuswalker",
+   "coord": [
+    65.8,
+    74.4
+   ],
+   "coords": [
+    [
+     65.8,
+     74.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 2,
+   "date": "2026-10-04T10:03:45-05:00",
+   "body": "If you have the patience of a saint, the boxes @ 59.12, 32.17 and 57.17, 29.30 definitely work every time. \r\nRespawn time is about 8 minutes. I managed to complete the quest by just camping at these boxes...",
+   "replies": [
+    "I wasn't able t get the box @ 59.12, 32.17 to work, but 57.17, 29.30 worked for me. I appreciate the tip. Also, I was timing it, and the spawn timers were between 2.5 - 5.5 minutes while I was camping the box."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-03T20:47:35-05:00",
+   "body": "Currently is bugged. When clicking on the supplies you'll get the message, \"That is already being used\". There seem to be 2 locations that spawn supplies that are working though.",
+   "replies": [
+    "There are 4 working boxes at 57.6, 31.0 | 56.6, 29.2 | 58.2, 30.6 | 58.8, 31.1",
+    "Not all of these worked for me, unfortunately."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-04T16:28:25-05:00",
+   "body": "*beta* I think the trick is to check all of them to find a couple that work.\r\n\r\nThe ones that worked for me were at:\r\n56.7 33.5\r\n57.6 31\r\n58.2 30.6",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-06T01:14:49-05:00",
+   "body": "This seems bugged in the beta. Last night none of them were working for me (\"that is already being used\"). Tried again this morning and about half were working now.",
+   "replies": []
+  }
+ ]
+}

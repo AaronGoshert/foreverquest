@@ -1,0 +1,29 @@
+{
+ "id": 98471,
+ "name": "Message from the Supreme Magister",
+ "level": 35,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": -368,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1350,
+ "start": null,
+ "end": null,
+ "patch": "1.60.1.70170",
+ "objectiveText": "Meet Elaadrin Evengale at the cliffs overlooking The Uplands in Alterac Mountains. Message from the Supreme Magister (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 281330,
+   "name": "Message from the Supreme Magister",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [],
+ "missingPoints": null,
+ "comments": []
+}

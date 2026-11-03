@@ -1,0 +1,107 @@
+{
+ "id": 94495,
+ "name": "Call of Water",
+ "level": 22,
+ "reqlevel": 20,
+ "side": 1,
+ "zoneId": -82,
+ "reqclass": 64,
+ "status": "new",
+ "xp": 435,
+ "start": {
+  "type": "npc",
+  "id": 258043,
+  "name": "Norric Lochthane",
+  "zone": "Loch Modan",
+  "zoneId": 38,
+  "coords": [
+   [
+    41.8,
+    19
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 258203,
+  "name": "Hervdana Saegrund",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    65.6,
+    76.4
+   ],
+   [
+    65.8,
+    76.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Find Hervdana Saegrund in the Wetlands.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 258203,
+   "name": "Hervdana Saegrund",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [
+  94495,
+  94497,
+  94499,
+  94500,
+  94501,
+  94502,
+  94503,
+  94505
+ ],
+ "points": [
+  {
+   "zoneId": 38,
+   "zone": "Loch Modan",
+   "point": "start",
+   "type": 1,
+   "id": 258043,
+   "name": "Norric Lochthane",
+   "coord": [
+    41.8,
+    19
+   ],
+   "coords": [
+    [
+     41.8,
+     19
+    ]
+   ]
+  },
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 258203,
+   "name": "Hervdana Saegrund",
+   "coord": [
+    65.6,
+    76.4
+   ],
+   "coords": [
+    [
+     65.6,
+     76.4
+    ],
+    [
+     65.8,
+     76.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

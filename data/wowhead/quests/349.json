@@ -1,0 +1,220 @@
+{
+ "id": 349,
+ "name": "Stranglethorn Fever",
+ "level": 35,
+ "reqlevel": 32,
+ "side": 3,
+ "zoneId": 33,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 1449,
+  "name": "Witch Doctor Unbagwa",
+  "zone": "Stranglethorn Vale",
+  "zoneId": 33,
+  "coords": [
+   [
+    35.2,
+    60.4
+   ],
+   [
+    35.2,
+    60.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "temp text 02 - log Gorilla Fang  ( 10 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 2799,
+   "name": "Gorilla Fang",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Gorilla Fang",
+   "count": 10,
+   "type": "item",
+   "id": 2799
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 33,
+   "zone": "Stranglethorn Vale",
+   "point": "end",
+   "type": 1,
+   "id": 1449,
+   "name": "Witch Doctor Unbagwa",
+   "coord": [
+    35.2,
+    60.4
+   ],
+   "coords": [
+    [
+     35.2,
+     60.4
+    ],
+    [
+     35.2,
+     60.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 40,
+   "date": "2004-12-25T13:32:36-06:00",
+   "body": "This quest can be started at level 40. You will find an NPC lying on the ground on the lowest level of Booty Bay. He is under an upturned, broken in half boat. He'll request the \"Heart of Mokk\", and will lead you to speak with a troll shaman in Stranglethorn. \n\nIf you haven't done the \"Scaring Shaky\" quest yet, get it from \"Sea Wolf\" McKinley in Booty Bay, because that quest requires you to collect \"Mistvale Giblets\" from the Elder Mistvale Gorillas in the area. You will also need to collect 10 Gorilla Fangs for *Each* attempt you make at the Stranglethorn Fever quest. SO, its a good idea to stock up and kill a lot of these gorillas for the giblets and gorilla fangs. \n\nTo find these gorillas, head north from booty bay along the trail. Not far from the entrance, on the east side of the road, you should see some of the elder gorillas running around in a field. This is your home for the quest. Slaughter gorillas until you get the required number of Fangs (and giblets if you're doing that quest). \n\nIf you have a group for this quest, you only need one person to have the 10 fangs and follow the quest. The only point for everyone in the group is to get the heart of Mokk, and the only way to spawn him is to go through this veritable \"gauntlet\". \n\nThe troll can be found in a cave to the northeast of \"Mistvale Valley\", the place where you fight the elder gorillas. Once you click the \"complete quest\" button in the quest entry box, the troll will begin spawning gorillas that will run up the hill at you. The first wave is 3 enraged gorillas (level 42), the second wave is 4 enraged gorillas and a named gorilla (level 43). The third, and final wave, is 5 enraged gorillas and Mokk himself (level 44). Kill Mokk, loot the heart, and you're done. Well, you'll have to kill his buddies too, but the important part is killing him and looting the heart. If you die after looting, you still win =o)\n\nThe reward for the quest is 5850 XP (at level 40-43), and a 30 armor, 4 stamina, 9 spirit cloak, called \"medicine blanket\".\n\nEdited, Sat Dec 25 07:36:53 2004",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-08-08T21:25:58-05:00",
+   "body": "35:60",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-08-08T21:25:58-05:00",
+   "body": "The witch doctor is where the quest ends, and it's mapped for you above. Just click \"map\" next to his name.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-10-20T21:25:58-05:00",
+   "body": "During the 3rd wave, the gorilla that drops the heart comes in (he's white). As long as you kill him and get the heart, you can complete the quest.&nbsp; my lvl 40 rogue + lvl 55 warrior = complete.&nbsp; The Spirit Den (where Witch Doctor is) is 35,60.&nbsp; You just have to get the heart.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-10-20T21:25:58-05:00",
+   "body": "There is a prequest to do before you get this quest. Talk to the goblin in Booty Bay who is lying down under half a boat and he will give you it.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-07T09:25:58-06:00",
+   "body": "I just did this with a 41 Pally, alone. It was a challange but I had little problem. It's all about timing, I used 2 Superior Healing Potions, Lay on Hands, and both my \"bubbles\". The first wave was 3 and the second was 4 with one of them being a named. The last wave was the one that had Mokk in it. The key here is to just kill Mokk, grab the heart and book it. Don't worry about the rest of the mobs that are with him. I did that and it was a peice of cake.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-14T09:25:58-05:00",
+   "body": "If you activate the part of the quest that requires the Gorilla Fangs and you fail, you need to get 10 more gorilla fangs, so get a small group of 3-4 40-45s and its easy.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-14T09:25:58-05:00",
+   "body": "you need 10 gorilla fangs in order for unbagwa to summon mokk. there were 3 waves of 3-4 gorillas, lvls 41-43. mokk came at the last wave. 5850xp makes it worth it. \n\nlvl 43 warlock + lvl 60 paladin = complete",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-15T21:54:46-05:00",
+   "body": "If you fail the quest you need 10 more gorilla fangs to summon more gorilla waves.\n\nI failed quest and the troll npc died, he needed 10 more gorilla fangs before he would summon them again.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-27T20:58:22-05:00",
+   "body": "I tried this as a level 45 Warlock, got past the first mob of gorillas, ok, had no recovery before the second mob hit and died fairly quickly.  had to go back and collect the fangs all over again.  Found a level 43 shaman to help me with quest.  We just managed to get through the second round, but both got killed on the third.  This is NOT a quest to try solo, best get a group together first.  Ended up abandoning it.  Decided I really didn't need the cloak that badly.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-02-08T20:26:31-06:00",
+   "body": "I tried soloing this one at 45 and later again at 49.  Got to the third waive, guess if i would have focused on the leader could have taken him down before i died.  But if you fail quest you have to get 10 gorilla fangs all over again.  The blanket you get is not so great, a wild leather cloak is better and i can make those.  Basically if you have a few people at 45 or so, or at least 2 at higher levels it may be worth it, but soloing you are wasting your time.  This should be listed as a group quest or be a listed as a higher level quest.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-14T09:25:58-05:00",
+   "body": "So are the Gorilla Fangs still needed? I just did this quest and it didn't look like it. I still have the fangs...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-14T09:25:58-05:00",
+   "body": "Soloed this with lvl 46 paladin, a bit hard fight (that seem to last forever), but no bigger problems =)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-01T21:25:58-06:00",
+   "body": "each player need 10 fangs or just one guy?",
+   "replies": [
+    "One. I know it's been 13 yrs but nobody else answered."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-07T09:25:58-06:00",
+   "body": "If you haven't gotten the 10 gorilla fangs try getting them of Jungle thunderer's. The drop rate is much better then the ELder mistvale gorrilas. \nThe thunderer's drop about 85% of the time.\nGl",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-15T21:25:58-05:00",
+   "body": "Me (43 shamy) and my mate (43 warlock) duo'ed this quest easy. No problem.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-15T16:56:07-06:00",
+   "body": "The fangs drop at a fairly decent rate, and they can drop of the non-elder gorillas.  Just not as frequently.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-08T08:45:52-05:00",
+   "body": "Solo'd as lvl 40 Frost Mage. Do not recommend tho.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-10T08:33:08-05:00",
+   "body": "you won't get xp for that quest, so if u got heart of mokk already and u wan't to do this quest don't waste your time on it",
+   "replies": [
+    "Apparently you can if you didn't turn in the heart yet."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2021-03-17T09:07:01-05:00",
+   "body": "Be prepared the last wave is a tough one if you are doing alone.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-10-20T21:25:58-05:00",
+   "body": "Is this quest horde only, or can the Alliance do it?",
+   "replies": [
+    "2 Paladins said they soloed it. I may be overstepping here, but to me that means Alliance can do the quest."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-09-14T09:25:58-05:00",
+   "body": "the doc started to summon and just keep it up.\nthen wave after wave of gorillas came untill I was dead. Is this buged or is this the quest.\nand if so how many waves of 3to4 gorillas do i have to do?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-09-05T11:55:31-05:00",
+   "body": "I've done this at lvl 45 (paladin) and a lvl 45 lock.\nEasy quest. Low drop-rate of fangs.",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,729 @@
+{
+ "id": 10,
+ "name": "The Scrimshank Redemption",
+ "level": 48,
+ "reqlevel": 39,
+ "side": 3,
+ "zoneId": 440,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 4400,
+ "start": {
+  "type": "npc",
+  "id": 7724,
+  "name": "Senior Surveyor Fizzledowser",
+  "zone": "Tanaris",
+  "zoneId": 440,
+  "coords": [
+   [
+    50.2,
+    27.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 7724,
+  "name": "Senior Surveyor Fizzledowser",
+  "zone": "Tanaris",
+  "zoneId": 440,
+  "coords": [
+   [
+    50.2,
+    27.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Discover the fate of Junior Surveyor Scrimshank, and bring either him or his surveying equipment to Senior Surveyor Fizzledowser in Gadgetzan. Scrimshank's Surveying Gear  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 7724,
+   "name": "Senior Surveyor Fizzledowser",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 8593,
+   "name": "Scrimshank's Surveying Gear",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Scrimshank's Surveying Gear",
+   "count": 1,
+   "type": "item",
+   "id": 8593
+  }
+ ],
+ "series": [
+  10,
+  110,
+  113
+ ],
+ "points": [
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "start",
+   "type": 1,
+   "id": 7724,
+   "name": "Senior Surveyor Fizzledowser",
+   "coord": [
+    50.2,
+    27.4
+   ],
+   "coords": [
+    [
+     50.2,
+     27.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 440,
+   "zone": "Tanaris",
+   "point": "end",
+   "type": 1,
+   "id": 7724,
+   "name": "Senior Surveyor Fizzledowser",
+   "coord": [
+    50.2,
+    27.4
+   ],
+   "coords": [
+    [
+     50.2,
+     27.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 210,
+   "date": "2005-10-27T05:03:06-05:00",
+   "body": "Some of you need to learn right from left.\n\nWhen come to the hive there will be two opening, one upper and one lower. Take the uppper opening.\n\nYou will come to a \"Y\" just as you enter, go LEFT.\n\nYou will enter a large round room, proceed through the tunnel (only one).\n\nFrom here you will enter a large square room (butterfly shape as some call it) room with four distinct corners, go left. If you look at the mini-map, it would the North-West direction.\n\nThere it is, gaurded by one insect. Level will generally be between 47 - 49, depending on respawn.\n\nIf you are a Rogue 46+ or Druid 48+, you can stealth through easily. Rogues will find it easier to use distract to make sure the insects are looking in the other direction.\n\nFor other classes, it's pretty much a fight through. Insects are a tough bunch for their level and there are plenty of patrols inside - so keep an eye out.",
+   "replies": [
+    "upper means Este",
+    "Upper is the one on the left when heading down the ramp."
+   ]
+  },
+  {
+   "rating": 64,
+   "date": "2005-10-27T05:03:06-05:00",
+   "body": "54, 71\n\nWhen you enter the tunnels, you will see a large room that looks like a purple butterfly.&nbsp; Weird but it was the first thing that came to mind when i looked.&nbsp; Anyway, the gear looks like on of the BuzzBoxes around Auberdine.&nbsp; It was guarded by 1 lvl 48 monster.&nbsp; Easily picked up with a little stealth action.....\n\nGl",
+   "replies": []
+  },
+  {
+   "rating": 35,
+   "date": "2005-01-26T16:09:59-06:00",
+   "body": "To find the gear go down the ramp, there will be 2 tunnels you want the tunnel at the bottom of the ramp.   Once you enter the cave you want to go right at the fist intersection.\n\nThere will be a large circular room, head through the room to the next tunnel, you will come to another intersection, go right again\n\nYou will come to another large room, the equipment is located in the N.W. corner of that room.  The room looks sort of like a square on the mini map, but it is more like a X shaped place.\n\nThere are alot of critters in the tunnels, and some are lvl 50, although the quest is rated 48, and is yellow at 47, you should wait till 48 to do it.  The swarmers are killer for casters.",
+   "replies": [
+    "Thanks a bunch your directions were great. I spent an hour or so the other day looking for this and couldn't find it but your directions were perfect^^ Thanks.",
+    "Go left where the OP says to go right and you should be OK. 55,71 is correct.\n\nBoth mithril and thorium are available in this cave if you don't mind dying several times.\n\nEdited, Sat Aug  6 11:57:38 2005"
+   ]
+  },
+  {
+   "rating": 24,
+   "date": "2005-10-27T05:03:06-05:00",
+   "body": "Further details...\nI went in the hive entrance at 55,69 . from there take a right down into a large room. procede strait threw, when you hit the other hallway take a right. You should be going down deeper into the hive. When you reach the large room at the bottom its in the top right corner. 55,71",
+   "replies": [
+    "The loc 55, 71 is correct but the directions are all wrong.&nbsp; The room is the butterfly looking room.&nbsp; The item is in the top left."
+   ]
+  },
+  {
+   "rating": 22,
+   "date": "2006-10-23T05:42:50-05:00",
+   "body": "Okay, this quest sucks (at least as a 46 mage). It's very soloable, but it takes lots of regen time. When you get to the point on the Wowhead map, you'll realize it's not there. This hung me up for like ten minutes. It's in a tunnel below. You have to go towards the spiral-looking-thing on your map. Take the tunnel to the left (I don't know if there was one on the right, it looked like there could have been but I guessed left and ended up being correct). Just follow it until you have a chance to go to the coords (56, 71 I believe) that the map shows. Good Luck.",
+   "replies": [
+    "Tried, this. Saw that my mana regen wasn't going to be fast enough. So I just mage-bubbled and death-ran to the target. Died, ghost-ran back, resurrected at the quest objective, got object, then teleported out. Not elegant, but a lot faster than fighting your way in and out."
+   ]
+  },
+  {
+   "rating": 18,
+   "date": "2005-10-27T05:03:06-05:00",
+   "body": "When you get to the cave faceing DOWN the twirling ramp, its the RIGHT cave.\n\nOnce you go in VEER RIGHT again.&nbsp; You will come to a circle like room, stay on the left to avoid the roamer.&nbsp; The only way I could get past the 10 or so bugs was to run close to the left most corner and run back dead (48 fire mage).\n\nIf you're on the left most side (At least at 48) and stick to the wall like GLUE there is a nearby bug that wont attack you.&nbsp; Go to the left most corner and be aware there is a roamer that will go in there on occasion.&nbsp; Kill it AFTER you kill the other one if you can't hearth out.&nbsp; Make sure you can HEARTH out, preferably to Gadgetstan.\n\nBest of luck, this was a cruel quest!",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2005-11-24T07:20:01-06:00",
+   "body": "Not Bugged...Thottbot say that it is bugged or hard to get...it is not...I was finally able to find the \"buzzbox looking thing\"....as soon as you walk into the \"sqaure\" room make a sharp left, actually more like a U-Turn.  We cleared that room numerous times and never once saw the \"buzzbox\".  It is really easy to over look... \n\nEnter the  hive, take the left tunnel, once in the hive turn left and head down the tunnel to the round room, cross this room, and enter the \"sqaure\" room (more like a jacked up H), as soon as you enter make a hard left (like a u-turn) and it should be right there. \n\nEdited, Thu Nov 24 03:34:30 2005",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2019-11-02T18:50:05-05:00",
+   "body": "Cave entrance is 55.8 69.05.",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2007-03-25T02:04:05-05:00",
+   "body": "If the toughness of the quest doesn't tick you off, then the amount of pats will. The sheer amount of pats that roam back and forth is OUTSTANDING. There's about 1-2 for every single hallway, making solo battles almost impossible, as you're bound to get an add.",
+   "replies": []
+  },
+  {
+   "rating": 14,
+   "date": "2007-03-18T11:38:35-05:00",
+   "body": "For those with very accurate coords, it is at 55.96, 71.17",
+   "replies": [
+    "Standing at cave entrance .. 54.6, 70.6. Take all lefts as someone else said."
+   ]
+  },
+  {
+   "rating": 13,
+   "date": "2020-08-28T13:09:22-05:00",
+   "body": "This quest is marked as being level 48.  It should really be marked as level 50, because there WILL be at least a couple of level 50 bugs you'll have to fight your way through to get to the surveying gear.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-27T05:03:06-05:00",
+   "body": "The object is inside the insect lair. It's deep inside in a big room. Look into one of the alcoves of the room on the ground.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-10-27T05:03:06-05:00",
+   "body": "56.71 is right according to both thottbot and my own experience.&nbsp; That's the northwest corner of the square room, you'll see a round room north of it, and another one west.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-01-08T04:45:58-06:00",
+   "body": "To find the gear go down into the hole in the cavern. You will see two tunnels go into the one that's the lowest down after entering turn right (east) as soon as you can and you'll end up in a good sized circular room, go competly through that room following the hall and at the split turn right (south), you'll enter a squarish room and the surveying gear will be in the corner to the west.\n\nSide Note: You'll find several Mithril Veins in these underground tunnels.",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2005-01-05T11:43:34-06:00",
+   "body": "Was wondering because I killed a ton of the bugs with no drop\n\nI am going to the coords thottbot posted then",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2005-06-18T16:07:03-05:00",
+   "body": "[item=11567] need to do the prereqs which can be done quickly (if not carefully at 50) by anyone with a horse. \n\nThe damage shield from Crystal Spire kills the swarmers and parasites in one hit.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2020-04-16T13:33:04-05:00",
+   "body": "Did this as a lvl 47 lock, drain tank build. Extremely easy, just go slow and take the top left entrance and make all your lefts if you don't have questie. Watch out for little swarmers, they all die in 1 hit but are pesky.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2020-08-28T12:42:00-05:00",
+   "body": "If you die, you will have to run all the way back from the graveyard at Gadgetzan in the far north part of the zone.  :(",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-27T05:03:06-05:00",
+   "body": "I soloed this as a 47 Mage without much trouble and without dying once. Frost Nova (insta-AOE) helps a lot against the little parasites (sometimes 2 or 3) that spawn after you kill a bigger bug. Follow the steps below to find the objective:\n\n1. Enter the Gaping Chasm region and head for the middle of the purple slime. You'll see the main entrance to the lair near the center of that region, with large raised ridges nearby.\n\n2. When you get to the entrance, there will be two holes leading down into the lair. Take the northern-most hole. In other words, the one to your righthand side as you descend the outer ramp.\n\n3. When you come to the first fork, just inside, take a right which will lead you to an oval-shaped room with just a few bugs between 47-49. Kill the ones in the way and make your way to the opposite side of the round room.\n\n4. From the other side of the round room, you'll find a path that leads to a slightly larger square room. As you enter the square room, stick to the right wall and make your way into the corner guarded by a level 50 bug. The object is there, behind him, and is large enough to target from all the way across the room.",
+   "replies": [
+    "\"Possible as a 47 Mage\" post is right on. Directions are great. Thanks a lot!\n\nI did this as a 51 priest (Discipline / Holy spec) and it wasn't too hard. It requires patience and timing. If you stick to the walls and time it right, the largest mob you will ever face is 2 insects and maybe a couple parasites. A couple of times I didn't time it right and had 3 or 4 on me and had to run, sticking close to the walls. I used an Arcane Elixir and a Scroll of Intellect II.\n\nA couple notes: \n1) the Tunnelers look similar to the Swarmers, but don't swarm. They produce two parasites when dead. The paras"
+   ]
+  },
+  {
+   "rating": 4,
+   "date": "2006-01-08T05:03:06-06:00",
+   "body": "I soloed this with a 45 warlock. After killing the bugs just outside the entrance, I hung around there for a while while I scouted out the inside of the lair with the Eye of Kilrogg, to make sure I had the route down cold. Then I made a kamikaze run for the item: soulstoned myself and ran into the lair, letting my voidwalker take the aggro until it was nearly dead, then sacrificed it and ran the rest of the way. As I'd expected, the bug guarding the item, along with the posse that were following me by then, killed me before I could open it. I waited for the posse to disperse, rezzed myself, and Feared the guard, which gave me enough time to summon the VW again. The VW held off the guard long enough for me to open the item, and then hearthstone out.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-02-13T04:16:47-06:00",
+   "body": "The exact local is 55,71 using Cosmos, obviously this is underground also",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2020-05-30T14:57:50-05:00",
+   "body": "Do yourself a favour and [b]skip this quest[/b], unless you're a rogue or a feral druid.\n\nPatrols come with adds (1-2, you can't see them around corners, but they'll walk into the battle). They either spawn an \"infinite\" number of adds upon dying or during the fight. You get this quest around level 45-46, but mobs inside are 47-50 - enjoy the mass resists/misses/parries/dodges. You [b]will[/b] keep dying and there's little in the way of getting rewarded in here.\n\nI'm doing this quest right now - I started doing it because hey, I'm like elite and stuff, been playing since vanilla yada yada yada. I died once and wasted 6 grenades to get rid of overwhelming adds.\n\nYou think you wanna do this quest, but you don't.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-02-13T17:03:06-06:00",
+   "body": "Just did this quest.\n\nThe directions given above suck if you don't have a coordinate mod installed (or, like me, don't want to just know exactly where to go by looking at a number).\n\nThe equipment is in the actual underground silithid hive itself, in the 'Gaping Chasm' area of Tanaris.&nbsp; The whole place is crawling with various Hazzari Silithids.\n\nThe easiest approach I found was to enter the hive in the 'middle' of the Gaping Chasm, at the large central hole.&nbsp; There is a spiral ramp leading down; go to the left at the bottom of the ramp.&nbsp; Follow the tunnels (also to the left, though everything to the right is dead ends) until you reach a large X-shaped room (it's very distinctive on the map; it is referred to above as the \"butterfly room\", and it does sort of look like one on the minimap due to the coloring.)&nbsp; The gear is in the alcove in the NW corner of that room.&nbsp; It actually looks like a gnomish control console.\n\nThere are a lot of 48-50 bugs down there; visibility is poor because of the twisting tunnels, and there are a number of patrolling Hazzari Swarmers (who can overwhelm you if you don't have AOE).&nbsp; If you take it slowly, you should be able to just fight one mob at a time.&nbsp; If you can stealth, and you're at least L45, you can probably sneak in and only have to fight one or two enemies (maybe none if you have a way to CC the one standing by the equipment you need).",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-02-14T23:49:35-06:00",
+   "body": "Here is a screen shot of what the item you need to loot looks like:\nhttp://i38.photobucket.com/albums/e142/snailaim/ScrimshankRedemptionScreen.jpg\nThe quest was fairly simple as a rogue. I aggroed some bugs at only level 47 as they are level 50ish. It is past the room with the circle, it is sort of in a little branch of its own outside of the circle area. Only 1 bug guarding it, a level 48 I believe.\nGood luck and have fun.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-12-13T01:01:38-06:00",
+   "body": "Just keep going left in the hive cave at 56,71, till you get to it. 49 mob guarding it usually.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-11-10T03:14:03-06:00",
+   "body": "November, 2019: WoW Classic.\nJust did this quest on a L47 BM Hunter, and it was not easy. First of all, be aware that taking the LOWER of the two ramps at the entrance allows you to enter the butterfly room' with minimal Swarmers. If you take the upper path, you'll need to face at least two.\nWhen fighting the swarmers, the best tactic I found was to use Multishot on the first group of the little mini beetles that spawn, followed by Volley. Keep your pet healed, as those little bugs do a surpising amount of damage.\nMy pet died twice due to patrols ambushing me as I was fighting other mobs, but Feign Death saved the day.\nTake it slow, don't rush, and pull carefully. The 'butterfly room' has several mobs, including those annoying Workers that run a mile at low health (use Concussive Shot). But most important, there's two slow, long-range patrols that come up the corridor leading to the butterfly room. They caught me from behind while I was fighting other mobs in the main chamber, which accounted for one of the pet deaths. Be aware of these patrols, and deal with them.\nAll in all a very tricky quest for Hunters, due to the narrow confines of the passages,  the fleeing mobs, Swarmers, and many, many patrols. Slow and steady wins the race - make your you have PLENTY of water. I can't stress this enough, you'll be  using many of your most mana-intensive abiltlities, and you're going to need it.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-11-25T04:11:49-06:00",
+   "body": "Soloed as a Level 50 Shadow Priest.  Take the lower cave and you don't have far to run.  The trick is to take your time and pick your way through carefully, if you go all gung ho you'll likely have issues.  Always watch your back and if you need to eat or drink, always do it at the place where the last mob you killed was standing as things can respawn quick in here.\r\n\r\nCouple of tips for specific mobs:\r\n\r\nSwarmers - kill the tiny swarms first or the mob will keep summoning more and they will soon overwhelm you.\r\nWorkers - these mobs run in fear when they are low on health, be sure to use any CC abilities you might have to stop them.  All I had was Mind Flay, but it worked.\r\n\r\nThe vast majority of the mobs in here spawn two parasites when they die, they have very little health but be ready for them and don't move on until they are dead.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2020-01-30T11:57:47-06:00",
+   "body": "This quest isn't too bad, just be wary of patrols and take it slow. If you're a paladin, retribution aura works like a charm against the tiny parasites.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-27T05:03:06-05:00",
+   "body": "You all save many people much time! \n\nalso as an FYI as a level 49 warloc I had a real hard time doing this one solo.&nbsp; take that for what its worth.",
+   "replies": [
+    "If you look carefully, that comment by the Warlock was made more than a year and a half ago. The fact that you soloed it as a 45 Mage and felt it neccessary to put him down to make yourself look better is testament to your ignorance. Locks have received considerable buffs since that comment was posted, so perhaps yes, it is now quite soloable for a lower level lock. \n\nI wish people would stop trying to promote the size of their e-peens and just try to be civil for once. The guy was trying to be nice by thanking the posters before him. People like you give us mages a really bad image. No wonder"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-03T05:03:06-05:00",
+   "body": "Ok theres this big hole with 2 caves. Walk down the huge spiral. You'll reach one cave first walking down the spiral. PASS that cave and go to the next one. \n\nOnce in this cave basically just keep going right and you will enter the \"butterfly room.\" If you look on your minimap this looks like a butterfly because there are 4 curved corners. While entering this butterfly room, go to the forward-right (northeast) part of the room where a metal like box will be guarded by a 49 elite bug. \n\nI'm a 45 mage and I basically used mana shield and ice barrier to run to this point, I rezzed a little in front of the machine and healed up to kill the bug.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-12-02T17:03:06-06:00",
+   "body": "As the poster above suggest for hunters, I just did some slow grinding as I worked my way to the room with my lvl 45 hunter.&nbsp; Beast build with broken tooth.&nbsp; Made it all the way to the room with the machine in it before I got overwhelmed.&nbsp; Didn't have any problems with doing 2 at once excet for when I hit the room I aggroed 3.\nRan to the NW corner, got at the opening to the area where the box is, died.\nRezzed just out of range of the bug guarding the box, aggroed the entire room, died, rezzed at healer.&nbsp; \nAt level 45 the XP was the same as the lvl 47 lock who posted all the rewards.&nbsp; 4400 for the main quest.\n\nplaying a hunter is like easy mode",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-04-27T22:51:33-05:00",
+   "body": "Wow love fun easy quests like this lol, also love the challenging ones but got too many of those in Un'goro atm lol. \n\nSo did this as a lvl49 rogue, nothing was guarding the machine, there was a sawrmer there but it was patroling so watched it leave then collected, so this quest - as a rogue - can be done without killing anything lol. \n\nEnter the cave at something like 54:68 and go down the ramp and take the entrance directly ahead (SouthWest). \n\nWhen you enter the cave take each left, you can't miss it :)\n\n\n[i][small]Edited, Apr 27th 2007  9:54pm by MachineX[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-04T18:06:52-05:00",
+   "body": "no coords? lol, ok.  go to the cave in gaping chasm and find the butterfly room like was said before.  there are a bunch of them in the pathways like the insect cave in 1k needles, so stealth or fight",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-03-26T02:20:11-05:00",
+   "body": "\"54, 71\n\nWhen you enter the tunnels, you will see a large room that looks like a purple butterfly.  Weird but it was the first thing that came to mind when i looked.  Anyway, the gear looks like on of the BuzzBoxes around Auberdine.  It was guarded by 1 lvl 48 monster.  Easily picked up with a little stealth action.....\n\nGl\"\n\nfrom a post on Thottbot by user: merlin14 <Legendary Crusader>",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-22T07:12:38-05:00",
+   "body": "Either entrance will work.  Just make your way to what looks like a square room on your mini map.  The gear is in a box that resembles the buzzboxes from darkshore.  This box is located in one of the corners, guarded by a beetle.  Watch out for the patrol that comes by though.\n\nHope these directions are better, others posted are quite confusing...",
+   "replies": [
+    "Good directions-here is what  I did for clarification. Entered gaping chasm from east, stay close to outside edge til came to squarish area with spiral descending into hive. Take left into 1st passage, then follow passage until reach a rectangular room with \"legs\". The box is the 1st left \"leg\". Some of the bugs have green drops, most leave nothing. Most of the bugs drop adds\"parasites\" which attack when the main target is killed. There are no chests or anything else in the hive, so don't waste time/mana/hp searching."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-26T21:47:56-05:00",
+   "body": "As a lvl 50 Druid I used cat form and stealthed in, got what I needed and stealthed out.... Easy as pie :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-17T17:42:06-06:00",
+   "body": "Whoever said don't go in as a mage: Found this very easy as mage.\n\nNever had more than one of these on me at a time, which should be easy to do for any mage who is good at pulling. I don't think many are linked at all. Make sure you have Nova/COC/AE ready for the little buggers that attack you after you kill the big ones.\n\n4400 XP",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-05T03:36:38-05:00",
+   "body": "soloed this as a 48 warlock swarmers are a nightmare make sure u have a few potions of health and a soulstone up as they spawn quite quick once u get to the main room take a small area at a time once u get to the equipment stone out to save your sanity \ngood luck",
+   "replies": [
+    "Question -- are the swarmers here similar to the ones south of Camp T in the Barrens? If so, I had no trouble soloing those as a Warlock once I figured out the right strategy. This may require the voidwalker to pull off, though I'll probably try it with my Felhunter before jumping to any conclusions. In any case, here's what I did, as an Affliction 'lock:\n\nSend your pet to aggro the Swarmer. Wait long enough to curse/dot it up without pulling aggro. Once a few swarms spawn, drop Rain of Fire. (Place it to catch the swarmers, but give them the longest run in its radius possible.) By that point,",
+    "yes they are similar to the Barrens ones -- they also succumb to warrior's thunderclap"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-22T19:49:49-05:00",
+   "body": "Did this quest as a 49 Retro Paladin (with a 45 Retro Paladin).  AoE spell like Consecration works like a charm on the swarmers.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-16T15:32:10-05:00",
+   "body": "i need coords not how u did the quest.",
+   "replies": [
+    "Then figure them out for yourself...  jeez!",
+    "Sweet Lord.  Some of you will b*tch about anything.  I am glad that he posted what he did.... IT FEEDS INTO OTHER IDEA'S.  If ya don't like what you are reading or do not find it helpful, STHU and go look it up else where, and leave the snotty butt attitude somewhere else. "
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-18T20:50:40-05:00",
+   "body": "attained at lvl 42",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-03T19:02:52-05:00",
+   "body": "I found it at Loc 55,71 on my titan bar",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-06T15:48:49-06:00",
+   "body": "Tried everything you guys posted, with no results. :(",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-20T18:26:57-05:00",
+   "body": "i only killed 6 of them to get the parts. the stingers dropped them every time.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-03T11:42:53-05:00",
+   "body": "should be said that this quest \"opens\" only when u finished \"Gadgetzan Water Survey\" and its follow up \"Noxious Lair Investigation\" - at least i could not get it before i finished these 2. they are not linked but i think they're defiantely codependant",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-20T12:29:43-06:00",
+   "body": "As stated earlier the directions are very good but as a 49 priest I found that trying to fight my way in was a bit more effort than I really wanted to do. This may be a bit of a cheat and not in the full spirit of the game but some days you just want to get it done.\n\nEntered from the east and got to the tunnel entrance with only having to take out a few mobs. At the entrance I cast my shield and started running. I built up a nice train but by casting renew and a couple of fears as I ran I was able to make it all the way to the square room and where the gear was stored and ran up to where the box was and allowed my self to die there.\n\nI ran back to my corpse from Gadgetzan's graveyard and at the box I found that there was only one mob guarding it and it was a bit forward. Behind the box was a bit of space and a circular indent in the wall. I stood in this spot and watched the area for a bit and saw that there was one mob on partol that would wander into this area from time to time. I waited until it had left and only the stationary mob was there and then I ressurected. I had expected to agro the mob and was planning on re-casting my shield using a mana pot and then desperate prayer if needed while I took out the mob. However, the mob ignored me and I was able to build up a bit of health and mana before taking it out.\n\nI then opened the box, took the gear and hearthstoned out.\n\nAs I said this is a bit of cheat but it was 3:00am in the morning when I did this and no one was available to group with and I wanted to finish this before going to bed.\n\nGood luck.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-22T06:54:34-06:00",
+   "body": "I went in as a 48 Mage.  The little pain in the butt swarmers were just that, but I made sure I saved my cone of cold.  Once I killed anything, I cast that and killed all of the little pests before they could cause problems.\n\nOf course, if I had to fight 2 big bugs at once, it was at best a close match.  Add a third, and I had a long way to run back from the cemetary.\n\nOf course, to make matters worse, I killed what I thought was the last big bug, and before resting (drinking and eating) I got the gear.  Turned around, was ambushed and killed.  The moral of the story is don't get greedy.  Eat, drink, then be merry with the booty.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-29T09:57:19-06:00",
+   "body": "Enter hive in ground\n\nFirst left\n\nKeep to left all the way\n\nCome to room keep to left side go through opening opposite.\n\nleft at 56,72\n\nhard left at 57,72\n\nMachine at 56,71\n\nmost bugs 49 highest I saw was 50.\n\nWho cares how clever you were please provide detaial to help people.",
+   "replies": [
+    "what, truly, is the point in providing coords every 1pt change?"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-27T15:09:01-05:00",
+   "body": "Cat form stealthed my way through the entire thing as a 46 druid. The bugs have good stealth perception, so stay as well away as possible. Only fought two bugs, one of which was near the equipment and was 49, the other was a 50 that spotted me on my way out. I just let it kill me and rezzed at the graveyard.\n\nI can see why these bugs are a caster's nightmare. They hit extremely hard. :/\n\nSelliangus' directions were accurate. ^^",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-10T19:51:34-05:00",
+   "body": "At level 46 this quest was yellow in my log, so I thought I might as well go ahead and do it. Then I got to the Gaping Chasm. I knew I needed the XP, so I mounted up and got as far as I could to the cave entrance and shadowmelded, as I stripped my armor off. As a warrior I went into defensive stance and just death ran following instructions previously posting. Once I got to the supplies, I rezzed from dying before and shadowmelded while I put my armor back on. I was confident that I could solo a level 50, since I could grind on elites without a problem. Then an add came. I saved up the rage and did an intimidating shout to get them off of me and nabbed the goods. I sacrificed a gold or two from using the spirit rezzer, but it was worth it.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-19T05:02:22-06:00",
+   "body": "thorium, truesilver, and mithril abound in teh caves, alas the mobs are fairly boring to kill as a ret spec pala.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-18T21:54:44-05:00",
+   "body": "soloed at 46 druid, died 3 times cuz i went the wrong direction :S and i got caught twice. was overall pretty easy. very intence sneaking thru there but fun.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-20T21:35:51-05:00",
+   "body": "Was not successful in sneaking around, but got  a couple of green drops in process of killing 25 to 30 of the bugs. Retribution Aura quickly kills swarmers and parasites.  \n\nLevel 50 plus Paladin should find this pretty easy.\n\n\nRead direction above in post \"Good Directions...\" if you want to avoid taking the grand tour.\n\nSaw a level 53 Undead mage going in. Used all his Mana to kill two of them. Suspect he will find it tough going once he gets underground.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-23T04:01:00-06:00",
+   "body": "wow that made it really easy. Just stay left the entire time. All left turns and it's right there when you finally dead end.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-10T15:45:00-06:00",
+   "body": "I spent almost all morning in cat stealth mode looking for this gear. I finnaly followed anubus's directions and got it in seconds.. Thanks a bunch hon :))",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-08T14:00:39-05:00",
+   "body": "The console you're looking for is at 56,71",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-18T20:00:30-06:00",
+   "body": "I tried inching my way in following the previous directions.  Had minimal sucess, got to the room right before the one with the box in it, and had a problem with adds (mainly the swarmers).  I ended up running in, dying, , rez, summon pet, having pet distract the mob guarding it, while I looted/hearthed.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-21T16:47:09-05:00",
+   "body": "Took some patience as a 45 war. Ended up walking/getting killed to the chest so I could res on top of it. Retal'ed the one guard, took the chest and hearthed. Probably not worth the effort solo.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-04-29T10:45:32-05:00",
+   "body": "solo'd this tonight as a lvl 46 rogue, just stealthed in killed the guard vanished and waited for the parisited to die, and then grabbed the loot n got out of there",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-08T19:26:05-05:00",
+   "body": "go to the spiral entrance of their hive, go to the entrance on the left and just follow the path on ur left till u find a like machine sitting in a room",
+   "replies": [
+    "It's in a butterfly-shaped section of the tunnel, in the northwest \"wing\". :)"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-26T16:04:35-06:00",
+   "body": "Great instructions, only I'd add these start from the VERY top of the hole in the ground not the first \"entrance\" You do have to be quite quick as the respawn rate can be treachorous. If you die in there you're a gonna. \n\nThought I'd post the update as I'm seeing a lot of new 40 somethings :D\n\n[quote]Enter hive in ground \nFirst left \nKeep to left all the way \nCome to room keep to left side go through opening opposite. \nleft at 56,72 \nhard left at 57,72 \nMachine at 56,71 \n\nmost bugs 49 highest I saw was 50. \n\nWho cares how clever you were please provide detaial to help people.[/quote]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-08T01:37:26-06:00",
+   "body": "take the upper or first entrance and check the pic thats it. :)\n\n[i][small]Edited, Feb  7th 2007 10:38pm by ASADDF[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-04T15:06:15-05:00",
+   "body": "Why is this quest yellow to me at level 46? I should know better than to attemp things before checking this site, but I'm stubborn and since it was yellow I thought I should be able to do it. I can easily kill 49's but a quest that involves 50's should at the very least be orange.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-19T14:34:21-05:00",
+   "body": "[Silver]Did it as lvl 47 Rogue. Easy pie.\nWord of advice: Go in through the eastern entrance of the cave, 'cause that shortest. Stealthed all the way, helped by some clever distracting, and only had to kill the tunneler closest to the thing. Aggroed a patroling stinger though, but got rid of it with a vanish.[/Silver]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-05T13:41:30-05:00",
+   "body": "Quest name owns ><",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-08-18T03:22:40-05:00",
+   "body": "Did this with my 47 pally.  Not a problem if you go nice and slow.  Most of the mobs were 47-48.  There are only a few lvl 50s.  The directions given in a previous post were dead-on.  This was some easy xp.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-28T16:40:42-06:00",
+   "body": "I did this as a 46 mage. The pit you want is farthest east towards the mountains. It is the only one with two entrances. The SW entrance is the right one. All lefts to the survey equipment is right. I was doing okay fighting them one at a time and healing and mana up after each one or two. Found the survey equipment and was killing the 50 guarding it when the lvl 49 swarmer patrolling jumped me from behind. There is no where near there to rez and have time to buff, heal, and mana up. I had to rez near the mouth of the tunnel and frost nova the lvl 50 in place when he came for me. Put on mana shield and ran for the survey equipment. Had time to collect it before they killed me. Came back and ran for the exit as far as I could before they killed me. After about three tries made it back into the mountains and teleported to SW for repairs. If you time it right with the roaming one that goes into the tunnel with the equipment you shouldn't have the same problem.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-03-13T08:44:57-06:00",
+   "body": "As a warlock when you are confronted with a swarmer try to kill it fast, it will spawn a ton of little mobs. When the swarmer is half health start rain of fire or hell fire, and dont forget your howl of terror. Hell fire works well if you sacrifice your pet and start it at 3/4 swarmer health. \n\nThe tunnelers have at least 2 mobs that spawn that have low health so when the tunneler dies immediatly enter attack mode, that will take those little guys down.\n\nJust be sure to take time to med between kills.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-02-13T14:21:21-06:00",
+   "body": "Soloed without a death. Just one bug at a time. Arcane Explosion when the two bugs dropped. They are killed instantly. \n\nThe lair itself is quite depressing. Poor young Scrimshank :p\n\nFrostbolt, then fireball and fireblast, then frost nova. Two steps back, fireball again and fireblast. If enemy still alive, arcane missiles. Don't forget the explosion after the kill!\n\nSometimes a patrol will attack as well. Then don't panic, kill the first one. Your nova should be active now. Cast it, step back, apply mageweave and if necessary, mana jade. \n\nSometimes three are coming. After finishing the first. Cast nova. Mageweave then fireball, presence of mind and fireball again, then fireblast. Now cone of cold and arcane again.\n\nIf nova ready, cast and step back for evocation.\n\nThat's all :p\n\nI found it terrible complicated to find the gear...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-23T03:02:28-06:00",
+   "body": "The directions are perfect. This quest must of been made with a rogue in mind. I stealthed all the way from the edge of Gaping Chasm. The only bug I had to kill was the one guarding the toolbox. Stealthed in..stealthed out...easy!",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-03T00:58:47-05:00",
+   "body": "ok NONE of these helped me so ill give the directions cause i dont have cosmos whne u go in the whole underground place there's a series of underground chambers in the middle or so chamber is a roughly square shaped 1 on the north west corner is the console looking thing",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-12-09T13:21:45-06:00",
+   "body": "This is a hard quest mage > 50 or i was unlucky i got Ambushed 2 times\nwhen i lived up i got attacked with Half mana and life then patrol come it was HARD omg  :O \n\nAnyway it is at 56.71",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-11T16:53:09-05:00",
+   "body": "Done with 46 Mage and 44 Warlock. It was pretty easy, but the monsters respawn quite fast. It required a lot of regeneration ;)",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-04-21T17:07:55-05:00",
+   "body": "In response to Unicorns post. There is nothing impossible about this quest, not even close. The only mobs that are an issue are the swarmers, just like theyve always been to some classes. As a mage this was a cake walk, more time than effort. The sillithid have moderate armour and health but otherwise have no real tricks. Just be careful and patient for patrols and take each mob as they come. If you follow the plan shown and dont get bogged down in multiple mobs, you should be in and out (without hearthing or porting) in 10-15mins solo. There are two entrances but they are different areas entirely. Go to the big one at the loc posted above.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-02-13T17:03:06-06:00",
+   "body": "wow i dont know what all the talk is about, being a rouge this was the easiest quest ever, i stealthed in and never took a hit, if u take the lower cave entrance, just take a right at the fork, continue through the large room, and then take the next right at the second fork, objective is on the opposite side of this large cavern and slightly to the right if you are facing out of the tunnel that leads into the chamer, extremely simple",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-05-29T17:00:41-05:00",
+   "body": "i just fought my way trough.. i wanted to stealth but it's just impossible as a lvl 46 balance druid... and i made it with a lvl 43 shadow priest who was healing me when i was taking the blows and making crits like crazy... did need a lot of mana breaks but it was very easy",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-04-26T02:18:11-05:00",
+   "body": "This is obviously a wink to the movie 'The Shawshank redemption'",
+   "replies": [
+    "The movie was ok, read the book. Tis better."
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2007-05-12T10:39:17-05:00",
+   "body": "Easy soloable as a feral druid. Stealth in and out. Just remember to keep your Thorns up if you get in a fight to handle those small buggers. They die after hitting you once.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-01-25T14:03:30-06:00",
+   "body": "ice barrier, run in, nova mobs, get goods, run out... cake",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-02-05T00:12:29-06:00",
+   "body": "exacly - druid lvl 47 and same level warion - out of chance :(\ni will try later as a hidden ^&*!@ cat :P it was hell!",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-02-09T16:38:23-06:00",
+   "body": "Excellent directions, enter the hive, all lefts until it dead ends.  Level 50 guarding the machine.  Solo'd as 47 MM Hunter no problem.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-02-11T04:39:26-06:00",
+   "body": "Did it as a 45 Ret Pally had to go slow , but the directions were dead on.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-03-25T11:10:57-05:00",
+   "body": "oh I hate those bugs.",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2007-03-15T06:51:35-05:00",
+   "body": "I got this quest around 46 and I just abandoned it at 53 because it was taking space in my quest log and I knew that i would never finish it. If you have about 30 min of your life to waste do this quest.",
+   "replies": [
+    "This quest didn't take me very long at all following the directions in the picture posted. The last room is the only 'hard' part but the quest is fairly simple and quick if you know the way. Probably a good idea to hearthstone out of the cave though."
+   ]
+  },
+  {
+   "rating": -3,
+   "date": "2007-05-03T23:49:22-05:00",
+   "body": "pretty annoying as a lock because the little beetles that they summon keep interupting you..so imo get voidwalker to aoe taunt and then fire them all...but if its down its pretty tough:P gl",
+   "replies": [
+    "As a warlock, better is to draintank them and have your imp cast Fire Shield on you. With fire shield you have no problems whatsoever with the little spawns!",
+    "That's a good idea as well, but if you have any other pet, warlock or hunter, if you get the little adds after they die put your pet on aggressive if you don't feel like targeting them all.",
+    "kk ty...also i have felguard now so cleave;P",
+    "This was the only time i wish i had gone for Holy Nova on my shadow priest. damn those small buggers can hurt, and sometimes they spawn 10+ of them."
+   ]
+  },
+  {
+   "rating": -3,
+   "date": "2005-06-12T05:46:18-05:00",
+   "body": "Must do Noxious Lair Investigation first!\n\n[quest=82] can get this quest with a Neutral rep with gadgetzan.\n\nEdited, Sun Jun 12 01:47:09 2005",
+   "replies": []
+  },
+  {
+   "rating": -4,
+   "date": "2007-04-17T23:19:07-05:00",
+   "body": "Lol they anyone know the movie called ShawShank Redemption?",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2007-04-21T06:19:40-05:00",
+   "body": "You won't believe how simple it is... the secret to finding the item for this quest is to keep making right turns in the cave and it will lead it to you.",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2007-04-11T04:35:06-05:00",
+   "body": "there are two entrance?",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2005-12-12T19:53:52-06:00",
+   "body": "At level 47 I stealthed through the entire cave-thing past all the mobs and only had to kill one spiderey thing and got the quest item. It was really easy once I realized I had to go down there, it would have taken forever to kill all of them though. That guys directions are how i got there by the way so they are accurate and it's not bugged :)",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2006-04-08T18:20:06-05:00",
+   "body": "i just did this, i ran and FD to the machine, then no mobs spawned,s o i ran out and FD\n\neasy 4k xp..",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2007-04-08T09:16:50-05:00",
+   "body": "Why does everyone presume that everyone uses co-ords?  Please don't misinterpret this as being an anti co-ord post, it isn't, but personally I prefer not to use them.  I actually enjoy the game without them.  BUT.  It would be nice if more people described how to get to these places without the use of co-ords more often.  \n\nIt's nice to read about other peoples experiences on how they completed it.  I like to know the levels etc they were completed at, and to those people who provide this, thank you.  \n\nDon't be put off by the children screaming 'I only want a co-ord, don't waste my time with descriptions'  These fools are incapable of not reading a post they aren't interested in, why take what they say seriously?\n\nBoth approaches to the info is relevant and welcomed because not everyone plays the game in the same style.\n\nSo thank you again to those who do take the time to relay thier own experiences and give details of how to reach these destinations.  I for one appreciate it greatly.\n\n[i][small]Edited, Apr  8th 2007  8:18am by kesira[/small][/i]",
+   "replies": [
+    "You come to this site looking for help, and yet, the one thing you can do to make it EASIER for those people here who post only to help you, installing the smallest, least intrusive mod in existance, you are not willing to do.\n\nIf you expect help, you should be ready to do what you need to do in order to make those who are providing that help not have to go even more out of their way to provide that help that you are NOT entitled to, but get out of their graciousness and generosity.\n\nAnd not to mention that it helps you make sure you are actually interpreting the help properly.\n\nIf someone isn",
+    "These people are providing their experience and knowledge, based on their Generosity, and yet people are badmouthing them because of it.  Just because you agree with one persons generosity and not anothers, doesn't mean that they are wrong...  and teh post you are replying to is just defending anothers right to post their experience rather then just loc's..\n\nWho are you to tell me I can only post locs because it's easier on the common populace?   yes, it would indeed be nice for those of you that can't play a game without using mods, and that would prefer to have quests handed to you then hint"
+   ]
+  },
+  {
+   "rating": -9,
+   "date": "2005-05-02T20:00:03-05:00",
+   "body": "if you r a caster, never go in there. unless you are a holy priest with holy Nova. thats the only place i found holy nova useful. rank3 shield may also work, but it is hard.\n\nEdited, Mon May  2 16:04:57 2005",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2005-06-28T20:16:48-05:00",
+   "body": "Did this at 48.  For those warlocks out there don't get close to the swarmers.  let the VW take the hits and use your RoF when its almost dead.\n\nI'm demon specced, tougher VW.  Not sure how well it'd work with other specs.\n\nOn the way into the tunnels there were many adds.  Go slow on this one.",
+   "replies": [
+    "I did it just fine by Drain tanking and my Imp out. When I'd get hit, the Imp would activate fire shield and the little bugs would kill themselves instantly."
+   ]
+  },
+  {
+   "rating": -9,
+   "date": "2005-03-27T04:12:48-06:00",
+   "body": "Its already on teh floor.",
+   "replies": []
+  },
+  {
+   "rating": -11,
+   "date": "2004-12-19T22:30:04-06:00",
+   "body": "Alright, your posts are wrong, the item comes off of a clickable item, called Scrimshank's Surveying Gear, and it drops in the big set of caves in the Gaping Chasm.",
+   "replies": [
+    "actualy acording to the idem it both drops and there is a place you can find it"
+   ]
+  }
+ ]
+}

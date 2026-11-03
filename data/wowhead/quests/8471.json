@@ -1,0 +1,263 @@
+{
+ "id": 8471,
+ "name": "Winterfall Ritual Totem",
+ "level": 56,
+ "reqlevel": 50,
+ "side": 3,
+ "zoneId": 618,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 5800,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 11558,
+  "name": "Kernda",
+  "zone": "Felwood",
+  "zoneId": 361,
+  "coords": [
+   [
+    65.4,
+    1.4
+   ],
+   [
+    65.4,
+    2.4
+   ],
+   [
+    65.4,
+    2.8
+   ],
+   [
+    65.6,
+    3.2
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Take the Winterfall Ritual Totem inside Timbermaw Hold and see if one of the furbolgs there will find a use for the item. The Timbermaw will not speak with you unless you are of Neutral reputation or greater with them. Winterfall Ritual Totem (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 20742,
+   "name": "Winterfall Ritual Totem",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 361,
+   "zone": "Felwood",
+   "point": "end",
+   "type": 1,
+   "id": 11558,
+   "name": "Kernda",
+   "coord": [
+    65.4,
+    2.8
+   ],
+   "coords": [
+    [
+     65.4,
+     1.4
+    ],
+    [
+     65.4,
+     2.4
+    ],
+    [
+     65.4,
+     2.8
+    ],
+    [
+     65.6,
+     3.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 41,
+   "date": "2006-06-11T02:23:28-05:00",
+   "body": "All this garbage and no tloc. \n\n/tloc 41, 42\n\nWest side of Winterspring.",
+   "replies": []
+  },
+  {
+   "rating": 17,
+   "date": "2006-05-05T14:23:28-05:00",
+   "body": "When ppl join up for grinding reputation, youre rep will go skyrocketing, so instead of soloing those dudes, team up, it really works, u still get 5 rep for each kill,so next time you do this, remember :)\n\nGood luck to become neutral :)\n\nLvl 60 pally, Turalyon server",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2007-01-16T02:23:28-06:00",
+   "body": "[b]quest not repeatable[/b]\n\n[b]complete quest in tunel....[/b] go center tunel, u ll find Kernda (complete quest)",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2006-09-28T14:23:28-05:00",
+   "body": "Click on the fricking totem in your inventory, this gives you the quest. THEN you can turn it in. wow, im retarded",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2007-03-10T05:48:55-06:00",
+   "body": "I was hoping for this to be repeatable. However I have yet to receive another totem after i turned in the first one. Therefore I'd safely assume that this is not repeatable. It'd be better to hold on to this totem till you are Revered with this faction (if you are going for the Exalted trinket that is), and turn it in then.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-02-21T14:23:28-06:00",
+   "body": "make sure you actually click it and except the quest to get them to talk to you",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-02-26T10:59:22-06:00",
+   "body": "There is another totem called \"[url=/item=20741]Deadwood Ritual Totem[/url]\" that starts another [url=/quest=8470]Quest[/url]. Also increases reputation. It may be looted from Deadwood Furbolgs in their camp near the other entrance to Timbermaw Cave.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-01-16T02:23:28-06:00",
+   "body": "I got a totem in Winterspring. I am currently Friendly w/the Timbermaws yet none of the furbolgs inside the hold will talk to me. Does anyone know who you have to talk to to complete this on or is it bugged? Thanks.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-01-04T16:58:25-06:00",
+   "body": "Non repeatable quest\n\nFor completing this quest you get 150 reputation points toward Timbermaw Hold faction",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-16T02:23:28-06:00",
+   "body": "Got both totems first day, have not seen one since.&nbsp; Indicates it is not repeatable, don't know for sure though.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-01-20T08:58:16-06:00",
+   "body": "If you don't have enough rep points with timbermaw hold, they won't talk to you. \n\nThe MOB is Kernda usually found patrolling around 75,2 inside timbermaw hold. Near the fork in the tunnell",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-04T03:06:11-05:00",
+   "body": "You also need to make sure you are neutral with the Timbermaw, I was unfriendly and they won't attack you and the tooltip says \"neutral\" but you can't hand the quest in until your rep is neutral or higher.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-16T02:23:28-06:00",
+   "body": "Quest gives 150 rep and as someone mentioned above; 3*Major Mana and 3*Major Healing pots.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-17T14:23:28-05:00",
+   "body": "Went neutral with timbermaw.\n\nWhen you go by foot from felwood to winterspring through the tunnel, in the lower part you can deliver your q.\n\nEasy, hope I helped.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-05T00:04:00-06:00",
+   "body": "wheres the npc i have to give it to?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-05T14:54:33-06:00",
+   "body": "where is the quest ender mob/npc located?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-08T10:10:37-06:00",
+   "body": "i've spent a few hours today up and down the cave.\n\ni guess it could be killed by people going through the cave system.  anybody have an idea on spawn rate?\n\n(I am *assuming* btw that I just have to hold the cursor and look for a \"talk\" bubble on any NPC.)",
+   "replies": [
+    "The 'blue' Timbermaw in the center of the Cave-Complex. Lookig as if the other Furblogs reffer him as \"Chief\". ;)\n",
+    "Your reputation with Timbermaw Furbolgs is below Neutral. RTFM! ...",
+    "RTFM?  Lol.  Funny how you know what faction level I have, eh?\n\nNoob.\n\nThe mob was either glitched or killed (or both).  Searched again the next day and found him easy."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-08-03T10:12:40-05:00",
+   "body": "This quest does work for neutral, which is staed in the quest log.\n\nAs a level 60 completing this quest I received:\n\n5 Gold 18 Silver\n3x Major Healing Potions\n3x Major Mana Potions\n150 Timbermaw Hold Reputation",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-09T09:02:13-05:00",
+   "body": "ok im hated by these guys.... wut do i do get un hated?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-26T05:03:33-06:00",
+   "body": "pinoyshadow, if you are hated by these guys, then start collecting a ton more beads and feathers, and kill more mobs to build rep again. Nothing else you can do.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-07T16:36:24-06:00",
+   "body": "The NPC patrols the corridor to Moonglade, so just walk that way and you will find him\n\nEdited, Sat Jan  7 09:47:02 2006",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-17T22:08:02-05:00",
+   "body": "You can DEFINITELY do at neutral.I had 50 rep into neutral,turned in both totem quests to kernda.Altogether,got 300 rep(150 each) with timbermaw,nearly 10G,and 5 major healing and 5 major mana potions.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-19T03:50:41-05:00",
+   "body": "5600xp and 350 rep at lvl61. Definitely worth it.\n\nEDIT: Upon further reading, I'm guessing the monetary prize is random? In total I got maybe 2 gold for turning in this and Deadwood Ritual Totem quests together. But others have received 5g for one quest alone? Does the monetary prize go down the higher lvl you are?\n\n[i][small]Edited, Apr 19th 2007  2:02am by xoxojessika[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-16T00:57:11-05:00",
+   "body": "How are we supposed to get to neutral in a decent amount of time? I started out with them below hostile and got up to unfriendly but it's another 3000 standing to get neutral...any faster way than the repeatble bead mission?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-01-07T16:34:42-06:00",
+   "body": "Rewards for completing this Q at level 57 is: 5800 exp, 150 rep, 1,7g, 3 Major healing potions and 3 major mana potions",
+   "replies": []
+  },
+  {
+   "rating": -3,
+   "date": "2019-09-26T06:04:12-05:00",
+   "body": "Tried to hand this in as unfriendly, phase 1 of Classic and Kernda wouldn't talk to me. Judging by previous comments & the questlog you should be able to talk to her as unfriendly but not for me.",
+   "replies": [
+    "you must be neutral to turn the totems in"
+   ]
+  },
+  {
+   "rating": -4,
+   "date": "2006-07-30T19:05:20-05:00",
+   "body": "This quest will not work with Neutral",
+   "replies": [
+    "I just got to Neutral with these annoying goobers, and turned in both quest items (this and the Felpaw equivalent) for a total of 770 Reputation, about 11K experience, and 5 Major potions of Healing and Mana. Plus the money, whuch I think was about 2g for this level 55 Human Warrior.\n\nI never went kill-crazy on the Timbermaw, so I had a reasonable number of Felpaw and Winterfall to kill to get to Unfriendly, and therefore get into Moonglade. I tried to turn them in while I was Unfriendly and it wouldn't work. But the moment I got the swirly lights, I was able to go to the Timbermaw leafer and "
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2006-02-12T13:22:40-06:00",
+   "body": "Comepleted it at 60, for rep.\n\nOnly 5 rep, but nice reward ! 1,7g , 3 of each of the major pots",
+   "replies": [
+    "Rep increase is +150 regardless of your level now in BC"
+   ]
+  }
+ ]
+}

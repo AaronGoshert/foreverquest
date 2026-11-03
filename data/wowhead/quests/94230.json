@@ -1,0 +1,93 @@
+{
+ "id": 94230,
+ "name": "Craftsman's Writ: Explosive Sheep",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 257304,
+  "name": "Alyce",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    34,
+    23.2
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Explosive Sheep  ( 1 ) Explosive Sheep  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264030,
+   "name": "Craftsman's Writ: Explosive Sheep",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4384,
+   "name": "Explosive Sheep",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Explosive Sheep",
+   "count": 1,
+   "type": "item",
+   "id": 264030
+  },
+  {
+   "text": "Explosive Sheep",
+   "count": 1,
+   "type": "item",
+   "id": 4384
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 1,
+   "id": 257304,
+   "name": "Alyce",
+   "coord": [
+    34,
+    23.2
+   ],
+   "coords": [
+    [
+     34,
+     23.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-23T09:26:06-05:00",
+   "body": "Dropped for me in Darkshore.\r\n\r\nOnce you have the Explosive Sheep in your bag, the location becomes visible on the map. \r\n\r\nLocation of the NPC: around 35.5, 26.7 - Arathi Highland, behind Northfold Manor \r\n\r\nThe bag of coins as a reward contained around 44 silver. I was level 20 when handing it in during the beta.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-09T07:49:14-05:00",
+   "body": "got it in hillsbrad as a horde player, location for turn in is correct\r\ni got 46s98c",
+   "replies": []
+  }
+ ]
+}

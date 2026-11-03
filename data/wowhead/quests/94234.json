@@ -1,0 +1,88 @@
+{
+ "id": 94234,
+ "name": "Craftsman's Writ: Shadow Goggles",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 4201,
+  "name": "Ziz Fizziks",
+  "zone": "Stonetalon Mountains",
+  "zoneId": 406,
+  "coords": [
+   [
+    59,
+    62.4
+   ],
+   [
+    59,
+    62.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Shadow Goggles  ( 1 ) Shadow Goggles  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264034,
+   "name": "Craftsman's Writ: Shadow Goggles",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 4373,
+   "name": "Shadow Goggles",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Shadow Goggles",
+   "count": 1,
+   "type": "item",
+   "id": 264034
+  },
+  {
+   "text": "Shadow Goggles",
+   "count": 1,
+   "type": "item",
+   "id": 4373
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 406,
+   "zone": "Stonetalon Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 4201,
+   "name": "Ziz Fizziks",
+   "coord": [
+    59,
+    62.4
+   ],
+   "coords": [
+    [
+     59,
+     62.4
+    ],
+    [
+     59,
+     62.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": []
+}

@@ -1,0 +1,93 @@
+{
+ "id": 94237,
+ "name": "Craftsman's Writ: Crafted Solid Shot",
+ "level": 60,
+ "reqlevel": 1,
+ "side": 3,
+ "zoneId": 16941,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 8305,
+  "name": "Kixxle",
+  "zone": "Wetlands",
+  "zoneId": 11,
+  "coords": [
+   [
+    50.2,
+    37.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Acquire the items requested by the customer and deliver them to the location marked on your map. This writ must be in your possession to complete the transaction. Craftsman's Writ: Crafted Solid Shot  ( 1 ) Crafted Solid Shot  ( 200 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 264037,
+   "name": "Craftsman's Writ: Crafted Solid Shot",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 8069,
+   "name": "Crafted Solid Shot",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Craftsman's Writ: Crafted Solid Shot",
+   "count": 1,
+   "type": "item",
+   "id": 264037
+  },
+  {
+   "text": "Crafted Solid Shot",
+   "count": 200,
+   "type": "item",
+   "id": 8069
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 11,
+   "zone": "Wetlands",
+   "point": "end",
+   "type": 1,
+   "id": 8305,
+   "name": "Kixxle",
+   "coord": [
+    50.2,
+    37.8
+   ],
+   "coords": [
+    [
+     50.2,
+     37.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-23T22:23:08-05:00",
+   "body": "delivered to Kixxie in wetlands (neutral goblin in middle of zone) got 42 silver from the pouch.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-27T16:19:21-05:00",
+   "body": "Wetlands 50.3, 37.8\r\nPotion and Herb vendor in central wetlands",
+   "replies": []
+  }
+ ]
+}

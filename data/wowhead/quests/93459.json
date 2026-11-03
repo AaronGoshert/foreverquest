@@ -1,0 +1,98 @@
+{
+ "id": 93459,
+ "name": "More Al'Aketh Ears",
+ "level": 13,
+ "reqlevel": 8,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 254151,
+  "name": "Vayn Moongaze",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    63.7,
+    38
+   ],
+   [
+    63.8,
+    36
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect 10 Al'Aketh Cultist's Ears from the Al'Aketh in Shadowgale Forest, the Shine of Akir, or Gustberry Lowlands and return them to Vayn Moonclaw in Shadowgale Forest. Al'Aketh Cultist's Ear  ( 5 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 258771,
+   "name": "Al'Aketh Cultist's Ears",
+   "count": 5,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Al'Aketh Cultist's Ear",
+   "count": 5,
+   "type": "item",
+   "id": 258771
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 254151,
+   "name": "Vayn Moongaze",
+   "coord": [
+    63.8,
+    36
+   ],
+   "coords": [
+    [
+     63.7,
+     38
+    ],
+    [
+     63.8,
+     36
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-16T01:41:29-05:00",
+   "body": "It appears that this was heavily nerfed in todays patch.[b] I only got 200 rep for turning in 5 ears[/b], which also had a lower than 24% drop rate. (Mine was about 10%). This is a HUGE increase in the time investment.",
+   "replies": [
+    "Doing all quests no longer takes you to honoured either, it didn't even get me halfway."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-20T10:20:48-05:00",
+   "body": "So repetition for an additional 5 ears (first turn-in of blue \"?\") gave me 1000 Nightclaw Druids rep and brought me to Friendly with them.",
+   "replies": [
+    "You can do this all the way up to Exalted, great source for Linen Cloth for your tailor as well (at the Shrine of Akir at least)"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-25T04:07:09-05:00",
+   "body": "I am honored with this dude and he has a ton of +1 patterns to buy at like 9silver 90copper \r\nall the gear is +1 stat (agil\\str\\spirit) kind of okay - but leather working has better patterns",
+   "replies": []
+  }
+ ]
+}

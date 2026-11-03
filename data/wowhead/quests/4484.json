@@ -1,0 +1,2500 @@
+{
+ "id": 4484,
+ "name": "Libram of Voracity",
+ "level": 55,
+ "reqlevel": 50,
+ "side": 3,
+ "zoneId": 46,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": {
+  "type": "npc",
+  "id": 9836,
+  "name": "Mathredis Firestar",
+  "zone": "Burning Steppes",
+  "zoneId": 46,
+  "coords": [
+   [
+    65,
+    23.4
+   ],
+   [
+    65,
+    23.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 9836,
+  "name": "Mathredis Firestar",
+  "zone": "Burning Steppes",
+  "zoneId": 46,
+  "coords": [
+   [
+    65,
+    23.4
+   ],
+   [
+    65,
+    23.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Progress Do not waste my time, <race>. Give me what I require. Thirty gold and the components. Black Diamond  ( 1 ) Libram of Voracity  ( 1 ) Whipper Root Tuber  ( 4 ) Crystal Force  ( 4 )   Required money: 30  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 11754,
+   "name": "Black Diamond",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11737,
+   "name": "Libram of Voracity",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11951,
+   "name": "Whipper Root Tuber",
+   "count": 4,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 11563,
+   "name": "Crystal Force",
+   "count": 4,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Black Diamond",
+   "count": 1,
+   "type": "item",
+   "id": 11754
+  },
+  {
+   "text": "Libram of Voracity",
+   "count": 1,
+   "type": "item",
+   "id": 11737
+  },
+  {
+   "text": "Whipper Root Tuber",
+   "count": 4,
+   "type": "item",
+   "id": 11951
+  },
+  {
+   "text": "Crystal Force",
+   "count": 4,
+   "type": "item",
+   "id": 11563
+  },
+  {
+   "text": "Required money: 30",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "start",
+   "type": 1,
+   "id": 9836,
+   "name": "Mathredis Firestar",
+   "coord": [
+    65,
+    23.6
+   ],
+   "coords": [
+    [
+     65,
+     23.4
+    ],
+    [
+     65,
+     23.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "end",
+   "type": 1,
+   "id": 9836,
+   "name": "Mathredis Firestar",
+   "coord": [
+    65,
+    23.6
+   ],
+   "coords": [
+    [
+     65,
+     23.4
+    ],
+    [
+     65,
+     23.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7025,
+   "name": "Blackrock Soldier",
+   "coord": [
+    55.6,
+    54.2
+   ],
+   "coords": [
+    [
+     39.2,
+     55.4
+    ],
+    [
+     39.4,
+     55.6
+    ],
+    [
+     39.6,
+     55.4
+    ],
+    [
+     39.6,
+     55.6
+    ],
+    [
+     40.2,
+     56.6
+    ],
+    [
+     40.4,
+     54.2
+    ],
+    [
+     41.4,
+     55.2
+    ],
+    [
+     41.4,
+     55.6
+    ],
+    [
+     42.2,
+     55.8
+    ],
+    [
+     42.4,
+     54.2
+    ],
+    [
+     42.4,
+     54.8
+    ],
+    [
+     42.6,
+     54.2
+    ],
+    [
+     42.6,
+     55
+    ],
+    [
+     42.6,
+     56
+    ],
+    [
+     43,
+     53.2
+    ],
+    [
+     43.4,
+     56.6
+    ],
+    [
+     44,
+     55.4
+    ],
+    [
+     44,
+     55.6
+    ],
+    [
+     44.4,
+     50.4
+    ],
+    [
+     44.4,
+     50.8
+    ],
+    [
+     44.4,
+     58
+    ],
+    [
+     44.6,
+     51
+    ],
+    [
+     44.6,
+     55.4
+    ],
+    [
+     44.6,
+     57.8
+    ],
+    [
+     44.8,
+     56.4
+    ],
+    [
+     45,
+     56.6
+    ],
+    [
+     45.6,
+     56.2
+    ],
+    [
+     45.6,
+     56.8
+    ],
+    [
+     48.4,
+     56.2
+    ],
+    [
+     48.8,
+     56.4
+    ],
+    [
+     48.8,
+     59.2
+    ],
+    [
+     48.8,
+     59.6
+    ],
+    [
+     49,
+     55.2
+    ],
+    [
+     49,
+     56.8
+    ],
+    [
+     49.4,
+     54
+    ],
+    [
+     49.6,
+     54
+    ],
+    [
+     50.4,
+     54.6
+    ],
+    [
+     51,
+     53.4
+    ],
+    [
+     51,
+     55.6
+    ],
+    [
+     51.4,
+     54.4
+    ],
+    [
+     51.4,
+     54.6
+    ],
+    [
+     51.6,
+     54.4
+    ],
+    [
+     51.6,
+     54.6
+    ],
+    [
+     52.6,
+     55.2
+    ],
+    [
+     55.2,
+     52.2
+    ],
+    [
+     55.2,
+     52.6
+    ],
+    [
+     55.2,
+     54.6
+    ],
+    [
+     55.4,
+     54.2
+    ],
+    [
+     55.6,
+     54.2
+    ],
+    [
+     56.2,
+     53.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7026,
+   "name": "Blackrock Sorcerer",
+   "coord": [
+    43,
+    36.8
+   ],
+   "coords": [
+    [
+     39.2,
+     55.2
+    ],
+    [
+     39.4,
+     55.6
+    ],
+    [
+     39.8,
+     35.4
+    ],
+    [
+     40.2,
+     33.8
+    ],
+    [
+     40.4,
+     33.2
+    ],
+    [
+     40.4,
+     35.8
+    ],
+    [
+     40.6,
+     32.8
+    ],
+    [
+     40.6,
+     35.6
+    ],
+    [
+     41.2,
+     33.6
+    ],
+    [
+     41.2,
+     35
+    ],
+    [
+     41.4,
+     55.4
+    ],
+    [
+     41.4,
+     55.8
+    ],
+    [
+     41.6,
+     55.4
+    ],
+    [
+     41.8,
+     35.4
+    ],
+    [
+     42.4,
+     35.6
+    ],
+    [
+     42.4,
+     38.4
+    ],
+    [
+     42.4,
+     38.8
+    ],
+    [
+     42.4,
+     56
+    ],
+    [
+     42.6,
+     35.4
+    ],
+    [
+     42.6,
+     35.6
+    ],
+    [
+     42.6,
+     38.4
+    ],
+    [
+     42.6,
+     38.6
+    ],
+    [
+     42.6,
+     56
+    ],
+    [
+     43,
+     36.8
+    ],
+    [
+     43.4,
+     33.6
+    ],
+    [
+     43.6,
+     33.8
+    ],
+    [
+     43.8,
+     35.6
+    ],
+    [
+     43.8,
+     36.8
+    ],
+    [
+     43.8,
+     55.4
+    ],
+    [
+     43.8,
+     55.6
+    ],
+    [
+     44,
+     35.2
+    ],
+    [
+     44.4,
+     50.4
+    ],
+    [
+     44.4,
+     50.6
+    ],
+    [
+     44.6,
+     50.4
+    ],
+    [
+     44.6,
+     50.8
+    ],
+    [
+     44.6,
+     57.8
+    ],
+    [
+     45,
+     56.4
+    ],
+    [
+     45,
+     56.6
+    ],
+    [
+     48.8,
+     59.4
+    ],
+    [
+     48.8,
+     59.6
+    ],
+    [
+     49,
+     56.4
+    ],
+    [
+     49,
+     56.8
+    ],
+    [
+     49.4,
+     54
+    ],
+    [
+     49.6,
+     54
+    ],
+    [
+     50.4,
+     61.2
+    ],
+    [
+     50.4,
+     61.6
+    ],
+    [
+     50.6,
+     60.8
+    ],
+    [
+     50.6,
+     61.8
+    ],
+    [
+     51,
+     53.4
+    ],
+    [
+     51.4,
+     54.2
+    ],
+    [
+     51.4,
+     54.6
+    ],
+    [
+     51.6,
+     54.4
+    ],
+    [
+     51.6,
+     54.6
+    ],
+    [
+     53.4,
+     52.4
+    ],
+    [
+     53.4,
+     52.6
+    ],
+    [
+     53.6,
+     52.4
+    ],
+    [
+     53.6,
+     52.6
+    ],
+    [
+     55.4,
+     54.2
+    ],
+    [
+     55.4,
+     54.6
+    ],
+    [
+     55.6,
+     54.4
+    ],
+    [
+     55.8,
+     53.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7033,
+   "name": "Firegut Ogre",
+   "coord": [
+    77.2,
+    47.4
+   ],
+   "coords": [
+    [
+     74.4,
+     37
+    ],
+    [
+     74.4,
+     38.4
+    ],
+    [
+     74.4,
+     38.6
+    ],
+    [
+     74.4,
+     40
+    ],
+    [
+     74.4,
+     40.6
+    ],
+    [
+     74.4,
+     43.2
+    ],
+    [
+     74.4,
+     43.6
+    ],
+    [
+     74.4,
+     47
+    ],
+    [
+     74.4,
+     48.4
+    ],
+    [
+     74.4,
+     48.8
+    ],
+    [
+     74.6,
+     36.8
+    ],
+    [
+     74.6,
+     38.2
+    ],
+    [
+     74.6,
+     38.6
+    ],
+    [
+     74.6,
+     40
+    ],
+    [
+     74.6,
+     40.6
+    ],
+    [
+     74.6,
+     43.4
+    ],
+    [
+     74.6,
+     43.8
+    ],
+    [
+     74.6,
+     47
+    ],
+    [
+     74.6,
+     48.8
+    ],
+    [
+     74.8,
+     36.4
+    ],
+    [
+     75,
+     45.6
+    ],
+    [
+     75.2,
+     45.2
+    ],
+    [
+     75.4,
+     48.2
+    ],
+    [
+     75.6,
+     48.6
+    ],
+    [
+     75.8,
+     50.4
+    ],
+    [
+     75.8,
+     50.6
+    ],
+    [
+     75.8,
+     56.6
+    ],
+    [
+     76.2,
+     56.2
+    ],
+    [
+     76.4,
+     34.8
+    ],
+    [
+     76.4,
+     47.4
+    ],
+    [
+     76.4,
+     47.8
+    ],
+    [
+     76.4,
+     55.4
+    ],
+    [
+     76.6,
+     34.8
+    ],
+    [
+     76.6,
+     56
+    ],
+    [
+     76.8,
+     43.8
+    ],
+    [
+     76.8,
+     48.8
+    ],
+    [
+     76.8,
+     51.4
+    ],
+    [
+     76.8,
+     51.6
+    ],
+    [
+     77,
+     43.2
+    ],
+    [
+     77,
+     47.6
+    ],
+    [
+     77.2,
+     45.4
+    ],
+    [
+     77.2,
+     47.4
+    ],
+    [
+     77.4,
+     45.6
+    ],
+    [
+     77.6,
+     54.4
+    ],
+    [
+     77.8,
+     33.4
+    ],
+    [
+     77.8,
+     33.6
+    ],
+    [
+     77.8,
+     55
+    ],
+    [
+     78,
+     41.6
+    ],
+    [
+     78,
+     43.4
+    ],
+    [
+     78,
+     43.6
+    ],
+    [
+     78,
+     45.6
+    ],
+    [
+     78.2,
+     41.4
+    ],
+    [
+     78.2,
+     45.4
+    ],
+    [
+     78.8,
+     55.4
+    ],
+    [
+     78.8,
+     55.6
+    ],
+    [
+     79,
+     44.4
+    ],
+    [
+     79,
+     45
+    ],
+    [
+     79.4,
+     42.4
+    ],
+    [
+     79.4,
+     42.6
+    ],
+    [
+     79.8,
+     42.2
+    ],
+    [
+     79.8,
+     47.2
+    ],
+    [
+     80.2,
+     46
+    ],
+    [
+     80.2,
+     48
+    ],
+    [
+     80.4,
+     41.2
+    ],
+    [
+     80.4,
+     42.6
+    ],
+    [
+     80.4,
+     45.4
+    ],
+    [
+     80.6,
+     41.8
+    ],
+    [
+     80.6,
+     42.6
+    ],
+    [
+     81.4,
+     39.4
+    ],
+    [
+     81.4,
+     40.2
+    ],
+    [
+     81.4,
+     40.6
+    ],
+    [
+     81.6,
+     41.2
+    ],
+    [
+     81.8,
+     42
+    ],
+    [
+     82,
+     39.4
+    ],
+    [
+     82,
+     39.6
+    ],
+    [
+     82,
+     46.8
+    ],
+    [
+     82.2,
+     53.8
+    ],
+    [
+     82.4,
+     53.4
+    ],
+    [
+     82.6,
+     53.4
+    ],
+    [
+     82.6,
+     53.6
+    ],
+    [
+     82.8,
+     38.8
+    ],
+    [
+     83,
+     43.4
+    ],
+    [
+     83.4,
+     43.6
+    ],
+    [
+     83.6,
+     44
+    ],
+    [
+     83.6,
+     45.2
+    ],
+    [
+     83.6,
+     53.2
+    ],
+    [
+     83.6,
+     53.8
+    ],
+    [
+     86.8,
+     45.2
+    ],
+    [
+     86.8,
+     46.8
+    ],
+    [
+     86.8,
+     48.4
+    ],
+    [
+     86.8,
+     48.6
+    ],
+    [
+     87,
+     45.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7034,
+   "name": "Firegut Ogre Mage",
+   "coord": [
+    77.2,
+    47.4
+   ],
+   "coords": [
+    [
+     74.4,
+     37
+    ],
+    [
+     74.4,
+     38.2
+    ],
+    [
+     74.4,
+     38.6
+    ],
+    [
+     74.4,
+     40.2
+    ],
+    [
+     74.4,
+     40.6
+    ],
+    [
+     74.4,
+     43.6
+    ],
+    [
+     74.4,
+     47
+    ],
+    [
+     74.4,
+     48.8
+    ],
+    [
+     74.6,
+     38
+    ],
+    [
+     74.6,
+     38.6
+    ],
+    [
+     74.6,
+     40.4
+    ],
+    [
+     74.6,
+     40.6
+    ],
+    [
+     74.6,
+     43.6
+    ],
+    [
+     74.6,
+     47.2
+    ],
+    [
+     74.6,
+     49
+    ],
+    [
+     74.8,
+     36.6
+    ],
+    [
+     75,
+     45.4
+    ],
+    [
+     75,
+     45.6
+    ],
+    [
+     75.4,
+     48.4
+    ],
+    [
+     75.6,
+     48.6
+    ],
+    [
+     75.8,
+     50.4
+    ],
+    [
+     76,
+     50.6
+    ],
+    [
+     76.4,
+     34.8
+    ],
+    [
+     76.4,
+     38
+    ],
+    [
+     76.4,
+     47.8
+    ],
+    [
+     76.8,
+     34.8
+    ],
+    [
+     76.8,
+     43.8
+    ],
+    [
+     77,
+     47.6
+    ],
+    [
+     77,
+     51.4
+    ],
+    [
+     77,
+     51.6
+    ],
+    [
+     77.2,
+     45.4
+    ],
+    [
+     77.2,
+     47.4
+    ],
+    [
+     77.4,
+     38.2
+    ],
+    [
+     77.4,
+     45.6
+    ],
+    [
+     77.8,
+     33.4
+    ],
+    [
+     77.8,
+     38.2
+    ],
+    [
+     78,
+     33.8
+    ],
+    [
+     78,
+     39
+    ],
+    [
+     78,
+     41.8
+    ],
+    [
+     78,
+     43.4
+    ],
+    [
+     78,
+     43.6
+    ],
+    [
+     78,
+     45.6
+    ],
+    [
+     78.2,
+     40.2
+    ],
+    [
+     78.2,
+     41.4
+    ],
+    [
+     78.2,
+     45.4
+    ],
+    [
+     78.8,
+     40.6
+    ],
+    [
+     79,
+     44.4
+    ],
+    [
+     79,
+     45
+    ],
+    [
+     79.2,
+     35.4
+    ],
+    [
+     79.4,
+     35.6
+    ],
+    [
+     79.4,
+     41.8
+    ],
+    [
+     79.4,
+     43.4
+    ],
+    [
+     79.6,
+     41
+    ],
+    [
+     79.6,
+     44.2
+    ],
+    [
+     79.8,
+     42.2
+    ],
+    [
+     79.8,
+     47.2
+    ],
+    [
+     80.2,
+     36.2
+    ],
+    [
+     80.2,
+     42.6
+    ],
+    [
+     80.2,
+     44.8
+    ],
+    [
+     80.2,
+     47.8
+    ],
+    [
+     80.4,
+     45.6
+    ],
+    [
+     80.6,
+     42.6
+    ],
+    [
+     80.6,
+     45.4
+    ],
+    [
+     80.8,
+     42.4
+    ],
+    [
+     80.8,
+     46.4
+    ],
+    [
+     81,
+     36.6
+    ],
+    [
+     81,
+     46.6
+    ],
+    [
+     81.2,
+     48.2
+    ],
+    [
+     81.4,
+     39.4
+    ],
+    [
+     81.4,
+     39.8
+    ],
+    [
+     81.4,
+     40.8
+    ],
+    [
+     81.4,
+     44
+    ],
+    [
+     81.6,
+     39.6
+    ],
+    [
+     81.6,
+     43.2
+    ],
+    [
+     81.6,
+     44
+    ],
+    [
+     81.8,
+     39.4
+    ],
+    [
+     81.8,
+     41.4
+    ],
+    [
+     81.8,
+     41.6
+    ],
+    [
+     81.8,
+     46
+    ],
+    [
+     82,
+     47
+    ],
+    [
+     82.2,
+     47.8
+    ],
+    [
+     82.4,
+     36.8
+    ],
+    [
+     82.4,
+     53.4
+    ],
+    [
+     82.4,
+     53.6
+    ],
+    [
+     82.6,
+     36.8
+    ],
+    [
+     82.6,
+     42.4
+    ],
+    [
+     82.6,
+     48
+    ],
+    [
+     82.6,
+     53.4
+    ],
+    [
+     82.8,
+     45.4
+    ],
+    [
+     83.2,
+     38.4
+    ],
+    [
+     83.2,
+     43.4
+    ],
+    [
+     83.2,
+     47.2
+    ],
+    [
+     83.4,
+     39
+    ],
+    [
+     83.4,
+     40.4
+    ],
+    [
+     83.4,
+     40.6
+    ],
+    [
+     83.4,
+     43.6
+    ],
+    [
+     83.4,
+     45.8
+    ],
+    [
+     83.6,
+     40
+    ],
+    [
+     83.6,
+     44
+    ],
+    [
+     83.6,
+     45.2
+    ],
+    [
+     83.6,
+     45.8
+    ],
+    [
+     83.6,
+     52.2
+    ],
+    [
+     83.6,
+     53.4
+    ],
+    [
+     83.6,
+     53.8
+    ],
+    [
+     84,
+     36.8
+    ],
+    [
+     84,
+     42.8
+    ],
+    [
+     84.4,
+     48.8
+    ],
+    [
+     84.6,
+     36.6
+    ],
+    [
+     84.6,
+     47.4
+    ],
+    [
+     84.6,
+     47.6
+    ],
+    [
+     85,
+     45.4
+    ],
+    [
+     85,
+     45.6
+    ],
+    [
+     85.4,
+     36.4
+    ],
+    [
+     85.6,
+     36.4
+    ],
+    [
+     86.8,
+     47
+    ],
+    [
+     86.8,
+     48.4
+    ],
+    [
+     87,
+     45.4
+    ],
+    [
+     87,
+     45.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7035,
+   "name": "Firegut Brute",
+   "coord": [
+    82.2,
+    39.2
+   ],
+   "coords": [
+    [
+     76.4,
+     38
+    ],
+    [
+     76.8,
+     47.8
+    ],
+    [
+     77.2,
+     43.6
+    ],
+    [
+     77.2,
+     45.4
+    ],
+    [
+     77.4,
+     38.2
+    ],
+    [
+     77.4,
+     46.2
+    ],
+    [
+     77.4,
+     47
+    ],
+    [
+     77.8,
+     38.2
+    ],
+    [
+     78,
+     39
+    ],
+    [
+     78,
+     45.6
+    ],
+    [
+     78.2,
+     34.6
+    ],
+    [
+     78.2,
+     40.2
+    ],
+    [
+     78.2,
+     45.4
+    ],
+    [
+     78.4,
+     40.6
+    ],
+    [
+     78.6,
+     40.4
+    ],
+    [
+     78.8,
+     35.2
+    ],
+    [
+     79.2,
+     40.6
+    ],
+    [
+     79.4,
+     35.6
+    ],
+    [
+     79.4,
+     41.6
+    ],
+    [
+     79.4,
+     43.4
+    ],
+    [
+     79.4,
+     43.6
+    ],
+    [
+     79.6,
+     41
+    ],
+    [
+     79.6,
+     41.6
+    ],
+    [
+     79.6,
+     44.2
+    ],
+    [
+     79.8,
+     47.2
+    ],
+    [
+     80,
+     36.2
+    ],
+    [
+     80.2,
+     42.6
+    ],
+    [
+     80.2,
+     44.8
+    ],
+    [
+     80.2,
+     47.8
+    ],
+    [
+     80.4,
+     45.8
+    ],
+    [
+     80.6,
+     42.6
+    ],
+    [
+     80.6,
+     45.4
+    ],
+    [
+     80.8,
+     42.4
+    ],
+    [
+     80.8,
+     46.4
+    ],
+    [
+     81,
+     36.6
+    ],
+    [
+     81,
+     46.6
+    ],
+    [
+     81.4,
+     39.4
+    ],
+    [
+     81.4,
+     39.8
+    ],
+    [
+     81.4,
+     40.8
+    ],
+    [
+     81.4,
+     44
+    ],
+    [
+     81.4,
+     48.2
+    ],
+    [
+     81.6,
+     39.6
+    ],
+    [
+     81.6,
+     43.2
+    ],
+    [
+     81.6,
+     44
+    ],
+    [
+     81.8,
+     41.4
+    ],
+    [
+     81.8,
+     41.6
+    ],
+    [
+     81.8,
+     46
+    ],
+    [
+     82,
+     46.8
+    ],
+    [
+     82.2,
+     39.2
+    ],
+    [
+     82.2,
+     47.8
+    ],
+    [
+     82.4,
+     36.6
+    ],
+    [
+     82.6,
+     36.8
+    ],
+    [
+     82.6,
+     42.4
+    ],
+    [
+     82.6,
+     45.4
+    ],
+    [
+     82.6,
+     48
+    ],
+    [
+     83.2,
+     38.2
+    ],
+    [
+     83.2,
+     38.6
+    ],
+    [
+     83.2,
+     43.4
+    ],
+    [
+     83.2,
+     43.6
+    ],
+    [
+     83.2,
+     47.2
+    ],
+    [
+     83.4,
+     40.4
+    ],
+    [
+     83.4,
+     40.6
+    ],
+    [
+     83.4,
+     45.8
+    ],
+    [
+     83.4,
+     52.2
+    ],
+    [
+     83.6,
+     39.2
+    ],
+    [
+     83.6,
+     40
+    ],
+    [
+     83.6,
+     43.8
+    ],
+    [
+     83.6,
+     45.2
+    ],
+    [
+     83.6,
+     45.8
+    ],
+    [
+     83.6,
+     52.4
+    ],
+    [
+     83.6,
+     52.6
+    ],
+    [
+     83.8,
+     42.4
+    ],
+    [
+     84,
+     36.8
+    ],
+    [
+     84,
+     42.8
+    ],
+    [
+     84,
+     50.6
+    ],
+    [
+     84.2,
+     49.6
+    ],
+    [
+     84.4,
+     48.4
+    ],
+    [
+     84.4,
+     48.8
+    ],
+    [
+     84.6,
+     36.6
+    ],
+    [
+     84.6,
+     47.4
+    ],
+    [
+     84.6,
+     47.6
+    ],
+    [
+     84.6,
+     48.6
+    ],
+    [
+     84.8,
+     44.2
+    ],
+    [
+     84.8,
+     45.8
+    ],
+    [
+     85,
+     45.4
+    ],
+    [
+     85.4,
+     36.4
+    ],
+    [
+     85.6,
+     36.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 7036,
+   "name": "Thaurissan Spy",
+   "coord": [
+    54,
+    40
+   ],
+   "coords": [
+    [
+     53.2,
+     40.6
+    ],
+    [
+     53.4,
+     40.4
+    ],
+    [
+     54,
+     40
+    ],
+    [
+     54,
+     40.6
+    ],
+    [
+     54,
+     41.8
+    ],
+    [
+     54.2,
+     39.4
+    ],
+    [
+     54.6,
+     39.2
+    ],
+    [
+     54.6,
+     41
+    ],
+    [
+     55,
+     37.6
+    ],
+    [
+     55.2,
+     37.4
+    ],
+    [
+     55.6,
+     36.8
+    ],
+    [
+     55.6,
+     37.6
+    ],
+    [
+     56.4,
+     36.2
+    ],
+    [
+     56.6,
+     36.2
+    ],
+    [
+     59.6,
+     42.8
+    ],
+    [
+     60.4,
+     36.8
+    ],
+    [
+     61,
+     38.4
+    ],
+    [
+     61,
+     38.6
+    ],
+    [
+     61.2,
+     41.6
+    ],
+    [
+     61.4,
+     37.2
+    ],
+    [
+     61.4,
+     41.2
+    ],
+    [
+     61.6,
+     37.4
+    ],
+    [
+     61.6,
+     41.2
+    ],
+    [
+     62.2,
+     37.8
+    ],
+    [
+     62.4,
+     38.6
+    ],
+    [
+     62.4,
+     40.2
+    ],
+    [
+     62.6,
+     38.4
+    ],
+    [
+     62.8,
+     39.6
+    ],
+    [
+     63,
+     38.8
+    ],
+    [
+     63.2,
+     36.2
+    ],
+    [
+     63.4,
+     35.4
+    ],
+    [
+     63.4,
+     36.6
+    ],
+    [
+     63.4,
+     41
+    ],
+    [
+     63.6,
+     35.4
+    ],
+    [
+     63.6,
+     39
+    ],
+    [
+     64.2,
+     41.4
+    ],
+    [
+     64.2,
+     41.6
+    ],
+    [
+     64.4,
+     34
+    ],
+    [
+     64.4,
+     36.4
+    ],
+    [
+     64.4,
+     36.6
+    ],
+    [
+     64.6,
+     36.4
+    ],
+    [
+     64.6,
+     36.8
+    ],
+    [
+     64.8,
+     34.4
+    ],
+    [
+     64.8,
+     37.6
+    ],
+    [
+     65,
+     34.6
+    ],
+    [
+     65,
+     42.6
+    ],
+    [
+     65.2,
+     41.6
+    ],
+    [
+     65.4,
+     39.4
+    ],
+    [
+     65.4,
+     39.8
+    ],
+    [
+     65.4,
+     41.4
+    ],
+    [
+     65.6,
+     39.4
+    ],
+    [
+     65.6,
+     41.2
+    ],
+    [
+     65.8,
+     42.4
+    ],
+    [
+     65.8,
+     42.6
+    ],
+    [
+     66,
+     40.2
+    ],
+    [
+     66.4,
+     43.8
+    ],
+    [
+     66.6,
+     40.4
+    ],
+    [
+     66.6,
+     40.6
+    ],
+    [
+     66.6,
+     44
+    ],
+    [
+     69.2,
+     38.4
+    ],
+    [
+     69.2,
+     38.8
+    ],
+    [
+     69.6,
+     38.6
+    ],
+    [
+     70,
+     38.2
+    ],
+    [
+     71,
+     36.6
+    ],
+    [
+     71.2,
+     35.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 9043,
+   "name": "Scarshield Grunt",
+   "coord": [
+    34,
+    28
+   ],
+   "coords": [
+    [
+     33.2,
+     26.8
+    ],
+    [
+     34,
+     28
+    ],
+    [
+     35,
+     27.8
+    ],
+    [
+     35.6,
+     27.4
+    ],
+    [
+     37.2,
+     26.6
+    ],
+    [
+     37.4,
+     26.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 9044,
+   "name": "Scarshield Sentry",
+   "coord": [
+    33.6,
+    28
+   ],
+   "coords": [
+    [
+     33.6,
+     28
+    ],
+    [
+     34.4,
+     26.6
+    ],
+    [
+     34.6,
+     28.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 46,
+   "zone": "Burning Steppes",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 203138,
+   "name": "Anvilrage Overseer",
+   "coord": [
+    26,
+    23
+   ],
+   "coords": [
+    [
+     26,
+     23
+    ],
+    [
+     26.2,
+     22
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 2,
+ "comments": [
+  {
+   "rating": 78,
+   "date": "2007-04-17T06:48:32-05:00",
+   "body": "OK so here's how it goes\n\n1) get a Libram of Voracity drop (or easy to pick up from AH)\n2) Wipper roots are from the felwood gatherer chain - druid in Felwood gives the quest out - great details here on Thott\n3) Crystal Force - use pylons in Ungoro to convert Blue & green crystals to Crystal Force\n4) Black diamonds are drops / AH items again\n\ngather all mats and take to the NPC in north of Burnning Stepes - he gives out the libram. It works like an enchant so use on your own gear or on others via the 'will not be traded' slot\n\nSold plenty for good gold 65 - 95 is going rate on Doomhammer",
+   "replies": []
+  },
+  {
+   "rating": 48,
+   "date": "2005-01-31T09:05:47-06:00",
+   "body": "You have to take this to the Blood Elf at Flame Crest, Burning Steppes along with: \n\n- 30 gold \n- a Black Diamond (found in BRD) \n- 4 Whipper Root Tubers (found in Felwood, but can only be collected after the plant is cleansed with a Cenarion Salve) \n- 4 Crystal Force (found in Un'Goro Crater, you can create these from 10 green and 10 blue power crystals at the Eastern Pylon) \n\nAs a reward you can choose from items that can permanently enchant your head/legs item with 8 to str/agi/sta/int/spi.",
+   "replies": [
+    "Each Quest turn-in (of 2x 10 crystals) gives you 6 Crystal Force, more than enough for one libram."
+   ]
+  },
+  {
+   "rating": 30,
+   "date": "2007-05-20T17:22:08-05:00",
+   "body": "Yes.. This quest IS repeatable..\n\nYou are able to get +8 anystat at both leg and head item\n\nAnd... It IS possible to enchant it on a twinks item :)\n\nJust make the quest on another char, and do the enchant via the trade screen :P",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2006-10-24T13:50:06-05:00",
+   "body": "This is actually quite useful for a paladin.  Consider what the +8 Int does for us.  First, +8 Int.  Assuming at 60 the paladin formula for spell crit is:\n\n[INT/29.5?]%\n\nThis gives us .27% crit chance for 8 Int.\n\nNow, also assume that paladins have Divine Intellect, and Blessing of Kings, that increases the 8 int to about 9.6 (or 9.68, however, they do the math) int.  Assuming they round up, that's 10 int.\n\nCompare this to the ZG enchant, which give us 10 Stamina, 24 healing, and 7 defense.  Assuming at this point that defense is all but useless for a current end-game raiding paladin, it comes down to +healing and stamina and more mana and spell crit.\n\nWith two enchants, you have the following totals:\n\nZG: 48 +healing, 200 health\nLIbram: 20 Int (assuming BoK and DI talent), which gives us .54% spell crit, ~300 mana\n\nConsidering the limited number of ZG enchants you can get these days, +8 int doesn't look that bad.",
+   "replies": [
+    "Isn't it 59.5int = 1% spell crit as for all casters?",
+    "No, spell crit is based on class.  These numbers are approximately correct for Paladins, and 59.5 is correct for Mages and Shamans.    The Int to Spellcrit ratio for all level 60 casters except paladins was confirmed by Tseric.  information for paladins comes from empirical testing.  A summary of a good test (and all Tseric's released numbers) can be read here: http://www.wowwiki.com/Talshuler%27s_Int_Research"
+   ]
+  },
+  {
+   "rating": 7,
+   "date": "2005-04-25T11:56:44-05:00",
+   "body": "I have the Libram, but how is the quest initiated?",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-05-27T22:08:26-05:00",
+   "body": "the night elf npc's name is Mathredis Firestar\n[npc=9836] quantities of the items required are:\n4 crystal force\n4 whipper root tubers\n1 libram of voracity\n1 black diamond\n30 gold",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-05-02T11:36:32-05:00",
+   "body": "soo say if u do the quest and u put the enchant on a a helm peice will the helm be bind to u or can u trade it to another character, after the enchant is on?",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2006-03-31T02:17:43-06:00",
+   "body": "A warrior putting 8 agi over 8 str is a fool. Plain and simple.",
+   "replies": [
+    "[quote]A warrior putting 8 agi over 8 str is a fool. Plain and simple.[/quote]\nanyone saying that doesn't understand what agility and strength do for warriors.\n\n8 agility gives a level 60 warrior +0.4% crit, +0.4% dodge, and 16 armor.\n\n8 strength gives a level 60 warrior 16 attack power and increases their block value by 0.4.\n\n16 attack power is 1.14 DPS. if you do 220 DPS then 0.4% crit is the same as +1.14 DPS (if you do more DPS then +0.4% crit is better). +0.4% dodge and 16 armor do much more for damage reduction than +0.4 block value, and you get that bonus to dodge and armor whether you'",
+    "[quote=Ziggirogue]A warrior putting 8 agi over 8 str is a fool. Plain and simple.[/quote]\n\nPlainly and simply put, that is one of the most moronic and ignorant statements I've seen today.  Which is saying a lot.\n\n[quote=rrm]anyone saying that doesn't understand what agility and strength do for warriors.[/quote]\n\nHear, hear.\n\n[quote=rrm]8 strength may, in some cases, give you more damage. 8 agility is way better defensively and is potentially better offensively. 8 agility is also better defensively than a core armor kit unless you're really lacking defense skill.[/quote]\n\nRegardless of any incr",
+    "[quote=rrm][quote]A warrior putting 8 agi over 8 str is a fool. Plain and simple.[/quote]\nanyone saying that doesn't understand what agility and strength do for warriors.\n\n8 agility gives a level 60 warrior +0.4% crit, +0.4% dodge, and 16 armor.\n\n8 strength gives a level 60 warrior 16 attack power and increases their block value by 0.4.\n\n16 attack power is 1.14 DPS. if you do 220 DPS then 0.4% crit is the same as +1.14 DPS (if you do more DPS then +0.4% crit is better). +0.4% dodge and 16 armor do much more for damage reduction than +0.4 block value, and you get that bonus to dodge and armor w"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-02T11:36:32-05:00",
+   "body": "Applying the enchant, does not bind the item to you.&nbsp; You can even enchant through the Trade window.&nbsp; Unlike the Clefthide Leg Armor (cannot be done thru the Trade window).",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-14T15:26:56-05:00",
+   "body": "why dont i see more rogue and hunter twinks with +8 agi to head? is there a problem with that?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-05-20T17:22:08-05:00",
+   "body": "is this quest repeatable or not?\n\nplz post!&nbsp; TY :)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-22T14:54:57-05:00",
+   "body": "I slapped the +8 agility on my helm of narv and its a mighty fine hunter helm.",
+   "replies": [
+    "[quote]I slapped the +8 agility on my helm of narv and its a mighty fine hunter helm.[/quote]A serious waste of gold compared to the quest helm from West Dire Maul ;)",
+    "unless you get the helm for free like I did :)  but not going to do the enchant, jsut going to save up for ZG enchants when I get my DS helm and legs =D"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-17T22:56:49-05:00",
+   "body": "I will be putting these on my DPS leggings, for the added crit on a 60 warrior. I put Rapidity on my lionheart helm...\n\nThe enchant you choose should depend on what you are using said piece of armor for... if you are tanking in a lionheart helm.. you are probably a moron, unless you have no other helms. \n\nI put +100 health on my might helm and I will be putting +100 health on my might leggings.\n\nI put +20 fr on my Dark iron legs and helm... \n\nLike I said, dpends on what you use the armor for. Seems to make little sense to put +100 health on a lionheart helm unless you are low on HP and primarily PvP... \n\nBecause if you are a DPS warrior in PvE, you should rarely take damage, so the added health won't help nearly as much as the added chance to crit or increased attack speed.",
+   "replies": [
+    "zg enchant !"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2007-01-31T10:00:58-06:00",
+   "body": "can you have these enchant on a lvl 19 twink item?\n\nplz answer me!",
+   "replies": [
+    "yes you can.  you have to get a higher level to run the quests (Im assuming you have a main if you have a twink) then enchant them to the twink item via trade window.",
+    "but you gota get someone else to run the quests for you if your a twink unless you have 2 accounts =/ cause you cant log your main and your twink at the same time if theyr on the same account so you wont be able to enchant the item if its already binded to your twink",
+    "Yes you can, but you have to get a friend grind the mats for you. He also have to enchant you once the stuff's gathered.",
+    "not necessarily- lvl 19 twink helmets are typically non-binding.  if that's the case, you can get the mats yourself and just have your twink lend you the helmet to put them on.\n\n[i][small]Edited, Apr 11th 2007  1:26pm by boknizzle[/small][/i]",
+    "At 19 best headpiece is Lucky Fishing Hat or Bloodsail Admiral's Hat. Which are both BoP"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-02T21:16:38-06:00",
+   "body": "i just stuck a +8 Agi on my Eldritch Reinforced Legplates ftw, evens up the rest of the stats, so there's a good thing for a warrior :)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-26T07:43:28-05:00",
+   "body": "I wonder what servers you guys are playing on where a Black Diamond is costing you 30+ gold!  I play on 6 different servers (mostly RP and RPPvP) and have stacks of Black Diamonds that I can't sell to save my life.  They sell for about 16 silver when they do sell and there are usually about 20 entries in the auction house to compete with me.  On a lucky day I can sell one for 25 silver, but that is unusual.  I've been trying to sell these things for almost a month now every day.  I thought maybe you all misunderstood the quest and assumed it meant Pristine Black Diamond (which it doesn't) and even they are selling on my servers for only 4-10 gold each.  Just wanted to let those of you know who are trying to get these things for the quest that there is hope out there on some servers.",
+   "replies": [
+    "That was before the patch where they increased the droprate of the Black Diamonds just like they once did with the Pristine ones. Black Diamonds used to be 20-30g on my server, now you can get them for a gold or even less.\n\n[i][small]Edited, Aug  3rd  2006 at  5:53pm EDT by Kalhas[/small][/i]"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-11-23T01:45:37-06:00",
+   "body": "are the lesser arcanum of... BOP? also can u use them on low level gear and then send the low level gear to ur twink?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-08-02T04:13:45-05:00",
+   "body": "on Kul Tiras, i bought the tome 80s, and a pair of diamonds 10s each. now i just need the root and the crystal.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-04T07:51:58-05:00",
+   "body": "he is located at 65-23 hes a blood elf and the quest is repeatable i love it",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-11-23T01:36:28-06:00",
+   "body": "making a twink and was wondering, are the lesser arcanum of... BOP? and can u apply them to low lvl stuff and send em 2 ur twinks? or is it like the zandalar thing that when u apply to an item, the item binds on u?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2007-03-17T17:03:53-05:00",
+   "body": "this is just easy, did the quest in about 1 hour, woulda been less if i hadnt had to fly across the continent twice",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-03-29T02:51:19-06:00",
+   "body": "u only need 10 green and 10 blue. the eastern pylon gives u 6 crystal force for 10 each.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-06-27T16:55:03-05:00",
+   "body": "you can actually sell theese just trade they give you money and put the item in not to be traded then you add the enchant on them then done. Don't know if it work but my mate tryed it and said it worked.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-07-24T02:11:21-05:00",
+   "body": "heeh on my server it sells for 8 to 15 gold. in fact I have seen them much lower =)",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-05-03T07:09:39-05:00",
+   "body": "Once you get the Arcanums, can you sell those or are they soulbound?",
+   "replies": [
+    "they're quest items, so no.",
+    "yes, you can sell them. it works like a normal enchant, just trade-willnotbetraded-and enchant his item"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-15T06:15:44-05:00",
+   "body": "how do u use the pylons in un'goro to get the crystal forces? i'm so inept.",
+   "replies": [
+    "in the refuge camp in the back of the cave is a goblin npc that will send you on quests for the pylons at the end of the chain you receive a book, the book tells you the combinations of crystals for each pylon (each pylon requires 10 crystals of 2 different types) and each pylon has a different reward.  I think if you examine the pylons they may also tell you the colors needed but I'm not sure, havent done it in a while.  Either way that chain and these items are some of the easiest ingredients to get for the librams.  No mobs to fight off and no money needs to be spent."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-04T16:54:46-05:00",
+   "body": "16 str for feral druid in 1.8 will be 19-20 str depending on how bliz does the math... cheaper than the +15 str enchant, if you can get the librams cheaply.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-04-20T10:45:30-05:00",
+   "body": "Can anybody tell me if this is only selfenchant or can you enchant this to other people too?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-10T02:18:53-05:00",
+   "body": "This libram in Perenolde sells for only 1g, i bought mine for 1g so this is totally worth it. Only thing hard about it was the whipper Root Tuber",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-09T07:13:02-05:00",
+   "body": "Voracity = 40-50g\nBlack diamond = never less than 80g\nand ofc the 30g fee for the quest guy... dang this one is expensive",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-05-03T18:42:54-05:00",
+   "body": "now, u have to pay more 30g to get it.....\n\nIf u buy a Libram of Voracity for 15g\nand a Black Diamon for 30g\n\nu spend 75g o it... but it can go up to 100g.. not cheap =(\n\nEdited, Mon May 22 07:14:21 2006",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-06-24T22:38:40-05:00",
+   "body": "can i use the enchant more than once?",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-08-28T03:45:30-05:00",
+   "body": "even more useless then some of the other librams. \n\n8 sta is 80, the hp librm is 100hp, 2 more stamina for choosing other libram.\n\n8 int=120mana. the int libram is 150mana, more mana then this. the added crit chance is far too low to even look at.\n\nspirit? strenght? wouldnt even look at those.\n\nagility difers heavily from class to class, and different class's have different amounts of agility to =crit/dodge/dmg, along with different natural crit/dmg/dodge. rogue can have less agility, but will still have higher dodge then hunter. but-> +8 agility, will not equal anything near 1% dodge. +8 agility might give about .25% or .20% dodge. it takes about 15-20agility to get additional 1%s of dodge or crit. the haste libram is much more worth it for dmg, and the dodge libram is much more worth it for dodge.",
+   "replies": [
+    "Nice to see a poster so intelligent that he/she/it can spell properly. Here is the blue post on agility and what not.\n\n[quote]We asked the devs for a short explanation of Attack Power and Defense in relation to Agility and Strength. The following should be of some help to those wondering e.g. whether their new +x Attack Power weapon is better than their old +y Strength / +z Agility one. :) \n\nAgility \n- Increases Armor Class by 2 for every point of AGI. \n- Increases the chance of a critical hit with melee and ranged attacks. The amount of the increase is dependant on both class and level. For m",
+    "Useless? Hmm 100G or 20G, i'd rather not spend 80G and have 20HP extra. This libram is nice if you haven't 322342432G and a billion hours of time to waste.",
+    "Lol,\n\nAs everyone says its less expensive than const for hp, golds not the problem i just cbf farmin helboars for the lungjuice.\n\nI would get 8str to my lionheart tho"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-02T19:50:39-05:00",
+   "body": "where is a good place to farm for this libram?",
+   "replies": [
+    "The Jaderunner's dropped mine in Felwood."
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-07-17T13:56:55-05:00",
+   "body": "The libram sells for 60-85g :))",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-16T20:21:20-05:00",
+   "body": "8g off Ah, but the black diamond cost 35g :( Otherwise an easy enchant to make.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2020-07-14T10:14:53-05:00",
+   "body": "In Classic wow: Can these be applied to BoE items and sold/mailed? YES they can, confirmed by trying myself today :)",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2005-11-04T06:45:08-06:00",
+   "body": "Lionheart Helmet + 8 agility :)",
+   "replies": [
+    "depends on what your doing :P\n\nPvP get Hoer with 100hp, PvE get lionheart with 8agi",
+    "Or PvE damagedealing. Believe it or not, but 31/5/15 is a viable choise in MC and BWL and probably beyond. Warriors aren't just for tanking. I'd say any given raid group would do best with a couple of def specs and a couple of offensive specced, since there a lot of fight where you need many warriors, but where they don't have to be defencive to do the tank-job. On the other hand, dragging around 5 defencive warriors in a fight where you only need 1 seriously gimps the raids DPS output, which is equaly important in a lot of fights.\n\nVersatile warriors FTW.",
+    "QFT\nMy warrior is 32/0/19, and is the MT for the guild.  I tank MC Lucy-Domo just fine (we're stilworkin on rag) and Onyxia, and to tell you the truth, more than 15 isn't neded, but I liked the imp shield specialization  :)",
+    "Are you on Crack?\n\n8 agi si like .4% crit\n8 str is 16 attack power, i have 8 str on my lionheart and my titan legplates and it really helps me dps with fury",
+    "Yes he would be eaten alive but that isn't because of his build... fights such as patchwerk is just a gear check, especially for the tanks"
+   ]
+  },
+  {
+   "rating": -5,
+   "date": "2020-03-07T03:51:14-06:00",
+   "body": "This is one of the rare books you can read in game that has pictures in it.   Worth a quick look (I also added screenshots).",
+   "replies": []
+  },
+  {
+   "rating": -19,
+   "date": "2005-08-06T19:08:02-05:00",
+   "body": "So if the item to create an enchantment gem is in the game why can't enchanters make these!",
+   "replies": []
+  }
+ ]
+}

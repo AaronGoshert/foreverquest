@@ -1,0 +1,262 @@
+{
+ "id": 92517,
+ "name": "The Criminal Element",
+ "level": 7,
+ "reqlevel": 4,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 475,
+ "start": {
+  "type": "npc",
+  "id": 251523,
+  "name": "Constable Aonda",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    45.4,
+    45.4
+   ],
+   [
+    45.6,
+    45.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 251523,
+  "name": "Constable Aonda",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    45.4,
+    45.4
+   ],
+   [
+    45.6,
+    45.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Kill 10 Highlands Bandits and their leader, \"Badwind\" Bennic in the Shen'dar Highlands.   Highlands Bandit slain  ( 10 )   \"Badwind\" Bennic slain  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 251918,
+   "name": "Highlands Bandits",
+   "count": 10,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 255534,
+   "name": "\"Badwind\" Bennic",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Highlands Bandit slain",
+   "count": 10,
+   "type": "npc",
+   "id": 251918
+  },
+  {
+   "text": "\"Badwind\" Bennic slain",
+   "count": 1,
+   "type": "npc",
+   "id": 255534
+  }
+ ],
+ "series": [
+  93461,
+  92517
+ ],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 251523,
+   "name": "Constable Aonda",
+   "coord": [
+    45.6,
+    45.4
+   ],
+   "coords": [
+    [
+     45.4,
+     45.4
+    ],
+    [
+     45.6,
+     45.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 251523,
+   "name": "Constable Aonda",
+   "coord": [
+    45.6,
+    45.4
+   ],
+   "coords": [
+    [
+     45.4,
+     45.4
+    ],
+    [
+     45.6,
+     45.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 251918,
+   "name": "Highlands Bandit",
+   "coord": [
+    50.4,
+    33.4
+   ],
+   "coords": [
+    [
+     47.4,
+     36
+    ],
+    [
+     47.4,
+     36.8
+    ],
+    [
+     47.4,
+     37.6
+    ],
+    [
+     47.6,
+     36.4
+    ],
+    [
+     47.6,
+     36.8
+    ],
+    [
+     47.8,
+     38.2
+    ],
+    [
+     47.8,
+     38.6
+    ],
+    [
+     48.8,
+     37.2
+    ],
+    [
+     49.2,
+     38.4
+    ],
+    [
+     49.2,
+     40
+    ],
+    [
+     49.4,
+     34.4
+    ],
+    [
+     49.4,
+     36
+    ],
+    [
+     49.4,
+     38.6
+    ],
+    [
+     49.6,
+     38.8
+    ],
+    [
+     49.8,
+     35
+    ],
+    [
+     50,
+     33.6
+    ],
+    [
+     50,
+     35.8
+    ],
+    [
+     50.4,
+     33.4
+    ],
+    [
+     50.6,
+     33.4
+    ],
+    [
+     50.6,
+     33.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 255534,
+   "name": "\"Badwind\" Bennic",
+   "coord": [
+    50.7,
+    34
+   ],
+   "coords": [
+    [
+     50.4,
+     33.4
+    ],
+    [
+     50.4,
+     33.6
+    ],
+    [
+     50.6,
+     33.4
+    ],
+    [
+     50.7,
+     34
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-09T14:46:35-05:00",
+   "body": "Whatever you do, dont die. The runback is bonkers",
+   "replies": [
+    "Not only is the run back a pain in the ass, but if you die in the cave, all of the NPCs you cleared will have respawned by the time you get back. You will aggro them."
+   ]
+  }
+ ]
+}

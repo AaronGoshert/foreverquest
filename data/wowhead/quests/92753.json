@@ -1,0 +1,143 @@
+{
+ "id": 92753,
+ "name": "Destruction in Deadmines",
+ "level": 18,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 1581,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 1350,
+ "start": {
+  "type": "npc",
+  "id": 253092,
+  "name": "Alba Fairmoon",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    52.4,
+    53
+   ],
+   [
+    52.6,
+    53.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253279,
+  "name": "Alba Fairmoon",
+  "zone": "Westfall",
+  "zoneId": 40,
+  "coords": [
+   [
+    38.4,
+    83.4
+   ],
+   [
+    38.4,
+    83.6
+   ],
+   [
+    38.6,
+    83.4
+   ],
+   [
+    38.6,
+    83.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Find the forge hidden in the Deadmines , and plant the Extra-Destructive Explosives nearby. Then, meet up with Alba Fairmoon at the Deadmines exit.   Explosives placed  ( 1 ) Extra-Destructive Explosives (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 254553,
+   "name": "Extra-Destructive Explosives",
+   "count": 1,
+   "provided": true
+  },
+  {
+   "type": "npc",
+   "id": 253370,
+   "name": "Explosives placed",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Explosives placed",
+   "count": 1,
+   "type": "npc",
+   "id": 253370
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "start",
+   "type": 1,
+   "id": 253092,
+   "name": "Alba Fairmoon",
+   "coord": [
+    52.4,
+    53
+   ],
+   "coords": [
+    [
+     52.4,
+     53
+    ],
+    [
+     52.6,
+     53.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 40,
+   "zone": "Westfall",
+   "point": "end",
+   "type": 1,
+   "id": 253279,
+   "name": "Alba Fairmoon",
+   "coord": [
+    38.6,
+    83.6
+   ],
+   "coords": [
+    [
+     38.4,
+     83.4
+    ],
+    [
+     38.4,
+     83.6
+    ],
+    [
+     38.6,
+     83.4
+    ],
+    [
+     38.6,
+     83.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-01T16:51:48-05:00",
+   "body": "The Forge is the room where [npc=1763] spawns. You will have to run pretty close to the center, and then just plant the explosives there.\n\n[b]Don't hearth out of the dungeon after the run is complete; [u]exit from the backdoor, and continue the quest at the back entrance[/u].[/b]\n\n[s]P.S. No reward outside of XP/reputation, but look at the numbers: [b]4050 XP[/b] for this, and another [b]680[/b] when you just talk to the quest giver afterwards. Even the quest for VanCleef himself only grants [b]2600 XP[/b], so in my opinion, this chain is worth the dynamite expenditure.[/s] EDIT: XP seems to have been nerfed.",
+   "replies": []
+  }
+ ]
+}

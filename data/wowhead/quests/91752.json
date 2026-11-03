@@ -1,0 +1,151 @@
+{
+ "id": 91752,
+ "name": "The Big Picture",
+ "level": 3,
+ "reqlevel": 1,
+ "side": 1,
+ "zoneId": 12,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 315,
+ "start": {
+  "type": "npc",
+  "id": 247226,
+  "name": "Kelsey Fargo",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    47.2,
+    32.2
+   ],
+   [
+    47.2,
+    32.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 197,
+  "name": "Marshal McBride",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    48.8,
+    41.4
+   ],
+   [
+    48.8,
+    41.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Retrieve a Sack of \"Picture\" Books from Shinyfinder Narf. Bring the sack to Marshal McBride just inside Northshire's Abbey. Sack of \"Picture\" Books  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 247886,
+   "name": "Sack of \"Picture\" Books",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Sack of \"Picture\" Books",
+   "count": 1,
+   "type": "item",
+   "id": 247886
+  }
+ ],
+ "series": [
+  91741,
+  91743,
+  91745,
+  91752,
+  91758,
+  91772,
+  91775,
+  91777
+ ],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 247226,
+   "name": "Kelsey Fargo",
+   "coord": [
+    47.2,
+    32.2
+   ],
+   "coords": [
+    [
+     47.2,
+     32.2
+    ],
+    [
+     47.2,
+     32.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 197,
+   "name": "Marshal McBride",
+   "coord": [
+    48.8,
+    41.6
+   ],
+   "coords": [
+    [
+     48.8,
+     41.4
+    ],
+    [
+     48.8,
+     41.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 248362,
+   "name": "Shinyfinder Narf",
+   "coord": [
+    49.2,
+    27.9
+   ],
+   "coords": [
+    [
+     49,
+     28.8
+    ],
+    [
+     49.2,
+     27.9
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-10-02T14:05:16-05:00",
+   "body": "[npc=248362] is a level 3 elite inside the kobold cave. Take the [b]second right turn[/b] and you'll find him. The quest suggest you do this with a friend, but don't be afraid to try it alone if you're level 4+.",
+   "replies": []
+  }
+ ]
+}

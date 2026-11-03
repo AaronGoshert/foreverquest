@@ -1,0 +1,116 @@
+{
+ "id": 99073,
+ "name": "Easing Suffering",
+ "level": 10,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 85,
+ "start": {
+  "type": "npc",
+  "id": 6094,
+  "name": "Byancie",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    55.2,
+    56.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 275683,
+  "name": "Sentinel Eralya Leafshadow",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    37.4,
+    36.8
+   ],
+   [
+    37.6,
+    36.4
+   ],
+   [
+    37.6,
+    36.8
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Take the Lashwater Salve to Sentinel Eralya Leafshadow on the road to the Oracle Tree. Lashwater Salve (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 286069,
+   "name": "Lashwater Salve",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 6094,
+   "name": "Byancie",
+   "coord": [
+    55.2,
+    56.8
+   ],
+   "coords": [
+    [
+     55.2,
+     56.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 275683,
+   "name": "Sentinel Eralya Leafshadow",
+   "coord": [
+    37.6,
+    36.8
+   ],
+   "coords": [
+    [
+     37.4,
+     36.8
+    ],
+    [
+     37.6,
+     36.4
+    ],
+    [
+     37.6,
+     36.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 8,
+   "date": "2026-09-29T10:42:17-05:00",
+   "body": "This quest just ends here? No quest reward, money, or meaningful XP? Feels like I'm missing something, but that is also totally in the flavor of classic.",
+   "replies": [
+    "No reputation gains either. LOL.",
+    "For me i haid to complete the quest \"The great tree provides\" before i could get \"Easing Suffering\" [url]https://www.wowhead.com/forever/quest=99050/the-great-tree-provides[/url]"
+   ]
+  }
+ ]
+}

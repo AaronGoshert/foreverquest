@@ -1,0 +1,147 @@
+{
+ "id": 96779,
+ "name": "Syndicate Sabotage",
+ "level": 24,
+ "reqlevel": 24,
+ "side": 3,
+ "zoneId": -162,
+ "reqclass": 8,
+ "status": "new",
+ "xp": 1950,
+ "start": {
+  "type": "npc",
+  "id": 13085,
+  "name": "Myrokos Silentform",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    85,
+    80.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 13085,
+  "name": "Myrokos Silentform",
+  "zone": "Alterac Mountains",
+  "zoneId": 36,
+  "coords": [
+   [
+    85,
+    80.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "Find Lord Tomas inside Durnholde Keep, in Hillsbrad Foothills, and kill him. Then, return to Myrokos Silentform .   Lord Tomas slain  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 266216,
+   "name": "Lord Tomas",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Lord Tomas slain",
+   "count": 1,
+   "type": "npc",
+   "id": 266216
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "start",
+   "type": 1,
+   "id": 13085,
+   "name": "Myrokos Silentform",
+   "coord": [
+    85,
+    80.4
+   ],
+   "coords": [
+    [
+     85,
+     80.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 36,
+   "zone": "Alterac Mountains",
+   "point": "end",
+   "type": 1,
+   "id": 13085,
+   "name": "Myrokos Silentform",
+   "coord": [
+    85,
+    80.4
+   ],
+   "coords": [
+    [
+     85,
+     80.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 267,
+   "zone": "Hillsbrad Foothills",
+   "point": "requirement",
+   "type": 1,
+   "id": 266216,
+   "name": "Lord Tomas",
+   "coord": [
+    79.2,
+    46.6
+   ],
+   "coords": [
+    [
+     77.2,
+     43.9
+    ],
+    [
+     78.2,
+     44.4
+    ],
+    [
+     78.5,
+     45.2
+    ],
+    [
+     79,
+     46.4
+    ],
+    [
+     79.2,
+     46.6
+    ],
+    [
+     79.7,
+     46.7
+    ],
+    [
+     79.9,
+     46.3
+    ],
+    [
+     80,
+     45.4
+    ],
+    [
+     80.6,
+     46.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

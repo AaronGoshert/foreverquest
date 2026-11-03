@@ -1,0 +1,422 @@
+{
+ "id": 1423,
+ "name": "The Lost Supplies",
+ "level": 40,
+ "reqlevel": 30,
+ "side": 1,
+ "zoneId": 8,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 0,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 5393,
+  "name": "Quartermaster Lungertz",
+  "zone": "Blasted Lands",
+  "zoneId": 4,
+  "coords": [
+   [
+    66.4,
+    21.2
+   ],
+   [
+    66.4,
+    21.6
+   ],
+   [
+    66.6,
+    21.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Bring the Lost Supplies to Quartermaster Lungertz . Lost Supplies (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 6172,
+   "name": "Lost Supplies",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 4,
+   "zone": "Blasted Lands",
+   "point": "end",
+   "type": 1,
+   "id": 5393,
+   "name": "Quartermaster Lungertz",
+   "coord": [
+    66.4,
+    21.2
+   ],
+   "coords": [
+    [
+     66.4,
+     21.2
+    ],
+    [
+     66.4,
+     21.6
+    ],
+    [
+     66.6,
+     21.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 38,
+   "date": "2005-10-25T05:18:54-05:00",
+   "body": "Alright guys, I will share some information so you could find them quicker.&nbsp; I hope you can do the same when you know more.\n\nThis is four spawn-locations I know of;\n1. 29,51\n2. 33,47\n3. 29,38\n4. 43,34\n\nI delivered 4 crates in 15 minutes, and 5 crates after 1.5 hours. This means I didn't find another spawn-location and someone picked it before I did so I find the fourth at one of my known locations.\n\n*Edit:\nFound another location:\n5. 37,37",
+   "replies": [
+    "Finally some coordinates! Thank you! That makes this quest so much easier."
+   ]
+  },
+  {
+   "rating": 35,
+   "date": "2006-07-07T17:18:54-05:00",
+   "body": "SW HONOUR POINT QUEST ONLY.\nThe Lost Supply quest has that single purpose to give you honour points with SW and nothing more. Before you reach lvl 46 you do get 25 rep points per crate! You can start The Lost Supply quest at lvl 30. It does only give you a small amount of xp the first time you hand it in.\n- - -\n\nAnd the day came when I, a gnome mage (lvl 43), finally got my horse. \n\nI started this character whit the purpose to get exhalted with SW to get a horse. To make it a little easier to myself I headed to Elwyn Forest when I reached lvl 5. From that moment did I only do SW related quests.\n\nI tried to start the crate collection at lvl 30. However it was too difficult at this low lvl with all the critters being lvl 35-40. So I went out and levelled up to 35 and went back. Again I had to give up � the beatings were to much all the time. I simply agroed everything in sight!\nOnce again I had to leave SoS disappointed. I went out and took all available quests and got myself to lvl 40. I even bought my mechanostrider which I really do recommend all who has the 100G needed - the regular run speed simply is to slow!\n\nNow everything was a lot easier. I printed out a map of SoS and marked the crate spawn place every time I found one. However after a while I did not need the map anymore. I quickly found a path around in SoS from one spawn place to the next. And by using this same path over and over again I could quickly scout through the whole area. You do also learn all the critters position very fast.\nNote: it is possible to cross the water several places without getting dis-mounted.\n\nHere are all the details you will need:\n\nHonour points from neutral to exhalted:\nNeutral: 0/3.000\nFriendly: 0/6.000\nHonoured: 0/12.000\nRevered: 0/21.000\nTotal: 42.000 after this you get 0/1000 but those are not needed to get the horse!)\n\nQUEST END POINT:\nAll the crates are to be handed in to Quartermaster Lungertz.\nHe is situated in Nethergarde Keep in Blasted Lands (coordinates 66,21).\n\nCRATE SPAWN PLACES:\nAll the crates have a random respawn. \n\nMisty Valley:\n(Critters: Swampwalkers lvl 38-40)\n09,29\n12,34\n14,38\n04,31 (cave with Mire Lord lvl 42)\n\nSwamp area:\n(Critters: Sawtooth Crocolish, Sorrow Spinner and Swamp Jaguars lvl 35-37)\n29,38\n29,50\n33,45\n37,36\n43,33\n45,35\n\nFallow Sanctuary:\n(Critters: Lost ones lvl 34-39)\n54,30\n56,24\n59,21\n60,21\n62,22\n64,20\n\nAll together I did collect between 900 and 930 crates. I gained 3 lvls during the project.\nFrom all the reward boxes I got 5 blue items, around 320 greater healing potions, loads of herbs for alchemy and around 25G in total. (The gold amount does not count in selling any items).\nBy the time I bought my horse total time /played = 12D 7H 37M!",
+   "replies": []
+  },
+  {
+   "rating": 16,
+   "date": "2006-01-17T05:54:33-06:00",
+   "body": "2s 54c in the reward, no exp given.  5 reputation at level 49.",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2007-02-03T12:18:33-06:00",
+   "body": "This quest is repeatable and is great for grinding rep with Stormwind. Starting at revered it should take you 1000 trips to hit exalted unless you are human and then it will take around 909 trips.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2006-06-01T05:18:54-05:00",
+   "body": "The quest gives me 2-3 rep. with SW and a box.&nbsp; I have some locations to share please share more if you&nbsp; know other locations.\n\n1.&nbsp; 29,51\n2.&nbsp; 37,47\n3.&nbsp; 29,38\n4.&nbsp; 43,34\n5.&nbsp; 37,37\n6.&nbsp; 66,21\n7.&nbsp; 37,45\n8.&nbsp; 56,24\n9.&nbsp; 45,35\n10. 14,35\n11. 12,34\n12. 60,21\n13. 64,20",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2006-03-14T20:42:35-06:00",
+   "body": "Just look for wooden crates called 'Scattered Crate'.  I have found several different locations throughout SoS.  Can only hold one at a time.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2020-03-03T16:04:07-06:00",
+   "body": "At level 60, I get 2s 99c and 2 reputation with Stormwind. I only do it if passing through the area.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-02-11T17:18:54-06:00",
+   "body": "This is my first and only post.&nbsp; I was looking for something like this myself. Because Im level 63 and riding a stupid mount lol. + If you need your flying mount one day- you need riding 150 first!\n\n1st dont waste your time with Lost supplies- it will take forever getting only 25 or 26 per turn in.\n\n- Do all your lowbie quests in Stormwind, Northshier and West view + Lakeshire.&nbsp; Even at 60+ you will get the full 150-250 rep. \n\n- Certain outside cities or hubs give lesser SW rep: Quests in Auberdine (50-75 rep); Menethil Harbor (50-75 rep); the rebel camp quests in Strangelthorn (150+ rep)...NOT Nessingways; AND if you in Outland: the quests only in Telredor (50-75 rep) not the surronding grounds quests in Zangarmarsh.\n\nStudy that above... lastly Turn in your cloths to the SW Tailor (250 rep)- then BID LOW on tons of Runecloth- this will get you 75 per stack on re-turn ins and there YA GO",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2019-09-26T19:53:12-05:00",
+   "body": "With [object=28604] it is possible to achieve Exalted reputation with [faction=72]. It is a long and laborious grind.\r\n\r\nAt level 45 or below you get a mere 25 rep per [quest=1423] turn-in. Thus depending on which zones you quested in at low levels, it will take a minimum of 500 crates to hit exalted through this method. The [item=6172] are Unique, meaning you can only hold one at a time. Each lap from the Swamp to Nethergarde Keep takes around 5 minutes on the 60% speed mount, so you're looking at 50 hours minimum of just running around playing mailman. I would recommend planning ahead with your low-level questing to minimise the grind as much as possible.\r\n\r\nYou only receive 10% of the rep from low-level quests, so this repeatable quest is only useful between 40-45. Don't even try below 40; it will be too slow due to mob aggro and no mount. You'll have to kill some mobs, but it becomes much easier to sneak around once you hit lvl 42.\r\n\r\nFrustratingly, the crates cannot be shared. Players questing through the zone will frequently pick them up not realising they are worthless. If they already have one in their bags, they destroy the crate and get nothing. However, with 16 spawn points in total (as shown on the map [url=https://www.wowhead.com/forever/object=28604/scattered-crate]here[/url]) you always should be able to find one.\r\n\r\nWhy on Azeroth would you choose this method over [quest=7796] turn-ins? Firstly, it's 'free', and since each stack of Runecloth awards only 50 rep, you'll be saving hundreds of gold. Secondly, you may have difficulty getting thousands of Runecloth on your server due to competition from other players buying reps this way. Thirdly, if you're an herbalist you can make some serious cash during this grind by picking [item=8839] to sell on the AH.\r\n\r\nFinally this is the ONLY way for players under level 50 to grind their SW rep for a horse mount, and may be of particular interest to twinks in the 40-49 bracket.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-04-05T15:47:20-05:00",
+   "body": "Someone from the WoW forums managed to get Exalted with Stormwind by doing this quest over and over and over again (like 1000 times)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-01-26T22:30:16-06:00",
+   "body": "I did this once.  38 druid.  Made about 720 exp discovering new areas,  but the quest itself gives none.  Don't know if each box has different items,  but mine had a little over 2 silver in it.\n\nMy advice,  do it once to discover new lands.  After that forget about it.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-25T05:18:54-05:00",
+   "body": "Look.. you get stormwind reputation.. you can repeat this quest, you can become exhalted in stormwind at lvl 40, trust me, this quest is a lot better than you think.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-02-11T17:18:54-06:00",
+   "body": "Blasted Lands&nbsp; 66.21",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-03-20T05:18:54-06:00",
+   "body": "What a pain in the butt to do since the supplies are Unique items. Alot easier if we can carry more to turn in.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-06-01T05:18:54-05:00",
+   "body": "This quest is useless as an XP gain.. because there is none.&nbsp; You get a little biut of silver and maybe an item.&nbsp; \n\nHowever, it is a repeatable quest for Stormwind rep.&nbsp; But it only gives 25 rep per go.\n\nI would tend to say that pre-level 40 it isn't worth it particularly since you have to do a LOT of running back and forth to get the supplies, not to mention all of the killing you have to do of Lost Ones to get to the boxes.&nbsp; However, as a farming quest at 40+ or as a level 60 trying to gain more rep... it could be worth it...",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-03-02T18:07:46-06:00",
+   "body": "This quest is a repeatable one to gain reputation with Stormwind... nice if you're not a human, but want to ride a horse :)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-25T05:18:54-05:00",
+   "body": "Is it possible to do this quest at lvl 60 ro the reputation benefit?",
+   "replies": [
+    "where is nethergarde keep?"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-25T05:18:54-05:00",
+   "body": "Im guessing you can only have one of these quests going at once?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-25T05:18:54-05:00",
+   "body": "I got 72,7% reputation in SW. And I get about 0.1% after 5 boxes - which means I have to turn in about 900 before I get exalted, am I wrong?\n\nI'm level 56 at the moment.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-10-25T05:18:54-05:00",
+   "body": "At level 47 ... gives 15 rep points\n\ni'm a gnome ... i don'T like my robot-chicken either like Myaka .... so i tried the quest ... got 15 rep points ... i'm already revered ... missing about 18000 to get exalted .. ouf ... this will take a while",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-07-07T17:18:54-05:00",
+   "body": "Now, I realize I was in the area anyway, and that traveling to Nethergarde wasn't that far out of my way.&nbsp; But at level 38, I got 360 exp and 25 reputation points with Stormwind (currently Honored).&nbsp; I hadn't looked here before opening the box of supplies, but if I had, I probably wouldn't have bothered.\n\nI was expecting... well... supplies.&nbsp; Food, potions, maybe a piece of gray or white equipment.&nbsp; What I found inside the box was 2s24c.&nbsp; The guy's all grateful for me bringing him his lost stuff, and all he gives me is a good word with Stormwind and a handful of coins... not even enough money for gryphon fare back to Duskwood.\n\nThis quest is NOT worth it, unless you're desperate for Stormwind rep.&nbsp; Personally, though, I'd rather grind runecloth.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-11T17:18:54-06:00",
+   "body": "this quest too time consuming to repeate to sw rep. far eazier to do all sw related quests as you come up. right now my gnome is level 35 and at 19000+ revered and i only did this quest twice. make sure you do all the human quest including the ones in northshire abby and you'll eventually get there. also ive run into a few quests that gave \"alliance\" rep rewards, which would help with SW rep. dont bother girnting this quest untill you have finished everything else",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-03-10T20:35:07-06:00",
+   "body": "There are boxes in the Swamp of Sorrows.  You open them and they give you the message that looting will bind this item.\n\nBTW there is a flight path near the Quarter Master, so if you are going that way....\n\nEdited, Thu Mar 10 14:35:14 2005",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-06-26T01:35:30-05:00",
+   "body": "lets see...\nAt my level (36) I get 25 rep points for each time I do the quest.\n\nSo that means that you get 1000 rep points for doing the quest 40 times.\n\nRight now, I've got 11000 points to go until I'm exaulted so I have too do the quest...\n\n440 times...\nOh boy...",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-09T07:00:30-05:00",
+   "body": "none of those location worked 4 me. I found supplies now 4 2 timess  at 9,29 in misty valley and in the cave at 5, 31 i think where Mire lord is.. 26 reputation each time at lvl 46\n\n\n[i][small]Edited, Apr  9th 2007  6:37am by secerko[/small][/i]\n\n[i][small]Edited, Apr  9th 2007  6:44am by secerko[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-09-02T07:37:35-05:00",
+   "body": "Is this found in random places, or is it one specific spot?  I realize the time it takes to get faction this way, but I desperately want a horse.  I'm going to start running this quest tomorrow, and I expect to do it for a long time.  Wish me luck.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-10-25T05:18:54-05:00",
+   "body": "lvl 45 still getting 25 reputation per turnin",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-10-25T05:18:54-05:00",
+   "body": "Hey guys there is another way to get SW Exalted! First get 60 Wool Cloth,60 Silk Cloth,60 Magewewave Cloth, and 60 Runecloth. Then go to SW, then go to the Tailoring Guys,then upstairs there is a guy that has a Donation. Do all the Donations, then u can do Runecloth Donation as many times till you are Exalted with SW!&nbsp; Good Luck!&nbsp; =)",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2006-01-06T05:18:54-06:00",
+   "body": "If you can't find the crates listed in the locations above I have found one at 45,35 and another one in the middle of the Fallow Sanctuary.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-01-17T21:52:12-06:00",
+   "body": "37 Warrior - NO EXP for this quest either.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-09-21T01:15:37-05:00",
+   "body": "Only 3 points @ lvl 51",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-25T05:18:54-05:00",
+   "body": "As a lvl 49 i got 6 reputation points (quest is gray)\n\n21000 is needed to fill reveared...\n\ngood luck ;)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-10-25T05:18:54-05:00",
+   "body": "Theres another drop in misty valley near the back of the cave.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-03-23T11:04:30-05:00",
+   "body": "Look for boxes of supplies along the rivers and tracks. When openned you have the q",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-12-25T17:46:33-06:00",
+   "body": "Very easy if you are mounted. The supply crates i found are mostly near settlements. \n\n20 rep w/ SW at 46 and the supply crate.\nVery good for rep, each bit in SW gives you a few in IF, darn and gnomer too. Good before mount but shouldnt be needed, you should be honored by 40. Plus without a mount and under 40 the mobs take up your time. 45+ is a good level",
+   "replies": [
+    "It only gives Stormwind rep, it does not give any spillover \"team\" rep to th other alliance factions.  Also, 45 is *the* level to do it best, because you (a) get the maximum rep (25 per turnin, goes down to 20 at 46 as you saw, 15 at 47, etc...) (b) have the smallest agg radius for mobs in the swamp and (c) can ride a mount.\n\nShame they nerfed the rewards in the crate, used to be able to get actual supplies.  Now it's almost always \"Box of A Coupla Silver\" with the occasional token piece of crap thrown in.\n"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-06-30T15:45:06-05:00",
+   "body": "For those without coords.  I found the crate to the north of the Deadwood pass entrance just off the road to the right near the water.  Half buried.  Noticed my cursor changing as it passed or I would not have noticed.  This was near the first group of huts to have a crystal which is what I was really after.  The 'scattered crate\" was a bonus.",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-08-20T22:23:32-05:00",
+   "body": "Just Tested and i've done this multiple times and im gaining +20 reputation with SW each time",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-09-13T13:22:49-05:00",
+   "body": "Can someone give exact coordinates to the crate(s)?",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-04-07T12:35:40-05:00",
+   "body": "Just found in SoS (37,35)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-12-30T02:43:41-06:00",
+   "body": "How is this quest started?  Can't seem to find that anywhere...",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-12-12T18:26:26-06:00",
+   "body": "Does anybody know, is there other quests, that let you gain exalted reputation with other factions!",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-03-10T15:38:55-06:00",
+   "body": "It is always good to have how and where to go But who starts this quest - it is listed under Duskwood but can't find an NPC? or is it \"found\" and if so where generally\n\n\nEdited, Thu Mar 10 09:42:44 2005",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-04-03T03:10:19-05:00",
+   "body": "Revered by lvl 37 in Stormwind Kael'Thas server (Cartmanxx)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2006-07-13T14:36:18-05:00",
+   "body": "Found at 37,36.",
+   "replies": [
+    "This is odd, just handed this q in 3 times and got 28 rep for each hand in, my char is lev 60",
+    "Since patch 1.12, you don't lose rep for being above the level of the quest.  (Previously, you could go to the starting zones and do the quests there and only get about 5 rep xp per quest, now you get the full 150 - 250 rep)"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2006-02-22T18:49:29-06:00",
+   "body": "This has been asked a couple of times, but I don't see that it has been answered.  Where do you find the supplies to start the quest?  In the Swamp of Sorrows, but where?",
+   "replies": [
+    "The \"Box of Supplies\" can be found in the Fallow Sanctuary, though I'm not sure if it is a random spawn or not.\n\nI found it near the western end of the Sanctuary by one of those elevated platforms.\n\nEdited, Sat Feb 25 00:12:46 2006"
+   ]
+  },
+  {
+   "rating": -1,
+   "date": "2007-01-05T13:41:10-06:00",
+   "body": "Is a repeatable quest that you get by clicking on the box that says \n\"Scattered Crate\" in Swamp of Sorrows.\n\nOnly getting 25 rep every time you turn it in at Neatherguard keep to Quartermaster Lungertz in the blasted lands.\nLungertz is found near the stables not too far from the Griffion Master.\n\nThe Crate of supplies spawns randomly, but from what I gather here at this site it seems to spawn at\n\n43,34 and 37,35\n\nbut again it's a random spawn so might be in other locations as well.\nFor the most part however, the area that it spawns in is \"Fallow Sanctuary\".",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2007-02-11T10:05:01-06:00",
+   "body": "to start the quest goto 54,30 (titan atlas) in swamp of sorrows follow path north east till the end if u dont have atlas",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2005-12-09T04:46:23-06:00",
+   "body": "25 Stormwind Reputation at lvl 38",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2005-01-09T12:27:03-06:00",
+   "body": "I did this at level 41 and recieved no experience for it.",
+   "replies": []
+  },
+  {
+   "rating": -6,
+   "date": "2006-06-30T23:47:48-05:00",
+   "body": "the scattered crate is at 43,34xy",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2004-12-26T05:13:49-06:00",
+   "body": "You can keep finding these supplies over and over again, however the quest xp is only given once. It's a long way to travel for just minor items and money, so just ignore it if you visit that area twice.",
+   "replies": []
+  },
+  {
+   "rating": -9,
+   "date": "2004-12-30T13:38:41-06:00",
+   "body": "Where is Quartermaster Lungertz?",
+   "replies": [
+    "He's in Netherguard Keep, which is to the south of the Swamp of Sorrows in the Blasted Lands. If you enter the Swamp from the west road, follow the south fork, then take the south fork again (watching out for Horde PvP enabled mobs patrolling). Once you enter the Blasted Lands, head east right away and there is the Keep. Quartermaster is pretty much straight in and slightly to the right(south)"
+   ]
+  },
+  {
+   "rating": -9,
+   "date": "2006-06-11T20:17:44-05:00",
+   "body": "Where r the supplies? Im a Gnome mage and I want a rep points before the quest goes gray!",
+   "replies": []
+  },
+  {
+   "rating": -10,
+   "date": "2005-09-30T14:40:42-05:00",
+   "body": "Do you have to talk to the guy to start it or simply find the box to start it?",
+   "replies": []
+  },
+  {
+   "rating": -10,
+   "date": "2005-09-30T14:39:31-05:00",
+   "body": "What level can you start this at?",
+   "replies": [
+    "Nevermind, I see level 30 now."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": 97915,
+ "name": "Camping 101: Alchemy",
+ "level": 6,
+ "reqlevel": 4,
+ "side": 1,
+ "zoneId": -666,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 263399,
+  "name": "Sam Sarsaparilla",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    44.8,
+    63.2
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1215,
+  "name": "Alchemist Mallory",
+  "zone": "Elwynn Forest",
+  "zoneId": 12,
+  "coords": [
+   [
+    39.8,
+    48.4
+   ],
+   [
+    39.8,
+    48.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Speak with Alchemist Mallory in Elwynn Forest near Stormwind to learn to craft a camping item for your profession once you have shown proficiency in your skill.   Raise your alchemy skill to 20  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 1215,
+   "name": "Alchemist Mallory",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Raise your alchemy skill to 20",
+   "count": 1,
+   "type": "event",
+   "id": null
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "start",
+   "type": 1,
+   "id": 263399,
+   "name": "Sam Sarsaparilla",
+   "coord": [
+    44.8,
+    63.2
+   ],
+   "coords": [
+    [
+     44.8,
+     63.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 12,
+   "zone": "Elwynn Forest",
+   "point": "end",
+   "type": 1,
+   "id": 1215,
+   "name": "Alchemist Mallory",
+   "coord": [
+    39.8,
+    48.4
+   ],
+   "coords": [
+    [
+     39.8,
+     48.4
+    ],
+    [
+     39.8,
+     48.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": []
+}

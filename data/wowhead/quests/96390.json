@@ -1,0 +1,168 @@
+{
+ "id": 96390,
+ "name": "Nip 'Em in the Bud",
+ "level": 13,
+ "reqlevel": 9,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 910,
+ "start": {
+  "type": "npc",
+  "id": 264936,
+  "name": "Earthseer Farsen",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    64.8,
+    58.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 264936,
+  "name": "Earthseer Farsen",
+  "zone": "Dun Morogh",
+  "zoneId": 1,
+  "coords": [
+   [
+    64.8,
+    58.4
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Slay 10 Dark Iron Spies in Dun Morogh .   Dark Iron Spy slain  ( 10 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 6123,
+   "name": "Dark Iron Spies",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Dark Iron Spy slain",
+   "count": 10,
+   "type": "npc",
+   "id": 6123
+  }
+ ],
+ "series": [
+  96408,
+  96392,
+  96390
+ ],
+ "points": [
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "start",
+   "type": 1,
+   "id": 264936,
+   "name": "Earthseer Farsen",
+   "coord": [
+    64.8,
+    58.4
+   ],
+   "coords": [
+    [
+     64.8,
+     58.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "end",
+   "type": 1,
+   "id": 264936,
+   "name": "Earthseer Farsen",
+   "coord": [
+    64.8,
+    58.4
+   ],
+   "coords": [
+    [
+     64.8,
+     58.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1,
+   "zone": "Dun Morogh",
+   "point": "requirement",
+   "type": 1,
+   "id": 6123,
+   "name": "Dark Iron Spy",
+   "coord": [
+    77.8,
+    62.4
+   ],
+   "coords": [
+    [
+     76.4,
+     61
+    ],
+    [
+     76.6,
+     61.8
+    ],
+    [
+     76.8,
+     60
+    ],
+    [
+     77.2,
+     59
+    ],
+    [
+     77.4,
+     61.4
+    ],
+    [
+     77.6,
+     59
+    ],
+    [
+     77.8,
+     62.4
+    ],
+    [
+     77.8,
+     62.6
+    ],
+    [
+     78,
+     60
+    ],
+    [
+     78,
+     61.2
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 4,
+   "date": "2026-09-20T16:07:07-05:00",
+   "body": "While doing this quest, make sure to loot the [item=274268] from the dwarves as well. The initial turn-in grants [b]1050 XP[/b] and it then leads to a [url=https://www.wowhead.com/forever/quest=96393/old-ironforge-incursion]Hall of Thanes quest[/url] with some powerful rewards.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-11T12:01:11-05:00",
+   "body": "I was concerned at first because the quest was marked at level 13, seemed pretty high especially for a starter zone. \r\nBut the mobs are level 10-11, so there was no real issue",
+   "replies": []
+  }
+ ]
+}

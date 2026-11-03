@@ -1,0 +1,345 @@
+{
+ "id": 92685,
+ "name": "The Hills Have Eyes",
+ "level": 9,
+ "reqlevel": 5,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 780,
+ "start": {
+  "type": "npc",
+  "id": 252800,
+  "name": "Aamelia Windfield",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    46.6,
+    81.8
+   ],
+   [
+    47,
+    81.2
+   ],
+   [
+    47.2,
+    80
+   ],
+   [
+    47.4,
+    78.4
+   ],
+   [
+    47.4,
+    78.6
+   ],
+   [
+    47.6,
+    78.4
+   ],
+   [
+    47.6,
+    78.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252800,
+  "name": "Aamelia Windfield",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    46.6,
+    81.8
+   ],
+   [
+    47,
+    81.2
+   ],
+   [
+    47.2,
+    80
+   ],
+   [
+    47.4,
+    78.4
+   ],
+   [
+    47.4,
+    78.6
+   ],
+   [
+    47.6,
+    78.4
+   ],
+   [
+    47.6,
+    78.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Loot 7 Blood-Stained Bandit Masks from Highwayman Bandits in the Gustberry Lowlands. Blood-Stained Bandit Mask  ( 7 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 253596,
+   "name": "Blood-Stained Bandit Masks",
+   "count": 7,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Blood-Stained Bandit Mask",
+   "count": 7,
+   "type": "item",
+   "id": 253596
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252800,
+   "name": "Aamelia Windfield",
+   "coord": [
+    46.6,
+    81.8
+   ],
+   "coords": [
+    [
+     46.6,
+     81.8
+    ],
+    [
+     47,
+     81.2
+    ],
+    [
+     47.2,
+     80
+    ],
+    [
+     47.4,
+     78.4
+    ],
+    [
+     47.4,
+     78.6
+    ],
+    [
+     47.6,
+     78.4
+    ],
+    [
+     47.6,
+     78.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252800,
+   "name": "Aamelia Windfield",
+   "coord": [
+    46.6,
+    81.8
+   ],
+   "coords": [
+    [
+     46.6,
+     81.8
+    ],
+    [
+     47,
+     81.2
+    ],
+    [
+     47.2,
+     80
+    ],
+    [
+     47.4,
+     78.4
+    ],
+    [
+     47.4,
+     78.6
+    ],
+    [
+     47.6,
+     78.4
+    ],
+    [
+     47.6,
+     78.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 252820,
+   "name": "Bandit Highwayman",
+   "coord": [
+    51.8,
+    76.4
+   ],
+   "coords": [
+    [
+     43.8,
+     74.6
+    ],
+    [
+     44,
+     74.2
+    ],
+    [
+     44.6,
+     74
+    ],
+    [
+     44.8,
+     73.4
+    ],
+    [
+     44.8,
+     74.6
+    ],
+    [
+     45,
+     72.4
+    ],
+    [
+     45,
+     76.2
+    ],
+    [
+     45,
+     77.2
+    ],
+    [
+     45.3,
+     78.9
+    ],
+    [
+     45.4,
+     78.1
+    ],
+    [
+     45.8,
+     73.2
+    ],
+    [
+     45.8,
+     77.4
+    ],
+    [
+     46,
+     77.5
+    ],
+    [
+     47.4,
+     74.9
+    ],
+    [
+     47.4,
+     75.6
+    ],
+    [
+     47.6,
+     74.8
+    ],
+    [
+     47.9,
+     75.7
+    ],
+    [
+     48.2,
+     73.9
+    ],
+    [
+     48.7,
+     73.6
+    ],
+    [
+     49.8,
+     76.8
+    ],
+    [
+     50.6,
+     71.6
+    ],
+    [
+     51,
+     71.2
+    ],
+    [
+     51.2,
+     74.4
+    ],
+    [
+     51.2,
+     74.5
+    ],
+    [
+     51.2,
+     76.4
+    ],
+    [
+     51.5,
+     76.8
+    ],
+    [
+     51.7,
+     75.2
+    ],
+    [
+     51.8,
+     76.4
+    ],
+    [
+     52.2,
+     73.8
+    ],
+    [
+     52.3,
+     73.1
+    ],
+    [
+     52.5,
+     73.2
+    ],
+    [
+     52.5,
+     74
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": -1,
+   "date": "2026-09-23T12:42:57-05:00",
+   "body": "so far, 5 bandits taken out, one mask dropped. Sigh.",
+   "replies": [
+    "This ain't retail.",
+    "this aint fun. ."
+   ]
+  }
+ ]
+}

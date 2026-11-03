@@ -1,0 +1,168 @@
+{
+ "id": 95041,
+ "name": "Data Hoarders",
+ "level": 10,
+ "reqlevel": 7,
+ "side": 1,
+ "zoneId": 1,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 630,
+ "start": {
+  "type": "npc",
+  "id": 11028,
+  "name": "Jemma Quikswitch",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    67.4,
+    43.8
+   ],
+   [
+    67.8,
+    43.4
+   ],
+   [
+    67.8,
+    43.8
+   ],
+   [
+    68,
+    44.6
+   ],
+   [
+    68.6,
+    45
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 11028,
+  "name": "Jemma Quikswitch",
+  "zone": "Ironforge",
+  "zoneId": 1537,
+  "coords": [
+   [
+    67.4,
+    43.8
+   ],
+   [
+    67.8,
+    43.4
+   ],
+   [
+    67.8,
+    43.8
+   ],
+   [
+    68,
+    44.6
+   ],
+   [
+    68.6,
+    45
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Collect 7 Gnomeregan Archival Data cards from around Gnomeregan, then deliver them to Jemma Quikswitch in Ironforge. Gnomeregan Archival Data  ( 7 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 267413,
+   "name": "Gnomeregan Archival Data",
+   "count": 7,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Gnomeregan Archival Data",
+   "count": 7,
+   "type": "item",
+   "id": 267413
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "start",
+   "type": 1,
+   "id": 11028,
+   "name": "Jemma Quikswitch",
+   "coord": [
+    67.8,
+    43.8
+   ],
+   "coords": [
+    [
+     67.4,
+     43.8
+    ],
+    [
+     67.8,
+     43.4
+    ],
+    [
+     67.8,
+     43.8
+    ],
+    [
+     68,
+     44.6
+    ],
+    [
+     68.6,
+     45
+    ]
+   ]
+  },
+  {
+   "zoneId": 1537,
+   "zone": "Ironforge",
+   "point": "end",
+   "type": 1,
+   "id": 11028,
+   "name": "Jemma Quikswitch",
+   "coord": [
+    67.8,
+    43.8
+   ],
+   "coords": [
+    [
+     67.4,
+     43.8
+    ],
+    [
+     67.8,
+     43.4
+    ],
+    [
+     67.8,
+     43.8
+    ],
+    [
+     68,
+     44.6
+    ],
+    [
+     68.6,
+     45
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-20T19:10:30-05:00",
+   "body": "This is a new quest I picked up as an Engineer from Ironforge. Ideally you do it with [quest=412] which starts at the same level and takes place in the same area.\r\n\r\nIn this quest, look for little patches of [b]Snowdrift[/b] on the ground and simply pick them up.",
+   "replies": []
+  }
+ ]
+}

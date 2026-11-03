@@ -1,0 +1,245 @@
+{
+ "id": 92642,
+ "name": "Disrupting Logistics",
+ "level": 11,
+ "reqlevel": 6,
+ "side": 3,
+ "zoneId": 16593,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 440,
+ "start": {
+  "type": "npc",
+  "id": 252378,
+  "name": "Yorana Windyreed",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    69.4,
+    67.2
+   ],
+   [
+    69.6,
+    67
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 252378,
+  "name": "Yorana Windyreed",
+  "zone": "Zephras Isle",
+  "zoneId": 16593,
+  "coords": [
+   [
+    69.4,
+    67.2
+   ],
+   [
+    69.6,
+    67
+   ]
+  ]
+ },
+ "patch": "1.60.1.69893",
+ "objectiveText": "Slay 4 Al'Aketh Healers and 8 Al'Aketh Brawlers in the Gustberry Lowlands.   Al'Aketh Healer slain  ( 4 )   Al'Aketh Brawler slain  ( 8 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 254596,
+   "name": "Al'Aketh Healers",
+   "count": 4,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 270201,
+   "name": "Al'Aketh Brawler",
+   "count": 4,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Al'Aketh Healer slain",
+   "count": 4,
+   "type": "npc",
+   "id": 254596
+  },
+  {
+   "text": "Al'Aketh Brawler slain",
+   "count": 8,
+   "type": "npc",
+   "id": 270201
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "start",
+   "type": 1,
+   "id": 252378,
+   "name": "Yorana Windyreed",
+   "coord": [
+    69.6,
+    67
+   ],
+   "coords": [
+    [
+     69.4,
+     67.2
+    ],
+    [
+     69.6,
+     67
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "end",
+   "type": 1,
+   "id": 252378,
+   "name": "Yorana Windyreed",
+   "coord": [
+    69.6,
+    67
+   ],
+   "coords": [
+    [
+     69.4,
+     67.2
+    ],
+    [
+     69.6,
+     67
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 254596,
+   "name": "Al'Aketh Healer",
+   "coord": [
+    65.4,
+    65.6
+   ],
+   "coords": [
+    [
+     63.7,
+     68.7
+    ],
+    [
+     65,
+     66.7
+    ],
+    [
+     65.3,
+     65.2
+    ],
+    [
+     65.4,
+     65.6
+    ],
+    [
+     65.4,
+     68.4
+    ],
+    [
+     65.4,
+     68.8
+    ],
+    [
+     65.5,
+     65.6
+    ],
+    [
+     65.5,
+     68.1
+    ],
+    [
+     65.5,
+     69.3
+    ],
+    [
+     65.8,
+     64.4
+    ],
+    [
+     65.8,
+     65.4
+    ],
+    [
+     66.1,
+     67.3
+    ],
+    [
+     66.6,
+     68.3
+    ]
+   ]
+  },
+  {
+   "zoneId": 16593,
+   "zone": "Zephras Isle",
+   "point": "requirement",
+   "type": 1,
+   "id": 270201,
+   "name": "Al'Aketh Brawler",
+   "coord": [
+    65.2,
+    66
+   ],
+   "coords": [
+    [
+     64.8,
+     66.5
+    ],
+    [
+     65,
+     67.9
+    ],
+    [
+     65.2,
+     65.3
+    ],
+    [
+     65.2,
+     66
+    ],
+    [
+     65.4,
+     69.6
+    ],
+    [
+     65.5,
+     65.6
+    ],
+    [
+     66.2,
+     67.2
+    ],
+    [
+     66.9,
+     67.7
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-09-21T15:40:19-05:00",
+   "body": "As a level 10 druid, I have no interrupts yet that I know of. I can't stop the healers from healing themselves, so soloing this seems impossible. Maybe I can find a group?",
+   "replies": []
+  }
+ ]
+}

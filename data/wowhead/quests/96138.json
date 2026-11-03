@@ -1,0 +1,513 @@
+{
+ "id": 96138,
+ "name": "Merrick's Bow",
+ "level": 28,
+ "reqlevel": 18,
+ "side": 1,
+ "zoneId": 10,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2300,
+ "start": null,
+ "end": {
+  "type": "npc",
+  "id": 268,
+  "name": "Sirra Von'Indi",
+  "zone": "Duskwood",
+  "zoneId": 10,
+  "coords": [
+   [
+    72.4,
+    47.4
+   ],
+   [
+    72.4,
+    47.6
+   ],
+   [
+    72.6,
+    47.4
+   ],
+   [
+    72.6,
+    47.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.69913",
+ "objectiveText": "Defeat 8 Splint Fist Warriors and 4 Splint Fist Taskmasters then return to Sirra Von'Indi in Darkshire for more information.   Splinter Fist Warrior slain  ( 8 )   Splinter Fist Taskmaster slain  ( 4 ) Merrick's Bow (Provided)  ( 1 )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 268,
+   "name": "Sirra Von'Indi",
+   "count": 1,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 212,
+   "name": "Splinter Fist Warrior",
+   "count": 8,
+   "provided": false
+  },
+  {
+   "type": "npc",
+   "id": 892,
+   "name": "Splinter Fist Taskmaster",
+   "count": 8,
+   "provided": false
+  },
+  {
+   "type": "item",
+   "id": 281142,
+   "name": "Merrick's Bow",
+   "count": 1,
+   "provided": true
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Splinter Fist Warrior slain",
+   "count": 8,
+   "type": "npc",
+   "id": 212
+  },
+  {
+   "text": "Splinter Fist Taskmaster slain",
+   "count": 4,
+   "type": "npc",
+   "id": 892
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "end",
+   "type": 1,
+   "id": 268,
+   "name": "Sirra Von'Indi",
+   "coord": [
+    72.6,
+    47.6
+   ],
+   "coords": [
+    [
+     72.4,
+     47.4
+    ],
+    [
+     72.4,
+     47.6
+    ],
+    [
+     72.6,
+     47.4
+    ],
+    [
+     72.6,
+     47.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "requirement",
+   "type": 1,
+   "id": 212,
+   "name": "Splinter Fist Warrior",
+   "coord": [
+    34.2,
+    77.4
+   ],
+   "coords": [
+    [
+     32.2,
+     74.2
+    ],
+    [
+     32.4,
+     69.2
+    ],
+    [
+     32.6,
+     74.2
+    ],
+    [
+     32.8,
+     74.8
+    ],
+    [
+     33.2,
+     69.4
+    ],
+    [
+     33.2,
+     69.6
+    ],
+    [
+     33.4,
+     76.2
+    ],
+    [
+     34.2,
+     77.4
+    ],
+    [
+     34.4,
+     75.4
+    ],
+    [
+     34.4,
+     75.8
+    ],
+    [
+     34.4,
+     77.6
+    ],
+    [
+     34.6,
+     76.4
+    ],
+    [
+     34.8,
+     75.2
+    ],
+    [
+     35.2,
+     74.4
+    ],
+    [
+     35.2,
+     78.8
+    ],
+    [
+     35.2,
+     80.8
+    ],
+    [
+     35.4,
+     78
+    ],
+    [
+     35.4,
+     79.6
+    ],
+    [
+     35.6,
+     79.6
+    ],
+    [
+     35.8,
+     77.6
+    ],
+    [
+     36.4,
+     77.4
+    ],
+    [
+     36.6,
+     77.4
+    ],
+    [
+     36.6,
+     79.4
+    ],
+    [
+     36.6,
+     79.8
+    ],
+    [
+     36.6,
+     81
+    ],
+    [
+     36.6,
+     84.2
+    ],
+    [
+     36.8,
+     78.2
+    ],
+    [
+     37,
+     82.4
+    ],
+    [
+     37,
+     82.8
+    ],
+    [
+     37.6,
+     79.2
+    ],
+    [
+     37.6,
+     84.2
+    ],
+    [
+     38.2,
+     80.2
+    ]
+   ]
+  },
+  {
+   "zoneId": 10,
+   "zone": "Duskwood",
+   "point": "requirement",
+   "type": 1,
+   "id": 892,
+   "name": "Splinter Fist Taskmaster",
+   "coord": [
+    34,
+    73.8
+   ],
+   "coords": [
+    [
+     33.2,
+     67.8
+    ],
+    [
+     33.2,
+     70.8
+    ],
+    [
+     33.2,
+     74.6
+    ],
+    [
+     33.4,
+     67.4
+    ],
+    [
+     33.4,
+     69.4
+    ],
+    [
+     33.4,
+     69.6
+    ],
+    [
+     33.4,
+     72.4
+    ],
+    [
+     33.4,
+     72.8
+    ],
+    [
+     33.4,
+     74.4
+    ],
+    [
+     33.8,
+     68.2
+    ],
+    [
+     33.8,
+     72.2
+    ],
+    [
+     33.8,
+     73.4
+    ],
+    [
+     34,
+     67.2
+    ],
+    [
+     34,
+     69
+    ],
+    [
+     34,
+     70
+    ],
+    [
+     34,
+     70.6
+    ],
+    [
+     34,
+     73.8
+    ],
+    [
+     34,
+     74.6
+    ],
+    [
+     34.4,
+     75.6
+    ],
+    [
+     34.6,
+     69
+    ],
+    [
+     34.6,
+     73.2
+    ],
+    [
+     34.8,
+     68.4
+    ],
+    [
+     35,
+     70.4
+    ],
+    [
+     35,
+     70.6
+    ],
+    [
+     35,
+     71.8
+    ],
+    [
+     35,
+     74
+    ],
+    [
+     35.4,
+     75.4
+    ],
+    [
+     35.6,
+     75.6
+    ],
+    [
+     36,
+     69.2
+    ],
+    [
+     36.2,
+     70.8
+    ],
+    [
+     36.2,
+     74.2
+    ],
+    [
+     36.2,
+     74.6
+    ],
+    [
+     36.4,
+     70.4
+    ],
+    [
+     36.4,
+     72.2
+    ],
+    [
+     36.4,
+     73
+    ],
+    [
+     36.6,
+     70.6
+    ],
+    [
+     36.6,
+     72.4
+    ],
+    [
+     36.6,
+     72.8
+    ],
+    [
+     36.6,
+     74.6
+    ],
+    [
+     36.8,
+     70.4
+    ],
+    [
+     37,
+     73.6
+    ],
+    [
+     37.6,
+     72.4
+    ],
+    [
+     38.2,
+     74.2
+    ],
+    [
+     39.2,
+     73.4
+    ],
+    [
+     39.2,
+     74.4
+    ],
+    [
+     39.2,
+     76.4
+    ],
+    [
+     39.4,
+     75.4
+    ],
+    [
+     39.6,
+     73.4
+    ],
+    [
+     39.6,
+     74.4
+    ],
+    [
+     39.8,
+     75
+    ],
+    [
+     40.6,
+     74.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 3,
+   "date": "2026-09-26T07:24:42-05:00",
+   "body": "I'll provide my anecdotal source for how I started this quest:\r\n\r\n[ol]\r\n[li]I picked up a [item=280612] from a corpse along the northern edge of the Raven Hill Cemetery, alongside the entrance to the crypt full of ghouls.[/li]\r\n[li]Around midnight (I do not claim that the time was relevant, only providing anecdotal context) I lit the torch and stood just off the road northwest of the crossroads in southern Duskwood, just across the road from where the road branches down into the Vul'Gol Ogre Mound.[/li]\r\n[li]After a few minutes of standing there, a ghost walked into the circle of light cast by my torch. I forget what the ghost was named, he was wearing a wide-brimmed hat. Upon killing the ghost, he dropped [item=281142]. That item started this quest.[/li]\r\n[/ol]",
+   "replies": [
+    "I did not had torch and I saw ghost , killed it and got bow quest."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-09-30T00:39:50-05:00",
+   "body": "Found the ghost called [b]Lost Watcher[/b] wondering around just off the road at 36,63. Killed him, he drops a bow to start the quest.",
+   "replies": [
+    "had the same mob spawn North of Darkshire at 75, 25"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-04T08:23:07-05:00",
+   "body": "Was hoping this would lead to some super weapon, but alas, not.  Not in the Beta anyway.  Just a random quest and some xp",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-09T04:50:30-05:00",
+   "body": "Found from Lost Watcher at 62,65, just at the north of The Rotting Orchard.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2026-10-09T21:42:41-05:00",
+   "body": "Had some trouble finding the [url=https://www.wowhead.com/forever/npc=272273/lost-watcher#map]Lost Watcher[/url]. He apparently tends to spawn in areas where he's quickly killed by passersby, but finally encountered him at [b]36, 63[/b].\r\n\r\nThe quest itself displays a very small area for the [b][url=https://www.wowhead.com/forever/npc=892/splinter-fist-taskmaster#map]taskmasters[/url][/b], but I discovered they spawned outside of the indications on the map [b]all around the compound[/b] [b][u]excluding[/u] the cave[/b]. I also noticed many [b]ogres share spawn points[/b]. The [b][url=https://www.wowhead.com/forever/npc=212/splinter-fist-warrior#map]warriors[/url][/b] are found [b]both inside and outside the cave[/b], but they're not to be found in the eastern half of the mound.",
+   "replies": []
+  }
+ ]
+}

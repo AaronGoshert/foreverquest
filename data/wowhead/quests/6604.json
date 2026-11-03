@@ -1,0 +1,171 @@
+{
+ "id": 6604,
+ "name": "Enraged Wildkin",
+ "level": 59,
+ "reqlevel": 53,
+ "side": 1,
+ "zoneId": 618,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 640,
+ "start": {
+  "type": "npc",
+  "id": 11755,
+  "name": "Harlo Wigglesworth",
+  "zone": "Winterspring",
+  "zoneId": 618,
+  "coords": [
+   [
+    61,
+    38.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 10301,
+  "name": "Jaron Stoneshaper",
+  "zone": "Winterspring",
+  "zoneId": 618,
+  "coords": [
+   [
+    52,
+    30.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30786",
+ "objectiveText": "Speak with Jaron Stoneshaper at Starfall Village.",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 10301,
+   "name": "Jaron Stoneshaper",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 618,
+   "zone": "Winterspring",
+   "point": "start",
+   "type": 1,
+   "id": 11755,
+   "name": "Harlo Wigglesworth",
+   "coord": [
+    61,
+    38.4
+   ],
+   "coords": [
+    [
+     61,
+     38.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 618,
+   "zone": "Winterspring",
+   "point": "end",
+   "type": 1,
+   "id": 10301,
+   "name": "Jaron Stoneshaper",
+   "coord": [
+    52,
+    30.4
+   ],
+   "coords": [
+    [
+     52,
+     30.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 48,
+   "date": "2006-10-24T23:12:55-05:00",
+   "body": "when you get this quest, these are the steps to take!\n\nFirst go to Jaron Stoneshaper in starfal village, at 52,30;\nSecond go to the camp at 59,59 kill some owlbeasts and loot the crate;\nThird go east from there to 60,60 where the wagon is and take the supplies, and go back to kill some more owlbeasts for the amulet (random drop).\n\nAfter this go back to Jaron Stoneshaper and finish quest (I got 6600 xp and 100 IF reputation for it)",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-07-07T11:12:55-05:00",
+   "body": "You guys confused me by posting stuff that isnt even for this particular quest there isnt a soul near 60,60.\n\nEdit: I'll talk about this particular quest since no one else is... the person for this quest can be found at (52,30).",
+   "replies": []
+  },
+  {
+   "rating": 6,
+   "date": "2007-03-19T23:12:55-05:00",
+   "body": "[b]THE WAGON IS AT 61, 61[/b]",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2007-04-25T11:12:55-05:00",
+   "body": "at start u go 59,59 and check the crate on the floor, then you go to the wagon @ 61,60, then u collect stuff",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-01-25T10:38:33-06:00",
+   "body": "Exp reward is: 650exp\n\nThis quest is a prereq for the quest: Enraged Wildkin\n\n [quest=4861] Tue Jan 25 04:43:44 2005",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-25T11:12:55-05:00",
+   "body": "Ok Supplies are right next to wagon.&nbsp; They are very small so check everything around wagon.&nbsp; The Amulet is to the Northeast in Owl Wing Thicket (63,59).&nbsp; I think a random NPC drops the amulet.&nbsp; Good Luck.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-09-18T11:12:55-05:00",
+   "body": "Thank you. Your coordinates and description were helpful and accurate. There is nothing to loot at the wagon at 60,60 [b]until[/b] you go to the camp at 59,59 and loot the damaged crate (next to the fire).",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-03-19T23:12:55-05:00",
+   "body": "I'm sitting here killing a ton of the Wildkin, does anyone know the drop rate of the blue amulet?&nbsp; \n\nOk well finally got the amulet and it dropped off of a Berserk Owlbeast.&nbsp; Hope that helps.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-17T18:53:20-06:00",
+   "body": "I found the wagon there but nothing registered as quest completed. Is there another place I have to find?",
+   "replies": [
+    "Well, apparently you need to find the damaged crate located in the camp in front of the cave west of the wagon."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2006-05-18T19:16:44-05:00",
+   "body": "The help you posted here is for the next part of the quest... good try though.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-09-03T15:50:12-05:00",
+   "body": "Dunno what u all talking about .. the right cord. it's 52 , 30\n\nOk .. i'm out :D \nHope this helps ..",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-12-04T23:31:32-06:00",
+   "body": "The wagon is located at 61,60 in Winterspring.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-16T15:18:51-06:00",
+   "body": "This quest was easy XP. I am a 55 Lock (affliction specced). Location is south of Everlook. Ride south until you hit Owl Wing Thicket on east side of road. The place u g2b is located on the west side of the road (forgot the name ... Dun Marran or something). There is a little camp not far off the road (can't miss it - you'll pass the broken wagon first). You to the camp and locate the broken crates -- you'll finish the first part (there is a 59 berserker(?) you have to kill to get to the crates -- unless you're rogue you might be able to get to it witout a fight). Then the follow up quest redirects you to the broken wagon you passed earlier -- what you need is right next to wagon...can't miss it. \n\nAfter that go to Owl Wing Thicket for the Amulet. I got it after my second kill. \n\nEasy quest for decent XP...should take you no longer than 20 mins to do...\n\n[i][small]Edited, Feb 16th 2007 12:21pm by dvdubb[/small][/i]",
+   "replies": []
+  }
+ ]
+}

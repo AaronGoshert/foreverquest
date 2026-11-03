@@ -1,0 +1,467 @@
+{
+ "id": 212,
+ "name": "A Meal Served Cold",
+ "level": 40,
+ "reqlevel": 35,
+ "side": 1,
+ "zoneId": 1519,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 4700,
+ "start": {
+  "type": "npc",
+  "id": 1141,
+  "name": "Angus Stern",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    41.2,
+    88.4
+   ],
+   [
+    41.2,
+    89.6
+   ],
+   [
+    41.4,
+    89.2
+   ],
+   [
+    51.6,
+    93.4
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 1141,
+  "name": "Angus Stern",
+  "zone": "Stormwind City",
+  "zoneId": 1519,
+  "coords": [
+   [
+    41.2,
+    88.4
+   ],
+   [
+    41.2,
+    89.6
+   ],
+   [
+    41.4,
+    89.2
+   ],
+   [
+    51.6,
+    93.4
+   ]
+  ]
+ },
+ "patch": "1.13.2.30682",
+ "objectiveText": "Kill a Cold Eye Basilisk, get a Chilled Basilisk Haunch , and return it to Angus Stern in the Blue Recluse. <You must not release your spirit to succeed in this quest.> Chilled Basilisk Haunch  ( 1 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 2476,
+   "name": "Chilled Basilisk Haunch",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Chilled Basilisk Haunch",
+   "count": 1,
+   "type": "item",
+   "id": 2476
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "start",
+   "type": 1,
+   "id": 1141,
+   "name": "Angus Stern",
+   "coord": [
+    41.4,
+    89.2
+   ],
+   "coords": [
+    [
+     41.2,
+     88.4
+    ],
+    [
+     41.2,
+     89.6
+    ],
+    [
+     41.4,
+     89.2
+    ],
+    [
+     51.6,
+     93.4
+    ]
+   ]
+  },
+  {
+   "zoneId": 1519,
+   "zone": "Stormwind City",
+   "point": "end",
+   "type": 1,
+   "id": 1141,
+   "name": "Angus Stern",
+   "coord": [
+    41.4,
+    89.2
+   ],
+   "coords": [
+    [
+     41.2,
+     88.4
+    ],
+    [
+     41.2,
+     89.6
+    ],
+    [
+     41.4,
+     89.2
+    ],
+    [
+     51.6,
+     93.4
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": [
+  {
+   "rating": 52,
+   "date": "2006-12-12T19:21:56-06:00",
+   "body": "When you accept the quest, you get a 30 minute timer.  It takes about four minutes to fly the Stormwind to Booty Bay route, and the Cold-Eye Basilisks are along the road and on the west shore in the middle of Stranglethorn.",
+   "replies": [
+    "Got the drop on first kill, and so had 16 minutes on the clock after hearthing back to stormwind. Even had a moment to resurrect a gnome that died in the city for some reason.",
+    "Done this quest as Mage 37. Very easy - set your Hearth in Booty Bay (done it, since BB is a great hub to quickly travel on both continents). Steps: 1. get the quest in SW. 2.hearth to Booty Bay 3. run to 34.40 kill the Basilisk and get the Haunch. 4. as a mage, teleport back to SW. All it takes 5 min."
+   ]
+  },
+  {
+   "rating": 45,
+   "date": "2007-01-04T19:14:22-06:00",
+   "body": "I don't know if it was a recent patch, but it seems the concept of abandoning the quest and handing in the quest item is no longer valid.\n\nI started the quest, ignoring the time, got the meat and returned to Stormwind. After I abandoned the quest, I found the quest item in my inventory missing. I thought I threw it away on accident, so I did the quest again only to find it missing for the second time. So, I'm assuming it has to be done the proper way now. /sad",
+   "replies": [
+    "this is corrrect, a recent patch now deletes quest items if you abandon the quest.",
+    "This is still the case in classic. The meat disappears if the quest is abandoned. :)",
+    "As said below, if you fail the quest, but have the meat ... DO NOT ABANDON! ... go to quest giver and he'll give you the quest again, then turn in meat."
+   ]
+  },
+  {
+   "rating": 18,
+   "date": "2005-10-23T19:14:22-05:00",
+   "body": "Make sure you have your hearthstone up before you try this quest.&nbsp; As a warrior without a mount it took me 15 minutes to go from the quest giver to Booty Bay (BB) and run from the griff trainer in BB to the spot where the mobs spawn.&nbsp;",
+   "replies": []
+  },
+  {
+   "rating": 15,
+   "date": "2006-02-19T16:12:24-06:00",
+   "body": "200 Faction with Stormwind at lvl 40.",
+   "replies": []
+  },
+  {
+   "rating": 12,
+   "date": "2020-03-15T21:14:10-05:00",
+   "body": "So in Classic, the quest item disappear if you abandon the quest. BUT, you can retake the quest if it's failed, without abandoning it, and that way the quest item will still be in the inventory, and you can hand it in.",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2005-10-23T19:14:22-05:00",
+   "body": "this mob is located at 34,40.\ni was lvl 40 and this quest gave me 4700ep :)",
+   "replies": []
+  },
+  {
+   "rating": 10,
+   "date": "2007-03-22T00:59:58-05:00",
+   "body": "As much as I’ve traveled that road in STV I never noticed the cold eye basilisks before.&nbsp; For clarification, they are just [b]north of Gurubashi arena on the road.[/b]\n\nTraveling from booty Bay, just after you exit the arena on the road, you will see a basilisks on the right (wrong kind) and perhaps a tiger on the left. The next critter up the road will be your cold eye basilisks.\nWithout using my recalls I flew from SW to Booty Bay (6.5 minutes), road my mount and returned the same way. Completed the quest in 20 minutes (+ or – a few). 4700 xp at level 40. \nFun little quest.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2005-10-23T19:14:22-05:00",
+   "body": "At level 45, this quest gave me 4700 xp. In addition, the quest gives 1.5g, which makes the 15 or so minutes to do it really worth it. With the cosmos addon, the change in reputation is as follows: Darnassus .007, Gnomeregan .0037, IF .0037, and SW .0096. These are rounded values, and one complete reputation rank is equal to 1 I believe.",
+   "replies": []
+  },
+  {
+   "rating": 9,
+   "date": "2020-06-13T20:00:16-05:00",
+   "body": "If this quest seems not to be available to you, make sure you're not in another timed quest (in my case, the timer was already running for [quest=1119]).",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2005-11-29T07:14:22-06:00",
+   "body": "Just find the Basilisks on the road north of the arena, to the west of the shadowmaws - its easier and faster than going behind the arena through the raptors.",
+   "replies": []
+  },
+  {
+   "rating": 8,
+   "date": "2006-11-29T07:14:22-06:00",
+   "body": "I started the quest and looted the basilisk haunch as described above, then did a couple other quests and let the timer run out.&nbsp; When I returned to the quest-giver and abandoned the quest, intending to re-accept it, the haunch of basilisk vanished too. I had to do the whole thing over again.",
+   "replies": []
+  },
+  {
+   "rating": 7,
+   "date": "2007-01-04T19:14:22-06:00",
+   "body": "It is correct.&nbsp; If you abandon the quest, the item is removed from your inventory.&nbsp; Of course, I didn't try mailing it to another character or anything tricky like that.",
+   "replies": [
+    "quest items are Soulbound, this would not work."
+   ]
+  },
+  {
+   "rating": 5,
+   "date": "2005-10-23T19:14:22-05:00",
+   "body": "Level 40 Paladin.\n\nI bound in SW just in case, but you should have plenty of time to complete this, especially if you have a mount.&nbsp; No spurs, no carrot.\n\nArrived in BB at approximately 24 minutes.\nKilled first Cold Eye Basalisk at 19 minutes.\nDropped on first kill.\nGot back to Booty Bay at approximately 14 minutes\nArrived in SW at 11 minutes.\nCompleted quest with 9 minutes to go.\n\nWas able to visit several vendors in BB as well as check mail.&nbsp; =)",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2006-05-30T19:14:22-05:00",
+   "body": "killed first one at 30, 37 picked it up. :) nice.\n\nThere're more near the coast...otherwise you'll be fighting jungle stalkers.",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-01-04T19:14:22-06:00",
+   "body": "I took the quest, flew to Darkshire. Searched all over the North west for the Cold eye. None to be found. Failed the quest. I was near the Arena and found one. I got the meat and was on my way back to see if I could abandon the quest and start again and just give the meat. When I abandoned the quest, the meat was deleted from my inventory.\nI retook the quest and went back to the same spot that I killed the Cold Eye and killed him again. \nI took the meat, stoned back and turned in the quest for the gold and the great experience. Easy to do and good money and exp. (Watch for stealth panthers)",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2007-02-10T07:14:22-06:00",
+   "body": "I found the drop at 37.40 in STV. Just to be on the safe side... Make your home at SW and fly to BB and then go from there. I did it in 10 minutes from getting the quest :)",
+   "replies": []
+  },
+  {
+   "rating": 5,
+   "date": "2019-10-06T04:29:30-05:00",
+   "body": "Doable without mount, and without HS available. Fly to BB, wack Basilisk north of Gurubashi Arena (mind you, the ones to the west of the road!), get item, walk back to BB, fly back to SW, hand in, and smile at 1G50 more towards your mount :)\r\n\r\nAs a level 36 warrior, I had 7 minutes 54 seconds to spare, got the item on my first kill though. Even if you have a couple more basilisks to kill, it should still be well doable.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2005-10-23T19:14:22-05:00",
+   "body": "I am a lvl 42 mage, i just did the quest on 4 min 16 sec.. very easy, just accept quest, use HS, blink and run all the way out of BB, then mount and run to 34.40, kill one, loot and use teleport to SW and complete quest.",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-01-04T19:14:22-06:00",
+   "body": "just fly to darkshire and reach stv through that road near south center of duskwood",
+   "replies": []
+  },
+  {
+   "rating": 4,
+   "date": "2006-02-10T07:14:22-06:00",
+   "body": "This quest was the easiest and quikest thing i could have done for rewards of this caliber.\nIm a 37 mage and i hearthed to booty bay went to 31,40 were the mob was and ported back to SW\nEasy as strawberrie pie on a sunday",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2007-01-02T14:13:58-06:00",
+   "body": "I'm a lvl 39 hunter. I did it with 18 minutes left. Fly to booty bay. run north. The cold-eye basilisks are on the west side of the road just north of the Gurubashi arena. Then I hearthed back to SW. (I have Aspect of the Cheetah but even without, there is plenty of time.)",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-23T19:14:22-05:00",
+   "body": "This is a very good deal listen carefully:\n\nGo to SW to the mage corner go to the inn. get the quest. \n\nFly to BB just walk slowly to the coast where the basilisk are. kill one untill you get the item (i got mine at first kill) \n\nNow you can die as much times as you want to\n\nJust revive and fly back to SW go to mage corner to the inn and abandon quest. then take the quest again. Worth 4700 XP ! and 1,5 g",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-02-10T22:41:03-06:00",
+   "body": "By the time I found the right basilisk (looking at the Stranglethorn map, they're in the central western shoreline at the curved shoreline on the map), I only had about a minute to kill it and get back.  The time ran out before I killed it.  I was able to get the haunch from the corpse but I failed the mission. \nSooooo, I brought the haunch to Stormwind.  Cancelled and regrabbed the quest and just handed over the haunch I already got.  Quest completed!  :) \nMy hearthstone was set for Booty Bay, so I had no teleport tunnels to worry about.",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2019-09-20T11:33:38-05:00",
+   "body": "Completed a perfect run on my PVP server w/ 17m 15s remaining.  Flew to Booty Bay, ran to the basilisks off the road (thank you, Questie addon!), item dropped from the first mob I killed, hearthed back and turned in.  Obviously I did this around 11:30am local before the kiddy gankers got home from school.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-04-15T19:53:42-05:00",
+   "body": "got this on the 1st drop and got myself 4700xp and 200 SW rep increase!",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-04-26T14:09:47-05:00",
+   "body": "if u happen to die... release spirit... just proceed with the quest.. you'll still be able to get the quest item. return to angus, abandon the quest and take it again..",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-02-25T19:44:30-06:00",
+   "body": "I found out first where the basilisks.  They are just a little north of Gurubashi arena on the left side just off the road. Then before I got the quest I set my hearthstone to Stormwind.  Im a NE hunter so I was using Aspect of the Cheetah. I got the quest then Griffed to BB(its closer)ran to the Basilisks and the first one i killed dropped the haunch.  I stoned back to SW and I turned in the quest.  Time left was 15 m 15 s.\n\nEdited, Fri Feb 25 13:58:16 2005",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-01-22T21:49:27-06:00",
+   "body": "I died 2 times on this quest at level 47 because a ? undead mage on lightninghoof Doofers  who is proabbly a level 60 decided to be a ***** and killed me on my way to the Basilisks and on the way back from killing a Basilisk. If I wasent a nightelf with a carrot on a stick and Mount speed eanted gloves I would have never been bale to do this quest.",
+   "replies": [
+    "This is an easy quest despite what the game throws at you. As lvl 40 hunter, set hearthstone to SW. Took gryph to BB, found the basilisks on left side of the road just north of the arena and past deadman's curve. Lost my connection twice during this quest and had bad lag and still made it back to the Blue Recluse with 8 minutes. What a riot!"
+   ]
+  },
+  {
+   "rating": 2,
+   "date": "2005-04-29T18:02:10-05:00",
+   "body": "This quest is great for a mage like me, since I can just use the teleportation rune to go back to the Mages in Stormwind quickly, then off to the Inn which is close by.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-09-11T09:07:28-05:00",
+   "body": "I just finished this quest at lvl 39 with no mount, no hearthstoning to SW, and with five minutes left on the timer.  I was fairly surprised that I was able to finish it as most of the time STV is a big Horde gank fest on Bonechewer.  If you were 40+ with your mount and your hearthstone set to SW then this quest would be much too easy to pass up.",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2006-07-23T11:24:10-05:00",
+   "body": "Did it with 19 mins to go",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-10-06T12:30:59-05:00",
+   "body": "Great quest...easy as a 47 mage.  Get on your chicken, get to the birds, fly to BB, get on your chicken, go north of the GA and they are just after you make the deadman's curve right there on the hill.  Had 19 min to spare what with a port back to SW :)  Not bad for 2800xp and 1.5 gold :)\n\nEdited, Thu Oct  6 08:47:05 2005",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-08-29T01:26:54-05:00",
+   "body": "Gryph to BB POP just N of Arena to the left afer Panthermaws. Make Stormwind your Inn first of all.\nKill the darn thing had 10 mins to spare at LV 41 druid.\nEasiest G I ever made. LOL",
+   "replies": []
+  },
+  {
+   "rating": 2,
+   "date": "2005-01-21T09:13:22-06:00",
+   "body": "One of the rules to this quest is that you can't release your spirit.\n\nAfter I killed the basilisk, I used my hearthstone to get to Ironforge, and hopped on the tram to go to Stormwind. Unfortunately, the quest failed as soon as I went through the tram portal.\n\nPerhaps it's because you get a loading screen that the quest thinks you're releasing your spirit? Whatever the case may be, I'd suggest setting your hearthstone to Stormwind when doing this one.\n\nEdited, Fri Jan 21 03:14:52 2005",
+   "replies": [
+    "you get a loading screen from Hearthstone....",
+    "Not when you're on the same continent.",
+    "Yes you do, you get a loading screen from your heartstone if you use it on the same continent."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-28T18:28:41-06:00",
+   "body": "Coordinates are (36,41).  Right next to the road.\n\nAlso the text about \"must not release your spirit\" appears to be misleading.  I got ganked by a horde along the road, clicked the \"release spirit\" button to go to the graveyard, and ran back.  Figured the quest was Failed, but it didn't show as failed and the timer was still running.\n\nSo I finished it anyway (killed the basalisk and teleported back to SW).  Was going to re-Accept the quest but instead he said thanks and it was Completed!",
+   "replies": [
+    "I suspect that you can't die AFTER looting the haunch, as otherwise you could use it to exploit a faster route home.\n\nDid this with 6 minutes to spare, including stopping off for some mining along the way. Had a mount with no speed increases, and foolishly headed for the northern-most collection of basilisks which aren't the right ones - THAT part of the text is definitely misleading!\n\n4700xp, 500rep with SW, 1G50 - excellent quest for the level!"
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-01-03T19:44:47-06:00",
+   "body": "Certainly for a mage.  But, really any class, just set your hearth in SW.  Head to the area, kill a couple (just needed one kill here), and hearth/port back.   BTW, I found flying into Westfall was pretty quick.   Had over 20 mins left on timer, and that included queing for AV along the way :))\n\nAt level 60:\n\n+500 rep SW\n1g 78s\n\nGood stuff\n\n[i][small]Edited, Jan  3rd 2007  4:43pm by Imake[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-31T06:02:40-06:00",
+   "body": "very easy , 4700 exp and +200 with sw  \ngood reward\n(done with my lvl 38 mage)",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-10T23:25:47-06:00",
+   "body": "Very simple, Did it with 43 priest. made Stormwind City Inn my home, flew to Booty Bay. Walked(or if your like my Mounted) to 27,43 then I hearthed out after I killed it. with 15 mins left. While I messed around for the first 5 mins.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-30T17:50:24-06:00",
+   "body": "43 Mage, finished in less than 8 minutes. I had Hearth in BB, ran to basalisk, kill, teleport to mage tower, done.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-10-21T02:46:53-05:00",
+   "body": "Did this in 15 min with a mounted 40 pally and SW hearthstone, using info in thread:  fly to BB, run just north of Gurubashi Arena then off path to left the Cold Eye Bassies are 39-40 and drop the haunch right away, then hearth out.  The rewards were rich, as described.\n\nHorde gankers are always a risk in SV, so be prepared.  I passed several mounted and unmounted Horde, but my mount is a fast warhorse and nobody bothered me this time.  Lots of traffic on the road, as it was a weekend.\n\n[i][small]Edited, Oct 20th  2006 at 10:49pm PDT by Bretwalda[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-19T15:19:25-05:00",
+   "body": "Did this in a group of three level 35 Paladins. You must each accept the quest individually, it does not start as a group like escort quests do, however the quest item is group loot so you'll only have to find and kill one Cold Eye Basilisk. Also, there is more than one type of basilisk in the area so don't waste time killing the wrong ones.\n\nIt took about 1:45 to run from the Blue Recluse to the flight master in Stormwind.\nIt took about 4:15, or 6 total minutes from when I started the timer until I landed in Booty Bay.\nIt took about 4:00, or about 10 total minutes from starting the timer to run to the Gurubashi Arena area (they spawn immediately North, North West and North East of the arena).\n\nWe were able to kill a level 40 Cold Eye Basilisk then hearth back and do the turn-in before 15 of the 30 minutes had run off.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2019-09-21T21:01:34-05:00",
+   "body": "Took me 11 minutes with 60% mount (Warlock lvl 40, had to summon Voidwalker, that's an extra 10 seconds).\n\nRemember that you can not die and resurrect at the Spirit Healer!\nIf you die the meat is reported to be lost, so that's not a viable option!\nDo not mount before you get to the tunnel, you will be dismounted when you ride on wood-floor!\n\nBind your hearthstone in Stormwind.\nGet the quest\n[ol]\n[li]Ride to the Flight master 1:10[/li]\n[li]Take flight to Booty Bay 4:10[/li]\n[li]Ride to 39/41 3:35[/li]\n[li]Kill the Cold Eye Basilisk (there are Stranglethorn Tigress' in the same area) ~0:30[/li]\n[li]Hearth to Stormwind 0:10[/li]\n[li]Run back to the quest giver 0:50[/li]\n[/ol]\n\n[ul]\n[li]Experience 4700.[/li]\n[li]Stormwind reputation 200.[/li]\n[li]Awarded 1 gold 50 silver.[/li]\n[/ul]",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2020-03-05T15:46:45-06:00",
+   "body": "Friendly reminder, you can die during this quest if you get ressed before your auto release timer is up.",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2021-02-18T10:01:30-06:00",
+   "body": "2021\n\n[url=https://www.wowhead.com/forever/npc=690/cold-eye-basilisk]Basilisk is here   [/url]\n\nMid coastal zone, north of the arena.\n\nLevel 41 with mount, took 11 minutes.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2007-01-23T07:13:00-06:00",
+   "body": "Hehe, level 37 Druid, no mount, hs set at stormwind. I had 18 minutes and 34 secs remaining, such a diddle.",
+   "replies": [
+    "Mage can do this very fast, I finished this for less then 6 min (24' 14'' - monkey dismount me) I think that this can be done in 5 min."
+   ]
+  },
+  {
+   "rating": 0,
+   "date": "2007-03-17T07:36:52-05:00",
+   "body": "I just changed my hearth stone to take me to Stormwind City before flying to Booty Bay, Plenty of time to spare, as a Night Elf Hunter with Aspect of the Cheetah/Pack, running took only a couple of minutes. Then just used hearth stone back to Stormwind and to the Mage Quarter I went! easiest gold I ever got!! Are there more like this?? :)",
+   "replies": []
+  },
+  {
+   "rating": -1,
+   "date": "2020-04-09T10:50:48-05:00",
+   "body": "Plenty of time to finish this quest.. :)",
+   "replies": [
+    "Especially as a lvl 37 Mage. Took quest, HS to BB, run and blink to basilisks, kill, teleport to SW, hand in. Made it with 23min 40s to spare."
+   ]
+  },
+  {
+   "rating": -2,
+   "date": "2005-10-17T20:30:40-05:00",
+   "body": "That was the easiest 1.5g I've ever made. And I got 4700xp (I died, so I had to abandon after I got the Haunch, and I restarted it right away, then turned it in and recieved 4.7k! Sweet.).",
+   "replies": []
+  },
+  {
+   "rating": -2,
+   "date": "2006-07-13T19:29:23-05:00",
+   "body": "Lets not fight ... lets get loaded.\n\nI killed cold eye basilisks until the timer ran out had to go again.  I was 46 warrior.\n\n[i][small]Edited, Jul 13th  2006 at  3:30pm EDT by fourh[/small][/i]",
+   "replies": []
+  },
+  {
+   "rating": -5,
+   "date": "2005-02-24T17:37:55-06:00",
+   "body": "as a 41 rogue I went from angus to the gryphon master to darkshrie, then right to where teh coldeye baslisks were.  I went all the way back to darkshre, too the gryphon and went to angus. \nI had exactly 7min 1sec left sprinting as fast often as I could. \nIf I had to do it over again I would hve gone to BB because its a might bit closer",
+   "replies": []
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "id": 7863,
+ "name": "Sentinel Basic Care Package",
+ "level": 34,
+ "reqlevel": 25,
+ "side": 1,
+ "zoneId": 331,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 270,
+ "start": {
+  "type": "npc",
+  "id": 14753,
+  "name": "Illiyana Moonblaze",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    61.4,
+    83.8
+   ],
+   [
+    61.6,
+    83.8
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 14753,
+  "name": "Illiyana Moonblaze",
+  "zone": "Ashenvale",
+  "zoneId": 331,
+  "coords": [
+   [
+    61.4,
+    83.8
+   ],
+   [
+    61.6,
+    83.8
+   ]
+  ]
+ },
+ "patch": "1.13.3.32790",
+ "objectiveText": "Completion You've certainly begun to prove yourself to us, <name>.  As a reward, please take this care package!  Inside it you'll find rations and bandages that are usable only inside Warsong Gulch. As you continue to prove yourself inside the Gulch, you'll find that these items will become available to you for purchase.  Rations become available when you are Friendly with us, and bandages when you are Honored.",
+ "objectives": [],
+ "objectiveRows": [],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "start",
+   "type": 1,
+   "id": 14753,
+   "name": "Illiyana Moonblaze",
+   "coord": [
+    61.4,
+    83.8
+   ],
+   "coords": [
+    [
+     61.4,
+     83.8
+    ],
+    [
+     61.6,
+     83.8
+    ]
+   ]
+  },
+  {
+   "zoneId": 331,
+   "zone": "Ashenvale",
+   "point": "end",
+   "type": 1,
+   "id": 14753,
+   "name": "Illiyana Moonblaze",
+   "coord": [
+    61.4,
+    83.8
+   ],
+   "coords": [
+    [
+     61.4,
+     83.8
+    ],
+    [
+     61.6,
+     83.8
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2005-07-10T14:47:31-05:00",
+   "body": "Its says level 34 but I got it at level 30. Its a care package you get after you start BG and get to friendly with the Sentinals,",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-02-22T03:31:23-06:00",
+   "body": "do you get xp from this?  my guy is a twink, and 2 more bubbles, i'll lvl lol so if i get xp i'm not gonna bother completing this quest",
+   "replies": [
+    "I did this at 29, 270 XP."
+   ]
+  },
+  {
+   "rating": 1,
+   "date": "2007-04-17T17:13:11-05:00",
+   "body": "I did this at 29, got 270 xp.",
+   "replies": []
+  },
+  {
+   "rating": 0,
+   "date": "2005-06-14T12:31:07-05:00",
+   "body": "What exactly is this?",
+   "replies": []
+  }
+ ]
+}

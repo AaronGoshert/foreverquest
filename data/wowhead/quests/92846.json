@@ -1,0 +1,283 @@
+{
+ "id": 92846,
+ "name": "Outcast Necromancers",
+ "level": 40,
+ "reqlevel": 35,
+ "side": 1,
+ "zoneId": 16651,
+ "reqclass": 0,
+ "status": "new",
+ "xp": 2350,
+ "start": {
+  "type": "npc",
+  "id": 253136,
+  "name": "Orgrul",
+  "zone": "Shen'dralas",
+  "zoneId": 16651,
+  "coords": [
+   [
+    35.6,
+    12
+   ],
+   [
+    35.8,
+    13
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 253136,
+  "name": "Orgrul",
+  "zone": "Shen'dralas",
+  "zoneId": 16651,
+  "coords": [
+   [
+    35.6,
+    12
+   ],
+   [
+    35.8,
+    13
+   ]
+  ]
+ },
+ "patch": "1.60.1.70205",
+ "objectiveText": "Maintain your reputation with the Magram, and slay Outcast Necromancers within the Valley of Bones.   Outcast Necromancer slain  ( 6 )   Magram Clan Centaur  ( Honored )",
+ "objectives": [
+  {
+   "type": "npc",
+   "id": 11559,
+   "name": "Outcast Necromancers",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Outcast Necromancer slain",
+   "count": 6,
+   "type": "npc",
+   "id": 11559
+  }
+ ],
+ "series": [
+  1385,
+  1386,
+  1369,
+  92743,
+  92841,
+  92846,
+  92847,
+  92873,
+  92894,
+  93066,
+  93072,
+  93188,
+  93196
+ ],
+ "points": [
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "start",
+   "type": 1,
+   "id": 253136,
+   "name": "Orgrul",
+   "coord": [
+    35.6,
+    12
+   ],
+   "coords": [
+    [
+     35.6,
+     12
+    ],
+    [
+     35.8,
+     13
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "end",
+   "type": 1,
+   "id": 253136,
+   "name": "Orgrul",
+   "coord": [
+    35.6,
+    12
+   ],
+   "coords": [
+    [
+     35.6,
+     12
+    ],
+    [
+     35.8,
+     13
+    ]
+   ]
+  },
+  {
+   "zoneId": 16651,
+   "zone": "Shen'dralas",
+   "point": "requirement",
+   "type": 1,
+   "id": 11559,
+   "name": "Outcast Necromancer",
+   "coord": [
+    34.2,
+    16.5
+   ],
+   "coords": [
+    [
+     22.6,
+     26.2
+    ],
+    [
+     22.8,
+     27.4
+    ],
+    [
+     22.8,
+     27.8
+    ],
+    [
+     24,
+     25.8
+    ],
+    [
+     25.4,
+     26.6
+    ],
+    [
+     25.6,
+     26.4
+    ],
+    [
+     27,
+     27.4
+    ],
+    [
+     28.6,
+     27.2
+    ],
+    [
+     29.6,
+     29.4
+    ],
+    [
+     34.2,
+     16.5
+    ]
+   ]
+  },
+  {
+   "zoneId": 405,
+   "zone": "Desolace",
+   "point": "requirement",
+   "type": 1,
+   "id": 11559,
+   "name": "Outcast Necromancer",
+   "coord": [
+    63.8,
+    90.4
+   ],
+   "coords": [
+    [
+     59.2,
+     89.4
+    ],
+    [
+     59.4,
+     89.6
+    ],
+    [
+     60,
+     90
+    ],
+    [
+     60.8,
+     90.4
+    ],
+    [
+     61,
+     90.6
+    ],
+    [
+     62.4,
+     91.2
+    ],
+    [
+     62.6,
+     91.2
+    ],
+    [
+     63.4,
+     89.4
+    ],
+    [
+     63.4,
+     89.6
+    ],
+    [
+     63.6,
+     89.2
+    ],
+    [
+     63.8,
+     90.4
+    ],
+    [
+     63.8,
+     90.6
+    ],
+    [
+     64.4,
+     92
+    ],
+    [
+     64.6,
+     91.8
+    ],
+    [
+     64.8,
+     84.2
+    ],
+    [
+     64.8,
+     89.4
+    ],
+    [
+     64.8,
+     89.8
+    ],
+    [
+     64.8,
+     91
+    ],
+    [
+     65,
+     85.4
+    ],
+    [
+     65,
+     87.6
+    ],
+    [
+     65.2,
+     86
+    ],
+    [
+     65.2,
+     86.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 1,
+ "comments": []
+}

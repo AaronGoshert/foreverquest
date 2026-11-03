@@ -1,0 +1,285 @@
+{
+ "id": 916,
+ "name": "Webwood Venom",
+ "level": 4,
+ "reqlevel": 3,
+ "side": 1,
+ "zoneId": 141,
+ "reqclass": 0,
+ "status": "unchanged",
+ "xp": 355,
+ "start": {
+  "type": "npc",
+  "id": 2082,
+  "name": "Gilshalan Windwalker",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    57.8,
+    41.6
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 2082,
+  "name": "Gilshalan Windwalker",
+  "zone": "Teldrassil",
+  "zoneId": 141,
+  "coords": [
+   [
+    57.8,
+    41.6
+   ]
+  ]
+ },
+ "patch": "1.13.2.30406",
+ "objectiveText": "Bring 10 Webwood Venom Sacs to Gilshalan Windwalker at Aldrassil. Webwood Venom Sac  ( 10 )",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 5166,
+   "name": "Webwood Venom Sacs",
+   "count": 10,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Webwood Venom Sac",
+   "count": 10,
+   "type": "item",
+   "id": 5166
+  }
+ ],
+ "series": [
+  916,
+  917
+ ],
+ "points": [
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "start",
+   "type": 1,
+   "id": 2082,
+   "name": "Gilshalan Windwalker",
+   "coord": [
+    57.8,
+    41.6
+   ],
+   "coords": [
+    [
+     57.8,
+     41.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "end",
+   "type": 1,
+   "id": 2082,
+   "name": "Gilshalan Windwalker",
+   "coord": [
+    57.8,
+    41.6
+   ],
+   "coords": [
+    [
+     57.8,
+     41.6
+    ]
+   ]
+  },
+  {
+   "zoneId": 141,
+   "zone": "Teldrassil",
+   "point": "sourcerequirement",
+   "type": 1,
+   "id": 1986,
+   "name": "Webwood Spider",
+   "coord": [
+    56.6,
+    31
+   ],
+   "coords": [
+    [
+     55.4,
+     28
+    ],
+    [
+     55.4,
+     32.8
+    ],
+    [
+     55.6,
+     27.8
+    ],
+    [
+     56,
+     29
+    ],
+    [
+     56.2,
+     24.8
+    ],
+    [
+     56.2,
+     26.4
+    ],
+    [
+     56.4,
+     26.6
+    ],
+    [
+     56.4,
+     30.2
+    ],
+    [
+     56.4,
+     30.6
+    ],
+    [
+     56.4,
+     32.2
+    ],
+    [
+     56.4,
+     33.2
+    ],
+    [
+     56.4,
+     34.4
+    ],
+    [
+     56.4,
+     34.6
+    ],
+    [
+     56.6,
+     25.4
+    ],
+    [
+     56.6,
+     25.6
+    ],
+    [
+     56.6,
+     29.6
+    ],
+    [
+     56.6,
+     31
+    ],
+    [
+     56.6,
+     32.6
+    ],
+    [
+     56.6,
+     33.6
+    ],
+    [
+     56.6,
+     34.6
+    ],
+    [
+     56.8,
+     27.4
+    ],
+    [
+     56.8,
+     28.4
+    ],
+    [
+     56.8,
+     29.2
+    ],
+    [
+     56.8,
+     31.6
+    ],
+    [
+     57.6,
+     27.8
+    ],
+    [
+     57.6,
+     29
+    ],
+    [
+     57.6,
+     32.4
+    ],
+    [
+     57.6,
+     32.6
+    ],
+    [
+     57.6,
+     34
+    ],
+    [
+     57.8,
+     26
+    ],
+    [
+     57.8,
+     26.6
+    ],
+    [
+     58.6,
+     33
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 5,
+   "date": "2006-04-06T06:45:09-05:00",
+   "body": "n e one know the coordinates?\n\nEdit: NVM it's 57,31 right infront of the cave that shows up on the map when u hit M",
+   "replies": []
+  },
+  {
+   "rating": 3,
+   "date": "2005-10-12T05:09:16-05:00",
+   "body": "The thistlewood axe has been removed from the reward list. I think it's because it's not a very popular option",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-11-11T06:45:09-06:00",
+   "body": "the cave is at the north and we search these eggs at the cave these&nbsp; white thinks and we don't search IN the spiders is like a chest",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-06-01T03:29:41-05:00",
+   "body": "360",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2005-05-05T12:21:25-05:00",
+   "body": "Where is the Webwood Venom Sacs ?",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2006-11-20T12:02:02-06:00",
+   "body": "57,34",
+   "replies": []
+  },
+  {
+   "rating": 1,
+   "date": "2007-05-13T17:21:44-05:00",
+   "body": "Webwood Venom Sac падает с Webwood Spider ( loc. 57,32)",
+   "replies": []
+  }
+ ]
+}

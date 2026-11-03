@@ -1,0 +1,136 @@
+{
+ "id": 96784,
+ "name": "Master of Disguise",
+ "level": 34,
+ "reqlevel": 24,
+ "side": 3,
+ "zoneId": -162,
+ "reqclass": 8,
+ "status": "new",
+ "xp": 2700,
+ "start": {
+  "type": "object",
+  "id": 656157,
+  "name": "Syndicate Footlocker",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    32.2,
+    26.4
+   ],
+   [
+    32.4,
+    26.7
+   ],
+   [
+    32.5,
+    26.4
+   ],
+   [
+    32.5,
+    26.7
+   ]
+  ]
+ },
+ "end": {
+  "type": "npc",
+  "id": 266847,
+  "name": "Anastasia Miller",
+  "zone": "Arathi Highlands",
+  "zoneId": 45,
+  "coords": [
+   [
+    26.8,
+    64.4
+   ],
+   [
+    26.8,
+    64.6
+   ]
+  ]
+ },
+ "patch": "1.60.1.70170",
+ "objectiveText": "While disguised as a member of the Syndicate, find someone inside Stromgarde Keep who knows about the secret deal.",
+ "objectives": [
+  {
+   "type": "item",
+   "id": 275706,
+   "name": "Syndicate Uniform",
+   "count": 1,
+   "provided": false
+  }
+ ],
+ "objectiveRows": [
+  {
+   "text": "Syndicate Uniform",
+   "count": 1,
+   "type": "item",
+   "id": 275706
+  }
+ ],
+ "series": [],
+ "points": [
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "start",
+   "type": 2,
+   "id": 656157,
+   "name": "Syndicate Footlocker",
+   "coord": [
+    32.4,
+    26.7
+   ],
+   "coords": [
+    [
+     32.2,
+     26.4
+    ],
+    [
+     32.4,
+     26.7
+    ],
+    [
+     32.5,
+     26.4
+    ],
+    [
+     32.5,
+     26.7
+    ]
+   ]
+  },
+  {
+   "zoneId": 45,
+   "zone": "Arathi Highlands",
+   "point": "end",
+   "type": 1,
+   "id": 266847,
+   "name": "Anastasia Miller",
+   "coord": [
+    26.8,
+    64.4
+   ],
+   "coords": [
+    [
+     26.8,
+     64.4
+    ],
+    [
+     26.8,
+     64.6
+    ]
+   ]
+  }
+ ],
+ "missingPoints": 0,
+ "comments": [
+  {
+   "rating": 1,
+   "date": "2026-10-05T10:32:33-05:00",
+   "body": "Anastasia Miller is located outside of the castle on a ledge at 26.8, 64.4. Parkoured up to her buy jumping of the house next to the ledge.",
+   "replies": []
+  }
+ ]
+}
